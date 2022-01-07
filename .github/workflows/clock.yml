@@ -1,4 +1,4 @@
-name: Clock
+name: Scraper
 on:
   schedule:
     - cron: '*/5 * * * *'
@@ -10,8 +10,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: pull kek data
         run: |
-          curl https://medienvielfaltsmonitor.de/api/v1/media/ > docs/data/media.json
-          curl https://medienvielfaltsmonitor.de/api/v1/shareholders/ > docs/data/shareholders.json
+          curl "https://medienvielfaltsmonitor.de/api/v1/media/" -H "Accept: application/json" -H "User-Agent: github.com/defgsus/kek-online-archive" | jq > docs/data/media.json
+          curl "https://medienvielfaltsmonitor.de/api/v1/shareholders/" -H "Accept: application/json" -H "User-Agent: github.com/defgsus/kek-online-archive" | jq > docs/data/shareholders.json
       - name: git config user
         run: |
           curl -s -u ${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }} https://api.github.com/users/${GITHUB_ACTOR} > ${GITHUB_ACTOR}.json
@@ -20,7 +20,7 @@ jobs:
       - name: commit changes
         run: |
           git add docs/data
-          git commit -m `date -Iseconds` || true
+          git commit -m"commit changes `date -Iseconds`" || true
       - name: push changes
         run: |
           git push
