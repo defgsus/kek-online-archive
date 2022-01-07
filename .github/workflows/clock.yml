@@ -1,17 +1,19 @@
 name: Scraper
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   main:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
       - name: pull kek data
         run: |
-          curl "https://medienvielfaltsmonitor.de/api/v1/media/" -H "Accept: application/json" -H "User-Agent: github.com/defgsus/kek-online-archive" | jq > docs/data/media.json
-          curl "https://medienvielfaltsmonitor.de/api/v1/shareholders/" -H "Accept: application/json" -H "User-Agent: github.com/defgsus/kek-online-archive" | jq > docs/data/shareholders.json
+          python src/kek.py
       - name: git config user
         run: |
           curl -s -u ${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }} https://api.github.com/users/${GITHUB_ACTOR} > ${GITHUB_ACTOR}.json
