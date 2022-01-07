@@ -1,0 +1,27 @@
+{
+  "name": "P7S1 Erste SBS Holding GmbH/P7S1 Zweite SBS Holding GmbH",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-8e99-4203-80a6-1f1e7d6c24d6",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "P7S1 Broadcasting S.à.r.l.",
+        "squuid": "5be1a6b6-246f-4799-a7df-9b6afa70fce3"
+      },
+      "squuid": "5be1a6b7-413a-4517-a12a-399e7e44c390",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

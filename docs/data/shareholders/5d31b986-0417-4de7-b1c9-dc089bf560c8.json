@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "Göppingen",
+  "pseudoCompany": false,
+  "street": "Esslingerstraße",
+  "name": "Filstalwelle TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5d31b986-0417-4de7-b1c9-dc089bf560c8",
+  "controlDate": "2021-12-07T13:50:28.678Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "73037",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "filstalwelle ",
+        "squuid": "5d31b8fc-f8f1-4b71-aefb-8e6f58a0e13f"
+      },
+      "squuid": "5d31b9a2-2c91-4814-9bee-fa8364d5f016",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.filstalwelle.de",
+        "squuid": "5f7c4b3c-f0e8-4f34-898d-622672288e09"
+      },
+      "squuid": "5f7c4b9b-5baf-44b4-95df-c27b92b17b06",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 88.0,
+      "holder": {
+        "name": "Kortus, Roger Andreas",
+        "squuid": "5d357bdf-91ce-46e3-82f2-2e82f847e34c"
+      },
+      "squuid": "5d357bff-c957-4762-ab46-fa056119c91e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.0,
+      "holder": {
+        "name": "Veit, Sabine Susanne",
+        "squuid": "5d357bed-3541-4721-99f5-900087047c5f"
+      },
+      "squuid": "5d357c08-f0b0-459c-915e-85c99b6647a3",
+      "state": "active"
+    }
+  ]
+}

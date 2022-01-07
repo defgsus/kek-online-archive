@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Wilhelm-Hale-Straße ",
+  "name": "frei & fein Verlag  Alexandra Herr und Christian Herr GbR",
+  "naturalPerson": false,
+  "squuid": "5be99465-504f-4adf-87e3-35c23fb97e19",
+  "controlDate": "2021-10-21T13:03:46.115Z",
+  "streetNumber": "50",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80639",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gluten free",
+        "squuid": "5be993d5-64e0-49dd-a324-5c7e66c9b2ae"
+      },
+      "squuid": "5be99487-f927-46d6-8719-d2d421b82760",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Herr, Alexandra",
+        "squuid": "5be9950f-2362-402d-adb2-63efe5ef96a2"
+      },
+      "squuid": "5be99544-cace-4de0-b95c-61b146747fcf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Herr, Christian",
+        "squuid": "5be99528-044e-4a09-a843-dd6719ea01d6"
+      },
+      "squuid": "5be99553-b4ec-4edb-bb11-bf979ffc198f",
+      "state": "active"
+    }
+  ]
+}

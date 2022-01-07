@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "squuid": "5f15a055-a525-405e-a63f-57be6bd2e176",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5f15a092-1304-45a1-a5f2-014aca2c27db",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Betriebsgesellschaft Radio Ennepe-Ruhr-Kreis mbH & Co. KG",
+        "squuid": "5be1a6b6-6217-4bfd-a31c-59f9a4f17c82"
+      },
+      "squuid": "5f15a0a2-016e-4730-95f7-a4012e46f30e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "radio NRW GmbH",
+        "squuid": "5be1a6b6-4e8f-44fd-b055-21d0337b962b"
+      },
+      "squuid": "61c20f33-cc49-4c03-9cc1-d0c878154d55",
+      "state": "active"
+    }
+  ],
+  "name": "www.radioenneperuhr.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-21T17:30:32.870Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Bahnhofstraße",
+  "name": "Radio Fantasy GmbH",
+  "naturalPerson": false,
+  "squuid": "5ce6b8e4-e971-4d1d-91fc-441cf0028a58",
+  "controlDate": "2021-12-07T11:19:23.961Z",
+  "streetNumber": "29",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86150",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Fantasy Lounge",
+        "squuid": "5c76b6cf-89d9-40a7-b59f-2f66d6685952"
+      },
+      "squuid": "5ce6b8ff-2a43-48b5-9208-287d9253d893",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Fantasy ",
+        "squuid": "5be1a6b1-875c-482e-8295-89fc69379644"
+      },
+      "squuid": "5ce6b99e-afef-4def-98ee-c78f8fa6e1e9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Fantasy Classix",
+        "squuid": "5c76b77b-2443-4cbb-a6e8-17dadbf11b0f"
+      },
+      "squuid": "5ce6b9d4-6d84-4c42-9e9a-275b6c5b778f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fantasy.de",
+        "squuid": "5f92b583-4e77-441b-a559-5549a4a30798"
+      },
+      "squuid": "5f92b6b5-5b9d-4895-926b-49ed6409eafd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Peter Valentino Medien GmbH",
+        "squuid": "5be1a6b6-cf54-4147-94f0-03a023d0fe47"
+      },
+      "squuid": "5ce6b91b-67d3-41c1-85cd-5986d12ba190",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5ce6b929-d83c-4f49-8b10-f09458e53fdd",
+      "state": "active"
+    }
+  ]
+}

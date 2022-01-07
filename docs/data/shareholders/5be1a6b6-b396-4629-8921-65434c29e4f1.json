@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Tübingen",
+  "pseudoCompany": false,
+  "street": "Wilhelmstraße",
+  "name": "Universitätsradio Tübingen",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b396-4629-8921-65434c29e4f1",
+  "streetNumber": "50",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "72074",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "UniWelle",
+        "squuid": "5be1a6b1-814a-4326-a893-80523934078f"
+      },
+      "squuid": "5be1a6b9-e7d0-4b36-bc98-db9e78d86f88",
+      "state": "active"
+    }
+  ],
+  "credits": "Website der LFK, Abruf am 16.02.2011"
+}

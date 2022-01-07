@@ -1,0 +1,107 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.3,
+      "held": {
+        "name": "Sonntag Aktuell GmbH",
+        "squuid": "5be1a6b6-a02a-4877-bcb9-9894be7baf66"
+      },
+      "squuid": "5be1a6b8-4364-40e7-a432-7d0e7035b9d8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Stuttgarter Presse Funk GmbH",
+        "squuid": "5c98ed33-3de6-4a1d-b2fa-4f2782148a39"
+      },
+      "squuid": "5ef21b11-4219-42ea-af3f-fec67edebf17",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leonberg",
+  "pseudoCompany": false,
+  "street": "Stuttgarter Str. 7",
+  "name": "Zeitungsverlag Leonberg GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d5b1-41bb-b4f0-34d180db4b29",
+  "controlDate": "2021-07-09T11:41:30.620Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "71229",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Leonberger Kreiszeitung",
+        "squuid": "5be1a6b1-ab8c-4ba9-a15b-f62a9889a905"
+      },
+      "squuid": "5be1a6b9-66d5-4b47-beae-67fd226e919e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.leonberger-kreiszeitung.de",
+        "squuid": "5be1a6b1-af40-4f50-9e87-1ef47f6fe121"
+      },
+      "squuid": "5be1a6b9-4b47-4daa-93fb-fc4672374344",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.99,
+      "holder": {
+        "name": "Stuttgarter Zeitung Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-ef3b-43ce-979a-eddf7669f94f"
+      },
+      "squuid": "5be1a6b8-6c22-4206-bc71-d53862009e13",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.01,
+      "holder": {
+        "name": "Beteiligungsgesellschaft Post Stuttgart Verwaltungs GmbH",
+        "squuid": "5be1a6b6-439a-476d-8286-bf6c1622100d"
+      },
+      "squuid": "5be1a6b8-8981-4e45-b08d-10ea8c820c0c",
+      "state": "active"
+    }
+  ]
+}

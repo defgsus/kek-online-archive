@@ -1,0 +1,90 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.88,
+      "held": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-6c66-4ed9-9c22-cc8503b8441a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.3,
+      "held": {
+        "name": "OVR Vermögensverwaltung GmbH & Co KG",
+        "squuid": "5be1a6b6-59fc-4841-889e-439fd00581ed"
+      },
+      "squuid": "5be1a6b8-5801-4f54-9511-7ab7e13b4888",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "J. Walchner Vermögensverwaltung KG",
+        "squuid": "5be1a6b6-6443-4a8e-aead-f3188de25537"
+      },
+      "squuid": "5ebbadfe-bd5a-465a-95d7-e87a675cdaaa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.4,
+      "held": {
+        "name": "OVR Verwaltungs GmbH",
+        "squuid": "5ebba510-fc42-4a44-8b8f-b74b4dc61426"
+      },
+      "squuid": "5f0ed4d6-f0c6-4b96-b76f-77250377f0bd",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wangen",
+  "pseudoCompany": false,
+  "name": "Walchner, Dr. Martin",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-863f-408d-8a22-cba8854c0285",
+  "controlDate": "2019-08-02T13:10:46.310Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "credits": "IJK"
+}

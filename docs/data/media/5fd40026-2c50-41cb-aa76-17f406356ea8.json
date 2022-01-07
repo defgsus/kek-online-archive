@@ -1,0 +1,75 @@
+{
+  "rfRepresentative": "Christian Stephani",
+  "state": "active",
+  "sharesInfo": "KEK 1034",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Michael Pathe",
+  "rfStartDate": "2020",
+  "rfFreePay": true,
+  "squuid": "5fd40026-2c50-41cb-aa76-17f406356ea8",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "www.nuerburgring-langstrecken-serie.de",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "VLN VV GmbH & Co. KG",
+        "squuid": "5fd4004a-fc02-4e89-adec-ab42e6e45b2f"
+      },
+      "squuid": "5fd4041d-f071-4c38-b14a-2e201c5181be",
+      "state": "active"
+    }
+  ],
+  "name": "VLN TV",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+    "name": "LMK",
+    "type": "organization",
+    "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+  },
+  "description": "Livestream-Angebot mit Übertragungen der VLN-Rennserie vom Nürburgring ",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "06.07.2020",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "06.07.2020",
+  "accessibilityEmail": "office@vln.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

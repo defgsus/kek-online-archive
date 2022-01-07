@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Radio Lübeck Lokalfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-9cef-449c-a857-44179bdc803c"
+      },
+      "squuid": "5f1ab4de-2243-449a-8c54-82445dccb9f3",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bad Schwartau",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Radio Lübeck GmbH",
+  "naturalPerson": false,
+  "squuid": "5f1ab44d-9f35-4103-80f3-5dee482eac8c",
+  "controlDate": "2021-12-22T15:29:55.748Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "23611",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Fred Dohmen Medien GmbH",
+        "squuid": "5be1a6b6-3bd6-44af-9cb1-290a8291883d"
+      },
+      "squuid": "5f1fea77-16f4-4d98-9cc0-77e150e20a3c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "moggimedia GmbH",
+        "squuid": "5be1a6b6-751d-40d8-aa23-f7e307b83696"
+      },
+      "squuid": "5f1fea83-cbd7-47ee-9427-a769b1907035",
+      "state": "active"
+    }
+  ]
+}

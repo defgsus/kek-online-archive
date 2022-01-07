@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "5be1a6b1-c51f-4d6b-923c-0b8996e09665",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Röhm Verlag & Medien GmbH ",
+        "squuid": "5be1a6b6-2bbb-4654-9f32-bb3577cb9318"
+      },
+      "squuid": "5be1a6b9-5837-4edb-be68-4aa07d2e4d12",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b"
+      },
+      "squuid": "619232c7-fd38-4adf-9e1c-a9f49f957636",
+      "state": "active"
+    }
+  ],
+  "name": "www.szbz.de",
+  "pressEditionsIVW": false,
+  "type": "online",
+  "controlDate": "2021-11-15T10:12:00.001Z",
+  "onlineAsOfDateAGOF": "5/20",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "onlineAGOF": 160000
+}

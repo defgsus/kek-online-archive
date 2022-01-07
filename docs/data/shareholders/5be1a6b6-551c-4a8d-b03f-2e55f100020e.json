@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Eppendorfer Weg 57A",
+  "name": "Palstek Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-551c-4a8d-b03f-2e55f100020e",
+  "controlDate": "2021-11-08T14:14:02.279Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20259",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Palstek",
+        "squuid": "5be1a6b1-78e7-4744-aea6-653b93d95044"
+      },
+      "squuid": "5be1a6b9-fd7d-4890-97a0-987a63a25f18",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 56.0,
+      "holder": {
+        "name": "Feddersen, Imke",
+        "squuid": "5be1a6b6-4207-48a9-a1aa-26b758ea575d"
+      },
+      "squuid": "5be1a6b8-0837-45a6-a3c5-52cfe42bf1e5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 44.0,
+      "holder": {
+        "name": "Kronberg, Ulrich",
+        "squuid": "5be1a6b6-f7ff-4494-92c3-1b079efa798a"
+      },
+      "squuid": "5be1a6b8-1e86-414a-8421-5c4e4ced2fe7",
+      "state": "active"
+    }
+  ]
+}

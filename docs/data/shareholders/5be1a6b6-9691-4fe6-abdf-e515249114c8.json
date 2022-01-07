@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Lauf",
+  "pseudoCompany": false,
+  "street": "Eckertstr.",
+  "name": "Bund Naturschutz Service GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9691-4fe6-abdf-e515249114c8",
+  "controlDate": "2021-11-04T11:27:53.721Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "91207",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Natur + Umwelt",
+        "squuid": "5be1a6b1-3345-43d7-b992-0353f36af5b8"
+      },
+      "squuid": "5be1a6b9-5739-4ad3-ac7c-c2d5085da917",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BUND Naturschutz in Bayern e.V.",
+        "squuid": "5be1a6b6-98cd-4c4e-83be-f5f5171e3785"
+      },
+      "squuid": "5be1a6b8-5b0a-4b95-823c-ed62d1bd8a96",
+      "state": "active"
+    }
+  ]
+}

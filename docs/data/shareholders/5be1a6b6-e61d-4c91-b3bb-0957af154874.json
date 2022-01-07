@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Rechneigrabenstr.",
+  "name": "Medienhaus der evangelischen Kirche in Hessen und Nassau GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e61d-4c91-b3bb-0957af154874",
+  "controlDate": "2021-10-14T15:36:03.358Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60311",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Evangelische Sonntags-Zeitung",
+        "squuid": "5be1a6b1-d255-4150-aa52-8ef04b9c4381"
+      },
+      "squuid": "5be1a6b9-435e-4f67-87ac-9548f886706c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.evangelische-sonntagszeitung.de",
+        "squuid": "5be1a6b1-d8ed-474a-b027-9ac42a7dda3f"
+      },
+      "squuid": "5be1a6b9-3fe6-4977-bd59-fe11261eff45",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Evangelischer Regionalverband Frankfurt/M.",
+        "squuid": "5be1a6b6-f904-44d3-9c0f-97d39c69b94d"
+      },
+      "squuid": "5be1a6b8-b510-4c9d-aab1-26f0a4c52981",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Evangelische Kirche in Hessen und Nassau",
+        "squuid": "5be1a6b6-adf0-4f79-800b-1ee11b8ae417"
+      },
+      "squuid": "5be1a6b8-d363-4d8d-96a9-34c977d52719",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Diakonie Hessen - Diakonisches Werk in Hessen und Nassau und Kurhessen-Waldeck",
+        "squuid": "5be1a6b6-709e-48aa-9e89-f436fcda2288"
+      },
+      "squuid": "5be1a6b8-a57f-492a-a325-27ed6e5a2c01",
+      "state": "active"
+    }
+  ]
+}

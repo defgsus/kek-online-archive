@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "TV M-V GmbH & Co. KG",
+        "squuid": "5f202b5d-38e8-43c0-a676-39930dfa253d"
+      },
+      "squuid": "5f202f6f-4552-4d7d-9a17-9920f7231ae7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "TV M-V Verwaltungs GmbH",
+        "squuid": "5f202e63-8ed8-4c61-b57b-a1a1c7a46aa9"
+      },
+      "squuid": "5f202fb8-8c05-41d5-9daa-f356609dfb56",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Schwerin",
+  "pseudoCompany": false,
+  "street": "Marienplatz",
+  "name": "Medienbeteiligungsgesellschaft Schwerin mbH",
+  "naturalPerson": false,
+  "squuid": "5f202f31-56d6-4703-9fa5-1d0ab3cbc938",
+  "controlDate": "2022-01-06T17:02:07.425Z",
+  "streetNumber": "1-2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "19053",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Böhm, Thomas",
+        "squuid": "5f202209-5655-4669-88bb-14e5a4290db6"
+      },
+      "squuid": "5f203025-8090-4b4f-b711-5fbe94fac7da",
+      "state": "active"
+    }
+  ]
+}

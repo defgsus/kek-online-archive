@@ -1,0 +1,79 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Theatinerstraße",
+  "name": "ANIXE HD Television GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-3afd-4cc9-9c20-969f8da2422c",
+  "otherMediaActivities": "Die ANIXE HD Television GmbH & Co. KG ist auch in den Bereichen Filmproduktion, Synchronisation und Postproduktion tätig.",
+  "controlDate": "2021-11-23T14:40:10.226Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80333",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ANIXE HD Serie",
+        "squuid": "5be1a6b1-bab3-4c39-bf58-7ab4897e5e46"
+      },
+      "squuid": "5be1a6b9-cec5-4489-93a6-19e0dbfd7369",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "ANIXE+",
+        "squuid": "5be1a6b1-5805-4cbd-a91c-33546aa87856"
+      },
+      "squuid": "5be1a6b9-fe53-4eee-b577-b037816cd674",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.anixehd.tv",
+        "squuid": "5f3bcee1-9e17-41d1-bbad-0b3bc1a994e4"
+      },
+      "squuid": "5f3bcf41-6477-4ede-99df-3c71e83ecbe0",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 01.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Lapidakis, Marion",
+        "squuid": "5be1a6b6-c320-4be8-99ab-75d6285036ae"
+      },
+      "squuid": "5be1a6b7-5088-454c-9f59-0a6144988598",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Anixe HD Television Verwaltungs-GmbH",
+        "squuid": "5db6bc74-ecfe-48ef-819f-71b24ef34f57"
+      },
+      "squuid": "5db6bcab-7863-4fd7-865f-89c7da7e60b9",
+      "state": "active"
+    }
+  ]
+}

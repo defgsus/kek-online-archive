@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Wallstraße",
+  "name": "Vertical Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5c503e04-cd80-4760-9800-dd402f28750c",
+  "controlDate": "2021-12-08T16:13:05.344Z",
+  "streetNumber": "27",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10179",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gruenderszene.de",
+        "squuid": "5c503daa-4b25-46fb-9a04-e4fdb72bee34"
+      },
+      "squuid": "5c503e5e-28de-47ad-9d48-83f788ee35f1",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "WeltN24 GmbH",
+        "squuid": "5be1a6b6-4dcb-4243-9296-0269946f3264"
+      },
+      "squuid": "5c504994-50d1-431e-abf7-d7fc6f181759",
+      "state": "active"
+    }
+  ]
+}

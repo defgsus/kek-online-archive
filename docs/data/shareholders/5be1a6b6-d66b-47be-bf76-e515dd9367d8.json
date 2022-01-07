@@ -1,0 +1,130 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "held": {
+        "name": "Radio L 12 GmbH & Co. KG",
+        "squuid": "5be1a6b6-7bbf-407e-8496-2a066492e027"
+      },
+      "squuid": "5be1a6b7-d04f-4b9d-9ab6-1a765d4adfd3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.2,
+      "held": {
+        "name": "Radio TON-Regional Hörfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-0d7b-4370-af24-f6e3d1f182f7"
+      },
+      "squuid": "5be1a6b7-5b22-498c-80d9-c509464dee8d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.5,
+      "held": {
+        "name": "RNB Radio Neckarburg GmbH",
+        "squuid": "5be1a6b6-bcd4-4862-8a1f-3e03ad0ed1e0"
+      },
+      "squuid": "5f3d3225-0c98-4412-bb12-60e1d083c9ed",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Plieninger Straße",
+  "name": "ANTENNE RADIO GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d66b-47be-bf76-e515dd9367d8",
+  "controlDate": "2021-11-24T16:48:21.712Z",
+  "streetNumber": "150",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70567",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "antenne 1",
+        "squuid": "5be1a6b1-5861-44ad-a288-4f23c297e6c8"
+      },
+      "squuid": "5be1a6b9-b0dc-45d8-bd73-2a345828fd7e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.antenne1.de",
+        "squuid": "5f3d2ab3-de5a-4d7f-8cbf-1d85dc1b5ef9"
+      },
+      "squuid": "5f3d2afe-578c-4f99-a64c-f8b6bc69e7b6",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 65.0,
+      "holder": {
+        "name": "Stuttgart Regional Hörfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-d002-416c-be70-aba89c131d4d"
+      },
+      "squuid": "5be1a6b7-73ec-4897-a9c7-41315d153952",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "RADIO RT 4 Programm- und Lizenzgesellschaft - Regionaler Hörfunk - GmbH & Co. OHG",
+        "squuid": "5be1a6b6-9b4d-477d-a78f-afbcd4c7dee1"
+      },
+      "squuid": "5be1a6b7-22dc-497b-9be4-05da1c041cc5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Antenne Radio-Verwaltungsgesellschaft mbH",
+        "squuid": "5ef21049-234a-498b-b709-7199ff6d9a03"
+      },
+      "squuid": "5ef21067-56a0-4f5b-aa83-2067b2115ccc",
+      "state": "active"
+    }
+  ]
+}

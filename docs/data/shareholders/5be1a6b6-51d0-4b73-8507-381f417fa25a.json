@@ -1,0 +1,87 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Säbener Straße",
+  "name": "FC Bayern München AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-51d0-4b73-8507-381f417fa25a",
+  "controlDate": "2021-12-07T11:39:36.850Z",
+  "streetNumber": "51 - 57",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81547",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "FCBayern.tv live",
+        "squuid": "5be1a6b1-7b75-4c62-b98b-6c69fb9b61fb"
+      },
+      "squuid": "5be1a6b9-f88a-4d6c-8786-d2585f5dd074",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fcbayern.com/fcbayerntv/de",
+        "squuid": "5f7c46f1-a134-4346-9bc0-9d5e545a01b8"
+      },
+      "squuid": "5f7c472b-9b74-4f6c-9575-3ff1cc641935",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 05.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 8.33,
+      "holder": {
+        "name": "Adidas AG",
+        "squuid": "5be1a6b6-154f-4ba1-b24a-29984d9e1c38"
+      },
+      "squuid": "5be1a6b8-78e0-4a62-a45a-b0f203dc9dbe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.33,
+      "holder": {
+        "name": "Audi AG",
+        "squuid": "5be1a6b6-b2ce-4109-847f-cdd7cf6f54e6"
+      },
+      "squuid": "5be1a6b8-e4fb-420c-83c9-471531b4a04f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "FC Bayern München e.V.",
+        "squuid": "5be1a6b6-00de-4ebb-a61d-b25cbc19c80f"
+      },
+      "squuid": "5be1a6b8-94e8-4832-947b-80443b13a872",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.33,
+      "holder": {
+        "name": "Allianz SE",
+        "squuid": "5be1a6b6-cb16-4d1e-ba0f-87eecce1b902"
+      },
+      "squuid": "5be1a6b8-d558-442f-8d9e-312d182253f6",
+      "state": "active"
+    }
+  ]
+}

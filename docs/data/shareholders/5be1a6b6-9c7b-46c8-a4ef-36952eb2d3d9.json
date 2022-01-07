@@ -1,0 +1,81 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Alpin FM GmbH & Co. KG ",
+        "squuid": "5d135d04-96c3-4f58-9108-97216d41f6ba"
+      },
+      "squuid": "5d135d5d-28bd-468a-ae59-b496cf6faaa3",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Freilassing",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Fürstenweg",
+  "name": "Radio Berchtesgadener Land & Chiemgau GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9c7b-46c8-a4ef-36952eb2d3d9",
+  "controlDate": "2021-11-23T12:23:32.718Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "83395",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bayernwelle Südost",
+        "squuid": "5be1a6b1-0110-4da4-a487-40747352bea0"
+      },
+      "squuid": "5be1a6b9-fa11-4ded-827f-d03279d1bfa8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bayernwelle.de",
+        "squuid": "5f8ed227-7ba6-43d1-ba93-2f0149db2054"
+      },
+      "squuid": "5f8ed26f-2a20-493b-b8ea-8f51ccd9d890",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Radio Chiemgau Programmanbieter GmbH & Co. KG",
+        "squuid": "5be1a6b6-8860-478f-96d7-8215455248b9"
+      },
+      "squuid": "5be1a6b7-cf3a-4f40-934e-7ce39b5526cd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Lokalradio Berchtesgadener Land Verwaltungs GmbH",
+        "squuid": "5be1a6b6-86b9-494c-a16c-f4bd3bb9b638"
+      },
+      "squuid": "5be1a6b7-2a13-4699-982d-b7363481f8de",
+      "state": "active"
+    }
+  ]
+}

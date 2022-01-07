@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Kantstr.",
+  "name": "BF Blogform Social Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5d35a577-4d55-432b-829f-491f56a26a3f",
+  "controlDate": "2021-12-02T17:34:00.925Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10623",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deutsche-wirtschafts-nachrichten.de",
+        "squuid": "5d35a4c3-14df-4712-ae8e-e80efd387688"
+      },
+      "squuid": "5d35a5a2-3a88-4a1b-89da-09affae95086",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "BF Blogform Verlagsgesellschaft mbH",
+        "squuid": "5d35a4ed-1dd8-4705-b371-1d123459270d"
+      },
+      "squuid": "5d35a9ca-1cf0-4916-9dcd-a8b90d2e8318",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Bonnier Business Press AB",
+        "squuid": "5d35a9ee-614c-4c31-9eb0-b8371147788c"
+      },
+      "squuid": "5d35aa14-9b39-4ea5-9377-73363e4a9794",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "held": {
+        "name": "DAZN DACH Holdco Ltd.",
+        "squuid": "5ce64e14-fe8d-4b46-b6e5-ccad65462cb3"
+      },
+      "squuid": "6123a0ff-a26f-44aa-9b87-df0b85d75071",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "DAZN Media Holdco Ltd.",
+  "naturalPerson": false,
+  "squuid": "6123a0bb-7606-4399-b8d1-b8c49f5d4583",
+  "controlDate": "2021-12-02T13:54:43.848Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DAZN Sports Media Ltd.",
+        "squuid": "5be1a6b6-308f-4dd2-b0c5-fd2d40b179b6"
+      },
+      "squuid": "6123a1c1-0d9b-4cc8-94e0-52350bf2f44d",
+      "state": "active"
+    }
+  ]
+}

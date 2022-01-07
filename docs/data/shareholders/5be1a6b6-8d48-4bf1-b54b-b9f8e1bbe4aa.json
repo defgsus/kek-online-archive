@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Dudenstraße 12",
+  "name": "Haas Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8d48-4bf1-b54b-b9f8e1bbe4aa",
+  "controlDate": "2021-10-14T13:29:31.483Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "68167",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "econo",
+        "squuid": "5be1a6b1-d68d-407b-ac33-71b2b63c9e0e"
+      },
+      "squuid": "5be1a6b9-d952-42f8-8ed2-e4e3b15c78d6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.econo-magazin.de",
+        "squuid": "5be1a6b1-b222-4ed8-8530-f946fefd81cb"
+      },
+      "squuid": "5be1a6b9-5c15-4976-9339-0372c3d81cc1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Dr. Haas GmbH",
+        "squuid": "5be1a6b6-f74a-4cc9-8e59-248e7f10c1a5"
+      },
+      "squuid": "5be1a6b8-6861-4845-9908-e78ab254c824",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 95.0,
+      "held": {
+        "name": "Stadtwerke Bochum Holding GmbH",
+        "squuid": "5be1a6b6-fd67-4240-8798-a58ac1c5eb79"
+      },
+      "squuid": "5f105f4f-8451-4a61-aa4b-cf67cc5b8265",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bochum",
+  "pseudoCompany": false,
+  "street": "Ostring",
+  "name": "Holding für Versorgung und Verkehr GmbH Bochum",
+  "naturalPerson": false,
+  "squuid": "5f105f1c-aa56-444e-8d09-8fcf4ec1c5d6",
+  "controlDate": "2021-12-21T15:50:22.445Z",
+  "streetNumber": "28",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "44787",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.0,
+      "holder": {
+        "name": "Energie- und Wasserversorgung Mittleres Ruhrgebiet GmbH",
+        "squuid": "5f16c2fd-51a4-4932-9239-3cccfc04da8d"
+      },
+      "squuid": "5ff59d2c-2a3a-40a8-97a8-7723e27cfeba",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Stadt Bochum",
+        "squuid": "5f105e76-b84d-4e42-890d-7171fa8aa69d"
+      },
+      "squuid": "5ff59d39-72e8-4f5d-98f5-63b1c3a3cb6c",
+      "state": "active"
+    }
+  ]
+}

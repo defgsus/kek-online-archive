@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Hamm",
+  "pseudoCompany": false,
+  "street": "Lange Str.",
+  "name": "Verlag Christliche Woche GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8ed9-4bb4-becb-71869b0b6dd9",
+  "controlDate": "2021-02-12T11:50:01.207Z",
+  "streetNumber": "335",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "59067",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Christliche Woche",
+        "squuid": "5be1a6b1-3201-454b-99e8-0969f97aa726"
+      },
+      "squuid": "5be1a6b9-039b-4200-b7ba-ed47945138a8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlag Liboriusblatt GmbH & Co KG",
+        "squuid": "5be1a6b6-9e3e-46d7-87ad-de35939c6c2f"
+      },
+      "squuid": "5be1a6b8-435d-48e7-9db7-81a0770faf09",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Prannerstr.",
+  "name": "Beautiful Minds Media GmbH",
+  "naturalPerson": false,
+  "squuid": "600045db-ecdb-4590-aab4-598c8b904885",
+  "controlDate": "2021-10-29T09:39:47.287Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80333",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Madame",
+        "squuid": "5be1a6b1-f564-41ea-b433-d056b3ef2851"
+      },
+      "squuid": "60004605-d3a4-4518-85c5-c91cf0049143",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.madame.de",
+        "squuid": "5be1a6b1-a5d0-4dd5-adbb-4f334dc9b5b2"
+      },
+      "squuid": "6000462a-c476-4c3c-8a7c-24588b500f31",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Olando GmbH",
+        "squuid": "600046fb-ba0f-4e63-8d4d-5700aabcb017"
+      },
+      "squuid": "6000473c-7819-41e1-8964-298fa7554969",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Winter Wonderland GmbH",
+        "squuid": "60004714-3789-4d7a-b5c3-f0d906ede09b"
+      },
+      "squuid": "60004748-a7f9-4a28-b06e-d2c62b09e7aa",
+      "state": "active"
+    }
+  ]
+}

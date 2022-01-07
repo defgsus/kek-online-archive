@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "New York, USA",
+  "pseudoCompany": false,
+  "name": "ESPN, Inc.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-50f1-49f9-a96f-de7c7aca91d5",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "Auskunft der ESPN Classic Sport Ltd. Vom 27.07.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "The Walt Disney Company",
+        "squuid": "5be1a6b6-2159-4e8a-8bcf-7a6b7af0e573"
+      },
+      "squuid": "5be1a6b7-cdf8-4691-9465-866e9f3e5239",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "The Hearst Corporation",
+        "squuid": "5be1a6b6-e70f-4ab1-a969-243af661dabd"
+      },
+      "squuid": "5be1a6b7-39a0-49bb-b9bc-b548c257056c",
+      "state": "active"
+    }
+  ]
+}

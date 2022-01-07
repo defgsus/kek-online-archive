@@ -1,0 +1,119 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.572,
+      "held": {
+        "name": "Antenne Thüringen GmbH & Co. KG",
+        "squuid": "5be1a6b6-5864-4d2d-abd2-19cfbc09b41b"
+      },
+      "squuid": "5be1a6b7-b84e-45f2-880c-3389508a0d8d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Meininger Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-aaa1-40ae-8cac-3414f7c6c6d2"
+      },
+      "squuid": "5be1a6b8-0fec-45f5-bd8a-c439362939da",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Suhl",
+  "pseudoCompany": false,
+  "street": "Schützenstr. 2",
+  "name": "Suhler Verlagsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-8f0e-479f-9854-3193606b8fe0",
+  "controlDate": "2021-10-15T12:40:42.879Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "98527",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "stz Südthüringer Zeitung",
+        "squuid": "5be1a6b1-ea0d-4399-8f41-4fce74159509"
+      },
+      "squuid": "5be1a6b9-6cc1-421b-a4be-a4cd429a2152",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Freies Wort",
+        "squuid": "5be1a6b1-2ef9-454a-8f55-fd2a5a461dfe"
+      },
+      "squuid": "5be1a6b9-0ed0-4238-8258-d98cbc9b17d5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.insuedthueringen.de",
+        "squuid": "5be1a6b1-fe03-4888-86fb-a62f3fdbd481"
+      },
+      "squuid": "5be1a6b9-216d-47be-9a73-f7cc31cd9f5c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Meininger Tageblatt",
+        "squuid": "5be1a6b1-224f-49a9-a65f-9c81e2f25a07"
+      },
+      "squuid": "5ede166d-e127-4f84-8b82-dd17d112c886",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "Süddeutscher Verlag GmbH",
+        "squuid": "5be1a6b6-e8a9-4e8f-b96c-e04e65dc55ed"
+      },
+      "squuid": "5be1a6b7-e9ab-4451-8600-c57373b8da92",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Deutsche Druck- und Verlagsgesellschaft mbH (DDVG)",
+        "squuid": "5be1a6b6-a5cc-47e1-ad55-477c084b25cb"
+      },
+      "squuid": "5be1a6b7-781e-483c-a0d7-01494face471",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Suhler Verlag Verwaltungsgesellschaft mbH",
+        "squuid": "5ec7c6c6-2d1c-4c8a-b31d-f43c963881fc"
+      },
+      "squuid": "5ec7c6df-d021-4b47-9ee2-2e71d9a6eb44",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "state": "active",
+  "city": "Mainz",
+  "pseudoCompany": false,
+  "street": "Hechtsheimer Str.",
+  "name": "Radio Mainz Live Rundfunk GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b076-49a8-8d9d-a72b62d75d54",
+  "controlDate": "2021-11-23T16:50:09.207Z",
+  "streetNumber": "35",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "55131",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Antenne Mainz",
+        "squuid": "5be1a6b1-8fed-4c4b-a1ea-82659a7169ec"
+      },
+      "squuid": "5be1a6b9-2d2e-4cfa-aaab-58569bbcf6a5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Antenne Mainz (Hessen)",
+        "squuid": "5f2be465-4218-4a5e-9574-b5fbd5b43633"
+      },
+      "squuid": "5f2be55f-dd0b-47c0-955a-da7ae857d9b1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.antenne-mainz.de",
+        "squuid": "5f3bc258-1ccf-4864-a16f-15ba2c6e2d99"
+      },
+      "squuid": "5f3bc29e-5fe5-42ae-a6b1-fa316a179c44",
+      "state": "active"
+    }
+  ],
+  "credits": "LMK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Nobile, Vittorio",
+        "squuid": "5be1a6b6-1289-476d-bf3e-a4ea91ee5e47"
+      },
+      "squuid": "5be1a6b8-ba7a-4a57-bcca-5c15c5169ac9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Pietzsch, Volker",
+        "squuid": "5be1a6b6-51f9-4a2a-9cdf-672f5ce511fa"
+      },
+      "squuid": "5be1a6b8-2ee2-4ac1-9034-5a5d1d7d4370",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 27.2,
+      "holder": {
+        "name": "Nobile, Eva",
+        "squuid": "5be1a6b6-4a53-4b81-84a1-4b4166629a1a"
+      },
+      "squuid": "5be1a6b8-7462-4a51-b3d8-8a6ef02e4894",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.6,
+      "holder": {
+        "name": "Turnverein Laubenheim",
+        "squuid": "5be1a6b6-711c-4f33-b67c-7ecb69ff7c70"
+      },
+      "squuid": "5be1a6b8-7674-4f2d-9e81-2997d143036c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.6,
+      "holder": {
+        "name": "Dingler, Thomas",
+        "squuid": "5be1a6b6-b119-4043-b44f-0ee907958ed6"
+      },
+      "squuid": "5be1a6b8-90b3-4175-b6c3-445e8413c311",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.6,
+      "holder": {
+        "name": "Athletik Sportvereinigung",
+        "squuid": "5be1a6b6-e632-4da5-aced-c6abb8df71cc"
+      },
+      "squuid": "5be1a6b8-a096-4817-9413-98177b20948c",
+      "state": "active"
+    }
+  ]
+}

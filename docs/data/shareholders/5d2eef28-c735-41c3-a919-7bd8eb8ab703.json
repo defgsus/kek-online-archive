@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "San Francisco (US)",
+  "pseudoCompany": false,
+  "name": "Reddit Inc.",
+  "naturalPerson": false,
+  "squuid": "5d2eef28-c735-41c3-a919-7bd8eb8ab703",
+  "controlDate": "2022-01-03T13:31:48.123Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.reddit.com",
+        "squuid": "5d2eef14-27ca-4443-8288-c11ef8357766"
+      },
+      "squuid": "5d2eef67-3d92-4cd9-9c44-53a7de509747",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Advance Publications Inc.",
+        "squuid": "5d2ef1a7-4f36-44fd-9d9c-20c7455539fd"
+      },
+      "squuid": "5d2ef1e2-fe45-40c4-a71d-2e789856fad6",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.8139,
+      "held": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "5be1a6b7-0dea-465d-ba59-15af11dc5e7d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Blitz-Tip Radio Hessen Verwaltungs GmbH",
+        "squuid": "5ef9a6c4-2f56-4113-bcfe-a784402522e2"
+      },
+      "squuid": "5efc45e8-c0f6-4cb0-b0f5-70a2696b0cd2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bad Soden",
+  "pseudoCompany": false,
+  "street": "Zum Quellenpark",
+  "name": "Blitz-Tip Radio Hessen Beteiligungsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4abd-4c09-bf9c-7e09fba07d79",
+  "controlDate": "2021-12-07T12:11:14.445Z",
+  "streetNumber": "38",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "65812",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Blitz-Tip Radio Hessen Verwaltungs GmbH",
+        "squuid": "5ef9a6c4-2f56-4113-bcfe-a784402522e2"
+      },
+      "squuid": "5ef9a6fb-5d94-4400-81b7-9482d7acdbcb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Axel Springer Audio GmbH",
+        "squuid": "5eec977a-4293-4391-9c4b-ea689f80f489"
+      },
+      "squuid": "5ef9a70c-ecc1-407e-92b6-c06c0b5a9d28",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 66.7,
+      "holder": {
+        "name": "Horst Vatter Beteiligungsgesellschaft mbH & Co. KG",
+        "squuid": "5ef9a6a5-edbb-4713-aed7-6974a0aba1fb"
+      },
+      "squuid": "5ef9a722-3099-46ac-8d7b-6c82ccac24ad",
+      "state": "active"
+    }
+  ]
+}

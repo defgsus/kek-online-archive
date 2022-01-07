@@ -1,0 +1,48 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Emil-Fuchs-Straße",
+  "name": "Universität Leipzig - Zentrum für Medien und Kommunikation",
+  "naturalPerson": false,
+  "co": "Radio mephisto 97.6",
+  "squuid": "5be1a6b6-8f84-4d90-b75c-e813ea5d0ae7",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04105",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "mephisto 97.6",
+        "squuid": "5be1a6b1-2d2d-4e4e-b956-ef05edd4f6b8"
+      },
+      "squuid": "5be1a6b9-1e83-4ea7-819a-645e8b1d24aa",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiomephisto.de",
+        "squuid": "5f916e43-3913-4e85-abb4-c540dd58ae5d"
+      },
+      "squuid": "5f916e7d-db2a-43e1-8c23-aacfca03831a",
+      "state": "active"
+    }
+  ],
+  "credits": "http://mephisto976.uni-leipzig.de/service/impressum.html, Abruf am 21.03.2013"
+}

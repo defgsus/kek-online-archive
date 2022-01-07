@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "TV-Medien Rhein-Neckar GmbH",
+        "squuid": "5d2c4b69-082e-4993-87e3-0706faf8b63a"
+      },
+      "squuid": "5d3581fc-bb88-4fd3-ba7c-d2090200d0a5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Weinheim",
+  "pseudoCompany": false,
+  "street": "Bergstr.",
+  "name": "Blue Lava GmbH",
+  "naturalPerson": false,
+  "squuid": "5d3581e2-e409-4655-8d81-feccefa101c2",
+  "controlDate": "2021-12-13T17:21:50.350Z",
+  "streetNumber": "31",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "69469",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Wissmann, Volker",
+        "squuid": "5f7db815-0145-4f50-b4b3-598ec31577dc"
+      },
+      "squuid": "5f7db84a-03e3-426c-a515-15ff1efedf0c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Berens von Rautenfeld, Jürgen",
+        "squuid": "5f7db82e-fba8-4845-9d33-c15894ae2602"
+      },
+      "squuid": "5f7db860-f054-446e-86ff-765b82eb72e5",
+      "state": "active"
+    }
+  ]
+}

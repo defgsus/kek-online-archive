@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Petra Dierkes, Dr. Phillipp Wittmann, Dr. Peter Scharr, Ursula Sänger-Strüder (Vorstand)",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Susanne Becker-Huberti",
+  "rfFreePay": true,
+  "squuid": "5c49ae25-b7c4-478e-b5e0-09f8487f8226",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.domradio.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bildungswerk der Erzdiözese Köln e. V.",
+        "squuid": "5c49adf8-1df0-42b7-a1a1-a7ea5dbe1fb4"
+      },
+      "squuid": "5c49b620-f2cc-4a1c-98eb-b71f1d232f5f",
+      "state": "active"
+    }
+  ],
+  "name": "domradio.de",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Livestream-Angebot mit Übertragungen von Gottesdiensten als Teil des multimedialen Angebots unter der Marke domradio.de ",
+  "rfLicenseUntil": "05.08.2028",
+  "rfLicensed": "06.08.2018",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "06.08.2018",
+  "accessibilityEmail": "info@domradio.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

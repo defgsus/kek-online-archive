@@ -1,0 +1,73 @@
+{
+  "state": "active",
+  "city": "Westerland",
+  "pseudoCompany": false,
+  "street": "Friedrichstr.",
+  "name": "Sylt Funk-Mediengesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e898-4004-83ca-675302c77669",
+  "controlDate": "2022-01-06T15:05:23.125Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "25980",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.syltfunk.de",
+        "squuid": "5f96ddfd-d10a-4948-b50d-2a29151b992c"
+      },
+      "squuid": "5f96e531-fdde-45b4-a807-cd69aa2eb4e4",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 26.52,
+      "holder": {
+        "name": "Syltertainment GmbH & Co. KG",
+        "squuid": "5be1a6b6-df23-4418-b8da-2241e10fe508"
+      },
+      "squuid": "5c6d519a-63fa-4500-8222-3a51de04493f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.88,
+      "holder": {
+        "name": "Heise Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-dea3-4150-8ba6-7e255764afee"
+      },
+      "squuid": "5c6d51bc-a53c-4d05-9d99-4616bad1daf8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.3,
+      "holder": {
+        "name": "Radio Hannover GmbH",
+        "squuid": "5be1a6b6-1a34-4949-a67e-0de35401a07e"
+      },
+      "squuid": "5f96eea2-7153-4cec-983f-fa50c7fcece5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.3,
+      "holder": {
+        "name": "Klambt-Medien GmbH",
+        "squuid": "5be1a6b6-e419-4c61-b3b2-cba5acfc0e92"
+      },
+      "squuid": "608feb7b-9dff-4a57-91d7-5a59d32643d8",
+      "state": "active"
+    }
+  ]
+}

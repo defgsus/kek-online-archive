@@ -1,0 +1,39 @@
+{
+  "name": "Echter, Heinz",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-7152-42d9-abc5-028fa6e1b02c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Inn-Salzach-Welle GmbH",
+        "squuid": "5be1a6b6-0551-4c05-8a64-0f79f20b7890"
+      },
+      "squuid": "5cc04fac-a32e-4547-a771-f93cb86da017",
+      "state": "active"
+    }
+  ],
+  "city": "Neuötting",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

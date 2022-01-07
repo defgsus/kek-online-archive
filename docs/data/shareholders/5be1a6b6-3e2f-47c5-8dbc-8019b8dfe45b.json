@@ -1,0 +1,119 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 74.8,
+      "held": {
+        "name": "TV Halle Fernsehgesellschaft mbH",
+        "squuid": "5be1a6b6-5d08-487e-a8b2-27432c2dbd92"
+      },
+      "squuid": "5be1a6b7-d5eb-46d7-873e-96d9f0452fec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.9,
+      "held": {
+        "name": "Zeitungsverlag Naumburg Nebra GmbH & Co KG",
+        "squuid": "5be1a6b6-dabb-46bf-b8b9-ee72733fdc10"
+      },
+      "squuid": "5be1a6b8-4083-4c94-91be-a74a7f27393d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.6,
+      "held": {
+        "name": "Zeitungsverlag Naumburg Nebra Verwaltungs GmbH",
+        "squuid": "5ede3ba6-e902-4a89-a3bc-9831843bb5cf"
+      },
+      "squuid": "5ede3ca2-a7ab-44bd-9579-d00d7f0ca883",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Halle",
+  "pseudoCompany": false,
+  "street": "Delitzscher Str. 65",
+  "name": "Mediengruppe Mitteldeutsche Zeitung GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-3e2f-47c5-8dbc-8019b8dfe45b",
+  "controlDate": "2021-11-04T11:38:31.685Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    }
+  ],
+  "zipcode": "06112",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mitteldeutsche Zeitung",
+        "squuid": "5be1a6b1-7f0e-4d39-9d5d-1e9a850f7dc2"
+      },
+      "squuid": "5be1a6b9-09ff-4df5-bb31-84248df691da",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mz.de",
+        "squuid": "5be1a6b1-53a1-4ffe-856d-c3fee1697121"
+      },
+      "squuid": "5be1a6b9-0b3f-49a3-adda-310fef416e17",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Naumburger Tageblatt",
+        "squuid": "5be1a6b1-6de4-4f88-9c70-87df22790d79"
+      },
+      "squuid": "5d08e44f-0fed-4ddf-b784-c3cc6d2e3b96",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mitteldeutsche Zeitung (Ausgabe Nebra)",
+        "squuid": "5be1a6b1-75e6-4a69-aa95-fbc4f68ffe77"
+      },
+      "squuid": "5d08e472-3579-46dc-99df-76d5c63b4730",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "5e8da698-d94b-4b51-949b-9555e260f697",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Mitteldeutsches Druck- und Verlagshaus Geschäftsführungsgesellschaft mbH",
+        "squuid": "5e8da6ea-0258-45ab-b266-2d39babd1a76"
+      },
+      "squuid": "5e8da746-b3f2-48ce-bde6-e151d34b388b",
+      "state": "active"
+    }
+  ]
+}

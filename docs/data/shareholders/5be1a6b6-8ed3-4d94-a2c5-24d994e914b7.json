@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Ulm",
+  "pseudoCompany": false,
+  "street": "Magirus-Deutz-Straße 2",
+  "name": "Webfail Entertainment GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8ed3-4d94-a2c5-24d994e914b7",
+  "controlDate": "2022-01-07T13:32:29.254Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "89077",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.webfail.de",
+        "squuid": "5be1a6b1-6094-4b32-af73-504eef62cb5f"
+      },
+      "squuid": "5be1a6b9-7327-4b1f-92a5-fc68d8534cf1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Marjanovic, Nenad",
+        "squuid": "5be1a6b6-f5da-4543-86a6-cfcbb2486f52"
+      },
+      "squuid": "5be1a6b8-3d46-464b-a554-c858df88e513",
+      "state": "active"
+    }
+  ]
+}

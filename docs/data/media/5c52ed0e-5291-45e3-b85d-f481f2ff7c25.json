@@ -1,0 +1,84 @@
+{
+  "rfRepresentative": "Ingo Arnold, Antonius Fromme",
+  "state": "archived",
+  "rfShoppingChannel": true,
+  "rfParentalAdvisor": "Friedrich-Claas Suennemann",
+  "rfFreePay": true,
+  "squuid": "5c52ed0e-5291-45e3-b85d-f481f2ff7c25",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.freenet.tv/",
+  "rfStatewide": true,
+  "name": "freenet Shopping",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-6b1a-4de6-924f-727ccb20e81b",
+    "name": "Teleshopping",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "description": "Teleshoppingkanal, der Produkte der freenet Group und sonstiger Kooperationspartner präsentiert, die über das Telefon oder Online-Shops bestellt werden können. Die Produkte kommen bspw. aus den Bereichen Mobilfunk, Technik, Digital Lifestyle, Reisen, Finance, Beauty und Wellness.",
+  "rfLicenseUntil": "31.12.2028",
+  "rfLicensed": "15.11.2018",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-c433-49e9-b390-5073f0f89b78",
+      "name": "waipu.tv (EXARING AG)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.01.2019",
+  "accessibilityEmail": "info@freenet.tv",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

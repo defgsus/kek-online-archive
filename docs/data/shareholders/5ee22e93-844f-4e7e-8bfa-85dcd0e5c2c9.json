@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Ludwigshafen",
+  "pseudoCompany": false,
+  "street": "Kaiser-Wilhelm-Str.",
+  "name": "MSSW Print-Medien Service Südwest GmbH",
+  "naturalPerson": false,
+  "squuid": "5ee22e93-844f-4e7e-8bfa-85dcd0e5c2c9",
+  "controlDate": "2021-11-08T17:00:04.541Z",
+  "streetNumber": "34",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "67059",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "PZ Pirmasenser Zeitung",
+        "squuid": "5be1a6b1-3f57-40a4-b881-481e8bb3ec13"
+      },
+      "squuid": "5ee22eab-2b15-49b6-a0e5-932814fdb73c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "PZ Pirmasenser Zeitung am Sonntag",
+        "squuid": "5be1a6b1-d9de-4cb2-b3c9-06e5177aab20"
+      },
+      "squuid": "5ee22ec1-a6b1-461b-82e7-fd7ff1ba17f8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rheinpfalz Verlag und Druckerei GmbH & Co KG",
+        "squuid": "5be1a6b6-b0cb-4887-968f-e1c3d68f02ae"
+      },
+      "squuid": "5ee22f56-d845-4d30-a01a-35edd57a11a9",
+      "state": "active"
+    }
+  ]
+}

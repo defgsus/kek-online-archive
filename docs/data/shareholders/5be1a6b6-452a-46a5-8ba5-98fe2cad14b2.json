@@ -1,0 +1,115 @@
+{
+  "state": "active",
+  "city": "Ismaning",
+  "pseudoCompany": false,
+  "street": "Fraunhoferstr.",
+  "name": "BVA BikeMedia GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-452a-46a5-8ba5-98fe2cad14b2",
+  "controlDate": "2021-10-14T14:12:57.709Z",
+  "streetNumber": "9-11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85737",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radfahren",
+        "squuid": "5be1a6b1-b7b9-48fd-bd9a-1a4b8e5ffa25"
+      },
+      "squuid": "5be1a6b9-f9ee-4265-9b71-89c8b4f0bf3c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "bikesport",
+        "squuid": "5be1a6b1-694e-4bb7-8bd6-8aca4384f580"
+      },
+      "squuid": "5be1a6b9-9d97-4f84-99a6-4edc86b928d7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "ElektroRad",
+        "squuid": "5be1a6b1-7f6a-4fc5-bc2a-77bfdd4dda67"
+      },
+      "squuid": "5be1a6b9-11fc-4dd2-b8bd-a504e3e0769d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "RadSport",
+        "squuid": "5be1a6b1-cee3-40f2-900c-cfe9407a8b65"
+      },
+      "squuid": "5be1a6b9-32c2-4a97-8358-200ac4b3266b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "RennRad",
+        "squuid": "5be1a6b1-c04f-44f5-a830-6b6188bc3136"
+      },
+      "squuid": "5be1a6b9-360d-4761-83c9-46e8dedc9e57",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radfahren.de",
+        "squuid": "5be1a6b1-6de2-4378-b77b-02f0c25b1a8f"
+      },
+      "squuid": "5be1a6b9-f196-44d5-9ff9-cc179e8b937c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bikesport-magazin.de",
+        "squuid": "5be1a6b1-d4ae-4ea4-aee5-401d2e4ba9c7"
+      },
+      "squuid": "5be1a6b9-9a14-496d-aaf2-ab95e95d7ee5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.elektrorad-magazin.de",
+        "squuid": "5be1a6b1-9fe2-41e6-a7c0-b83529281d74"
+      },
+      "squuid": "5be1a6b9-3983-438d-ab9e-54ee7d2194ce",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radsport-rennrad.de",
+        "squuid": "5be1a6b1-028f-4834-b15e-e9a05dfa4736"
+      },
+      "squuid": "5be1a6b9-5deb-4fc2-8f8b-cb3a54ea2aab",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bielefelder Verlag GmbH & Co KG Richard Kaselowsky",
+        "squuid": "5be1a6b6-a249-4c71-8a4e-f5251eb0432b"
+      },
+      "squuid": "5be1a6b8-1181-4f66-94c2-bd5e49e6ab8c",
+      "state": "active"
+    }
+  ]
+}

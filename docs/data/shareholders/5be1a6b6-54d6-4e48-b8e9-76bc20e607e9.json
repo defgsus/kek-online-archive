@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Türkenstr.",
+  "name": "redspider networks gmbh",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-54d6-4e48-b8e9-76bc20e607e9",
+  "streetNumber": "95",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80799",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "meinTVshop",
+        "squuid": "5be1a6b1-11b6-4369-ae9b-6cbc19093451"
+      },
+      "squuid": "5be1a6b9-7faf-4cd8-9457-dd90be6d3ada",
+      "state": "active"
+    }
+  ]
+}

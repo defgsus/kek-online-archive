@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "Wetzlar",
+  "pseudoCompany": false,
+  "street": "Steinbühlstr. 3",
+  "name": "idea e.V. Evangelische Nachrichtenagentur (auf der theologischen Basis der Evangelischen Allianz)",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1c99-4429-a375-673cbbc7f574",
+  "controlDate": "2020-05-28T12:21:26.229Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "35578",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Idea Spektrum",
+        "squuid": "5be1a6b1-17cf-4a7c-865d-29d0b01d0d09"
+      },
+      "squuid": "5be1a6b9-f6a2-494e-a51b-c23c6524d299",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.idea.de",
+        "squuid": "5be1a6b1-e381-4b12-9772-615fa9145d2b"
+      },
+      "squuid": "5be1a6b9-b193-47c1-a03c-41ce9702508f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

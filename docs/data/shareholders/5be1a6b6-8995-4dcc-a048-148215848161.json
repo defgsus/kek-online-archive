@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "note": "Plattformbetreiber",
+  "pseudoCompany": false,
+  "name": "Unitymedia GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8995-4dcc-a048-148215848161",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Liberty Global plc.",
+        "squuid": "5be1a6b6-7360-46af-8165-0e12102fa18c"
+      },
+      "squuid": "5be1a6b8-287a-4475-b599-71a4e7ecce07",
+      "state": "active"
+    }
+  ]
+}

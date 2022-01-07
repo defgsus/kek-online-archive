@@ -1,0 +1,43 @@
+{
+  "name": "Kietzmann, Ulrike",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-c227-4e48-bf13-dcf7ee4b44c3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "held": {
+        "name": "Hotz GmbH & Co. KG",
+        "squuid": "5be1a6b6-adcd-4e69-bbad-0e603672dd58"
+      },
+      "squuid": "5be1a6b8-b7dc-40a1-be3c-82052bd301e0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Kietzmann Hotz-Beteiligung GmbH & Co. KG",
+        "squuid": "5be1a6b6-1137-43cc-9365-562ae495b8c6"
+      },
+      "squuid": "5f0d977d-39b0-470e-9e03-746abca4534c",
+      "state": "active"
+    }
+  ],
+  "city": "Wolfsburg",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

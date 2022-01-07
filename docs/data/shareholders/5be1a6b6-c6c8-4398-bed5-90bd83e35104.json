@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Picassoplatz",
+  "name": "RTL West GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c6c8-4398-bed5-90bd83e35104",
+  "controlDate": "2022-01-04T11:28:38.584Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "50679",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rtl-west.de",
+        "squuid": "5f105246-8cbe-494e-8a6b-710d11af7152"
+      },
+      "squuid": "5f1052c9-bce7-4955-8551-1c4e946741c5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "RTL West",
+        "squuid": "5f9199b7-7f7e-4f9e-aae9-9f26e9d11004"
+      },
+      "squuid": "5f919a91-2152-48ef-a320-86c74adb71c7",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 12.02.2013, Az.: KEK 733",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "RTL Television GmbH",
+        "squuid": "5be1a6b6-7542-41b4-ab53-17975a930698"
+      },
+      "squuid": "5be1a6b7-d3ab-4538-8e84-89e831dd26a6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Zajonc, Jörg",
+        "squuid": "5be1a6b6-ab27-4793-ace5-74c138f95339"
+      },
+      "squuid": "5be1a6b7-7d58-4717-8610-c02fceac4d67",
+      "state": "active"
+    }
+  ]
+}

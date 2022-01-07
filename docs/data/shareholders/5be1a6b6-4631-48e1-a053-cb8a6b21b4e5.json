@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.27,
+      "held": {
+        "name": "LandesWelle Thüringen GmbH & Co. KG",
+        "squuid": "5be1a6b6-b0b6-470b-a5ea-c00a71714166"
+      },
+      "squuid": "5be1a6b7-541f-40d2-85c8-688255f19b4d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Erfurt",
+  "pseudoCompany": false,
+  "street": "Mehringstraße",
+  "name": "R & B Thüringer Medienbeteiligungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4631-48e1-a053-cb8a6b21b4e5",
+  "controlDate": "2021-12-13T13:22:49.065Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "99086",
+  "credits": "TLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 45.25,
+      "holder": {
+        "name": "Münchener Zeitungs-Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1"
+      },
+      "squuid": "5be1a6b7-1f1e-4ea7-bed4-8e7194126a4b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 54.75,
+      "holder": {
+        "name": "MOIRA Rundfunk GmbH",
+        "squuid": "5be1a6b6-cb90-4250-ad44-4516a6493f9a"
+      },
+      "squuid": "5be1a6b7-4f35-4544-a66c-0b2eac7f8157",
+      "state": "active"
+    }
+  ]
+}

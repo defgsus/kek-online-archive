@@ -1,0 +1,96 @@
+{
+  "state": "active",
+  "city": "Rosenheim",
+  "pseudoCompany": false,
+  "street": "Rathausstraße 4",
+  "name": "OVB24 GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b027-4a28-8912-711ca5dab766",
+  "controlDate": "2021-11-04T16:49:44.947Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "83022",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ovb24.de",
+        "squuid": "5be1a6b1-5bdc-43a0-9087-aa3d16b177a4"
+      },
+      "squuid": "5be1a6b9-396f-4385-9486-9759e82ce9d5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bgland24.de",
+        "squuid": "611e35cc-a77c-48d4-b55a-2d9d62d80158"
+      },
+      "squuid": "611e35ec-01d4-458d-91a0-7d1d4cdc0373",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.chiemgau24.de",
+        "squuid": "611e3673-05ae-416c-a70c-cf1c4f96e47f"
+      },
+      "squuid": "611e368f-af9b-47d4-9e26-65a18ff3540c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rosenheim24.de",
+        "squuid": "61840f81-ac79-403c-8f9c-dcd430edd999"
+      },
+      "squuid": "61840fe9-a1be-4070-84ec-80f73ab64615",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.innsalzach24.de",
+        "squuid": "61840f9a-8b15-4558-bd8b-af67de47eed1"
+      },
+      "squuid": "6184100c-32a1-4b5e-aaaf-7de640ef04c7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wasserburg24.de",
+        "squuid": "61840fb5-f67e-4e9f-bdb4-0b89b55ca8fc"
+      },
+      "squuid": "61841031-c155-4173-b567-ff7b3a589ef9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mangfall24.de",
+        "squuid": "61840fc9-92d1-4e9b-914a-006c9f714526"
+      },
+      "squuid": "6184104e-cc49-4f73-a1b8-b6b3256115a0",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "WWZ Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-af92-4839-96f4-2d8d9e234c83"
+      },
+      "squuid": "5be1a6b8-1798-414c-9ca8-0ed7aaa4cdca",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Aurich",
+  "pseudoCompany": false,
+  "street": "Kirchstraße 8",
+  "name": "Ostfriesische Nachrichten GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b336-4d90-b588-f57dafd50cba",
+  "controlDate": "2021-11-05T16:11:58.940Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "26603",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ostfriesische Nachrichten",
+        "squuid": "5be1a6b1-045d-494a-9645-32e345c911be"
+      },
+      "squuid": "5be1a6b9-a3d1-4049-ab3b-62c03bc93e5a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.on-online.de",
+        "squuid": "5be1a6b1-dcd3-4a6b-b1d8-61261b666f4c"
+      },
+      "squuid": "5be1a6b9-df9a-4d69-817d-f2dc02d9a0b4",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ZGO Zeitungsgruppe Ostfriesland GmbH",
+        "squuid": "5be1a6b6-00d8-4861-8b6e-588d866c8560"
+      },
+      "squuid": "5be1a6b8-0a45-45df-86eb-e737329cc2a7",
+      "state": "active"
+    }
+  ]
+}

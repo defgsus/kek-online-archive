@@ -1,0 +1,49 @@
+{
+  "state": "active",
+  "onlineAsOfDateIVW": "5/20",
+  "squuid": "5f16bb70-a580-43e6-8383-02d2d862c3c4",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "AUDIO MEDIA SERVICE Produktionsgesellschaft mbH & Co. KG",
+        "squuid": "5eeb7b89-1d1d-486f-b21f-09fd3bc32248"
+      },
+      "squuid": "5f16bbdd-69e4-473f-b625-2f386af83591",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Herford Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-d921-4cea-99f5-626673062b59"
+      },
+      "squuid": "5f16bbe8-6326-4e4f-91e7-f2c13bf02a8d",
+      "state": "active"
+    }
+  ],
+  "name": "www.radioherford.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-22T13:56:40.478Z",
+  "onlineIVWPI": 725000,
+  "onlineAsOfDateAGOF": "5/20",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "onlineVisitsIVW": 393000,
+  "onlineAGOF": 130000
+}

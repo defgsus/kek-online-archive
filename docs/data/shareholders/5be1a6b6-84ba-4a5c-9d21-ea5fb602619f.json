@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Dresden",
+  "pseudoCompany": false,
+  "street": "Schandauer Straße",
+  "name": "Fernsehen in Dresden GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-84ba-4a5c-9d21-ea5fb602619f",
+  "controlDate": "2022-01-04T16:29:29.135Z",
+  "streetNumber": "64",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01277",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SACHSEN FERNSEHEN Dresden",
+        "squuid": "5be1a6b1-b6f9-489a-bee9-22190d541368"
+      },
+      "squuid": "5be1a6b9-eebf-4165-9bff-93927cc660df",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sachsen-fernsehen.de",
+        "squuid": "5f355603-a0ba-4c2e-91cc-577bff9cbccb"
+      },
+      "squuid": "5f355655-805a-4191-b742-72d6f5630501",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 73.3,
+      "holder": {
+        "name": "HAESWE GmbH",
+        "squuid": "5be1a6b6-a309-4585-b5b2-491d732594db"
+      },
+      "squuid": "5be1a6b8-fc80-4a8b-b02f-1c3f84fe5a9f",
+      "state": "active",
+      "votingShares": 73.3
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.7,
+      "holder": {
+        "name": "Leipziger Verlags- und Druckereigesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-e3d7-48f4-a702-9fec71b10041"
+      },
+      "squuid": "5be1a6b8-305b-4dd1-b73d-a9fafa1e5f66",
+      "state": "active",
+      "votingShares": 26.7
+    }
+  ]
+}

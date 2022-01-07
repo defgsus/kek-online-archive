@@ -1,0 +1,49 @@
+{
+  "name": "Botzleitner-Reber, Peter",
+  "pseudoCompany": false,
+  "squuid": "5ca7439a-9b1d-41b9-95fc-cea3aded56d4",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Paul Botzleitner Reber Holding GmbH",
+        "squuid": "5ca7432d-5e05-42a8-baf4-f46d9265bcef"
+      },
+      "squuid": "5ca74425-f443-4a7d-a789-5dd88d3c65b6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Reber Holding GmbH & Co. KG",
+        "squuid": "60a26712-db8d-45f7-855e-a05e8e5dc3f3"
+      },
+      "squuid": "60a4dc59-5e0f-4021-aa72-c8ddd0f92d28",
+      "state": "active"
+    }
+  ],
+  "city": "Bad Reichenhall",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

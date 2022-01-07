@@ -1,0 +1,111 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio RocklandPfalz Beteiligungs GmbH",
+        "squuid": "5f3bb02c-ec54-43cc-84a4-15f23bf7228c"
+      },
+      "squuid": "60548598-dd99-485f-b84c-e546ed121d35",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mainz",
+  "pseudoCompany": false,
+  "street": "Wallstraße",
+  "name": "Radio RocklandPfalz GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9ede-4424-b670-4e7a7ef8c0ed",
+  "controlDate": "2022-01-03T16:26:17.570Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    }
+  ],
+  "zipcode": "55122",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rockland Radio",
+        "squuid": "5be1a6b1-c6d7-414b-a302-d7256d88f736"
+      },
+      "squuid": "5be1a6b9-a518-4713-9d3f-90dbfef8521c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rockland.de",
+        "squuid": "5f3baf16-d64c-421e-a468-0dd42aa5c2d7"
+      },
+      "squuid": "5f3baf48-23c5-4b6a-bcc4-9283cfdb8432",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 26.48,
+      "holder": {
+        "name": "Klambt-Medien GmbH",
+        "squuid": "5be1a6b6-e419-4c61-b3b2-cba5acfc0e92"
+      },
+      "squuid": "5be1a6b7-ba37-4d03-a398-d790bb2a83e8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.05,
+      "holder": {
+        "name": "VRM Rundfunk Holding GmbH & Co. KG",
+        "squuid": "5be1a6b6-5bc7-43dc-b198-fb238ef34534"
+      },
+      "squuid": "5be1a6b7-ccc0-41b2-b0cb-3dc669e93d54",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.57,
+      "holder": {
+        "name": "Mittelrhein-Verlag GmbH",
+        "squuid": "5be1a6b6-7572-4bdd-903c-7c673951897c"
+      },
+      "squuid": "5be1a6b7-e111-4234-ae0e-bcbfd865c5e9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.9,
+      "holder": {
+        "name": "Deutsche RockRadio GmbH",
+        "squuid": "5be1a6b6-ded2-4f6e-a806-d16568f7b843"
+      },
+      "squuid": "5be1a6b7-0478-42a6-8fac-51044bf2fb87",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio RocklandPfalz Beteiligungs GmbH",
+        "squuid": "5f3bb02c-ec54-43cc-84a4-15f23bf7228c"
+      },
+      "squuid": "5f3bb07c-2dbf-40c6-b3e6-30d090de2210",
+      "state": "active"
+    }
+  ]
+}

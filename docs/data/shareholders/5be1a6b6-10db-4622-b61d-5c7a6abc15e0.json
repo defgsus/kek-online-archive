@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Aschaffenburg",
+  "pseudoCompany": false,
+  "street": "Weichertstr.",
+  "name": "Main-Netz Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-10db-4622-b61d-5c7a6abc15e0",
+  "controlDate": "2021-10-29T10:15:21.851Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "63741",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.main-echo.de",
+        "squuid": "5be1a6b1-dddf-415f-afce-7f8dfbf641fe"
+      },
+      "squuid": "5be1a6b9-905c-4888-9c4c-eb6cedac1156",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlag und Druckerei Main-Echo GmbH & Co. KG",
+        "squuid": "5be1a6b6-febc-46b6-8547-fe5c8cf40624"
+      },
+      "squuid": "5be1a6b8-3cf9-408e-8c8b-f483824129ac",
+      "state": "active"
+    }
+  ]
+}

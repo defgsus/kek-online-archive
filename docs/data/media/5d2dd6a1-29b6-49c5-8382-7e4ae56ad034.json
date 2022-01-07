@@ -1,0 +1,55 @@
+{
+  "rfRepresentative": "Alfred Krandick",
+  "state": "archived",
+  "rfShoppingChannel": true,
+  "rfStartDate": "01.12.2014",
+  "squuid": "5d2dd6a1-29b6-49c5-8382-7e4ae56ad034",
+  "organization": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "rfStatewide": false,
+  "name": "Radio VHR",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "description": "Hörfunkvollprogramm",
+  "rfLicenseUntil": "30.11.2024",
+  "rfLicensed": "13.11.2014",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-4f77-4a73-90db-f4170510c758",
+      "name": "Media Broadcast GmbH / freenet TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-4dbe-45ef-ab98-fcd1599e57f0",
+        "name": "Terrestrik",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.12.2014",
+  "rfAddress": "Radio VHR\nEpping-Kamp 5\n46395 Bocholt",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

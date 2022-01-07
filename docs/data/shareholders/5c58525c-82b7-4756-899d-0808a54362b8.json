@@ -1,0 +1,70 @@
+{
+  "state": "active",
+  "city": "Grünwald",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Südliche Münchner Str.",
+  "name": "C.A.M.P. TV Fernsehgesellschaft mbH",
+  "naturalPerson": false,
+  "co": "im Fernsehzentrum Süd",
+  "squuid": "5c58525c-82b7-4756-899d-0808a54362b8",
+  "controlDate": "2021-12-01T16:22:58.460Z",
+  "placeOfBusiness": "Grünwald",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "82031",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "C.A.M.P. TV (\"Berlin Journal\")",
+        "squuid": "5c584adb-8f42-413c-8b24-249d3e45bb90"
+      },
+      "squuid": "5c5852b1-c6bf-4981-a972-b7f619a3b0ed",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.camp-tv.de",
+        "squuid": "5f7b236a-54b5-4d34-8e6a-a2a985db0ee9"
+      },
+      "squuid": "5f7b2418-ed11-4a2c-b2d1-52b22030601a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 89.6,
+      "holder": {
+        "name": "Piller, Ralph",
+        "squuid": "5be1a6b6-3c6c-48c2-b126-db6cd7a6e80f"
+      },
+      "squuid": "5c5971f3-2403-4831-a048-19e378cbab9a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.4,
+      "holder": {
+        "name": "Piller, Dr. Sabine",
+        "squuid": "5be1a6b6-80f4-42db-9e00-fd003cd42e45"
+      },
+      "squuid": "5c59720e-50c3-481e-9ca8-eec44ea96547",
+      "state": "active"
+    }
+  ]
+}

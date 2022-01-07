@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Arabellastr.",
+  "name": "Burda Community Network GmbH",
+  "naturalPerson": false,
+  "squuid": "5e6b5b43-18de-41e7-ac8c-187bfd7b7b4d",
+  "controlDate": "2021-01-15T15:16:45.720Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81925",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ADAC Motorwelt",
+        "squuid": "5be1a6b1-d8f7-4ccf-9ada-30de28f0d729"
+      },
+      "squuid": "5e6b5b8c-1bce-4890-8d16-36ebb569c23d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "squuid": "5e6b5c6d-7785-453e-bdac-99f2c67718f9",
+      "state": "active"
+    }
+  ]
+}

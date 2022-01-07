@@ -1,0 +1,91 @@
+{
+  "state": "active",
+  "city": "Mittweida",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Technikumplatz",
+  "name": "AMAK AG – Akademie für multimediale Ausbildung und Kommunikation an der Hochschule Mittweida",
+  "naturalPerson": false,
+  "co": "99drei Radio Mittweida",
+  "squuid": "5be1a6b6-d219-46a1-9d9f-8e6423a92926",
+  "controlDate": "2021-12-20T15:37:41.627Z",
+  "placeOfBusiness": "Bahnhofstraße 15, 09648 Mittweida",
+  "streetNumber": "17",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09648",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "99drei Radio Mittweida",
+        "squuid": "5be1a6b1-56dc-4271-b7e5-624875d81379"
+      },
+      "squuid": "5be1a6b9-a45e-492e-8574-3ffa989ff30c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-mittweida.de",
+        "squuid": "5f844a6e-b068-46fb-989f-9a37ffcc4e9b"
+      },
+      "squuid": "5f844ae6-7f2b-431b-98e1-a85205618125",
+      "state": "active"
+    }
+  ],
+  "credits": "Schreiben der SLM vom 31.01.2013",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 6.0,
+      "holder": {
+        "name": "Zintl, Leonhard",
+        "squuid": "5be1a6b6-0afb-4daf-b03a-4379853cc862"
+      },
+      "squuid": "5be1a6b8-8e7b-4142-b512-b43f0e1e3f01",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.5,
+      "holder": {
+        "name": "EUBA Europäische Bildungs- und Ausbildungsgesellschaft mbH",
+        "squuid": "5e53d23e-cd68-416f-af83-e09c068b7a72"
+      },
+      "squuid": "5e53d272-3398-48bd-8b9c-bfd1da94d046",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.5,
+      "holder": {
+        "name": "Altendorfer, Marita",
+        "squuid": "5e53d250-9226-439b-aa22-4a509b58d107"
+      },
+      "squuid": "5e53d284-2c67-445c-b493-92d659660430",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Mayer, Cornelia",
+        "squuid": "5e53d25d-e144-4bc2-beb0-fc208293bd35"
+      },
+      "squuid": "5e53d294-c88d-4d47-9999-9312aec6958f",
+      "state": "active"
+    }
+  ]
+}

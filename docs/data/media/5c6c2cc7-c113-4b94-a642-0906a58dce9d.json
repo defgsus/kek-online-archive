@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5c6c2cc7-c113-4b94-a642-0906a58dce9d",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Rundfunk Berlin-Brandenburg (RBB)",
+        "squuid": "5be1a6b6-397d-4361-8635-4e42f797be3d"
+      },
+      "squuid": "5c6c2d0a-6ad9-41ff-b3e8-c50be77081f4",
+      "state": "active"
+    }
+  ],
+  "name": "www.rbb24.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-03T13:16:32.421Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

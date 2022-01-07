@@ -1,0 +1,37 @@
+{
+  "name": "Eigenbesitz der dctp Entwicklungsgesellschaft für TV-Programm mbH",
+  "pseudoCompany": true,
+  "squuid": "6054ae44-4af0-4ef2-8320-6cc014264e6a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "dctp Entwicklungsgesellschaft für TV-Programm mbH",
+        "squuid": "5be1a6b6-01aa-4926-869b-7e89ca45166d"
+      },
+      "squuid": "6054ae6d-b65d-44ed-a1e1-0315bca22f42",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

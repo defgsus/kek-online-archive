@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f1981a6-96da-44c7-9994-e95c35f4ac6c",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Antenne Sylt GmbH & Co. KG",
+        "squuid": "5be1a6b6-1bc3-4742-94de-bdc3c23eea98"
+      },
+      "squuid": "5f1981d6-98fb-473b-9f82-98582eeb32fb",
+      "state": "active"
+    }
+  ],
+  "name": "www.antenne-sylt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-11-23T16:57:59.650Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

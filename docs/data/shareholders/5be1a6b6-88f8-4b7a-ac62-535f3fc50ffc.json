@@ -1,0 +1,119 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "held": {
+        "name": "Stuttgarter Presse Funk GmbH",
+        "squuid": "5c98ed33-3de6-4a1d-b2fa-4f2782148a39"
+      },
+      "squuid": "5ef21bb8-9caa-403a-86e1-da7dcbf7c3bf",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Murrhardt",
+  "pseudoCompany": false,
+  "street": "Grabentr. 23",
+  "name": "MZV Murrhardter Zeitungsverlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-88f8-4b7a-ac62-535f3fc50ffc",
+  "controlDate": "2021-11-03T14:48:37.560Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "71540",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Murrhardter Zeitung",
+        "squuid": "5be1a6b1-7755-43d1-b2a2-dc15d60b3979"
+      },
+      "squuid": "5be1a6b9-09db-4b29-b120-0893bd74ca86",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.murrhardter-zeitung.de",
+        "squuid": "5be1a6b1-c053-4271-bf0c-bf7c1341e598"
+      },
+      "squuid": "5be1a6b9-e723-4182-8cbd-e19e2f159658",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 52.0,
+      "holder": {
+        "name": "GeVi Beteiligungen GmbH Medien KG",
+        "squuid": "5be1a6b6-e76e-4e4d-b935-b2ad38477d9c"
+      },
+      "squuid": "5be1a6b8-d6f3-4a51-9c22-d67825b3c6fb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "holder": {
+        "name": "Stroh, Werner",
+        "squuid": "5be1a6b6-5279-4016-8e30-a44e2e451e8a"
+      },
+      "squuid": "5be1a6b8-2e19-4537-a504-2a95620bd689",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.0,
+      "holder": {
+        "name": "Zeitungsverlag GmbH & Co Waiblingen KG",
+        "squuid": "5be1a6b6-7df4-4bc8-b97b-01d70dc592a7"
+      },
+      "squuid": "5be1a6b8-eeea-47ec-9fb0-ce50acabda46",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Murrhardter Zeitungsverlag GmbH",
+        "squuid": "5ede453e-3854-4f77-86af-7cbe1eaff91e"
+      },
+      "squuid": "5ede4559-439c-4c43-983c-8fe4becf46eb",
+      "state": "active"
+    }
+  ]
+}

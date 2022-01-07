@@ -1,0 +1,81 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 32.967,
+      "held": {
+        "name": "Antenne Sylt GmbH & Co. KG",
+        "squuid": "5be1a6b6-1bc3-4742-94de-bdc3c23eea98"
+      },
+      "squuid": "5be1a6b8-22cb-4dfd-94c7-26c14c9a5a8b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.52,
+      "held": {
+        "name": "Sylt Funk-Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-e898-4004-83ca-675302c77669"
+      },
+      "squuid": "5c6d519a-63fa-4500-8222-3a51de04493f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Sylt/OT Rantum",
+  "pseudoCompany": false,
+  "street": "Hafenstr.",
+  "name": "Syltertainment GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-df23-4418-b8da-2241e10fe508",
+  "controlDate": "2021-11-23T17:09:10.489Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "25980",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "HITC Verwaltung GmbH",
+        "squuid": "5f198649-bfd6-42b9-a542-012cca9600d6"
+      },
+      "squuid": "5f198698-0f84-4ad4-a020-4d9534263e46",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Wussow, Indra B.",
+        "squuid": "5f198659-82a7-4696-8889-12428cbda57b"
+      },
+      "squuid": "5f1986a5-e1d6-4cce-b039-2f69229f39c0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Wussow, Joachim W.",
+        "squuid": "5f198667-c8d8-423d-bfa5-2a01e9ca31c4"
+      },
+      "squuid": "5f1986b3-ea54-472c-8c89-921773edbb5b",
+      "state": "active"
+    }
+  ]
+}

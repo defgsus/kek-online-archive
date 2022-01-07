@@ -1,0 +1,64 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Show German AcquiCo GmbH",
+        "squuid": "5e5505d5-05b6-4a2f-9b3b-b6767799a1b3"
+      },
+      "squuid": "5e550704-65aa-4894-9596-2c6e3a101d3c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "LEONINE Holding GmbH",
+        "squuid": "5e4fbf88-4c60-4ec6-8bce-e792c3d29cd2"
+      },
+      "squuid": "5f10298d-ab60-424b-807a-56050dda4b66",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Kaufinger Str",
+  "name": "LEONINE Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5e5505eb-610f-4503-8d79-dcc1ff47eccb",
+  "controlDate": "2022-01-04T11:49:00.345Z",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "80331",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "SHOW Holding S.C.A.",
+        "squuid": "606c643e-3b1d-4708-8ecb-bf88b284fb28"
+      },
+      "squuid": "606c64a6-1f46-4c4f-86a4-90f4252dc1bd",
+      "state": "active"
+    }
+  ]
+}

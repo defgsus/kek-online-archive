@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "MAIRDUMONT GmbH & Co. KG",
+        "squuid": "5be1a6b6-6485-4973-9bbc-8ac6b12caaf9"
+      },
+      "squuid": "5eddfebf-d481-49f2-8a73-9833474b406f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ostfildern",
+  "pseudoCompany": false,
+  "street": "Marco-Polo-Str.",
+  "name": "MAIRDUMONT Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5eddfe9a-07a3-41a5-bd6b-d6bbcbda2789",
+  "controlDate": "2021-12-03T14:25:07.238Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "73760",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Mair-Jickeli Familien GmbH & Co. KG",
+        "squuid": "5be1a6b6-1975-4503-9c2a-805f1b6655c8"
+      },
+      "squuid": "5ee0d5f6-7a5c-413b-be50-91b45694dd06",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "DuMont Mediengruppe GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1ab-45ed-adc5-5a3dca911ab5"
+      },
+      "squuid": "5ee0d61c-a110-40c7-9e03-c543fafb37d4",
+      "state": "active"
+    }
+  ]
+}

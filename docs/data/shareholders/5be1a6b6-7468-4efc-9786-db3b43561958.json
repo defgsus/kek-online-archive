@@ -1,0 +1,111 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Funkhaus Landshut GmbH & Co. KG",
+        "squuid": "5be1a6b6-6e30-474f-a100-be7d7cf5192f"
+      },
+      "squuid": "5be1a6b7-006d-40b3-a1ee-20a9dbca76c7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Funkhaus Landshut Verwaltungs GmbH",
+        "squuid": "5f904aad-3ea6-49af-8cd6-449bfa3f116e"
+      },
+      "squuid": "6065c489-2a63-4e5a-938a-45223d3f8dbd",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Landshut",
+  "pseudoCompany": false,
+  "street": "Ländgasse",
+  "name": "Radio AWN Landshut GmbH & Co. Hörfunk KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7468-4efc-9786-db3b43561958",
+  "controlDate": "2021-12-07T16:48:29.606Z",
+  "streetNumber": "116",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "84028",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Aktuelle Welle Westliches Niederbayern Programm und Werbe GmbH",
+        "squuid": "5be1a6b6-15b3-4228-8660-7f53ca3bcca4"
+      },
+      "squuid": "5be1a6b7-2004-48a4-b91e-381733040fac",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Jos. Thomann'sche Buchdruckerei Verlag der Landshuter Zeitung KG",
+        "squuid": "5be1a6b6-28be-407a-b3f2-c6e61df42d74"
+      },
+      "squuid": "5c8934b7-2959-4dba-89ff-0c7322dd80fc",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio AWN Landshut GmbH",
+        "squuid": "5f904c3e-4361-4c19-96ca-f5faa4bec9a8"
+      },
+      "squuid": "6050d458-5acb-4e4b-b5be-01af5b0a0e82",
+      "state": "active"
+    }
+  ]
+}

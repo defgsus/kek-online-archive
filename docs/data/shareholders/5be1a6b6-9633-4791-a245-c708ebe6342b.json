@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "name": "radioaktiv – Campusradio Rhein-Neckar e.V.",
+  "naturalPerson": false,
+  "co": "Universität Mannheim",
+  "squuid": "5be1a6b6-9633-4791-a245-c708ebe6342b",
+  "streetNumber": "L 15/14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "68161",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "radioaktiv",
+        "squuid": "5be1a6b1-128d-43ad-bd9b-14f78293c23e"
+      },
+      "squuid": "5be1a6b9-4cf8-45c5-9a34-977643bcb8d4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioaktiv.org",
+        "squuid": "5f96c211-8475-4534-b8e4-94edb70f2408"
+      },
+      "squuid": "5f96c247-b23f-4ca0-9580-ca70e8ef5040",
+      "state": "active"
+    }
+  ]
+}

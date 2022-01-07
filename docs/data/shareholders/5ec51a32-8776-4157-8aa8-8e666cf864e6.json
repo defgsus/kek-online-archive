@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Deutsche Medien-Manufaktur GmbH & Co KG",
+        "squuid": "5be1a6b6-c318-4ed1-b567-bdae970c06ea"
+      },
+      "squuid": "5ec51a51-b3ca-4cac-805a-bca749cd9055",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "Hülsebrockstr.",
+  "name": "Deutsche Medien-Manufaktur Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5ec51a32-8776-4157-8aa8-8e666cf864e6",
+  "controlDate": "2021-10-14T13:49:33.108Z",
+  "streetNumber": "2-8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "46185",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Gruner + Jahr GmbH",
+        "squuid": "5be1a6b6-6647-418f-be7f-faee8268574e"
+      },
+      "squuid": "5ec51adc-37cc-41e6-8a28-15b3d2ab9b86",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Landwirtschaftsverlag GmbH",
+        "squuid": "5be1a6b6-31a6-4cfa-a630-deb9d1047291"
+      },
+      "squuid": "5ec51aee-e46b-4827-bcc7-4509ede2d331",
+      "state": "active"
+    }
+  ]
+}

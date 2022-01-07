@@ -1,0 +1,75 @@
+{
+  "state": "active",
+  "city": "Ismaning",
+  "pseudoCompany": false,
+  "street": "Münchener Str.",
+  "name": "mediasports Digital GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b5eb-4280-ae2f-59a172bb1441",
+  "controlDate": "2021-12-08T15:06:04.306Z",
+  "streetNumber": "101",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85737",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mediasports.net",
+        "squuid": "5be1a6b1-cdb4-483b-9cd4-b0d64559cab2"
+      },
+      "squuid": "5be1a6b9-0bac-4bcd-9dea-b2410758c98f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "SPOX.com",
+        "squuid": "5be1a6b1-29a3-4e26-b429-774ffc03a2c1"
+      },
+      "squuid": "5c4acea8-6f1d-436e-a34a-21e728a0db08",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.spox.com",
+        "squuid": "5be1a6b1-6c65-45cc-a6ff-935bfef1c32c"
+      },
+      "squuid": "6093c1f0-951b-42db-b327-545b5a5450f3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.goal.com",
+        "squuid": "5be1a6b1-f427-4593-b00d-82f0826d438f"
+      },
+      "squuid": "6093c255-fad9-4000-8a94-94718644eec3",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "FootballCo Services Ltd.",
+        "squuid": "6093c16e-a6e9-49b0-aa64-00f6585b0038"
+      },
+      "squuid": "6093c193-cdff-49ee-b2fb-5e6e2ceab7f5",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f92a25c-4540-4772-9cb6-a7654973a0c9",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Dreyeckland Betriebsgesellschaft mbH",
+        "squuid": "5be1a6b6-27cf-48d0-9673-c8c09de14312"
+      },
+      "squuid": "5f92a2ad-779d-4fc7-85df-744945140e4f",
+      "state": "active"
+    }
+  ],
+  "name": "www.rdl.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-03T13:25:26.207Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Discovery Communications LL.C.",
+        "squuid": "5be1a6b6-668b-417d-ac9e-d9e62d1f68cb"
+      },
+      "squuid": "5be1a6b7-2321-45cd-9cd9-cd61919fc527",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "note": "Stand: 05/2021",
+  "pseudoCompany": false,
+  "name": "Discovery Communications Holdings LL.C.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a79d-4e2b-9cf5-ebe795045d8f",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.07.2017, Az.: KEK 926, und Bescheid der BLM vom 24.07.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 66.7,
+      "holder": {
+        "name": "DHC Discovery, Inc.",
+        "squuid": "5be1a6b6-41b8-47e6-a739-c10f2a229e20"
+      },
+      "squuid": "5be1a6b7-ce79-4599-bb07-eb9dbca70fbe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Discovery, Inc.",
+        "squuid": "5be1a6b6-fde0-477e-bfdd-f31e32676b3b"
+      },
+      "squuid": "5be1a6b7-22fc-4981-964d-351ac5d3f3d5",
+      "state": "active"
+    }
+  ]
+}

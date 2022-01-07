@@ -1,0 +1,80 @@
+{
+  "rfRepresentative": "Thomas De Buhr, James Rushton",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Jörn Schulze-Hesselmann",
+  "rfStartDate": "August 2021",
+  "rfFreePay": false,
+  "squuid": "61239b08-c844-42a2-8fb5-bd8af773397f",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.dazn.com/de-DE/l/sports/?gclid=EAIaIQobChMIvKrGt7aQ7AIVDOJ3Ch33NgHnEAAYASAAEgJz0fD_BwE&gclsrc=aw.ds",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "DAZN DACH GmbH",
+        "squuid": "5ce64e36-cd7f-4914-b720-b6ec442d403d"
+      },
+      "squuid": "61239d8b-70f5-4da2-82e2-e6de4f272678",
+      "state": "active"
+    }
+  ],
+  "name": "DAZN for Business",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Sportspartenprogramm, das sich an gewerbliche Endkunden (Sportbars, Restaurants, Hotels etc.) richtet. Das Streamingangebot umfasst Veranstaltungen verschiedener Sportarten, darunter Fußball, Tennis, Basketball und Rugby. Die Verbreitung erfolgt über das Internet unter Verwendung von eigens entwickelten Set-Top-Boxen.",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "11.06.2021",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "11.06.2021",
+  "accessibilityEmail": "help@dazn.com",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

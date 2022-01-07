@@ -1,0 +1,101 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 19.61,
+      "held": {
+        "name": "Lokalradio Berchtesgadener Land Verwaltungs GmbH",
+        "squuid": "5be1a6b6-86b9-494c-a16c-f4bd3bb9b638"
+      },
+      "squuid": "60a26730-6dd6-4514-8ba5-36862e575c2b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Reber Holding Geschäftsführungs GmbH",
+        "squuid": "60a4db51-ca61-4dc0-8471-51366db49c8b"
+      },
+      "squuid": "60a644ed-02c4-45f9-a432-f8b9714dde7a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bad Reichenhall",
+  "pseudoCompany": false,
+  "street": "Ludwigstr.",
+  "name": "Reber Holding GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "60a26712-db8d-45f7-855e-a05e8e5dc3f3",
+  "controlDate": "2021-11-23T12:50:09.973Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "83435",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Reber Holding Geschäftsführungs GmbH",
+        "squuid": "60a4db51-ca61-4dc0-8471-51366db49c8b"
+      },
+      "squuid": "60a4db7f-eb94-45b4-babd-deebaa9e0430",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 32.0,
+      "holder": {
+        "name": "Botzleitner-Reber, Walburga",
+        "squuid": "5ca74362-3752-4961-a246-ec11d128c717"
+      },
+      "squuid": "60a4dc2d-1f03-466c-b58e-c5a028c57ced",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Fendt, Sabine",
+        "squuid": "5ca7443d-77c2-42d4-a5d2-dc522318bf5b"
+      },
+      "squuid": "60a4dc3e-742a-405b-a4fb-d532687d0227",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Botzleitner-Reber, Peter",
+        "squuid": "5ca7439a-9b1d-41b9-95fc-cea3aded56d4"
+      },
+      "squuid": "60a4dc59-5e0f-4021-aa72-c8ddd0f92d28",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 28.0,
+      "holder": {
+        "name": "Botsleitner-Reber, Paul",
+        "squuid": "60a4dc88-3175-4e44-ae7a-a3f143f7a9e5"
+      },
+      "squuid": "60a4dcac-40ac-4745-829b-6f8bb57a389b",
+      "state": "active"
+    }
+  ]
+}

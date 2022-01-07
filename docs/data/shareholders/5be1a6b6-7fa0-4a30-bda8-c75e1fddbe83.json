@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Kornwestheim",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr. 5",
+  "name": "Zeitungsverlag Kornwestheim GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7fa0-4a30-bda8-c75e1fddbe83",
+  "controlDate": "2021-10-26T12:18:38.759Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70806",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kornwestheimer Zeitung",
+        "squuid": "5be1a6b1-2659-45c2-84e3-701130465f41"
+      },
+      "squuid": "5be1a6b9-1b1d-4369-bda7-c09f09091917",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kornwestheimer-zeitung.de",
+        "squuid": "5be1a6b1-6879-4a87-aa2c-afe1dac52734"
+      },
+      "squuid": "5be1a6b9-9c5f-4f76-bc9d-848fab3829d8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b"
+      },
+      "squuid": "5be1a6b8-a9a2-40bf-a10f-0d8e3295e174",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Zeitungsverlag Kornwestheim Verwaltungs GmbH",
+        "squuid": "5ed0f767-8cd7-4608-944d-9570b19baa9e"
+      },
+      "squuid": "5ed0f782-f35d-4f09-850b-689c770a0256",
+      "state": "active"
+    }
+  ]
+}

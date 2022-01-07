@@ -1,0 +1,92 @@
+{
+  "rfRepresentative": "Mesut Akbas",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Emine Dagli",
+  "rfStartDate": "10.01.2005",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-a420-4479-a492-e67703de994d",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "http://kanalavrupa.tv/de/anasayfa-almanca/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Kanal Avrupa Media GmbH",
+        "squuid": "5be1a6b6-21e2-4c16-827c-2529a242bf26"
+      },
+      "squuid": "5be1a6b9-38b7-42b7-aebf-285fd83a0385",
+      "state": "active"
+    }
+  ],
+  "name": "Kanal Avrupa",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Türkischsprachiges Unterhaltungsspartenprogramm, das sich insbesondere an die türkischen und türkischstämmigen Einwohner in Deutschland richtet. Der Programmschwerpunkt liegt auf Musiksendungen, insbesondere Videoclips türkischer Musiker. Weitere Programmelemente sind Informationssendungen, Dokumentationen, Daily Soaps, Talkshows, Sportsendungen,\nZeichentrickfilme und Studiospiele für Kinder.",
+  "rfLicenseUntil": "15.12.2028",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "03.08.2009, 25.02.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-31bf-4695-b24e-b6d26d9113b1",
+      "name": "Türksat",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "16.12.2008",
+  "accessibilityEmail": "info@kanalavrupa.tv",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-5f26-4c8a-8dbe-f0997863285f",
+      "name": "Türkisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

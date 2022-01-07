@@ -1,0 +1,78 @@
+{
+  "state": "active",
+  "city": "Winnenden",
+  "pseudoCompany": false,
+  "street": "Baacher Hauptstr.",
+  "name": "L-TV GmbH Landesfernsehen",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ed76-469c-be3a-f6412b962c87",
+  "controlDate": "2021-12-13T13:12:48.660Z",
+  "streetNumber": "39",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "71364",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "L-TV Fernsehen",
+        "squuid": "5d2c70b0-ae96-40d3-aab1-6ae39a17b502"
+      },
+      "squuid": "5d35c1f6-91ae-479d-a82d-5785a4e24158",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.l-tv.de",
+        "squuid": "5f3d10ef-4285-4398-9df3-14059e796573"
+      },
+      "squuid": "5f3d119c-654c-4599-ab8e-223a6560257c",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 11.12.2015",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 89.0,
+      "holder": {
+        "name": "Kusterer, Manfred",
+        "squuid": "5be1a6b6-b7a6-4167-b044-db83cec9a313"
+      },
+      "squuid": "5be1a6b7-1141-4258-85f2-9526502ea7d4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.5,
+      "holder": {
+        "name": "Kusterer, Simon",
+        "squuid": "5be1a6b6-7d73-48d6-ac5f-92da116a29a4"
+      },
+      "squuid": "5be1a6b7-84bd-48b2-85cc-9e9ad0c8cc20",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.5,
+      "holder": {
+        "name": "Schoch, Sarah",
+        "squuid": "5be1a6b6-d08e-4bdd-886c-ad0c414028f3"
+      },
+      "squuid": "5be1a6b7-713b-41fb-bee2-707cc9ce7e60",
+      "state": "active"
+    }
+  ]
+}

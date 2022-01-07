@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Eberswalde",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Eisenbahnstr.",
+  "name": "EB-Kreativ-Service GmbH",
+  "naturalPerson": false,
+  "squuid": "5c5c2bdf-388c-4e49-8a51-17ae20ed1a92",
+  "streetNumber": "92-93",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "16225",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ODF-Fernsehen für Ostbrandenburg",
+        "squuid": "5c5c2d9d-1d30-49e7-85ea-775859d8d044"
+      },
+      "squuid": "5c5c2fab-eac8-4ec3-9521-3d31390b18a4",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Eberswalder Blitz Werbe & Verlags GmbH",
+        "squuid": "5c5c2c0a-5d2a-4c80-9dae-59b9dfe1315a"
+      },
+      "squuid": "5c5c304b-c0e7-4c01-8b78-baef7fcaf0f1",
+      "state": "active"
+    }
+  ]
+}

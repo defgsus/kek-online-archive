@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Schmiedener Str.",
+  "name": "ACE Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-444f-4669-ab1e-ea5f2cd61a3e",
+  "controlDate": "2021-11-23T09:53:26.080Z",
+  "streetNumber": "227",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70374",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ACE-Lenkrad",
+        "squuid": "5be1a6b1-e7a2-4ffa-8daf-9b96ab02af4c"
+      },
+      "squuid": "5be1a6b9-ab14-4a64-8e5a-338b7fccbcac",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ace-lenkrad.de",
+        "squuid": "5be1a6b1-6cc1-4593-b209-faf1d12b0f1c"
+      },
+      "squuid": "5be1a6b9-2d0a-4509-a697-778baa5ee3b3",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ACE Auto Club Europa e.V.",
+        "squuid": "5be1a6b6-b1d9-4bea-8929-a6b43aa1f218"
+      },
+      "squuid": "5be1a6b8-0941-43ad-8de5-792d2d20af27",
+      "state": "active"
+    }
+  ]
+}

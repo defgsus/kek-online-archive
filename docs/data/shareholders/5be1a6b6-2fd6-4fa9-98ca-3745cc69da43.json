@@ -1,0 +1,58 @@
+{
+  "state": "active",
+  "city": "Zwickau",
+  "pseudoCompany": false,
+  "street": "Hauptmarkt",
+  "name": "TeleVision Zwickau GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2fd6-4fa9-98ca-3745cc69da43",
+  "controlDate": "2022-01-07T14:21:45.865Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "08056",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "TV Westsachsen",
+        "squuid": "5be1a6b1-ebce-44b6-bb41-b0407839f98d"
+      },
+      "squuid": "5be1a6b9-0315-4832-9f0c-e60900900cdf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.westsachsen.tv",
+        "squuid": "5f8045b4-9d84-4660-9612-6ae4c61a9bc3"
+      },
+      "squuid": "5f80463f-c167-4ad9-89ce-a64389517f41",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wutzler, Mandy",
+        "squuid": "5e4f9655-cb2f-49fa-b784-951ee32d570d"
+      },
+      "squuid": "5e4f9675-7f0b-4e49-b14a-be82083e4b49",
+      "state": "active"
+    }
+  ]
+}

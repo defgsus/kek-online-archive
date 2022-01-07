@@ -1,0 +1,82 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "SKB - Stadtfernsehen und Kabelrundfunk Brandenburg a.d. Havel GmbH & Co. Betriebs KG",
+        "squuid": "5c5d51bd-e7a8-4bee-9d99-4bca95985d12"
+      },
+      "squuid": "5f365b06-9ff1-467c-ae59-9efc4f71542d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Brandenburg/Havel",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Kurstr.",
+  "name": "SKB Stadtfernsehen - Kabelrundfunk Brandenburg a. d. Havel GmbH",
+  "naturalPerson": false,
+  "squuid": "5c5d547b-f7b9-4e0f-8b71-950463a5dbec",
+  "controlDate": "2022-01-05T15:32:53.253Z",
+  "streetNumber": "14A",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "14776",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SKB Stadtfernsehen Brandenburg",
+        "squuid": "5c5d551c-3c51-4416-9e60-664189a26d01"
+      },
+      "squuid": "5c5d5909-d15d-4442-b056-40a45169250d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "RFT kabel Brandenburg GmbH",
+        "squuid": "5c5d54d6-4348-4218-9d21-0ce200815939"
+      },
+      "squuid": "5c5d5940-83d6-4a0d-abb1-f55ddc2a1e85",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "BNMG Brandenburgische Netz- und Media-Service GmbH",
+        "squuid": "5c5d54be-f946-4c6d-aba9-c1542fc63998"
+      },
+      "squuid": "5c5d5956-2c43-41fe-9531-8311c6703c35",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Tiemann, Stefan",
+        "squuid": "5f365de1-5854-4e0f-ab6a-a5bf0ec8b9ca"
+      },
+      "squuid": "5f365f76-1506-46b4-8b84-4f0d74cbe930",
+      "state": "active"
+    }
+  ]
+}

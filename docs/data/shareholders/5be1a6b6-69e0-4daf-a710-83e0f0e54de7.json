@@ -1,0 +1,186 @@
+{
+  "state": "active",
+  "city": "Wildau",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Karl-Marx-Str.",
+  "name": "rkw Radio Königs Wusterhausen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-69e0-4daf-a710-83e0f0e54de7",
+  "controlDate": "2021-12-09T15:05:19.181Z",
+  "streetNumber": "116",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "15745",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "HitRadio SKW",
+        "squuid": "5be1a6b1-edb7-4acd-918a-f16c12bc6612"
+      },
+      "squuid": "5be1a6b9-9729-4fb1-83db-daa290b18f98",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hitradio-skw.de",
+        "squuid": "5f35439b-11a5-417f-b212-be7576bb7efe"
+      },
+      "squuid": "5f3543c2-106e-4c53-bbe6-b1e357851ef5",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 1.9,
+      "holder": {
+        "name": "Stiftung Funkerberg Königs Wusterhausen",
+        "squuid": "5be1a6b6-2949-4e30-ad60-ff91c68aba29"
+      },
+      "squuid": "5be1a6b7-4b1a-4e51-8e92-3f5aad27216d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 37.52,
+      "holder": {
+        "name": "Schlager, Rudolf",
+        "squuid": "5be1a6b6-91a6-480a-a9fe-d6ca080a1221"
+      },
+      "squuid": "5be1a6b7-0252-4de6-b4ce-8301ca50ab18",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.53,
+      "holder": {
+        "name": "Ammon, Hans-Gerhard",
+        "squuid": "5be1a6b6-7e4a-4dd7-8edf-3c5dc3fd8394"
+      },
+      "squuid": "5be1a6b7-e77a-4d58-9a17-086e664f6b43",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.44,
+      "holder": {
+        "name": "GWB Grundwert Brandenburg GmbH",
+        "squuid": "5be1a6b6-1c19-48dc-aa7b-832afb9515ff"
+      },
+      "squuid": "5be1a6b7-61e4-4b31-ba3a-0852bb99f25d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 22.73,
+      "holder": {
+        "name": "Schulte & Enkmann Medien-Service GmbH",
+        "squuid": "5be1a6b6-5f91-41c6-b5ca-62e6a5d49961"
+      },
+      "squuid": "5be1a6b7-cf18-4c2b-82eb-4e7f2439a10f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.09,
+      "holder": {
+        "name": "Kordus, Hartmut",
+        "squuid": "5be1a6b6-e844-4ce7-9790-926a537e975a"
+      },
+      "squuid": "5be1a6b7-52ab-4943-88eb-95a56f3e096e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.09,
+      "holder": {
+        "name": "Linke, Hartmut",
+        "squuid": "5be1a6b6-7f80-4c0d-9012-92f6303842e6"
+      },
+      "squuid": "5be1a6b7-1cb8-4a9c-8b48-26253f2ccf3b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.09,
+      "holder": {
+        "name": "Wolter, Thomas",
+        "squuid": "5be1a6b6-baba-4dfc-96a8-2a43dfab1142"
+      },
+      "squuid": "5be1a6b7-7437-432e-96a5-3f48d7f81fa6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.88,
+      "holder": {
+        "name": "Leinemann, Dr. Ralf",
+        "squuid": "5be1a6b6-2eb1-46fd-922d-2f038adc6b86"
+      },
+      "squuid": "5be1a6b7-cff3-4ae0-b06d-7721f7b38762",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.63,
+      "holder": {
+        "name": "Musikschule Roberto Seeliger",
+        "squuid": "5be1a6b6-431b-4cf6-a8df-f55d0cd656e3"
+      },
+      "squuid": "5be1a6b7-7b39-43f4-b208-edc43cdd0bf3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Gödecke, Cornelia",
+        "squuid": "5d30449b-7961-4485-a0f7-231e53b1b1d1"
+      },
+      "squuid": "5d3044e2-5d54-4278-a165-832c59662411",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 5.1,
+      "holder": {
+        "name": "Richter, Tina und Effert, Jan in Erbengemeinschaft",
+        "squuid": "5d3045bb-da4b-43aa-b917-8557f45db921"
+      },
+      "squuid": "5d3045e5-6197-4701-9248-28803494c6db",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "rkw Radio Königs Wusterhausen Verwaltungs GmbH",
+        "squuid": "60b75905-73c5-4e38-81ff-e227ed1e321b"
+      },
+      "squuid": "60b7598d-f551-4a39-b75a-5b68484c7e90",
+      "state": "active"
+    }
+  ]
+}

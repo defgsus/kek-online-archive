@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "pseudoCompany": false,
+  "name": "Rusmedia RR GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-cee4-408c-8454-ec45b1d0899e",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Baltmedia AG",
+        "squuid": "5be1a6b6-62c7-4273-8959-eb222e6abdc5"
+      },
+      "squuid": "5be1a6b7-92c9-4ce5-9193-cb481b613d14",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "PMM Private Media Management GmbH",
+        "squuid": "5be1a6b6-d03b-4ddc-b2d8-ad84e164f978"
+      },
+      "squuid": "5cade99a-a4ce-43a2-bf79-16f328e67271",
+      "state": "active"
+    }
+  ]
+}

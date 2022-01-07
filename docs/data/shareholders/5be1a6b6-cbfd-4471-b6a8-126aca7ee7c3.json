@@ -1,0 +1,83 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Abendzeitung Digital GmbH & Co KG",
+        "squuid": "5bed6f9c-8130-4d42-a189-9e9f827c4530"
+      },
+      "squuid": "5bed7042-b401-4a22-803a-5ee113c2ede1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "AZ Digital Verwaltungs GmbH",
+        "squuid": "5eeb4723-4b0d-471f-9f46-0fabcd11dde8"
+      },
+      "squuid": "5eeb487d-90ba-45d8-bad2-d262e6a3d287",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Garmischer Str. 35",
+  "name": "Abendzeitung München Verlags-GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-cbfd-4471-b6a8-126aca7ee7c3",
+  "controlDate": "2021-01-15T13:42:20.226Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81373",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Abendzeitung",
+        "squuid": "5be1a6b1-82af-43c8-95ef-b4b747c00f41"
+      },
+      "squuid": "5be1a6b9-d137-40f5-b238-e0014b951e6e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.abendzeitung-muenchen.de",
+        "squuid": "5be1a6b1-c5fd-4539-80f4-9806019ce7b2"
+      },
+      "squuid": "5be1a6b9-8c36-4aee-a676-6dad1e0130d1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Cl. Attenkofer'sche Buch- und Kunstdruckerei Verlagsbuchhandlung Straubing KG",
+        "squuid": "5be1a6b6-f22b-4544-889f-d31615692dc4"
+      },
+      "squuid": "5be1a6b8-dcfb-4557-a6f8-ea465ac98171",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "von Boetticher, Dietrich",
+        "squuid": "5be1a6b6-e846-44d7-a6d4-b0e32c49409c"
+      },
+      "squuid": "5be1a6b8-91f0-49f1-bbc8-9e69c4c278d5",
+      "state": "active"
+    }
+  ]
+}

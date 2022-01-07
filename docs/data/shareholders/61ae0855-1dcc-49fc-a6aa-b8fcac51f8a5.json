@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Unterföhring",
+  "pseudoCompany": false,
+  "street": "Medienallee",
+  "name": "eSports.com GSA GmbH",
+  "naturalPerson": false,
+  "squuid": "61ae0855-1dcc-49fc-a6aa-b8fcac51f8a5",
+  "controlDate": "2021-12-06T12:59:28.434Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85774",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.esports.com",
+        "squuid": "5f27c47b-7a52-4e3f-a354-d34bdd2ccd30"
+      },
+      "squuid": "61ae0903-c796-460b-930a-8ef10b44dabe",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Seven.One Sports GmbH",
+        "squuid": "5be1a6b6-81c8-4613-995a-ee1b2927dc57"
+      },
+      "squuid": "61ae0964-2aa0-4dd9-a218-83cec3da0e45",
+      "state": "active"
+    }
+  ]
+}

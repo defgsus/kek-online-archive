@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Kasseler Straße 1a",
+  "name": "Öko-Test AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4874-43dd-8fbc-3ba27494b788",
+  "controlDate": "2021-11-19T13:43:54.442Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60486",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.oekotest.de",
+        "squuid": "5be1a6b1-6695-4584-b0fb-2a3ef2605893"
+      },
+      "squuid": "60e83f9a-96c1-4058-9de9-314d1df44bef",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Öko-Test-Magazin",
+        "squuid": "5be1a6b1-bb37-420a-bbc2-971dd5adacbe"
+      },
+      "squuid": "60e84004-758b-4932-9c50-060a7839ede0",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 66.2,
+      "holder": {
+        "name": "GLG Green Lifestyle GmbH",
+        "squuid": "5be1a6b6-1455-41e3-9c08-f6fd859ff6fe"
+      },
+      "squuid": "5be1a6b8-c163-4830-8a96-cbcdab6b4932",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.8,
+      "holder": {
+        "name": "Streubesitz an der Öko-Test AG (ca. 800 Aktionäre)",
+        "squuid": "5be1a6b6-399e-47df-b427-32fd48a31962"
+      },
+      "squuid": "5be1a6b8-59fd-4ed0-a89a-2577f953d2c8",
+      "state": "active"
+    }
+  ]
+}

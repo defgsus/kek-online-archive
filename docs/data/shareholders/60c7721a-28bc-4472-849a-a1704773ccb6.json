@@ -1,0 +1,36 @@
+{
+  "name": "tv.ingolstadt GmbH & Co. KG",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "München Live TV Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-528c-4d6f-a94d-5b2d81a28258"
+      },
+      "squuid": "60c9b6e1-776f-447a-9621-f22b5d82037a",
+      "state": "active"
+    }
+  ],
+  "squuid": "60c7721a-28bc-4472-849a-a1704773ccb6",
+  "organizations": [
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "tv.ingolstadt",
+        "squuid": "5cee8220-17ea-45c4-a6cf-0b32ebfe69b8"
+      },
+      "squuid": "60c77242-b149-4d6c-90b2-3bfebeb9cd8d",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "rfRepresentative": "Dr. Jochen Cassel, Tassilo Raesig",
+  "state": "active",
+  "sharesInfo": "",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Alexandra Gutzke",
+  "rfStartDate": "03.12.2019",
+  "rfFreePay": true,
+  "squuid": "5ce3ba4c-14de-48ff-b175-a9816a3e8d7c",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.joyn.de/channels/joyn-primetime",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Joyn GmbH",
+        "squuid": "5ce3ba31-2390-4ab5-8a96-a680d98aec69"
+      },
+      "squuid": "5ce3bcc6-32d7-448e-8249-277cced444e6",
+      "state": "active"
+    }
+  ],
+  "name": "Joyn Primetime",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Fiktionales Unterhaltungsspartenprogramm mit vorwiegend US-amerikanischen Drama-, Action- und Comedy-Serien sowie Spielfilmen. Die Übertragung erfolgt ausschließlich im Internet über die Website www.7tv.de, mobile Apps sowie Smart-TV-Apps.",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "06.05.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "06.05.2019",
+  "accessibilityEmail": "info@joyn.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

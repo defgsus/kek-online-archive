@@ -1,0 +1,91 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.33,
+      "held": {
+        "name": "Hotz GmbH & Co. KG",
+        "squuid": "5be1a6b6-adcd-4e69-bbad-0e603672dd58"
+      },
+      "squuid": "5be1a6b8-e0af-46ec-90bf-bf376d94f3f2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Langenberger Verwaltungs GmbH",
+        "squuid": "5f0d9879-3e0a-4d43-adc4-488d167204e5"
+      },
+      "squuid": "5ff452fd-9f3f-40c4-a725-90be97506a2e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wolfsburg",
+  "pseudoCompany": false,
+  "street": "Am Krokusplan",
+  "name": "Langenberger Hotz-Beteiligung GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-0ef8-4c59-9687-696ab0486334",
+  "controlDate": "2021-12-21T13:59:58.356Z",
+  "streetNumber": "21",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "38446",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Langenberger Verwaltungs GmbH",
+        "squuid": "5f0d9879-3e0a-4d43-adc4-488d167204e5"
+      },
+      "squuid": "5f0d98b2-c168-43d4-a3a2-186ad06bfb8f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Langenberger, Ann-Marie",
+        "squuid": "5f0d9889-0b23-4760-a20a-7a9de2cf057b"
+      },
+      "squuid": "5f0d98c4-8ce9-42a5-9b2c-a01d6855dd1f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Langenberger, Antje",
+        "squuid": "5be1a6b6-9cb8-410f-8a44-ee335094e8b8"
+      },
+      "squuid": "5f0d98d0-f4ce-4d5b-845d-bb1deacd0fb9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Langenberger, Luisa",
+        "squuid": "5f0d9895-6235-44d6-9089-42deb5c34e0b"
+      },
+      "squuid": "5f0d98db-497a-4149-b50d-444a3b79e02e",
+      "state": "active"
+    }
+  ]
+}

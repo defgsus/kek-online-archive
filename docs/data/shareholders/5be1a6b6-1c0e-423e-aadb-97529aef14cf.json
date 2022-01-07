@@ -1,0 +1,109 @@
+{
+  "state": "active",
+  "city": "Potsdam",
+  "note": "Sender gehört zum Radio Group Netzwerk.\r\nStand: 1/2018",
+  "pseudoCompany": false,
+  "street": "Brandenburger Str.",
+  "name": "Brandenburger Lokalradios GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1c0e-423e-aadb-97529aef14cf",
+  "controlDate": "2021-12-20T16:23:15.613Z",
+  "streetNumber": "48",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "14467",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Potsdam 89.2",
+        "squuid": "5be1a6b1-db15-4913-8cf9-5f59ed272c5e"
+      },
+      "squuid": "5be1a6b9-be33-4cae-b9c9-ce7276c08ea3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-potsdam.de",
+        "squuid": "5f33f3c8-f830-46ae-a5c8-6d48950beac8"
+      },
+      "squuid": "5f33f3f9-99e1-42f7-b2e5-e668d47c7e66",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 22.196,
+      "holder": {
+        "name": "Schwenk, Stephan",
+        "squuid": "5be1a6b6-fb21-4b9a-9e14-d7e66a4720bb"
+      },
+      "squuid": "5be1a6b8-9a3c-4d3d-afc1-f0bdaad5efce",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.5,
+      "holder": {
+        "name": "Enkmann, Klaus",
+        "squuid": "5be1a6b6-1e89-4387-8953-ceaad30fdb13"
+      },
+      "squuid": "5be1a6b8-8e48-4573-8168-aab3c20ac1e7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 29.844,
+      "holder": {
+        "name": "Adam Medien Holding UG (haftungsbeschränkt)",
+        "squuid": "5be1a6b6-30e7-4dd6-a643-5b9f5f112d31"
+      },
+      "squuid": "5be1a6b8-e0c5-4526-9c14-674a03a8cfca",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Schuck Medien Holding GmbH",
+        "squuid": "5be1a6b6-29fd-4b3f-9d96-231e5fc6a9ab"
+      },
+      "squuid": "5be1a6b8-e81d-4c08-9d14-4a20667bd11f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.5,
+      "holder": {
+        "name": "Steeger, Dirk",
+        "squuid": "5be1a6b6-203b-4c7e-bfc9-c2847b60ebf2"
+      },
+      "squuid": "5be1a6b8-8222-43c6-8bdf-555c1e303fd0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.96,
+      "holder": {
+        "name": "Smyrek, Frank",
+        "squuid": "5caddfd6-5191-40a4-97c3-d094f16061ff"
+      },
+      "squuid": "5cade09f-5e11-4d1b-8640-7ee0c098c8c1",
+      "state": "active"
+    }
+  ]
+}

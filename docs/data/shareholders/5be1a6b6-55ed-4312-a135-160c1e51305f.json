@@ -1,0 +1,43 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Gemeinschaftsprojekt von ARD, ZDF, ORF und SRG SSR",
+        "squuid": "5be1a6b6-3ed4-4c8b-aca0-323860d4df9a"
+      },
+      "squuid": "5be1a6b7-1e2c-4786-b0bf-eddd8168b2dd",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Österreichischer Rundfunk (ORF)",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-55ed-4312-a135-160c1e51305f",
+  "controlDate": "2020-07-03T13:27:17.777Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.orf.at",
+        "squuid": "5d2f150a-b234-42ff-b18b-3c5666fa8e4a"
+      },
+      "squuid": "5d2f1526-193c-4563-9dde-878a879d2070",
+      "state": "active"
+    }
+  ]
+}

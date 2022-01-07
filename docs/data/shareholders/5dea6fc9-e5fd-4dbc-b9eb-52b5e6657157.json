@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Hultschiner Str.",
+  "name": "Süddeutsche Zeitung GmbH",
+  "naturalPerson": false,
+  "squuid": "5dea6fc9-e5fd-4dbc-b9eb-52b5e6657157",
+  "controlDate": "2021-11-16T14:21:02.341Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81677",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Süddeutsche Zeitung",
+        "squuid": "5be1a6b1-6a7e-4c26-a4c1-93fd547d0355"
+      },
+      "squuid": "5dea7069-0fab-47fc-b2d8-4f0dc134c339",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sueddeutsche.de",
+        "squuid": "5be1a6b1-317c-44ce-8355-6e5de7d0e448"
+      },
+      "squuid": "5dea7093-8b8e-4c58-9e4c-eeae60dadd18",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Süddeutsche Zeitung Langstrecke",
+        "squuid": "5be1a6b1-4dad-4d84-9191-8480d6ec9f49"
+      },
+      "squuid": "5dea70cb-288d-4807-ba8b-0b71a8403008",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.jetzt.de",
+        "squuid": "60195199-d43e-4884-880a-e6cf864e0b29"
+      },
+      "squuid": "601951ee-da0f-41db-b2b7-fe5a992bf75a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Süddeutscher Verlag GmbH",
+        "squuid": "5be1a6b6-e8a9-4e8f-b96c-e04e65dc55ed"
+      },
+      "squuid": "5dea7123-3b37-4bfc-a719-f8dae9bb42ab",
+      "state": "active"
+    }
+  ]
+}

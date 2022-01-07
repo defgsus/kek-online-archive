@@ -1,0 +1,56 @@
+{
+  "name": "Gemeinschaftsprojekt von ARD und ZDF",
+  "pseudoCompany": true,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)",
+        "squuid": "5be1a6b6-c5dc-4a3d-ad7b-deaabd587214"
+      },
+      "squuid": "5be1a6b7-7c7f-4010-99c1-0fbc5ee8a074",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Zweites Deutsches Fernsehen (ZDF) Anstalt des öffentlichen Rechts",
+        "squuid": "5be1a6b6-7ee8-46a7-b584-31f00742b7a2"
+      },
+      "squuid": "5be1a6b7-f66d-4b69-8f49-a3d7678c038e",
+      "state": "active"
+    }
+  ],
+  "squuid": "5be1a6b6-2053-4f07-9ad9-fb674c2b36c2",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "KiKA",
+        "squuid": "5be1a6b1-0a8b-4ba6-8985-4d0305eb1afa"
+      },
+      "squuid": "5be1a6b9-6815-4480-b66e-319df799e606",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "PHOENIX",
+        "squuid": "5be1a6b1-f94c-4e39-a4b6-879f6eecb61f"
+      },
+      "squuid": "5be1a6b9-4fdc-47b7-9e0f-2d264e3b2e11",
+      "state": "active"
+    }
+  ],
+  "naturalPerson": false
+}

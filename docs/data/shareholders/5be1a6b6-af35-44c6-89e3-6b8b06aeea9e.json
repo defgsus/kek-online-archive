@@ -1,0 +1,33 @@
+{
+  "name": "Streubesitz an der Lagardère SCA",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-af35-44c6-89e3-6b8b06aeea9e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 73.57,
+      "held": {
+        "name": "Lagardère SCA",
+        "squuid": "5be1a6b6-a740-4ceb-99be-e24737a67e9d"
+      },
+      "squuid": "5be1a6b8-22bd-4f9d-8322-09fac389374a",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 09.01.2018, Az.: KEK 942, und Bescheid der MA HSH vom 12.01.2018",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

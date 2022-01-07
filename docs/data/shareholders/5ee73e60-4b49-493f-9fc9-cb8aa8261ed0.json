@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Vogtland-Anzeiger Geschäftsführungs-GmbH",
+        "squuid": "5ee73c4c-c647-421d-8a1b-5e65ecda2c5f"
+      },
+      "squuid": "5ee73e94-d140-4c9c-96bf-6565284b0c74",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Chemnitz",
+  "pseudoCompany": false,
+  "street": "Winkelhofer Str. ",
+  "name": "VDL Sachsen Holding GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5ee73e60-4b49-493f-9fc9-cb8aa8261ed0",
+  "controlDate": "2021-11-18T10:48:01.852Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "09116",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Medien Union GmbH Ludwigshafen",
+        "squuid": "5be1a6b6-c7c8-4983-84f6-ada451aec436"
+      },
+      "squuid": "5ee73f36-0fd0-4a47-b740-e472851351a4",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "VDL Sachsen Beteiligungs GmbH",
+        "squuid": "5ee73e79-106c-42a4-95e0-97f52ca82a3e"
+      },
+      "squuid": "5ee73f44-13a1-496f-a7aa-2b9fb08730f3",
+      "state": "active"
+    }
+  ]
+}

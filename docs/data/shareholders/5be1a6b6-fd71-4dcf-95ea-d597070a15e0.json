@@ -1,0 +1,91 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "Stand: 11/2021",
+  "pseudoCompany": false,
+  "street": "Dircksenstraße",
+  "name": "Berlin 87,9 Rundfunkveranstalter GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-fd71-4dcf-95ea-d597070a15e0",
+  "controlDate": "2021-11-26T15:56:59.670Z",
+  "streetNumber": "48",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10178",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "STAR FM Maximum Rock (Berlin)",
+        "squuid": "5be1a6b1-498b-4234-9972-86cf10280ea2"
+      },
+      "squuid": "5be1a6b9-cfe1-4300-9e99-d1ec6f8adafc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.starfm.de",
+        "squuid": "5f0d7487-afcc-4681-9d77-13506c48b5b6"
+      },
+      "squuid": "5f0d7588-ef61-472d-90e4-2856bd7d78df",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.berlin.starfm.de",
+        "squuid": "5f33eed5-1b7b-4ed8-ab5c-1e8213566c34"
+      },
+      "squuid": "5f33ef17-206a-41ab-8ded-d240a71afc40",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Dornier Medien Beteiligungs GmbH & Co. KG",
+        "squuid": "5be1a6b6-4b7e-4540-9328-ae2ee4d41794"
+      },
+      "squuid": "5be1a6b7-d0ca-45ba-b407-bc9874999381",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Dornier, David",
+        "squuid": "5be1a6b6-29cb-41ae-a8a8-7cd2aa6be35a"
+      },
+      "squuid": "5f0d75f2-b635-4904-99de-a732aab54c36",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Rock World GmbH",
+        "squuid": "5f0d75c5-ba32-4c6b-b183-dc8bf5c79b80"
+      },
+      "squuid": "5f0d7600-6a51-4bff-9ab0-cbdc918c2839",
+      "state": "active"
+    }
+  ]
+}

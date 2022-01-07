@@ -1,0 +1,97 @@
+{
+  "state": "active",
+  "city": "Weißwasser",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Werner-Seelenbinder-Straße",
+  "name": "Radio WSW GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fa9b-45a4-8e01-126c632818b3",
+  "controlDate": "2022-01-03T12:18:25.985Z",
+  "streetNumber": "54a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "02943",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio WSW",
+        "squuid": "5be1a6b1-8a94-4c96-8c3b-8f2b89f33a87"
+      },
+      "squuid": "5be1a6b9-7cd4-41fd-b705-fe8c1f68e4c6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio WSW - TV",
+        "squuid": "5c581eb4-ea74-4a9e-b851-69102699e5a8"
+      },
+      "squuid": "5c5822d0-ee31-4464-977c-47950a966480",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiowsw.de",
+        "squuid": "5f7ef315-0cf8-46f8-a274-0019643bd407"
+      },
+      "squuid": "5f7ef332-569f-4c1b-911c-36efff5cecb9",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 23.125,
+      "holder": {
+        "name": "Jurk, Egbert",
+        "squuid": "5be1a6b6-e35e-4415-b76c-5e2e8a73e279"
+      },
+      "squuid": "5e4fa9d4-9ff2-40d6-ad63-9e4e91a7f3a3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 23.125,
+      "holder": {
+        "name": "Käseberg, Klaus",
+        "squuid": "5be1a6b6-9e9d-4d9d-a43f-149cb0741a6f"
+      },
+      "squuid": "5e4faa02-574e-4289-8a8e-ad03cf2477b0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 23.125,
+      "holder": {
+        "name": "Jung, Rico",
+        "squuid": "5be1a6b6-32ce-4003-b9b3-bf0730c9e3b6"
+      },
+      "squuid": "5e4faa36-c121-47f1-a788-b6a6d3d083fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.625,
+      "holder": {
+        "name": "Europor Massivhaus GmbH",
+        "squuid": "5be1a6b6-1d23-4c69-ae5d-5ba96e8eeb80"
+      },
+      "squuid": "5e4faa50-63f4-47b3-9cdc-ab7ee1460028",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "rfRepresentative": "Stan Sedlbauer",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "Dezember 2012",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-749f-478e-a4b8-ae6ab907665a",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://amazingdiscoveries.tv/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "amazing discoveries e.V.",
+        "squuid": "5be1a6b6-4254-42cb-a449-7aa419eb6bd9"
+      },
+      "squuid": "5be1a6b9-9a69-48db-88a8-13b4093dcbe5",
+      "state": "active"
+    }
+  ],
+  "name": "amazing discoveries TV",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Spartenprogramm mit biblisch-christlichem Bezug. Es besteht aus Vorträgen und Dokumentationen und wird im Internet über die Seite www.ad-tv.info (Livestream) vorwiegend in deutscher Sprache (wöchentlich etwa 5 Std. in Englisch) verbreitet.",
+  "rfLicenseUntil": "unbefristet",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "18.12.2012",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

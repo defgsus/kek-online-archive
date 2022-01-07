@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Koenigsallee",
+  "name": "Godd Media Broadcast GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5812-4d4e-8a03-3df013f4b1cc",
+  "controlDate": "2022-01-07T10:27:21.484Z",
+  "streetNumber": "27 B",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "14193 ",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "tv.berlin",
+        "squuid": "5be1a6b1-2154-41b3-9906-25ec8c079903"
+      },
+      "squuid": "5be1a6b9-2e2b-462d-8d21-9332e9e49405",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvb.de",
+        "squuid": "5f366409-38c7-4345-9237-7e347434cbd0"
+      },
+      "squuid": "5f36643b-6b0a-4aa6-bbb4-13fb90dbc946",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb 6/2018",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 85.0,
+      "holder": {
+        "name": "Yigit, Seyhan",
+        "squuid": "5be1a6b6-110b-44c9-bbf6-d57299648651"
+      },
+      "squuid": "5be1a6b8-0700-4ee8-9a6d-619257f3bcbb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Pronin, Dr. Denis",
+        "squuid": "5be1a6b6-13b9-4515-9e3d-85b5f1ec9356"
+      },
+      "squuid": "5be1a6b8-5b6b-456d-9aff-7468929cd67e",
+      "state": "active"
+    }
+  ]
+}

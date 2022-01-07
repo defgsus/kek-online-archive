@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "EWE TEL GmbH",
+        "squuid": "5be1a6b6-86b8-4bdd-8739-70ebba0022a6"
+      },
+      "squuid": "5be1a6b7-e176-413d-b695-2e8cf547d1d3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "New Content Media Group GmbH",
+        "squuid": "5be1a6b6-09ff-4aea-a1fb-b110ddf8f808"
+      },
+      "squuid": "5be1a6b8-7265-4d5d-8d9e-033eb44438fa",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "EWE AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a727-406e-888d-a469494c87e8",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "www.ewe.com/investor-relations",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 59.0,
+      "holder": {
+        "name": "Weser-Ems-Energiebeteiligungen GmbH",
+        "squuid": "5be1a6b6-cfb5-41b0-858a-33d49bc803f3"
+      },
+      "squuid": "5be1a6b7-c478-49c2-a7da-046c9ace2575",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "holder": {
+        "name": "Energie Baden-Württemberg AG",
+        "squuid": "5be1a6b6-3788-4c74-bbb5-8099240eb08f"
+      },
+      "squuid": "5be1a6b7-bfd0-4a40-abee-fc8683f1f5d6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Energieverband Elbe-Weser Beteiligungsholding GmbH",
+        "squuid": "5be1a6b6-577f-4b95-9822-99ff54d91a10"
+      },
+      "squuid": "5be1a6b7-7f3a-4e1b-9648-bb6a9d3ba8ae",
+      "state": "active"
+    }
+  ]
+}

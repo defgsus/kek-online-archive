@@ -1,0 +1,110 @@
+{
+  "state": "active",
+  "city": "Steinfurt",
+  "pseudoCompany": false,
+  "street": "Siemensstr. 4",
+  "name": "Tecklenborg Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4812-4f52-858d-bc2211617475",
+  "controlDate": "2021-11-03T17:04:48.727Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "48565",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "NaturFoto",
+        "squuid": "5be1a6b1-6be0-45d8-9882-d1470422ba1c"
+      },
+      "squuid": "5be1a6b9-d221-47dc-b7b8-6bf2bdd79a2d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Münsterland",
+        "squuid": "5be1a6b1-e7f5-450c-99f4-375abc61ce1b"
+      },
+      "squuid": "5be1a6b9-ae5b-42a1-81d8-8b763f9bbd77",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "terra",
+        "squuid": "5be1a6b1-19a4-4758-b294-0296991f12e7"
+      },
+      "squuid": "5be1a6b9-eb01-413b-9c47-a1786d3810a8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Wirtschaft Münsterland",
+        "squuid": "5be1a6b1-23ae-4965-aa2a-86534e5f2007"
+      },
+      "squuid": "5be1a6b9-98d7-46e7-8814-a38ec427f493",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwarzweiß",
+        "squuid": "5be1a6b1-7d02-4bf3-87eb-e0c56c5882e3"
+      },
+      "squuid": "5be1a6b9-0d80-4f11-948e-10ece29fc010",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Tecklenborg, Brigitte",
+        "squuid": "5be1a6b6-9f8e-4906-b83a-d9b96887690e"
+      },
+      "squuid": "5be1a6b8-a82e-40da-82cc-ee6ca446c1f4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Tecklenborg, Stefanie",
+        "squuid": "5be1a6b6-4729-4e8e-987d-73bd82b4af48"
+      },
+      "squuid": "5be1a6b8-f5df-405f-948c-e4fefff91855",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Tecklenborg-Ostendorf, Christina",
+        "squuid": "5be1a6b6-d108-49ad-9abf-fc3dd201041e"
+      },
+      "squuid": "5be1a6b8-c7a6-4590-85c2-64cdc8c184ec",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Tecklenborg Verlag Verwaltungs- und Beteiligungs GmbH",
+        "squuid": "5edf7031-d560-47a2-b1ed-a65f6029d23f"
+      },
+      "squuid": "5edf704d-54af-40c7-a26e-eb831929f6b2",
+      "state": "active"
+    }
+  ]
+}

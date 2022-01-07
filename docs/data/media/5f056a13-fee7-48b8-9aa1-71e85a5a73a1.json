@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "5f056a13-fee7-48b8-9aa1-71e85a5a73a1",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "accessibilityUrl": "https://radioginseng.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Redaktion Radio Ginseng e. V.",
+        "squuid": "5f0569d2-d705-438f-a2f0-db7b7e3fa4cc"
+      },
+      "squuid": "5f056b0c-b919-49a3-8163-8080940cd50e",
+      "state": "active"
+    }
+  ],
+  "name": "Radio Ginseng",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Nichtkommerzielles Hörfunkprogramm",
+  "rfLicensed": "15.06.2020",
+  "rfLicenseFrom": "unbefristet",
+  "accessibilityEmail": "info@radioginseng.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

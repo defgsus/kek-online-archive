@@ -1,0 +1,49 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "held": {
+        "name": "Radio Bonn/Rhein-Sieg GmbH & Co. KG",
+        "squuid": "5be1a6b6-cedf-42cf-96c2-9455aebbb02f"
+      },
+      "squuid": "5be1a6b7-018c-42dd-b152-d32fe9850aac",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Theaterstr.",
+  "name": "Stadtwerke Bonn GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-68b2-44f7-87c3-473bf33a2a4d",
+  "controlDate": "2021-12-21T15:55:09.787Z",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "53111",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Bonn",
+        "squuid": "5f106413-9734-4120-8375-f394eb8ff25c"
+      },
+      "squuid": "5ff6d7c5-8577-48e7-b75c-4e0a23727740",
+      "state": "active"
+    }
+  ]
+}

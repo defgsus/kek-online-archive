@@ -1,0 +1,32 @@
+{
+  "name": "Gemeinde Hille",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-4210-4e5b-a5f7-79b2afe8c486",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.71,
+      "held": {
+        "name": "Radio Minden-Lübbecke GmbH & Co. KG",
+        "squuid": "5be1a6b6-1d3f-41b8-adb3-87fcb17f51e2"
+      },
+      "squuid": "5be1a6b8-215a-42c4-b4a3-8c59130075b1",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

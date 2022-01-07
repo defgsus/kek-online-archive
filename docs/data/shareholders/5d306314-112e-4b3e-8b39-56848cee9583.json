@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": true,
+  "street": "Georg-Schumann-Straße ",
+  "name": "Jobcenter Leipzig",
+  "naturalPerson": false,
+  "squuid": "5d306314-112e-4b3e-8b39-56848cee9583",
+  "controlDate": "2020-07-02T11:19:17.866Z",
+  "streetNumber": "150",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "04159",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.leipzig.de",
+        "squuid": "5d3062e0-2f46-4488-9667-96c256aaf441"
+      },
+      "squuid": "5d306349-dc37-4f6b-811d-25c556a5cec3",
+      "state": "active"
+    }
+  ]
+}

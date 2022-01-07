@@ -1,0 +1,91 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Sandstraße",
+  "name": "Star FM Nürnberg GmbH & Co. KG",
+  "naturalPerson": true,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d6bc-4680-a37b-5bd97a65f4e0",
+  "controlDate": "2021-12-15T16:16:08.442Z",
+  "streetNumber": "20 a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "90443",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "star fm Nürnberg",
+        "squuid": "5be1a6b1-98fc-4cf8-a9f3-bee6167d09a5"
+      },
+      "squuid": "5be1a6b9-dabc-4ad9-b3cf-4422413d3925",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "star fm Schwabach/Lauf/Fürth",
+        "squuid": "5be1a6b1-303f-40b1-8be2-0a28e77be333"
+      },
+      "squuid": "5be1a6b9-1dc4-410a-8d14-a28ca947ad29",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nbg.starfm.de",
+        "squuid": "5f96db7c-a90f-4e03-b2ab-1826bf72f71e"
+      },
+      "squuid": "5f96dbc7-9681-4d1f-a5d9-dd2a0481d21e",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "STAR FM Nürnberg Verwaltungs GmbH",
+        "squuid": "5f96dc32-cd53-4987-b16f-ed689e744fa3"
+      },
+      "squuid": "5f96dc8c-5b89-4dab-a640-061f020dc453",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Dornier, David",
+        "squuid": "5be1a6b6-29cb-41ae-a8a8-7cd2aa6be35a"
+      },
+      "squuid": "5f96dc9b-ae39-4a73-8eb0-d76489867241",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Dornier Medien Beteiligungs GmbH & Co. KG",
+        "squuid": "5be1a6b6-4b7e-4540-9328-ae2ee4d41794"
+      },
+      "squuid": "6022b808-ccf4-4f92-b3b5-0da7eb1c6f32",
+      "state": "active"
+    }
+  ]
+}

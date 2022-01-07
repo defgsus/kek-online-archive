@@ -1,0 +1,35 @@
+{
+  "name": "Eigenbesitz der Highlight Communications AG",
+  "squuid": "5e3966c1-3ea6-40ae-9b3f-4d0f96093d1c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.19,
+      "held": {
+        "name": "Highlight Communications AG",
+        "squuid": "5be1a6b6-0866-45c9-a7f0-6eaee52c93c9"
+      },
+      "squuid": "5e3966f8-665d-4333-bb8a-3487a86382af",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active"
+}

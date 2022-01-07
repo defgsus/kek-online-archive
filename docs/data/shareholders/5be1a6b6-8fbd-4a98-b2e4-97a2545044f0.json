@@ -1,0 +1,97 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Zitadellenweg",
+  "name": "Deutsches Musik Fernsehen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-8fbd-4a98-b2e4-97a2545044f0",
+  "otherMediaActivities": "Die artcom-Gesellschaft für Kommunikation mbH ist zudem Alleingesellschafterin der AC Distribution & Marketing GmbH, welche den Teleshopping-Sender Shop24Direct betreibt.",
+  "controlDate": "2021-12-02T17:36:53.455Z",
+  "streetNumber": "26c",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "13599",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Deutsches Musik Fernsehen",
+        "squuid": "5be1a6b1-713b-483f-a29f-ef6264149e75"
+      },
+      "squuid": "5be1a6b9-dbaa-4d99-b2f6-6626a114f4c1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Volksmusik.TV",
+        "squuid": "5c52c8b2-ee4b-42d9-b6a9-5acfa6346ace"
+      },
+      "squuid": "5c52ca7e-014f-4bb7-8eb5-4c6963bd11bc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deutsches-musik-fernsehen.de",
+        "squuid": "5f1ec8f0-5df7-4248-a7e0-42d8b3eb37d1"
+      },
+      "squuid": "5f1ec91e-776e-4c55-a7a7-3fa99a483991",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.volksmusik.tv",
+        "squuid": "5f8056a2-6ad8-495b-a75a-57bacc2e597e"
+      },
+      "squuid": "5f8056e6-a5cf-49fe-a311-841fc839355e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "LILO TV",
+        "squuid": "5fd4700b-320b-4608-a429-6588b53eb888"
+      },
+      "squuid": "5fd4735d-8174-4d28-beb9-6ad938d5aa7b",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 13.02.2018; Az: KEK 949",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "artcom-Gesellschaft für Kommunikation mbH",
+        "squuid": "5be1a6b6-80ea-42e6-b051-805e132a47ad"
+      },
+      "squuid": "5be1a6b7-43d1-482e-bc1b-a990fada11b5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "AMVG Allgemeine-Medien-Verwaltungs-Gesellschaft mbH",
+        "squuid": "5be1a6b6-f545-450f-a1f9-bf57f4637692"
+      },
+      "squuid": "5f1ed145-b487-49d0-b16b-cbe071eb2762",
+      "state": "active"
+    }
+  ]
+}

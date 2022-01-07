@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Suhler Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-8f0e-479f-9854-3193606b8fe0"
+      },
+      "squuid": "5ec7c6df-d021-4b47-9ee2-2e71d9a6eb44",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Suhl",
+  "pseudoCompany": false,
+  "street": "Schützenstr.",
+  "name": "Suhler Verlag Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5ec7c6c6-2d1c-4c8a-b31d-f43c963881fc",
+  "controlDate": "2021-10-15T12:40:53.145Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "98527",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "Süddeutscher Verlag GmbH",
+        "squuid": "5be1a6b6-e8a9-4e8f-b96c-e04e65dc55ed"
+      },
+      "squuid": "5ed7624f-eaaf-4eb7-9fab-cbc68ac2de3c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Deutsche Druck- und Verlagsgesellschaft mbH (DDVG)",
+        "squuid": "5be1a6b6-a5cc-47e1-ad55-477c084b25cb"
+      },
+      "squuid": "5ed7625c-5889-46c8-b866-4a13b9df4c54",
+      "state": "active"
+    }
+  ]
+}

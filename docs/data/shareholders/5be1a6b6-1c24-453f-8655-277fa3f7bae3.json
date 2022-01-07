@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Tucholskystr.",
+  "name": "Zentralrat der Juden in Deutschland K. d. ö. R.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1c24-453f-8655-277fa3f7bae3",
+  "controlDate": "2020-05-29T11:03:02.664Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Jüdische Allgemeine",
+        "squuid": "5be1a6b1-3f3a-4eff-83fe-980a6f6ac411"
+      },
+      "squuid": "5be1a6b9-8e1e-4c20-ad25-abc55571b751",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.juedische-allgemeine.de",
+        "squuid": "5be1a6b1-1fe5-4048-88c8-b554dd91e99e"
+      },
+      "squuid": "5be1a6b9-a159-4cd8-a602-376e2afb985e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

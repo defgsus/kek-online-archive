@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f96d595-7dcb-48d9-bd02-1d2b1c35a3d3",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Saarländischer Rundfunk (SR)",
+        "squuid": "5be1a6b6-6f9b-48bd-b68d-8175bc57fb68"
+      },
+      "squuid": "5f96da78-0ebd-4f56-b412-edf6b356fc77",
+      "state": "active"
+    }
+  ],
+  "name": "www.sr.de/sr/sr3",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-06T11:48:11.452Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

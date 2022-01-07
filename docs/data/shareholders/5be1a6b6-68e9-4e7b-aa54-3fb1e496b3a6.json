@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Frankfurt am Main",
+  "pseudoCompany": false,
+  "street": "Otto-Fleck-Schneise",
+  "name": "German Football Partners-American Football Verband Deutschland Rechteverwertungs- und Beteiligungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-68e9-4e7b-aa54-3fb1e496b3a6",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60528",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "German Football Fernsehen - GFL TV",
+        "squuid": "5be1a6b1-0c63-46ce-aa83-0813122a22b0"
+      },
+      "squuid": "5be1a6b9-119d-44d3-95b9-ac2f57d06fda",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 09.05.2017, Az.: KEK 916, und Bescheid der LPR Hessen vom 14.06.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "American Football Verband Deutschland e. V.",
+        "squuid": "5be1a6b6-7f2d-4fcd-b88e-95875d413798"
+      },
+      "squuid": "5be1a6b8-2295-49ca-867c-ac3a9bf39c53",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Duisburg",
+  "pseudoCompany": false,
+  "street": "Kruppstrasse 30 b",
+  "name": "Deutscher Kanu-Verband - Wirtschafts- und Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f6e5-4196-93f3-f5155cdd3908",
+  "controlDate": "2021-10-26T09:50:03.070Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "47055",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kanu-Sport",
+        "squuid": "5be1a6b1-76a1-45ac-acce-1bef0a44e5ed"
+      },
+      "squuid": "5be1a6b9-c666-4548-940d-3f4514d7d274",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Deutscher Kanu-Verband",
+        "squuid": "5be1a6b6-dc75-4c88-a967-f753bb5f8218"
+      },
+      "squuid": "5be1a6b8-4d39-4745-a67a-a1a2ae4925b9",
+      "state": "active"
+    }
+  ]
+}

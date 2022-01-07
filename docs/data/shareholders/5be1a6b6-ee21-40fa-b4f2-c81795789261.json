@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Kohlenhofstraße",
+  "name": "Antenne 50plus Ltd. & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ee21-40fa-b4f2-c81795789261",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "90443",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Antenne 50plus",
+        "squuid": "5be1a6b1-2c31-4352-a0eb-c297b0bee57d"
+      },
+      "squuid": "5be1a6b9-155b-45d8-aa15-83f1b1428a3e",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK, Abruf am 05.12.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Müller, Reinhard",
+        "squuid": "5be1a6b6-0fe6-473e-8b2d-b569eeec7f55"
+      },
+      "squuid": "5be1a6b8-1bdb-43b5-8f9b-275165073d50",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "ANTENNE 50 PLUS MANAGEMENT LTD.",
+        "squuid": "5be1a6b6-4dcb-43d1-823a-d49f807a89a0"
+      },
+      "squuid": "5be1a6b8-af9d-48d0-a2a8-683a224681b1",
+      "state": "active"
+    }
+  ]
+}

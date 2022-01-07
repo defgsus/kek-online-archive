@@ -1,0 +1,43 @@
+{
+  "name": "Wirth, Klaus",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-c4dd-4230-a7d1-85cc8911f6ef",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.33,
+      "held": {
+        "name": "TV Oberfranken GmbH & Co. KG",
+        "squuid": "5be1a6b6-24fd-46f1-a071-75daf7870e61"
+      },
+      "squuid": "5be1a6b8-a977-44ae-aab4-891139a6f895",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.2,
+      "held": {
+        "name": "TV Oberfranken Geschäftsführungs GmbH",
+        "squuid": "5f80392d-6f14-4fac-8824-7c5beda5ccc6"
+      },
+      "squuid": "5f8d7457-f117-46b1-81df-eb625bd8eeee",
+      "state": "active"
+    }
+  ],
+  "city": "Münchberg",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

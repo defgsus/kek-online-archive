@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Bad Homburg",
+  "pseudoCompany": false,
+  "street": "Siemensstraße 6",
+  "name": "WDV Gesellschaft für Medien & Kommunikation mbH & Co oHG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7e15-4b8c-ae6a-9fa7a7d7fa6f",
+  "controlDate": "2021-01-15T13:46:19.593Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "61352",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "abenteuer und reisen",
+        "squuid": "5be1a6b1-40f4-4536-8778-3086853adb8c"
+      },
+      "squuid": "5be1a6b9-6d83-4914-b6a6-958613f036ed",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.abenteuer-reisen.de",
+        "squuid": "5be1a6b1-cd9e-4549-9b21-bc5aebf917e7"
+      },
+      "squuid": "5be1a6b9-a67b-408a-9bc8-7cc12122965e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "VVG Gesellschaft zur Verlagsbeteiligung und Verwaltung mbH",
+        "squuid": "5be1a6b6-9ff8-4350-b65a-f586658d2ba5"
+      },
+      "squuid": "5be1a6b8-d1a8-4845-8b46-4dfd19d46d11",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Zeitschriften VVG Verlags- und Verwaltungsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-6adf-4bf6-843a-7d94dc355999"
+      },
+      "squuid": "5be1a6b8-932d-421a-99b4-e3a1feb27485",
+      "state": "active"
+    }
+  ]
+}

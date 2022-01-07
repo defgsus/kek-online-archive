@@ -1,0 +1,59 @@
+{
+  "state": "active",
+  "city": "Ludwigsburg",
+  "note": "Stand: 5/2021",
+  "pseudoCompany": false,
+  "street": "Kirchstraße",
+  "name": "Radio 100,7 MHz Stuttgart GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8bd4-4e40-8568-aafbeac0ca9e",
+  "controlDate": "2021-12-06T12:15:03.181Z",
+  "streetNumber": "29",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "71634",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Energy Stuttgart",
+        "squuid": "5be1a6b1-c9ba-4717-8a2f-0b0b6e16adb5"
+      },
+      "squuid": "5be1a6b9-6aa6-4234-a19c-bd46eaf774ee",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.energy.de/stuttgart",
+        "squuid": "5f3e5e84-0a68-486b-a634-31e8c54ec45f"
+      },
+      "squuid": "5f3e5ec1-efbd-4b2d-addc-a4d603ea9f5c",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Radio NRJ GmbH",
+        "squuid": "5be1a6b6-fbf8-4b3a-b83b-552f26cc61a6"
+      },
+      "squuid": "5be1a6b7-a86c-41bb-87c2-0f7153010f84",
+      "state": "active"
+    }
+  ]
+}

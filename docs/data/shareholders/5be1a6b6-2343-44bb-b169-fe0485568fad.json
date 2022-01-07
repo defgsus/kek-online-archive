@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Böblingen",
+  "pseudoCompany": false,
+  "street": "Naststraße",
+  "name": "BCF Radiobetriebs- und Beteiligungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2343-44bb-b169-fe0485568fad",
+  "streetNumber": "31",
+  "organizations": [
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70376",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Energy Böblingen/Calw/Freudenstadt",
+        "squuid": "5be1a6b1-9dbd-4539-bf1e-a06bea3e7661"
+      },
+      "squuid": "5be1a6b9-4f49-434f-8721-44c3f9c7738c",
+      "state": "active"
+    }
+  ],
+  "credits": "Website der LFK, Abruf am 11.02.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio NRJ GmbH",
+        "squuid": "5be1a6b6-fbf8-4b3a-b83b-552f26cc61a6"
+      },
+      "squuid": "5be1a6b7-841e-447d-826c-456ed5577586",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Nobelstraße",
+  "name": "Trägerverein Hochschulradio Stuttgart (HoRadS) e.V.",
+  "naturalPerson": false,
+  "co": "FH Stuttgart - Hochschule der Medien",
+  "squuid": "5be1a6b6-f0f5-4800-9264-bdfc2e6f7f37",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70569",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "HoRadS - Hochschulradio Stuttgart",
+        "squuid": "5be1a6b1-bdd5-4a3d-b543-0f137ea4e236"
+      },
+      "squuid": "5be1a6b9-1920-437f-a2c0-041a0f384783",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.horads.de",
+        "squuid": "5f3e8a49-151f-4e62-8b77-8dd35e6b10bb"
+      },
+      "squuid": "60eefb25-36f6-46d8-ab65-3aacae3e5f31",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hochschule der Medien",
+        "squuid": "5be1a6b6-d27f-42e6-a8c2-48c54e9e4b62"
+      },
+      "squuid": "5be1a6b7-57d0-48d6-8b74-446d192ead66",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Universität Stuttgart",
+        "squuid": "5be1a6b6-9ca8-4349-ad90-5b982eda1d40"
+      },
+      "squuid": "5be1a6b7-6fd4-4326-b6e9-0cffb5c02b6b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart",
+        "squuid": "5be1a6b6-c871-482a-8f4f-8d32fbd3ebcd"
+      },
+      "squuid": "5be1a6b7-5047-496c-ba18-906883618e38",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Pädagogische Hochschule Ludwigsburg",
+        "squuid": "5be1a6b6-1c0e-48ea-9073-c23609f9961d"
+      },
+      "squuid": "5be1a6b7-73d6-4413-989b-49b7e453cfad",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg",
+        "squuid": "5be1a6b6-e0e8-46de-bead-368a839bb14a"
+      },
+      "squuid": "5be1a6b7-2270-44ba-b5ff-5cd7202b6f7d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Evangelische Hochschule Ludwigsburg",
+        "squuid": "5be1a6b6-7f96-41cf-a5ad-418aca8ac0a7"
+      },
+      "squuid": "5be1a6b7-852d-4057-a7b6-2488f788e397",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Der Paritätische Wohlfahrtsverband (LV Baden-Württemberg)",
+        "squuid": "5be1a6b6-9942-4559-b296-429340e4197e"
+      },
+      "squuid": "5be1a6b7-1eed-4ad3-88a4-2db3d2bd2dc4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Universität Hohenheim",
+        "squuid": "5be1a6b6-2c34-4eaa-a14c-51e33a3a97e9"
+      },
+      "squuid": "5be1a6b7-7ad0-4b5f-861f-26261e81fdb1",
+      "state": "active"
+    }
+  ]
+}

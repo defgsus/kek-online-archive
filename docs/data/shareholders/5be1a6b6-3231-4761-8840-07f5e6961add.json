@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Im Oberiddelsfeld",
+  "name": "Rocks Media Verlag e.K.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3231-4761-8840-07f5e6961add",
+  "controlDate": "2021-11-10T11:43:57.380Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "51069",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rocks",
+        "squuid": "5be1a6b1-e94e-4322-88e5-3e187c49c4da"
+      },
+      "squuid": "5be1a6b9-7320-4691-8e00-4c16ff97a925",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rocks-magazin.de",
+        "squuid": "5be1a6b1-c1a6-4342-b4f5-0efcaf7b2b43"
+      },
+      "squuid": "5be1a6b9-c0a1-4390-86a6-e36b2fceccfc",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Böhm, Daniel",
+        "squuid": "5be1a6b6-e2e1-4877-873d-4d5026845a8f"
+      },
+      "squuid": "5be1a6b8-0c1b-4656-92d8-0666d5b008be",
+      "state": "active"
+    }
+  ]
+}

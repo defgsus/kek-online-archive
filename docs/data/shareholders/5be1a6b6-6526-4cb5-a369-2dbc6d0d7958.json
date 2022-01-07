@@ -1,0 +1,75 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Der Freitag Mediengesellschaft mbh & Co KG",
+        "squuid": "5be1a6b6-e982-4062-962b-742b3beb9c67"
+      },
+      "squuid": "5be1a6b8-3ba0-48de-bf56-2643c0b63f31",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Der Freitag Verwaltungsgesellschaft mbH",
+        "squuid": "5ebe8c60-3310-46a9-94ee-7c7b43355b3e"
+      },
+      "squuid": "5ebe8d28-8593-4173-8455-8cb697773082",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "50Kanonen Verwaltungsgesellschaft mbH",
+        "squuid": "5ebe8d7b-ffd8-4838-8248-d4ec50464d8e"
+      },
+      "squuid": "5ebe8e16-ecf2-4e21-9b7f-1e526ea4463e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Hegelplatz 1",
+  "name": "50Kanonen Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-6526-4cb5-a369-2dbc6d0d7958",
+  "controlDate": "2021-09-29T15:09:19.339Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Augstein, Tomas Jakob",
+        "squuid": "5be1a6b6-9cc4-4a3d-8286-c0831ea4f6dd"
+      },
+      "squuid": "5be1a6b8-76df-4e25-86df-5865632ebddc",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "50Kanonen Verwaltungsgesellschaft mbH",
+        "squuid": "5ebe8d7b-ffd8-4838-8248-d4ec50464d8e"
+      },
+      "squuid": "5ebe8db4-5243-4054-a528-129879179800",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5efca46a-d830-430f-aace-7daf36c14092",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Rock Antenne Hamburg GmbH & Co. KG",
+        "squuid": "5be1a6b6-c420-4d02-ba7c-c4e87be91ddc"
+      },
+      "squuid": "5efca4ab-8d6f-41b4-9507-3c26074373ca",
+      "state": "active"
+    }
+  ],
+  "name": "www.rockantenne.hamburg",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-03T16:17:45.628Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Mittweida",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Weberstraße ",
+  "name": "Börner, Ronny Mittelsachsen TV",
+  "naturalPerson": true,
+  "squuid": "5c5423c1-f40e-487e-8c9d-9bbbfbf60ab5",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09648",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mittelsachsen TV",
+        "squuid": "5c542133-c5fd-443c-96c0-6d0c77cd8fcc"
+      },
+      "squuid": "5c5423de-945b-48f4-81ab-6da7b3481aa9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mittelsachsen.lokal.studio",
+        "squuid": "5f7db8db-c407-402a-8f58-5484566d7ad5"
+      },
+      "squuid": "5f7db95c-1211-45d9-9244-05ca9a226a5f",
+      "state": "active"
+    }
+  ]
+}

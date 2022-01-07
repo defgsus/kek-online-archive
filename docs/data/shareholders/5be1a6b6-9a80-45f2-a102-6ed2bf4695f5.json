@@ -1,0 +1,65 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Auenstraße",
+  "name": "2255 Media GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9a80-45f2-a102-6ed2bf4695f5",
+  "streetNumber": "100",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "80469",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "2255media",
+        "squuid": "5be1a6b1-ce07-4368-8293-4b7fc5bea974"
+      },
+      "squuid": "5be1a6b9-8484-4cc9-9122-a992adaf4ce7",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Müller, Matthias",
+        "squuid": "5be1a6b6-5097-471e-812d-535308040c24"
+      },
+      "squuid": "5be1a6b7-ac12-49d1-bcb3-ab71ab4f28db",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Backmeister, Susanne",
+        "squuid": "5be1a6b6-8186-436d-8eed-208841758475"
+      },
+      "squuid": "5be1a6b7-b012-4074-b524-aaf958a6db28",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": false,
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "KK Invest GmbH",
+        "squuid": "5be1a6b6-aa59-4242-9995-fd2617d290ce"
+      },
+      "squuid": "5be1a6b7-d7de-4504-a188-92146816ff63",
+      "state": "active"
+    }
+  ]
+}

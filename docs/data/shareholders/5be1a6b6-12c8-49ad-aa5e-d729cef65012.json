@@ -1,0 +1,97 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Verlag Beleke GmbH",
+        "squuid": "5be1a6b6-9be2-4fb8-8131-58a0f5e4b117"
+      },
+      "squuid": "5be1a6b8-3119-45a2-b237-88c37b4a1297",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 94.0,
+      "held": {
+        "name": "Max Schmidt-Römhild GmbH & Co KG",
+        "squuid": "5be1a6b6-672b-4ac2-858d-3499fe49c5f2"
+      },
+      "squuid": "5be1a6b8-0cc2-44c1-a293-cbd127e4f17b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Hansisches Verlagskontor GmbH",
+        "squuid": "5ede4069-3368-4ad9-8697-168a5b9b9f42"
+      },
+      "squuid": "5ede4109-7616-4abf-812a-7b8525987882",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hagen",
+  "pseudoCompany": false,
+  "street": "Handwerkerstr.",
+  "name": "Carl Hinnerwisch Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-12c8-49ad-aa5e-d729cef65012",
+  "controlDate": "2021-11-01T14:37:22.108Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "58135",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "W. Jahn Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-f256-4817-aa51-ee51e2713500"
+      },
+      "squuid": "5be1a6b8-c8dd-4e67-aba0-19d0817bd1dc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Ippen, Dr. Dirk",
+        "squuid": "5be1a6b6-6732-4f13-872a-78cb650dabda"
+      },
+      "squuid": "5be1a6b8-e88b-4f0a-a407-2ea27ab7a018",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Ruhfus Verlag Verwaltungsgesellschaft mbH",
+        "squuid": "5ede3ee1-e062-4d9a-a7a6-c0e3b1a840b8"
+      },
+      "squuid": "5ede3f23-1cd0-451f-9222-b7b080190295",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "GVG Gesellschaft für Verlagsgeschäfte oHG",
+        "squuid": "5be1a6b6-ad71-43a1-9487-fc074b7dcd8f"
+      },
+      "squuid": "5ede3f30-a627-4afe-befe-735f98774d16",
+      "state": "active"
+    }
+  ]
+}

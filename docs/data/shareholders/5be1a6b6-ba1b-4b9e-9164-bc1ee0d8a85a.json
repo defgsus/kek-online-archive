@@ -1,0 +1,114 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 8.62,
+      "held": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-053b-46c0-aa67-bbbdc2f33b9c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Tuttlingen",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr. 7",
+  "name": "Verlagsdruckerei J.F. Bofinger KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-ba1b-4b9e-9164-bc1ee0d8a85a",
+  "controlDate": "2021-10-21T15:11:57.584Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "78532",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gränzbote",
+        "squuid": "5be1a6b1-3bcf-4970-8b57-aef8e74a84d7"
+      },
+      "squuid": "5be1a6b9-3d82-486f-8fdc-d7f37ecad800",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Heuberger Bote",
+        "squuid": "5be1a6b1-c486-45f0-9035-8463f68f36a2"
+      },
+      "squuid": "5be1a6b9-19e3-4173-86a6-e069931d5fa4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Trossinger Zeitung",
+        "squuid": "5be1a6b1-f102-4123-bba4-382053b1a50c"
+      },
+      "squuid": "5be1a6b9-f7b2-42a4-b441-2000584032d7",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mediengesellschaft Oberschwaben GmbH & Co KG",
+        "squuid": "5be1a6b6-c503-4297-87a8-1a1a3ab29d6a"
+      },
+      "squuid": "5be1a6b8-8695-41d2-b715-2712f51918e2",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5ebba7a2-54f5-4d13-a12d-5b244159d2bf",
+      "state": "active"
+    }
+  ]
+}

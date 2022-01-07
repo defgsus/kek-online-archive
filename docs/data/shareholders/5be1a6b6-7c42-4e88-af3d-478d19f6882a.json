@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Orleansstraße",
+  "name": "CineMedia Film AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7c42-4e88-af3d-478d19f6882a",
+  "streetNumber": "4a",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "81669",
+  "credits": "epd medien, 14.01.2009",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 27.04,
+      "holder": {
+        "name": "BAVARIA FILM GmbH",
+        "squuid": "5be1a6b6-c3ed-46f5-9519-ed7f3cd1f5c2"
+      },
+      "squuid": "5be1a6b7-ae45-490d-885c-4e56fab63fb8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 21.27,
+      "holder": {
+        "name": "Tele-München Fernseh-GmbH & Co. Medienbeteiligung KG",
+        "squuid": "5be1a6b6-efb3-4041-a7bf-e2906ed42f23"
+      },
+      "squuid": "5be1a6b7-9809-47e5-9d01-0a3fb25aeb16",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.81,
+      "holder": {
+        "name": "Streubesitz an der CineMedia Film AG",
+        "squuid": "5be1a6b6-f02f-4fc7-bfd9-cb7f7a301e3f"
+      },
+      "squuid": "5be1a6b7-35a4-42e7-9449-a347dbbb0c39",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Graz (A)",
+  "pseudoCompany": false,
+  "street": "Liebenauer Hauptstrasse ",
+  "name": "Motorsport-Magazin.com GmbH",
+  "naturalPerson": false,
+  "squuid": "5c5318b3-2a04-4555-a608-f5325789472f",
+  "controlDate": "2021-12-14T16:37:20.711Z",
+  "streetNumber": "34",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.motorsport-magazin.com ",
+        "squuid": "5c5318cf-f11f-45cb-8ab9-4cde03b27757"
+      },
+      "squuid": "5c5318f3-44ef-4835-bc20-9d87c047fec9",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "adrivo GmbH",
+        "squuid": "5efefa48-81ca-4075-ab60-ef32e3323ffd"
+      },
+      "squuid": "5efefa98-e494-4624-9420-1c77a5300881",
+      "state": "active"
+    }
+  ]
+}

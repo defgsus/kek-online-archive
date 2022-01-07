@@ -1,0 +1,65 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Tele-München Fernseh-GmbH & Co. Medienbeteiligung KG",
+        "squuid": "5be1a6b6-efb3-4041-a7bf-e2906ed42f23"
+      },
+      "squuid": "60d099ad-26dd-43a0-8bee-9b6221b17160",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Grünwald",
+  "pseudoCompany": false,
+  "street": "Luise-Ullrich-Str.",
+  "name": "Tele-München Fernseh-GmbH",
+  "naturalPerson": false,
+  "squuid": "5f032a2a-cd7a-4df6-916c-23dc6024cfda",
+  "controlDate": "2022-01-04T11:48:35.731Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "82031",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "LEONINE Licensing AG",
+        "squuid": "5f058d68-5110-4bbe-99e8-e2804193570e"
+      },
+      "squuid": "60e42d58-a8b6-4c23-806c-276fe0612817",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Disney/ABC International Television, Inc.",
+        "squuid": "5be1a6b6-0de8-4f9d-b549-1bb726eaacbb"
+      },
+      "squuid": "60e42da4-1514-4b22-81be-f4f8eedeb286",
+      "state": "active"
+    }
+  ]
+}

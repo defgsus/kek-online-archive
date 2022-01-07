@@ -1,0 +1,73 @@
+{
+  "state": "active",
+  "city": "Vechta",
+  "pseudoCompany": false,
+  "street": "Neuer Markt",
+  "name": "OM-Medien GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-cf49-447b-a800-133c73aca5da",
+  "controlDate": "2021-11-03T17:08:33.735Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "49377",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Oldenburgische Volkszeitung",
+        "squuid": "5be1a6b1-d305-41e0-8dde-b48d93064a2a"
+      },
+      "squuid": "5be1a6b9-653f-481c-b797-873e9a6645d4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.om-online.de",
+        "squuid": "5be1a6b1-bc35-4f5c-a449-985a0026e188"
+      },
+      "squuid": "5be1a6b9-148e-4fc3-8e32-b16dfb2dda9b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Münsterländische Tageszeitung",
+        "squuid": "5be1a6b1-3bcb-4158-8680-e0c20f8a9f47"
+      },
+      "squuid": "5edf7372-3b7a-49b8-a431-b1200854094f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "OM-Mediengruppe KG",
+        "squuid": "5be1a6b6-56b3-4bcb-a277-35106b48b3d0"
+      },
+      "squuid": "5be1a6b8-8027-48eb-9e87-89156ea83437",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "OM-Medien Beteiligungs GmbH",
+        "squuid": "5ee20273-865d-492f-b492-d34316542ef6"
+      },
+      "squuid": "5ee202a0-6615-40fd-82aa-ede480c6df34",
+      "state": "active"
+    }
+  ]
+}

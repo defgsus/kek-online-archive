@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "street": "Seilerstraße 41-43",
+  "name": "AIDAradio GmbH",
+  "naturalPerson": true,
+  "squuid": "619ceca5-28a3-4df9-a1dd-33a062eefa25",
+  "organizations": [
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "20359",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "AIDAradio",
+        "squuid": "619ce984-d359-4b1e-b652-9aab6bae64fa"
+      },
+      "squuid": "619cece3-898f-4ef6-b8fa-f415a3959288",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Costa Crociere S.p.A.",
+        "squuid": "61c1e1f3-cbc6-43f4-87e9-f8312d19dfa0"
+      },
+      "squuid": "61c1e2ee-975b-4250-bad9-070030bbde01",
+      "state": "active"
+    }
+  ]
+}

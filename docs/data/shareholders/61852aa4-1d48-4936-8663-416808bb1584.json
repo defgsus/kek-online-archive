@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Usingen",
+  "pseudoCompany": false,
+  "street": "Am Riedborn",
+  "name": "Taunus Verlag GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "61852aa4-1d48-4936-8663-416808bb1584",
+  "controlDate": "2021-11-05T13:03:54.044Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "61250",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Usinger Anzeiger",
+        "squuid": "5be1a6b1-9b4a-46e4-a82a-41ade6a5ecb1"
+      },
+      "squuid": "61852b26-ad20-4156-b3f7-34b248eae3c7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.usinger-anzeiger.de",
+        "squuid": "5be1a6b1-9866-4829-95d6-eedaa3820aa6"
+      },
+      "squuid": "61852b6d-a76a-48ff-bda8-22d2e71100e6",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mittelhessische Druck- und Verlagshaus GmbH & Co KG",
+        "squuid": "5be1a6b6-f5fa-42a0-9e08-3357bfdc4167"
+      },
+      "squuid": "61953773-06c4-407f-bbd1-9a791b4e4f82",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "TV Verwaltungsgesellschaft mbH ",
+        "squuid": "61852ac6-0e83-4670-b5bb-66d85dae17a2"
+      },
+      "squuid": "619537ff-e14f-4ea9-a1d5-fc82a114c15b",
+      "state": "active"
+    }
+  ]
+}

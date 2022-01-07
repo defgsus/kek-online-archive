@@ -1,0 +1,104 @@
+{
+  "rfRepresentative": "Dr. Patrick Hörl, Michael Kloft",
+  "state": "active",
+  "sharesInfo": "KEK 1118",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Barbara Greska",
+  "rfStartDate": "04.07.2009",
+  "rfFreePay": false,
+  "squuid": "5be1a6b1-90a6-47fe-90d3-8dee78399b04",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.spiegel-geschichte.tv/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SPIEGEL TV Geschichte und Wissen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8981-44ba-940e-43e7e7159fa7"
+      },
+      "squuid": "5be1a6b9-c067-4d60-9200-88a9ea0b15ee",
+      "state": "active"
+    }
+  ],
+  "name": "SPIEGEL Geschichte",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+    "name": "Spartenprogramm (Information/Dokumentation)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "description": "Spartenprogramm im Bereich Geschichte und Zeitgeschichte",
+  "rfLicenseUntil": "03.07.2029",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "24.06.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
+      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
+        "name": "Programmplattform",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-c433-49e9-b390-5073f0f89b78",
+      "name": "waipu.tv (EXARING AG)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "04.07.2019",
+  "accessibilityEmail": "info@spiegel-geschichte.tv",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

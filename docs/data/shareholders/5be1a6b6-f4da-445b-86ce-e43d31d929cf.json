@@ -1,0 +1,58 @@
+{
+  "state": "active",
+  "city": "Ostfildern",
+  "pseudoCompany": false,
+  "street": "Marco-Polo-Straße",
+  "name": "Marco Polo TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f4da-445b-86ce-e43d31d929cf",
+  "otherMediaActivities": "Jörg Schütte ist auch an den Veranstaltern der bundesweiten privaten Programme auto motor und sport channel und BonGusto beteiligt.",
+  "controlDate": "2021-12-13T16:08:17.983Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "73760",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Marco Polo",
+        "squuid": "5be1a6b1-0e7b-4aa7-b40f-1fc03d6f2dc7"
+      },
+      "squuid": "5be1a6b9-ffff-4cb8-b720-5599b90ae538",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.marcopolo.de/tv",
+        "squuid": "5f3bd31f-d899-43a2-8187-1e653490253e"
+      },
+      "squuid": "5f3bd3a9-cb10-4d53-bba3-9c95dfa531ac",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 09.05.2017, Az.: KEK 890",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schütte, Jörg",
+        "squuid": "5be1a6b6-884e-4c49-83ab-18ecc01e91c5"
+      },
+      "squuid": "5be1a6b8-da8a-46eb-9870-d2740c9fa9f3",
+      "state": "active"
+    }
+  ]
+}

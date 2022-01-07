@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Heidelberg",
+  "pseudoCompany": false,
+  "street": "Friedrich-Ebert-Anlage ",
+  "name": "BetterNet GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f301-4672-b20f-6b0d72d635eb",
+  "controlDate": "2021-10-15T11:21:22.131Z",
+  "streetNumber": "60",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "69117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Foto Hits",
+        "squuid": "5be1a6b1-5d29-4673-85c6-f9a83edb3f76"
+      },
+      "squuid": "5be1a6b9-5a53-4520-984a-8deaa0d95dd2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fotohits.de",
+        "squuid": "5be1a6b1-8f7e-4e29-bcc3-110b94c464ad"
+      },
+      "squuid": "5be1a6b9-db2e-4691-a84b-ad57000d43b7",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Knapp, Martin",
+        "squuid": "5be1a6b6-d1d3-4139-90cd-b1e53b88cc11"
+      },
+      "squuid": "5be1a6b8-1a99-4eed-938a-0567f7a8e322",
+      "state": "active"
+    }
+  ]
+}

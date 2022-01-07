@@ -1,0 +1,27 @@
+{
+  "name": "WGLi Wohnungsgenossenschaft Lichtenberg eG",
+  "pseudoCompany": false,
+  "supplierConsortium": false,
+  "squuid": "5c5d89d2-52df-4185-b119-4ee9e77b56ea",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "state": "active",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "WGLi-TV",
+        "squuid": "5c5d89e4-9463-498b-a127-57246fb6325f"
+      },
+      "squuid": "5c5d8cef-5148-4f87-8a0e-38342c160ec9",
+      "state": "active"
+    }
+  ],
+  "naturalPerson": false
+}

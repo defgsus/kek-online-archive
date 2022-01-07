@@ -1,0 +1,57 @@
+{
+  "rfRepresentative": "Bernd Schlötterer",
+  "state": "archived",
+  "sharesInfo": "KEK 1078",
+  "rfShoppingChannel": false,
+  "rfFreePay": true,
+  "squuid": "5fe1c910-baa6-4839-b348-7f6c06b4f6d1",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "name": "Adrenalin TV",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "description": "Streaming-Dienst, der in erster Linie Filme, Serien, Dokumentationen und True-Crime-Programme der Genres Crime, Thriller und Action auf Abrufbasis (Video-on-Demand) anbietet.",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

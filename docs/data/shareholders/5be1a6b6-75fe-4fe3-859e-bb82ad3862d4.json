@@ -1,0 +1,39 @@
+{
+  "name": "Universal Studios Holding II Corp.",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Universal Studios Holding I Corp.",
+        "squuid": "5be1a6b6-e69a-4a2f-8b3a-4814ce7c0bb8"
+      },
+      "squuid": "5be1a6b7-a6ce-4d08-98aa-29d4ea3270e5",
+      "state": "active"
+    }
+  ],
+  "squuid": "5be1a6b6-75fe-4fe3-859e-bb82ad3862d4",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Universal Studios Holding III Corp.",
+        "squuid": "5be1a6b6-3861-42e6-ad3f-f738942a44ec"
+      },
+      "squuid": "5be1a6b7-5664-46ac-b6de-67d2d72af44e",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

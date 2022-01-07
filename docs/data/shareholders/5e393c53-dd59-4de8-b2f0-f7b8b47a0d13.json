@@ -1,0 +1,71 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 67.63,
+      "held": {
+        "name": "SHOW Holding S.C.A.",
+        "squuid": "606c643e-3b1d-4708-8ecb-bf88b284fb28"
+      },
+      "squuid": "606d5fd4-6bf0-4ee0-9e91-f27cfbbfa4dc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 62.84,
+      "held": {
+        "name": "BidCo SAS",
+        "squuid": "606d7530-27bc-4147-a012-b866a98f6a19"
+      },
+      "squuid": "606d784a-9b3f-4328-852e-b8cc7c8cea74",
+      "state": "active",
+      "votingShares": 49.44
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Show TopCo S.C.A.",
+  "naturalPerson": false,
+  "squuid": "5e393c53-dd59-4de8-b2f0-f7b8b47a0d13",
+  "controlDate": "2021-06-08T13:24:02.891Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 92.48,
+      "holder": {
+        "name": "KKR Show Aggregator L.P.",
+        "squuid": "5e39450a-307c-4473-a6db-f9306d4bebf9"
+      },
+      "squuid": "5ebc532e-b782-4e58-bdf7-484ca36a4c70",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.0,
+      "holder": {
+        "name": "Atwater Show SPV L.P.",
+        "squuid": "5e39476b-943d-4285-9385-2aad04c30ae6"
+      },
+      "squuid": "5ebc534c-c98b-45de-b7e5-ca20ddbc362a",
+      "state": "active"
+    }
+  ]
+}

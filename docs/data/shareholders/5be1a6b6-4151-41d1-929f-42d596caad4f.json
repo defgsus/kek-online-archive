@@ -1,0 +1,83 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 31.18,
+      "held": {
+        "name": "LandesWelle Thüringen GmbH & Co. KG",
+        "squuid": "5be1a6b6-b0b6-470b-a5ea-c00a71714166"
+      },
+      "squuid": "5be1a6b7-2fb9-40ca-8b7d-d82eeee5ad69",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "REGOLD Verwaltungs GmbH",
+        "squuid": "5f2961d3-429b-4d28-a39e-5c77e4cedefe"
+      },
+      "squuid": "5fa2ce75-1dcd-4cd0-8fdd-ee2abc0b1480",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Thomasgasse",
+  "name": "REGOLD GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4151-41d1-929f-42d596caad4f",
+  "controlDate": "2021-12-13T13:20:40.617Z",
+  "placeOfBusiness": "Lützowstraße 11a, 04155 Leipzig",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "04109",
+  "credits": "TLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "NWZ Funk und Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-e74c-47af-9e67-66b48a57e0a8"
+      },
+      "squuid": "5be1a6b7-27cf-4400-9305-6d8d3ca56836",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "REGIOCAST GmbH & Co. KG",
+        "squuid": "5be1a6b6-44d3-4fcc-8739-a1cd06ab21d3"
+      },
+      "squuid": "5be1a6b7-def6-4bee-81bb-0db7439763db",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "REGOLD Verwaltungs GmbH",
+        "squuid": "5f2961d3-429b-4d28-a39e-5c77e4cedefe"
+      },
+      "squuid": "5f2961f3-2a4a-43c0-b013-cc0707ba9810",
+      "state": "active"
+    }
+  ]
+}

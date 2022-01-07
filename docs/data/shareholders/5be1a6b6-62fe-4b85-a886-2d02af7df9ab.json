@@ -1,0 +1,104 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Lilli-Palmer-Str.",
+  "name": "The Walt Disney Company (Germany) GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-62fe-4b85-a886-2d02af7df9ab",
+  "otherMediaActivities": "",
+  "controlDate": "2021-12-03T11:34:21.628Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80636",
+  "corporationName": "",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Disney Channel",
+        "squuid": "5be1a6b1-31ae-46a3-9601-4113bdf02f59"
+      },
+      "squuid": "5be1a6b9-2e98-4ada-a059-3dc197a7e81f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.disney.de",
+        "squuid": "5c51becd-0fe1-4ee5-929f-10a85a644ab8"
+      },
+      "squuid": "5c51bf25-3630-4dc9-8279-d369a580e710",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tv.disney.de",
+        "squuid": "5f116b04-99db-4ab5-b045-1d17128725b5"
+      },
+      "squuid": "5f116b2b-b6a4-43e1-9782-822fb54c8c6d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "National Geographic Wild Channel (NAT GEO WILD)",
+        "squuid": "5be1a6b1-0c8d-4a7d-b88e-c24ee12f477d"
+      },
+      "squuid": "61238b8a-b909-4657-a9d1-649100b142c6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "National Geographic People Channel (NAT GEO PEOPLE)",
+        "squuid": "5be1a6b1-0294-4a53-b288-9247a2b3c652"
+      },
+      "squuid": "61238c60-1336-44ca-84f8-54c5e7669dc9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Fox Channel",
+        "squuid": "5be1a6b1-e747-4150-9989-c1900b8d82f1"
+      },
+      "squuid": "61238cc6-ba05-493b-9a76-573c42baca19",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "National Geographic Channel",
+        "squuid": "5be1a6b1-90ae-4b4b-8072-3d8d7b816a84"
+      },
+      "squuid": "61238e3e-dcfa-4d7a-bd09-5773ae16204c",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 19.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "The Walt Disney Company Ltd.",
+        "squuid": "60d5c979-e693-4dae-81ab-d4dde7c983dd"
+      },
+      "squuid": "60d5c9ac-1a25-4bdb-a7d5-9b946f1f3db3",
+      "state": "active"
+    }
+  ]
+}

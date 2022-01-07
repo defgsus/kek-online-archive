@@ -1,0 +1,69 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.88,
+      "held": {
+        "name": "Lokalradio Berchtesgadener Land Verwaltungs GmbH",
+        "squuid": "5be1a6b6-86b9-494c-a16c-f4bd3bb9b638"
+      },
+      "squuid": "5ca74732-34b4-4076-b292-ddc45e973057",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.3,
+      "held": {
+        "name": "Mediengesellschaft der bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Programm- und Werbegesellschaft",
+        "squuid": "5be1a6b6-c525-4b11-a1b7-9969a9671afb"
+      },
+      "squuid": "60d21449-49f8-45c1-a704-e2b5fcde7bc6",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bad Reichenhall",
+  "pseudoCompany": false,
+  "street": "Schachtstr.",
+  "name": "Wiedemann & Straniak OHG",
+  "naturalPerson": false,
+  "squuid": "5ca746d7-22c8-441a-9656-f9e9bae34aba",
+  "controlDate": "2021-11-23T12:56:18.674Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "83435",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Wiedemann, Petra",
+        "squuid": "5ca746e7-4d11-4acf-bdd4-33f0b7a20388"
+      },
+      "squuid": "5ca74755-9225-447a-a1cd-4a97a8a22ffc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Straniak, Hans Hermann",
+        "squuid": "5ca746fd-1af2-46fa-8a02-32d9246a2c52"
+      },
+      "squuid": "5ca74764-8ad0-4878-998c-dd11f8682c48",
+      "state": "active"
+    }
+  ]
+}

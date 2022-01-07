@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Wien (A)",
+  "pseudoCompany": false,
+  "street": "Vordere Zollamtsstraße",
+  "name": "Standard Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5d35b7fc-c7e9-4dc4-9fd5-342f7083e1b2",
+  "controlDate": "2021-12-02T16:58:36.830Z",
+  "streetNumber": "13",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "1030",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.derstandard.at",
+        "squuid": "5d35b7da-159a-47d2-8674-7ac3d9e51f17"
+      },
+      "squuid": "5d35b94c-994a-456f-9215-bea137d4bb0d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Standard Medien AG",
+        "squuid": "5d35b815-2fa7-4d21-8b5f-e76a69349f81"
+      },
+      "squuid": "5d35b9be-58b3-4bfc-ac32-07b858231400",
+      "state": "active"
+    }
+  ]
+}

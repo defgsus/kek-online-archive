@@ -1,0 +1,90 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Funkhaus Landshut GmbH & Co. KG",
+        "squuid": "5be1a6b6-6e30-474f-a100-be7d7cf5192f"
+      },
+      "squuid": "6050d3c1-ff7f-4e79-8147-90f75668c1ea",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Landshut",
+  "pseudoCompany": false,
+  "street": "Porschestr.",
+  "name": "Funkhaus Landshut Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f904aad-3ea6-49af-8cd6-449bfa3f116e",
+  "controlDate": "2021-12-07T16:46:43.148Z",
+  "streetNumber": "21",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "84030",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Radio AWN Landshut GmbH & Co. Hörfunk KG",
+        "squuid": "5be1a6b6-7468-4efc-9786-db3b43561958"
+      },
+      "squuid": "6065c489-2a63-4e5a-938a-45223d3f8dbd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Neue Welle \"Antenne Landshut\" Rundfunk-Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-0d07-4116-9ede-fd59dbcc6c27"
+      },
+      "squuid": "6065c49b-21ff-43f1-abdb-8859cc2312ca",
+      "state": "active"
+    }
+  ]
+}

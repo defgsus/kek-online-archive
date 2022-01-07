@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Benrodestr.",
+  "name": "Studio Gong NRW GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "619e5138-2fd5-41a6-8e2e-720a27ab085e",
+  "controlDate": "2021-11-24T14:51:29.692Z",
+  "streetNumber": "45",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40597",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kulthitradio.de",
+        "squuid": "619e50c4-7ddd-49c6-9270-c78181c90760"
+      },
+      "squuid": "619e5156-ae68-4c05-8e99-f7ae59afa072",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "619e51f9-6c14-41a5-95c9-f6e4c77012a5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Studio Gong Deutschland Verwaltungs GmbH",
+        "squuid": "5ee898af-87db-4964-a12f-9294ac21b57f"
+      },
+      "squuid": "619e520c-72bb-426d-9f9f-91b4958863a2",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Wesel mbH & Co. KG",
+        "squuid": "5be1a6b6-6701-41f7-a384-bacd516bbd26"
+      },
+      "squuid": "5f1039aa-2389-4412-ae05-a9ebf63f7772",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wesel",
+  "pseudoCompany": false,
+  "street": "Poppelbaumstr.",
+  "name": "Betriebsverwaltungsgesellschaft Radio Wesel mbH",
+  "naturalPerson": false,
+  "squuid": "5f1038dc-5c51-49f3-b631-9139b503cad0",
+  "controlDate": "2021-12-22T15:04:14.950Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "46483",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verleger-Holding Radio Wesel GmbH & Co. KG",
+        "squuid": "5be1a6b6-5366-4d90-a196-1e0aaa483cd2"
+      },
+      "squuid": "5ff5ae99-a66a-42fb-a94d-6ba3be5a0ba5",
+      "state": "active"
+    }
+  ]
+}

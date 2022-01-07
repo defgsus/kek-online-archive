@@ -1,0 +1,48 @@
+{
+  "name": "GDS Global, Inc.",
+  "controlDate": "2021-12-02T13:10:46.371Z",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hearst Holding, Inc.",
+        "squuid": "5be1a6b6-b9bb-462d-bd11-1333ff3b3f1e"
+      },
+      "squuid": "5ce531b9-385f-4345-a1b5-bdd75d943d52",
+      "state": "active"
+    }
+  ],
+  "squuid": "5ce272fb-1834-4182-a287-bffdaf7ff9ce",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.44,
+      "held": {
+        "name": "Hearst Communications, Inc.",
+        "squuid": "5be1a6b6-6144-45f6-bc05-b9fe666ba0dc"
+      },
+      "squuid": "5ce2739b-6ece-49c8-b89a-00c87eb71509",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active"
+}

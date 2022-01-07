@@ -1,0 +1,64 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "ProServ GmbH & Co. KG",
+        "squuid": "6086b268-cbce-4cd7-9cc2-c13c110946f3"
+      },
+      "squuid": "6086b3b8-91d0-4f7a-bb53-4955ab875e04",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Zülpicher Str.",
+  "name": "ProServ Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "6086b29b-2ada-497c-ad03-d17a4d526692",
+  "controlDate": "2021-04-26T12:36:36.673Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40549",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Rheinische Post Mediengruppe GmbH",
+        "squuid": "5be1a6b6-25ea-44da-8834-b9ab2a407a4d"
+      },
+      "squuid": "6086b442-8c9f-456f-bffe-cb4ec3f36eb5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Saarbrücker Zeitung Medienhaus GmbH",
+        "squuid": "5be1a6b6-7b22-4bc2-abdb-c97a7151bc88"
+      },
+      "squuid": "6086b44f-d665-4478-a7c0-b0b4a9e53b17",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.67,
+      "holder": {
+        "name": "Trierischer Volksfreund Medienhaus GmbH",
+        "squuid": "5be1a6b6-134b-493c-95c7-df75a3201bc2"
+      },
+      "squuid": "6086b460-7098-4599-81d0-e68e24c96b44",
+      "state": "active"
+    }
+  ]
+}

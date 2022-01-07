@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f7dc1a0-da72-4b2c-8c0e-2f40f8e98f32",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "München Live TV Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-528c-4d6f-a94d-5b2d81a28258"
+      },
+      "squuid": "5f7dc1e0-d7e6-4d3d-882b-9da97c57edcc",
+      "state": "active"
+    }
+  ],
+  "name": "www.muenchen.tv",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-14T16:58:23.045Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

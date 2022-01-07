@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Leopoldstraße",
+  "name": "NetMediaEurope Deutschland GmbH",
+  "naturalPerson": false,
+  "squuid": "5d109b51-310f-45c1-8afa-0363b4e16f88",
+  "controlDate": "2021-05-11T09:23:03.964Z",
+  "streetNumber": "244",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80807",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.zdnet.de",
+        "squuid": "5d109b69-2a38-4410-976b-7ff0637c3f73"
+      },
+      "squuid": "5d109cb6-9efb-4db5-87df-6250f11f7695",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "NetMediaEurope S.A.",
+        "squuid": "5d109d7e-794b-4414-bd52-93b151b8d265"
+      },
+      "squuid": "5d109da0-1bed-4ab5-9142-58e46981a46c",
+      "state": "active"
+    }
+  ]
+}

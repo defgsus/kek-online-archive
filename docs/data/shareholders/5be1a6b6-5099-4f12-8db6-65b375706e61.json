@@ -1,0 +1,103 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio 7 Hörfunk Verwaltungs-GmbH",
+        "squuid": "5efca907-9329-4e3a-8469-4c119897eeb4"
+      },
+      "squuid": "5fa03a64-e7e2-4304-a6e4-58395e43e56e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ulm",
+  "note": "Stand: 5/2021",
+  "pseudoCompany": false,
+  "street": "Gaisenbergstraße",
+  "name": "Radio 7 Hörfunk GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-5099-4f12-8db6-65b375706e61",
+  "controlDate": "2021-12-21T14:14:53.858Z",
+  "streetNumber": "29",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "89073",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio 7",
+        "squuid": "5be1a6b1-4bf3-4363-82fc-3b313975a066"
+      },
+      "squuid": "5be1a6b9-875e-4817-a501-bec43623010a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio7.de",
+        "squuid": "5efca866-dfe0-4854-b35d-584300b29053"
+      },
+      "squuid": "5efca8bc-dfdf-428b-afee-e501f40ba849",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 44.0,
+      "holder": {
+        "name": "Mediengesellschaft Donau-Iller GmbH + Co. KG",
+        "squuid": "5be1a6b6-58e1-42ee-8975-ea3940fd85b1"
+      },
+      "squuid": "5be1a6b7-67ac-477c-abf3-06cbad54a6b9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 44.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b7-86b3-411e-aac6-8541f48da061",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio 7 Hörfunk Verwaltungs-GmbH",
+        "squuid": "5efca907-9329-4e3a-8469-4c119897eeb4"
+      },
+      "squuid": "5efca92b-1c30-499f-8029-b0bc63aa9396",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.0,
+      "holder": {
+        "name": "Schwarzwälder Bote GmbH u. Co KG",
+        "squuid": "5be1a6b6-dcac-4e4f-aa84-e3c808d26df7"
+      },
+      "squuid": "5efcaa16-9280-4798-8b15-2933831b6be3",
+      "state": "active"
+    }
+  ]
+}

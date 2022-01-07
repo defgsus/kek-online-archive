@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Alfeld",
+  "pseudoCompany": false,
+  "street": "Ravenstr.",
+  "name": "M. & H. Schaper Philatelie-Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-326b-4b32-83da-04c238fc4ff5",
+  "controlDate": "2021-09-28T12:06:36.511Z",
+  "streetNumber": "45",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "31061",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "DBZ Deutsche Briefmarken-Zeitung",
+        "squuid": "5be1a6b1-909a-4c36-91d2-0e5f32f16a4d"
+      },
+      "squuid": "5be1a6b9-bf3f-45e7-ae76-22090f35a2a8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 24.9,
+      "holder": {
+        "name": "Göttinger Tageblatt GmbH & Co. KG",
+        "squuid": "5be1a6b6-df12-40ce-9518-f463bea5e8d8"
+      },
+      "squuid": "5be1a6b8-8549-4250-9594-98d03bb95ca8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.1,
+      "holder": {
+        "name": "Presse Dienstleistungsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-bf35-4199-9236-ac814bfb4dc8"
+      },
+      "squuid": "5be1a6b8-88d4-4f01-9b8f-85a34f51c6dd",
+      "state": "active"
+    }
+  ]
+}

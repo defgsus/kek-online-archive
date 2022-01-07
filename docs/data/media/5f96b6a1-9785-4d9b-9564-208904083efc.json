@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f96b6a1-9785-4d9b-9564-208904083efc",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Schwaben GmbH",
+        "squuid": "5ce6a8f9-95b9-401b-8810-76d92e8cc95b"
+      },
+      "squuid": "5f96b6ea-1e99-4b28-ac2a-6948e9a415cc",
+      "state": "active"
+    }
+  ],
+  "name": "www.radioschwaben.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-03T10:51:28.690Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

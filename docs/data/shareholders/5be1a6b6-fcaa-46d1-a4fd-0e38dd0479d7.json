@@ -1,0 +1,85 @@
+{
+  "state": "active",
+  "city": "Ismaning",
+  "pseudoCompany": false,
+  "street": "Münchener Straße",
+  "name": "Sport1 GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fcaa-46d1-a4fd-0e38dd0479d7",
+  "otherMediaActivities": "Die Sport1 Medien AG (ehem. Constantin Medien AG) ist ein international ausgerichtetes Medienunternehmen, das insbesondere auf die Segmente Sport, Film sowie Sport- und Eventmarketing ausgerichtet ist.",
+  "controlDate": "2022-01-05T17:00:21.061Z",
+  "streetNumber": "101 g",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85737",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SPORT1+",
+        "squuid": "5be1a6b1-a23a-4d6c-afcb-ecc852a1a7a1"
+      },
+      "squuid": "5be1a6b9-b886-4489-bb80-66d06c4c42ef",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "SPORT1",
+        "squuid": "5be1a6b1-96c7-4dc6-b7cc-aef8d176f5ef"
+      },
+      "squuid": "5be1a6b9-23af-4114-94e6-85f4fe7c1486",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "SPORT1 Livestream",
+        "squuid": "5be1a6b1-0db0-4a42-8d50-5f833c5cfd7c"
+      },
+      "squuid": "5be1a6b9-e261-45ce-bf61-87ccfbd9cc45",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "eSPORTS1",
+        "squuid": "5be1a6b1-5f8c-4a42-acda-3a0788ef5900"
+      },
+      "squuid": "5be1a6b9-cee3-45d2-9c2d-b1ecff84985c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sport1.de",
+        "squuid": "5c4ef963-9558-4d40-abfe-2c0d297e7350"
+      },
+      "squuid": "5c4ef9d3-db69-4898-98a6-9e14506d7c7c",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 13.03.2018; Az: KEK 947",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Sport1 Holding GmbH",
+        "squuid": "5be1a6b6-035e-467d-a2e0-d492f8f7b8a2"
+      },
+      "squuid": "5be1a6b7-8fc3-4fbd-9aae-eff4dc6e2f67",
+      "state": "active"
+    }
+  ]
+}

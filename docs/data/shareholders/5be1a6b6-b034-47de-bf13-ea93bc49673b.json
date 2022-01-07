@@ -1,0 +1,93 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Herbert Fleißig Verwaltungsgesellschaft mbH",
+        "squuid": "5eb02c7b-f462-475d-b4f8-26045727ec4b"
+      },
+      "squuid": "5eb02d9f-89ac-4e59-8a4b-466d83e08c2f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Coesfeld",
+  "pseudoCompany": false,
+  "street": "Rosenstr. 2",
+  "name": "Verlag J. Fleißig GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-b034-47de-bf13-ea93bc49673b",
+  "controlDate": "2021-01-18T13:42:21.184Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "48653",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Allgemeine Zeitung (Coesfeld)",
+        "squuid": "5be1a6b1-53f4-41f8-a00a-dc6d7bd80334"
+      },
+      "squuid": "5be1a6b9-4c13-44c1-81a4-f8b4f5b02e97",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Billerbecker Anzeiger",
+        "squuid": "5be1a6b1-a2f0-49f3-a48b-246ae59c27d0"
+      },
+      "squuid": "5be1a6b9-27fe-45de-821a-cdf02f21ee76",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gescherer Zeitung",
+        "squuid": "5be1a6b1-2bb0-4b9f-8737-bbf0bb3901fa"
+      },
+      "squuid": "5be1a6b9-e382-4c51-9664-ff7e99153930",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.azonline.de",
+        "squuid": "5be1a6b1-5ec8-40ec-992e-d1fd9258ff22"
+      },
+      "squuid": "5be1a6b9-6a3a-4de8-a7d8-406d87c177ee",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Fleißig Holding GmbH",
+        "squuid": "5be1a6b6-31ef-439c-942e-1f47b420f897"
+      },
+      "squuid": "5be1a6b8-e0e9-4379-b156-bce7f0244d77",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Herbert Fleißig Verwaltungsgesellschaft mbH",
+        "squuid": "5eb02c7b-f462-475d-b4f8-26045727ec4b"
+      },
+      "squuid": "5eb02cb2-4998-481d-95a3-3fd2f1aa1897",
+      "state": "active"
+    }
+  ]
+}

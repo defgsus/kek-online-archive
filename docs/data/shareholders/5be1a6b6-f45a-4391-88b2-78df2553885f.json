@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Köpenicker Str.",
+  "name": "Buchhaltungsservicegesellschaft der ver.di  mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f45a-4391-88b2-78df2553885f",
+  "controlDate": "2021-11-18T10:12:17.758Z",
+  "streetNumber": "31",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10179",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ver.di Publik",
+        "squuid": "5be1a6b1-ce03-469c-8e2a-8f9304e49c8a"
+      },
+      "squuid": "5be1a6b9-eb5d-4620-be2c-d26671613980",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.publik.verdi.de",
+        "squuid": "5be1a6b1-6aa0-4d9f-98cc-a3884d681b0a"
+      },
+      "squuid": "5be1a6b9-6bd7-4d91-8d30-16316b24891f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ver.di - Vereinte Dienstleistungsgewerkschaft",
+        "squuid": "5be1a6b6-be6c-40d5-986d-be6be29b04c0"
+      },
+      "squuid": "5be1a6b8-e76e-4365-9c08-dc625cb74b00",
+      "state": "active"
+    }
+  ]
+}

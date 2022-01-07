@@ -1,0 +1,50 @@
+{
+  "name": "Eigenbesitz der Privater Sächsischer Rundfunk GmbH",
+  "pseudoCompany": true,
+  "squuid": "5f918986-35d0-48b2-b239-0f0bb2466292",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Privater Sächsischer Rundfunk GmbH",
+        "squuid": "5be1a6b6-50ef-423a-95a7-bda039a4ac95"
+      },
+      "squuid": "5f918a4f-3fa6-44d8-8d98-2399be7843fc",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

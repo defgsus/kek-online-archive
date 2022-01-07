@@ -1,0 +1,79 @@
+{
+  "state": "active",
+  "city": "Dortmund",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Am Schlosspark ",
+  "name": "blabla.cafe GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5c52d755-7c2a-4c0f-89da-1507c879dd92",
+  "controlDate": "2021-11-30T17:32:17.264Z",
+  "streetNumber": "66",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "44357",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "blabla.cafe",
+        "squuid": "5c52d7fa-1789-4cb5-beaa-645143772954"
+      },
+      "squuid": "5c52d95b-19ed-4a86-82a2-453e4ba6af55",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blabla.cafe",
+        "squuid": "5f11606c-4c98-4f77-8ead-880ee18151e8"
+      },
+      "squuid": "5f11613e-fc85-46a1-a774-f6cba19bbfa8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 98.0,
+      "holder": {
+        "name": "Dortex Werbung und Vertrieb mbH",
+        "squuid": "5c52d7c6-7d0f-4aaf-8f14-c16ff9788828"
+      },
+      "squuid": "5c52da51-c1d8-4f5b-a706-fd7b27f1252a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Dohmann, Peter",
+        "squuid": "5c52d770-803c-4e89-a72a-2a205ba4efb9"
+      },
+      "squuid": "5c52da6d-20d4-47c1-9da0-c67e210f7db7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "blabla.cafe Verwaltungs GmbH",
+        "squuid": "5f116204-f992-4fdf-882e-b9382f422eba"
+      },
+      "squuid": "6023e5d5-bfbc-4b83-85bd-5b0b630d700a",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "state": "active",
+  "city": "Bad Vilbel",
+  "pseudoCompany": false,
+  "name": "RTL Hessen Programmfenster GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0ca1-404a-83b0-148956e9131e",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 04.06.2013, Az.: KEK 739",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "RTL Television GmbH",
+        "squuid": "5be1a6b6-7542-41b4-ab53-17975a930698"
+      },
+      "squuid": "5be1a6b7-0f1d-47fd-b7d0-0c73133a0dd3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "5be1a6b7-1b27-445c-8ac7-41613886df17",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Frankfurter Allgemeine Zeitung GmbH",
+        "squuid": "5be1a6b6-a13b-4dae-9b4e-28467cc294bb"
+      },
+      "squuid": "5be1a6b7-74e6-43cc-a87d-98c776c26da6",
+      "state": "active"
+    }
+  ]
+}

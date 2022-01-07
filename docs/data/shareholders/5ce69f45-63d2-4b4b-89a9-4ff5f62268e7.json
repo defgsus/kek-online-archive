@@ -1,0 +1,140 @@
+{
+  "state": "active",
+  "city": "Pfaffenhofen",
+  "pseudoCompany": false,
+  "street": "Niederscheyerer Straße",
+  "name": "Funkhaus Pfaffenhofen GmbH",
+  "naturalPerson": false,
+  "squuid": "5ce69f45-63d2-4b4b-89a9-4ff5f62268e7",
+  "controlDate": "2021-12-09T15:56:20.625Z",
+  "streetNumber": "98",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "85276",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Ilmwelle",
+        "squuid": "5be1a6b1-68c0-4614-bc7c-dc457eba972f"
+      },
+      "squuid": "5ce69f62-c682-4e36-ab16-b7a328689c8b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ilmwelle Schlager",
+        "squuid": "5ce6a01b-15e9-4eaf-99b5-66505bdf30c5"
+      },
+      "squuid": "5ce6a030-5222-4c0d-a2b4-464ed1eec355",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ilmwelle 90s",
+        "squuid": "5ce6a0b8-c7c7-4e61-875c-325f718a411d"
+      },
+      "squuid": "5ce6a0dc-4abf-452d-98a7-a1c492ba379e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ilmwelle Event",
+        "squuid": "5ce6a10f-c7e7-419a-8c58-c6a039e9dc72"
+      },
+      "squuid": "5ce6a126-ee22-4301-bcf6-1385e5d4788c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio PN Eins Dance",
+        "squuid": "5be1a6b1-497c-4af2-aa5e-cc4b535026e3"
+      },
+      "squuid": "5ce6a1aa-89b2-4910-baf7-1a4ac4d1556e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio PN Eins Urban",
+        "squuid": "5ce6a1f8-e0bb-4b8e-ac1f-20a8c401c5e4"
+      },
+      "squuid": "5ce6a21b-9d1c-4ef2-96db-1f4df7463a6b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ilmwelle.de",
+        "squuid": "5f914ff1-eddf-47b5-b54f-8864b00f1046"
+      },
+      "squuid": "5f9151c3-f7d5-4be8-8b6e-f9b3e986f313",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ilmwelle.de/pn-eins-dance",
+        "squuid": "5f969dd9-0bde-4c9b-bb51-6b9ea3e99f0b"
+      },
+      "squuid": "5f969e1a-983f-41f9-a134-ced134653191",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ilmwelle.de/pn-eins-urban",
+        "squuid": "5f969dea-621c-432d-8d63-390c3b1a6022"
+      },
+      "squuid": "5f969e68-777c-4058-9478-6c684daeecba",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Breitner, Andreas",
+        "squuid": "5be1a6b6-3b01-468e-84b9-f5b644aa5c89"
+      },
+      "squuid": "5ce69fa4-1241-49a0-a30d-b6b87dace555",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Forster, Tobias",
+        "squuid": "5ce69fbb-c9a0-481e-b096-3ee7f36d8825"
+      },
+      "squuid": "5ce69fe1-83d1-4f61-856b-2a7874c83f14",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Breitner, Nicole",
+        "squuid": "5ce69fcc-0493-4104-af6e-392ed7b69026"
+      },
+      "squuid": "5ce69fea-7ac9-4095-aead-466d4a576be8",
+      "state": "active"
+    }
+  ]
+}

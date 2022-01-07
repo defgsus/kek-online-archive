@@ -1,0 +1,115 @@
+{
+  "rfRepresentative": "Raimund Köhler",
+  "state": "active",
+  "sharesInfo": "KEK 1044",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Franziska Kaltenegger",
+  "rfStartDate": "29.03.2017",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-9db8-4458-aab4-388e95318fd0",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "http://eotv.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "MV Sendebetriebsgesellschaft mbH",
+        "squuid": "5e553238-51a4-427c-a9eb-44c420da56e3"
+      },
+      "squuid": "5e553272-78a0-4596-93c9-a319941bcbe9",
+      "state": "active"
+    }
+  ],
+  "name": "EO.TV",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "description": "Unterhaltungsspartenprogramm mit Schwerpunkt auf europäischen Spielfilmen und Serien („European Originals“)",
+  "rfLicenseUntil": "31.12.2029",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "16.12.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
+      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-a0a1-4251-9c3a-feb4abfd58cc",
+      "name": "NetCologne",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-ad9e-4670-b9d9-71ea6517791a",
+      "name": "Zattoo",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-c433-49e9-b390-5073f0f89b78",
+      "name": "waipu.tv (EXARING AG)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.01.2020",
+  "accessibilityEmail": "info@eotv.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

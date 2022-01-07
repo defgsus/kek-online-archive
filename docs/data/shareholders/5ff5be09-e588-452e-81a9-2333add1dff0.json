@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "GGK Grundstücksgesellschaft der Stadt Krefeld mbH & Co. KG",
+        "squuid": "5f0f0fff-6b7d-47d0-823a-dc9eb5be6496"
+      },
+      "squuid": "5ff5be34-f939-48be-b388-54335376a019",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Krefeld",
+  "pseudoCompany": false,
+  "street": "Neue Linner Str.",
+  "name": "Grundstücksgesellschaft der Stadt Krefeld Verwaltungs mbH",
+  "naturalPerson": false,
+  "squuid": "5ff5be09-e588-452e-81a9-2333add1dff0",
+  "controlDate": "2022-01-07T13:55:26.817Z",
+  "streetNumber": "87",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "47798",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Krefeld",
+        "squuid": "5ff5be12-17a9-4c4d-8387-e6a9fe93e589"
+      },
+      "squuid": "600159c0-9501-4133-9041-96a5bdcb03bd",
+      "state": "active"
+    }
+  ]
+}

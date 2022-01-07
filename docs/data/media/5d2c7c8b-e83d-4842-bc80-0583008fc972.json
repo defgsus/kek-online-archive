@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5d2c7c8b-e83d-4842-bc80-0583008fc972",
+  "marketReach": 0.04801242267444786,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Antenne Bayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-5d70-4275-a2da-4ea50ee1b6af"
+      },
+      "squuid": "5d2c7ccf-df58-4c23-a1dd-51d8ab7172c7",
+      "state": "active"
+    }
+  ],
+  "name": "www.webradio.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-07T13:33:37.932Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

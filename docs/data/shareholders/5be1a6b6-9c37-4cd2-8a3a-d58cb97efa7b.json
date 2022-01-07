@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "AxelSpringer-Str. 65",
+  "name": "Friede Springer GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9c37-4cd2-8a3a-d58cb97efa7b",
+  "controlDate": "2020-05-12T12:51:10.174Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "10969",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Springer, Dr. Friede",
+        "squuid": "5be1a6b6-8fe5-488d-bd6f-8cce11af42df"
+      },
+      "squuid": "5be1a6b8-18b6-411a-95e6-3ae60765b826",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Friede Springer Verwaltungs GmbH",
+        "squuid": "5eba9d4a-7f53-4805-a5f5-2e1e356db208"
+      },
+      "squuid": "5eba9d70-ec5e-4fe4-84e2-4b6b3097033e",
+      "state": "active"
+    }
+  ]
+}

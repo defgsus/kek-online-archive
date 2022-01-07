@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Rostock",
+  "pseudoCompany": false,
+  "street": "Bergstr. 10",
+  "name": "NNN Norddeutsche Neueste Nachrichten GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-be68-4197-a55d-a74c3f77a8ce",
+  "controlDate": "2021-11-04T14:17:12.545Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "18057",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Norddeutsche Neueste Nachrichten",
+        "squuid": "5be1a6b1-ebc3-4995-8f7a-a83c6a162692"
+      },
+      "squuid": "5be1a6b9-1aff-47cd-8111-661355986486",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nnn.de",
+        "squuid": "5be1a6b1-7bdc-48e0-a984-82d695df58a7"
+      },
+      "squuid": "5d08fe4e-2dc6-4c4e-9b6d-08d61c95f847",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zeitungsverlag Schwerin GmbH & Co KG",
+        "squuid": "5be1a6b6-e6d3-47f9-840b-22227f54a800"
+      },
+      "squuid": "5be1a6b8-adf0-47cf-9312-00ccefbfcb00",
+      "state": "active"
+    }
+  ]
+}

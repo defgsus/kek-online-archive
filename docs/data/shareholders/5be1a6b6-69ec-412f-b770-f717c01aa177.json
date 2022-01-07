@@ -1,0 +1,83 @@
+{
+  "state": "active",
+  "city": "Bad Hersfeld",
+  "pseudoCompany": false,
+  "street": "Benno-Schilde-Platz 2",
+  "name": "Hoehl-Druck GmbH & Co Hersfelder Zeitung KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-69ec-412f-b770-f717c01aa177",
+  "controlDate": "2021-10-25T11:42:40.042Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "36251",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hersfelder Zeitung",
+        "squuid": "5be1a6b1-8c39-49a6-af6c-ec43355a95ad"
+      },
+      "squuid": "5be1a6b9-84d9-4174-97a1-98e4b612966c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hersfelder-zeitung.de",
+        "squuid": "5be1a6b1-53aa-4e31-96e8-621a9ee77e84"
+      },
+      "squuid": "5be1a6b9-018d-45d6-ab18-8a5a5b0e2eb9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 19.5,
+      "holder": {
+        "name": "Verlag Dierichs GmbH & Co. KG",
+        "squuid": "5be1a6b6-6af6-4d18-aba5-e87517df7d54"
+      },
+      "squuid": "5be1a6b8-b851-41f5-882e-a4603baf1d02",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 61.0,
+      "holder": {
+        "name": "MBG Medien Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-d29e-400c-b3d1-1de422ecf822"
+      },
+      "squuid": "5be1a6b8-9309-4f8a-b400-f0408adaf08e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.5,
+      "holder": {
+        "name": "Entress, Andrea",
+        "squuid": "5be1a6b6-aca5-4c95-b2ae-8e7823d9a1e4"
+      },
+      "squuid": "5be1a6b8-8be0-4d0b-8ae4-22e8bf81a273",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Ott-Verlag GmbH",
+        "squuid": "5be1a6b6-69ea-4f92-b45d-db349af2aa53"
+      },
+      "squuid": "5ece640e-0ccd-472a-91ab-c2c596d3e22e",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Weißenseestr.",
+  "name": "Ajaska GmbH",
+  "naturalPerson": false,
+  "squuid": "5e6235e3-af5f-45eb-a497-37177c6f8c3c",
+  "controlDate": "2021-12-07T16:01:05.063Z",
+  "streetNumber": "101",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81539",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fribbla.de",
+        "squuid": "5e6235fc-1165-404f-a381-29100f86b256"
+      },
+      "squuid": "5e623654-d34a-45d3-9748-695e79677573",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 54.0,
+      "holder": {
+        "name": "Zschosche, Sören",
+        "squuid": "5e624654-a914-4cea-93b2-316843cbc813"
+      },
+      "squuid": "5e6246aa-ae60-4de9-8231-6bab3951eca3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 36.0,
+      "holder": {
+        "name": "Weber, Julian",
+        "squuid": "5e624664-0f6f-4638-ab9c-a6cebefcd013"
+      },
+      "squuid": "5e6246bf-ee13-4457-abba-889f403f7f65",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Weber, Philipp",
+        "squuid": "5e624677-a527-4762-8e75-6711a4e5a74b"
+      },
+      "squuid": "5e6246d1-0c31-4689-b76f-67ac243a4a07",
+      "state": "active"
+    }
+  ]
+}

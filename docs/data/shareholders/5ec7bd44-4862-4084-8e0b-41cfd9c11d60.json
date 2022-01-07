@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Bayard Media GmbH & Co KG",
+        "squuid": "5be1a6b6-29a7-4c15-b7e9-867ccd8abff5"
+      },
+      "squuid": "5ec7bd5e-06cf-4012-91ad-72b7221d4889",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Böheimstr.",
+  "name": "Bayard Media Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5ec7bd44-4862-4084-8e0b-41cfd9c11d60",
+  "controlDate": "2021-10-15T12:14:50.561Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86153",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Belgomedia SA",
+        "squuid": "5ec7be2d-f5b6-42f5-9689-d1c4dbbe3a73"
+      },
+      "squuid": "5ec7be9d-2c6c-4141-bbc2-357717c333a8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Senior Publications Deutschland GmbH & Co KG",
+        "squuid": "5ec7be88-ac8d-47d1-8aef-cd031ef8a6d4"
+      },
+      "squuid": "5ec7beaa-2274-4e81-9a75-4d606df3ef7f",
+      "state": "active"
+    }
+  ]
+}

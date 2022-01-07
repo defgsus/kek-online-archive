@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Döbern",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Jerischker Weg",
+  "name": "Marienberg GmbH",
+  "naturalPerson": false,
+  "squuid": "5c5c0c31-0a6b-4eea-af1e-fc05af334f34",
+  "streetNumber": " 26 B",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "03159",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Marienberg TV",
+        "squuid": "5c5c0c83-b9f2-4bea-8a9b-336230e738d5"
+      },
+      "squuid": "5c5c0de7-ddf6-4ced-80bd-4e6dcab9e1d4",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kupke, Werner",
+        "squuid": "5c5c0bfe-631b-4575-8e77-e505ab231064"
+      },
+      "squuid": "5c5c0e64-2dca-43f7-b6ee-fc602ce98223",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kupke, Lars",
+        "squuid": "5c5c0c09-baca-4e0b-9824-7647e22c17ef"
+      },
+      "squuid": "5c5c0e6f-3d08-4e6b-9f43-51958580d3ec",
+      "state": "active"
+    }
+  ]
+}

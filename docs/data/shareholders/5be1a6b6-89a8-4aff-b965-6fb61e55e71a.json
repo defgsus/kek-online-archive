@@ -1,0 +1,27 @@
+{
+  "name": "IHAG Holding AG",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-89a8-4aff-b965-6fb61e55e71a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.15,
+      "held": {
+        "name": "joiz AG",
+        "squuid": "5be1a6b6-4778-402b-b505-152b4658becf"
+      },
+      "squuid": "5be1a6b8-7a27-4080-af81-34350cb05878",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

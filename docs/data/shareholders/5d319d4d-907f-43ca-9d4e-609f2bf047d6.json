@@ -1,0 +1,65 @@
+{
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Munzinger Straße ",
+  "name": "Haufe-Lexware GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d319d4d-907f-43ca-9d4e-609f2bf047d6",
+  "controlDate": "2021-12-09T13:07:57.433Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "79111",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.haufe.de",
+        "squuid": "5d319d46-7c76-42b2-afd5-dc15744f5c6c"
+      },
+      "squuid": "5d319dad-2d38-4f58-aac0-758ffec920f0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Haufe Group SE",
+        "squuid": "5d319f5a-e1d3-4f58-9a81-a42bb71516e1"
+      },
+      "squuid": "5d319f75-07db-441d-bcf8-16a22f564c9f",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Haufe-Lexware Verwaltungs GmbH",
+        "squuid": "5efb38aa-e8f4-4dfa-aea9-1f67b61e1ddc"
+      },
+      "squuid": "5efb38e6-2f42-4d02-80bf-029b5d0e49e7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Laqua, Martin",
+        "squuid": "5efb38b7-4fe1-4b1a-9d75-fdc9fa8267aa"
+      },
+      "squuid": "5efb38fa-202a-4bbc-b57c-4488c584b210",
+      "state": "active"
+    }
+  ]
+}

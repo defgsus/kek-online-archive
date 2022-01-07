@@ -1,0 +1,87 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "held": {
+        "name": "ANTENNE RADIO GmbH & Co. KG",
+        "squuid": "5be1a6b6-d66b-47be-bf76-e515dd9367d8"
+      },
+      "squuid": "5be1a6b7-22dc-497b-9be4-05da1c041cc5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "held": {
+        "name": "Antenne Radio-Verwaltungsgesellschaft mbH",
+        "squuid": "5ef21049-234a-498b-b709-7199ff6d9a03"
+      },
+      "squuid": "5f97ddc3-b5db-4cb9-a9e3-83f703bc9d0f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Reutlingen",
+  "pseudoCompany": false,
+  "street": "Burgplatz",
+  "name": "RADIO RT 4 Programm- und Lizenzgesellschaft - Regionaler Hörfunk - GmbH & Co. OHG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9b4d-477d-a78f-afbcd4c7dee1",
+  "controlDate": "2021-11-24T17:01:28.256Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "72764",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 27.0,
+      "holder": {
+        "name": "LR Lokal-Regionalfunk GmbH",
+        "squuid": "5be1a6b6-4f61-418f-9ce9-6dc269e05d51"
+      },
+      "squuid": "5be1a6b7-17f0-47cd-bfec-bcf1bd663dc8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 73.0,
+      "holder": {
+        "name": "Radio RT 4 GmbH & Co. Programm- und Beteiligungsgesellschaft KG",
+        "squuid": "5c98ece2-cbcf-4b69-b373-0f1117ff5746"
+      },
+      "squuid": "5c98edbd-8c07-4196-9be1-7d4c1fe0fed9",
+      "state": "active"
+    }
+  ]
+}

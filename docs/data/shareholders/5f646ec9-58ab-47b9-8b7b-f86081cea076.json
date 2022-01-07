@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Darmstadt",
+  "pseudoCompany": false,
+  "street": "Flotowstraße ",
+  "name": "Ars Media Television-Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f646ec9-58ab-47b9-8b7b-f86081cea076",
+  "streetNumber": "21",
+  "organizations": [
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "64287",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "AAA-TV",
+        "squuid": "5f2d1eec-06d5-4dc9-88e4-18d6f18f5ea6"
+      },
+      "squuid": "5f646ef5-d4f7-48d2-b6c9-0b38192b47c4",
+      "state": "active"
+    }
+  ]
+}

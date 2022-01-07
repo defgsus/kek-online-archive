@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Haar",
+  "pseudoCompany": false,
+  "street": "Hans-Pinsel-Straße ",
+  "name": "sport media group GmbH",
+  "naturalPerson": false,
+  "squuid": "5d2f3d62-fada-48fc-8dac-4bf5dedc91c5",
+  "controlDate": "2021-12-07T15:03:38.308Z",
+  "streetNumber": "10a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85540",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.motorsport-total.de",
+        "squuid": "5d2f3df2-48c5-47b8-a2f7-49fe758dd2a6"
+      },
+      "squuid": "5d2f3e60-09ea-4521-9ab1-9fd61d8b060e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.formel1.de",
+        "squuid": "5d31c962-0fb4-4992-ae6a-98b2c9d366e8"
+      },
+      "squuid": "5d31c9da-1b59-4019-897c-9666d8f00ec0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Motorsport Network LLC.",
+        "squuid": "5d2f3f36-deb2-4dad-b80c-b55a93a50aec"
+      },
+      "squuid": "5d2f3f55-fd8e-457c-be1a-b12ba3ad6b8d",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "state": "active",
+  "city": "Kempten",
+  "pseudoCompany": false,
+  "street": "Heisinger Str. ",
+  "name": "Allgäu-TV GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5cab6a19-b235-49e1-abfe-578e329004c0",
+  "controlDate": "2021-11-23T12:09:24.956Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "87437",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "allgäu.tv",
+        "squuid": "5cab69c3-6580-4d5f-acd7-83de757ad71a"
+      },
+      "squuid": "5cab6b52-b957-4b13-83e2-1ca62b4a079d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.allgäu.tv",
+        "squuid": "5f772051-04dc-4eb9-a2de-313706a7fb5a"
+      },
+      "squuid": "5f77208d-9bc2-4f55-9731-e646605bea3c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 56.0,
+      "holder": {
+        "name": "rta.media GmbH",
+        "squuid": "5be1a6b6-835d-4817-ab25-5f64286c4824"
+      },
+      "squuid": "5cab6b8a-0285-4337-afc3-cb6382fe7f90",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Sankt Ulrich Verlag GmbH",
+        "squuid": "5be1a6b6-cac1-420a-b40c-87452e0ab6f4"
+      },
+      "squuid": "5cab6b97-7336-4526-8a23-9d76ff4d3194",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.0,
+      "holder": {
+        "name": "RT.15 GmbH",
+        "squuid": "5be1a6b6-70b0-48eb-8010-19756d476b0e"
+      },
+      "squuid": "5cab6ba7-0a7f-46af-8489-6cf398d9dac4",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Allgäu-TV Beteiligungs- und Verwaltungs GmbH",
+        "squuid": "5f7721ce-3b10-4b61-bd97-b6e5b9ee8fdd"
+      },
+      "squuid": "5f77225e-98f3-45d9-a091-12e439d98323",
+      "state": "active"
+    }
+  ]
+}

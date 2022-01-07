@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Düsselstraße 30",
+  "name": "TVinfo Internet GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fbfa-4d7c-9ece-9c8f4dbee3d1",
+  "controlDate": "2022-01-07T10:47:03.223Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40219",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvinfo.de",
+        "squuid": "5be1a6b1-37aa-4924-9de6-7b9ca6f7fa27"
+      },
+      "squuid": "5be1a6b9-2ff4-44bd-addc-b723970a8c10",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Schanz, Michael",
+        "squuid": "5be1a6b6-45f4-498f-9aeb-05a66575a2a8"
+      },
+      "squuid": "5be1a6b8-8552-4455-bffd-6c2033d5187b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Pins, Markus",
+        "squuid": "5be1a6b6-2564-4656-b4b7-ec963f1e05b9"
+      },
+      "squuid": "5be1a6b8-687e-460b-af5b-b590d921c40a",
+      "state": "active"
+    }
+  ]
+}

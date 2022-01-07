@@ -1,0 +1,74 @@
+{
+  "state": "active",
+  "city": "Wilhelmshaven",
+  "pseudoCompany": false,
+  "street": "Parkstr. 8",
+  "name": "Ernst Brune GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-8299-4d0a-a7eb-90d0ec954efd",
+  "controlDate": "2021-11-08T12:34:31.408Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "26382",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 14.9,
+      "holder": {
+        "name": "Brune-WZ-Stiftung",
+        "squuid": "5be1a6b6-a827-453a-927a-791f05260672"
+      },
+      "squuid": "5be1a6b8-cdb0-4e4f-a998-f3f0982c0b34",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.1,
+      "holder": {
+        "name": "Kolschen, Stephan",
+        "squuid": "5be1a6b6-77c8-4ac4-b119-a92bf223c37c"
+      },
+      "squuid": "5be1a6b8-3aa0-4daa-a905-808b3a6452be",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Scheper, Hartmut",
+        "squuid": "5be1a6b6-3635-4d43-b422-5a594fb6c5c7"
+      },
+      "squuid": "5be1a6b8-7ebd-474a-8df0-b16ae505a41d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 58.0,
+      "holder": {
+        "name": "Adrian, Dr. Anna",
+        "squuid": "5bf2bcba-7259-47ce-a5ae-7bbc94c24141"
+      },
+      "squuid": "5bf2bcdc-9f05-4060-8937-aedc2e9bb62f",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Werner Brune Beteiligungs-Gesellschaft mbH",
+        "squuid": "5eb2a870-a3d1-4a9a-88ce-7f546ae970f1"
+      },
+      "squuid": "5eb2a8a0-6239-4eaf-91ea-36b29095b133",
+      "state": "active"
+    }
+  ]
+}

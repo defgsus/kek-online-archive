@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "NRW.Bank Kreativwirtschaftsfonds GmbH & Co. KG",
+        "squuid": "5be1a6b6-ba9a-4f47-b2ac-35f969a0f584"
+      },
+      "squuid": "5be1a6b7-3783-481f-ae6c-b78d4d82d323",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "NRW.Bank",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c52e-4309-8efc-5ef1740b465d",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 13.10.2009, Az.: KEK 584",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 64.74,
+      "holder": {
+        "name": "Land Nordrhein-Westfalen",
+        "squuid": "5be1a6b6-cef2-4670-8f9f-da5f4e534dd1"
+      },
+      "squuid": "5be1a6b7-d98f-4eb0-9371-3c2d140bb88e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.63,
+      "holder": {
+        "name": "Landschaftsverband Rheinland",
+        "squuid": "5be1a6b6-299f-480b-ba09-cb32f683df1b"
+      },
+      "squuid": "5be1a6b7-a4fb-4513-b147-2a90000db1a1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.63,
+      "holder": {
+        "name": "Landschaftsverband Westfalen-Lippe",
+        "squuid": "5be1a6b6-f327-4f48-828d-9ff002495327"
+      },
+      "squuid": "5be1a6b7-6ff1-40f9-9737-67489b840f1c",
+      "state": "active"
+    }
+  ]
+}

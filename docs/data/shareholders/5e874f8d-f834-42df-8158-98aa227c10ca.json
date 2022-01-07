@@ -1,0 +1,38 @@
+{
+  "name": "Eigenbesitz der Radio Salü - Euro-Radio Saar GmbH",
+  "pseudoCompany": true,
+  "squuid": "5e874f8d-f834-42df-8158-98aa227c10ca",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 14.0,
+      "held": {
+        "name": "RADIO SALÜ - Euro-Radio Saar GmbH",
+        "squuid": "5be1a6b6-c416-473b-9edc-b68307c0e478"
+      },
+      "squuid": "5e874fef-a98f-47ad-9a47-48b93b66bebd",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

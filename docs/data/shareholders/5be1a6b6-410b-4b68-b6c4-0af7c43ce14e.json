@@ -1,0 +1,96 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Arabella Straße 23",
+  "name": "Bunte Entertainment Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-410b-4b68-b6c4-0af7c43ce14e",
+  "controlDate": "2021-12-01T14:23:18.848Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81925",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bunte",
+        "squuid": "5be1a6b1-3d88-45c4-bb46-b1d3e95e713f"
+      },
+      "squuid": "5be1a6b9-05d2-4887-8e6e-dda77b0def7a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "InStyle",
+        "squuid": "5be1a6b1-dfb1-4bf4-a24f-cf32fa8f4208"
+      },
+      "squuid": "5be1a6b9-6ed4-4675-ab77-a0945398c601",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bunte.de",
+        "squuid": "5be1a6b1-362b-4968-9089-1af19df239ff"
+      },
+      "squuid": "5be1a6b9-45f2-4ea0-abe7-c89d409b53d9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.instyle.de",
+        "squuid": "5be1a6b1-8c70-4e27-9932-39858791605d"
+      },
+      "squuid": "5be1a6b9-6d1e-49ca-b61e-7e4339e37184",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Instyle Men",
+        "squuid": "5e3154fa-2064-40b1-bdc5-2efb60bf3193"
+      },
+      "squuid": "5e3155e1-6915-4a7d-b4ff-02a9aed74103",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Instyle Mini & Me",
+        "squuid": "5e31555d-730b-4597-9d4e-8e23f1529494"
+      },
+      "squuid": "5e315636-2e54-44c5-a301-ed1e000b99b5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bunte Quarterly",
+        "squuid": "603ca8f4-c75a-48c7-a916-f80f05217488"
+      },
+      "squuid": "603ca965-367c-4283-9174-ab0328de5915",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "squuid": "5be1a6b8-87b2-4d3f-91e9-22e04273176e",
+      "state": "active"
+    }
+  ]
+}

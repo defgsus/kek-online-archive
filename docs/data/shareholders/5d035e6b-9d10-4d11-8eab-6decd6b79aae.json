@@ -1,0 +1,87 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Friedrichstraße",
+  "name": "Neue Berliner Redaktionsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5d035e6b-9d10-4d11-8eab-6decd6b79aae",
+  "controlDate": "2021-11-03T15:49:09.562Z",
+  "streetNumber": "200",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Märkische Oderzeitung",
+        "squuid": "5be1a6b1-a3ea-44a4-ae62-5d6e267df436"
+      },
+      "squuid": "5d035e9b-9bea-48d1-8ba0-d7275dd8e77e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.moz.de",
+        "squuid": "5be1a6b1-4633-4c48-853f-5b3b1a7229ca"
+      },
+      "squuid": "5d035eb3-22a6-4660-9089-8dad8c105b86",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gransee-Zeitung",
+        "squuid": "5be1a6b1-d0f7-43e2-9a55-66bff27ee597"
+      },
+      "squuid": "5d036263-e306-4362-8cb9-e6cbfd5018ee",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hennigsdorfer Generalanzeiger",
+        "squuid": "5be1a6b1-f10b-404b-a645-7342295b47e9"
+      },
+      "squuid": "5d036280-91b6-4fe1-81a9-91313ca49bbd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ruppiner Anzeiger",
+        "squuid": "5be1a6b1-27ad-47a7-8ea1-0cd9c6dd096c"
+      },
+      "squuid": "5d0cdb16-de73-42fb-84c8-60fecacf1bdd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Oranienburger Generalanzeiger",
+        "squuid": "5be1a6b1-a2fd-4a9c-95d1-f13c87e8eedf"
+      },
+      "squuid": "5d0cdb69-640f-4940-bbe5-29ffda0021b2",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Neue Pressegesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-9a6a-4235-a5d2-f080b726ddef"
+      },
+      "squuid": "5d035f58-a9c9-404f-a7ad-f2103bd2c520",
+      "state": "active"
+    }
+  ]
+}

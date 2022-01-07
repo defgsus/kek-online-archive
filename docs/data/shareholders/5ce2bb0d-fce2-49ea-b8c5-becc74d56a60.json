@@ -1,0 +1,31 @@
+{
+  "name": "Streubesitz an der Bayer AG",
+  "pseudoCompany": true,
+  "squuid": "5ce2bb0d-fce2-49ea-b8c5-becc74d56a60",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 92.83,
+      "held": {
+        "name": "Bayer AG",
+        "squuid": "5ce2b67a-b645-48a8-80c9-697b6d21514e"
+      },
+      "squuid": "5ce2bb33-4488-40cd-915d-62da9df43db8",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "618d065d-0ca8-48d0-aaf5-7e279bc50107",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Antenne NRW GmbH & Co. KG",
+        "squuid": "618d061b-b42a-42a2-8bdb-b956f64723f6"
+      },
+      "squuid": "618d06ee-e94d-4134-838c-80ffb56e8c35",
+      "state": "active"
+    }
+  ],
+  "name": "www.antenne.nrw",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-11-11T12:04:30.277Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

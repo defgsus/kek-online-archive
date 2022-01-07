@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.75,
+      "held": {
+        "name": "Landesbank Hessen-Thüringen Girozentrale (Helaba)",
+        "squuid": "5be1a6b6-04aa-4c68-94d6-5d60fa510eed"
+      },
+      "squuid": "5d302ebc-2cb9-4c86-a663-ee9b2015eff1",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Charlottenstr.",
+  "name": "FIDES Alpha GmbH",
+  "naturalPerson": false,
+  "squuid": "5d302d9b-82ca-4904-98bf-788efa6c8032",
+  "controlDate": "2021-12-06T10:26:02.919Z",
+  "streetNumber": "47",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "10117",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Deutscher Sparkassen- und Giroverband e. V.",
+        "squuid": "61ade83d-8ef4-485e-a17b-d5e1343538f8"
+      },
+      "squuid": "61adeba3-4625-41be-8175-b2f8a9c0dcfc",
+      "state": "active"
+    }
+  ]
+}

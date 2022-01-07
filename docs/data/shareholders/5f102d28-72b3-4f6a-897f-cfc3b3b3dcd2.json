@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Schumannstr.",
+  "name": "Audible GmbH",
+  "naturalPerson": false,
+  "squuid": "5f102d28-72b3-4f6a-897f-cfc3b3b3dcd2",
+  "controlDate": "2021-11-25T16:27:58.392Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.audible.de",
+        "squuid": "5f102ce9-1077-428b-84a1-e25c5fcf6384"
+      },
+      "squuid": "5f102d4d-9b29-430e-8207-416ff9777455",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Audible, Inc.",
+        "squuid": "5f102e09-c60f-4612-8fb2-9d9529eadcf7"
+      },
+      "squuid": "5f102e4b-77fd-4917-892d-e2a3effeb96f",
+      "state": "active"
+    }
+  ]
+}

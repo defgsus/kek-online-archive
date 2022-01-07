@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Arabellastr.",
+  "name": "NetDoktor GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b749-4fec-a610-b74d491292f2",
+  "controlDate": "2021-11-04T11:47:23.182Z",
+  "streetNumber": "21",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81925",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.netdoktor.de",
+        "squuid": "5be1a6b1-7981-4801-9885-1db234707580"
+      },
+      "squuid": "5be1a6b9-0b57-48a7-80ef-5e84c4927d1e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "squuid": "5dea5da8-0f51-4479-866f-9ca41e217c3b",
+      "state": "active"
+    }
+  ]
+}

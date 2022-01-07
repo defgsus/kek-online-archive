@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Mönchengladbach",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-34e7-4ef7-8f93-25acc3b52f4d",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Lokalradio Mönchengladbach Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-961d-4bde-81d5-a9638d893b48"
+      },
+      "squuid": "5be1a6b7-c9bf-4b3f-b21f-d552b2dd8e48",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

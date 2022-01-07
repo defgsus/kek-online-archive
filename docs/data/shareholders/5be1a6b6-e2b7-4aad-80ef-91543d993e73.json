@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Stadthausbrücke 5",
+  "name": "Grund Genug Verlag und Werbe GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e2b7-4aad-80ef-91543d993e73",
+  "controlDate": "2021-10-18T14:08:37.530Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20355",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "GG Lifestyle Personalities Real Estate",
+        "squuid": "5be1a6b1-6c83-422f-8c97-391c5723ff03"
+      },
+      "squuid": "5be1a6b9-991e-4aaf-a6ff-78a12bcb4c08",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gg-magazin.com",
+        "squuid": "5be1a6b1-3830-409d-98fa-a24de2be294d"
+      },
+      "squuid": "5be1a6b9-b047-4d4e-bb09-6b6055b131d9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Engel & Völkers AG",
+        "squuid": "5be1a6b6-7953-45d1-91b0-50d5f82fcff0"
+      },
+      "squuid": "5be1a6b8-fc9e-4005-8333-42151ce568e1",
+      "state": "active"
+    }
+  ]
+}

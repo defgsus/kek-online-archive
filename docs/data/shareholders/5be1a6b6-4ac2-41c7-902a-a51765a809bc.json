@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Flöttmann Verlag GmbH",
+        "squuid": "5be1a6b6-55c8-414f-b070-e7704e742012"
+      },
+      "squuid": "5be1a6b8-088b-4bd6-8c13-76796aae111f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Flöttmann Verwaltungs-GmbH",
+        "squuid": "61111850-c1d2-4f97-a283-efe1331dcb90"
+      },
+      "squuid": "611118ef-e01c-4878-917f-a6e913274c60",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gütersloh",
+  "pseudoCompany": false,
+  "street": "Schulstr.",
+  "name": "Ludwig Flöttmann GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4ac2-41c7-902a-a51765a809bc",
+  "controlDate": "2021-11-23T11:04:59.063Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "33330",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Flöttmann, Friedrich",
+        "squuid": "5be1a6b6-5121-477b-b1f4-34fc2307fdf4"
+      },
+      "squuid": "5be1a6b8-4b3f-4b82-8058-e54eede63d24",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Flöttmann Verwaltungs-GmbH",
+        "squuid": "61111850-c1d2-4f97-a283-efe1331dcb90"
+      },
+      "squuid": "6111187e-31a1-42d8-a1c9-c4f121e28b48",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Seefunk Verwaltungs GmbH",
+        "squuid": "5f3d37b4-47a3-49f7-b779-a336e6a6e2a9"
+      },
+      "squuid": "5ff46dfd-f125-4256-ab0c-33b30f9fd7a5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Konstanz",
+  "note": "Stand: 2/2018",
+  "pseudoCompany": false,
+  "street": "Reichenaustr.",
+  "name": "Radio Seefunk GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-e07a-4f54-9c05-2913d392c12a",
+  "controlDate": "2021-12-02T13:38:41.264Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "78467",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Seefunk",
+        "squuid": "5be1a6b1-bfe4-4915-bc5a-758ee96a5b67"
+      },
+      "squuid": "5be1a6b9-2273-45fd-b39e-cb9b4dab87dd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dasneueradioseefunk.de",
+        "squuid": "5f3d2be0-d62d-4a7e-87d0-c5f7d23ba09e"
+      },
+      "squuid": "5f3d3416-3efb-4e09-84a5-453812ea79d9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.imsueden.de/das-neue-radio-seefunk",
+        "squuid": "61d42952-2159-4a2f-9d13-d2da0b477ee0"
+      },
+      "squuid": "61d4297e-3081-4662-8552-45667df134ba",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 38.0,
+      "holder": {
+        "name": "Friedrichshafener Lokalrundfunkgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-692d-4a42-a92b-b1690c291224"
+      },
+      "squuid": "5be1a6b7-80bd-4c91-b4e7-e3a9774060ce",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Bodan AG, Druckerei und Verlag",
+        "squuid": "5be1a6b6-0228-47f3-b6e0-2f9b5ef6ac41"
+      },
+      "squuid": "5be1a6b7-8004-432f-856e-f9fe1da8f2f1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.0,
+      "holder": {
+        "name": "Meier & Cie. AG",
+        "squuid": "5be1a6b6-9346-4caa-9830-6d105196b16b"
+      },
+      "squuid": "5e57d2cc-61ee-4c07-9d94-681cf3fa013b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Seefunk Verwaltungs GmbH",
+        "squuid": "5f3d37b4-47a3-49f7-b779-a336e6a6e2a9"
+      },
+      "squuid": "5f3d37de-00bd-4446-9cee-25c6d71ee48f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 53.0,
+      "holder": {
+        "name": "rt1.broadcast management GmbH",
+        "squuid": "5be1a6b6-85f0-48b9-9138-215258d455f7"
+      },
+      "squuid": "5f3d381e-aa7d-47b1-98df-01f8020831ee",
+      "state": "active"
+    }
+  ]
+}

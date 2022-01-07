@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Mülheim an der Ruhr",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-1330-40f2-b2f0-9ca8a80ccba2",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Beteiligungsholding Mülheim an der Ruhr GmbH",
+        "squuid": "5be1a6b6-32c1-449b-a86c-c620e020c54b"
+      },
+      "squuid": "5be1a6b8-edba-4755-9542-7c4efd0212da",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

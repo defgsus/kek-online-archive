@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Marzellenstraße",
+  "name": "Bildungswerk der Erzdiözese Köln e. V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9121-49f4-beaa-0aba149e157c",
+  "streetNumber": "32",
+  "organizations": [
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "50668",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Domradio",
+        "squuid": "5be1a6b1-c880-461a-900a-6fcbfc170df6"
+      },
+      "squuid": "5be1a6b9-4e9d-40f9-a5ae-cbeac755cf6e",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f183142-04d0-4b4d-a512-51b1e665907d",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL Nord GmbH",
+        "squuid": "5be1a6b6-47dc-4077-b376-a8d2229ae26b"
+      },
+      "squuid": "5f1831c4-fc67-4f48-a481-0e1fb4768e53",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL interactive GmbH",
+        "squuid": "5be1a6b6-83ed-4c73-98a7-1ddc01209e8e"
+      },
+      "squuid": "60b89fb2-ad75-4dca-bec2-edc7a48701f4",
+      "state": "active"
+    }
+  ],
+  "name": "www.rtlnord.de/hamburg-schleswig-holstein",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-04T11:33:49.434Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

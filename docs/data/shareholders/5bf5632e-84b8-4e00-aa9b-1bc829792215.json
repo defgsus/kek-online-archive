@@ -1,0 +1,96 @@
+{
+  "state": "active",
+  "city": "Bielefeld",
+  "pseudoCompany": false,
+  "street": "Siekerwall",
+  "name": "Delius Klasing Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5bf5632e-84b8-4e00-aa9b-1bc829792215",
+  "controlDate": "2021-02-03T15:57:52.530Z",
+  "streetNumber": "21",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "33602",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bike - Das Mountain Bike Magazin",
+        "squuid": "5be1a6b1-ce63-4849-9fd3-716cf3422dda"
+      },
+      "squuid": "5bf56340-896d-4d36-978c-e31794c84d28",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bike-magazin.de",
+        "squuid": "5be1a6b1-f07f-42b8-94d6-6628d45c3d3e"
+      },
+      "squuid": "5cd985c5-989c-4d8b-a7f8-2bc70fcf9dd8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.boote-magazin.de",
+        "squuid": "5be1a6b1-0209-4ffa-9cab-2329cd5ef31f"
+      },
+      "squuid": "5cdab3f2-92c4-495d-bc16-1bf4fb3110c9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Boote",
+        "squuid": "5be1a6b1-d208-496d-905f-d1960f2f9336"
+      },
+      "squuid": "5cdab4b1-bf02-4fd6-831c-228fdb053edd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Boote Exklusiv",
+        "squuid": "5be1a6b1-af84-4f71-a237-a0702958f907"
+      },
+      "squuid": "5cdab540-6bbf-478b-97e7-aee2f608f278",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.boote-exclusiv.de",
+        "squuid": "5be1a6b1-3ecb-4b21-b9bd-463687de57d1"
+      },
+      "squuid": "5cdab560-da62-4cfd-8baa-3149a8fcfb7c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Porsche Klassik",
+        "squuid": "611e6be1-e4aa-46f7-a79e-8194f470f2ed"
+      },
+      "squuid": "611e6c2b-ee7b-4b3e-9851-7c600151adaa",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Delius Klasing + Co KG",
+        "squuid": "5be1a6b6-90f8-49d4-b9b6-6c9e3b428484"
+      },
+      "squuid": "5bf563c7-1f40-4458-b967-ca1b7cba8d09",
+      "state": "active"
+    }
+  ]
+}

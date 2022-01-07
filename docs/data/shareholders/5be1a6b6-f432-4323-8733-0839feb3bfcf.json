@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Königstein im Taunus",
+  "pseudoCompany": false,
+  "street": "Debusweg",
+  "name": "German health tv GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f432-4323-8733-0839feb3bfcf",
+  "controlDate": "2021-12-09T13:31:57.826Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "61462",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "health tv",
+        "squuid": "5be1a6b1-71a1-4a20-b754-301eef41e718"
+      },
+      "squuid": "5be1a6b9-9b4f-4e92-9a22-2e3ae890b630",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.healthtv.de",
+        "squuid": "5f1952f0-bdad-4df6-bbc3-c27c73b4da19"
+      },
+      "squuid": "5f195380-2b1d-46e4-b857-12557a423f24",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 08.11.2016, Az.: KEK 892, und Bescheid der MA HSH vom 11.11.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Asklepios Kliniken Verwaltungsgesellschaft mbH",
+        "squuid": "5be1a6b6-7fb5-4d89-ab08-125c6ad8ab9c"
+      },
+      "squuid": "5be1a6b8-68cd-4c57-9b02-9dcc487259be",
+      "state": "active"
+    }
+  ]
+}

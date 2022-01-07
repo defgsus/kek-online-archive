@@ -1,0 +1,76 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Rheinpfalz Verlag und Druckerei Verwaltungs-GmbH",
+        "squuid": "5df2596a-3ad1-4c69-bb80-8faf681aa8bb"
+      },
+      "squuid": "5df25c00-f627-4135-ae28-dcf5c8cb442d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Medien Union zweite Beteiligungs-GmbH",
+        "squuid": "5df38f65-b133-48da-b4d3-5cd0f3097f4c"
+      },
+      "squuid": "5df390f3-e9dd-4d6c-ac90-73fab0a69fc1",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ludwigshafen",
+  "pseudoCompany": false,
+  "street": "Amtsstr.",
+  "name": "Medien Union zweite Vermögensverwaltung GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5df25bd5-df42-4e51-ad54-c976fe359d02",
+  "controlDate": "2021-10-04T12:42:31.081Z",
+  "streetNumber": "5-11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "67059",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Medien Union GmbH Ludwigshafen",
+        "squuid": "5be1a6b6-c7c8-4983-84f6-ada451aec436"
+      },
+      "squuid": "5df38fe7-acff-4c78-a6dc-c8fe309bd990",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Medien Union zweite Beteiligungs-GmbH",
+        "squuid": "5df38f65-b133-48da-b4d3-5cd0f3097f4c"
+      },
+      "squuid": "5df3904d-6ed8-45d0-a45d-80a53d499238",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schaub, Thomas",
+        "squuid": "5be1a6b6-12e6-485e-abb2-3d422ec5d60f"
+      },
+      "squuid": "5df39096-659b-46b2-8cd8-9fc6710aa9d8",
+      "state": "active"
+    }
+  ]
+}

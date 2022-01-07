@@ -1,0 +1,104 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Münzstr.",
+  "name": "KMWS Media Hannover GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5efdee17-0d59-43d6-83a0-252863f7366e",
+  "controlDate": "2021-12-20T15:32:47.949Z",
+  "streetNumber": "3/4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30159",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-hannover.de",
+        "squuid": "5efded40-6465-4f21-8a1c-e362330badd7"
+      },
+      "squuid": "5efdee4f-1c75-4e01-935b-92e4e74b3965",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "KMWS Media GmbH",
+        "squuid": "5efdee2c-5d91-46e6-9539-29079dfaa414"
+      },
+      "squuid": "5efdf453-33a2-41c2-a85d-03d72571ff2e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Stack, Björn",
+        "squuid": "5efdef80-9d22-45d4-bff6-9235ee7154c9"
+      },
+      "squuid": "5efdf464-b988-46cb-8e8d-d33d9b34b6bd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Kahnt, Benjamin",
+        "squuid": "5efdef9c-683f-4712-8287-cede8459b0db"
+      },
+      "squuid": "5efdf470-407f-47ec-90f0-f421ef8230de",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "RO.SA.NO GmbH & Co. KG",
+        "squuid": "5be1a6b6-9f94-40a5-97c6-edd4b995390c"
+      },
+      "squuid": "5efdf47e-974f-4a04-9a5c-47a9b1d9ade0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Staude, Hanns-Werner",
+        "squuid": "5be1a6b6-c68d-4ef6-ac83-c4743e51fa3e"
+      },
+      "squuid": "5efdf49f-432d-42ef-b8e3-f4b344cee51b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Maass, Frank",
+        "squuid": "5be1a6b6-4021-41a4-ba21-819fa3eb1f27"
+      },
+      "squuid": "5efdf4af-65d9-436e-a2fe-1afeb5ad36cd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 21.0,
+      "holder": {
+        "name": "Wöbbeking, Martin",
+        "squuid": "5be1a6b6-37d7-4e53-8ea5-1482e34bd0db"
+      },
+      "squuid": "5efdf4ba-2ab6-4165-aa20-77cd27b7a9f0",
+      "state": "active"
+    }
+  ]
+}

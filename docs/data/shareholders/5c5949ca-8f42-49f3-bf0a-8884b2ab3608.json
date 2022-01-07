@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Markkleeberg",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Koburger Straße",
+  "name": "Pörsch, Angelika",
+  "naturalPerson": true,
+  "squuid": "5c5949ca-8f42-49f3-bf0a-8884b2ab3608",
+  "streetNumber": "203",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04416",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SecondRadio",
+        "squuid": "5c5949a0-cc00-4ed3-8c28-a8684b83fae2"
+      },
+      "squuid": "5c594a7f-9e27-4841-89ee-e28f31468ac7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Ostrock",
+        "squuid": "5e381df3-3d41-4997-b7b1-3fda6df1b1af"
+      },
+      "squuid": "5e381ed1-5142-4a77-8174-cd024ce42b79",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-ostrock.de",
+        "squuid": "5f969c54-2156-4b3b-95ea-238827270b6b"
+      },
+      "squuid": "5f969c87-b618-4fea-898b-56cc02b193b1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.secondradio.de",
+        "squuid": "5f96d3e8-186a-4a8c-b057-e804372a9c2b"
+      },
+      "squuid": "5f96d436-3899-4046-80a6-e95b64a3abcf",
+      "state": "active"
+    }
+  ]
+}

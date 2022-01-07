@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Gelsenkirchen",
+  "pseudoCompany": false,
+  "street": "Ludgeristraße",
+  "name": "RW Media UG (haftungsbeschränkt)",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-079e-4a38-ac6c-e2d2bc178143",
+  "controlDate": "2021-11-04T13:04:25.005Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "45897",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Neues Ruhr-Wort",
+        "squuid": "5be1a6b1-a2dc-498e-8667-5e6f0f0e5be8"
+      },
+      "squuid": "5be1a6b9-22e9-4aac-9054-cfbc8acc754d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.neuesruhrwort.de",
+        "squuid": "5be1a6b1-57da-40c5-97e2-80c2dae80c33"
+      },
+      "squuid": "5be1a6b9-1afd-4d79-9950-a4156ea9111e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Spernol, Boris",
+        "squuid": "5be1a6b6-5cf6-40e8-97d5-2793c2bf3575"
+      },
+      "squuid": "5be1a6b8-279b-4169-8bc0-f95ee13747a3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Mathies, Hildegard Hedwig",
+        "squuid": "5be1a6b6-e8c1-4b26-bbbe-7967f638ecac"
+      },
+      "squuid": "5be1a6b8-039a-4ae5-836c-e9ba839ae5aa",
+      "state": "active"
+    }
+  ]
+}

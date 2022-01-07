@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Bamberg",
+  "pseudoCompany": false,
+  "street": "Heinrichsdamm 32",
+  "name": "Heinrichs-Verlag gGmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3657-4eee-a53d-ce2390c2c4e3",
+  "controlDate": "2021-10-25T11:03:14.704Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "96047",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Heinrichsblatt",
+        "squuid": "5be1a6b1-a33f-4ff1-b315-37f4b7f27399"
+      },
+      "squuid": "5be1a6b9-a128-4558-8aed-76cbb639c6f4",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Joseph Stiftung",
+        "squuid": "5be1a6b6-91bd-4b89-9d05-db6e716a864a"
+      },
+      "squuid": "5be1a6b8-f5c4-4a9b-b94a-e68c677d989e",
+      "state": "active"
+    }
+  ]
+}

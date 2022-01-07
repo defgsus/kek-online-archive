@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Unterföhring",
+  "note": "(vormals Sat.1 Bayern Verwaltungs GmbH)",
+  "pseudoCompany": false,
+  "street": "Medienallee",
+  "name": "Sat.1 Bayern GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8c9c-42d1-b7f0-9e708d37c69f",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "85774",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "tv weiss-blau Rundfunkprogrammanbieter GmbH",
+        "squuid": "5be1a6b6-6cca-4e9f-8aa9-dc6529f65bc5"
+      },
+      "squuid": "5be1a6b7-2fee-49f3-a6d6-003c1348b1a2",
+      "state": "active"
+    }
+  ]
+}

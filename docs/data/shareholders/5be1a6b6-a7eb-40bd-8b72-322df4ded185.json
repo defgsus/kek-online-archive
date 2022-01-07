@@ -1,0 +1,98 @@
+{
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Heiliger Weg",
+  "name": "DIALOG GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a7eb-40bd-8b72-322df4ded185",
+  "controlDate": "2021-10-18T12:25:59.911Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "44135",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Galore",
+        "squuid": "5be1a6b1-a35f-402b-88a5-a21b66d8fa56"
+      },
+      "squuid": "5be1a6b9-eb2c-4168-a7d3-234e0c1c6796",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.galore.de",
+        "squuid": "5be1a6b1-1992-4756-980b-fc0a062ff9cf"
+      },
+      "squuid": "5be1a6b9-a922-4342-ac95-705c726a91e6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MINT Magazin für Vinylkultur",
+        "squuid": "5be1a6b1-4546-4ed5-9265-045e54a2b33e"
+      },
+      "squuid": "5be1a6b9-3925-491d-bb7e-6c9b63dd9f9e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mintmag.de",
+        "squuid": "61239cf6-1d14-4160-bcc7-fdc4488dde96"
+      },
+      "squuid": "61239d0f-427d-4ff9-b6ee-a90222fe4abf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "buddy",
+        "squuid": "61239d2a-2510-4151-b09a-2fe613c2b628"
+      },
+      "squuid": "61239d80-c4f0-47fc-bd13-c8fbd84ea4fb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.buddymag.de",
+        "squuid": "61239d3e-a3c2-4d62-8906-f7998af3d288"
+      },
+      "squuid": "61239d96-0cc0-471a-a0e9-9bcd7253f4be",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 85.0,
+      "holder": {
+        "name": "Konradin Mediengruppe GmbH",
+        "squuid": "5be1a6b6-1008-4437-b7e6-9d9c26b7f27d"
+      },
+      "squuid": "5be1a6b8-216a-48fe-ae5b-e72190d1ba9b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Lohrmann, Michael",
+        "squuid": "5be1a6b6-245b-4cb7-ba08-5df378f3e070"
+      },
+      "squuid": "5be1a6b8-baa7-42a5-a62e-eb5153c3baf4",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "state": "active",
+  "city": "Mönchengladbach",
+  "pseudoCompany": false,
+  "street": "Hennes-Weisweiler-Allee",
+  "name": "Borussia VfL 1900 Mönchengladbach GmbH",
+  "naturalPerson": false,
+  "squuid": "5ce2bf02-7920-4780-821d-6cc864736c01",
+  "controlDate": "2021-12-01T13:21:42.430Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "41179",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Fohlen.TV",
+        "squuid": "5ce2bf7f-b1e0-4c32-94ae-20e4a9f9497e"
+      },
+      "squuid": "5ce2c1e7-2684-4296-9200-ef40ea80749f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.borussia.de",
+        "squuid": "5d36ed47-77b9-4099-a94e-8f58f937a07c"
+      },
+      "squuid": "5d36edb9-eff7-4f55-97cd-241b20381361",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tv.borussia.de",
+        "squuid": "5f116f75-f858-4b25-ac22-132953f39c89"
+      },
+      "squuid": "5f116fa4-823e-413d-85d7-dfcc238fc593",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Borussia Verein für Leibesübungen 1900 e.V.",
+        "squuid": "5ce2bf5f-7d8a-4f5b-9294-084e3e1e0b2b"
+      },
+      "squuid": "5ce2c277-e5a3-4427-bf34-309ebac201ae",
+      "state": "active"
+    }
+  ]
+}

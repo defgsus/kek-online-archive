@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Ingolstadt",
+  "pseudoCompany": false,
+  "street": "Schillerstraße",
+  "name": "Radio ND1 GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6d46-42ff-8b63-6240f2939816",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "85055",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio ND1",
+        "squuid": "5be1a6b1-a72f-470d-a0a6-5ca711997d7b"
+      },
+      "squuid": "5be1a6b9-d507-4d75-9197-1058d723824a",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "RADIO IN Rundfunk- und Fernseh Anbieter GmbH",
+        "squuid": "5be1a6b6-0018-4435-88ca-30ebde43cdf4"
+      },
+      "squuid": "5be1a6b7-a64c-454b-9cb7-fc7f1b55ee29",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5be1a6b7-15a7-442f-8397-69ad81e68f0c",
+      "state": "active"
+    }
+  ]
+}

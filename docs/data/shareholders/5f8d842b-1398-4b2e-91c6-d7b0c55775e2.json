@@ -1,0 +1,80 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Sächsisches Gemeinschaftsprogramm GmbH & Co. KG",
+        "squuid": "5be1a6b6-1eb4-45d8-931a-789e8b934ea5"
+      },
+      "squuid": "5f8d8472-5831-4892-b5c0-911790e36103",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dresden",
+  "pseudoCompany": false,
+  "street": "Ammonstr.",
+  "name": "Sächsisches Gemeinschaftsprogramm Geschäftsführungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f8d842b-1398-4b2e-91c6-d7b0c55775e2",
+  "controlDate": "2021-11-25T15:13:46.736Z",
+  "streetNumber": "35",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01067",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "BCS Broadcast Sachsen GmbH & Co. KG",
+        "squuid": "5be1a6b6-f580-4b54-923b-11ca0a389907"
+      },
+      "squuid": "5f900698-62bd-4862-8ad5-67a706508958",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Netzwerk Programmanbietergesellschaft mbH Sachsen & Co. Betriebs KG",
+        "squuid": "5be1a6b6-181c-4a7c-bbd4-0e8d172c83a3"
+      },
+      "squuid": "5f9006b5-62ba-4eba-a066-2fa1c6e7cf64",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "LFS Landesfunk Sachsen GmbH",
+        "squuid": "5be1a6b6-b740-46cb-9e6b-2bde3d68f29c"
+      },
+      "squuid": "5f9006c7-1fe3-4e66-9f20-2d4256d3729e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Privater Sächsischer Rundfunk GmbH",
+        "squuid": "5be1a6b6-50ef-423a-95a7-bda039a4ac95"
+      },
+      "squuid": "5f9006db-b3cd-4bcc-a83e-117b3cb2761e",
+      "state": "active"
+    }
+  ]
+}

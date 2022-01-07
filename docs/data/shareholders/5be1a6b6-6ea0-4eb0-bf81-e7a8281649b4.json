@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Oschatz",
+  "pseudoCompany": false,
+  "street": "Merkwitzer Straße ",
+  "name": "Oschatz TV regional GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6ea0-4eb0-bf81-e7a8281649b4",
+  "streetNumber": "130",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04758",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Oschatz TV",
+        "squuid": "5be1a6b1-d5ba-46a6-af1f-b19f7f422ec7"
+      },
+      "squuid": "5be1a6b9-436a-4781-89d1-1eed9a578904",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wienig, Thomas",
+        "squuid": "5be1a6b6-ae83-418c-85d0-b520d2344d80"
+      },
+      "squuid": "5e4fa91c-002e-41a1-a73d-856b83642738",
+      "state": "active"
+    }
+  ]
+}

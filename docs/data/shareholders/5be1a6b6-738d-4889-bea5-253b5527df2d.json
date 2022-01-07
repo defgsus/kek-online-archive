@@ -1,0 +1,63 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Neustädter Beteiligungs- und Treuhandgesellschaft mbH",
+        "squuid": "5be1a6b6-d173-41c4-bdb6-1a8e90e3447e"
+      },
+      "squuid": "5be1a6b8-6caf-497a-bf65-c71b7c4be22d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 94.1,
+      "held": {
+        "name": "Gemeinschaftswerk der Evangelischen Publizistik (GEP) gGmbH",
+        "squuid": "5be1a6b6-5f90-43ff-832e-ada85f759d11"
+      },
+      "squuid": "5be1a6b8-3ddc-4d6d-b79f-6c624e31504a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "name": "Evangelische Kirche in Deutschland (EKD)",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-738d-4889-bea5-253b5527df2d",
+  "controlDate": "2019-07-10T13:34:49.646Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "30419",
+  "credits": "IJK"
+}

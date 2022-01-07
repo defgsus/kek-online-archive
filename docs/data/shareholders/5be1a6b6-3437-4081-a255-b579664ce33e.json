@@ -1,0 +1,55 @@
+{
+  "state": "active",
+  "city": "Wölmersen",
+  "pseudoCompany": false,
+  "street": "Raiffeisenstr.",
+  "name": "Arbeitsgemeinschaft Radio HCJB e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3437-4081-a255-b579664ce33e",
+  "controlDate": "2021-12-09T13:31:16.536Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "57635",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio HCJB Deutschland",
+        "squuid": "5be1a6b1-2c83-491e-937a-43799ae2e293"
+      },
+      "squuid": "5be1a6b9-785f-49c7-a32a-d80a7e864d17",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "HCJB Bibel Radio",
+        "squuid": "5be1a6b1-4d88-4b6e-ab46-682ad0e4eca9"
+      },
+      "squuid": "5be1a6b9-b834-4c12-ac4e-82118d68b9f9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hcjb.de",
+        "squuid": "5f92ccf8-9b00-48a1-93c6-444327d8ca33"
+      },
+      "squuid": "5f92cd46-8641-4a9d-8f8f-7c04424accd6",
+      "state": "active"
+    }
+  ],
+  "credits": "NLM"
+}

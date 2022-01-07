@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f918e13-bc03-4586-bda0-a3221b593fa2",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Alpenwelle Programmanbieter GmbH",
+        "squuid": "5be1a6b6-5348-4fb4-9a9c-c74fea5b6161"
+      },
+      "squuid": "5f918e51-86f0-481a-aaeb-8eb0677fa335",
+      "state": "active"
+    }
+  ],
+  "name": "www.alpenwelle.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-11-23T12:16:00.371Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.2,
+      "held": {
+        "name": "Radio Nordseewelle GmbH & Co. KG",
+        "squuid": "5be1a6b6-6d07-4d82-8b33-00a1b932a95d"
+      },
+      "squuid": "5be1a6b8-485c-42e9-83c0-cf4ebc1fd712",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "TBD Technische Bau Dienstleistungen Verwaltungsgesellschaft mbH",
+        "squuid": "5efdf90b-b3e2-4199-b279-dd8413141300"
+      },
+      "squuid": "5f0db142-12fe-4bb2-b4c4-2a42d9a77dc6",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Friedeburg",
+  "pseudoCompany": false,
+  "street": "Wieseder Str.",
+  "name": "TBD Technische Baudienstleistungen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-cd6f-4442-be48-0bec6169f2c3",
+  "controlDate": "2021-12-20T15:59:49.208Z",
+  "streetNumber": "34",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "26446",
+  "credits": "NLM; Radio Nordseewelle GmbH & Co. KG",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Eschen, Wilfried",
+        "squuid": "5be1a6b6-878a-4b73-be11-d67f5c23fa9f"
+      },
+      "squuid": "5be1a6b8-d427-42fd-a0e6-12a2db397af9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Jahnke, Uwe",
+        "squuid": "5be1a6b6-820d-4019-85b9-d7171f0162b1"
+      },
+      "squuid": "5be1a6b8-2162-4cd0-9353-ba533ac2efe9",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "TBD Technische Bau Dienstleistungen Verwaltungsgesellschaft mbH",
+        "squuid": "5efdf90b-b3e2-4199-b279-dd8413141300"
+      },
+      "squuid": "5efdf93f-9f16-4d83-8baf-bbb5d352ebb5",
+      "state": "active"
+    }
+  ]
+}

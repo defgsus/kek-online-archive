@@ -1,0 +1,49 @@
+{
+  "name": "Strauß, Franz-Georg",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-8498-423b-9843-9f7d630a14a2",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "HeronMedia Werbegesellschaft m.b.H.",
+        "squuid": "5be1a6b6-4f89-4dd8-a451-4c346bf4b9fa"
+      },
+      "squuid": "5be1a6b7-4f71-47e9-a662-5e36669856d8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "HeronMedia Werbegesellschaft m.b.H. &  Hermann Mayer GbR",
+        "squuid": "5be1a6b6-e16e-43ef-a7d5-81cace63cc8d"
+      },
+      "squuid": "5be1a6b7-e43b-4cd3-b994-ce46126ee4a0",
+      "state": "active"
+    }
+  ],
+  "city": "München",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

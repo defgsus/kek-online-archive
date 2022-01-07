@@ -1,0 +1,45 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.95,
+      "held": {
+        "name": "Antenne Unna Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-a808-45af-8bdf-6dc05e47cb44"
+      },
+      "squuid": "5be1a6b7-b759-4202-9c7c-11476f29da4d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Wirtschaftsbetriebe der Stadt Unna GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-cc00-4ddc-8564-5ac2dfdd713c",
+  "controlDate": "2021-11-25T15:01:07.166Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Unna",
+        "squuid": "5be1a6b6-f77c-4a69-911e-eac681855458"
+      },
+      "squuid": "5be1a6b8-3f83-455f-bbdc-d97529eca29c",
+      "state": "active"
+    }
+  ]
+}

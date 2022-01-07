@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Joachimstr.",
+  "name": "So Gesund Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5c3c7668-d6a0-4d44-96f0-a83c952e83a1",
+  "controlDate": "2021-11-15T10:43:23.624Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10119",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "so gesund",
+        "squuid": "5be1a6b1-ed85-423e-925a-c40463d4c59c"
+      },
+      "squuid": "5c3c767b-c14c-44f8-9e47-24e65bc4945a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.so-gesund.com",
+        "squuid": "5be1a6b1-4708-4f0b-822a-322b8d2fcd83"
+      },
+      "squuid": "60c1f120-c8e0-414d-9902-f247440e0d9f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.9,
+      "holder": {
+        "name": "Impact Ventures GmbH",
+        "squuid": "5be1a6b6-6e6c-47ed-9293-4e159ad5e155"
+      },
+      "squuid": "5c3c77b8-594d-428d-aa9c-161a911549f5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.1,
+      "holder": {
+        "name": "Brückenköpfe Diamonds GmbH",
+        "squuid": "5c3c7812-061b-4063-9aea-7a0a77c273a3"
+      },
+      "squuid": "5c3c783a-5adc-45ec-8a0f-5684be88f928",
+      "state": "active"
+    }
+  ]
+}

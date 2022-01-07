@@ -1,0 +1,126 @@
+{
+  "rfRepresentative": "Ulrich R. J. Kubak",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "12.11.1993",
+  "squuid": "5be1a6b1-7ed5-44b3-bfe1-a7dbfc1320a1",
+  "marketReach": 1.1,
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "accessibilityUrl": "https://www.klassikradio.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Klassik Radio GmbH",
+        "squuid": "5be1a6b6-71a0-499c-ab15-7f2341d831fe"
+      },
+      "squuid": "5be1a6b9-4bfd-4d66-bfe9-578a5f00a58d",
+      "state": "active"
+    }
+  ],
+  "name": "Klassik Radio (Berlin)",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfCategory": {
+    "squuid": "5be1a6ad-063c-4208-94e1-5216fef7a724",
+    "name": "Vollprogramm",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Hörfunkprogramm der Sparte \"Kultur\" mit deutlichem Schwerpunkt auf klassischer Musik und Informationen  aus den Bereichen Kultur, Politik und Wirtschaft/Börse.",
+  "rfLicenseUntil": "06.10.2020",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "12.07.2013",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
+      "name": "Vodafone Kabel Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
+      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-ec5e-4d1d-aeab-25f09a97bf67",
+      "name": "Tele Columbus AG",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-d7a7-4bd8-a6c4-89a1eb1c79a0",
+      "name": "Lokale Kabelnetze (veraltet)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "07.10.2013",
+  "rfAddress": "Planckstraße 15, 22765 Hamburg",
+  "accessibilityEmail": "info@klassikradio.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

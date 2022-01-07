@@ -1,0 +1,64 @@
+{
+  "name": "AMC Global Holdings CV",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.176,
+      "holder": {
+        "name": "AMC Networks International LLC",
+        "squuid": "5d304b95-05c0-4167-a5dd-9aa11342d24f"
+      },
+      "squuid": "5d35a751-c750-4107-b7c2-eae42420282f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.674,
+      "holder": {
+        "name": "AMC Networks MovieCo Inc.",
+        "squuid": "5d304bb9-68d1-4270-92dd-ea8eba723c91"
+      },
+      "squuid": "5d35a784-13a8-45d8-9674-a66bfe3f27e9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.15,
+      "holder": {
+        "name": "AMC GP 2 LLC",
+        "squuid": "5d304c9b-141b-42e2-b3aa-976e70393ee6"
+      },
+      "squuid": "5d35a7a6-1813-41da-8a72-89e1539aa5af",
+      "state": "active"
+    }
+  ],
+  "squuid": "5d304b6a-a426-4b17-8455-d1ce7fa77c87",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "AMC UK Topco Ltd.",
+        "squuid": "5be1a6b6-b23b-4f6f-ad8a-4c8ff580848d"
+      },
+      "squuid": "5d304e82-a80f-49d4-bb32-3e9ffabe2829",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,75 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.91,
+      "held": {
+        "name": "OMS-Online Marketing Service GmbH & Co. KG",
+        "squuid": "6082ac61-e251-4ed7-b875-a96ae933da5b"
+      },
+      "squuid": "6086a80a-7fe8-478f-9e11-c846dc42de48",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ravensburg",
+  "pseudoCompany": false,
+  "street": "Karlstraße 16",
+  "name": "Schwäbisch Media Digital GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-29a2-48cb-b73e-40122f032f42",
+  "controlDate": "2021-11-11T15:35:02.291Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "88212",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schwaebische.de",
+        "squuid": "5be1a6b1-b907-45ee-acb9-32f436e0d318"
+      },
+      "squuid": "5be1a6b9-e45b-4b73-a350-7eaeea47aaec",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fupa.net/region/oberschwaben",
+        "squuid": "615435eb-0ec8-499b-8678-8757c8e87249"
+      },
+      "squuid": "6154360b-43d9-4d3b-a2fc-ea7600940589",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-6d42-4527-ae6e-76743161d68b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbisch Media Digital Verwaltungs-GmbH",
+        "squuid": "5f044662-f3f1-499f-ad0e-684eeb6016e2"
+      },
+      "squuid": "5f044682-db64-4ba3-b665-a69a24a6d5b1",
+      "state": "active"
+    }
+  ]
+}

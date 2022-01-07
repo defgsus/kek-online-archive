@@ -1,0 +1,75 @@
+{
+  "rfRepresentative": "Dr. Friedrich Curtius, Dr. Rainer Koch, Dr. Stephan Osnabrügge, Peter Peters, Dr. Reinhard Rauball",
+  "state": "active",
+  "sharesInfo": "KEK 998",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Christian Pothe",
+  "rfStartDate": "Juni 2019",
+  "rfFreePay": true,
+  "squuid": "5d3017a4-1e5b-41e5-b618-32eaabc13011",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://tv.dfb.de",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Deutscher Fußball-Bund (DFB) e.V.",
+        "squuid": "5d30178b-69e3-471d-ab8f-dc54fd7d0d7f"
+      },
+      "squuid": "5d3019ab-b089-4dc0-91a5-a6af2dc742ae",
+      "state": "active"
+    }
+  ],
+  "name": "DFB-TV",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+    "name": "LPR Hessen",
+    "type": "organization",
+    "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "description": "Das Livestreaming-Angebot DFB-TV umfasst schwerpunktmäßig Fußballspiele, Pressekonferenzen und verschiedene einzelne Events (z. B. Beachsoccer). Die Livestreams werden über die Website des DFB (unter https://tv.dfb.de) sowie über Facebook und YouTube verbreitet.",
+  "rfLicenseUntil": "17.06.2029",
+  "rfLicensed": "18.06.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "18.06.2019",
+  "accessibilityEmail": "info@dfb.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

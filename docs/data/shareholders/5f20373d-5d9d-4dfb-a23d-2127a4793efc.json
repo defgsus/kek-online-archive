@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Güstrow",
+  "pseudoCompany": false,
+  "street": "Zum Schwanenhals",
+  "name": "Wolf, Henning",
+  "naturalPerson": true,
+  "squuid": "5f20373d-5d9d-4dfb-a23d-2127a4793efc",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "18273",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.guestrowtv.de",
+        "squuid": "5f203721-22d5-46ac-a067-165a1304e1ce"
+      },
+      "squuid": "5f203769-0d1e-4737-8aae-2ca9209ce7ad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "GüstrowTV",
+        "squuid": "5fb53752-8067-4473-93f2-9b99583e28a8"
+      },
+      "squuid": "5fb53974-0264-4176-8b7e-3e1d34e9b1c0",
+      "state": "active"
+    }
+  ]
+}

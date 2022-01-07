@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Hamm",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr.",
+  "name": "ID Metropolen News GmbH",
+  "naturalPerson": false,
+  "squuid": "5ecd04cd-1105-41ef-a205-d30dc50f8fbd",
+  "controlDate": "2021-11-19T16:21:39.940Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "59065",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.24hamburg.de",
+        "squuid": "5ecd03cc-d0f8-47b9-b887-cfe09116fe74"
+      },
+      "squuid": "5ecd04f1-1dd2-4693-942a-b3795394e24a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.buzzfeed.de",
+        "squuid": "5d35d162-e52d-47cd-b9cb-822f9a6b9755"
+      },
+      "squuid": "5f5f49c7-32fb-4fd5-acb3-bcf52d8dfff3",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "F. Wolff & Sohn KG",
+        "squuid": "5be1a6b6-f96c-4e11-901f-037faf330020"
+      },
+      "squuid": "5ecd0571-2559-4d3f-b864-a3e542a8c485",
+      "state": "active"
+    }
+  ]
+}

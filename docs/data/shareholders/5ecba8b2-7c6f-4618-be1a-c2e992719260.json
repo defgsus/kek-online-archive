@@ -1,0 +1,64 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Druck- und Pressehaus Naumann GmbH & Co KG",
+        "squuid": "5be1a6b6-7965-4235-96c0-9db33ee19d4b"
+      },
+      "squuid": "5ecba8ea-b0de-49fd-838e-2cf534b811c2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gelnhausen",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr.",
+  "name": "Naumann Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5ecba8b2-7c6f-4618-be1a-c2e992719260",
+  "controlDate": "2021-10-18T13:14:30.468Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "63571",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 27.0,
+      "holder": {
+        "name": "Naumann, Oliver",
+        "squuid": "5be1a6b6-4268-4b2b-b6d5-c3ec1c1bd5df"
+      },
+      "squuid": "5ecba9d2-a667-4d2e-b1a9-dd16e3208fd0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.0,
+      "holder": {
+        "name": "Naumann, Jens",
+        "squuid": "5be1a6b6-bf85-4224-aa75-0d7fdea02a71"
+      },
+      "squuid": "5ecba9de-d161-4008-a907-551e78cec597",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Beteiligungsgesellschaft Neue Zeitung mbH & Co. KG",
+        "squuid": "5be1a6b6-fe2d-4bc5-8b1d-ed6471f16ef3"
+      },
+      "squuid": "5ecba9ee-c5c8-46fb-9159-770ca3ba9516",
+      "state": "active"
+    }
+  ]
+}

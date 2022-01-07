@@ -1,0 +1,45 @@
+{
+  "name": "Deutscher Sparkassen- und Giroverband e. V.",
+  "squuid": "61ade83d-8ef4-485e-a17b-d5e1343538f8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "FIDES Beta GmbH",
+        "squuid": "5d302dad-d63b-4717-93d3-d65822adc2c9"
+      },
+      "squuid": "61ade897-051a-41e4-94a4-9d4b02605a50",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "FIDES Alpha GmbH",
+        "squuid": "5d302d9b-82ca-4904-98bf-788efa6c8032"
+      },
+      "squuid": "61adeba3-4625-41be-8175-b2f8a9c0dcfc",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "state": "active"
+}

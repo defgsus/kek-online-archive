@@ -1,0 +1,74 @@
+{
+  "rfRepresentative": "Lausmann, Günther",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "06.11.1995",
+  "rfFreePay": true,
+  "squuid": "5c59983d-c28e-48fe-b58d-5ec03ce4a799",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Lausmann, Günther",
+        "squuid": "5c599816-4392-46ea-b287-a83f46e6088b"
+      },
+      "squuid": "5c599a34-f974-486d-bd8e-08e793a50bcf",
+      "state": "active"
+    }
+  ],
+  "name": "Infokanal Bad Wilsnack",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+    "name": "Spartenprogramm (Information/Dokumentation)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Brandenburger Lokal-TV-Programm",
+  "rfLicenseUntil": "05.11.2023",
+  "rfLicensed": "12.09.2017",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d7a7-4bd8-a6c4-89a1eb1c79a0",
+      "name": "Lokale Kabelnetze (veraltet)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "06.11.2016",
+  "rfAddress": "Dr.-Wilhelm-Külz-Str. 7, 19336 Bad Wilsnack",
+  "accessibilityEmail": "elektro-lausmann@t-online.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

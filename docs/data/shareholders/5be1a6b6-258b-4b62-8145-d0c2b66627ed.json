@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Wilhelm-Leuschner-Platz",
+  "name": "Markets Inside Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-258b-4b62-8145-d0c2b66627ed",
+  "controlDate": "2021-11-30T17:59:13.841Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "04107",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.boersennews.de",
+        "squuid": "5be1a6b1-50cc-4ad8-8f78-5d25145a2217"
+      },
+      "squuid": "5be1a6b9-0560-48da-a726-4ccb39db368a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wallstreet:online AG",
+        "squuid": "5be1a6b6-efb6-4178-a7d4-a65f346c332b"
+      },
+      "squuid": "5be1a6b8-c4af-4f0a-b80c-72bfae0d42f1",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Schwäbische Zeitung Friedrichshafen GmbH & Co KG",
+        "squuid": "5be1a6b6-c5ce-4c1a-b00e-5814d7fe591f"
+      },
+      "squuid": "5ee9c1ec-8a23-47e4-9dfe-08df84dd73a0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Friedrichshafen",
+  "pseudoCompany": false,
+  "street": "Schanzstr.",
+  "name": "Schwäbische Zeitung Friedrichshafen Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5ee9c179-700c-4264-b460-c4abb8d2226b",
+  "controlDate": "2021-11-11T14:43:09.640Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "88045",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.0,
+      "holder": {
+        "name": "Robert Gessler GmbH & Co KG",
+        "squuid": "5be1a6b6-beec-4245-a399-8749db1222f9"
+      },
+      "squuid": "5ee9c21a-cdb0-4b89-a087-725fa8e5a99c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5ee9c22f-fd2f-4c24-8f2b-063cd800d614",
+      "state": "active"
+    }
+  ]
+}

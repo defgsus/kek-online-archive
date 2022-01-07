@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Weißenseestr.",
+  "name": "Happy Story GmbH",
+  "naturalPerson": false,
+  "squuid": "61d84967-e53b-4b18-a495-857a1becd7be",
+  "controlDate": "2022-01-07T14:16:54.842Z",
+  "streetNumber": "101",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81539",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wer-weiss-was.de",
+        "squuid": "5be1a6b1-1027-4b42-b142-ab1708e67321"
+      },
+      "squuid": "61d84984-475f-432d-97ae-a3b6c8149137",
+      "state": "active"
+    }
+  ]
+}

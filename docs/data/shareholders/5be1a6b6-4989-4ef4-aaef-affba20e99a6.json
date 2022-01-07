@@ -1,0 +1,43 @@
+{
+  "name": "Grenke, Wolfgang",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-4989-4ef4-aaef-affba20e99a6",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 40.67,
+      "held": {
+        "name": "Radio Karlsruhe GmbH & Co. KG",
+        "squuid": "5be1a6b6-db3d-4f4f-813b-126e135cf064"
+      },
+      "squuid": "5be1a6b7-4bc8-4707-875c-cf1f3fc8a193",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.67,
+      "held": {
+        "name": "Radio Karlsruhe Verwaltungs GmbH",
+        "squuid": "5f3676a4-7221-4dba-be65-4439d46fe8ae"
+      },
+      "squuid": "60bdef30-b04a-42e8-b120-ed4dca15de5a",
+      "state": "active"
+    }
+  ],
+  "city": "Baden-Baden",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

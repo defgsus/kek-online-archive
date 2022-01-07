@@ -1,0 +1,101 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.57,
+      "held": {
+        "name": "Radio38 GmbH & Co. KG",
+        "squuid": "5be1a6b6-f894-439e-aff5-d135b06e6de5"
+      },
+      "squuid": "5f033ad8-606f-419b-b48e-1dab2a145fb5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Thieme Verwaltungsgesellschaft mbH",
+        "squuid": "5f0da9cc-6815-4754-b065-e03809c665b8"
+      },
+      "squuid": "5ff4755a-1bb8-4f7b-8e37-0366ab1a61d0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Grasleben",
+  "pseudoCompany": false,
+  "street": "Helmstedter Str.",
+  "name": "Thieme GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5f03382b-5548-4aee-9215-ad15ba08688e",
+  "controlDate": "2021-12-21T13:45:30.721Z",
+  "streetNumber": "40",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "38368",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Thieme Verwaltungsgesellschaft mbH",
+        "squuid": "5f0da9cc-6815-4754-b065-e03809c665b8"
+      },
+      "squuid": "5f0daa32-0e83-4416-a599-572626476696",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 9.0,
+      "holder": {
+        "name": "Hohe, Maximilian",
+        "squuid": "5f0da9d8-c823-4f5e-a403-8f7698107cb2"
+      },
+      "squuid": "5f0daab4-e039-4831-90a2-7a2257e7f20c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Thieme-Hohe, Katharina",
+        "squuid": "5f0da9f6-fab6-4d36-92cd-a9e51a2a3937"
+      },
+      "squuid": "5f0daac6-f816-4b1d-b80d-dde17f095cb9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Thieme, Dr. Hans-Rudolf",
+        "squuid": "5f0daa0a-32ab-4544-afef-7414e74d3ffe"
+      },
+      "squuid": "5f0daad7-3f0b-4e7a-ad00-c44844329764",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "Thieme, Frederik",
+        "squuid": "5f0da9e7-7ddf-4204-af09-bde609587789"
+      },
+      "squuid": "5f0daaea-2300-494f-bd25-346bd306ee12",
+      "state": "active"
+    }
+  ]
+}

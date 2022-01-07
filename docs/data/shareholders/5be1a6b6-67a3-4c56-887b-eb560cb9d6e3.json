@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Schwanfeld",
+  "pseudoCompany": false,
+  "street": "Wengertspfad",
+  "name": "Apostolov, Dr. Blagoy",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-67a3-4c56-887b-eb560cb9d6e3",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "97523",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Opera",
+        "squuid": "5be1a6b1-cd75-4904-8a8e-5594ab9c7f20"
+      },
+      "squuid": "5be1a6b9-f327-4c37-a650-93ad4f6c1943",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-opera.de",
+        "squuid": "5f969b7c-7687-4d3b-ae92-3125a1a3b7ba"
+      },
+      "squuid": "5f969ba7-a31b-443f-b588-946ca538669d",
+      "state": "active"
+    }
+  ]
+}

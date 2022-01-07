@@ -1,0 +1,78 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.2952,
+      "held": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "5be1a6b7-e8cf-40ec-981c-1a378a1099ab",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mainz",
+  "pseudoCompany": false,
+  "street": "Erich-Dombrowski-Str.",
+  "name": "VRM Rundfunk Beteiligungs GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7953-4f49-bce7-0c8bba1f94e4",
+  "controlDate": "2021-12-07T12:16:49.373Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "55127",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kasper-Semmler, Rita",
+        "squuid": "5dee68d7-ddf0-46ac-bd84-8433f905eba3"
+      },
+      "squuid": "5ef9a8ff-00e7-46ce-8a69-85b30f6fd3fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "VRM Rundfunk Holding GmbH & Co. KG",
+        "squuid": "5be1a6b6-5bc7-43dc-b198-fb238ef34534"
+      },
+      "squuid": "5ef9a934-1044-4707-946f-4545a58fd79a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "VRM Rundfunk Verwaltungs GmbH",
+        "squuid": "5ef9a950-54f1-486a-a4e3-3473e2ce7b1e"
+      },
+      "squuid": "5ef9a96f-3f6e-4f89-a188-2ad4fb151bc4",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Landsberger Str.",
+  "name": "City-Post Zeitschriftenverlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5fcd-452f-b646-dedeb01beae3",
+  "controlDate": "2021-09-28T10:56:45.155Z",
+  "streetNumber": "146",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80339",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Das Einfamilienhaus",
+        "squuid": "5be1a6b1-c4f7-4522-95e3-220aaf22e2fe"
+      },
+      "squuid": "5be1a6b9-e7c6-4a70-aeb3-ea7e47cf37a6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Umbauen und Modernisieren",
+        "squuid": "5be1a6b1-9350-4e37-88fc-a9a63b63bd42"
+      },
+      "squuid": "5be1a6b9-297d-4e25-b30f-b8d0f4bd3ef8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Unser Haus für die ganze Familie",
+        "squuid": "5be1a6b1-a3cb-40e5-b8a2-6aa99558af1d"
+      },
+      "squuid": "5be1a6b9-ace3-45f1-8ae0-6cf3b59910cc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bau-welt.de",
+        "squuid": "6152f410-bf35-4076-9418-70296e2c8f88"
+      },
+      "squuid": "6152f4a6-304b-44dd-b17c-43d12d02044a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.livvi.de",
+        "squuid": "6152f486-7c68-447e-aa4c-2d64fcacef72"
+      },
+      "squuid": "6152f4c4-ec5e-45b1-bf40-bdbd10468bfa",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Mannschott, Claudia",
+        "squuid": "5be1a6b6-28c7-4cb7-a722-bb9f97e634a1"
+      },
+      "squuid": "5be1a6b8-ddb9-4229-af75-c53280a9faa1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Mannschott, Lutz",
+        "squuid": "5be1a6b6-6193-4126-a3f2-5c4babfa8260"
+      },
+      "squuid": "5be1a6b8-ca3e-4240-819a-3b39fe92fea9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Schmidt, Sebastian",
+        "squuid": "5be1a6b6-cbe9-492e-86f8-ac8ae51a6c7a"
+      },
+      "squuid": "5be1a6b8-5074-4fc1-8237-64b6e1e8c331",
+      "state": "active"
+    }
+  ]
+}

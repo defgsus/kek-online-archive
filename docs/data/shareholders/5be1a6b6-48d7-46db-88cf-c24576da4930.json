@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Waldmeisterstraße",
+  "name": "NOVA RADIO GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-48d7-46db-88cf-c24576da4930",
+  "streetNumber": "72",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80935",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Nova Radio",
+        "squuid": "5be1a6b1-9685-48bd-ae35-af68a4ee59d5"
+      },
+      "squuid": "5be1a6b9-3284-444f-8c4e-edf5233a8383",
+      "state": "active"
+    }
+  ]
+}

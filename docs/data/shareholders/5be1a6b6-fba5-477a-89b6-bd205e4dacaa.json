@@ -1,0 +1,75 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Kitzinger Heimatzeitungen Verwaltungs-GmbH",
+        "squuid": "5ec3b9ba-5701-4250-b702-7a140e5b698d"
+      },
+      "squuid": "5ec3ba46-0fd6-49ed-9f40-81f90bd6fd16",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kitzingen",
+  "pseudoCompany": false,
+  "street": "Herrnstr. 10",
+  "name": "Kitzinger Verlag & Medien GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-fba5-477a-89b6-bd205e4dacaa",
+  "controlDate": "2021-10-04T10:53:47.708Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "97318",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Die Kitzinger",
+        "squuid": "5be1a6b1-1e36-40c2-bdde-a70ed43eacf4"
+      },
+      "squuid": "5be1a6b9-eb88-43ed-a019-e7fd19f59cd5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.infranken.de",
+        "squuid": "5be1a6b1-1f3a-41ae-9d0e-4090a0a24ffb"
+      },
+      "squuid": "5bf3f587-98b8-4fd8-b8e7-3c509bbdbf93",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mediengruppe Oberfranken GmbH & Co. KG",
+        "squuid": "5be1a6b6-77ea-4cc0-b206-105ee3aec7f8"
+      },
+      "squuid": "5be1a6b8-dff3-496c-8e66-41296c84df40",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kitzinger Heimatzeitungen Verwaltungs-GmbH",
+        "squuid": "5ec3b9ba-5701-4250-b702-7a140e5b698d"
+      },
+      "squuid": "5ec3b9d5-0056-4ca5-8ca0-30b125c433f0",
+      "state": "active"
+    }
+  ]
+}

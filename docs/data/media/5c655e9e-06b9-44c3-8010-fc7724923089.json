@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Gerhard Borchers, Steffen Knödler",
+  "state": "active",
+  "sharesInfo": "Stand 31.03.2020 (Programmlistenauskunft)",
+  "rfShoppingChannel": false,
+  "rfFreePay": true,
+  "squuid": "5c655e9e-06b9-44c3-8010-fc7724923089",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.airtango.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "airtango AG",
+        "squuid": "5c655920-a5da-47d4-a6cc-5755e49eb9f1"
+      },
+      "squuid": "5c6560cb-1410-4f71-bbd1-6e2eaba161d3",
+      "state": "active"
+    }
+  ],
+  "name": "airtango",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+    "name": "LFK",
+    "type": "organization",
+    "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+  },
+  "description": "Online-Streaming-Plattform, über die Live-Events vornehmlich aus den Bereichen Sport und Entertainment verbreitet sowie Videos zum individuellen Abruf angeboten werden.",
+  "rfLicenseUntil": "08.11.2028",
+  "rfLicensed": "09.11.2018",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "09.11.2018",
+  "accessibilityEmail": "info@airtango.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

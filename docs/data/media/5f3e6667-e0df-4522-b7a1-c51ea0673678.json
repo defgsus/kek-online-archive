@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3e6667-e0df-4522-b7a1-c51ea0673678",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Next Generation GmbH & Co. KG",
+        "squuid": "5be1a6b6-73c7-40c3-9f6c-36bdb642bc5d"
+      },
+      "squuid": "5f3e66a9-2ff1-41df-86f8-e9fa0a079a63",
+      "state": "active"
+    }
+  ],
+  "name": "www.egofm.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-06T10:00:45.411Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

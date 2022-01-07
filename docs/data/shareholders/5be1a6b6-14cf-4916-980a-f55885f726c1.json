@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Speersort",
+  "name": "brand eins Wissen GmbH & Co KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-14cf-4916-980a-f55885f726c1",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "20095",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "brand eins Medien AG",
+        "squuid": "5be1a6b6-31ae-4fe7-a6f5-a614806fbd04"
+      },
+      "squuid": "5be1a6b8-6c8a-4033-956d-a50202324978",
+      "state": "active"
+    }
+  ]
+}

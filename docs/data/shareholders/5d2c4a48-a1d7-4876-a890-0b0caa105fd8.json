@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Lothstr.",
+  "name": "WWE Germany GmbH",
+  "naturalPerson": false,
+  "squuid": "5d2c4a48-a1d7-4876-a890-0b0caa105fd8",
+  "controlDate": "2021-07-09T10:14:46.106Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80797",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wwe.com",
+        "squuid": "5d2c49f0-4025-4f9b-bb05-4c87b972a6a6"
+      },
+      "squuid": "5d2c4a89-654f-447a-99a8-f1ee19968065",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "World Wrestling Entertainment Inc.",
+        "squuid": "5d2c4a71-2c2e-4806-b15e-7e2d0741157e"
+      },
+      "squuid": "5d2c4adc-abf8-4dd4-b7b6-d528c750a44f",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Charitéstr. 3",
+  "name": "Naturschutzbund Deutschland (NABU) e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-bc94-41ce-b482-1752decd3f9a",
+  "controlDate": "2020-06-09T12:31:22.104Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Naturschutz heute",
+        "squuid": "5be1a6b1-7e09-4dc9-a544-bbb50852c56d"
+      },
+      "squuid": "5be1a6b9-63f4-4bbf-8fb6-97ad20629e2b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nabu.de",
+        "squuid": "5be1a6b1-df2b-4824-a0d6-37f97702f422"
+      },
+      "squuid": "5be1a6b9-8f0a-4411-9c95-6e82258fe3cc",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Nordhorn",
+  "pseudoCompany": false,
+  "street": "Coesfelder Hof",
+  "name": "Grafschafter Nachrichten GmbH",
+  "naturalPerson": false,
+  "squuid": "605b1172-11ac-421d-8b18-0e3d3f823beb",
+  "controlDate": "2021-10-21T14:33:35.952Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "48527",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gn-online.de",
+        "squuid": "5be1a6b1-fb54-4750-9eff-7794930b30c7"
+      },
+      "squuid": "605b11a2-7ee2-43fa-88f8-3ad981363067",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Grafschafter Nachrichten",
+        "squuid": "5be1a6b1-203c-401a-afea-9a82141ed267"
+      },
+      "squuid": "605b126e-025e-43f2-ae65-5d3dfbe0be6a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "GN Holding GmbH & Co KG",
+        "squuid": "5be1a6b6-db48-4fae-beae-6550991fa8ca"
+      },
+      "squuid": "605b131d-6317-4a80-81a4-1c30882fba35",
+      "state": "active"
+    }
+  ]
+}

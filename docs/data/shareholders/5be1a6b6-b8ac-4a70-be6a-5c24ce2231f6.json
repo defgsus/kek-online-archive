@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Brabanter Straße",
+  "name": "OnVista Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b8ac-4a70-be6a-5c24ce2231f6",
+  "controlDate": "2021-12-16T14:00:01.701Z",
+  "streetNumber": "53",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50672",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.onvista.de",
+        "squuid": "5be1a6b1-df05-499b-a961-7adf951cabb6"
+      },
+      "squuid": "5be1a6b9-3503-4719-82d4-4c5f55cc323e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Commerzbank AG",
+        "squuid": "5be1a6b6-48e5-44c4-8b91-f6c13e0492a4"
+      },
+      "squuid": "60a24798-3197-4d6f-ac9a-2037649a495e",
+      "state": "active"
+    }
+  ]
+}

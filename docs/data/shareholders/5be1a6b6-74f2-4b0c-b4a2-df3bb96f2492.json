@@ -1,0 +1,70 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Pfuelstraße",
+  "name": "Plattform für regionale Musikwirtschaft GmbH",
+  "naturalPerson": false,
+  "co": "Aufgang V, 5. OG",
+  "squuid": "5be1a6b6-74f2-4b0c-b4a2-df3bb96f2492",
+  "controlDate": "2021-12-07T14:49:32.091Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10997",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "FluxFM (Berlin)",
+        "squuid": "5be1a6b1-0a36-4a8f-b7b4-801d5d566ed5"
+      },
+      "squuid": "5be1a6b9-701f-436a-98db-c8f3bd8dc919",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fluxfm.de",
+        "squuid": "5f1a9943-3c12-4463-8208-bca6810a8f11"
+      },
+      "squuid": "5f1a9a00-c499-4565-b0c6-9c53be952a02",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fluxfm.de/hamburg",
+        "squuid": "5f901563-d87e-4560-a1fd-81b75948807d"
+      },
+      "squuid": "5f9015a4-19f3-424e-ab4d-c7593ec331d3",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "m2m Verwaltungsgesellschaft mbH",
+        "squuid": "5be1a6b6-e877-4a7f-83e4-fca3b960215f"
+      },
+      "squuid": "5be1a6b7-46a8-4617-84e9-004446c7a672",
+      "state": "active"
+    }
+  ]
+}

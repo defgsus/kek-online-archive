@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Brandenburg an der Havel",
+  "pseudoCompany": false,
+  "street": "Kurstr.",
+  "name": "SKB - Stadtfernsehen und Kabelrundfunk Brandenburg a.d. Havel GmbH & Co. Betriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5c5d51bd-e7a8-4bee-9d99-4bca95985d12",
+  "controlDate": "2022-01-05T15:31:24.805Z",
+  "streetNumber": "14a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14776",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.skb-tv.de",
+        "squuid": "5f3659a5-f7c8-49a8-8d9d-39178c080f00"
+      },
+      "squuid": "5f365a12-18c1-4a16-a378-28ca084858ae",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SKB Stadtfernsehen - Kabelrundfunk Brandenburg a. d. Havel GmbH",
+        "squuid": "5c5d547b-f7b9-4e0f-8b71-950463a5dbec"
+      },
+      "squuid": "5f365b06-9ff1-467c-ae59-9efc4f71542d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 87.5,
+      "holder": {
+        "name": "RFT kabel Brandenburg GmbH",
+        "squuid": "5c5d54d6-4348-4218-9d21-0ce200815939"
+      },
+      "squuid": "5f365b64-84c7-4b24-b6b4-a4ee7736e1a3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "BNMG Brandenburgische Netz- und Media-Service GmbH",
+        "squuid": "5c5d54be-f946-4c6d-aba9-c1542fc63998"
+      },
+      "squuid": "5f365b7f-80b9-437e-a126-55c4b975f05b",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "MZ Medien Holding GmbH & Co KG",
+        "squuid": "5be1a6b6-47af-4662-8ef2-4d3604b8743e"
+      },
+      "squuid": "5ecd0925-b659-4310-9c41-c4d0f3bb075b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "An der Hansalinie",
+  "name": "MZ Medien Holding Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5ecd090c-a260-4468-b4af-08278b387b7b",
+  "controlDate": "2021-11-03T17:20:56.244Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "48163",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "MZ Medien Holding GmbH & Co KG",
+        "squuid": "5be1a6b6-47af-4662-8ef2-4d3604b8743e"
+      },
+      "squuid": "5ef1c710-4564-4d10-b23f-1b4bf7132690",
+      "state": "active"
+    }
+  ]
+}

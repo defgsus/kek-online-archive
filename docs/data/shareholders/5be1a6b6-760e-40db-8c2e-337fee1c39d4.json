@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "jameda GmbH",
+        "squuid": "5be1a6b6-2b40-4a81-99ed-ca10843d7ea7"
+      },
+      "squuid": "5be1a6b8-c851-4e34-9bbc-1c423a052cd5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "BurdaForward GmbH",
+        "squuid": "5be1a6b6-ec90-4c10-b54f-743f02837ccd"
+      },
+      "squuid": "5be1a6b8-4e3e-4f48-be1a-c80b582d165a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Arabella Str. 21",
+  "name": "Burda Digital GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-760e-40db-8c2e-337fee1c39d4",
+  "controlDate": "2021-12-10T09:38:01.622Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81925",
+  "corporationName": "Burda",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hubert Burda Media Holding KG",
+        "squuid": "5be1a6b6-7626-4ccb-9b6d-025ef63b4f0a"
+      },
+      "squuid": "5be1a6b8-4065-4543-a9c2-3555e8a73703",
+      "state": "active"
+    }
+  ]
+}

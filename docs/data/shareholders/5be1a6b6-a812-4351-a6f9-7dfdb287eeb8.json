@@ -1,0 +1,104 @@
+{
+  "name": "Anbietergemeinschaft der gemeinnützigen, kulturellen und kirchlichen Institutionen",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 2.15,
+      "holder": {
+        "name": "Diözese Passau K.d.ö.R.",
+        "squuid": "5be1a6b6-77cd-4f1e-a8b9-73fda58c3ae4"
+      },
+      "squuid": "5be1a6b7-2a71-4472-b988-50b6265c67d6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.15,
+      "holder": {
+        "name": "Evangelisches Bildungswerk im Dekanat Passau",
+        "squuid": "5be1a6b6-92a0-4960-af31-577d040c5612"
+      },
+      "squuid": "5be1a6b7-a21a-4556-a4e9-8326dbeef8c2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.13,
+      "holder": {
+        "name": "ebiz GmbH",
+        "squuid": "5ca5f485-2f5b-480e-9ff5-23fe9505c952"
+      },
+      "squuid": "5ca5f4a7-f242-47ee-b4b2-e675d703971a",
+      "state": "active"
+    }
+  ],
+  "squuid": "5be1a6b6-a812-4351-a6f9-7dfdb287eeb8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.43,
+      "held": {
+        "name": "Funkhaus Passau Verwaltungs-GmbH",
+        "squuid": "5f90289c-004d-421f-b1ba-b0aa970fceda"
+      },
+      "squuid": "606c4596-d19b-4dfe-bf75-e5c243d9a534",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.43,
+      "held": {
+        "name": "Funkhaus Passau GmbH & Co. KG",
+        "squuid": "5be1a6b6-f513-4842-a215-498137a17a32"
+      },
+      "squuid": "60a2560d-3c49-4a8c-a958-e7aa675a5d41",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,85 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "IVZ Medien Verwaltungs GmbH",
+        "squuid": "5ecf9e45-5259-4d7d-a27d-5ccd000545d0"
+      },
+      "squuid": "5ecf9f36-377e-439a-81ca-6149ee05dc55",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ibbenbüren",
+  "pseudoCompany": false,
+  "street": "Wilhelmstr. 240",
+  "name": "IVZ Medien GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-dfab-4422-8051-6cb177731be0",
+  "controlDate": "2021-10-25T13:38:47.926Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "49479",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ibbenbürener Volkszeitung",
+        "squuid": "5be1a6b1-8aa4-4ea6-8ead-3663d2a086be"
+      },
+      "squuid": "5be1a6b9-0e21-48af-b606-2ad627b55010",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ivz-aktuell.de",
+        "squuid": "5be1a6b1-888b-45ac-bbf5-66ff7c69ab10"
+      },
+      "squuid": "5be1a6b9-5ddb-4210-9328-e84b863dd87c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "Aschendorff Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c"
+      },
+      "squuid": "5be1a6b8-cf43-4e9e-a751-a5537b80e598",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 65.0,
+      "holder": {
+        "name": "Ibbenbürener Vereinsdruckerei GmbH",
+        "squuid": "5be1a6b6-04c8-4166-8795-bf0f6b681c02"
+      },
+      "squuid": "5be1a6b8-5584-4f2f-a1c4-1e8b5431635e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "IVZ Medien Verwaltungs GmbH",
+        "squuid": "5ecf9e45-5259-4d7d-a27d-5ccd000545d0"
+      },
+      "squuid": "5ecf9e6f-80aa-4952-ab40-990dbf028485",
+      "state": "active"
+    }
+  ]
+}

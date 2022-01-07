@@ -1,0 +1,64 @@
+{
+  "rfRepresentative": "Claude Schmit",
+  "state": "active",
+  "rfStartDate": "15.06.2020",
+  "squuid": "60069848-053d-40d3-98f3-a3a0ef54edd6",
+  "organization": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SUPER RTL Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-2cfa-4d35-9bcc-0908e5e2773e"
+      },
+      "squuid": "600699c0-3db1-4e55-bc6e-39e92e2acf23",
+      "state": "active"
+    }
+  ],
+  "name": "TOGGO Radio",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Bei „TOGGO Radio“ handelt es sich um ein Programm für Kinder und Familien, das mit (Kinder-) Nachrichten sowie abwechslungsreicher Musik und Hörspielen, Unterhaltung für Groß und Klein bieten will. ",
+  "rfLicenseUntil": "29.07.2030",
+  "rfLicensed": "30.07.2020",
+  "platformOperators": [
+    {
+      "squuid": "5e7b9563-36c1-4183-8164-b7a93668ef85",
+      "name": "DAB+ Zweiter Bundesmux",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5e7b9563-aa09-44f1-90b5-e48a0d7359ea",
+        "name": "DAB+",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "LfM",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

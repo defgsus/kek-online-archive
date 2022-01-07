@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Bamberg",
+  "pseudoCompany": false,
+  "street": "Gutenbergstraße",
+  "name": "Anbietergesellschaft Radio für Bamberg mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-87f5-4d24-9356-2ab83455a3ac",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "96050",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mediengruppe Oberfranken GmbH & Co. KG",
+        "squuid": "5be1a6b6-77ea-4cc0-b206-105ee3aec7f8"
+      },
+      "squuid": "5be1a6b7-b9c5-4ca3-8b80-a8332d536e46",
+      "state": "active"
+    }
+  ]
+}

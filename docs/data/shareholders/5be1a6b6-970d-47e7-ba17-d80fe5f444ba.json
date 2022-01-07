@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "GWB Grundwert Brandenburg GmbH",
+        "squuid": "5be1a6b6-1c19-48dc-aa7b-832afb9515ff"
+      },
+      "squuid": "5be1a6b7-d270-4867-b2a5-21470e2a03be",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wolfsberg",
+  "pseudoCompany": false,
+  "street": "Weidenberg",
+  "name": "CHH GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-970d-47e7-ba17-d80fe5f444ba",
+  "controlDate": "2021-12-09T15:16:09.704Z",
+  "streetNumber": "17",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "98704",
+  "credits": "Website mabb, Abruf am 12.08.2014",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Frank, Andrea",
+        "squuid": "5be1a6b6-74a2-495e-81f5-f65be31b974b"
+      },
+      "squuid": "5be1a6b7-c1d3-4a5f-89d0-6494b99ace90",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Hinske, Dr. Christiane",
+        "squuid": "5be1a6b6-3dde-4a78-98cf-0db28a60f203"
+      },
+      "squuid": "5be1a6b7-4144-4448-8f2e-6bdde71b9248",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Kiel",
+  "pseudoCompany": false,
+  "street": "An der Halle 400",
+  "name": "falkemedia digital GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fe51-45c8-bb97-01124f8b3978",
+  "controlDate": "2020-07-02T12:18:34.434Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "24143",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tech.de",
+        "squuid": "5be1a6b1-b797-42a6-8d02-a6f70649206e"
+      },
+      "squuid": "5be1a6b9-a47b-4b92-91ef-1ab21ee09c57",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.maclife.de",
+        "squuid": "5be1a6b1-ec84-4e6e-b95f-0ebcc9f48fdc"
+      },
+      "squuid": "5be1a6b9-9456-4fd9-b8b0-2f9ab106acbd",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Goukassian, Kassian Alexander",
+        "squuid": "5be1a6b6-ea1f-4952-8711-9499274ffdf9"
+      },
+      "squuid": "5be1a6b8-64d5-4f54-b9c9-9d8c7fa181ed",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Goukassian, Sandra",
+        "squuid": "5be1a6b6-16d1-4890-841d-e02ea56aac75"
+      },
+      "squuid": "5be1a6b8-5879-477e-9816-3d127012193e",
+      "state": "active"
+    }
+  ]
+}

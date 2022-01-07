@@ -1,0 +1,73 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Ericusspitze",
+  "name": "Der Spiegel GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-3a3f-4929-98aa-e84553ad4632",
+  "controlDate": "2021-09-30T11:32:32.642Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20457",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.spiegel.de",
+        "squuid": "5be1a6b1-c2bb-48d5-a8a2-6b2ad3509ad5"
+      },
+      "squuid": "5be1a6b9-2e28-451b-b01c-ea93023a8083",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.spiegel.de/start/",
+        "squuid": "5be1a6b1-aaa4-4e6b-8c95-256764a00807"
+      },
+      "squuid": "5be1a6b9-6dbe-4f7f-9e5e-369b1555d7c2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.spiegeldaily.de",
+        "squuid": "5be1a6b1-6f9f-4bec-8a0d-81fe96127d51"
+      },
+      "squuid": "5be1a6b9-c12f-4f1a-98d0-70c9cd9ebc0a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Spiegel Beteiligungsmanagement GmbH",
+        "squuid": "5be1a6b6-5e6b-4201-a673-50dd2aff16df"
+      },
+      "squuid": "5be1a6b8-31c3-4027-8a45-14bb8135af55",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG",
+        "squuid": "5be1a6b6-6ff9-4786-82e0-aa8770604520"
+      },
+      "squuid": "5eecc0c0-85b2-4bd3-91dc-15f48dd63a09",
+      "state": "active"
+    }
+  ]
+}

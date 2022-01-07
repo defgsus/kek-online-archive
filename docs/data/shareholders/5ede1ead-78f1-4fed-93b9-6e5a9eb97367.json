@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Minden",
+  "pseudoCompany": false,
+  "street": "Obermarktstr.",
+  "name": "Bruns Verlags-GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5ede1ead-78f1-4fed-93b9-6e5a9eb97367",
+  "controlDate": "2021-11-01T13:30:57.328Z",
+  "streetNumber": "26-30",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "32423",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mindener Tageblatt",
+        "squuid": "5be1a6b1-cc29-4fdc-859e-5af3ce5e0588"
+      },
+      "squuid": "5ede1ee5-6a9a-4046-b7f7-d930ba76c5dc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mt.de",
+        "squuid": "5be1a6b1-aeeb-4a5d-8c92-ff3b4a7ed835"
+      },
+      "squuid": "5ede1fee-60e0-45b1-b7bd-bfd1980e7d47",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "news.",
+        "squuid": "617feafb-e2b6-47f8-bc21-26f3d1344aec"
+      },
+      "squuid": "617feb66-0e18-4c27-a42d-b1013a1df44c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.news-dasmagazin.de",
+        "squuid": "617febbf-0f79-4ff9-948e-4be8f9fcbd3f"
+      },
+      "squuid": "617febe2-7b23-4fa5-a9ba-d43f8f501218",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "J.C.C. Bruns Betriebs-GmbH",
+        "squuid": "5be1a6b6-af8c-4fb4-a72d-cac4a19d2c8f"
+      },
+      "squuid": "5ede1f87-f836-451a-b533-05ac6a24b8e8",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bruns Verlags Beteiligungs-GmbH",
+        "squuid": "5ede1ecb-8cf0-4078-a6a3-5c303e672c89"
+      },
+      "squuid": "5ede1fbf-31ae-4749-91b3-5469d2796cde",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "state": "active",
+  "city": "Ulm",
+  "pseudoCompany": false,
+  "street": "Karlstr.",
+  "name": "MM-Musik-Media-Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-08c8-4265-8b2c-ee2c7ded6347",
+  "controlDate": "2021-11-15T11:16:01.966Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "89073",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gitarre & Bass",
+        "squuid": "5be1a6b1-aba1-48c8-b6cb-340a736e11db"
+      },
+      "squuid": "5be1a6b9-795d-4253-af02-6064aad66441",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Keyboards",
+        "squuid": "5be1a6b1-5907-4b01-b4aa-4ab2f6442452"
+      },
+      "squuid": "5be1a6b9-a218-4123-8c98-45ea346827a1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sound & Recording",
+        "squuid": "5be1a6b1-82f1-491c-a2b7-84b41a9b30c2"
+      },
+      "squuid": "5be1a6b9-b2ac-4e08-ad75-f938db62135f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sticks",
+        "squuid": "5be1a6b1-fd88-42cf-be26-d723868b84bb"
+      },
+      "squuid": "5be1a6b9-0c1e-4406-8da3-2ae7e9b36cad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gitarrebass.de",
+        "squuid": "5be1a6b1-e19b-41ae-a05e-a1e30988fce9"
+      },
+      "squuid": "5be1a6b9-9085-4007-a03c-ce60f908d445",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.keybords.de",
+        "squuid": "5be1a6b1-ee85-4a7f-95a9-6dbe3703ad95"
+      },
+      "squuid": "5be1a6b9-0fdb-4fce-9e72-c403d3d0150c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.soundandrecording.de",
+        "squuid": "5be1a6b1-d786-4c80-9a52-f07fdff6a15d"
+      },
+      "squuid": "5be1a6b9-dfdf-4eef-97e6-0046277cad57",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sticks.de",
+        "squuid": "5be1a6b1-41da-422b-b90a-23873101624f"
+      },
+      "squuid": "5be1a6b9-b973-4b86-aee8-bb67a52c9461",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ebner Media Group GmbH & Co KG",
+        "squuid": "5be1a6b6-84e9-4f17-a677-1e326d5da9f2"
+      },
+      "squuid": "5be1a6b8-9503-4d1e-8f72-62abbeaeb5aa",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Ebner Ulm MGV GmbH",
+        "squuid": "5ebd3d24-4dd7-47d5-92ef-61cf0345c6b9"
+      },
+      "squuid": "5ecbc262-bb13-4c5e-ae9c-b75eb2067656",
+      "state": "active"
+    }
+  ]
+}

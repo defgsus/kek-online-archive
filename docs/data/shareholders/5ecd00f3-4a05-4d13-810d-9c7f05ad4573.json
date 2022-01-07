@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Märkisches Medienhaus GmbH & Co KG",
+        "squuid": "5be1a6b6-77a9-41c7-a6e8-f04daa097183"
+      },
+      "squuid": "5ecd011e-e6bc-4ed0-8626-f22f47d4462c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Frankfurt (Oder)",
+  "pseudoCompany": false,
+  "street": "Kellenspring",
+  "name": "Märkisches Medienhaus Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5ecd00f3-4a05-4d13-810d-9c7f05ad4573",
+  "controlDate": "2021-11-03T15:47:19.018Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "15230",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Frankfurter Mediengesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-3463-4eda-bea5-9576bc472449"
+      },
+      "squuid": "5edf66ec-d217-46af-a07c-73691b9f3f59",
+      "state": "active"
+    }
+  ]
+}

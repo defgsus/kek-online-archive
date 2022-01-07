@@ -1,0 +1,30 @@
+{
+  "name": "Raiffeisen-Volksbank Bad Staffelstein eG",
+  "squuid": "5e95bd74-230c-446d-873d-956477377032",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.5,
+      "held": {
+        "name": "Fernsehanbietergemeinschaft oberfränkischer Sparkassen und Volks- und Raiffeisenbanken GbR",
+        "squuid": "5be1a6b6-b155-48e2-a97e-3b39bfce7fbc"
+      },
+      "squuid": "5e95be23-0367-491e-a7a9-b05c4035c8f3",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active"
+}

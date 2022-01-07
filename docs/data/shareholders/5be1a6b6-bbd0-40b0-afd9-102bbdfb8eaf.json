@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Grünwald",
+  "pseudoCompany": false,
+  "street": "Südliche Münchner Straße",
+  "name": "Silverline Television AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-bbd0-40b0-afd9-102bbdfb8eaf",
+  "controlDate": "2022-01-05T13:39:34.614Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82031",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Silverline Movie Channel",
+        "squuid": "5be1a6b1-1ca2-41e2-b0e0-1953c6b3a53d"
+      },
+      "squuid": "5be1a6b9-70ab-4889-bf5b-32c08e343bdb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.silverline.tv",
+        "squuid": "5f7f1007-e2cb-41cc-8311-13c243a25350"
+      },
+      "squuid": "5f7f1034-d0fd-42bb-ab23-0729532c3e09",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 03.01.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Grünwalder TV-Studio Fernsehprojektierungsgesellschaft mbH",
+        "squuid": "5be1a6b6-793e-42a1-90a5-5697512c1ad7"
+      },
+      "squuid": "5be1a6b7-01aa-4a79-9bdd-6719f027067e",
+      "state": "active"
+    }
+  ]
+}

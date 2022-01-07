@@ -1,0 +1,61 @@
+{
+  "name": "Schaller, Dieter",
+  "pseudoCompany": false,
+  "squuid": "5ef20671-522a-469d-9ee2-683c11535028",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "IPH Privater Hörfunk GmbH",
+        "squuid": "5c890e8f-f437-4512-86cb-9d518dfd441c"
+      },
+      "squuid": "5ef2068c-6723-43e5-b300-497a5553ffae",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Text & Ton Radio Gesellschaft für Hörfunkproduktionen mbH",
+        "squuid": "5e53f421-8169-461c-abf4-d4b14ddc0ade"
+      },
+      "squuid": "5ef208fa-d10e-489f-b13d-cb0449228065",
+      "state": "active"
+    }
+  ],
+  "city": "Lampertheim",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

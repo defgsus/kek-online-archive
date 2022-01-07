@@ -1,0 +1,71 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.24,
+      "held": {
+        "name": "A&E Television Networks LL.C. (AETN)",
+        "squuid": "5be1a6b6-abc0-46da-ab93-b91b96fcb6c9"
+      },
+      "squuid": "5be1a6b7-4578-4cdc-9981-d1efd43837d6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "AETN Holding, Inc.",
+        "squuid": "5be1a6b6-b6fc-45b7-8cf2-f027769eaff8"
+      },
+      "squuid": "5ce27224-855f-4a04-b650-b74b570a570f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "AETN Germany Holding LL.C.",
+        "squuid": "5be1a6b6-00b5-49ed-94d5-5657f27a8221"
+      },
+      "squuid": "5ce64703-6b82-4cb8-808a-e974e1a785ea",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Hearst LT, Inc.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-892a-48c6-8ffd-bcbce6f9b4a6",
+  "controlDate": "2021-12-02T13:06:15.438Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 28.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hearst Communications, Inc.",
+        "squuid": "5be1a6b6-6144-45f6-bc05-b9fe666ba0dc"
+      },
+      "squuid": "5ce64770-2ba1-4611-b825-843b0df099a2",
+      "state": "active"
+    }
+  ]
+}

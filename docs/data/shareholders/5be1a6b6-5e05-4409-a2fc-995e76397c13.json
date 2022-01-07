@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Speersort 1",
+  "name": "brand eins Verlag GmbH & Co OHG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5e05-4409-a2fc-995e76397c13",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "20095",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "brand eins Verlag Verwaltungs GmbH",
+        "squuid": "5be1a6b6-95fd-41a6-871f-f7bd844c1842"
+      },
+      "squuid": "5be1a6b8-7841-4859-ab58-eaa167481331",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "brand eins Medien AG",
+        "squuid": "5be1a6b6-31ae-4fe7-a6f5-a614806fbd04"
+      },
+      "squuid": "5be1a6b8-76f6-4071-86ad-e6fb483d6627",
+      "state": "active"
+    }
+  ]
+}

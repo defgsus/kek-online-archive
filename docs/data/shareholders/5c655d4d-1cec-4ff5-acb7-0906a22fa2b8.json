@@ -1,0 +1,77 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.18,
+      "held": {
+        "name": "airtango AG",
+        "squuid": "5c655920-a5da-47d4-a6cc-5755e49eb9f1"
+      },
+      "squuid": "5c656370-d88e-4d96-974c-99abe286e4f0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kirchberg",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Buchenstr.",
+  "name": "USP Technologie GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5c655d4d-1cec-4ff5-acb7-0906a22fa2b8",
+  "controlDate": "2021-11-23T10:23:33.999Z",
+  "streetNumber": "40",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "74592",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 46.56,
+      "holder": {
+        "name": "airtango 1 GbR",
+        "squuid": "5c655e46-02bd-4809-8733-943c4929d957"
+      },
+      "squuid": "5c6675f6-c45a-46eb-8d5d-eea7204329be",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 53.44,
+      "holder": {
+        "name": "airtango 2 GbR",
+        "squuid": "5c655e58-9853-49b1-89c0-9dcaf7e1218b"
+      },
+      "squuid": "5c66760a-4a11-4f9e-b9ff-423eb63752b2",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "USP Network Verwaltungs GmbH",
+        "squuid": "600998e4-8599-4c31-8de0-bfe6557d9242"
+      },
+      "squuid": "6009991e-1faa-46d7-a3cd-4af84ae0a4cf",
+      "state": "active"
+    }
+  ]
+}

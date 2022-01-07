@@ -1,0 +1,80 @@
+{
+  "rfRepresentative": "Oliver Ciesla, Jona Siebel",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Florian Ruth",
+  "rfStartDate": "24.01.2018",
+  "rfFreePay": false,
+  "squuid": "5c4ef642-cae1-46e1-89b8-41a2f0ba2725",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.wrc.com/home-de/identity-management/info/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "WRC Promoter GmbH",
+        "squuid": "5c4ef62f-a019-47e5-beea-b1dd959178c1"
+      },
+      "squuid": "5c502589-1456-480c-9f90-39625f90c485",
+      "state": "active"
+    }
+  ],
+  "name": "WRC+",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Spartenprogramm mit Schwerpunkt Motorsport. Es handelt sich um ein kostenpflichtiges Livestream-Angebot (plus.wrc.com/de) mit Berichten von der FIA World Rally Championship (WRC).",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "18.01.2018",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "18.01.2018",
+  "accessibilityEmail": "support@service-plus.wrc.com",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

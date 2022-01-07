@@ -1,0 +1,32 @@
+{
+  "name": "Streubesitz an der Borussia Dortmund GmbH & Co KGaA",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-8b40-4384-a790-29501a195b1c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 59.93,
+      "held": {
+        "name": "Borussia Dortmund GmbH & Co KGaA",
+        "squuid": "5be1a6b6-626e-467e-a2f1-6a83955a1fbd"
+      },
+      "squuid": "5be1a6b8-2d92-4932-9796-c5c3e703af2d",
+      "state": "active"
+    }
+  ],
+  "credits": "Az: KEK 944",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,93 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Super Illu Verlag Verwaltungs-GmbH",
+        "squuid": "5ecd1aaf-eb5a-48d9-9b2a-ea180d2adbc2"
+      },
+      "squuid": "5ecd1b33-66f3-4f07-819f-580ab26c5094",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Potsdamer Str. 7",
+  "name": "Super Illu Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-fddf-4bb2-af86-8b73a3508ba2",
+  "controlDate": "2021-11-16T12:57:31.497Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10785",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Super Illu",
+        "squuid": "5be1a6b1-a27b-40de-8f67-768893fcaed1"
+      },
+      "squuid": "5be1a6b9-b254-4efb-9199-92616d827bc8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Guter Rat",
+        "squuid": "5be1a6b1-b497-4db4-a056-a1b6010cf2ea"
+      },
+      "squuid": "5be1a6b9-f047-4eba-a34c-6fb6b144efd5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.superillu.de",
+        "squuid": "5be1a6b1-2702-4bf2-a82f-e28ad889fcc4"
+      },
+      "squuid": "5be1a6b9-692c-4cb9-8012-df7534dfcd09",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.guter-rat.de",
+        "squuid": "5be1a6b1-6944-484b-b618-f68ad55512f2"
+      },
+      "squuid": "5be1a6b9-ac78-4795-8200-e04e184c0ddf",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "squuid": "5c110c47-aa4f-4d53-b2da-22c9caf0e7e7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Super Illu Verlag Verwaltungs-GmbH",
+        "squuid": "5ecd1aaf-eb5a-48d9-9b2a-ea180d2adbc2"
+      },
+      "squuid": "5ecd1ad2-97da-49b9-9158-f9399ccf8837",
+      "state": "active"
+    }
+  ]
+}

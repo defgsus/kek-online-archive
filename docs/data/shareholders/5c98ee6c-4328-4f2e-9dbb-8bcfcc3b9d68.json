@@ -1,0 +1,97 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.7,
+      "held": {
+        "name": "Stuttgart Regional Hörfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-d002-416c-be70-aba89c131d4d"
+      },
+      "squuid": "5c98ee8e-436c-4aa3-88ac-910c9c37f0dd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.7,
+      "held": {
+        "name": "Stuttgart Regional Hörfunk Verwaltung GmbH",
+        "squuid": "5ef218a7-e39b-4f04-ac6f-0db2f0a1ed55"
+      },
+      "squuid": "5f9aaea2-2a01-4dc8-ae9d-8aa9db7ae51a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Plieninger Str.",
+  "name": "MMN Mediengesellschaft Mittlerer Neckar GmbH",
+  "naturalPerson": false,
+  "squuid": "5c98ee6c-4328-4f2e-9dbb-8bcfcc3b9d68",
+  "controlDate": "2021-11-24T16:55:13.866Z",
+  "streetNumber": "150",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70567",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 64.72,
+      "holder": {
+        "name": "Stuttgarter Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-109f-4a8b-b5e1-7ba381f41abd"
+      },
+      "squuid": "5ef21d83-a0bd-4314-b583-2aa93e89f979",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.12,
+      "holder": {
+        "name": "DA Verlag GmbH",
+        "squuid": "5ef21d06-fefe-4bbb-879a-b93d42181fa7"
+      },
+      "squuid": "5ef21d9b-10cf-4ff1-a690-b7fc01d417f4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.17,
+      "holder": {
+        "name": "Konzertdirektion Russ GmbH & Co. KG",
+        "squuid": "5ef21d58-e040-448b-b833-203d040354d0"
+      },
+      "squuid": "5ef21dab-4d48-47b3-8ead-1ea0e72f1322",
+      "state": "active"
+    }
+  ]
+}

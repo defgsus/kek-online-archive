@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Schöllkrippen",
+  "pseudoCompany": false,
+  "street": "Laudenbacher Str. 4",
+  "name": "Heimatbote-Druckerei Peter Ostheimer e.K.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5a25-484b-a4d4-9ea4e41ffa9c",
+  "controlDate": "2021-09-29T15:48:38.077Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "63825",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Der Heimatbote",
+        "squuid": "5be1a6b1-164e-48ed-93d1-684077892c71"
+      },
+      "squuid": "5be1a6b9-5baf-48c0-a54a-b6a9b74e5aa3",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ostheimer, Peter",
+        "squuid": "5be1a6b6-78a7-4cf4-baf5-e9863a182a17"
+      },
+      "squuid": "5be1a6b8-c215-41a1-8a4e-f62323396f76",
+      "state": "active"
+    }
+  ]
+}

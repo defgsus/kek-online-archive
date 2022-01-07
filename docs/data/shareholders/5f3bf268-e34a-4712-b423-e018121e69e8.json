@@ -1,0 +1,43 @@
+{
+  "name": "Hoepfner, Dr. Friedrich",
+  "pseudoCompany": false,
+  "squuid": "5f3bf268-e34a-4712-b423-e018121e69e8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Hoepfner Bräu Friedrich Hoepfner Verwaltungsgesellschaft mbH & Co. KG",
+        "squuid": "5d35cbb0-932a-4aed-9554-ec09fb9323c2"
+      },
+      "squuid": "5f3bf2dc-a24a-4fe9-b1b5-c7e42f44a3fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Hoepfner Verwaltungs GmbH",
+        "squuid": "5f3bf24a-9d74-45bc-ac4f-907f869d3183"
+      },
+      "squuid": "5ff449ae-3e7b-43fb-ae9f-efc4c57a40a7",
+      "state": "active"
+    }
+  ],
+  "city": "Karlsruhe",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

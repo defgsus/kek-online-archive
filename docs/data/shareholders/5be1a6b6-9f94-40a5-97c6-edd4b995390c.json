@@ -1,0 +1,92 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Radio Hannover GmbH",
+        "squuid": "5be1a6b6-1a34-4949-a67e-0de35401a07e"
+      },
+      "squuid": "5be1a6b8-bf9f-4782-b125-ee502153d7c1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "KMWS Media Hannover GmbH & Co. KG",
+        "squuid": "5efdee17-0d59-43d6-83a0-252863f7366e"
+      },
+      "squuid": "5efdf47e-974f-4a04-9a5c-47a9b1d9ade0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "KMWS Media GmbH",
+        "squuid": "5efdee2c-5d91-46e6-9539-29079dfaa414"
+      },
+      "squuid": "5efdf5bc-8316-4af3-b593-a9f71856b2ec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "RO.SA.NO Verwaltungs-GmbH",
+        "squuid": "5efdf14b-bc87-48cf-9825-0c69d52030c8"
+      },
+      "squuid": "5f0d9f89-7d1c-4aa2-80ab-b254b2901028",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Raalandsweg",
+  "name": "RO.SA.NO GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9f94-40a5-97c6-edd4b995390c",
+  "controlDate": "2021-12-20T15:31:23.983Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "22559",
+  "credits": "NLM; Radio Hannover GmbH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Knaupe, Henk",
+        "squuid": "5be1a6b6-d772-4ebd-bac5-40d989afaf1e"
+      },
+      "squuid": "5be1a6b8-a7d6-47b7-89e0-35a0339c570f",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "RO.SA.NO Verwaltungs-GmbH",
+        "squuid": "5efdf14b-bc87-48cf-9825-0c69d52030c8"
+      },
+      "squuid": "5efdf169-d022-49dd-8d58-9e0697a5cfd1",
+      "state": "active"
+    }
+  ]
+}

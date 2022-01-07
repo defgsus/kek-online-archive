@@ -1,0 +1,55 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Alte Jakobstraße",
+  "name": "BerlinOnline Stadtportal GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-dbdd-4f32-a492-879ed8cbd212",
+  "controlDate": "2021-11-26T15:50:28.555Z",
+  "streetNumber": "105",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10969",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.berlin.de",
+        "squuid": "5be1a6b1-9e56-40fa-b7aa-3c2d02248926"
+      },
+      "squuid": "5be1a6b9-544b-4a1b-8842-e2b8681c0301",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Investitionsbank Berlin",
+        "squuid": "5be1a6b6-bc76-4f3b-953a-a3d36f915c96"
+      },
+      "squuid": "5be1a6b8-1de6-4f65-a093-0ed42c8ff149",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "BerlinOnline Stadtportalbeteiligungsgesellschaft mbH",
+        "squuid": "5ef07d00-25ca-4ed0-b861-9492cd326d4c"
+      },
+      "squuid": "5ef07d2c-682b-48a7-b7bf-7b3a7457c51d",
+      "state": "active"
+    }
+  ]
+}

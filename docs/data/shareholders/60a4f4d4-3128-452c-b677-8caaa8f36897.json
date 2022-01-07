@@ -1,0 +1,33 @@
+{
+  "name": "Querfunk Redaktionsverein e.V.",
+  "pseudoCompany": false,
+  "squuid": "60a4f4d4-3128-452c-b677-8caaa8f36897",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "QUERFUNK Radiobetriebsgesellschaft mbH",
+        "squuid": "5be1a6b6-9892-4c6e-ad16-1ab2112664fd"
+      },
+      "squuid": "60a4f500-882e-460c-84c9-ee132cd7542a",
+      "state": "active"
+    }
+  ],
+  "city": "Karlsruhe",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

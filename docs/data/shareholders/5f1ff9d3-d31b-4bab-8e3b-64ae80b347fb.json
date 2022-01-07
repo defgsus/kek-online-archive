@@ -1,0 +1,38 @@
+{
+  "name": "Eigenbesitz der Privatradio Landeswelle Mecklenburg-Vorpommern Verwaltungs GmbH",
+  "pseudoCompany": true,
+  "squuid": "5f1ff9d3-d31b-4bab-8e3b-64ae80b347fb",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "Privatradio Landeswelle Mecklenburg-Vorpommern Verwaltungs GmbH",
+        "squuid": "5f1adbd6-7f08-4236-97e6-7c624a13795c"
+      },
+      "squuid": "5f228e6b-883a-4708-9067-f3a1a823c212",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

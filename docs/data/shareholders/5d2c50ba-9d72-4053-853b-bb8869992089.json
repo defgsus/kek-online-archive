@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "VGN Digital GmbH",
+        "squuid": "5d2c4f21-722d-4187-bc84-4c7e6dfbce77"
+      },
+      "squuid": "5d2c5246-00d0-4b0b-a631-dcd602fb4ed9",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wien (A)",
+  "pseudoCompany": false,
+  "name": "VGN Medienholding GmbH",
+  "naturalPerson": false,
+  "squuid": "5d2c50ba-9d72-4053-853b-bb8869992089",
+  "controlDate": "2021-07-07T09:33:21.112Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.7,
+      "holder": {
+        "name": "Verlagsgruppe News Beteiligungsgesellschaft mbH & Co KG",
+        "squuid": "5d2c50e4-f469-434d-9cbb-4af0e41a10a2"
+      },
+      "squuid": "5d2c528d-8a63-476f-8109-34608a89b3fc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.3,
+      "holder": {
+        "name": "Verlagsgruppe News Beteiligungsgesellschaft mbH",
+        "squuid": "5d2c5131-3481-49de-9682-81cfe04b5913"
+      },
+      "squuid": "5d2c529c-8f22-44e1-9cc5-ebdbf673517c",
+      "state": "active"
+    }
+  ]
+}

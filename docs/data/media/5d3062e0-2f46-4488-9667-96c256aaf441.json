@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "squuid": "5d3062e0-2f46-4488-9667-96c256aaf441",
+  "marketReach": 0.06279102138959299,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Stadt Leipzig, Der Oberbürgermeister/Referat Kommunikation ",
+        "squuid": "5d3062ff-4303-415b-8f2a-e988d2bd01c0"
+      },
+      "squuid": "5d306340-9c45-4505-97af-6271c1a2ae56",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Jobcenter Leipzig",
+        "squuid": "5d306314-112e-4b3e-8b39-56848cee9583"
+      },
+      "squuid": "5d306349-dc37-4f6b-811d-25c556a5cec3",
+      "state": "active"
+    }
+  ],
+  "name": "www.leipzig.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-13T14:01:39.751Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Am Studio",
+  "name": "Meteomedia GmbH",
+  "naturalPerson": false,
+  "squuid": "5d2c6f82-86aa-4ac9-ae66-a2e097f6e951",
+  "controlDate": "2022-01-07T11:58:09.547Z",
+  "streetNumber": "20a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "12489",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.unwetterzentrale.de",
+        "squuid": "5d2c6f48-ea01-4f55-b225-7d0d64db2f2b"
+      },
+      "squuid": "5d2c7021-d182-41a8-abe3-24121c72f0cd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "mminternational (Europa) AG",
+        "squuid": "5d2c72cb-102d-43bc-b144-985f70f6c382"
+      },
+      "squuid": "5d2c72e9-da7c-4cc4-96e7-b53c3bf11f1e",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "held": {
+        "name": "Lokalfunk Krefeld-Viersen GmbH & Co. KG",
+        "squuid": "5be1a6b6-9fa4-4094-842a-06d50f2d23d3"
+      },
+      "squuid": "5f0f1033-f94d-4f56-9b42-6f12cbf61a4d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Krefeld",
+  "pseudoCompany": false,
+  "street": "Neue Linner Str.",
+  "name": "GGK Grundstücksgesellschaft der Stadt Krefeld mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5f0f0fff-6b7d-47d0-823a-dc9eb5be6496",
+  "controlDate": "2022-01-07T13:55:22.058Z",
+  "streetNumber": "87",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "47798",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Grundstücksgesellschaft der Stadt Krefeld Verwaltungs mbH",
+        "squuid": "5ff5be09-e588-452e-81a9-2333add1dff0"
+      },
+      "squuid": "5ff5be34-f939-48be-b388-54335376a019",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Krefeld",
+        "squuid": "5ff5be12-17a9-4c4d-8387-e6a9fe93e589"
+      },
+      "squuid": "5ff5bec4-37e1-4b38-a347-3f0e46ffca33",
+      "state": "active"
+    }
+  ]
+}

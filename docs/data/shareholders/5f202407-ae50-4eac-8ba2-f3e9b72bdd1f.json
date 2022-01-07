@@ -1,0 +1,66 @@
+{
+  "state": "active",
+  "city": "Greifswald",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Greifswald TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5f202407-ae50-4eac-8ba2-f3e9b72bdd1f",
+  "controlDate": "2021-12-08T15:59:19.147Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "17489",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.greifswald-tv.de",
+        "squuid": "5f2023e3-3e19-4ef6-924c-ac5f7d4e38cb"
+      },
+      "squuid": "5f20243b-47dc-40d0-b1bc-7abfc9298bd1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.usedomtv.de",
+        "squuid": "5f2032be-907b-4ddc-88d2-0e3f20428ef1"
+      },
+      "squuid": "5f2032ee-3d1b-4662-9ed0-612e906504f1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Greifswald TV",
+        "squuid": "5f9c0604-71ae-40e9-b3f8-c93bfc496583"
+      },
+      "squuid": "5f9c0814-73f3-4450-979c-1eaa891a097d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "AEP Plückhahn Wolgast GmbH",
+        "squuid": "5f2024de-4b70-413f-af03-7cb78de1f15f"
+      },
+      "squuid": "5f202500-b66d-45e3-b0cc-ea1a95b0353b",
+      "state": "active"
+    }
+  ]
+}

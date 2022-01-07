@@ -1,0 +1,48 @@
+{
+  "name": "Sparkassen- und Giroverband Hessen-Thüringen",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-033d-499c-b668-5d06199b939b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "held": {
+        "name": "Antenne Thüringen GmbH & Co. KG",
+        "squuid": "5be1a6b6-5864-4d2d-abd2-19cfbc09b41b"
+      },
+      "squuid": "5be1a6b7-b54a-4a68-b441-9e720e14d824",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 68.85,
+      "held": {
+        "name": "Landesbank Hessen-Thüringen Girozentrale (Helaba)",
+        "squuid": "5be1a6b6-04aa-4c68-94d6-5d60fa510eed"
+      },
+      "squuid": "5d302e46-e5c9-4c63-850c-25f3ff2ab2b5",
+      "state": "active"
+    }
+  ],
+  "city": "Frankfurt am Main",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

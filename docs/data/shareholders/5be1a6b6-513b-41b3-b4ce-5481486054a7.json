@@ -1,0 +1,112 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Alpin FM GmbH & Co. KG ",
+        "squuid": "5d135d04-96c3-4f58-9108-97216d41f6ba"
+      },
+      "squuid": "5d135d8a-316e-4f08-9b92-9a62803f8835",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio-Programmanbietergemeinschaft Oberland Verwaltungs GmbH",
+        "squuid": "5f84598b-8f49-4d5d-aaf8-af075d4308d2"
+      },
+      "squuid": "60a68392-1a0f-42b9-aeba-81f74da2e2bd",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Garmisch-Partenkirchen",
+  "pseudoCompany": false,
+  "street": "Olympiastraße",
+  "name": "Radio Oberland Programmanbieter GmbH & Co. Vermarktungs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-513b-41b3-b4ce-5481486054a7",
+  "controlDate": "2021-11-23T12:57:48.055Z",
+  "streetNumber": "22",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "82467",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Oberland",
+        "squuid": "5be1a6b1-7596-4db1-bc0b-595813cb4579"
+      },
+      "squuid": "5be1a6b9-115c-4200-884b-9cdf76e871d8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-oberland.de",
+        "squuid": "5f92dea6-10b4-4021-8b87-bd60bd48878b"
+      },
+      "squuid": "5f92df02-2c9e-4e56-896e-ca4debad0418",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Zeitungsverlag Oberbayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-baa5-4644-bd90-1f917d261023"
+      },
+      "squuid": "5be1a6b7-ca4c-46b4-a206-9bebeb4d56fa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Radio und TV GAP-GmbH Programmanbieter",
+        "squuid": "5be1a6b6-1953-4e3c-a808-0f4c0106cae8"
+      },
+      "squuid": "5be1a6b7-6831-4ab7-ab40-a9c02683f383",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio-Programmanbietergemeinschaft Oberland Verwaltungs GmbH",
+        "squuid": "5f84598b-8f49-4d5d-aaf8-af075d4308d2"
+      },
+      "squuid": "5f92e0f6-e1d0-41cf-b5fc-aa859f1bb2c4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Seitwerk GmbH",
+        "squuid": "6075a411-1af3-4be1-b3e7-be0f1100da92"
+      },
+      "squuid": "6075a44c-ff3d-44b9-96da-d2612080b137",
+      "state": "active"
+    }
+  ]
+}

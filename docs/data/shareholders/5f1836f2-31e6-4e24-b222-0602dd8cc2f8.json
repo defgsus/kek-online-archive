@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "held": {
+        "name": "EV1.TV GmbH",
+        "squuid": "5f1835c3-df67-42e3-928c-8ac14e7272fb"
+      },
+      "squuid": "5f183791-3330-47a5-9a42-0e0b8d4b5b0f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Lingen",
+  "pseudoCompany": false,
+  "street": "Kaiserstr.",
+  "name": "Medienwerkstatt GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5f1836f2-31e6-4e24-b222-0602dd8cc2f8",
+  "controlDate": "2021-12-06T11:03:23.053Z",
+  "streetNumber": "10a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "49809",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Medienwerkstatt Verwaltungs-GmbH",
+        "squuid": "5f183b12-3141-45a7-9a04-9c7e66f7c5f6"
+      },
+      "squuid": "5f183b3a-0f1b-4a6a-b8e6-453702aa8cca",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Koop, Thorben",
+        "squuid": "5f183b01-828a-4cf6-a533-b3418f47f2b7"
+      },
+      "squuid": "5f183b45-e969-4d2b-ab7a-7bae5f149549",
+      "state": "active"
+    }
+  ]
+}

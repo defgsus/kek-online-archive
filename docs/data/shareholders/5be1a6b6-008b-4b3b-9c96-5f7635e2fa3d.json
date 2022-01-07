@@ -1,0 +1,82 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 24.82,
+      "held": {
+        "name": "Radio Karlsruhe GmbH & Co. KG",
+        "squuid": "5be1a6b6-db3d-4f4f-813b-126e135cf064"
+      },
+      "squuid": "5be1a6b7-d2f6-4843-95f4-d05344df8509",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.82,
+      "held": {
+        "name": "Radio Karlsruhe Verwaltungs GmbH",
+        "squuid": "5f3676a4-7221-4dba-be65-4439d46fe8ae"
+      },
+      "squuid": "60bdef4e-7200-4019-9065-a4e1d92489c0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Freiburg im Breisgau",
+  "pseudoCompany": false,
+  "street": "Munzinger Straße",
+  "name": "Neue Welle Baden Rundfunk GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-008b-4b3b-9c96-5f7635e2fa3d",
+  "controlDate": "2021-11-23T13:36:52.641Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "79111",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SR Broadcast Management GmbH & Co. KG",
+        "squuid": "5eeb6bb9-7b98-4b92-9235-53f76ae93224"
+      },
+      "squuid": "5f36785d-dd8f-4cde-a4ad-e68de54c5d4b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Neue Welle Baden Rundfunk Verwaltungsgesellschaft mbH",
+        "squuid": "5f367a8c-b93e-44fb-b6e5-ebbfe21a1879"
+      },
+      "squuid": "5f367ab7-3bd6-4ce5-aa99-58f8712b9c99",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG",
+        "squuid": "5efef438-7c82-454e-beb9-493d1f5ec407"
+      },
+      "squuid": "5f367acc-ecf8-456f-bf8d-0a2c7d7a9d42",
+      "state": "active"
+    }
+  ]
+}

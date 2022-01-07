@@ -1,0 +1,54 @@
+{
+  "pressPublishingIntervals": 312,
+  "matchedNames": [
+    "Mittelbadische Presse Gesamtausgabe"
+  ],
+  "state": "active",
+  "pressAsOfDate": "I/20",
+  "squuid": "5cff92f1-75f6-49b0-9b69-89d309d72f00",
+  "marketReach": 0.28169014084507044,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Reiff Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-3278-4c05-9688-8d598bffe272"
+      },
+      "squuid": "5e1da1ac-9d2f-41ba-ada4-87f9aa102e79",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b"
+      },
+      "squuid": "5e3405bf-db17-4a03-9f46-c1f9c39e4581",
+      "state": "active"
+    }
+  ],
+  "name": "Mittelbadische Presse (MVM)",
+  "pressEditionsIVW": true,
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "Ortenaukreis",
+  "type": "print",
+  "pressEditionsEpaper": 3800,
+  "controlDate": "2021-11-01T14:03:01.695Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "pressEditionsSold": 43111,
+  "pressType": {
+    "squuid": "5be1a6b0-e4cc-4064-9625-597855abfd7c",
+    "name": "Zeitung",
+    "type": "press-type",
+    "state": "active"
+  }
+}

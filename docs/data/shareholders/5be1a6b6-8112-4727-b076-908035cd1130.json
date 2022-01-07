@@ -1,0 +1,32 @@
+{
+  "name": "Rheinisch-Bergischer Kreis",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-8112-4727-b076-908035cd1130",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "held": {
+        "name": "Radio Berg GmbH & Co. KG",
+        "squuid": "5be1a6b6-7164-45a6-b867-324087fd69eb"
+      },
+      "squuid": "5be1a6b7-2902-4e5a-ba30-830d9caf5300",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

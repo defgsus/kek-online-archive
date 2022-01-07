@@ -1,0 +1,77 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 85.3,
+      "held": {
+        "name": "WMP GmbH & Co. Medienbeteiligungs KG",
+        "squuid": "5be1a6b6-f8bf-471c-9d8c-93eded23b295"
+      },
+      "squuid": "5ef9b324-bf61-4a71-822a-97ef5f252096",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.1,
+      "held": {
+        "name": "WEP-Projektentwicklung-GmbH und Co. KG",
+        "squuid": "5efc54ec-773b-4b66-90aa-8a15c0d96db3"
+      },
+      "squuid": "5efdb247-9e5a-4805-884d-3990ec2b877c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Vogelweidstr.",
+  "name": "Claus Wisser Verwaltungs- und Beteiligungs GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5ef9b28e-113a-485b-919c-e67fbbc0b967",
+  "controlDate": "2021-12-07T12:23:45.364Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "60596",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wisser, Claus",
+        "squuid": "5efc56b5-c634-470c-b46e-7f72da52ac7c"
+      },
+      "squuid": "5efc56ed-6687-40b0-a0a2-e531c9a49596",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Claus Wisser Vermögensverwaltungs GmbH",
+        "squuid": "5efc5719-1fdb-4f1f-b192-5fac53b783ce"
+      },
+      "squuid": "5efc5738-d888-4add-a4d3-7e4a90667774",
+      "state": "active"
+    }
+  ]
+}

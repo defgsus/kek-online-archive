@@ -1,0 +1,41 @@
+{
+  "name": "Richter, Stefan",
+  "pseudoCompany": false,
+  "squuid": "5d0209d1-9cac-41c6-ac85-bdb947b469e1",
+  "city": "Welsleben",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    }
+  ],
+  "state": "active",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MDF.1 Fernsehen",
+        "squuid": "5c615193-699a-4d78-902c-094288f271d7"
+      },
+      "squuid": "5d0209ef-58ea-4cd3-9997-f445c1a959e2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mdf1.de",
+        "squuid": "5f29567b-33bd-439a-95e1-3eff5f425a73"
+      },
+      "squuid": "5f2956b0-49a5-4bbf-adeb-c6c448156d66",
+      "state": "active"
+    }
+  ],
+  "naturalPerson": true
+}

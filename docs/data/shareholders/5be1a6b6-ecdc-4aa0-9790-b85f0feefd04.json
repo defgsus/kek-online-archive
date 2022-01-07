@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Platnersgasse",
+  "name": "Lenardt, Matthias",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-ecdc-4aa0-9790-b85f0feefd04",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "90403",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "vilradio premium musik",
+        "squuid": "5be1a6b1-22e1-44a7-aa6a-2705a002c0e2"
+      },
+      "squuid": "5be1a6b9-3e08-4da0-97a1-29c0b02fb4f6",
+      "state": "active"
+    }
+  ]
+}

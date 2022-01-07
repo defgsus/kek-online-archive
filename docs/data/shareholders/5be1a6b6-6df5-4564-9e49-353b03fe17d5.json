@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Luise-Ullrich-Straße",
+  "name": "NOEO GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6df5-4564-9e49-353b03fe17d5",
+  "controlDate": "2022-01-06T11:37:37.865Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80636",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Isarrunde/Spreerunde",
+        "squuid": "5be1a6b1-450d-4afd-ada6-cd2848c1829b"
+      },
+      "squuid": "5be1a6b9-9315-4a62-8cbb-0cb079db58fc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.isarrunde.de",
+        "squuid": "5f7c6f6d-08ff-4454-b16a-84d85b0f5bd8"
+      },
+      "squuid": "5f7c6fca-f81c-422b-8a3e-dcca4f3b70a6",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 15.12.2015",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 95.0,
+      "holder": {
+        "name": "Praetorius, Michael",
+        "squuid": "5be1a6b6-57ac-4d1e-bc62-1a5dd7e6d2c8"
+      },
+      "squuid": "5be1a6b8-3cf1-4363-8eb0-811376941c0c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Meyer, Stefan",
+        "squuid": "5be1a6b6-1f8c-4bcf-b5fb-50d6326634a3"
+      },
+      "squuid": "5be1a6b8-5c7a-428e-a1c3-c6559e7d6006",
+      "state": "active"
+    }
+  ]
+}

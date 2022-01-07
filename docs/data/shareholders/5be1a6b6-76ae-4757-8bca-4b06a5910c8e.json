@@ -1,0 +1,32 @@
+{
+  "name": "Gemeinde Kerken",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-76ae-4757-8bca-4b06a5910c8e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "held": {
+        "name": "Lokalradio Kreis Kleve Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-8f94-4224-bda5-7b626865cbf0"
+      },
+      "squuid": "5be1a6b7-6ad3-4a64-8c3d-987c920282a3",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Ostfildern",
+  "pseudoCompany": false,
+  "street": "Marco-Polo-Straße 1",
+  "name": "DuMont Reise Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-6aea-4f4f-89a4-823180aaad1c",
+  "controlDate": "2021-12-03T14:19:42.516Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "73760",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dumontreise.de",
+        "squuid": "5be1a6b1-82d8-4d88-bf9c-af8115cc6d78"
+      },
+      "squuid": "5be1a6b9-c71d-4baf-927e-f17bbdddda28",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "DuMont Mediengruppe GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1ab-45ed-adc5-5a3dca911ab5"
+      },
+      "squuid": "5be1a6b8-fdd6-4a9a-85fe-52fa7610b11f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "MAIRDUMONT GmbH & Co. KG",
+        "squuid": "5be1a6b6-6485-4973-9bbc-8ac6b12caaf9"
+      },
+      "squuid": "5be1a6b8-1915-4cdd-9d07-a9bf506449ed",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "DuMont Reise Verlag GmbH",
+        "squuid": "5ef5e58e-f19a-4957-b395-3af49ee0f32c"
+      },
+      "squuid": "5ef5e5b3-9693-4031-b342-809163260eab",
+      "state": "active"
+    }
+  ]
+}

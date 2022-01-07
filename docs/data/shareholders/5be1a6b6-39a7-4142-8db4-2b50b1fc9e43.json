@@ -1,0 +1,76 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.57,
+      "held": {
+        "name": "Tellux Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-434a-4353-9b67-bb8a0bcf4412"
+      },
+      "squuid": "5be1a6b8-7c8b-4018-93e6-a8650631f55e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Chausseestr.",
+  "name": "Erzbischöfliche Vermögensverwaltung GmbH Berlin",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-39a7-4142-8db4-2b50b1fc9e43",
+  "controlDate": "2021-04-15T15:02:02.822Z",
+  "streetNumber": "128/129",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "10115",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.99,
+      "holder": {
+        "name": "Erzbischöflicher Stuhl von Berlin",
+        "squuid": "5c4867b7-d6e1-4e32-ac40-a78006e7212a"
+      },
+      "squuid": "5c48686c-14bb-4cc5-b1da-fbebf5ed9468",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.01,
+      "holder": {
+        "name": "Morus Verlag GmbH",
+        "squuid": "5c4867e0-e26e-4779-b412-e823394b81a7"
+      },
+      "squuid": "5c486942-3c7b-481b-a50b-3ecb129c7bf7",
+      "state": "active"
+    }
+  ]
+}

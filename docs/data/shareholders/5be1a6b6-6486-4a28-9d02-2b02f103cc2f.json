@@ -1,0 +1,85 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Curt-Frenzel-Straße",
+  "name": "rt1.digital broadcast GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6486-4a28-9d02-2b02f103cc2f",
+  "controlDate": "2022-01-04T10:56:52.274Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86167",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "rt1 in the mix",
+        "squuid": "5be1a6b1-9d14-4d77-89b4-bb16230d2901"
+      },
+      "squuid": "5be1a6b9-284d-4043-b596-484d385c7d66",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.imsueden.de/hitradio-rt1",
+        "squuid": "5f905785-551f-4678-b441-1e68907888e7"
+      },
+      "squuid": "61d4276b-8a0f-4702-9324-9dee091a5249",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.imsueden.de",
+        "squuid": "61d427a5-3df4-48bd-a7a0-81d6c1b8a48a"
+      },
+      "squuid": "61d427c7-a9af-4491-b136-0e9cd586ad29",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.imsueden.de/das-neue-radio-seefunk",
+        "squuid": "61d42952-2159-4a2f-9d13-d2da0b477ee0"
+      },
+      "squuid": "61d4296e-049a-49d3-8096-ca37cdee37b8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.imsueden.de/a-tv",
+        "squuid": "61d42a03-accb-4eeb-a218-a68527f310fb"
+      },
+      "squuid": "61d42a1c-d7a4-4911-a4ff-762bc0704c1a",
+      "state": "active"
+    }
+  ],
+  "credits": "Website der BLM, Abruf am 25.01.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5be1a6b7-01fe-4806-aa08-d03f80e3708c",
+      "state": "active"
+    }
+  ]
+}

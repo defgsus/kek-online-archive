@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Elligersweg ",
+  "name": "HarbourTown Media GmbH",
+  "naturalPerson": false,
+  "squuid": "60dc22cd-acc7-4a8e-9928-007d2152901e",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "22307",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "HarbourTown Radio",
+        "squuid": "60dc20db-bf1b-4aba-a30f-99ed3fe51e5c"
+      },
+      "squuid": "6166c1f5-de25-48eb-b7ba-d3406942a554",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Karlsruhe",
+  "pseudoCompany": false,
+  "street": "Steinstraße",
+  "name": "QUERFUNK Radiobetriebsgesellschaft mbH",
+  "naturalPerson": false,
+  "co": "Freies Radio Karlsruhe",
+  "squuid": "5be1a6b6-9892-4c6e-ad16-1ab2112664fd",
+  "controlDate": "2021-12-20T15:00:13.356Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "76133",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Querfunk",
+        "squuid": "5be1a6b1-2525-4331-95bf-6fcbc9c96f5d"
+      },
+      "squuid": "5be1a6b9-c403-41fe-85da-74f1343b4b3f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.querfunk.de",
+        "squuid": "5f91869e-8823-42a6-94f2-f57e141d7060"
+      },
+      "squuid": "5f9186da-efbb-40e4-b446-907e000e3ba0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Querfunk Redaktionsverein e.V.",
+        "squuid": "60a4f4d4-3128-452c-b677-8caaa8f36897"
+      },
+      "squuid": "60a4f500-882e-460c-84c9-ee132cd7542a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Förderverein für ein Freies Radio Karlsruhe e.V.",
+        "squuid": "60a4f4e9-541f-4595-ba4d-551aae220f9f"
+      },
+      "squuid": "60a4f511-5062-4a7e-8169-154e96bc3072",
+      "state": "active"
+    }
+  ]
+}

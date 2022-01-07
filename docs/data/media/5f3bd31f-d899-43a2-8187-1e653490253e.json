@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f3bd31f-d899-43a2-8187-1e653490253e",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "MAIRDUMONT GmbH & Co. KG",
+        "squuid": "5be1a6b6-6485-4973-9bbc-8ac6b12caaf9"
+      },
+      "squuid": "5f3bd39f-614a-4a58-a5a9-3244b3c6d5e9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Marco Polo TV GmbH",
+        "squuid": "5be1a6b6-f4da-445b-86ce-e43d31d929cf"
+      },
+      "squuid": "5f3bd3a9-cb10-4d53-bba3-9c95dfa531ac",
+      "state": "active"
+    }
+  ],
+  "name": "www.marcopolo.de/tv",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-13T16:05:23.814Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

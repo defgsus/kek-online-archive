@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Paris, Frankreich",
+  "pseudoCompany": false,
+  "street": "37 bis, rue Greneta",
+  "name": "Multiradio S.A.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0aa3-4137-99ad-73ca083e063f",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "75002",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Multimusic",
+        "squuid": "5be1a6b1-b66e-4d9a-a5af-2facd6a94c45"
+      },
+      "squuid": "5be1a6b9-7350-4256-914b-6bd51d4aa225",
+      "state": "active"
+    }
+  ],
+  "credits": "Website der BLM, Abruf am 12.01.2011"
+}

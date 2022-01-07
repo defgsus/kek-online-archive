@@ -1,0 +1,78 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Somibo GmbH & Co KG",
+        "squuid": "5be1a6b6-8d96-49fc-8c54-feeddf2a01d9"
+      },
+      "squuid": "5eb95258-7b86-489f-8d6c-74d5ed603983",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Schwarzwaldstr.",
+  "name": "Michael Bode Geschäftsführungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5eb95235-b3b7-4825-8bd8-f260d035006d",
+  "controlDate": "2021-10-29T12:54:12.637Z",
+  "streetNumber": "90",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "68163",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Bode, Sonja",
+        "squuid": "5be1a6b6-9213-40ad-9cd1-d8bd24fff752"
+      },
+      "squuid": "6058adb3-0611-4f09-b05c-0b220e878fdd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Bode, Michael",
+        "squuid": "5be1a6b6-05b4-4782-9ee6-5c418f661520"
+      },
+      "squuid": "6058adc0-5944-4039-bb25-1f26cd2f3e6f",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "city": "Neuhaus/Inn",
+  "pseudoCompany": false,
+  "name": "Mondhaus Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "60339caf-5c33-4b4b-88bd-97441fca4c71",
+  "controlDate": "2021-02-22T12:01:45.101Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "94152",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Astro-Woche",
+        "squuid": "5be1a6b1-b0ec-44aa-89e2-78deb8cff50f"
+      },
+      "squuid": "60339cd7-7c24-42a1-8d6f-954372034b66",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "60339d98-360b-4eba-ad6d-71a9ae530586",
+      "state": "active"
+    }
+  ]
+}

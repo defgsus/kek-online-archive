@@ -1,0 +1,27 @@
+{
+  "name": "Energieverband Elbe-Weser Beteiligungsholding GmbH",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-577f-4b95-9822-99ff54d91a10",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "held": {
+        "name": "EWE AG",
+        "squuid": "5be1a6b6-a727-406e-888d-a469494c87e8"
+      },
+      "squuid": "5be1a6b7-7f3a-4e1b-9648-bb6a9d3ba8ae",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

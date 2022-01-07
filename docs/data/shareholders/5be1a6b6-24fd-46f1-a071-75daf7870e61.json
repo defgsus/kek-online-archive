@@ -1,0 +1,142 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "TV Bayern GmbH Bayerische Lokal-Fernsehprogramm Gesellschaft",
+        "squuid": "5be1a6b6-515a-406b-b899-999e085ca150"
+      },
+      "squuid": "5f8d6c8e-0ca3-40bd-95ad-100e0ebf881b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hof",
+  "pseudoCompany": false,
+  "street": "Pfarr",
+  "name": "TV Oberfranken GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-24fd-46f1-a071-75daf7870e61",
+  "controlDate": "2022-01-07T10:35:04.784Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "95028",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "TV Oberfranken (tvo)",
+        "squuid": "5be1a6b1-dd1d-4c3f-a370-9af9683588ec"
+      },
+      "squuid": "5be1a6b9-88f9-4a85-a669-83d15d957b70",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvo.de",
+        "squuid": "5f8034fc-c733-4f8c-befa-c996c24237aa"
+      },
+      "squuid": "5f80353a-b58e-4da4-86fc-2a6375c9d26a",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Neue Welle Oberfranken Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-5526-444b-86b3-9798293679fb"
+      },
+      "squuid": "5be1a6b8-8ee8-476b-84e5-f102c06c90ab",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Neue Welle \"Antenne Hof\" Hörfunk- und Fernsehprogrammanbieter-Gesellschaft mbH",
+        "squuid": "5be1a6b6-44b1-418f-a83c-e82cee610b2a"
+      },
+      "squuid": "5be1a6b8-9db6-4490-bb6a-1e73ef7cbbb4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Fernsehanbietergemeinschaft oberfränkischer Sparkassen und Volks- und Raiffeisenbanken GbR",
+        "squuid": "5be1a6b6-b155-48e2-a97e-3b39bfce7fbc"
+      },
+      "squuid": "5be1a6b8-e7a3-4cd2-9ab9-675546c311a5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Scherdel GmbH",
+        "squuid": "5be1a6b6-ee96-4275-a5d9-b80e3514d790"
+      },
+      "squuid": "5be1a6b8-d91d-491f-8bcc-c4c05f25c3cf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.33,
+      "holder": {
+        "name": "Wirth, Klaus",
+        "squuid": "5be1a6b6-c4dd-4230-a7d1-85cc8911f6ef"
+      },
+      "squuid": "5be1a6b8-a977-44ae-aab4-891139a6f895",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Börsenmedien AG",
+        "squuid": "5be1a6b6-83d3-47a3-8439-19a5e7471aa7"
+      },
+      "squuid": "5be1a6b8-ef97-4437-8e75-d1afe7f5bc7c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.67,
+      "holder": {
+        "name": "Greiffenberger, Heinz",
+        "squuid": "5cb87749-1990-407e-b8bb-38a997b8fbad"
+      },
+      "squuid": "5cb8776a-b492-4403-a645-2af3713b0a6b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "TV Oberfranken Geschäftsführungs GmbH",
+        "squuid": "5f80392d-6f14-4fac-8824-7c5beda5ccc6"
+      },
+      "squuid": "5f80396d-8257-4d5f-a985-4da239c5449e",
+      "state": "active"
+    }
+  ]
+}

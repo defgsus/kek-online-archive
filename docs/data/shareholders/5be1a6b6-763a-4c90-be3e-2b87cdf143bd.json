@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Simmelsdorf",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Autoplenum GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-763a-4c90-be3e-2b87cdf143bd",
+  "controlDate": "2021-11-25T16:59:03.732Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "91245",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.autoplenum.de",
+        "squuid": "5be1a6b1-1583-4600-8612-d07cfe2bbcea"
+      },
+      "squuid": "5be1a6b9-2706-45a7-914f-74d2884ed4eb",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "jvh-ventures GmbH",
+        "squuid": "5be1a6b6-63ea-4f6d-80be-b697b5480d31"
+      },
+      "squuid": "5c46eca3-add2-448b-a27e-514492acfa0c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Jale Beteiligungs GmbH",
+        "squuid": "5be1a6b6-1785-44ac-9ef8-a87c3a1291c5"
+      },
+      "squuid": "5c46ecb7-ba36-4133-bc4a-94f449778dc7",
+      "state": "active"
+    }
+  ]
+}

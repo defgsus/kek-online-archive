@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "DAZN DACH GmbH",
+        "squuid": "5ce64e36-cd7f-4914-b720-b6ec442d403d"
+      },
+      "squuid": "5ce65086-9559-45a9-8f8e-fc517a404e78",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Feltham (GB)",
+  "pseudoCompany": false,
+  "name": "DAZN DACH Holdco Ltd.",
+  "naturalPerson": false,
+  "squuid": "5ce64e14-fe8d-4b46-b6e5-ccad65462cb3",
+  "controlDate": "2021-12-02T13:53:19.001Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.9,
+      "holder": {
+        "name": "DAZN Ltd.",
+        "squuid": "5ce64e48-9c1f-40bd-b7d2-b9d81ac574a8"
+      },
+      "squuid": "5ce6512a-cff8-4f34-a613-ef26b7f6fb45",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "DAZN Media Holdco Ltd.",
+        "squuid": "6123a0bb-7606-4399-b8d1-b8c49f5d4583"
+      },
+      "squuid": "6123a0ff-a26f-44aa-9b87-df0b85d75071",
+      "state": "active"
+    }
+  ]
+}

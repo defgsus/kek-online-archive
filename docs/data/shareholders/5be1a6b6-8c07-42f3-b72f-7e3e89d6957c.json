@@ -1,0 +1,32 @@
+{
+  "name": "Stiftung Braunschweigischer Kulturbesitz",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-8c07-42f3-b72f-7e3e89d6957c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "SBK Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-a016-4c68-a11e-cd8519638f5a"
+      },
+      "squuid": "5be1a6b8-e496-4365-afea-9c5172829b75",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,68 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.0,
+      "held": {
+        "name": "Bayer 04 Leverkusen Fußball GmbH",
+        "squuid": "5ce2b6cd-0048-42ec-84c8-9007d892cba0"
+      },
+      "squuid": "5ce2b9e7-6456-45f4-a139-dd85924e017b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Erste K-W-A Beteiligungsgesellschaft mbH",
+        "squuid": "5ce2b6b5-0fb4-4699-8ec1-00291f26ec41"
+      },
+      "squuid": "5ce2ba90-f06e-48cc-a1da-c5159ffebff5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leverkusen",
+  "pseudoCompany": false,
+  "street": "Kaiser-Wilhelm-Allee",
+  "name": "Bayer AG",
+  "naturalPerson": false,
+  "squuid": "5ce2b67a-b645-48a8-80c9-697b6d21514e",
+  "controlDate": "2021-11-26T14:46:37.949Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "51373",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 7.17,
+      "holder": {
+        "name": "BlackRock, Inc.",
+        "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
+      },
+      "squuid": "5ce2babc-d135-4a97-829b-a5633b991295",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 92.83,
+      "holder": {
+        "name": "Streubesitz an der Bayer AG",
+        "squuid": "5ce2bb0d-fce2-49ea-b8c5-becc74d56a60"
+      },
+      "squuid": "5ce2bb33-4488-40cd-915d-62da9df43db8",
+      "state": "active"
+    }
+  ]
+}

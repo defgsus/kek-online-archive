@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Schwabmünchen",
+  "pseudoCompany": false,
+  "street": "Frauenstraße",
+  "name": "Radio Schwaben GmbH",
+  "naturalPerson": false,
+  "squuid": "5ce6a8f9-95b9-401b-8810-76d92e8cc95b",
+  "controlDate": "2022-01-03T10:52:08.802Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86830",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Schwaben",
+        "squuid": "5ce6a8dc-4d47-4d4d-a377-3ed3499cba2a"
+      },
+      "squuid": "5ce6ab6f-aa89-4016-8f9c-3f4e421dd412",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioschwaben.de",
+        "squuid": "5f96b6a1-9785-4d9b-9564-208904083efc"
+      },
+      "squuid": "5f96b6ea-1e99-4b28-ac2a-6948e9a415cc",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gilg, Markus",
+        "squuid": "5ce6ab91-d6ba-4c8c-859e-8c1c04006beb"
+      },
+      "squuid": "5ce6abad-fa49-4745-a5a9-54b3ba5ce99c",
+      "state": "active"
+    }
+  ]
+}

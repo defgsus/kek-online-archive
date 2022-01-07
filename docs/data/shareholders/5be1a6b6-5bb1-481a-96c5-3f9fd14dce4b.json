@@ -1,0 +1,70 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Ernst-Merck-Str.",
+  "name": "Solutions by Handelsblatt Media Group GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5bb1-481a-96c5-3f9fd14dce4b",
+  "controlDate": "2021-09-27T15:57:07.727Z",
+  "streetNumber": "12-14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20099",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Wohnglück",
+        "squuid": "5be1a6b1-3ef6-4157-aa98-77026b789ca4"
+      },
+      "squuid": "5be1a6b9-85c2-445b-99bb-c9cf9ef371d0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wohnglueck.de",
+        "squuid": "5be1a6b1-cbd6-4939-8e9c-7a50aacea591"
+      },
+      "squuid": "5be1a6b9-bafb-403b-8800-a0cdabe09937",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Creditreform",
+        "squuid": "5bfbdf4c-d536-462c-8b55-002f3df8a601"
+      },
+      "squuid": "5bfbdf98-473e-4f7b-903e-d9830fb358bd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.creditreform.de",
+        "squuid": "5bfbdfce-e0c5-44ac-b5b8-c3cdc4f3bfdd"
+      },
+      "squuid": "5bfbe032-82f7-4a1d-864f-f2eafce2de8b",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Handelsblatt Media Group GmbH & Co. KG",
+        "squuid": "5be1a6b6-c822-4c39-b59a-d10c1fd9268d"
+      },
+      "squuid": "5be1a6b8-9359-409a-8543-80b555f60edc",
+      "state": "active"
+    }
+  ]
+}

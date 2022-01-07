@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Coburg",
+  "pseudoCompany": false,
+  "street": "Steinweg",
+  "name": "HCS Medienwerk GmbH",
+  "naturalPerson": false,
+  "squuid": "5c5998da-20e2-4dbd-8e65-9aea78774e93",
+  "controlDate": "2021-11-04T12:45:20.677Z",
+  "streetNumber": "51",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "96450",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Szene Magazin (Coburg)",
+        "squuid": "5c5998b8-11a2-40e3-9492-652d3ded544e"
+      },
+      "squuid": "5c599924-b73b-47bc-b7e7-04333f19c5fc",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Druck- und Verlagsanstalt Neue Presse GmbH",
+        "squuid": "5be1a6b6-1e81-4164-913c-85bb36d68221"
+      },
+      "squuid": "5c599999-c2d5-44be-9c1e-f282655290d6",
+      "state": "active"
+    }
+  ]
+}

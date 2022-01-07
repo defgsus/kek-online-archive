@@ -1,0 +1,39 @@
+{
+  "name": "Kreissparkasse Saarpfalz",
+  "pseudoCompany": false,
+  "squuid": "5e8b5ca8-cc2d-4130-be50-c9917a051579",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.4,
+      "held": {
+        "name": "Sparkassenförderungsgesellschaft Saar GmbH",
+        "squuid": "5be1a6b6-040c-406c-9c8b-5e2ecc83073d"
+      },
+      "squuid": "5e8b5e59-8215-4eb2-bced-9f3ba280e20b",
+      "state": "active"
+    }
+  ],
+  "city": "Homburg",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

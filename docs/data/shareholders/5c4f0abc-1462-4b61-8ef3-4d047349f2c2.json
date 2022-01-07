@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Freudental",
+  "pseudoCompany": false,
+  "street": "Am Steinbach ",
+  "name": "Frag Mutti GmbH",
+  "naturalPerson": false,
+  "squuid": "5c4f0abc-1462-4b61-8ef3-4d047349f2c2",
+  "controlDate": "2021-12-07T15:10:37.156Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "74392",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.frag-mutti.de",
+        "squuid": "5c4f0aae-8c45-4a9d-a262-0f1f16b532fc"
+      },
+      "squuid": "5c4f0b63-2f8e-4796-a419-ed3c0424525d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Finkbeiner, Bernhard",
+        "squuid": "5c4f0af4-5ca1-4470-9074-5e340c26a890"
+      },
+      "squuid": "5c4f0bb4-20b3-4e62-9ef5-878e6fd9a8b2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Nicolussi Moro, Ina Manuela",
+        "squuid": "5c4f0b09-2445-45c7-b103-cc1ed3896ddb"
+      },
+      "squuid": "5c4f0bcc-3bf7-4d09-8775-6bedd4c8fec9",
+      "state": "active"
+    }
+  ]
+}

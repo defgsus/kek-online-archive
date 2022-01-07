@@ -1,0 +1,32 @@
+{
+  "name": "Eigenbesitz der Allianz SE",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-9349-4ed8-878a-e93d09886688",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Allianz SE",
+        "squuid": "5be1a6b6-cb16-4d1e-ba0f-87eecce1b902"
+      },
+      "squuid": "5be1a6b8-4f32-4110-9d43-59b101463f3a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

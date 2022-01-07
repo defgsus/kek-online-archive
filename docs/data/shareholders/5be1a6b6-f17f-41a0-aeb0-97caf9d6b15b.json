@@ -1,0 +1,101 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.33,
+      "held": {
+        "name": "Hotz GmbH & Co. KG",
+        "squuid": "5be1a6b6-adcd-4e69-bbad-0e603672dd58"
+      },
+      "squuid": "5be1a6b8-61e8-4027-b30a-0b6a48e397e6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Hotz-Hammling Verwaltungs GmbH",
+        "squuid": "5f0d95c1-e956-480f-be63-dc2a13ccc015"
+      },
+      "squuid": "5ff830fa-b25c-4c6e-94a3-d43da196dea5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wolfsburg",
+  "pseudoCompany": false,
+  "street": "Jerichower Str.",
+  "name": "Hammling Hotz-Beteiligung GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-f17f-41a0-aeb0-97caf9d6b15b",
+  "controlDate": "2021-12-21T13:56:38.590Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "38442",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hotz-Hammling Verwaltungs GmbH",
+        "squuid": "5f0d95c1-e956-480f-be63-dc2a13ccc015"
+      },
+      "squuid": "5ff44636-75b1-4196-81d4-c5920cb95ed0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Hammling, Jakob",
+        "squuid": "5f0d9588-a384-4e01-98b0-e538fc46ae28"
+      },
+      "squuid": "5ff44647-7a64-4a52-a8ee-3573fc0902b4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Hammling, Jasper",
+        "squuid": "5f0d9598-9ee8-41b4-be88-dfa2a13b4103"
+      },
+      "squuid": "5ff4465b-0e67-4b6e-8b1d-608c569e2e89",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Hammling, Johannes",
+        "squuid": "5f0d95a6-f9e9-4fc4-8d87-3ca79d6b3fda"
+      },
+      "squuid": "5ff44668-c4b1-4e4a-be54-92416873fb5d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Hotz-Hammling, Beate",
+        "squuid": "5be1a6b6-c332-4b79-afb0-4d89c84e0a82"
+      },
+      "squuid": "5ff44675-b16e-4014-b1f8-b4c0e028653a",
+      "state": "active"
+    }
+  ]
+}

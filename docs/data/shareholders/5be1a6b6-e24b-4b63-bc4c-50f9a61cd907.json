@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Pirmasens",
+  "pseudoCompany": false,
+  "street": "Schloßstr.",
+  "name": "Antenne Südwestpfalz GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e24b-4b63-bc4c-50f9a61cd907",
+  "controlDate": "2021-11-23T17:02:21.586Z",
+  "streetNumber": "44",
+  "organizations": [
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    }
+  ],
+  "zipcode": "66953",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Antenne Pirmasens 88.4",
+        "squuid": "5be1a6b1-103b-4010-bb37-65e3d07aa31d"
+      },
+      "squuid": "5be1a6b9-b65d-4851-a7b2-bcc0b1b419d8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "The Radio Group Holding GmbH",
+        "squuid": "5be1a6b6-0b31-4cd0-88b2-e247324913be"
+      },
+      "squuid": "5f3bcba6-b126-4ada-9418-56b1ae90ef59",
+      "state": "active"
+    }
+  ]
+}

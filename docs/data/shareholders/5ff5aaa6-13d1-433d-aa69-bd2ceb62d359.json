@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Witten",
+  "pseudoCompany": true,
+  "squuid": "5ff5aaa6-13d1-433d-aa69-bd2ceb62d359",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.2,
+      "held": {
+        "name": "Energie- und Wasserversorgung Mittleres Ruhrgebiet GmbH",
+        "squuid": "5f16c2fd-51a4-4932-9239-3cccfc04da8d"
+      },
+      "squuid": "5ff5aad0-a0e7-4a22-9303-cb0133317370",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

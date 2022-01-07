@@ -1,0 +1,81 @@
+{
+  "rfRepresentative": "Martin Keßel",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Carsten van Zanten",
+  "rfStartDate": "Juni 2017",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-5ee6-491f-9de5-6781ef181006",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.rhein-live.tv/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Rhein-Live.tv GmbH",
+        "squuid": "5be1a6b6-457f-4368-bfd4-fc0e6357a221"
+      },
+      "squuid": "5be1a6b9-9fe1-46b9-a9b5-03254f9d11b0",
+      "state": "active"
+    }
+  ],
+  "name": "sportstadt.tv",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Übertragung von Randsportarten",
+  "rfLicenseUntil": "18.06.2021",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "19.06.2017",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "19.06.2017",
+  "accessibilityEmail": "info@rhein-live.tv",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

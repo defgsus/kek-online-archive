@@ -1,0 +1,87 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Arabellastr. 23",
+  "name": "MFI Meine Familie und ich Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-57b3-4c27-b7c5-6de66e422af2",
+  "controlDate": "2021-10-29T15:11:27.599Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81925",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Meine Familie & ich",
+        "squuid": "5be1a6b1-6be7-49ef-9675-2bce22d0add1"
+      },
+      "squuid": "5be1a6b9-362b-44ec-a78a-e1c085c15ef9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lust auf Genuss",
+        "squuid": "5be1a6b1-0344-48af-a17b-f799d58b41a3"
+      },
+      "squuid": "5be1a6b9-3552-4f7d-acc3-0514a41726c9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "das schmeckt!",
+        "squuid": "5be1a6b1-783e-4687-9703-9a7ed9347fbe"
+      },
+      "squuid": "5be1a6b9-c357-46e3-9581-7a26486b9c8a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "slowly veggie!",
+        "squuid": "5be1a6b1-9aff-44c1-a1b8-d0caeda8123b"
+      },
+      "squuid": "5be1a6b9-7dd9-4044-9b15-bcfebaeb2216",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.slowlyveggie.de",
+        "squuid": "5c3c72dc-0fe2-4176-9ba6-e2719d0e0570"
+      },
+      "squuid": "5c3c72fb-2fc4-4d18-91bb-22b8bdec686a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.meine-familie-und-ich.de",
+        "squuid": "5c3c7346-807f-4bef-b3ef-f88c153113a0"
+      },
+      "squuid": "5c3c7360-7aa9-4feb-9d33-e3fa0a52e1ae",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "squuid": "5be1a6b8-5455-4cc8-8c51-2b5bb503609d",
+      "state": "active"
+    }
+  ]
+}

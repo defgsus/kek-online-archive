@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "pseudoCompany": false,
+  "street": "Hasenheide",
+  "name": "Finanztip Verbraucherinformation GmbH",
+  "naturalPerson": false,
+  "squuid": "5d31caf7-326c-4414-ac94-af7dad8ab366",
+  "controlDate": "2021-12-07T14:14:36.709Z",
+  "streetNumber": "54",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10967",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.finanztip.de",
+        "squuid": "5d31cab9-7d40-47f0-adc9-899d7ef064ed"
+      },
+      "squuid": "5d31cb32-0beb-4df2-9c00-937ba957556a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Haselsteiner, Robert",
+        "squuid": "5d36c7b9-246f-44fb-a9aa-2839bb45ecfb"
+      },
+      "squuid": "5d36c7ed-4a2e-4441-b0b0-7183f1f976f8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Wolsdorf, Marcus",
+        "squuid": "5d36c7c8-7168-4930-91dc-4cb9e98f2c05"
+      },
+      "squuid": "5d36c7fd-258d-4425-9b57-ae185d39ac6a",
+      "state": "active"
+    }
+  ]
+}

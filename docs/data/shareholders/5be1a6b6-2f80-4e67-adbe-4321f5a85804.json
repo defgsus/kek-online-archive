@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Große Elbstraße 63",
+  "name": "Netzwelt GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2f80-4e67-adbe-4321f5a85804",
+  "controlDate": "2021-12-15T16:40:47.767Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22767",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.netzwelt.de",
+        "squuid": "5be1a6b1-25e6-4983-965d-26a47e568ab9"
+      },
+      "squuid": "5be1a6b9-c70b-4d35-8aba-71111c42da7c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Hottes, Dirk",
+        "squuid": "5be1a6b6-265e-4fd2-af7f-763b18d104e1"
+      },
+      "squuid": "5be1a6b8-d8f4-471d-aed6-ccb019137413",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Hottes, Sascha",
+        "squuid": "5be1a6b6-bfe2-4443-891a-bb8a9be0871d"
+      },
+      "squuid": "5be1a6b8-bc62-4e1a-8b59-c67eaaae8b13",
+      "state": "active"
+    }
+  ]
+}

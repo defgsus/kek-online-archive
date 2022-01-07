@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "B. Boll Verlag des Solinger Tageblattes GmbH & Co",
+        "squuid": "5be1a6b6-73da-494b-b484-29fe9a8f2dc0"
+      },
+      "squuid": "5eb94cde-cbcf-43a6-a202-5ca07452faee",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Solingen",
+  "pseudoCompany": false,
+  "street": "Mummstr.",
+  "name": "Dr. B. Boll GmbH",
+  "naturalPerson": false,
+  "squuid": "5eb94cbf-1ef0-4d38-8d00-79d64822d5c1",
+  "controlDate": "2021-11-15T11:07:57.521Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "42651",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "Boll, Bernhard",
+        "squuid": "5be1a6b6-bc46-47a2-bbd2-034ebba2472b"
+      },
+      "squuid": "5ef1b3c9-01e1-44d4-8e41-38fd4adc85eb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Boll, Michael Bernhard",
+        "squuid": "5be1a6b6-6a0a-4fb6-a5f9-dd252a09a8fd"
+      },
+      "squuid": "5ef1b3d6-33b2-4ec5-9bd5-e60a9d113a8a",
+      "state": "active"
+    }
+  ]
+}

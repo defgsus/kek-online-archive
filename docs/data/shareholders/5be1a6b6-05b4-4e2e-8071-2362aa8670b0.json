@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Landsberger Straße 187",
+  "name": "Holtzbrinck Digital GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-05b4-4e2e-8071-2362aa8670b0",
+  "controlDate": "2020-06-30T12:31:16.245Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "80687",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Georg von Holtzbrinck GmbH & Co. KG",
+        "squuid": "5be1a6b6-3efe-470d-89eb-1d230f00b5fa"
+      },
+      "squuid": "5be1a6b7-7df4-48bb-9250-c4fa3e7ef2a1",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f3e6197-7b6d-49ad-8398-9afe70f023cd",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio TON-Regional Hörfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-0d7b-4370-af24-f6e3d1f182f7"
+      },
+      "squuid": "5f3e63d6-ac94-4067-939d-0f829f9ac369",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Lokalradio Ostwürttemberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-9649-4d0b-807c-a566dc68dff2"
+      },
+      "squuid": "5f3e63e5-ee4e-42d6-9189-f21476d0a412",
+      "state": "active"
+    }
+  ],
+  "name": "www.radioton.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-03T11:10:18.530Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Grollmannstraße",
+  "name": "Silvacast GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e7a0-4843-9de6-cd619e31fd80",
+  "placeOfBusiness": "Berlin",
+  "streetNumber": "40",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10623",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Paloma",
+        "squuid": "5be1a6b1-1ecf-44f2-81f9-1c205218c68c"
+      },
+      "squuid": "5be1a6b9-5c6c-4250-b131-8aa1ea38f829",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Silva, Cristovao",
+        "squuid": "5be1a6b6-2b0e-4e12-aaf9-18eb88e27776"
+      },
+      "squuid": "5be1a6b7-2ef5-4d8f-a711-2c728309d472",
+      "state": "active"
+    }
+  ]
+}

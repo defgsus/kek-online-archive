@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Im Vogelsgesang 4",
+  "name": "Fit Gesund Schoen Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8ef0-4fac-a2b3-ec45605c22cb",
+  "controlDate": "2021-12-07T14:17:53.378Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60488",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fitgesundschoen.de",
+        "squuid": "5be1a6b1-870d-44d9-8807-65819ddf574c"
+      },
+      "squuid": "5be1a6b9-64a9-4d75-9364-b91c9094735b",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Hohentwiel Verlags- und Internet GmbH",
+        "squuid": "5be1a6b6-be02-41e5-8b8d-a80b494d05a3"
+      },
+      "squuid": "5be1a6b8-11f6-4f6e-808d-96c581552a31",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Mekras, Georgis",
+        "squuid": "5be1a6b6-ebb4-4315-9a95-599b522864b6"
+      },
+      "squuid": "5be1a6b8-281f-4882-953a-c347d57d4944",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Vetter, Ursula",
+        "squuid": "5be1a6b6-9ca4-4323-bef7-4004511f601a"
+      },
+      "squuid": "5be1a6b8-a8a9-4a73-a43a-0f809779026d",
+      "state": "active"
+    }
+  ]
+}

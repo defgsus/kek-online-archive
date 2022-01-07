@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Shanghaiallee",
+  "name": "NORFOM Medien GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b3d8-4140-926d-ee86f4a7a737",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "20457",
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 13.92,
+      "holder": {
+        "name": "Frank Otto Medienbeteiligungsgesellschaft mbH & Co. KG (FOM)",
+        "squuid": "5be1a6b6-ca51-4678-bab9-f3c88c906e5e"
+      },
+      "squuid": "5be1a6b8-ea3a-46a4-a3b3-bfd403585f3e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 86.08,
+      "holder": {
+        "name": "NWZ Funk und Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-e74c-47af-9e67-66b48a57e0a8"
+      },
+      "squuid": "5be1a6b8-e4f6-491d-86e2-acaa071f2a9f",
+      "state": "active"
+    }
+  ]
+}

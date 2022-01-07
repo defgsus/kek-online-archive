@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Radio 7 Hörfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-5099-4f12-8db6-65b375706e61"
+      },
+      "squuid": "5efca92b-1c30-499f-8029-b0bc63aa9396",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ulm",
+  "pseudoCompany": false,
+  "street": "Gaisenbergstr.",
+  "name": "Radio 7 Hörfunk Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5efca907-9329-4e3a-8469-4c119897eeb4",
+  "controlDate": "2021-12-21T14:16:56.937Z",
+  "streetNumber": "29",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "89073",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Radio 7 Hörfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-5099-4f12-8db6-65b375706e61"
+      },
+      "squuid": "5fa03a64-e7e2-4304-a6e4-58395e43e56e",
+      "state": "active"
+    }
+  ]
+}

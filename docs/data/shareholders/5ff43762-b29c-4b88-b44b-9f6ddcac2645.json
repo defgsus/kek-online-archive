@@ -1,0 +1,32 @@
+{
+  "name": "Eigenbesitz der OZ Verlagsbeteiligungs GmbH",
+  "pseudoCompany": true,
+  "squuid": "5ff43762-b29c-4b88-b44b-9f6ddcac2645",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.95,
+      "held": {
+        "name": "OZ Verlagsbeteiligungs GmbH",
+        "squuid": "5f3d3adc-d7be-46c4-b661-e4234b2dd179"
+      },
+      "squuid": "5ff4381b-a289-484a-a6c0-0b6915f93190",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

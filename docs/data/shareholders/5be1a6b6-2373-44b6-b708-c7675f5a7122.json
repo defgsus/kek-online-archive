@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Augustenstraße 124",
+  "name": "Evangelische Gemeindepresse GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2373-44b6-b708-c7675f5a7122",
+  "controlDate": "2021-10-14T15:45:18.815Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70197",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Benjamin",
+        "squuid": "5be1a6b1-0a6d-40a4-8571-3f92d1f6a859"
+      },
+      "squuid": "5be1a6b9-1c67-4e50-9ae8-e067b0a06137",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.evangelisches-gemeindeblatt.de",
+        "squuid": "5be1a6b1-7271-4a02-aa66-517a1d1c77b4"
+      },
+      "squuid": "5be1a6b9-26ca-4fc4-8ad6-6bea3569dd36",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Evangelisches Gemeindeblatt für Württemberg",
+        "squuid": "5be1a6b1-a7af-40e0-9d31-e31130b7c6b3"
+      },
+      "squuid": "5ccc5156-ba6e-4e8f-8607-05d133778c9f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlag und Buchhandlung der Evangelischen Gesellschaft Stuttgart mbH",
+        "squuid": "5be1a6b6-501e-4873-833d-0035f6f74f4a"
+      },
+      "squuid": "5be1a6b8-2f22-4a79-b80b-e6c9f5884b6a",
+      "state": "active"
+    }
+  ]
+}

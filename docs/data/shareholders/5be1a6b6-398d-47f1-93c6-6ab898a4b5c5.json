@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Landshut",
+  "pseudoCompany": false,
+  "street": "Adelmannstraße",
+  "name": "HV Fernsehbetriebs GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-398d-47f1-93c6-6ab898a4b5c5",
+  "otherMediaActivities": "Alexander Trauttmansdorff, der Geschäftsführer der HV Fernsehbetriebs GmbH, ist auch Geschäftsführer der Just Music Fernsehbetriebs GmbH, welche die Zulassungen für die Programme Jukebox, RCK TV, Deluxe Music und H2D hält. Die High View Holding GmbH hält 99 % der Anteile an der Just Music Fernsehbetriebs GmbH.",
+  "controlDate": "2021-12-03T13:32:36.922Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "84036",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "doxx",
+        "squuid": "5be1a6b1-9426-4272-9604-59f61b6a1e6d"
+      },
+      "squuid": "5be1a6b9-fde0-4333-8668-ebd09eb5da0c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.doxx-tv.de",
+        "squuid": "5f33eb5e-4b28-49a3-9ff6-d84d958fdd27"
+      },
+      "squuid": "5f33ebf9-f594-4bec-b3df-447bc8ca857c",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 09.01.2018, Az.: KEK 932",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 93.0,
+      "holder": {
+        "name": "High View Holding GmbH",
+        "squuid": "5be1a6b6-1a81-4c5d-8433-3016b4730574"
+      },
+      "squuid": "5be1a6b7-d36e-4c2e-8fee-ed1b17715ea4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.0,
+      "holder": {
+        "name": "Trampas Vermögensverwaltungs und Beteiligungs GmbH & Co. KG",
+        "squuid": "6087d720-52ba-40db-8566-6031ef6a7797"
+      },
+      "squuid": "6087d754-8e89-4c95-a5f9-854b116d352a",
+      "state": "active"
+    }
+  ]
+}

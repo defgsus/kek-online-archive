@@ -1,0 +1,97 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.12,
+      "held": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-d1f9-4137-990b-87cd16e2ec94",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Sigmaringen",
+  "pseudoCompany": false,
+  "street": "Karlstr. 10",
+  "name": "M. Liehners Hofbuchdruckerei GmbH & Co KG Verlagsanstalt",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-fa97-4da9-8d7c-539bb062a458",
+  "otherMediaActivities": "\n",
+  "controlDate": "2021-11-11T15:26:33.277Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "72488",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwäbische Zeitung (Ausgabe Sigmaringen)",
+        "squuid": "5be1a6b1-febe-4c66-87c4-ae9f97bf584b"
+      },
+      "squuid": "5be1a6b9-f972-4493-9445-3e068403ff21",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-a1ba-43fd-bfc0-aa2ca9bd9edb",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "M. Liehners Hofbuchdruckerei Verwaltungs-GmbH",
+        "squuid": "5ebbaefa-f781-4801-a86e-3320ebe39c28"
+      },
+      "squuid": "5ebbaf25-7453-48b8-89e3-ee3457969f4e",
+      "state": "active"
+    }
+  ]
+}

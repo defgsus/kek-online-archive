@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Unterhaching",
+  "pseudoCompany": false,
+  "street": "Oskar-von-Miller-Str.",
+  "name": "Golftime-Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9f13-4558-8b27-7df843692ad5",
+  "controlDate": "2021-10-18T12:14:08.361Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82008",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "G.O.L.F. Time",
+        "squuid": "5be1a6b1-0b9f-4ffd-952e-888cd1f1e7c2"
+      },
+      "squuid": "5be1a6b9-cbdd-49d4-a7b2-90f2161f7833",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.golftime.de",
+        "squuid": "5be1a6b1-39df-4d8a-ae6d-ab2c7b1997fa"
+      },
+      "squuid": "5be1a6b9-634c-4336-a3de-5fa6e6902687",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Brunnthaler, Oscar",
+        "squuid": "5be1a6b6-de0d-49e5-8ad3-16ca664b5ac5"
+      },
+      "squuid": "5be1a6b8-16cd-470c-addc-baec3d1952e3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Brunnthaler, Marcus",
+        "squuid": "5be1a6b6-0f67-4e62-91c1-891b5e3ffc74"
+      },
+      "squuid": "5be1a6b8-afe2-4374-bc01-d132f7e1b70c",
+      "state": "active"
+    }
+  ]
+}

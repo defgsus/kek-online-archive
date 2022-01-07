@@ -1,0 +1,119 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Weiss-Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-5354-4ec6-b0ac-76cf646f1681"
+      },
+      "squuid": "5be1a6b8-98f3-473d-9416-e8cbce84c745",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Weiss-Verlag Verwaltungs-GmbH",
+        "squuid": "5ec3b4fc-f89f-42e4-a411-723be12a785c"
+      },
+      "squuid": "5ec3b591-ace7-4d16-a73c-4a96ccf7adb3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "WM-Beteiligungs- und Verwaltungs-GmbH",
+        "squuid": "5ec3b5dc-3131-4dc2-9ea5-73b76bef278b"
+      },
+      "squuid": "5ec3b66b-2b84-449b-9df4-9ee3117fa620",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "S-W Verlag GmbH & Co. KG für Lokalinformationen",
+        "squuid": "5be1a6b6-9dfa-4e7a-a187-34251fc1bcf5"
+      },
+      "squuid": "5ef46af1-bc22-4f1e-9824-dcc55e2ca466",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "S-W Verlag Verwaltungsgesellschaft für Lokalinformation mbH",
+        "squuid": "5ef46a30-6784-4bb2-a0d7-5af358c38805"
+      },
+      "squuid": "6058a212-e719-40f7-9a20-84bb10daa4ff",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Monschau",
+  "pseudoCompany": false,
+  "street": "Hans-Georg-Weiss-Str. 7",
+  "name": "WM-Beteiligungs- und Verwaltungs-GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-066d-4a9c-8fc5-81ac88fa3508",
+  "controlDate": "2021-10-04T10:11:20.447Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    }
+  ],
+  "zipcode": "52156",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Weiss, Georg",
+        "squuid": "5be1a6b6-3c52-4890-8d94-c3e1d218e4b6"
+      },
+      "squuid": "5be1a6b8-f7a0-4d4e-8aca-04886274b7ab",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "WM-Beteiligungs- und Verwaltungs-GmbH",
+        "squuid": "5ec3b5dc-3131-4dc2-9ea5-73b76bef278b"
+      },
+      "squuid": "5ec3b5f8-d324-45de-bf68-3650ab0ba2a4",
+      "state": "active"
+    }
+  ]
+}

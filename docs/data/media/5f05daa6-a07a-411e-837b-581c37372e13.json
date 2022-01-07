@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f05daa6-a07a-411e-837b-581c37372e13",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Channel21 GmbH",
+        "squuid": "5be1a6b6-2303-4669-b8b2-97959a28316b"
+      },
+      "squuid": "5f05daf9-4671-4679-970d-ee78cfcc1e16",
+      "state": "active"
+    }
+  ],
+  "name": "www.channel21.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-01T16:34:01.361Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

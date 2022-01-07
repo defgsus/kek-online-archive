@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Wolgast",
+  "pseudoCompany": false,
+  "street": "Breite Straße",
+  "name": "AEP Plückhahn Service GmbH",
+  "naturalPerson": false,
+  "squuid": "5f9c1188-b333-454c-ac5b-59878e9c75db",
+  "streetNumber": "18 b",
+  "organizations": [
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "17438 ",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "USEDOM TV",
+        "squuid": "5f9c0d7a-33e5-436b-b0aa-e18c7c63d01d"
+      },
+      "squuid": "5f9c11bc-b759-405a-982f-6e53ef8d491d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "AEP Plückhahn Wolgast GmbH",
+        "squuid": "5f2024de-4b70-413f-af03-7cb78de1f15f"
+      },
+      "squuid": "5faea312-e469-432b-a757-7eb0cb63548b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Plückhahn, Frank",
+        "squuid": "5f2025ad-ae92-42e3-b921-b826f858bcc0"
+      },
+      "squuid": "5faeb004-9420-4ec0-b5fd-4eab8a385f1b",
+      "state": "active"
+    }
+  ]
+}

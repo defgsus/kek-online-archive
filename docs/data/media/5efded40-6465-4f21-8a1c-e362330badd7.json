@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5efded40-6465-4f21-8a1c-e362330badd7",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Hannover GmbH",
+        "squuid": "5be1a6b6-1a34-4949-a67e-0de35401a07e"
+      },
+      "squuid": "5efded87-242f-4583-a108-e2e1e47d4894",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "KMWS Media Hannover GmbH & Co. KG",
+        "squuid": "5efdee17-0d59-43d6-83a0-252863f7366e"
+      },
+      "squuid": "5efdee4f-1c75-4e01-935b-92e4e74b3965",
+      "state": "active"
+    }
+  ],
+  "name": "www.radio-hannover.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-20T15:31:59.220Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

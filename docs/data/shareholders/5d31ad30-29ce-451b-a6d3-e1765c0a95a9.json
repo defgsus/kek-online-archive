@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Bruchsal",
+  "pseudoCompany": false,
+  "street": "Im Zeiloch ",
+  "name": "egghead Medienservice GmbH",
+  "naturalPerson": false,
+  "co": "Im Technologiedorf",
+  "squuid": "5d31ad30-29ce-451b-a6d3-e1765c0a95a9",
+  "controlDate": "2021-12-10T14:47:01.231Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "76646",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kraichgau TV",
+        "squuid": "5d31ac87-76e4-4629-842e-596be909a5ca"
+      },
+      "squuid": "5d31ad48-290e-4de7-8374-f986176fdbb6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kraichgau.tv",
+        "squuid": "5f7d878e-3108-45e9-ae5e-e272563bf342"
+      },
+      "squuid": "5f7d8a33-53ea-4900-aa2f-a553c288c71f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Konrad, Ulrich",
+        "squuid": "5d357506-10d8-4ad4-b629-505d69e5f7e4"
+      },
+      "squuid": "5d357530-7631-42af-9d73-5fbd34f6139f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Besenfelder, Walter",
+        "squuid": "5d357517-7c0f-43c8-b9d2-fe1529a2b678"
+      },
+      "squuid": "5d35753a-4d8e-49cb-a809-4db6eb7399d8",
+      "state": "active"
+    }
+  ]
+}

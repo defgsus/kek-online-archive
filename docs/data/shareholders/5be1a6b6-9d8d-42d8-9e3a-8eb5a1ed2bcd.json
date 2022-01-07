@@ -1,0 +1,37 @@
+{
+  "name": "Dinauer, Stefan",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-9d8d-42d8-9e3a-8eb5a1ed2bcd",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Inberas GmbH",
+        "squuid": "5be1a6b6-1fc3-41fb-9556-ab0cec467a00"
+      },
+      "squuid": "5be1a6b7-a5ff-446f-8ae8-ee24a9087a7d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "APIS Management GmbH",
+        "squuid": "5be1a6b6-e263-47ad-8c5a-3f967878916e"
+      },
+      "squuid": "5be1a6b7-fead-4283-912c-361478a2f762",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

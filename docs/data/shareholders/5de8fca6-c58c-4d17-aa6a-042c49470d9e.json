@@ -1,0 +1,78 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "mylife media Verwaltungsgesellschaft mbH",
+        "squuid": "5de8fcbd-e46b-42c5-9fa4-42070769f44e"
+      },
+      "squuid": "5de90050-cd0a-474a-9c4f-2f6934fdc113",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Offenburg",
+  "pseudoCompany": false,
+  "street": "Hubert-Burda-Platz ",
+  "name": "mylife media GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5de8fca6-c58c-4d17-aa6a-042c49470d9e",
+  "controlDate": "2021-11-03T15:01:47.810Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "77652",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "my life",
+        "squuid": "5de8fad6-beec-471a-bcc8-f53fd06c9ded"
+      },
+      "squuid": "5de8fd41-4a98-41b1-a7a4-6d5979cdfaec",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "liabilitySum": 50.0,
+      "squuid": "5de8ffa2-9e3a-488d-a352-ac035374be55",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "PHARCA Pharmazeutische Handelsgesellschaft mbH",
+        "squuid": "5de8ff23-7c5d-494d-8e2d-52e7f021fca6"
+      },
+      "liabilitySum": 50.0,
+      "squuid": "5de8ffc8-5195-4250-8be2-0727b38e64fb",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "mylife media Verwaltungsgesellschaft mbH",
+        "squuid": "5de8fcbd-e46b-42c5-9fa4-42070769f44e"
+      },
+      "squuid": "5de8ffe1-1044-4a6b-bcef-6ee5412108b8",
+      "state": "active"
+    }
+  ]
+}

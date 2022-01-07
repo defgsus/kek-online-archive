@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Am Baumwall",
+  "name": "Gruner +  Jahr Management GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-42fb-4eb9-8dd1-48807f22cfd8",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "20459",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bertelsmann SE & Co. KGaA",
+        "squuid": "5be1a6b6-aa3c-4c8d-b521-b32f5a0cda76"
+      },
+      "squuid": "5be1a6b7-c920-46f3-a25a-477fdb830962",
+      "state": "active"
+    }
+  ]
+}

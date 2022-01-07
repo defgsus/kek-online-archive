@@ -1,0 +1,73 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 14.29,
+      "held": {
+        "name": "Mediagruppe Nord GmbH & Co. KG",
+        "squuid": "5d00bc01-6dd1-4f85-b387-ac9773f096c0"
+      },
+      "squuid": "5d00bd7d-eb83-4165-8b31-ef04fe030fec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.67,
+      "held": {
+        "name": "Mediagruppe Nord Verwaltungsgesellschaft mbH",
+        "squuid": "5ea81805-dba7-4670-869f-a77d8ba894d7"
+      },
+      "squuid": "5ea81cd9-bfb1-4050-8041-ef36740273e7",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Curslacker Neuer Deich 50",
+  "name": "Bergedorfer Buchdruckerei von Ed. Wagner GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e4ec-4619-99c0-c64e390c2d9a",
+  "controlDate": "2021-02-02T13:33:28.260Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "21029",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bergedorfer Zeitung",
+        "squuid": "5be1a6b1-4b98-4cf7-8d0a-8768bf84a265"
+      },
+      "squuid": "5be1a6b9-47e7-48c9-98da-2739067539ed",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lauenburgische Landeszeitung",
+        "squuid": "5be1a6b1-3b32-4d0f-85cd-0ee4d4d4be62"
+      },
+      "squuid": "5be1a6b9-afa9-4ecb-92fb-b13f9c1302bd",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Medien Hamburg GmbH",
+        "squuid": "5be1a6b6-f3ae-464c-aceb-c2c79f90ca3b"
+      },
+      "squuid": "5be1a6b8-e5ff-4bad-8152-d50e14a80aa5",
+      "state": "active"
+    }
+  ]
+}

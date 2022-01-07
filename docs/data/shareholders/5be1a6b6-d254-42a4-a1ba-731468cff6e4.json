@@ -1,0 +1,70 @@
+{
+  "state": "active",
+  "city": "Mainz",
+  "pseudoCompany": false,
+  "street": "Otto-Schott-Str.",
+  "name": "TV IIIa GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d254-42a4-a1ba-731468cff6e4",
+  "controlDate": "2021-11-19T16:02:32.051Z",
+  "streetNumber": "13",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    }
+  ],
+  "zipcode": "55127",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sat.1 17:30 live (RLP und Hessen)",
+        "squuid": "5c6e7d81-c6b6-4b79-ac4d-1df6fd87f640"
+      },
+      "squuid": "5c6e7e8c-9bf9-4b33-a916-365bc03d8732",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.1730live.de",
+        "squuid": "5f3a83f4-eeb5-4b43-a422-318d5483a950"
+      },
+      "squuid": "5f3a842d-aee8-424b-ae15-2cc744e549ec",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 08.04.2014, Az.: KEK 774",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Take That TV Fernsehproduktion GmbH & Co. KG",
+        "squuid": "5be1a6b6-8394-4995-bf3f-d0f9461d859e"
+      },
+      "squuid": "5be1a6b8-9d7d-4183-8134-27573df66b04",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "TV IIIa Verwaltungs GmbH",
+        "squuid": "5f3a8541-ff3e-4ffd-8cfd-c310dd8995f7"
+      },
+      "squuid": "5f3a8572-69ea-44f0-a70f-70d4508cbad4",
+      "state": "active"
+    }
+  ]
+}

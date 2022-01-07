@@ -1,0 +1,78 @@
+{
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "Maxstraße 64",
+  "name": "Nordis Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f188-46bc-b0e9-b8363472fc5c",
+  "controlDate": "2021-11-04T14:29:14.036Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "45127",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rhein-Ruhr Magazin",
+        "squuid": "5be1a6b1-1156-4674-9cfa-20802681c377"
+      },
+      "squuid": "5be1a6b9-9672-4370-b5bc-a246b6c75649",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Nordis - Das Nordeuropa-Magazin",
+        "squuid": "5be1a6b1-2059-4e30-8dc5-7c291844215e"
+      },
+      "squuid": "5be1a6b9-7800-4a9f-84fc-429fb20e50ab",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nordis.de",
+        "squuid": "5be1a6b1-2e23-48a0-8d82-d690186d9f86"
+      },
+      "squuid": "5be1a6b9-e5f9-468c-9e71-f64824329479",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rhein-ruhr-magazin.de",
+        "squuid": "609bbb34-d2cf-4a6e-9ccd-ed70d423d903"
+      },
+      "squuid": "609bbb5f-fc15-4967-ab72-dc740e3d231e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.skandinavien.de",
+        "squuid": "609bbb43-0e87-4461-92cb-604df78be50b"
+      },
+      "squuid": "609bbb79-217d-407d-a6a0-bc2a21eb09c3",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Merlin Computer-Grafik GmbH",
+        "squuid": "5be1a6b6-9924-4efa-8a5f-382cabf4525b"
+      },
+      "squuid": "5be1a6b8-6681-4bc9-b1b4-9b70b8ffce43",
+      "state": "active"
+    }
+  ]
+}

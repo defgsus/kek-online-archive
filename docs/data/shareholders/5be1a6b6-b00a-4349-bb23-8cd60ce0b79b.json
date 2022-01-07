@@ -1,0 +1,48 @@
+{
+  "name": "Engelsma, Johannes",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-b00a-4349-bb23-8cd60ce0b79b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Kackou Holding B.V.",
+        "squuid": "5be1a6b6-6064-4aed-b2a4-8dbf5ca8d804"
+      },
+      "squuid": "5be1a6b8-2317-4e94-9ae1-c6ff63e8e7bb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Kackou Consultancy B.V.",
+        "squuid": "5be1a6b6-0bae-48c1-abe3-ebc1e48eeee7"
+      },
+      "squuid": "5c498f8a-3934-4e31-abde-d73eaab8dbe1",
+      "state": "active"
+    }
+  ],
+  "city": "Niederlande",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Suhl",
+  "pseudoCompany": false,
+  "street": "Topfmarkt",
+  "name": "Rennsteig TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5f33d697-ddcf-49c8-bb4b-dc7fd975963a",
+  "controlDate": "2022-01-03T15:43:01.689Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "98527",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rennsteig.tv",
+        "squuid": "5f33d68a-ecb1-4d07-bab8-dca7980ae0a8"
+      },
+      "squuid": "5f33d6bb-bd54-4673-929f-427f54890d2e",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Flörke, Andrea",
+        "squuid": "5f33d761-75b0-4b33-bfc8-0771b559e358"
+      },
+      "squuid": "5f33d7ab-4e32-4f9e-8138-38adfe525ec3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Witter, Andreas",
+        "squuid": "5f33d774-3677-4a1e-90c3-1697e9317482"
+      },
+      "squuid": "5f33d7b9-d650-44fe-9d7e-a2e63e6328b0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Otto, Gerd",
+        "squuid": "5f33d787-490f-4f56-b44d-4cc68a06c506"
+      },
+      "squuid": "5f33d7c4-d698-48da-8910-1419f0c0d690",
+      "state": "active"
+    }
+  ]
+}

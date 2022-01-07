@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Garbsen",
+  "pseudoCompany": false,
+  "street": "Robert-Hesse-Str.",
+  "name": "Radio 21 Holding GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-3efa-4d66-bd85-bcb3ba2a0890",
+  "controlDate": "2020-06-30T10:19:48.505Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "30827",
+  "credits": "Beschluss der KEK vom 11.04.2017, Az.: KEK 893, und Bescheid der NLM vom 18.04.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "HannoverRadio GmbH",
+        "squuid": "5be1a6b6-8e11-4adc-84c9-e5ed5de483f5"
+      },
+      "squuid": "5be1a6b8-c410-4701-b4a1-2c4653d13029",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio 21 Beteiligungs GmbH",
+        "squuid": "5efb1278-230e-40c0-93cf-b059bfd992e9"
+      },
+      "squuid": "5efb1297-1db5-4076-8834-28eeb5c55ce2",
+      "state": "active"
+    }
+  ]
+}

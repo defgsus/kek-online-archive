@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Große Elbstraße 59-63",
+  "name": "Fit for Fun Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ef50-47e6-82e9-624c61250632",
+  "controlDate": "2021-10-15T10:12:56.035Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22767",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Fit for Fun",
+        "squuid": "5be1a6b1-b325-44e3-bf68-ffadc71f88b5"
+      },
+      "squuid": "5be1a6b9-2c66-4b6b-a9ad-fc75aca63dc1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "squuid": "5be1a6b8-86d2-429e-8a09-2229eefc1b98",
+      "state": "active"
+    }
+  ]
+}

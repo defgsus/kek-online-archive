@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Fürstenstein",
+  "pseudoCompany": false,
+  "street": "Peigertinger Straße ",
+  "name": "fupa GmbH",
+  "naturalPerson": false,
+  "squuid": "5c51c7b5-01f4-4f98-9086-8968e1540cf6",
+  "controlDate": "2021-12-07T16:10:37.814Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "94538",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fupa.net",
+        "squuid": "5c51c7a8-8736-40c6-a097-30903e46e365"
+      },
+      "squuid": "5c51c80a-0929-4a0f-b774-6e2fb5536939",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 87.5,
+      "holder": {
+        "name": "Wagner, Michael",
+        "squuid": "5c51c8e3-134c-4653-8780-9ad7afee2b29"
+      },
+      "squuid": "5c51c927-4152-4c53-98b9-b4f268afdc35",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "Scharrer, Dirk Erwin",
+        "squuid": "5c51c8f3-7197-442e-a758-ffb8084edb4f"
+      },
+      "squuid": "5c51c939-331e-4dd8-bb69-2de1da232a7e",
+      "state": "active"
+    }
+  ]
+}

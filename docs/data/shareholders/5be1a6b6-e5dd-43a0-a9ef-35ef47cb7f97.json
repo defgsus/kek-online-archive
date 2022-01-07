@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Hauptstätter Str.",
+  "name": "Paul Pietsch Holding GmbH & Co KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e5dd-43a0-a9ef-35ef47cb7f97",
+  "controlDate": "2019-12-10T10:05:55.008Z",
+  "streetNumber": "149",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "70178",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Scholten, Patricia",
+        "squuid": "5be1a6b6-6cb3-4d4f-9be3-c0f3317b240f"
+      },
+      "squuid": "5be1a6b8-563b-42ac-98c9-2107d2de7bc0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Pietsch, Peter-Paul",
+        "squuid": "5be1a6b6-f2d8-4bca-bfb9-3b085b9ab5b0"
+      },
+      "squuid": "5be1a6b8-f226-4aba-90d6-9213e7f4100f",
+      "state": "active"
+    }
+  ]
+}

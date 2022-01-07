@@ -1,0 +1,78 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Julius-Hölder-Str. 47",
+  "name": "Partner Medien Verlags- und Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1df0-431a-bca2-253db4aa00a8",
+  "controlDate": "2021-09-27T15:48:27.208Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70579",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Patchwork Magazin",
+        "squuid": "5be1a6b1-b722-4d42-baed-3d12e39e1b86"
+      },
+      "squuid": "5be1a6b9-dd9f-456c-a774-3c2d9ea1c039",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Patchwork professional",
+        "squuid": "5be1a6b1-c4c4-4f50-9ed1-ebaaf56a41fb"
+      },
+      "squuid": "5be1a6b9-bdb7-496e-8463-809509b8d020",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "häkeln Das MaschenMagazin",
+        "squuid": "5be1a6b1-0c11-43f9-a94d-5e73c0d5b0f5"
+      },
+      "squuid": "5be1a6b9-616e-4d56-92dd-a5d7f6ec5554",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Patchwork & nähen",
+        "squuid": "5be1a6b1-ca2d-417f-b701-27fd2c082151"
+      },
+      "squuid": "5be1a6b9-2c01-407c-aaff-529bae7cd254",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Creative Lettering",
+        "squuid": "5be1a6b1-b4a4-4c25-82dd-f347fa541216"
+      },
+      "squuid": "5be1a6b9-1681-4f18-90a3-e443f5588847",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Partner Medienservices GmbH",
+        "squuid": "5be1a6b6-c788-40a0-a780-ef630ad95031"
+      },
+      "squuid": "5be1a6b8-d60b-4c88-953b-2c316ec75478",
+      "state": "active"
+    }
+  ]
+}

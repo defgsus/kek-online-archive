@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "5be1a6b1-220f-448d-9fb8-b5a588cd3d79",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Wilhelm Böning Verlag der Kreiszeitung Wesermarsch GmbH & Co KG",
+        "squuid": "60fea2c9-dcac-4ceb-a5ac-9a02ff4be6b9"
+      },
+      "squuid": "60fea2fb-251e-4a36-8c58-30af5462f294",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Nordsee-Zeitung GmbH",
+        "squuid": "60fe9878-3c4e-4334-ad7d-09325ac048b3"
+      },
+      "squuid": "60fea306-f7ad-4b07-bbd8-cedd961653be",
+      "state": "active"
+    }
+  ],
+  "name": "www.kreiszeitung-wesermarsch.de",
+  "pressEditionsIVW": false,
+  "type": "online",
+  "controlDate": "2021-10-26T12:57:38.372Z",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

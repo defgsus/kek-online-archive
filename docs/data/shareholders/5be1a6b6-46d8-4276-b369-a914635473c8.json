@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Rothenburg",
+  "pseudoCompany": false,
+  "street": "Erlbacher Str. 104",
+  "name": "J.P. Peter Gebr. Holstein GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-46d8-4276-b369-a914635473c8",
+  "controlDate": "2021-10-14T15:48:36.745Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "91541",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Evangelisches Sonntagsblatt aus Bayern",
+        "squuid": "5be1a6b1-551a-4d80-88b4-ea0824d11ccd"
+      },
+      "squuid": "5be1a6b9-1bc8-4dcf-ad89-2e50a71e2bd8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.evangelisches-sonntagsblatt.de",
+        "squuid": "5be1a6b1-7f52-4c13-bb53-3ae0be481370"
+      },
+      "squuid": "5be1a6b9-f7ec-458c-8690-358726b41bfa",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "Schneider, Wolfgang",
+        "squuid": "5be1a6b6-faf4-478e-bcbd-08a470eeebc8"
+      },
+      "squuid": "5be1a6b8-0cb8-4f04-b242-030d97b77ab3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Schneider, Achim",
+        "squuid": "5be1a6b6-9018-451a-9943-e9e2679f4882"
+      },
+      "squuid": "5be1a6b8-6bbc-483c-9b82-4b68ae4461f7",
+      "state": "active"
+    }
+  ]
+}

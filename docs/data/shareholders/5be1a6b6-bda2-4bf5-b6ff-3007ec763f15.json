@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Bad Ems",
+  "pseudoCompany": false,
+  "street": "Wipsch 1",
+  "name": "VS Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-bda2-4bf5-b6ff-3007ec763f15",
+  "controlDate": "2021-11-18T10:29:09.325Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "56130",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Visier",
+        "squuid": "5be1a6b1-553f-427c-a7de-2b60063c28cc"
+      },
+      "squuid": "5be1a6b9-d54c-4271-b7b1-459a40ccc7a4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "caliber",
+        "squuid": "5be1a6b1-d3f8-4216-a25c-2632fc88539c"
+      },
+      "squuid": "5be1a6b9-ed2d-42c3-af7e-3575910111f9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RUAG Ammotec Deutschland GmbH",
+        "squuid": "5c4061ad-23c1-4e19-9dcb-fd3b0874ef36"
+      },
+      "squuid": "5c4061e4-f585-4f31-bea8-b8a38782844b",
+      "state": "active"
+    }
+  ]
+}

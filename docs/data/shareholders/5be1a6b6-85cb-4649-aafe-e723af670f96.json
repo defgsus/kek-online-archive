@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Littstr.",
+  "name": "MM New Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-85cb-4649-aafe-e723af670f96",
+  "controlDate": "2021-12-15T17:00:58.694Z",
+  "streetNumber": "7-9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "04103",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.news.de",
+        "squuid": "5be1a6b1-f269-4029-b79d-595fcb41e92a"
+      },
+      "squuid": "5be1a6b9-ae3b-4d92-93c8-5aebf401b900",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.qiez.de",
+        "squuid": "5be1a6b1-a559-4bcf-be78-586593ec7769"
+      },
+      "squuid": "61c0999f-9619-4779-95d6-5c8a300b8b26",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.unternehmer.de",
+        "squuid": "5be1a6b1-eaa4-4a35-a977-a046bd0cc568"
+      },
+      "squuid": "61d82a46-e234-450d-976e-2631292ef644",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Euro Serve Media GmbH",
+        "squuid": "5be1a6b6-7d53-4cb8-bb8e-149854d8cdeb"
+      },
+      "squuid": "5be1a6b8-304d-482c-a98c-0f5bfd91d4b2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG",
+        "squuid": "5efef438-7c82-454e-beb9-493d1f5ec407"
+      },
+      "squuid": "5eff1940-b468-4404-a992-22d4df42896c",
+      "state": "active"
+    }
+  ]
+}

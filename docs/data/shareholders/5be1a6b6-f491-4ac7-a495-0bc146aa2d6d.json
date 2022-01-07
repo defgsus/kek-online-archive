@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Privatradio Landeswelle Mecklenburg-Vorpommern Verwaltungs GmbH",
+        "squuid": "5f1adbd6-7f08-4236-97e6-7c624a13795c"
+      },
+      "squuid": "5f228e7b-de36-4bbf-a235-72a5fd4c744c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Schwerin",
+  "pseudoCompany": false,
+  "street": "Am Friedensberg",
+  "name": "Eichenverlag GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f491-4ac7-a495-0bc146aa2d6d",
+  "controlDate": "2021-04-14T16:08:33.291Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "19055",
+  "credits": "MMV",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Brüning, Hans-Joachim",
+        "squuid": "5be1a6b6-a6b7-4929-8dbc-08dac9ac6a4e"
+      },
+      "squuid": "5be1a6b7-0568-4af0-83e2-bc7abdba7520",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kruse-Brüning, Andrea",
+        "squuid": "5be1a6b6-a60a-4afe-bf8a-c50518568872"
+      },
+      "squuid": "5be1a6b7-d047-403d-b12a-996ff86bbdfc",
+      "state": "active"
+    }
+  ]
+}

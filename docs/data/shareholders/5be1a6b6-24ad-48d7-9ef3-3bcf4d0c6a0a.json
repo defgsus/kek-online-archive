@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Herzog Wilhelm-Str. 5",
+  "name": "Sankt Michaelsbund Diözesanverband München und Freising e. V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-24ad-48d7-9ef3-3bcf4d0c6a0a",
+  "controlDate": "2020-06-09T11:04:09.920Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80331",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Münchner Kirchenzeitung",
+        "squuid": "5be1a6b1-3612-48da-b909-2c85c9d712ee"
+      },
+      "squuid": "5be1a6b9-38f7-462f-a696-36c76574bb2e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mk-online.de",
+        "squuid": "5be1a6b1-ea00-4f71-bae9-e3023c0e0a05"
+      },
+      "squuid": "5be1a6b9-1991-4daf-bd89-05d6a4bbd229",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

@@ -1,0 +1,90 @@
+{
+  "rfRepresentative": "Wilke Stroman",
+  "state": "active",
+  "rfShoppingChannel": true,
+  "rfParentalAdvisor": "Daniel Blum",
+  "rfStartDate": "01.02.2015",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-bcbb-49dd-b501-e59840973856",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SH Telekommunikation Deutschland GmbH",
+        "squuid": "5be1a6b6-5592-4cc6-b996-943552673828"
+      },
+      "squuid": "5be1a6b9-5913-4c8e-a04a-ed08e885815c",
+      "state": "active"
+    }
+  ],
+  "name": "Sparhandy TV",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-6b1a-4de6-924f-727ccb20e81b",
+    "name": "Teleshopping",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Teleshopping-Kanal, über den Mobilfunktarife unabhängiger Anbieter und mobile Endgeräte an die Kunden vermittelt werden.",
+  "rfLicenseUntil": "27.01.2025",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "28.01.2015",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-2315-4639-ad7e-4ee0ca15d951",
+      "name": "Unitymedia",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "28.01.2015",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

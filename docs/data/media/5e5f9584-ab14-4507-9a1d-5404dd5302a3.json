@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Marc-Andreas Albert",
+  "state": "active",
+  "sharesInfo": "KEK 1037",
+  "rfShoppingChannel": false,
+  "rfFreePay": true,
+  "squuid": "5e5f9584-ab14-4507-9a1d-5404dd5302a3",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://webedia-group.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Webedia Gaming GmbH",
+        "squuid": "5be1a6b6-5366-4599-8876-d22ec1295682"
+      },
+      "squuid": "5e5f9800-e7f8-4d7b-8da1-58232a2364e6",
+      "state": "active"
+    }
+  ],
+  "name": "Multi-Channel-Network Webedia",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Bundesweites Multi-Channel-Network, das auf Themen der Popkultur ausgerichtet ist, vor allem auf die Bereiche Video- und Computerspiele sowie Kino und Film. Die Inhalte werden als Livestream über Online-Video- und Social-Media-Plattformen verbreitet.",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "29.11.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "29.11.2019",
+  "accessibilityEmail": "info@webedia-group.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

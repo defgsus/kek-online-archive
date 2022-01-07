@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f1aaa6a-fbc6-4925-9392-3e1b157088b9",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NORA NordOstsee Radio GmbH & Co. KG",
+        "squuid": "5be1a6b6-d080-44e2-a6f5-d56f8f5c4334"
+      },
+      "squuid": "5f1aaae5-238e-47a2-b13e-fef028d0fc33",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RADIO BOB GmbH & Co. KG",
+        "squuid": "5be1a6b6-51b1-4fb3-a60d-beb902046915"
+      },
+      "squuid": "5f355193-bd24-440b-8547-1afbf1818d50",
+      "state": "active"
+    }
+  ],
+  "name": "www.radiobob.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-21T15:25:07.896Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

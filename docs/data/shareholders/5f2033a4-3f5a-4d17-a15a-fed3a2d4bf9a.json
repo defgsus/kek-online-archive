@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Rostock",
+  "pseudoCompany": false,
+  "street": "Nobelstr.",
+  "name": "mediadock GmbH",
+  "naturalPerson": false,
+  "squuid": "5f2033a4-3f5a-4d17-a15a-fed3a2d4bf9a",
+  "controlDate": "2020-07-28T14:19:58.651Z",
+  "streetNumber": "50 a/b",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "18059",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.43,
+      "holder": {
+        "name": "Mück, Matthias",
+        "squuid": "5f20348d-8684-41c7-84f3-243faf297463"
+      },
+      "squuid": "5f2034c6-6710-49f9-aed7-ce0a978f1858",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 39.57,
+      "holder": {
+        "name": "Selck, Daniel",
+        "squuid": "5f20349e-64b3-4d74-899c-356f8ca20c20"
+      },
+      "squuid": "5f2034d9-6f77-4ec8-b2d6-723fb72398cf",
+      "state": "active"
+    }
+  ]
+}

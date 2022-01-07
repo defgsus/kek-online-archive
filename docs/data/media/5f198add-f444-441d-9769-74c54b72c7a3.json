@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f198add-f444-441d-9769-74c54b72c7a3",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Byte.FM GmbH",
+        "squuid": "5be1a6b6-a4b8-426b-9edf-50a05d44a143"
+      },
+      "squuid": "5f198b12-48ff-4ffd-8ff1-d5baaf7f9d0b",
+      "state": "active"
+    }
+  ],
+  "name": "www.byte.fm",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-01T16:18:17.718Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

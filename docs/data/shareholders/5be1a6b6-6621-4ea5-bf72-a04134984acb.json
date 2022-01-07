@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Radio AWN Straubing GmbH & Co. Hörfunk KG",
+        "squuid": "5be1a6b6-805c-446e-86e9-b73cddf22859"
+      },
+      "squuid": "5cee4156-ffb0-448e-817e-0fd2a514ad13",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Radio AWN Straubing GmbH",
+        "squuid": "5f919fb9-c3bb-4526-a5c1-6f90f951858b"
+      },
+      "squuid": "5fa12a63-424e-45dd-bfe4-375f57317cd1",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dingolfing",
+  "pseudoCompany": false,
+  "street": "Laaberstr. 2",
+  "name": "Wälischmiller Druck & Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6621-4ea5-bf72-a04134984acb",
+  "controlDate": "2021-10-04T13:50:19.066Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "84130",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Dingolfinger Anzeiger",
+        "squuid": "5be1a6b1-9849-436f-b10e-2c3e3eef03df"
+      },
+      "squuid": "5be1a6b9-05b0-4d05-a975-6288b5da219e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wälischmiller Grundbesitz GmbH & Co. KG",
+        "squuid": "5e2ef80a-38c4-4839-b77e-fa2e61cc73f9"
+      },
+      "squuid": "5e2ef869-7984-4ff9-bae3-5df3cb0ddeb9",
+      "state": "active"
+    }
+  ]
+}

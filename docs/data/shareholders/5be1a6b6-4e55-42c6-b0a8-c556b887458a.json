@@ -1,0 +1,55 @@
+{
+  "state": "active",
+  "city": "Dippoldiswalde",
+  "note": "FRM-TV-Produktion Börner",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Niedertorplatz",
+  "name": "Börner, Ronny FRM-TV-Produktion Börner",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4e55-42c6-b0a8-c556b887458a",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01744",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "FRM-TV Osterzgebirge",
+        "squuid": "5c1b6990-9030-4ba6-ad25-c4b89d1dcc11"
+      },
+      "squuid": "5c1b6d0f-2f41-4497-9757-4dafd9904ccb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "FRM-TV Sächsische Schweiz",
+        "squuid": "5d0b6331-4b29-4ef5-bfd5-68cf1379ecb2"
+      },
+      "squuid": "5d0b6523-0011-4067-8db6-76fb3e690b73",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.frm.lokal.studio",
+        "squuid": "5f7c53f3-6bed-476f-90c4-017e2ef54fde"
+      },
+      "squuid": "5f7c542b-5e3d-4e98-af4e-74ad0121b14c",
+      "state": "active"
+    }
+  ]
+}

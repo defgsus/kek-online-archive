@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Speyer",
+  "pseudoCompany": false,
+  "street": "Hasenpfuhlstraße 33",
+  "name": "Peregrinus GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-83a2-4e8a-a5a1-af7126f553cd",
+  "controlDate": "2021-09-30T10:48:14.231Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "67346",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "der pilger",
+        "squuid": "5be1a6b1-e8a9-49f4-ab2f-db5f4686c511"
+      },
+      "squuid": "5be1a6b9-644e-4810-889e-e63fcdeded57",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pilger-speyer.de",
+        "squuid": "5be1a6b1-3510-48f0-be06-dbd2e46e2545"
+      },
+      "squuid": "5be1a6b9-02dd-4361-8ff7-18372046903f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "der pilger - Magazin für bewusstes Leben",
+        "squuid": "5d0b50da-3d86-4031-a370-bf3950008ed3"
+      },
+      "squuid": "5df21f4b-8709-4498-86a1-6f0dfd862bba",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Diözese Speyer K.d.ö.R.",
+        "squuid": "5be1a6b6-121c-43dc-b4cb-5a4a99d585d7"
+      },
+      "squuid": "5be1a6b8-c094-40a6-9c25-1301117bbaa1",
+      "state": "active"
+    }
+  ]
+}

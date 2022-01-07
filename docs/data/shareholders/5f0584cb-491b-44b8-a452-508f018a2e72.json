@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Hartenstein",
+  "pseudoCompany": false,
+  "street": "Katzenstr. ",
+  "name": "Gerber, Christoph",
+  "naturalPerson": true,
+  "squuid": "5f0584cb-491b-44b8-a452-508f018a2e72",
+  "streetNumber": "20b",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "08118",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SE-TA 2",
+        "squuid": "5f058508-76d1-46b3-88ac-dd526f8fdbf0"
+      },
+      "squuid": "5f0585af-067d-448f-9b5d-6d60a1e74563",
+      "state": "active"
+    }
+  ]
+}

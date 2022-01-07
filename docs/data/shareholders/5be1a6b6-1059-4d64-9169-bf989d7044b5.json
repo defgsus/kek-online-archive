@@ -1,0 +1,33 @@
+{
+  "name": "Thüringer Skiverband e. V.",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-1059-4d64-9169-bf989d7044b5",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "held": {
+        "name": "Antenne Thüringen GmbH & Co. KG",
+        "squuid": "5be1a6b6-5864-4d2d-abd2-19cfbc09b41b"
+      },
+      "squuid": "5be1a6b7-3c7f-415e-b72b-cff040d0a5f5",
+      "state": "active"
+    }
+  ],
+  "city": "Oberhof",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

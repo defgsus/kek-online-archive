@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Von-Kahr-Str. 2",
+  "name": "Deutscher Alpenverein e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b521-4570-9cd0-61024237cb76",
+  "controlDate": "2020-05-15T11:50:23.851Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80997",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "DAV Panorama",
+        "squuid": "5be1a6b1-d054-4659-a69b-5b511a6b5233"
+      },
+      "squuid": "5be1a6b9-a5ce-4340-b239-353b67f3706a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

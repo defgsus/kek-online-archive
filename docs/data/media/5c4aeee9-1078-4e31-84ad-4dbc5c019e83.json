@@ -1,0 +1,71 @@
+{
+  "rfRepresentative": "Theres Modl",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfFreePay": true,
+  "squuid": "5c4aeee9-1078-4e31-84ad-4dbc5c019e83",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.twitch.tv/sissorstream",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Modl, Theres",
+        "squuid": "5c4aeecc-90f5-4c36-9618-94a4e31b5118"
+      },
+      "squuid": "5c4af04c-b872-4fc8-82d8-7976bf7484e5",
+      "state": "active"
+    }
+  ],
+  "name": "sissorstream",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Livestream-Angebot mit Let's-Play-Formaten",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "06.08.2018",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "06.08.2018",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

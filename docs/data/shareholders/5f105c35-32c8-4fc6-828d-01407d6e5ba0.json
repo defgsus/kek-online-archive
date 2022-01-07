@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Bochum mbH & Co. KG",
+        "squuid": "5be1a6b6-86ab-4b74-a5ef-1d657e8efae2"
+      },
+      "squuid": "5ff59c40-34e3-4e6b-b7ce-26bafd38be02",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bochum",
+  "pseudoCompany": false,
+  "street": "Huestr.",
+  "name": "Betriebsverwaltungsgesellschaft Radio Bochum GmbH",
+  "naturalPerson": false,
+  "squuid": "5f105c35-32c8-4fc6-828d-01407d6e5ba0",
+  "controlDate": "2021-12-21T15:47:42.563Z",
+  "streetNumber": "25",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "44787",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "60015736-0331-4922-998d-06cfdfc35987",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Stadtwerke Bochum Holding GmbH",
+        "squuid": "5be1a6b6-fd67-4240-8798-a58ac1c5eb79"
+      },
+      "squuid": "60015750-72f7-4cd6-a8cc-e07a017f0a80",
+      "state": "active"
+    }
+  ]
+}

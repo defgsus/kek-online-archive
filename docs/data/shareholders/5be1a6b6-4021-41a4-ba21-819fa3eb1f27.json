@@ -1,0 +1,53 @@
+{
+  "name": "Maass, Frank",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-4021-41a4-ba21-819fa3eb1f27",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Radio Hannover GmbH",
+        "squuid": "5be1a6b6-1a34-4949-a67e-0de35401a07e"
+      },
+      "squuid": "5be1a6b8-bf2a-41fe-935b-2c9e839ca2c2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "KMWS Media Hannover GmbH & Co. KG",
+        "squuid": "5efdee17-0d59-43d6-83a0-252863f7366e"
+      },
+      "squuid": "5efdf4af-65d9-436e-a2fe-1afeb5ad36cd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "KMWS Media GmbH",
+        "squuid": "5efdee2c-5d91-46e6-9539-29079dfaa414"
+      },
+      "squuid": "5efdf5b0-a2d5-449c-abbd-1d05bd77d4d7",
+      "state": "active"
+    }
+  ],
+  "city": "Berlin",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

@@ -1,0 +1,46 @@
+{
+  "state": "active",
+  "city": "Forst (Lausitz)",
+  "supplierConsortium": false,
+  "pseudoCompany": true,
+  "street": "Sorauer Straße",
+  "name": "Siptitz, Ina",
+  "naturalPerson": true,
+  "co": "Forst TV - Stadtfernsehen Forst",
+  "squuid": "5c597c01-6b9b-411b-a560-c261749508ce",
+  "streetNumber": "32",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "03149",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Forst TV",
+        "squuid": "5c597c38-e949-427e-8d01-a4b9aeab0401"
+      },
+      "squuid": "5c597f39-f48e-4bce-a3c2-914186ab66b9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.forst-tv.info",
+        "squuid": "5f2176bd-9b7c-4d95-bfd7-747ab090f389"
+      },
+      "squuid": "5f217713-42ec-4153-9e4e-ec52dc5bd932",
+      "state": "active"
+    }
+  ]
+}

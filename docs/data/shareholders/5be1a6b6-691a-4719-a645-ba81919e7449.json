@@ -1,0 +1,98 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Theresienstraße",
+  "name": "The History Channel (Germany) GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-691a-4719-a645-ba81919e7449",
+  "otherMediaActivities": "Zu dem U.S.-amerikanischen Medienkonzern Hearst gehören u. a. Tageszeitungen, lokale Fernsehsender und Radiostationen in den USA sowie internationale Monatsmagazine (z. B. Cosmopolitan, ELLE, Marie Claire). In Deutschland betreibt Hearst zusammen mit dem Burda-Verlag das Gemeinschaftsunternehmen Burda Hearst Publishing GmbH, das die deutschen Titel der Marke ELLE sowie die Zeitschrift Harper's BAZAAR verlegt.",
+  "controlDate": "2021-12-02T13:03:48.253Z",
+  "streetNumber": "47 a",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80333",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "History",
+        "squuid": "5be1a6b1-523c-448d-8ad5-3720523cd3ff"
+      },
+      "squuid": "5be1a6b9-b831-49ed-af1b-ba2b9e4dec54",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Crime+Investigation",
+        "squuid": "5be1a6b1-1bdc-48c9-bf9c-a49a458ccde4"
+      },
+      "squuid": "5be1a6b9-35a9-479c-b75c-c93a42f5ffd0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.crimeandinvestigation.de",
+        "squuid": "5f05d8c8-ed0b-4e34-901e-b69fadf890ab"
+      },
+      "squuid": "5f05d8fc-3d7c-4ea4-b86e-d4f745ed1bfb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.history.de",
+        "squuid": "5f7c5aa7-b8e2-4730-8553-3e8d8cc8feb8"
+      },
+      "squuid": "5f7c5ad5-f836-4039-abd4-3d7c81260e95",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.07.2017, Az.: KEK 928, und Bescheid der BLM vom 19.07.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.5,
+      "holder": {
+        "name": "The History Channel (Germany) Beteiligungs GmbH",
+        "squuid": "5be1a6b6-58f2-47f9-a3b1-d30cf538f812"
+      },
+      "squuid": "5be1a6b7-2de9-4af7-b21e-efb03bf4f527",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "holder": {
+        "name": "AETN Holding, Inc.",
+        "squuid": "5be1a6b6-b6fc-45b7-8cf2-f027769eaff8"
+      },
+      "squuid": "5be1a6b7-7744-4241-86af-a56c30bb7f1d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "The History Channel (Germany) Holdings GmbH",
+        "squuid": "5be1a6b6-b19d-4d43-8a2e-633a7b1689e8"
+      },
+      "squuid": "5f05da7e-0299-47c7-afd9-8942224badce",
+      "state": "active"
+    }
+  ]
+}

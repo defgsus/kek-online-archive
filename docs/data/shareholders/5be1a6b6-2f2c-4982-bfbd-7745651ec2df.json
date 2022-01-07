@@ -1,0 +1,85 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Torgauer Verlag Verwaltungsgesellschaft mbH",
+        "squuid": "5ee38924-0e82-484a-a560-fd26772a3be3"
+      },
+      "squuid": "5ee38996-bf37-4963-94c0-beb275deacc4",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Torgau",
+  "pseudoCompany": false,
+  "street": "Elbstr. 3",
+  "name": "Torgauer Verlagsgesellschaft mbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-2f2c-4982-bfbd-7745651ec2df",
+  "controlDate": "2021-11-17T14:38:23.628Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "04860",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Torgauer Zeitung",
+        "squuid": "5be1a6b1-e4f6-4a34-abda-30b6de97b422"
+      },
+      "squuid": "5be1a6b9-582d-4061-b908-4d3e0ec7ed94",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.torgauerzeitung.com",
+        "squuid": "5be1a6b1-0e30-41ee-bc27-6ea8ef05a37b"
+      },
+      "squuid": "5be1a6b9-44aa-4c94-885f-e9f901f9996a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.9,
+      "holder": {
+        "name": "Röhm GmbH & Co. KG",
+        "squuid": "5be1a6b6-97c7-494a-8421-72685c45853e"
+      },
+      "squuid": "5be1a6b8-df52-44b2-82af-66ac2d9e9a63",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.1,
+      "holder": {
+        "name": "Leipziger Verlags- und Druckereigesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-e3d7-48f4-a702-9fec71b10041"
+      },
+      "squuid": "5be1a6b8-0383-41ba-a8d2-303375b3d99a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Torgauer Verlag Verwaltungsgesellschaft mbH",
+        "squuid": "5ee38924-0e82-484a-a560-fd26772a3be3"
+      },
+      "squuid": "5ee38941-57cd-46b3-8436-ff9c9e16e57f",
+      "state": "active"
+    }
+  ]
+}

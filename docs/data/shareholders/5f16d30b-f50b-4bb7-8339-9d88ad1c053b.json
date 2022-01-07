@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Radio Köln GmbH & Co. KG",
+        "squuid": "5be1a6b6-db8e-49f4-ac46-b7d5e3444a14"
+      },
+      "squuid": "5f16d33b-7f9c-4237-bc57-3d60cfb5cbf2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Amsterdamer Str.",
+  "name": "Radio Köln GmbH",
+  "naturalPerson": false,
+  "squuid": "5f16d30b-f50b-4bb7-8339-9d88ad1c053b",
+  "controlDate": "2021-12-22T15:00:59.169Z",
+  "streetNumber": "192",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "50735",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Radio Köln GmbH & Co. KG",
+        "squuid": "5be1a6b6-db8e-49f4-ac46-b7d5e3444a14"
+      },
+      "squuid": "5ff6df75-7b45-4da3-acbf-b3087e0eb8d0",
+      "state": "active"
+    }
+  ]
+}

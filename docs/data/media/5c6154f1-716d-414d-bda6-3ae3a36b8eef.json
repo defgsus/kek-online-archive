@@ -1,0 +1,59 @@
+{
+  "rfRepresentative": "Dr. Lutz Hawel",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfFreePay": true,
+  "squuid": "5c6154f1-716d-414d-bda6-3ae3a36b8eef",
+  "organization": {
+    "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+    "name": "MSA",
+    "type": "organization",
+    "fullName": "Medienanstalt Sachsen-Anhalt"
+  },
+  "accessibilityUrl": "https://www.ran1.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RBW Fernsehgesellschaft mbH",
+        "squuid": "5d020f59-e94c-49c2-b306-cd3d763bc350"
+      },
+      "squuid": "5d020f9a-fcde-4497-a75f-4c7586be8a77",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Rundfunkgesellschaft Anhalt mbh",
+        "squuid": "5d020f7a-8a26-42d1-a57c-10134bba67cf"
+      },
+      "squuid": "5d020fbf-953d-4d42-b83f-f5302f73f187",
+      "state": "active"
+    }
+  ],
+  "name": "RAN 1 - Regionalfernsehen Anhalt",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-063c-4208-94e1-5216fef7a724",
+    "name": "Vollprogramm",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+    "name": "MSA",
+    "type": "organization",
+    "fullName": "Medienanstalt Sachsen-Anhalt"
+  },
+  "description": "Regionalfernsehen",
+  "rfAddress": "Rundfunkgesellschaft Anhalt mbH\nKavalierstraße 71\n06844 Dessau-Roßlau\n\nwww.ran1.de",
+  "accessibilityEmail": "info@ran1.de"
+}

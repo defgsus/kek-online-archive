@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "NetCologne Gesellschaft für Telekommunikation mbH",
+        "squuid": "5c502816-a874-4921-bcfa-4fdbeea92323"
+      },
+      "squuid": "5c5028bd-6e6c-4ebc-b93c-5a88a35aff08",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Parkgürtel",
+  "name": "GEW Köln AG",
+  "naturalPerson": false,
+  "squuid": "5c5027e8-3e8b-411f-a86f-517af4b8ea41",
+  "controlDate": "2021-12-10T14:45:41.822Z",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50823",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Stadt Köln",
+        "squuid": "5c5027d6-5551-4b8a-b8b0-fbebd3f824fe"
+      },
+      "squuid": "5c50292e-dacd-4b72-8bc1-4c8a154f2487",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Stadtwerke Köln GmbH",
+        "squuid": "5be1a6b6-44ec-414f-95f0-bc29beea5622"
+      },
+      "squuid": "5c502941-cadf-41d9-9bdc-edcec715c539",
+      "state": "active"
+    }
+  ]
+}

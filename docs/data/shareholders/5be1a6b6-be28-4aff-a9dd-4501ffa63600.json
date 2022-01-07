@@ -1,0 +1,92 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Lokalradio Mettmann Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-3934-491c-92a0-1bac8a54065b"
+      },
+      "squuid": "5be1a6b7-f75d-4e30-bdf8-fa1e35979531",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lokalfunk Mettmann Presse-Beteiligungsgesellschaft mbH",
+        "squuid": "5f16e55c-c211-4ba1-a3fe-c530d02b9edb"
+      },
+      "squuid": "5ff5c50a-cae6-4567-a5e7-10f3602a860b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mettmann",
+  "pseudoCompany": false,
+  "street": "Elberfelder Str.",
+  "name": "Lokalfunk Mettmann Presse-Beteiligungsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-be28-4aff-a9dd-4501ffa63600",
+  "controlDate": "2021-12-29T15:29:58.870Z",
+  "streetNumber": "81",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "40822",
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Zeitungsverlag Niederrhein GmbH & Co. Essen KG",
+        "squuid": "5be1a6b6-82b1-496e-8b3c-f72246503b7e"
+      },
+      "squuid": "5be1a6b8-20e2-4aef-8143-13b96ff700d7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 48.0,
+      "holder": {
+        "name": "PFD Pressefunk GmbH",
+        "squuid": "5be1a6b6-761b-43ab-b113-3d2fb927889c"
+      },
+      "squuid": "5be1a6b8-c136-4a93-a648-03f81e76ed70",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lokalfunk Mettmann Presse-Beteiligungsgesellschaft mbH",
+        "squuid": "5f16e55c-c211-4ba1-a3fe-c530d02b9edb"
+      },
+      "squuid": "5f16e71c-7cdd-4172-be66-194f3bfc9456",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.0,
+      "holder": {
+        "name": "Westdeutsche Zeitung GmbH & Co KG",
+        "squuid": "5be1a6b6-415d-4a70-8991-2d894c374633"
+      },
+      "squuid": "5f16e72b-6f50-41a6-a313-b7a3c576002f",
+      "state": "active"
+    }
+  ]
+}

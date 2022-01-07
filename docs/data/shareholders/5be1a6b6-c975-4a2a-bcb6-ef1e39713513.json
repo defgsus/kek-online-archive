@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Kiel",
+  "pseudoCompany": false,
+  "street": "Wittland",
+  "name": "KOM PSR GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c975-4a2a-bcb6-ef1e39713513",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "24109",
+  "credits": "Schreiben der SLM vom 08.07.2013",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 32.68,
+      "holder": {
+        "name": "medien holding:nord gmbh",
+        "squuid": "5be1a6b6-3a49-498e-ac48-b7da3a2e673b"
+      },
+      "squuid": "5be1a6b7-7aa0-426b-9479-b3e2c71754e3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.16,
+      "holder": {
+        "name": "Lübecker Nachrichten GmbH",
+        "squuid": "5be1a6b6-5f57-4d0e-8b37-abfb3fd9e0e9"
+      },
+      "squuid": "5be1a6b7-0b3d-4e21-9b34-6d44079a9b27",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.16,
+      "holder": {
+        "name": "Kieler Zeitung Verwaltungs GmbH & Co. Beteiligungs KG",
+        "squuid": "5be1a6b6-1c0e-42af-9022-68be9f160fa8"
+      },
+      "squuid": "5be1a6b7-e6a4-496b-8188-d3a6a97cafa8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.05,
+      "holder": {
+        "name": "Axel Springer SE",
+        "squuid": "5be1a6b6-5c1b-48b1-ad15-85241452bf42"
+      },
+      "squuid": "5be1a6b7-f40d-49fe-bbd9-f8be37e4e18f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.67,
+      "holder": {
+        "name": "Boyens Medien Beteiligungs GmbH & Co. KG",
+        "squuid": "5be1a6b6-5b88-4791-a0f1-cf0edc2ad925"
+      },
+      "squuid": "5be1a6b7-991e-4cbe-bd37-aad84a5b333c",
+      "state": "active"
+    }
+  ]
+}

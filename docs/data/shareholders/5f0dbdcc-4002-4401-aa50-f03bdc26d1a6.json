@@ -1,0 +1,58 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 79.49,
+      "held": {
+        "name": "DWS Group GmbH & Co. KGaA",
+        "squuid": "5f02dd2f-a75c-4b4f-8bfb-340dd621327e"
+      },
+      "squuid": "5f0dbe3f-3c35-402b-a9f8-90c8828c01c4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "DWS Management GmbH",
+        "squuid": "5f1156b1-f5bd-4e71-a905-e9232b56c1d7"
+      },
+      "squuid": "5f1550e9-3893-4c71-9889-4043d20d1374",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Taunusanlage",
+  "name": "DB Beteiligungs-Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "5f0dbdcc-4002-4401-aa50-f03bdc26d1a6",
+  "controlDate": "2021-12-07T11:42:01.109Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60325",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Deutsche Bank AG",
+        "squuid": "5f1019f9-0cec-4117-9db6-06777350ca73"
+      },
+      "squuid": "5f154f71-0513-4244-a344-2fadfd9c505f",
+      "state": "active"
+    }
+  ]
+}

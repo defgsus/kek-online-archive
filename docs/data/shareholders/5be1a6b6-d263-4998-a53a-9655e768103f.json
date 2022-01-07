@@ -1,0 +1,71 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 22.3,
+      "held": {
+        "name": "Märkischer Zeitungsverlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-9462-4509-81ac-786292d6ac91"
+      },
+      "squuid": "5be1a6b7-0b59-4395-a015-e4cf922d26bc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.3,
+      "held": {
+        "name": "Märkischer Zeitungsverlag und Verwaltungs GmbH",
+        "squuid": "5eb136c4-0503-4191-9d94-1a81de9093cf"
+      },
+      "squuid": "5ef1cd5d-b8ab-426b-b895-e2a867a6d7b7",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Meinerzhagen",
+  "pseudoCompany": false,
+  "street": "Am Stadion 2",
+  "name": "Meinerzhagener Druck- und Verlagshaus Walther Kämper GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d263-4998-a53a-9655e768103f",
+  "controlDate": "2021-10-29T09:14:50.049Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "58540",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ippen, Dr. Dirk",
+        "squuid": "5be1a6b6-6732-4f13-872a-78cb650dabda"
+      },
+      "squuid": "5be1a6b8-7b2a-4cc5-bf32-6c0c8e05e962",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Zeitungsverlag Anhalt Beteiligungsgesellschaft mbH",
+        "squuid": "5eb13812-45d1-42ba-8461-2a670cf617ee"
+      },
+      "squuid": "5eb1383c-9358-4f19-96d2-808074072d33",
+      "state": "active"
+    }
+  ]
+}

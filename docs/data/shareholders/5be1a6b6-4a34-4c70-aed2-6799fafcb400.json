@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "Frankfurt (Oder)",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Logenstraße",
+  "name": " eagle Broadcast Brandenburg GmbH (Duldung)",
+  "naturalPerson": false,
+  "co": "DER ODERTURM",
+  "squuid": "5be1a6b6-4a34-4c70-aed2-6799fafcb400",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "15230",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "pure fm - berlins dance radio",
+        "squuid": "5be1a6b1-1478-43a8-9b61-63b5f1949cdf"
+      },
+      "squuid": "5be1a6b9-1285-476e-a918-643353dcdf8e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "pure fm",
+        "squuid": "5d27475b-406b-464d-9a40-7afc4e6fc130"
+      },
+      "squuid": "5d274849-c89e-443d-91e0-a1189b8bd549",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kayales, Matthias",
+        "squuid": "5be1a6b6-0892-4878-a05c-4f22ef5c5ed8"
+      },
+      "squuid": "5be1a6b8-5c93-4f9c-ba6e-96b0fff2a44b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Raschke, Steve",
+        "squuid": "5be1a6b6-1ee9-4e79-a06d-e49bae47cada"
+      },
+      "squuid": "5be1a6b8-740d-43f0-b3bf-724bff79c78c",
+      "state": "active"
+    }
+  ]
+}

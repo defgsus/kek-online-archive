@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Ralph Dommermuth Beteiligungen GmbH",
+        "squuid": "5ef0ad78-0328-4ab3-95ff-5690f5b1ba24"
+      },
+      "squuid": "5ef4705e-8559-429b-9da1-872cdb72080a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Montabaur",
+  "pseudoCompany": false,
+  "street": "Elgendorfer Str.",
+  "name": "Ralph Dommermuth GmbH & Co. KG Beteiligungsgesellschaft",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5ef47033-bf69-45ea-bbce-049b207d5ea9",
+  "controlDate": "2020-06-26T08:20:19.185Z",
+  "streetNumber": "57",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "56410",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Ralph Dommermuth Verwaltungs GmbH",
+        "squuid": "5ef5b054-af6c-4667-8119-f32ab7afb753"
+      },
+      "squuid": "5ef5b099-8146-440a-9d71-1ffd21dc506a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Dommermuth, Ralph",
+        "squuid": "5be1a6b6-30be-4601-b8aa-e11b46c2f286"
+      },
+      "squuid": "5ef5b0a9-8c45-4a03-8e9b-fbe32e15e777",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Dommermuth, Philipp",
+        "squuid": "5ef5b065-625a-47d3-8cdb-9ce9b2101047"
+      },
+      "squuid": "5ef5b0ba-6cb8-4c0a-838d-eb00bfaafe09",
+      "state": "active"
+    }
+  ]
+}

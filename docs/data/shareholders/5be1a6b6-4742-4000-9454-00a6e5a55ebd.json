@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Petershagen",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-4742-4000-9454-00a6e5a55ebd",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.18,
+      "held": {
+        "name": "Radio Minden-Lübbecke GmbH & Co. KG",
+        "squuid": "5be1a6b6-1d3f-41b8-adb3-87fcb17f51e2"
+      },
+      "squuid": "5be1a6b8-dd24-4bc9-a535-57ef1dc177f3",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

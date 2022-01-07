@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "Neuss",
+  "pseudoCompany": false,
+  "street": "Hellersbergstraße 12",
+  "name": "Verband der Vereine Creditreform e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-30cb-4fab-91c7-7767b87f66b3",
+  "controlDate": "2021-09-27T15:57:26.688Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "41460",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.firmenwissen.de",
+        "squuid": "5be1a6b1-f2a3-486a-8737-d2f8f8ad21c9"
+      },
+      "squuid": "5be1a6b9-d6e5-45d3-a25d-f0358ffdea03",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.creditreform.de",
+        "squuid": "5bfbdfce-e0c5-44ac-b5b8-c3cdc4f3bfdd"
+      },
+      "squuid": "602d1e25-fe2f-4d65-85d8-e82fe6114462",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

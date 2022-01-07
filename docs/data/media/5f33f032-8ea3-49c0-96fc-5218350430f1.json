@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f33f032-8ea3-49c0-96fc-5218350430f1",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Power Radio GmbH",
+        "squuid": "5be1a6b6-e3b8-42d0-91b7-8c0229f78830"
+      },
+      "squuid": "5f33f058-952f-401b-bb13-93e3144bfe8c",
+      "state": "active"
+    }
+  ],
+  "name": "www.power-radio.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-17T09:46:59.617Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

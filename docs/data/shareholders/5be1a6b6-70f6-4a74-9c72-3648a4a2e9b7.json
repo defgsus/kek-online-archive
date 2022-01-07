@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Pilsener Straße",
+  "name": "Gebetshaus e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-70f6-4a74-9c72-3648a4a2e9b7",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86199",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Donnerstag Abend",
+        "squuid": "5be1a6b1-c12c-4559-86c5-5c02911d247f"
+      },
+      "squuid": "5be1a6b9-9d9a-488b-83ef-043c4521a20c",
+      "state": "active"
+    }
+  ]
+}

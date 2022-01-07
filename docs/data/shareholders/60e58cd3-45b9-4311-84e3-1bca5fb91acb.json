@@ -1,0 +1,54 @@
+{
+  "name": "Streubesitz an der Vivendi S.A.",
+  "squuid": "60e58cd3-45b9-4311-84e3-1bca5fb91acb",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 60.3,
+      "held": {
+        "name": "Vivendi S.A.",
+        "squuid": "5e5901fa-23fb-457f-a85b-a43eafa3e2c1"
+      },
+      "squuid": "60e58fcf-4b48-4b40-ac52-4869657da98c",
+      "state": "active",
+      "votingShares": 57.1
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active"
+}

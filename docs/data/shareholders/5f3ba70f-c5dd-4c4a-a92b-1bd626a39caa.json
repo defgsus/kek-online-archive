@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Zone 7 GmbH & Co. KG",
+        "squuid": "5be1a6b6-58fc-460a-96a4-a6b530ba1fee"
+      },
+      "squuid": "5f3ba738-2155-433e-95dd-2f1697bd6439",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Q7",
+  "name": "Zone 7 Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f3ba70f-c5dd-4c4a-a92b-1bd626a39caa",
+  "controlDate": "2022-01-04T10:15:30.977Z",
+  "streetNumber": "28",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "68161",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 76.0,
+      "holder": {
+        "name": "Präkelt, Thomas",
+        "squuid": "5be1a6b6-48c6-4620-a7e0-fac5c481e3bc"
+      },
+      "squuid": "6059f883-81d6-4860-b39e-4c9c8e7f9265",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "Peschke, Sina",
+        "squuid": "5be1a6b6-6c4c-4ba9-8baf-0206c9289ee7"
+      },
+      "squuid": "6059f88f-8fde-4113-8f05-3912d5ddaef2",
+      "state": "active"
+    }
+  ]
+}

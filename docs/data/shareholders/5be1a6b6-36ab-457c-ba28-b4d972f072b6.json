@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Bautzen",
+  "pseudoCompany": false,
+  "street": "Lauengraben",
+  "name": "DDV Bautzen GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-36ab-457c-ba28-b4d972f072b6",
+  "otherMediaActivities": "Regionalverlag der Sächsischen Zeitung",
+  "controlDate": "2021-11-16T13:35:12.674Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "02625",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sächsische Zeitung (Ausgaben Bautzen, Kamenz, Bischofswerda, Rödertal)",
+        "squuid": "5be1a6b1-841f-45f4-950b-589fc17d3e10"
+      },
+      "squuid": "5be1a6b9-014a-4ed0-9f85-ea6ddbdd945e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "5be1a6b8-a386-4a96-8a41-87be928ca336",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.5,
+      "holder": {
+        "name": "Bittner, Frank",
+        "squuid": "5be1a6b6-6824-435d-9a4b-4c826a3656bf"
+      },
+      "squuid": "5be1a6b8-8a76-41d8-a17e-27e161486294",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.5,
+      "holder": {
+        "name": "Schönbach, Ulli",
+        "squuid": "6193b388-f0c8-4a71-81af-6962e22e2a94"
+      },
+      "squuid": "6193b3ac-237d-4d34-8853-0071eec96534",
+      "state": "active"
+    }
+  ]
+}

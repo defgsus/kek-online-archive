@@ -1,0 +1,49 @@
+{
+  "name": "Präkelt, Thomas",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-48c6-4620-a7e0-fac5c481e3bc",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Zone 7 GmbH & Co. KG",
+        "squuid": "5be1a6b6-58fc-460a-96a4-a6b530ba1fee"
+      },
+      "squuid": "5be1a6b8-b65e-42cc-9a3d-fc1ff677c660",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 76.0,
+      "held": {
+        "name": "Zone 7 Verwaltungs GmbH",
+        "squuid": "5f3ba70f-c5dd-4c4a-a92b-1bd626a39caa"
+      },
+      "squuid": "6059f883-81d6-4860-b39e-4c9c8e7f9265",
+      "state": "active"
+    }
+  ],
+  "city": "Weimar",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

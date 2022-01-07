@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Solingen",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-13d6-40e5-94f3-ca7fb63935df",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 14.3,
+      "held": {
+        "name": "Lokalfunk Remscheid-Solingen Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-7792-448c-8fae-b97e99f0b6b3"
+      },
+      "squuid": "5be1a6b7-eb3b-4ae3-bccb-662114777b3b",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

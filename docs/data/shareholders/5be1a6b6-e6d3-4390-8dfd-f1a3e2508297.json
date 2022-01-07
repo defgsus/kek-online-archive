@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Saarbrücken",
+  "pseudoCompany": false,
+  "street": "Richard-Wagner-Str.",
+  "name": "Europäische Rundfunk- und Fernseh GmbH Europe 1",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e6d3-4390-8dfd-f1a3e2508297",
+  "controlDate": "2021-02-17T16:24:41.144Z",
+  "streetNumber": "58-60",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "66111",
+  "credits": "LMS",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.185,
+      "holder": {
+        "name": "Saarländischer Rundfunk (SR)",
+        "squuid": "5be1a6b6-6f9b-48bd-b68d-8175bc57fb68"
+      },
+      "squuid": "5be1a6b8-28c5-41f3-828b-8ef47563da47",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 99.815,
+      "holder": {
+        "name": "Lagardere Active Broadcast SAM",
+        "squuid": "5be1a6b6-0fe9-4804-acb5-e86cfb359dde"
+      },
+      "squuid": "5be1a6b8-8386-4d72-b0f4-ad5be4f3553a",
+      "state": "active"
+    }
+  ]
+}

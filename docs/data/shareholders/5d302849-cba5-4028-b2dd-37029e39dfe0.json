@@ -1,0 +1,31 @@
+{
+  "name": "Streubesitz an der Freunde der Eintracht Frankfurt AG",
+  "pseudoCompany": true,
+  "squuid": "5d302849-cba5-4028-b2dd-37029e39dfe0",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "Freunde der Eintracht Frankfurt AG",
+        "squuid": "5d3026a6-513d-4806-af22-41994926142c"
+      },
+      "squuid": "5d302a1a-f331-414d-9c94-c03230a77e8e",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

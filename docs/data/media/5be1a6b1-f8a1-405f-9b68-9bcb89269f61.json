@@ -1,0 +1,81 @@
+{
+  "rfRepresentative": "Christian Opitz",
+  "state": "active",
+  "sharesInfo": "KEK 1084",
+  "rfShoppingChannel": false,
+  "rfStartDate": "09.02.2015",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-f8a1-405f-9b68-9bcb89269f61",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.drf-tv.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "GT Medien GmbH",
+        "squuid": "5be1a6b6-58b8-4a65-8b14-5449b8fdc44f"
+      },
+      "squuid": "5be1a6b9-d6a2-464d-ab35-2a872b957b20",
+      "state": "active"
+    }
+  ],
+  "name": "DRF1",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-5d06-4b68-96e4-33a2746127f9",
+    "name": "Spartenprogramm (Nachrichten)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+    "name": "LMK",
+    "type": "organization",
+    "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+  },
+  "description": "Spartenprogramm mit Nachrichten und Beiträgen zum regionalen Geschehen aus allen Teilen Deutschlands",
+  "rfLicenseUntil": "unbefristet",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "12.03.2014",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.04.2014",
+  "accessibilityEmail": "info@drf-tv.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

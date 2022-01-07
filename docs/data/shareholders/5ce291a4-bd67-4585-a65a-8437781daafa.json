@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Neuer Wall",
+  "name": "Conservare Communication GmbH",
+  "naturalPerson": false,
+  "squuid": "5ce291a4-bd67-4585-a65a-8437781daafa",
+  "controlDate": "2020-05-19T09:56:24.314Z",
+  "streetNumber": "80",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "20354",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bendels, David",
+        "squuid": "5ce29213-9a8b-49cb-93f4-bc923de37d3e"
+      },
+      "squuid": "5ce29264-f347-4507-bc7f-baab5215d44e",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.95,
+      "held": {
+        "name": "freenet AG",
+        "squuid": "5be1a6b6-a84d-4be4-a38a-701020554b5d"
+      },
+      "squuid": "5be1a6b8-600c-40e0-8957-756254ec2ca8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "United Internet AG",
+        "squuid": "5be1a6b6-31a4-4dcb-803b-bd766012a357"
+      },
+      "squuid": "5c3dfcf4-ea45-4af6-a40f-589368680256",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Ottoplatz",
+  "name": "Flossbach von Storch AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4618-4c7b-aa9c-0a77b0211f54",
+  "controlDate": "2021-12-07T15:37:10.732Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50679",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Flossbach, Bert",
+        "squuid": "5be1a6b6-f0b3-489d-8676-c6c29c732d5b"
+      },
+      "squuid": "5be1a6b8-ef86-40d9-b9ef-80a602d78a17",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "von Storch, Kurt",
+        "squuid": "5be1a6b6-fa9d-48d4-b9e0-c539e1ceeae8"
+      },
+      "squuid": "5be1a6b8-e244-4b5a-bed3-1f2b1a016c40",
+      "state": "active"
+    }
+  ]
+}

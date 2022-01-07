@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Altstädter Twiete",
+  "name": "Hinz&Kunzt gemeinnützige Verlags- und Vertriebs GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b6ba-4844-a3d4-0a3c3e6dc4a5",
+  "controlDate": "2021-10-25T12:39:11.351Z",
+  "streetNumber": "1-5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20095",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hinz & Kunzt Das Hamburger Strassenmagazin",
+        "squuid": "5be1a6b1-993b-4d49-9439-d00c54a19cce"
+      },
+      "squuid": "5be1a6b9-9b20-4a28-ab27-fd49d2f277d5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hinzundkunzt.de",
+        "squuid": "5be1a6b1-7ce3-4e08-ba28-a2845434e0dc"
+      },
+      "squuid": "5be1a6b9-b38c-42a2-92bf-010ce863d214",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 66.7,
+      "holder": {
+        "name": "Diakonisches Werk Hamburg - Landesverband der inneren Mission e. V.",
+        "squuid": "5be1a6b6-3af4-4a05-8d29-6f3968620ce9"
+      },
+      "squuid": "5be1a6b8-177d-4430-a2f6-63e42bb6ed5f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Hamburger Gesellschaft zur Beförderung der Künste und nützlichen Gewerbe (Patriotische Gesellschaft von 1765) e. V.",
+        "squuid": "5be1a6b6-db2c-48c4-829f-d90dec725143"
+      },
+      "squuid": "5be1a6b8-9bd5-41b9-85d1-44fea9f6436e",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "state": "active",
+  "city": "Grünwald",
+  "pseudoCompany": false,
+  "street": "Lil-Dagover-Ring",
+  "name": "RTL2 Fernsehen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-96eb-452c-bca6-8f2175218285",
+  "controlDate": "2022-01-04T11:44:17.453Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82031",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "RTL ZWEI",
+        "squuid": "5be1a6b1-620c-44f6-bfe3-39f70ae465bf"
+      },
+      "squuid": "5be1a6b9-d633-426d-adf6-67af1aaa33b2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rtl2.de",
+        "squuid": "5c5034dc-c2c0-460b-bbe2-fc7d0ab5b6cb"
+      },
+      "squuid": "5c503547-f700-430a-9dd4-bd38a293f5df",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 09./19.01.2018; Az: KEK 943",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 27.3,
+      "holder": {
+        "name": "CLT-UFA S.A.",
+        "squuid": "5be1a6b6-f5bf-477e-81eb-7e13fe0744b1"
+      },
+      "squuid": "5be1a6b7-af10-4fef-af77-b0c916b24b40",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.6,
+      "holder": {
+        "name": "UFA Film und Fernseh GmbH",
+        "squuid": "5be1a6b6-f28f-4a5c-ade9-5d5645c0cd41"
+      },
+      "squuid": "5be1a6b7-ce8c-4eec-bfb0-fb0c71f5641e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.1,
+      "holder": {
+        "name": "Burda GmbH",
+        "squuid": "5be1a6b6-b032-4c21-b688-486e01ca11bd"
+      },
+      "squuid": "5be1a6b7-00b5-4d8b-8ebb-7f0c66c189dd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.5,
+      "holder": {
+        "name": "Tele-München Fernseh-GmbH & Co. Medienbeteiligung KG",
+        "squuid": "5be1a6b6-efb3-4041-a7bf-e2906ed42f23"
+      },
+      "squuid": "5be1a6b7-55f9-430e-9cd3-ca83ade67857",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.5,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "5be1a6b7-220c-4e9e-bc7d-36de3f12a51a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "RTL2 Fernsehen Geschäftsführungs GmbH",
+        "squuid": "5f0327d5-3543-412e-87c3-4950ad8d3835"
+      },
+      "squuid": "5f03282b-65ce-429c-b4c5-d74c1d5cbe5a",
+      "state": "active"
+    }
+  ]
+}

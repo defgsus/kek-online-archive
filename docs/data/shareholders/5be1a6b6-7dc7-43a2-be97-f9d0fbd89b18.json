@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Ferdinand-Braun-Platz 1 ",
+  "name": "Vodafone GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7dc7-43a2-be97-f9d0fbd89b18",
+  "controlDate": "2021-11-25T15:56:27.414Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40549",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.arcor.de",
+        "squuid": "5be1a6b1-6033-4065-a516-fd4b6c939098"
+      },
+      "squuid": "5be1a6b9-53a5-4f6d-904c-cff6e16c0251",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Vodafone Investments Luxembourg S. a. r. L.",
+        "squuid": "5be1a6b6-b453-4c5d-af72-e9d1161937ee"
+      },
+      "squuid": "5be1a6b8-5d55-4200-88d2-d78a6b420fae",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Vodafone International 2 Limited",
+        "squuid": "5be1a6b6-c3c8-404f-99ac-b69b1a311e6d"
+      },
+      "squuid": "5be1a6b8-b962-499c-bafa-4bc7b0240fb6",
+      "state": "active"
+    }
+  ]
+}

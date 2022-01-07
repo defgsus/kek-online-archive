@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berbisdorf",
+  "pseudoCompany": false,
+  "street": "Anbaustraße",
+  "name": "Kabelbetriebsgesellschaft Berbisdorf Harald Prendel & Jürgen Groba GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3624-43f4-8807-7502ad13bdec",
+  "streetNumber": "69",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01471",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Antenne Berbisdorf",
+        "squuid": "5be1a6b1-3822-494f-ab67-83059025064d"
+      },
+      "squuid": "5be1a6b9-b276-4631-b1f7-aa219c272990",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Predel, Harald",
+        "squuid": "5be1a6b6-697b-49e4-a9ae-a20a40ef538b"
+      },
+      "squuid": "5e4fa31b-f3c4-4320-a793-2884b33bd295",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Groba, Jürgen",
+        "squuid": "5be1a6b6-4e49-4faa-8692-23f546328998"
+      },
+      "squuid": "5e4fa326-d806-4e89-b002-1a08bb9a3117",
+      "state": "active"
+    }
+  ]
+}

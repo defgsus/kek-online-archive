@@ -1,0 +1,92 @@
+{
+  "state": "active",
+  "city": "Herne",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Berliner Platz",
+  "name": "Betriebsgesellschaft Radio Herne mbH & Co. KG",
+  "naturalPerson": false,
+  "co": "Westfunk  GmbH & Co. KG",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d4bf-48c0-a998-2cd684cd00cd",
+  "controlDate": "2021-12-22T14:00:20.804Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "44623",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "90.8 Radio Herne",
+        "squuid": "5be1a6b1-c878-4e91-835e-af775c502b0f"
+      },
+      "squuid": "5be1a6b9-f47c-47f9-8ecc-11189935b725",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioherne.de",
+        "squuid": "5f16ba9c-0ecf-467e-8bda-dd8c529fa391"
+      },
+      "squuid": "5f16c03b-7f2c-4fb5-aeac-3bc653205de8",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5be1a6b8-50a5-4269-880c-bc538df41752",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 9.14,
+      "holder": {
+        "name": "Vermögensverwaltungsgesellschaft für Versorgung und Verkehr der Stadt Herne mbH (VVH)",
+        "squuid": "5be1a6b6-a8a1-4172-8d2b-34afd698ec3b"
+      },
+      "squuid": "5be1a6b8-6332-4ed2-a58d-504f4a731098",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.86,
+      "holder": {
+        "name": "MFS-Holding GmbH",
+        "squuid": "5be1a6b6-9b6b-4afc-a511-ecba36539dc2"
+      },
+      "squuid": "5c408fdf-95d3-40bd-89cf-d67fefdeb76d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Herne mbH",
+        "squuid": "5f16c0a9-ac99-433e-b422-aeaf9372d103"
+      },
+      "squuid": "5f16c104-ce4a-4406-84f2-82e116fd79c1",
+      "state": "active"
+    }
+  ]
+}

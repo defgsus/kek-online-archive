@@ -1,0 +1,32 @@
+{
+  "name": "Flüchtlingsrat Hamburg",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-3ac3-4493-957a-77fa3f21e9e3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "Anbieterinnengemeinschaft im FSK e.V.",
+        "squuid": "5be1a6b6-a187-4786-a8ff-5d8544e98062"
+      },
+      "squuid": "5be1a6b7-f934-4579-9224-598f7e9ba99c",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

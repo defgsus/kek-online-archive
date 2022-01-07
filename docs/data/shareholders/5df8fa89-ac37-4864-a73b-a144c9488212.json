@@ -1,0 +1,59 @@
+{
+  "name": "Bauer, Thomas",
+  "pseudoCompany": false,
+  "squuid": "5df8fa89-ac37-4864-a73b-a144c9488212",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Pressehaus Bintz Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-8a85-4051-ab8c-3b6710166754"
+      },
+      "squuid": "5ec3d83c-efbc-44c5-99a6-1ef2515847c6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 96.0,
+      "held": {
+        "name": "Bauer Rundfunkbeteiligungen GmbH & Co. KG",
+        "squuid": "5ef60686-1490-4621-bdfb-848921efb9db"
+      },
+      "squuid": "5f081f1b-2c9a-4774-af49-36d9cc5541c7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Bauer Verwaltung GmbH",
+        "squuid": "5f081ec4-87c8-4d37-a7b7-f787bf95eb91"
+      },
+      "squuid": "5f0eb485-0df9-476f-8cd9-61d972e317c4",
+      "state": "active"
+    }
+  ],
+  "city": "Hanau",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

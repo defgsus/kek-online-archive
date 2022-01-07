@@ -1,0 +1,58 @@
+{
+  "state": "active",
+  "city": "Kulmbach",
+  "pseudoCompany": false,
+  "street": "Am Eulenhof",
+  "name": "Aktionär TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7af7-4ca4-b521-a5ddf4ee1a16",
+  "otherMediaActivities": "Bernd Förtsch hält auch 96,5 % der Anteile der Börsenmedien AG, die das wöchentlich erscheinende Börsenmagazin „Der Aktionär“ verlegt und weitere Verlagsbeteiligungen hält.",
+  "controlDate": "2021-12-02T16:57:24.655Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "95326",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "DER AKTIONÄR TV",
+        "squuid": "5be1a6b1-4e80-4158-aebc-ce7c87b92e31"
+      },
+      "squuid": "5be1a6b9-ad74-4d42-87f4-6337a8295b40",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deraktionaer.tv",
+        "squuid": "5f7b2a1f-384a-4883-9021-8e2e76c8a0c1"
+      },
+      "squuid": "5f7b2aff-242f-4dfa-a44f-2eae50ed4e5b",
+      "state": "active"
+    }
+  ],
+  "credits": "Mitteilung der Aktionär TV GmbH vom 10.10.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Förtsch, Bernd",
+        "squuid": "5be1a6b6-2db7-4801-90ab-1b7079668251"
+      },
+      "squuid": "5be1a6b7-f10d-4f5b-8d90-694c98782500",
+      "state": "active"
+    }
+  ]
+}

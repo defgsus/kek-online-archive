@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Domstr. 20",
+  "name": "REWE-Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b9c0-487b-8083-5168201bcbac",
+  "controlDate": "2021-10-27T15:16:30.249Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50668",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Laviva",
+        "squuid": "5be1a6b1-62f0-4977-a615-ea6561dc2c42"
+      },
+      "squuid": "5be1a6b9-648b-4151-af87-fa7753a2d22f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.laviva.com",
+        "squuid": "5be1a6b1-7709-4f51-8052-89bccf2ff215"
+      },
+      "squuid": "5be1a6b9-88c9-4d36-b61b-5b837c5740e9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "REWE-Zentral-Aktiengesellschaft",
+        "squuid": "5be1a6b6-d030-4d4a-af2f-1567f868f1a3"
+      },
+      "squuid": "5be1a6b8-ba9b-4da3-b0b4-83a9fe68087d",
+      "state": "active"
+    }
+  ]
+}

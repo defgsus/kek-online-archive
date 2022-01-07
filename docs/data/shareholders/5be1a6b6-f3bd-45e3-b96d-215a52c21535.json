@@ -1,0 +1,107 @@
+{
+  "state": "active",
+  "city": "München",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Paul-Heyse-Straße",
+  "name": "Radio Arabella Studiobetriebsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f3bd-45e3-b96d-215a52c21535",
+  "controlDate": "2021-12-21T14:32:37.584Z",
+  "streetNumber": "2 - 4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "80336",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Arabella",
+        "squuid": "5be1a6b1-ac16-4aa3-a8ef-9ae1f56daa8b"
+      },
+      "squuid": "5be1a6b9-219f-4518-9f9c-536a083925e7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Arabella Kult",
+        "squuid": "5cee7b77-696b-458b-a6cf-186862826ab0"
+      },
+      "squuid": "5cee7ba9-db79-4c86-a172-5ae50618318d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioarabella.de",
+        "squuid": "5f9192fe-0400-46f0-88af-ab7672c64855"
+      },
+      "squuid": "5f919360-3265-4a8c-8554-3ce286df3ef5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.arabella-bayern.de",
+        "squuid": "5f919331-b46c-489f-aeeb-71e28efbe145"
+      },
+      "squuid": "5f9193ab-0bb6-46e3-93c3-0d35ecf3528c",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 42.5,
+      "holder": {
+        "name": "Radio M1 Rundfunkbetriebsgesellschaft mbH",
+        "squuid": "5be1a6b6-092d-4584-9a84-0485b244ae95"
+      },
+      "squuid": "5be1a6b7-906a-4925-8cb9-e9ff0dbba6b0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 34.94,
+      "holder": {
+        "name": "Münchener Zeitungs-Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1"
+      },
+      "squuid": "5be1a6b7-5b79-466b-a717-29167a88fadd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.56,
+      "holder": {
+        "name": "Burda GmbH",
+        "squuid": "5be1a6b6-b032-4c21-b688-486e01ca11bd"
+      },
+      "squuid": "5cd3f330-34b5-4413-b2b2-ed23540b2c1f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "HeronMedia Werbegesellschaft m.b.H.",
+        "squuid": "5be1a6b6-4f89-4dd8-a451-4c346bf4b9fa"
+      },
+      "squuid": "5cd3f400-99b5-41d8-b8a8-32516c385c87",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "rfRepresentative": "Dr. Holger Enßlin, Colin Jones, Devish Raj",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Sandra Singer",
+  "rfStartDate": "16.01.2015",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-b000-45a9-a6aa-3b0b5db56fe9",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.sky.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Sky Deutschland Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-e031-4e07-9571-aaad6a3c2478"
+      },
+      "squuid": "5be1a6b9-92d4-4c41-af3a-62872989f39c",
+      "state": "active"
+    }
+  ],
+  "name": "Sky.de",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Berichterstattung über ausgewählte Sportereignisse im frei empfangbaren Livestream auf sky.de",
+  "rfLicenseUntil": "unbefristet",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "13.03.2015",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "accessibilityEmail": "impressum@sky.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

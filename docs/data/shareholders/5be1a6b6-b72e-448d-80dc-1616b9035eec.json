@@ -1,0 +1,137 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.1,
+      "held": {
+        "name": "bigFM in Baden-Württemberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-0cb0-4656-a563-63f5d6610352"
+      },
+      "squuid": "5be1a6b7-9727-43d2-ab43-b44adf4a3f02",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.6,
+      "held": {
+        "name": "Privatradio Landeswelle Mecklenburg-Vorpommern GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-9833-4570-b744-205c3026cdf5"
+      },
+      "squuid": "5be1a6b7-d3dc-4821-b7cd-bf31d0f78352",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "M.O.R.E. Lokalfunk Baden-Württemberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-b593-4d54-b4af-940456ef3a1e"
+      },
+      "squuid": "5c8a300d-c852-4750-ab52-efd9231f2548",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "held": {
+        "name": "Privatradio Landeswelle Mecklenburg-Vorpommern Verwaltungs GmbH",
+        "squuid": "5f1adbd6-7f08-4236-97e6-7c624a13795c"
+      },
+      "squuid": "5f228dc4-0f31-4e1c-869e-f161ae6ef628",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "M.O.R.E. Lokalfunk Baden-Württemberg Verwaltungs-GmbH",
+        "squuid": "5f3e5dbf-77f7-4b35-9d44-29ce2169f7de"
+      },
+      "squuid": "5ff45771-68f1-4eb4-bf30-d07ffa050f3a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Offenburg",
+  "pseudoCompany": false,
+  "street": "Hauptstraße",
+  "name": "Burda Broadcast Media Baden-Württemberg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-b72e-448d-80dc-1616b9035eec",
+  "controlDate": "2021-11-30T17:04:43.344Z",
+  "streetNumber": "130",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "77652",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Burda Broadcast Media GmbH & Co. KG",
+        "squuid": "5be1a6b6-36c9-4097-9471-8ac9ef5c6024"
+      },
+      "squuid": "5c8a30ad-9a1b-4842-a746-94b860c6885d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Burda Broadcast Verwaltungs GmbH ",
+        "squuid": "5ef20cb9-7551-4f6b-97de-79acb0e31f5c"
+      },
+      "squuid": "5ef20cd7-af08-4fe7-ad04-f29a2b79c008",
+      "state": "active"
+    }
+  ]
+}

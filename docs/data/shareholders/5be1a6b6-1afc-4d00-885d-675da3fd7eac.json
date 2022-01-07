@@ -1,0 +1,58 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Am Coloneum",
+  "name": "sporttotal.tv GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1afc-4d00-885d-675da3fd7eac",
+  "controlDate": "2022-01-06T11:22:56.858Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50829",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "#dabeiTV",
+        "squuid": "5be1a6b1-916c-4ee7-9fac-8bb791c3ce86"
+      },
+      "squuid": "5be1a6b9-1082-4155-885b-c496ae8eff12",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sporttotal.tv",
+        "squuid": "5f159131-ed35-4b62-8e96-d2db7a7bf152"
+      },
+      "squuid": "5f159189-0553-40ee-97a4-a06992be8ad1",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 13.02.2018, Az.: KEK 948",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "SPORTTOTAL AG",
+        "squuid": "5be1a6b6-584d-477e-b42b-4c094067a69f"
+      },
+      "squuid": "5be1a6b8-8d1a-4a33-8d8e-e9b413a118a2",
+      "state": "active"
+    }
+  ]
+}

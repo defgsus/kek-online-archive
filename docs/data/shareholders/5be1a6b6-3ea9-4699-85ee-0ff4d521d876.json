@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Burchhardtstr. 11",
+  "name": "Bauer Automotive KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-3ea9-4699-85ee-0ff4d521d876",
+  "controlDate": "2021-01-19T16:31:38.078Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20095",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Auto Zeitung",
+        "squuid": "5be1a6b1-18af-4d85-97fd-100bd732f072"
+      },
+      "squuid": "5be1a6b9-4973-4944-86be-b5a756ddf171",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Auto Zeitung classic cars",
+        "squuid": "5be1a6b1-832a-4102-b3e9-fb2868eca5bb"
+      },
+      "squuid": "5be1a6b9-b143-4be7-bdb1-d8f041d93dcb",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "5be1a6b8-1170-4c66-a5d5-7c2b615354a2",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bauer Komplementär KG",
+        "squuid": "5eaffda5-a775-4f8a-9124-c01ded28585e"
+      },
+      "squuid": "5eb52e3a-69ee-450b-91fe-61a5b6775c11",
+      "state": "active"
+    }
+  ]
+}

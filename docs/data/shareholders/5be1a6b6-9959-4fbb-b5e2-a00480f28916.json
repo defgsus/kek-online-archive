@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Mohrenstr.",
+  "name": "Haus & Grund Deutschland Verlag und Service GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9959-4fbb-b5e2-a00480f28916",
+  "controlDate": "2021-10-22T14:24:13.785Z",
+  "streetNumber": "33",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Haus & Grund",
+        "squuid": "5be1a6b1-b9a4-4d75-a502-25c78f8b1e19"
+      },
+      "squuid": "5be1a6b9-3be5-4f9e-8a66-d79e2577d8c9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Haus & Grund Deutschland - Zentralverband der Deutschen Haus-, Wohnungs- und Grundeigentümer e.V.",
+        "squuid": "5be1a6b6-bf0f-4d39-80d8-e8375ead266a"
+      },
+      "squuid": "5be1a6b8-e6b3-4f15-b42d-abf29244259b",
+      "state": "active"
+    }
+  ]
+}

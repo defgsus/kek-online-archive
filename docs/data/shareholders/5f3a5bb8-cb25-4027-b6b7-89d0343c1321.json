@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Wiesbaden",
+  "pseudoCompany": false,
+  "street": "Unter den Eichen",
+  "name": "RheinWelle 92,5 e. V.",
+  "naturalPerson": false,
+  "squuid": "5f3a5bb8-cb25-4027-b6b7-89d0343c1321",
+  "controlDate": "2020-08-17T10:29:16.466Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "65195",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-rheinwelle.de",
+        "squuid": "5f3a5b9e-5d89-4ece-a78b-faac69c5aa6c"
+      },
+      "squuid": "5f3a5bdf-87a1-4375-bcbc-9457f2a7a4ff",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio RheinWelle 92,5",
+        "squuid": "5f6466ca-a24c-4333-8a42-6bf32cf3435b"
+      },
+      "squuid": "5f6467c0-4ea2-476f-b73f-922ff2e1794e",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "state": "active",
+  "city": "Wesel",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Poppelbaumstr.",
+  "name": "Betriebsgesellschaft Radio Wesel mbH & Co. KG",
+  "naturalPerson": false,
+  "co": "Westfunk  GmbH & Co. KG",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-6701-41f7-a384-bacd516bbd26",
+  "controlDate": "2021-12-22T15:04:50.880Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "46483",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio K.W.",
+        "squuid": "5be1a6b1-9b70-4cf0-9329-e922f97a7c28"
+      },
+      "squuid": "5be1a6b9-b0d3-43c6-87b1-0b3cdda9d02a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiokw.de",
+        "squuid": "5f10382f-de77-4987-823b-7cbdc9c839ec"
+      },
+      "squuid": "5f103863-0fb9-4bd4-aeb7-0fe08fe37f09",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Verleger-Holding Radio Wesel GmbH & Co. KG",
+        "squuid": "5be1a6b6-5366-4d90-a196-1e0aaa483cd2"
+      },
+      "squuid": "5be1a6b7-f01e-4d10-b9df-1eb1d42a6358",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.09,
+      "holder": {
+        "name": "Kreis Wesel",
+        "squuid": "5be1a6b6-7607-4ea5-8b0a-2c5a667bd275"
+      },
+      "squuid": "5be1a6b7-9ffd-4b6f-a052-61eb1c133a80",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.02,
+      "holder": {
+        "name": "Stadt Kamp-Lintfort",
+        "squuid": "5be1a6b6-91b6-40aa-b1f9-10365bf30c38"
+      },
+      "squuid": "5be1a6b7-75aa-4326-9f2e-1b97dea42710",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.14,
+      "holder": {
+        "name": "Stadt Moers",
+        "squuid": "5be1a6b6-16cc-47a7-b569-02a1f47976c8"
+      },
+      "squuid": "5be1a6b7-dfcd-419e-8865-802072eb5492",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.01,
+      "holder": {
+        "name": "Stadt Neukirchen-Vluyn",
+        "squuid": "5be1a6b6-6e96-4186-a380-04229c06a341"
+      },
+      "squuid": "5be1a6b7-a08e-4a64-98ab-5f2dff9fdee8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.01,
+      "holder": {
+        "name": "Stadt Rheinberg",
+        "squuid": "5be1a6b6-ad7a-4e5e-982d-d323f7b5eb5d"
+      },
+      "squuid": "5be1a6b7-ffae-4c7c-86c5-26493ee50c69",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.73,
+      "holder": {
+        "name": "MFS-Holding GmbH",
+        "squuid": "5be1a6b6-9b6b-4afc-a511-ecba36539dc2"
+      },
+      "squuid": "5c408b94-df82-407a-9208-2de7b0eb1a64",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Wesel mbH",
+        "squuid": "5f1038dc-5c51-49f3-b631-9139b503cad0"
+      },
+      "squuid": "5f1039aa-2389-4412-ae05-a9ebf63f7772",
+      "state": "active"
+    }
+  ]
+}

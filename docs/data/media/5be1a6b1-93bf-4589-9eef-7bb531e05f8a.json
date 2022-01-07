@@ -1,0 +1,93 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "01.04.1992",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-93bf-4589-9eef-7bb531e05f8a",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.dw.com",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Deutsche Welle (DW)",
+        "squuid": "5be1a6b6-409c-4052-9864-be1a712dd512"
+      },
+      "squuid": "5be1a6b9-60f6-4d09-84b6-71f9d072cd3a",
+      "state": "active"
+    }
+  ],
+  "name": "DW (Deutsche Welle)",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": true,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "rfDirector": "Peter Limbourg",
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+    "name": "Spartenprogramm (Information/Dokumentation)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "description": "DW (Deutsche Welle) ist ein staatlicher deutscher Auslandsfernsehsender der Deutschen Welle. Zu den inhaltlichen Schwerpunkten des Programms gehören Nachrichten, Information, Kultur und Bildung. Die Deutsche Welle (DW) ist weltweit mit 6 Fernsehkanälen in den Sprachen Deutsch, Englisch, Spanisch und Arabisch präsent.",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-31b3-4da1-94f0-3f3fa687a473",
+      "name": "Eutelsat S.A.",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "accessibilityEmail": "info@dw.com",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

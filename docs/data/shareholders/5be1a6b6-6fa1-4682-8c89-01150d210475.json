@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Schönhauser Allee",
+  "name": "Krautreporter eG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6fa1-4682-8c89-01150d210475",
+  "controlDate": "2021-12-10T14:48:19.960Z",
+  "streetNumber": "36",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10435",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.krautreporter.de",
+        "squuid": "5be1a6b1-51ec-4154-a145-31f3fadd14d3"
+      },
+      "squuid": "5be1a6b9-7f9b-4a57-8caa-4dbb4fa627f6",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

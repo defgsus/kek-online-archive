@@ -1,0 +1,33 @@
+{
+  "state": "active",
+  "city": "Passau",
+  "pseudoCompany": false,
+  "street": "Medienstr.",
+  "name": "Donau-Wald-Presse GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-bc3b-4360-986c-211a004cefdf",
+  "controlDate": "2020-01-07T15:23:08.106Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "94032",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Passauer Neue Presse GmbH",
+        "squuid": "5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
+      },
+      "squuid": "5be1a6b8-97f1-408c-9392-f6159e790a1a",
+      "state": "active"
+    }
+  ]
+}

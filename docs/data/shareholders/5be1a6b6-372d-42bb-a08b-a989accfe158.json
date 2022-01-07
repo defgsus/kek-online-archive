@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Karl-Wiechert-Allee",
+  "name": "Maker Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-372d-42bb-a08b-a989accfe158",
+  "controlDate": "2021-10-29T12:27:56.851Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30625",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Make:",
+        "squuid": "5be1a6b1-637c-4879-a4ac-b2be9a91247e"
+      },
+      "squuid": "5be1a6b9-6a22-4458-85f8-d6383cddf93a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heise Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-dea3-4150-8ba6-7e255764afee"
+      },
+      "squuid": "5be1a6b8-7dba-4749-a9ad-d02ad499f8b7",
+      "state": "active"
+    }
+  ]
+}

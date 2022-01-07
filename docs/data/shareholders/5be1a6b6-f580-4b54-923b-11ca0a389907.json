@@ -1,0 +1,169 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Sächsisches Gemeinschaftsprogramm GmbH & Co. KG",
+        "squuid": "5be1a6b6-1eb4-45d8-931a-789e8b934ea5"
+      },
+      "squuid": "5be1a6b7-8f56-4e60-aeca-e24b16442917",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Sächsisches Gemeinschaftsprogramm Geschäftsführungs GmbH",
+        "squuid": "5f8d842b-1398-4b2e-91c6-d7b0c55775e2"
+      },
+      "squuid": "5f900698-62bd-4862-8ad5-67a706508958",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dresden",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Ammonstraße",
+  "name": "BCS Broadcast Sachsen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-f580-4b54-923b-11ca0a389907",
+  "controlDate": "2021-11-25T15:17:00.998Z",
+  "streetNumber": "35",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01067",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Leipzig 2",
+        "squuid": "5be1a6b1-ada3-4b10-961d-8b0211720c4d"
+      },
+      "squuid": "5be1a6b9-6014-4cd9-a44d-4bb0f572e985",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "BCS-TV",
+        "squuid": "5d0b705b-3358-4b36-a4c0-269afa036ed4"
+      },
+      "squuid": "5d0b723b-1ba6-4d2d-86a0-3d2373528991",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hitradio-rtl.de",
+        "squuid": "5f9149c4-03a3-4d19-82a0-d2ca370ac15d"
+      },
+      "squuid": "5f914ae3-8af1-4af5-bd7d-c2d488f50849",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiochemnitz.de",
+        "squuid": "5f92990e-635f-42d6-b1b6-a87d33dfe7d1"
+      },
+      "squuid": "5f92995e-04e5-4c94-8204-2badc95edf64",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiodresden.de",
+        "squuid": "5f929aaf-e23d-43c0-822b-323f903be029"
+      },
+      "squuid": "5f929af3-3d5e-4842-8fc7-00507f066c57",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioleipzig.de",
+        "squuid": "5f92d690-12e2-4d6e-acfa-e3a308660de0"
+      },
+      "squuid": "5f92d73b-8177-4bc9-a342-3a1f6853838a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiozwickau.de",
+        "squuid": "5f96c103-7095-4882-b74d-0b3e79eec2c8"
+      },
+      "squuid": "5f96c14e-b563-4e6a-8d05-adc7e92f0841",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Chemnitz 2",
+        "squuid": "5fa26b6c-8357-41c4-895f-35d3a4a0d9d3"
+      },
+      "squuid": "5fa26c7b-9ca4-4fcd-bbc9-b4b6bc81f041",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "HITRADIO RTL Sachsen GmbH",
+        "squuid": "5be1a6b6-f658-46b1-9195-6a62234756bb"
+      },
+      "squuid": "5be1a6b7-84ea-4949-ac7c-60729f1de3e9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Sächsische Lokalrundfunk-Dienstleistungsprogramm GmbH & Co. Studiobetriebs-KG",
+        "squuid": "5be1a6b6-a548-4307-a76f-9bbb9d92208c"
+      },
+      "squuid": "5be1a6b7-e093-47fe-a17f-541ea72d3dcf",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "BCS Broadcast Sachsen Verwaltungsgesellschaft mbH",
+        "squuid": "5f8d85cb-23e5-48cc-9765-8af33e47a677"
+      },
+      "squuid": "5f8d8635-4c9e-492d-8138-ffa884266278",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Utassy, Tino",
+        "squuid": "5f8d85f0-7fef-4695-8b6d-2d024bf74899"
+      },
+      "squuid": "5f8ffd3f-49d2-4fdc-94b5-b28c24f5eda1",
+      "state": "active"
+    }
+  ]
+}

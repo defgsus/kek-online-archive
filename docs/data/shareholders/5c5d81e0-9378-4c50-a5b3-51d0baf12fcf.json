@@ -1,0 +1,85 @@
+{
+  "state": "active",
+  "city": "Prenzlau",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Grabowstr.",
+  "name": "Uckermark - TV GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5c5d81e0-9378-4c50-a5b3-51d0baf12fcf",
+  "controlDate": "2022-01-07T11:33:09.794Z",
+  "streetNumber": "15 a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "17291",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "UM.tv - Fernsehen aus Uckermark und Mecklenburg-Vorpommern (mabb)",
+        "squuid": "5c5d8590-a800-40c7-8b22-9a495b5cb49b"
+      },
+      "squuid": "5c5d87ba-c78a-4957-948d-313ce12cded9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.um-tv.de",
+        "squuid": "5f2030b1-7e45-4d3e-a5d3-2575d1063e12"
+      },
+      "squuid": "5f2030e5-ea7f-41b8-a44d-4c2a05657e64",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "UM.tv - Fernsehen aus Uckermark und Mecklenburg-Vorpommern (Mecklenburg-Vorpommern)",
+        "squuid": "60ec45b0-97c0-4066-82c3-72fd130b1a55"
+      },
+      "squuid": "60ec4724-1117-4d94-9a23-a442a514183c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Uckermark - TV Verwaltungs GmbH",
+        "squuid": "5f2031e5-20a9-4d7a-a3bf-530289ac2597"
+      },
+      "squuid": "5f20321d-ea23-4cae-a83d-d06f8f8420c2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nordkurier TV und Studio GmbH & Co. KG",
+        "squuid": "5c5d8479-0913-4dd0-af8b-b2425336454f"
+      },
+      "squuid": "61518759-caa1-48e2-bc5b-1baaef428914",
+      "state": "active"
+    }
+  ]
+}

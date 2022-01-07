@@ -1,0 +1,99 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "Lokalfunk für den Kreis Borken GmbH & Co. KG",
+        "squuid": "5be1a6b6-4527-4ef2-9ab7-0f9cd59a6f29"
+      },
+      "squuid": "5be1a6b7-c311-4c37-9223-c1fa865480e3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "Lokalfunk Betriebsgesellschaft für den Kreis Borken mbH",
+        "squuid": "5f118afc-d5a0-4761-9da5-833f45c9344e"
+      },
+      "squuid": "6001607b-0ddf-4fa5-ba63-fc32657853dd",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Borken",
+  "pseudoCompany": false,
+  "street": "Ostlandstr.",
+  "name": "Stadtwerke Borken/Westf. GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4d99-439e-90aa-033d22bce542",
+  "controlDate": "2022-01-03T12:15:52.526Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "46325",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 96.71,
+      "holder": {
+        "name": "Stadt Borken",
+        "squuid": "5f118ceb-3328-4386-9a97-eef79808bddd"
+      },
+      "squuid": "5ff5c9dc-1615-428e-ac3c-1b969fb36390",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.52,
+      "holder": {
+        "name": "Gemeinde Heiden",
+        "squuid": "5f118d50-9b3f-4074-b915-57e113af826b"
+      },
+      "squuid": "5ff5c9fd-5e9e-44cf-8f58-dab2fdf53338",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.78,
+      "holder": {
+        "name": "Gemeinde Raesfeld",
+        "squuid": "5f118d31-9021-47a2-8cbb-2e21271d70ad"
+      },
+      "squuid": "5ff5ca15-ae50-41e5-aca6-da51a7d04cea",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.93,
+      "holder": {
+        "name": "Stadt Velen",
+        "squuid": "5f118d18-469c-42f9-9d2a-509b70058983"
+      },
+      "squuid": "5ff5ca2a-b4e6-46e1-9f65-624d0345e4eb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.06,
+      "holder": {
+        "name": "Gemeinde Reken",
+        "squuid": "5f118d45-43b3-4495-bee5-6eacf7e21f28"
+      },
+      "squuid": "5ff5ca40-d1a8-424e-abb2-83f24db94fb6",
+      "state": "active"
+    }
+  ]
+}

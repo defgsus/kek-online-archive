@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "London (GB)",
+  "pseudoCompany": false,
+  "name": "Telegraph Media Group Ltd.",
+  "naturalPerson": false,
+  "squuid": "5d2d9fe2-0af2-434e-89bb-90055ca1b8dc",
+  "controlDate": "2022-01-06T15:30:54.321Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.telegraph.co.uk",
+        "squuid": "5d2d9fc2-860f-4afd-a4c5-fd45c89172e0"
+      },
+      "squuid": "5d2da0a5-47c4-4d85-942b-62683dbac9f4",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Press Acquisitions Ltd.",
+        "squuid": "5d2da03f-a05a-4b02-9821-ec379e855ce8"
+      },
+      "squuid": "5d2da0fc-a455-45da-a652-381cd02d5d04",
+      "state": "active"
+    }
+  ]
+}

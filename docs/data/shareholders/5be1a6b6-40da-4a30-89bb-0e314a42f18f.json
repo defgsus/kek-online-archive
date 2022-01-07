@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Hardenbergstraße",
+  "name": "Radio NRJ Berlin und Brandenburg GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-40da-4a30-89bb-0e314a42f18f",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "10623",
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Radio NRJ GmbH",
+        "squuid": "5be1a6b6-fbf8-4b3a-b83b-552f26cc61a6"
+      },
+      "squuid": "5be1a6b7-b05d-4722-a888-3e3925270829",
+      "state": "active"
+    }
+  ]
+}

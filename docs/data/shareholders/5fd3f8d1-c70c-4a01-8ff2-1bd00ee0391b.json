@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Oldenburg",
+  "note": "KEK 1051",
+  "pseudoCompany": false,
+  "street": "Maastrichter Str.",
+  "name": "Baskets Oldenburg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5fd3f8d1-c70c-4a01-8ff2-1bd00ee0391b",
+  "streetNumber": "33",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "26123",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "EWE Baskets eSports",
+        "squuid": "5fd3f8a1-2193-4843-8df0-ac39baf5834e"
+      },
+      "squuid": "5fd3fa9d-0f2e-401f-ae82-e989984a3153",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.78,
+      "holder": {
+        "name": "Schüller, Hermann",
+        "squuid": "5fd3f910-1363-409a-bc50-5db18ed5bd68"
+      },
+      "squuid": "5fd3fb2d-6fb9-48e8-a2dd-813903723daf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.22,
+      "holder": {
+        "name": "Wandscher, Peter",
+        "squuid": "5fd3f8f3-8a55-48c9-914d-cf655294963b"
+      },
+      "squuid": "5fd3fb51-4cd3-4f27-9b90-b629c707bef1",
+      "state": "active"
+    }
+  ]
+}

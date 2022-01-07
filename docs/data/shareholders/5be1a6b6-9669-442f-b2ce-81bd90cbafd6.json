@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Am Studio 20a",
+  "name": "MeteoGroup Deutschland GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9669-442f-b2ce-81bd90cbafd6",
+  "controlDate": "2022-01-07T14:25:18.265Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "12489",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wetter24.de",
+        "squuid": "5be1a6b1-f4ec-4803-b60f-c1d73a9424f3"
+      },
+      "squuid": "5be1a6b9-f0b6-4131-b049-5177d1c42357",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "MeteoGroup German HoldCo GmbH",
+        "squuid": "5be1a6b6-3cb1-42f5-80ef-c5e32eebc211"
+      },
+      "squuid": "5be1a6b8-daf4-452a-907b-8b75d0074406",
+      "state": "active"
+    }
+  ]
+}

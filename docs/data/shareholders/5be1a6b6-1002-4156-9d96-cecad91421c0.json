@@ -1,0 +1,82 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 85.5,
+      "held": {
+        "name": "Lokalfunk Krefeld-Viersen GmbH & Co. KG",
+        "squuid": "5be1a6b6-9fa4-4094-842a-06d50f2d23d3"
+      },
+      "squuid": "5be1a6b7-73f1-4c09-9ce4-6783aa9ed6e3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Pressefunk Krefeld-Viersen Beteiligungsgesellschaft mbH",
+        "squuid": "5f0f1114-15ea-4c16-b09b-87f269d38607"
+      },
+      "squuid": "60016417-5fc9-41cf-94da-07938223e2ae",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Krefeld",
+  "pseudoCompany": false,
+  "street": "Rheinstr.",
+  "name": "Pressefunk Krefeld-Viersen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1002-4156-9d96-cecad91421c0",
+  "controlDate": "2022-01-07T13:57:19.305Z",
+  "streetNumber": "76",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "47799",
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 43.0,
+      "holder": {
+        "name": "PFD Pressefunk GmbH",
+        "squuid": "5be1a6b6-761b-43ab-b113-3d2fb927889c"
+      },
+      "squuid": "5be1a6b8-e001-436b-b866-50ae3a714c61",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 57.0,
+      "holder": {
+        "name": "Westdeutsche Zeitung GmbH & Co KG",
+        "squuid": "5be1a6b6-415d-4a70-8991-2d894c374633"
+      },
+      "squuid": "5f0f11b8-1dbb-4bbe-9a28-c09f98604f19",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Pressefunk Krefeld-Viersen Beteiligungsgesellschaft mbH",
+        "squuid": "5f0f1114-15ea-4c16-b09b-87f269d38607"
+      },
+      "squuid": "5ff5bd2a-d46b-47e2-9802-311f63d18843",
+      "state": "active"
+    }
+  ]
+}

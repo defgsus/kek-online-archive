@@ -1,0 +1,92 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Motorstr.",
+  "name": "Matthaes Medien GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-b445-47a0-91b5-7d4da4b5c0bf",
+  "controlDate": "2021-11-09T10:27:36.536Z",
+  "streetNumber": "38",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70499",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Reiterjournal",
+        "squuid": "5be1a6b1-42c8-4cbc-b484-0fa39c7d92c7"
+      },
+      "squuid": "5be1a6b9-51d4-41af-9eab-abd4879689a8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.reiterjournal.com",
+        "squuid": "5be1a6b1-adf6-4e1d-a175-d4405ed22099"
+      },
+      "squuid": "5be1a6b9-6db2-4bf4-bac5-7feaf2aa0292",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bayerns Pferde Zucht und Sport",
+        "squuid": "5be1a6b1-ea98-40c5-afec-b19b61546ff0"
+      },
+      "squuid": "6017d445-5413-43a5-b733-401d1e7b116c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bayernspferde.de",
+        "squuid": "5be1a6b1-788a-4e2f-b976-1d51b6352126"
+      },
+      "squuid": "6017d49e-d496-4065-a22b-b7d57df6324c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Matthaes, Hugo",
+        "squuid": "5be1a6b6-a9a4-449f-96b7-129e934b0eb4"
+      },
+      "squuid": "5be1a6b8-c186-4791-bd38-a28f7ddbee32",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Matthaes, Doris",
+        "squuid": "5be1a6b6-06f4-4260-8e26-94f2d794c09f"
+      },
+      "squuid": "5be1a6b8-3af1-4cb4-b252-1a116683aa3c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Fachverlag GmbH",
+        "squuid": "60192ac8-42d0-4acf-8346-582da6aa1453"
+      },
+      "squuid": "60192b4d-4c6b-49f7-b940-4449ced23d71",
+      "state": "active"
+    }
+  ]
+}

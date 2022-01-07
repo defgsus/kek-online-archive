@@ -1,0 +1,74 @@
+{
+  "rfRepresentative": "Markus Wilmsmann",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Harald Rau",
+  "rfStartDate": "01.02.2018",
+  "rfFreePay": true,
+  "squuid": "5c52cfff-8561-4804-b552-541d5c090ee8",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.mothergrid.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Wilmsmann, Markus",
+        "squuid": "5c52cfed-ed9c-499c-b8f9-ba9efedc0b56"
+      },
+      "squuid": "5c52d24b-8a68-46c8-8c60-1431ed382bd1",
+      "state": "active"
+    }
+  ],
+  "name": "mothergrid.de",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "description": "Livestream-Angebot zum Themenbereich Veranstaltungstechnik",
+  "rfLicenseUntil": "31.01.2028",
+  "rfLicensed": "26.02.2018",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.02.2018",
+  "accessibilityEmail": "markus.wilmsmann@mothergrid.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

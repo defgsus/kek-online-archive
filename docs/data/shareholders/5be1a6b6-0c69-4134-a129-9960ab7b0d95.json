@@ -1,0 +1,56 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Finkenau",
+  "name": "Pink Channel e.V.",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-0c69-4134-a129-9960ab7b0d95",
+  "streetNumber": "35",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "22081",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Pink Channel",
+        "squuid": "5be1a6b1-e3d1-4d44-823c-cc69522a2a57"
+      },
+      "squuid": "5be1a6b9-019a-40c2-a3c4-abfe1d7bdd47",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pinkchannel.net",
+        "squuid": "5f1aa820-61a1-4ddf-93b9-573971cbeb1d"
+      },
+      "squuid": "5f1aa854-d40f-42c7-97e0-efb89fa67b76",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "holder": {
+        "name": "Größere Zahl natürlicher Personen als Vereinsmitglieder bzw. Fördermitglieder",
+        "squuid": "5be1a6b6-9bf7-4769-a8cf-b324484a7492"
+      },
+      "squuid": "5be1a6b7-f9cd-488d-8de5-a4036330ca4e",
+      "state": "active"
+    }
+  ]
+}

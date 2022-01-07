@@ -1,0 +1,78 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "RNO Beteiligungsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-7d50-4024-8318-9596b56628f6"
+      },
+      "squuid": "5f97ffae-7935-4881-98ff-288e1e42d393",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Dudenstr.",
+  "name": "RNO-Beteiligungs Geschäftsführungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5ef20b87-f253-408a-a21e-6bc5d9c88be6",
+  "controlDate": "2021-11-30T17:03:54.664Z",
+  "streetNumber": "12-16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "68167",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "MOIRA Rundfunk GmbH",
+        "squuid": "5be1a6b6-cb90-4250-ad44-4516a6493f9a"
+      },
+      "squuid": "5fac1242-2790-420d-894c-9e14f7960e6c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "LR Lokal-Regionalfunk GmbH",
+        "squuid": "5be1a6b6-4f61-418f-9ce9-6dc269e05d51"
+      },
+      "squuid": "5fac124e-07ed-4478-892d-f9d4390a32f4",
+      "state": "active"
+    }
+  ]
+}

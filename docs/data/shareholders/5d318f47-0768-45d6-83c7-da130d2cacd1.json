@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "Seattle (US)",
+  "pseudoCompany": false,
+  "name": "IMDb.com Inc.",
+  "naturalPerson": false,
+  "squuid": "5d318f47-0768-45d6-83c7-da130d2cacd1",
+  "controlDate": "2021-12-09T15:59:57.463Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.imdb.com",
+        "squuid": "5d318f2d-8e2c-4f4f-94b5-02a6636f776a"
+      },
+      "squuid": "5d318f75-ca70-4f87-9d47-f9ee73e32785",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Amazon.com Inc.",
+        "squuid": "5d319090-c6fe-423b-a279-4006f21612ad"
+      },
+      "squuid": "5d3190ba-eb9f-455e-885b-5c6b0c56560a",
+      "state": "active"
+    }
+  ]
+}

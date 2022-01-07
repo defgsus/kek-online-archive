@@ -1,0 +1,92 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Sächsisches Gemeinschaftsprogramm GmbH & Co. KG",
+        "squuid": "5be1a6b6-1eb4-45d8-931a-789e8b934ea5"
+      },
+      "squuid": "5be1a6b7-22f0-4402-a67d-8491111dd3b9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Anbietergemeinschaft Radio Oberwiesenthal",
+        "squuid": "5be1a6b6-94f9-4618-a9ba-4343db5cb07e"
+      },
+      "squuid": "5be1a6b7-ed3d-4db7-ba7a-c0213323377f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Sächsisches Gemeinschaftsprogramm Geschäftsführungs GmbH",
+        "squuid": "5f8d842b-1398-4b2e-91c6-d7b0c55775e2"
+      },
+      "squuid": "5f9006c7-1fe3-4e66-9f20-2d4256d3729e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leipzig",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Thomasgasse",
+  "name": "LFS Landesfunk Sachsen GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b740-46cb-9e6b-2bde3d68f29c",
+  "controlDate": "2021-11-25T15:43:34.757Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04109",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "R.SA ",
+        "squuid": "5be1a6b1-3166-43d1-b084-4a6ae6c82ae8"
+      },
+      "squuid": "5be1a6b9-e712-4f68-8dda-ea146637e0c3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rsa-sachsen.de",
+        "squuid": "5f9187da-600c-4521-845e-423b8bc6d722"
+      },
+      "squuid": "5f91888f-08d9-458d-a158-8500977274b7",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Privater Sächsischer Rundfunk GmbH",
+        "squuid": "5be1a6b6-50ef-423a-95a7-bda039a4ac95"
+      },
+      "squuid": "5be1a6b7-e052-4e36-9b47-bf7a6eab82a9",
+      "state": "active"
+    }
+  ]
+}

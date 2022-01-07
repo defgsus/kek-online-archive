@@ -1,0 +1,74 @@
+{
+  "state": "active",
+  "city": "Oberkirch",
+  "pseudoCompany": false,
+  "street": "Josef-Geldreich-Str. 2",
+  "name": "Acher-Rench-Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-6fcf-4c74-a219-e52d26bf8caa",
+  "controlDate": "2021-01-15T13:58:29.824Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "77704",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Acher-Rench-Zeitung",
+        "squuid": "5be1a6b1-cd6c-476b-b458-c96f2b33a8af"
+      },
+      "squuid": "5be1a6b9-f3ec-416c-9304-20e804bb3961",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.7,
+      "holder": {
+        "name": "A. Reiff & Cie. GmbH & Co. KG",
+        "squuid": "5be1a6b6-3544-4546-8b8c-5420e439f6e5"
+      },
+      "squuid": "5be1a6b8-4841-4f9f-b488-dfef9162aea4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Badisches Tagblatt GmbH",
+        "squuid": "5be1a6b6-0086-4f07-b772-f3dac2342c2c"
+      },
+      "squuid": "5be1a6b8-1ebc-49be-ad18-2919d62abeca",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "August Sturn Buchdruckerei, Verlag der Acher-Rench-Zeitung, Oberkirch/Baden KG",
+        "squuid": "5be1a6b6-3316-4a22-8cb9-f635f55dea40"
+      },
+      "squuid": "5be1a6b8-f285-4f28-b2ed-5719908e8fe3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Verwaltungsgesellschaft Acher-Rench-Verlag mbH",
+        "squuid": "5eaadd29-94c8-4058-a75f-54cc9ad7d42e"
+      },
+      "squuid": "5eaadd6a-1977-4cf3-961e-a7ea0dd6d557",
+      "state": "active"
+    }
+  ]
+}

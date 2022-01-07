@@ -1,0 +1,119 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Kasernenstr. 67",
+  "name": "Handelsblatt GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f62c-4b11-ac45-b9fab6580c3a",
+  "controlDate": "2021-10-22T13:18:32.920Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40213",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "WiWo-Lunchtalk",
+        "squuid": "5be1a6b1-6f78-4b2a-8468-215fa4923e69"
+      },
+      "squuid": "5be1a6b9-e172-4d7b-8d6c-c3cc52426ac9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "WirtschaftsWoche",
+        "squuid": "5be1a6b1-43fd-4893-8069-02ec936b3a69"
+      },
+      "squuid": "5be1a6b9-abe4-4765-bf63-18af163fc8aa",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Handelsblatt",
+        "squuid": "5be1a6b1-a18b-43d0-be77-3935e98d3361"
+      },
+      "squuid": "5be1a6b9-8cf7-4f8d-a6ff-625197d8dc0a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.handelsblatt.com",
+        "squuid": "5be1a6b1-0e5c-4de5-9133-a692a89e7648"
+      },
+      "squuid": "5be1a6b9-d252-492e-a046-baf96710b2b4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wiwo.de",
+        "squuid": "5be1a6b1-08b1-4689-8387-299aef8fd21f"
+      },
+      "squuid": "5be1a6b9-7f1b-4343-b6be-91535e7c0b97",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Edison",
+        "squuid": "5be1a6b1-4b25-4fd2-987d-b6d13b9411a7"
+      },
+      "squuid": "5be1a6b9-815d-4f59-847d-297c904df197",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.edison.handelsblatt.com",
+        "squuid": "5be1a6b1-18a6-48c6-91bd-2a7e1961b266"
+      },
+      "squuid": "5be1a6b9-59c7-4553-a80b-c0200962739c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "ada",
+        "squuid": "5be968ba-8324-4c67-8f19-ec6e98f521ff"
+      },
+      "squuid": "5be97564-08a0-40ee-b32d-cd1bcb609413",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.orange.handelsblatt.com",
+        "squuid": "5c61a82f-a004-4c85-9bc4-07f8b9d92c79"
+      },
+      "squuid": "5c61a84d-4d21-4064-b9be-b4d00c883653",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Handelsblatt Media Group GmbH & Co. KG",
+        "squuid": "5be1a6b6-c822-4c39-b59a-d10c1fd9268d"
+      },
+      "squuid": "5be1a6b7-dfda-4400-837b-c5ba375245ff",
+      "state": "active"
+    }
+  ]
+}

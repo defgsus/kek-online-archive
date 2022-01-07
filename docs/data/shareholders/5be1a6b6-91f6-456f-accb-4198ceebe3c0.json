@@ -1,0 +1,139 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "IMMO-ESTREL Grundbesitzverwaltungsgesellschaft mbH",
+        "squuid": "5be1a6b6-cff0-4b8a-b23b-769e535008cc"
+      },
+      "squuid": "5be1a6b7-3638-463c-a56c-2bb0433f5d22",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "held": {
+        "name": "Filmpark Babelsberg GmbH",
+        "squuid": "5be1a6b6-a76c-4a73-a403-16840a732d37"
+      },
+      "squuid": "5e85fb63-7cc8-4953-a65f-dde84a800cd8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "SARAMARTEL Handels- und Beteiligungsgesellschaft mbH",
+        "squuid": "5f1ea8fd-50d4-40ec-bb2f-f5f59cd04a4b"
+      },
+      "squuid": "60548d3c-03ee-4257-9909-630095c5a7d9",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Köpenicker Str.",
+  "name": "SARAMARTEL Handels- und Beteiligungsgesellschaft GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-91f6-456f-accb-4198ceebe3c0",
+  "controlDate": "2022-01-03T11:06:00.474Z",
+  "streetNumber": "125",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+      "name": "brema",
+      "type": "organization",
+      "fullName": "Bremische Landesmedienanstalt"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "10179",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SARAMARTEL Handels- und Beteiligungsgesellschaft mbH",
+        "squuid": "5f1ea8fd-50d4-40ec-bb2f-f5f59cd04a4b"
+      },
+      "squuid": "5f1ea972-e399-4b84-baf4-0dd67d00425c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Streletzki, Ekkehard",
+        "squuid": "5f1ea938-37ae-41f2-841a-d23dc242fbf8"
+      },
+      "squuid": "5f1ea98b-bd4d-4e5c-aa49-d03f29238a3b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Streletzki, Julian",
+        "squuid": "5f1ea947-f030-487a-8e5f-9cfa32fdc430"
+      },
+      "squuid": "5f1ea99f-0637-4f41-86b2-7a74f108c612",
+      "state": "active"
+    }
+  ]
+}

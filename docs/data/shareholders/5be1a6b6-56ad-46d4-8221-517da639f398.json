@@ -1,0 +1,104 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Medienhaus Südwest GmbH & Co. KG",
+        "squuid": "611a29be-20ab-4a5e-a86b-ef5f24460dda"
+      },
+      "squuid": "611a2b16-e80c-43d8-9ee4-88f4af96d7eb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Medienhaus Südwest Verwaltungs-GmbH",
+        "squuid": "611a2a6a-1cd6-4581-af9e-c2f913aa7453"
+      },
+      "squuid": "611a2be2-fe28-488e-9cd4-dfa8fe034b0b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Freiburg",
+  "note": "Stand: 11/2021",
+  "pseudoCompany": false,
+  "street": "Munzingerstraße",
+  "name": "Funkhaus Freiburg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-56ad-46d4-8221-517da639f398",
+  "controlDate": "2021-11-25T17:43:04.905Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "79111",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "baden.fm",
+        "squuid": "5be1a6b1-819c-4eb8-9f11-6a5d811dce7e"
+      },
+      "squuid": "5be1a6b9-8488-42cd-bc1d-d4f4c59a861f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.baden.fm",
+        "squuid": "5eeb6a7b-79e7-4deb-b15e-f5eee07b4866"
+      },
+      "squuid": "5eeb6abe-66f5-4c0f-9029-39a6cfe73155",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Funkhaus Freiburg Verwaltungs GmbH",
+        "squuid": "5eeb6b61-69f5-4e21-be9c-60e7f02b84ac"
+      },
+      "squuid": "5eeb72d9-dcc0-44ad-b628-7da835ce1698",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SR Broadcast Management GmbH & Co. KG",
+        "squuid": "5eeb6bb9-7b98-4b92-9235-53f76ae93224"
+      },
+      "squuid": "5eeb72e8-de92-4660-a71e-6e863b369f9f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG",
+        "squuid": "5efef438-7c82-454e-beb9-493d1f5ec407"
+      },
+      "squuid": "5ff43b0f-0004-4a11-9c8e-23691858f5b3",
+      "state": "active"
+    }
+  ]
+}

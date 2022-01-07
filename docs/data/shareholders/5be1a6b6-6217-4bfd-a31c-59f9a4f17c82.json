@@ -1,0 +1,92 @@
+{
+  "state": "active",
+  "city": "Essen",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Jakob-Funke-Platz",
+  "name": "Betriebsgesellschaft Radio Ennepe-Ruhr-Kreis mbH & Co. KG",
+  "naturalPerson": false,
+  "co": "Westfunk  GmbH & Co. KG",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-6217-4bfd-a31c-59f9a4f17c82",
+  "controlDate": "2021-12-21T17:28:26.398Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "45127",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Ennepe Ruhr",
+        "squuid": "5be1a6b1-e93c-4982-8d6a-ca4014457369"
+      },
+      "squuid": "5be1a6b9-52ba-4a90-9287-2557088ccbad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioenneperuhr.de",
+        "squuid": "5f15a055-a525-405e-a63f-57be6bd2e176"
+      },
+      "squuid": "5f15a0a2-016e-4730-95f7-a4012e46f30e",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5be1a6b8-260a-4131-8711-fd57c54b3eee",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.04,
+      "holder": {
+        "name": "Ennepe-Ruhr-Kreis",
+        "squuid": "5be1a6b6-d6f3-4d79-a877-39019e15155a"
+      },
+      "squuid": "5be1a6b8-34ed-4d01-a2f5-395136785bab",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.96,
+      "holder": {
+        "name": "MFS-Holding GmbH",
+        "squuid": "5be1a6b6-9b6b-4afc-a511-ecba36539dc2"
+      },
+      "squuid": "5c408447-a8be-46e0-82a8-63c021c4fe0b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Ennepe-Ruhr-Kreis mbH",
+        "squuid": "5f15a1ff-642a-4223-89fc-6b829fd023a3"
+      },
+      "squuid": "5f15a23b-0eb7-451b-9453-ba5cdb1b0a19",
+      "state": "active"
+    }
+  ]
+}

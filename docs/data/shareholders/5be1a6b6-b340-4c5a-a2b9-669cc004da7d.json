@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Donauwörth",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Artur-Proeller-Straße",
+  "name": "Anbietergemeinschaft Radio Nordschwaben GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b340-4c5a-a2b9-669cc004da7d",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86609",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "hitradio.rt1 nordschwaben oHG",
+        "squuid": "5be1a6b1-97d2-40a1-99d7-4e43ac49a794"
+      },
+      "squuid": "5be1a6b9-9b44-416e-9422-5c96a5bb38e2",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 37.0,
+      "holder": {
+        "name": "Sankt Ulrich Verlag GmbH",
+        "squuid": "5be1a6b6-cac1-420a-b40c-87452e0ab6f4"
+      },
+      "squuid": "5be1a6b7-8459-424c-a4ed-abe4bde2d6dc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 63.0,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5be1a6b7-fa7e-4d96-bf8d-7fd4dc4838ae",
+      "state": "active"
+    }
+  ]
+}

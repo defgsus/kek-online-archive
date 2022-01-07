@@ -1,0 +1,81 @@
+{
+  "rfRepresentative": "Hans-Peter Schreiber; Stephan Tzeuschner",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "24.02.2005",
+  "squuid": "5be1a6b1-ac33-4c1b-ae63-9ae30af102f5",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "accessibilityUrl": "https://www.lausitzwelle.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SGS Rundfunkgesellschaft mbH",
+        "squuid": "5be1a6b6-d37e-4bc1-afed-a58e7e365862"
+      },
+      "squuid": "5be1a6b9-8898-4abf-9f86-87f21a1cde93",
+      "state": "active"
+    }
+  ],
+  "name": "Lausitzwelle (Brandenburg)",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfCategory": {
+    "squuid": "5be1a6ad-063c-4208-94e1-5216fef7a724",
+    "name": "Vollprogramm",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "",
+  "rfLicenseUntil": " 31.08.2023",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "14.06.2016",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d7a7-4bd8-a6c4-89a1eb1c79a0",
+      "name": "Lokale Kabelnetze (veraltet)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.09.2016",
+  "rfAddress": "Schulstraße 15, 02977 Hoyerswerda",
+  "accessibilityEmail": "info@lausitzwelle.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Bad Waldsee",
+  "pseudoCompany": false,
+  "name": "Schwäbische Zeitung Bad Waldsee GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1588-4a45-b5a3-815302733af6",
+  "controlDate": "2021-11-11T14:32:22.274Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "88339",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwäbische Zeitung (Ausgabe Bad Waldsee)",
+        "squuid": "5be1a6b1-a4c9-4584-b473-1a2dd2309506"
+      },
+      "squuid": "5be1a6b9-3d6d-472a-b5f3-831443163644",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-cb76-4159-b0bb-a11faabd2428",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbische Zeitung Bad Waldsee Verwaltungs-GmbH",
+        "squuid": "5ee9bb06-9926-4d9a-854c-ec7e964aaadc"
+      },
+      "squuid": "5ee9bb2e-d1b7-4dff-a83d-f216bb2812b9",
+      "state": "active"
+    }
+  ]
+}

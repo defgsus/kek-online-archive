@@ -1,0 +1,68 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.96,
+      "held": {
+        "name": "DWS Beteiligungs GmbH",
+        "squuid": "5efaedaf-47bf-4056-a1ef-77a33e63fff0"
+      },
+      "squuid": "5f02ddb6-fcdb-4e2e-8e4b-80901013cf63",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Wilhelm-Leuschner-Str.",
+  "name": "Deutsche Vermögensberatung AG ",
+  "naturalPerson": false,
+  "squuid": "5f02dd72-8c1b-4faa-a1b0-236f43af03f4",
+  "controlDate": "2021-12-07T11:43:28.246Z",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60329",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Deutsche Vermögensberatung Holding GmbH",
+        "squuid": "5f102067-9197-4ded-9a36-8a0556e5b3fb"
+      },
+      "squuid": "5f1020cd-56dd-4d30-822c-899a67d9e612",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Generali Deutschland AG",
+        "squuid": "5f102089-b03b-4673-a001-637e4b4bafad"
+      },
+      "squuid": "5f1020e0-585b-4e34-8c25-cb229a06f3b2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Streubesitz an der Deutschen Vermögensberatung AG",
+        "squuid": "5f10209f-226c-46e9-8717-878dc906add6"
+      },
+      "squuid": "5f1020fb-ca79-48e6-b35a-cabcb162f506",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MTV Networks Verwaltungs GmbH",
+        "squuid": "5be1a6b6-7a0b-4d54-a5be-f361128aa0d6"
+      },
+      "squuid": "5be1a6b7-622f-429e-ad68-c214b431cda2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Viacom VHENO GmbH",
+        "squuid": "5be1a6b6-217c-4465-a0bb-dccd63dc33cd"
+      },
+      "squuid": "5be1a6b7-c2ee-4a4b-a86a-58ae8a1c5521",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Amsterdam/Niederlande",
+  "pseudoCompany": false,
+  "name": "Viacom Global (Netherlands) B.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f583-4ee5-87c3-f91626b54712",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Viacom Overseas Holdings C.V.",
+        "squuid": "5be1a6b6-14c7-4556-8365-c7db456bd3c2"
+      },
+      "squuid": "5be1a6b7-3979-4611-b4dc-b94bd93bb2ec",
+      "state": "active"
+    }
+  ]
+}

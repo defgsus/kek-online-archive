@@ -1,0 +1,143 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "Pressefunk Nordrhein-Westfalen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8c11-4526-af08-275ec93dea8b"
+      },
+      "squuid": "5ef5c615-36eb-4840-8eae-272c56ea47be",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "RBR Rundfunkbeteiligungsgesellschaft Bonn/Rhein-Sieg GmbH & Co. KG",
+        "squuid": "5be1a6b6-1b16-44eb-a53d-81d7f8581e9d"
+      },
+      "squuid": "5f1066a5-aa28-419d-b5bf-8529a8df4ae4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.75,
+      "held": {
+        "name": "Radio rur GmbH & Co. KG",
+        "squuid": "5be1a6b6-1d3f-4dd8-977e-8312deedd377"
+      },
+      "squuid": "5f11928c-a668-4d82-813c-5c9539c625f9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.51,
+      "held": {
+        "name": "Rheinland-Pfälzische Rundfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-6bb7-4199-8b08-f060dbb3b080"
+      },
+      "squuid": "60585c86-cd72-4996-bddd-4e57cd432e83",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.82,
+      "held": {
+        "name": "OMS-Online Marketing Service GmbH & Co. KG",
+        "squuid": "6082ac61-e251-4ed7-b875-a96ae933da5b"
+      },
+      "squuid": "6086a63f-06c4-41bb-b7b6-d409092e0560",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Justus-von-Liebig-Str.",
+  "name": "General-Anzeiger Bonn GmbH",
+  "naturalPerson": false,
+  "squuid": "5df8d245-a28a-4a77-8e51-8e4f9582e2b7",
+  "controlDate": "2021-10-18T13:22:40.709Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "53121",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "General-Anzeiger (Bonn)",
+        "squuid": "5be1a6b1-8a12-419b-837b-a17fb9c1275d"
+      },
+      "squuid": "5df8d264-0b0b-45a1-bed0-9ee3b1db59c7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.general-anzeiger-bonn.de",
+        "squuid": "5be1a6b1-0f63-4416-a513-73ff24850b1e"
+      },
+      "squuid": "5df8d299-c563-4ff3-8757-25da30d2d4d0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Eigenbesitz der General-Anzeiger Bonn GmbH",
+        "squuid": "5df8d375-b4ca-4914-a1ad-63f9e2351dfb"
+      },
+      "squuid": "5df8d3e1-7c85-4d2b-9c64-bc018d7a28e8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Rheinische Post Mediengruppe GmbH",
+        "squuid": "5be1a6b6-25ea-44da-8834-b9ab2a407a4d"
+      },
+      "squuid": "5df8d3f8-90cd-46a9-a604-92ac45724461",
+      "state": "active"
+    }
+  ]
+}

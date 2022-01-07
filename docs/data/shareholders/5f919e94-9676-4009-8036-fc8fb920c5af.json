@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Radio Aktuelle Welle GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-f68d-49c4-8ee5-4264e52fbef5"
+      },
+      "squuid": "5fa12bc2-ba9e-464a-8a18-a6df24b90c01",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Straubing",
+  "pseudoCompany": false,
+  "street": "Landshuter Str.",
+  "name": "Radio Aktuelle Welle Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f919e94-9676-4009-8036-fc8fb920c5af",
+  "controlDate": "2021-12-21T14:59:18.795Z",
+  "streetNumber": "93",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "94315",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "Radio AWN Straubing GmbH & Co. Hörfunk KG",
+        "squuid": "5be1a6b6-805c-446e-86e9-b73cddf22859"
+      },
+      "squuid": "5fa515d9-46d7-46a3-9e0a-29dc90e7e2b3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Neue Welle - Antenne Straubing, Hörfunk- und Fernsehprogrammanbieter GmbH",
+        "squuid": "5be1a6b6-6441-40ee-a8a0-ffe647cabd5c"
+      },
+      "squuid": "5fa51607-ab3b-4ee7-adf3-8f3698506521",
+      "state": "active"
+    }
+  ]
+}

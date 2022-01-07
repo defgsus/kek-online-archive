@@ -1,0 +1,114 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Schaumburger Nachrichten Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-dcd3-43cd-a54b-d0dcfb426248"
+      },
+      "squuid": "5be1a6b8-d947-4a8a-b01c-cd2af69aa5eb",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Rinteln",
+  "pseudoCompany": false,
+  "street": "Klosterstr. 32",
+  "name": "C. Bösendahl GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-acf0-4fd6-be71-53b996b6faed",
+  "controlDate": "2021-11-10T14:46:54.070Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "31737",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schaumburger Zeitung",
+        "squuid": "5be1a6b1-a4df-4f41-b54c-b25fb7f74c63"
+      },
+      "squuid": "5be1a6b9-c641-405d-bf2f-908ae7330f09",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schaumburg-Lippische Landes-Zeitung",
+        "squuid": "5be1a6b1-d3ba-4b3b-aec8-426f9bb0b14f"
+      },
+      "squuid": "5be1a6b9-ced8-4f94-943b-44e399dbac54",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.szlz.de",
+        "squuid": "5be1a6b1-123c-4d48-b4a0-7a5cf8735e61"
+      },
+      "squuid": "5be1a6b9-8d32-49fa-874a-3b35513ef8f5",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 52.0,
+      "holder": {
+        "name": "C.W. Niemeyer GmbH & Co KG",
+        "squuid": "5be1a6b6-36e5-4fe5-a0fd-c0448be5c392"
+      },
+      "squuid": "5be1a6b8-2303-4d92-9099-eb2851469e22",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.0,
+      "holder": {
+        "name": "Niemeyer, Günther",
+        "squuid": "5be1a6b6-1845-45be-a23b-d332feb0356b"
+      },
+      "squuid": "5be1a6b8-6cf7-4da7-a1d0-46982d55f06b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.0,
+      "holder": {
+        "name": "Niemeyer, Hans",
+        "squuid": "5be1a6b6-9b50-481b-befb-dd898304b7d2"
+      },
+      "squuid": "5be1a6b8-6736-4f49-85f5-9bdbca6f9c24",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Schaumburger Nachrichten Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-dcd3-43cd-a54b-d0dcfb426248"
+      },
+      "squuid": "5be1a6b8-14e6-4880-90b6-75d2e8ba27ab",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Gebrüder Niemeyer GmbH",
+        "squuid": "5ee3573b-f622-45cd-9ca0-f297b1829af5"
+      },
+      "squuid": "5ee35755-9984-421f-9fe4-3eb0a315b810",
+      "state": "active"
+    }
+  ]
+}

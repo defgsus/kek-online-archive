@@ -1,0 +1,79 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "held": {
+        "name": "Mainstream Media AG",
+        "squuid": "5be1a6b6-e7d4-42fd-aacd-37234b231d29"
+      },
+      "squuid": "5be1a6b7-1ec4-480f-87a9-715640b0dc4b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 28.57,
+      "held": {
+        "name": "Romance TV GmbH & Co. KG",
+        "squuid": "5be1a6b6-658c-4241-a43f-5e61332526c2"
+      },
+      "squuid": "5be1a6b7-20d0-4958-9986-c70477bacdb2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Liederbach",
+  "pseudoCompany": false,
+  "street": "Höchster Straße",
+  "name": "Merkur Thorhauer GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-80f4-40a1-9801-590a31d82c7b",
+  "controlDate": "2021-12-08T15:45:10.852Z",
+  "streetNumber": "92",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "65835",
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 21.11.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Thorhauer Familienstiftung",
+        "squuid": "5be1a6b6-0f66-4542-a223-445fce47a80e"
+      },
+      "squuid": "5be1a6b7-49de-48b8-b4bc-bd1a585a2a6c",
+      "state": "active",
+      "votingShares": 49.0
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Dieter Thorhauer GmbH",
+        "squuid": "5f19566f-b800-42da-ad05-c2e2e0c754fa"
+      },
+      "squuid": "5f1956a5-c7c9-4cbe-ad57-f50d13f79f81",
+      "state": "active",
+      "votingShares": 51.0
+    }
+  ]
+}

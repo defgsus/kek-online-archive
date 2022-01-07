@@ -1,0 +1,133 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "held": {
+        "name": "VRM Wetzlar GmbH",
+        "squuid": "5be1a6b6-dbe8-4cb4-b3d6-fa7bcfa62e45"
+      },
+      "squuid": "5be1a6b8-ecfd-4a39-913e-ee4a4174ebf7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Verlagsgesellschaft Vogelsberg GmbH & Co KG",
+        "squuid": "5be1a6b6-9624-464c-8723-9ef8152e2ab2"
+      },
+      "squuid": "5be1a6b8-e9f0-40d7-8b1b-a53b62b15c2f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.56,
+      "held": {
+        "name": "dpa Deutsche Presse Agentur GmbH",
+        "squuid": "5be1a6b6-d7c9-45c5-99de-2acb723d2e72"
+      },
+      "squuid": "5c498ebf-084c-4be7-8ccb-144f190f5f1a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Verlagsgesellschaft Vogelsberg Verwaltungsgesellschaft mbH",
+        "squuid": "5eda1def-f5b9-4442-a51c-43bd7ae56b4d"
+      },
+      "squuid": "5eda1e95-ed2c-4a63-9443-b4793cebb46b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Druck- und Pressehaus GmbH",
+        "squuid": "5ec3dd7a-e6be-4fb2-9bf1-4e95f67848b2"
+      },
+      "squuid": "5ef47a22-d195-496e-843f-93fe9c0b233d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gießen",
+  "pseudoCompany": false,
+  "street": "Am Urnenfeld 12",
+  "name": "VRM Mittelhessen GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9c81-4e27-8fd5-9a2ac9fddbdb",
+  "controlDate": "2021-10-18T14:18:06.515Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "35396",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fupa.net/region/mittelhessen",
+        "squuid": "61543209-7ba8-4828-af0e-3b9883ed4ab2"
+      },
+      "squuid": "61543230-7a71-4791-aff9-1f59fa8289b1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 67.0,
+      "holder": {
+        "name": "Gießener Anzeiger Beteiligungs-GmbH & Co KG",
+        "squuid": "5be1a6b6-bedb-4dd4-a384-b046ff26a9d7"
+      },
+      "squuid": "5be1a6b8-c00e-4e06-b191-fc10412aa6c2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.0,
+      "holder": {
+        "name": "Schnitzler Verlags- und Kinne Beteiligungs-GmbH",
+        "squuid": "5be1a6b6-8c30-4a02-ae78-c757180757c2"
+      },
+      "squuid": "5be1a6b8-d44e-4709-98b4-6bc6da96d9e9",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Druck- und Pressehaus GmbH",
+        "squuid": "5ec3dd7a-e6be-4fb2-9bf1-4e95f67848b2"
+      },
+      "squuid": "5ec3dd99-5e3a-4d3a-aec2-b26de8cff98c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kasper-Semmler, Rita",
+        "squuid": "5dee68d7-ddf0-46ac-bd84-8433f905eba3"
+      },
+      "squuid": "5ec3dda7-75db-47bb-b7a9-167ae41adfda",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Bierschenck, Burkhard",
+  "pseudoCompany": false,
+  "squuid": "60bf5601-f1d0-40a3-a2ac-8b2af755cde5",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Verlag Neuer Merkur GmbH ",
+        "squuid": "5d14bf45-433d-4650-a0dc-efd3eab094f4"
+      },
+      "squuid": "60bf58d4-8092-4377-9117-aae98ac5bb4f",
+      "state": "active"
+    }
+  ],
+  "city": "München",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

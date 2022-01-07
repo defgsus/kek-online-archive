@@ -1,0 +1,36 @@
+{
+  "name": "HLEE Finanz S.à.r.l.",
+  "controlDate": "2022-01-05T17:06:48.863Z",
+  "squuid": "5f27cc96-0079-4124-ab9e-c14c4473a51d",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.02,
+      "held": {
+        "name": "Highlight Event and Entertainment AG",
+        "squuid": "5be1a6b6-171e-4701-9f8f-4ecd1db2a89f"
+      },
+      "squuid": "5f27ccca-4bae-4d1a-9023-2b0fd7ddb1bc",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active"
+}

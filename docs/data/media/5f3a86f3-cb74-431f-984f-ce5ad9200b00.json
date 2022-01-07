@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3a86f3-cb74-431f-984f-ce5ad9200b00",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Rhein-Main TV GmbH & Co. KG",
+        "squuid": "5be1a6b6-d6d1-414a-912d-773b2d0ee4f2"
+      },
+      "squuid": "5f3a8740-e1e1-45ab-9398-e8bdd5f405b9",
+      "state": "active"
+    }
+  ],
+  "name": "www.rheinmaintv.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-03T15:56:34.098Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

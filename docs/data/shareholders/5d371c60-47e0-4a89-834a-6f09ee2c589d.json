@@ -1,0 +1,65 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.14,
+      "held": {
+        "name": "Deutsche Eishockey Liga GmbH & Co. KG",
+        "squuid": "5d35c012-33f5-4f80-aaa0-635d0eb504bf"
+      },
+      "squuid": "5d371c8e-d507-4b43-9e17-99bad7722f78",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Die Adler Mannheim Eishockey GmbH",
+        "squuid": "5f06ed3b-c127-4e72-8461-ed17867133cf"
+      },
+      "squuid": "5f06edbe-56fd-43ba-9c97-95a3c0fecae0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "An der Arena ",
+  "name": "DIE ADLER Mannheim Eishockey Spielbetriebs GmbH & Co. KG ",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d371c60-47e0-4a89-834a-6f09ee2c589d",
+  "controlDate": "2021-03-11T17:00:46.842Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "68163",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hopp, Daniel",
+        "squuid": "5d371d5c-ebec-4aeb-9b11-597546d3e320"
+      },
+      "squuid": "5d371d98-d560-4df0-bad7-66d2eb6194cb",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Die Adler Mannheim Eishockey GmbH",
+        "squuid": "5f06ed3b-c127-4e72-8461-ed17867133cf"
+      },
+      "squuid": "5f06ed58-1e56-43fb-86ea-585cd67cfc29",
+      "state": "active"
+    }
+  ]
+}

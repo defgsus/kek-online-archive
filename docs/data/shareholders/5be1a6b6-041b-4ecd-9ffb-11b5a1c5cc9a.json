@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Lyonel-Feininiger-Straße 26",
+  "name": "IDG Tech Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-041b-4ecd-9ffb-11b5a1c5cc9a",
+  "controlDate": "2021-11-08T14:48:09.076Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80807",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "PC Welt",
+        "squuid": "5be1a6b1-e590-43be-b146-b55c2b1e5a8b"
+      },
+      "squuid": "5be1a6b9-be76-4f5a-a4d7-d40359e4c7aa",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pcwelt.de",
+        "squuid": "5be1a6b1-0181-469f-93f3-9e79bc3f2a6a"
+      },
+      "squuid": "5be1a6b9-5918-40bf-9bcd-1525e748a8ac",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.macwelt.de",
+        "squuid": "5be1a6b1-5b62-4f20-a171-0c08211b7641"
+      },
+      "squuid": "5be1a6b9-ca93-42a0-995a-4fa0f88c7f53",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "IDG Communications Media AG",
+        "squuid": "5be1a6b6-c31e-4cfd-b7f0-c5daa53ec42e"
+      },
+      "squuid": "5be1a6b8-cfdd-42ac-9bf2-6e71d82f59ca",
+      "state": "active"
+    }
+  ]
+}

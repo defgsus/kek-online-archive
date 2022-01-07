@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Erding",
+  "pseudoCompany": false,
+  "street": "Nagelschmiedgasse",
+  "name": "Albrecht Shareholding & Consulting GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a690-4bec-98b4-fd2a954412b8",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "85435",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "IMCOM Immobilien & Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-59be-4f6f-9049-4c3f5ed381b5"
+      },
+      "squuid": "5be1a6b7-791a-4331-8705-d10a2885fe6e",
+      "state": "active"
+    }
+  ]
+}

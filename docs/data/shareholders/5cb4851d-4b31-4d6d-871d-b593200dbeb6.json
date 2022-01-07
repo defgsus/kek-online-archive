@@ -1,0 +1,41 @@
+{
+  "name": "Freies BürgerRadio Slubfurt e.V.",
+  "pseudoCompany": false,
+  "squuid": "5cb4851d-4b31-4d6d-871d-b593200dbeb6",
+  "city": "Frankfurt/Oder",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "state": "active",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Slubfurt",
+        "squuid": "5cb485a1-307e-408c-802d-45d7bbe191f8"
+      },
+      "squuid": "5cb48877-12bf-4efc-bf5d-da17910fbada",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-slubfurt.net",
+        "squuid": "5f96bb52-d02d-4649-a242-cdf986db958a"
+      },
+      "squuid": "5f96bbc7-f377-442b-99a2-b93cf300153d",
+      "state": "active"
+    }
+  ],
+  "naturalPerson": false
+}

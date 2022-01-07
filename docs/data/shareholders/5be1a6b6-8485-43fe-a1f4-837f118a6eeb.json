@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Kriegerstraße 40",
+  "name": "yeebase media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8485-43fe-a1f4-837f118a6eeb",
+  "controlDate": "2021-11-16T16:24:00.611Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30161",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.t3n.de",
+        "squuid": "5be1a6b1-c09a-4bfd-8575-0a647759c2b0"
+      },
+      "squuid": "5be1a6b9-3fdc-4e85-8abb-9c7ef990d9a7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "t3n Magazin - digital pioneers",
+        "squuid": "5be1a6b1-bcf7-4605-bd76-2e63995a4067"
+      },
+      "squuid": "5be1a6b9-aeca-4331-9321-9b909e64538b",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "TR3X GmbH",
+        "squuid": "5be1a6b6-43ea-4273-a413-ac10e290446f"
+      },
+      "squuid": "5be1a6b8-eee2-49e7-90b5-c522820d9ae6",
+      "state": "active"
+    }
+  ]
+}

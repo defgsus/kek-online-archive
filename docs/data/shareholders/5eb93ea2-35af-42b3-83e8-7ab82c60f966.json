@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "DuMont Mediengruppe GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1ab-45ed-adc5-5a3dca911ab5"
+      },
+      "squuid": "5eb93eca-0c25-4fca-a3a4-acef411aea2a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Amsterdamer Str.",
+  "name": "DuMont Geschäftsführungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5eb93ea2-35af-42b3-83e8-7ab82c60f966",
+  "controlDate": "2021-10-27T08:21:16.044Z",
+  "streetNumber": "192",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "50735",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Neven DuMont, Isabella",
+        "squuid": "5be1a6b6-351c-4df6-87c8-7ac43baaf472"
+      },
+      "squuid": "5ef1c9a9-5735-4c56-aad9-f48a332e8422",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "DuMont Schütte, Christian",
+        "squuid": "5be1a6b6-7f77-4f7b-975f-a4787e195a69"
+      },
+      "squuid": "5ef1c9b7-f606-4781-997e-aed4eabf1aab",
+      "state": "active"
+    }
+  ]
+}

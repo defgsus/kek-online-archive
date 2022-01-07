@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Hegestr. 40",
+  "name": "VKM Verlagskontor für Medieninhalte GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c1dd-4e40-b132-a5a8d33c3414",
+  "controlDate": "2021-11-16T13:10:35.481Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20251",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Szene Hamburg",
+        "squuid": "5be1a6b1-6b15-4e6b-b1f4-405d43f35314"
+      },
+      "squuid": "5be1a6b9-0ee0-4604-96d2-eb7af085a009",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "hamburg:pur",
+        "squuid": "5be1a6b1-db8a-4c47-9201-d6fe92724479"
+      },
+      "squuid": "5be1a6b9-7ecf-4948-9832-250406f95787",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.szene-hamburg.com",
+        "squuid": "5be1a6b1-2536-44e4-afd7-ebdf8262ed16"
+      },
+      "squuid": "5be1a6b9-ed90-4912-891a-64e41da14285",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Holsteinische Verlagsbeteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-6abe-4363-b7cd-579584470443"
+      },
+      "squuid": "5be1a6b8-59a9-444e-82ea-a07138a161d4",
+      "state": "active"
+    }
+  ]
+}

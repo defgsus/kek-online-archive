@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Kurfürstenstr.",
+  "name": "Radio X-Mix e. V.",
+  "naturalPerson": false,
+  "squuid": "5f3a580d-9729-4725-91ff-cab26e51d8cc",
+  "controlDate": "2020-08-17T10:13:56.279Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "60486",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiox.de",
+        "squuid": "5f3a57e3-4639-4d09-9725-0dab26fa4fef"
+      },
+      "squuid": "5f3a5834-032b-45b2-bad3-1cccc3707bb7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio X",
+        "squuid": "5f646a56-c731-46c8-9338-0098b69567c7"
+      },
+      "squuid": "5f646b6c-7ee6-4293-a8f6-64632e5c115f",
+      "state": "active"
+    }
+  ]
+}

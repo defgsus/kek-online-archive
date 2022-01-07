@@ -1,0 +1,28 @@
+{
+  "state": "active",
+  "city": "Moskau (RU)",
+  "note": "Eigentümerstruktur unbekannt/nicht ermittelbar",
+  "pseudoCompany": false,
+  "name": "Mail.Ru Group",
+  "naturalPerson": false,
+  "squuid": "5d36c697-ad61-41e6-82b1-fd9bde949c4b",
+  "controlDate": "2021-12-13T15:50:02.674Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mail.ru",
+        "squuid": "5d36c67c-4c7c-403e-aa67-30c9c7052bad"
+      },
+      "squuid": "5d36c6b6-00c3-4910-b0c5-1839944cf697",
+      "state": "active"
+    }
+  ]
+}

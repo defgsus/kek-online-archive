@@ -1,0 +1,79 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.01,
+      "held": {
+        "name": "Zeitungsverlag Leonberg GmbH",
+        "squuid": "5be1a6b6-d5b1-41bb-b4f0-34d180db4b29"
+      },
+      "squuid": "5be1a6b8-8981-4e45-b08d-10ea8c820c0c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Beteiligungsgesellschaft Post Stuttgart GmbH & Co. KG",
+        "squuid": "5be1a6b6-9112-4d5c-9a1f-947d938e7760"
+      },
+      "squuid": "5eda2b3a-ee58-4665-be7a-aff635bb218d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Plieninger Str.",
+  "name": "Beteiligungsgesellschaft Post Stuttgart Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-439a-476d-8286-bf6c1622100d",
+  "controlDate": "2021-10-28T09:26:44.930Z",
+  "streetNumber": "150",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70567",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Beteiligungsgesellschaft Post Stuttgart GmbH & Co. KG",
+        "squuid": "5be1a6b6-9112-4d5c-9a1f-947d938e7760"
+      },
+      "squuid": "5be1a6b8-b186-453e-87d8-62d2cf78bf9b",
+      "state": "active"
+    }
+  ]
+}

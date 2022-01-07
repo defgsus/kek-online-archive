@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.3,
+      "held": {
+        "name": "vwd Group GmbH",
+        "squuid": "5be1a6b6-fb82-4e50-8da9-4b86f435e607"
+      },
+      "squuid": "5be1a6b8-c02c-4a32-8b5a-29af5fbee436",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Geisenheim",
+  "pseudoCompany": false,
+  "street": "Johannes-Weitzel-Strasse",
+  "name": "Ampyll GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ea1f-47d2-ac6e-ea2cdcb81634",
+  "controlDate": "2021-12-13T17:36:06.165Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "65366",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Henrich, Philipp",
+        "squuid": "5be1a6b6-200f-4ee9-834c-d86fba557a88"
+      },
+      "squuid": "5be1a6b8-e193-4c53-b04e-21297f1ca415",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Johannig, Lutz",
+        "squuid": "5be1a6b6-0d47-42eb-9715-9ecfd19e9e4e"
+      },
+      "squuid": "5be1a6b8-db8c-468d-9e5e-cfa0cdbaa247",
+      "state": "active"
+    }
+  ]
+}

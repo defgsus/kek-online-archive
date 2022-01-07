@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "Medienhaus Aachen GmbH",
+        "squuid": "5be1a6b6-0200-4a40-921b-ce08c00a32ac"
+      },
+      "squuid": "5be1a6b7-1527-4255-94b2-442762e66f5b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Aachen",
+  "pseudoCompany": false,
+  "street": "Theaterstr. 24",
+  "name": "Aachener Nachrichten Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b4d3-4fa3-8576-e891efe0d2c4",
+  "controlDate": "2021-11-23T10:12:13.480Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "52062",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.aachener-nachrichten.de",
+        "squuid": "5be1a6b1-d242-4a2d-8abb-374493199dd4"
+      },
+      "squuid": "5e1f0acd-02ff-45df-a958-39f150757ff4",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rheinische Post Mediengruppe GmbH",
+        "squuid": "5be1a6b6-25ea-44da-8834-b9ab2a407a4d"
+      },
+      "squuid": "5be1a6b7-82bf-4d18-a330-77317d8da02d",
+      "state": "active"
+    }
+  ]
+}

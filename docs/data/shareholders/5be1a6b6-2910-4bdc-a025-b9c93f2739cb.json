@@ -1,0 +1,79 @@
+{
+  "state": "active",
+  "city": "Kaarst",
+  "pseudoCompany": false,
+  "street": "Justus-Liebig-Str. 3",
+  "name": "OC Projects, Optendrenk & Calinski GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2910-4bdc-a025-b9c93f2739cb",
+  "controlDate": "2021-11-26T14:43:27.585Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "41564",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.paradisi.de",
+        "squuid": "5be1a6b1-cafd-46b9-aa56-f444cbc1641b"
+      },
+      "squuid": "5be1a6b9-6815-403b-b1d9-deceaeae1c45",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wellness-regionen.de",
+        "squuid": "5be1a6b1-c0d2-408c-a565-20b55c355133"
+      },
+      "squuid": "5be1a6b9-3f3e-42ec-85ac-f4afa142cc8f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bauen-heimwerken.de",
+        "squuid": "5be1a6b1-a6d9-4a18-abd3-9640afe58a94"
+      },
+      "squuid": "5be1a6b9-b789-4c37-be6e-b49354edb684",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.produits.de",
+        "squuid": "5be1a6b1-cb00-4413-a3da-88943670f666"
+      },
+      "squuid": "5be1a6b9-c262-49ed-9239-c34651ab603a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Optendrenk, Frank",
+        "squuid": "5be1a6b6-107a-4a35-a2ae-b20f7d0c842a"
+      },
+      "squuid": "5be1a6b8-493c-4ba7-9a3d-c4d070fc76a4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Calinski, Michael",
+        "squuid": "5be1a6b6-c17e-4bb3-8256-d5fe6ad7a680"
+      },
+      "squuid": "5be1a6b8-fd23-4900-b8e2-6d8b8e5e08ea",
+      "state": "active"
+    }
+  ]
+}

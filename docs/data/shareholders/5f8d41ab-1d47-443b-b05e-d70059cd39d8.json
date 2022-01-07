@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Schloßstraße",
+  "name": "LiveLive Media GmbH",
+  "naturalPerson": true,
+  "squuid": "5f8d41ab-1d47-443b-b05e-d70059cd39d8",
+  "streetNumber": "34",
+  "organizations": [
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "12163",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio livelive",
+        "squuid": "5f8d3b56-70f1-4bda-a10a-912c89e1acd1"
+      },
+      "squuid": "5f8d439f-0eb9-4336-9850-051efd35aeef",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Frank Willer",
+        "squuid": "5f9806cf-7056-491a-a672-dfffb4e5da61"
+      },
+      "squuid": "5f980793-4dc6-47b2-bc54-fc61a9ea83d9",
+      "state": "active"
+    }
+  ]
+}

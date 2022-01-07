@@ -1,0 +1,42 @@
+{
+  "name": "Krug, Maximilian",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-516d-4b6d-bd37-dd35dd1eedc3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Hitradio MS One Programmanbieter GmbH",
+        "squuid": "5be1a6b6-ef73-435b-99f7-865ed5ae0848"
+      },
+      "squuid": "5be1a6b7-6cf8-4016-9fdf-9f269f38c160",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "held": {
+        "name": "Hitradio MS One Studiobetrieb Ltd.",
+        "squuid": "5be1a6b6-605a-438a-83f7-b251754c47d4"
+      },
+      "squuid": "5be1a6b8-919a-4f59-a79e-8020cf5dbaae",
+      "state": "active"
+    }
+  ],
+  "city": "Augsburg",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

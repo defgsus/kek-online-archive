@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Torreviejas (E)",
+  "pseudoCompany": false,
+  "street": "Urbanizacion Los Altos",
+  "name": "Hubu Interactive",
+  "naturalPerson": false,
+  "squuid": "5d3197b0-956e-4c9c-bfa2-a95fb86f7eb5",
+  "controlDate": "2021-12-09T15:36:48.439Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hubu.fm",
+        "squuid": "5d319793-504c-482f-bb61-732936e1e351"
+      },
+      "squuid": "5d319800-ef80-492b-affc-036ed321b257",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Theel, Julian",
+        "squuid": "5d3197bf-ea15-44ad-a616-ef95f170f877"
+      },
+      "squuid": "5d319853-0fea-42cd-a3d6-64e7401345ce",
+      "state": "active"
+    }
+  ]
+}

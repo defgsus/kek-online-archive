@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Charles-de-Gaulle-Str. 8",
+  "name": "Bauer München Redaktions KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-a6b4-4369-8ef8-3401e5f47aa9",
+  "controlDate": "2020-05-13T11:27:24.091Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "81737",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "5be1a6b8-468d-41cf-aa30-3b3d8986d052",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bauer Komplementär KG",
+        "squuid": "5eaffda5-a775-4f8a-9124-c01ded28585e"
+      },
+      "squuid": "5ebbda16-5711-49da-aa8c-efe536558849",
+      "state": "active"
+    }
+  ]
+}

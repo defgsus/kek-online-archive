@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Radio Seefunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-e07a-4f54-9c05-2913d392c12a"
+      },
+      "squuid": "5f3d37de-00bd-4446-9cee-25c6d71ee48f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Konstanz",
+  "pseudoCompany": false,
+  "street": "Reichenaustr.",
+  "name": "Radio Seefunk Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f3d37b4-47a3-49f7-b779-a336e6a6e2a9",
+  "controlDate": "2021-12-02T13:40:09.696Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "78467",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Radio Seefunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-e07a-4f54-9c05-2913d392c12a"
+      },
+      "squuid": "5ff46dfd-f125-4256-ab0c-33b30f9fd7a5",
+      "state": "active"
+    }
+  ]
+}

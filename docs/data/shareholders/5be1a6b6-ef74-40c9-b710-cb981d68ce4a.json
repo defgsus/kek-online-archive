@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Lange Laube",
+  "name": "Betreibergesellschaft RegioOnline mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ef74-40c9-b710-cb981d68ce4a",
+  "otherMediaActivities": "MonA TV ist außerdem an der Entwicklung von Mobile Services, Datacast, interaktiven und multimedialen\r\nDiensten zur Ausstrahlung via DVB-T, Internet und mobilen Anwendungen beteiligt.",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30159",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MonA TV",
+        "squuid": "5be1a6b1-31e2-4d25-be62-78742c0664f6"
+      },
+      "squuid": "5be1a6b9-ef04-480b-8a5c-8e8f39f3254a",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft der Betreibergesellschaft RegioOnline mbH vom 20.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Heinen, Diethelm",
+        "squuid": "5be1a6b6-6e1f-4411-b8ec-85750c599b60"
+      },
+      "squuid": "5be1a6b7-e32b-4601-827c-c99137768771",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Fischer, Mathias",
+        "squuid": "5be1a6b6-5e40-4cd4-a93d-1873c95f9ce9"
+      },
+      "squuid": "5be1a6b7-1477-4ef5-bd20-e4b82ba68de3",
+      "state": "active"
+    }
+  ]
+}

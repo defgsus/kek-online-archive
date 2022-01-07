@@ -1,0 +1,110 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "11 Freunde Verlag Verwaltungsgesellschaft mbH",
+        "squuid": "5dc03a43-814f-4d25-8ef8-85a844e0336d"
+      },
+      "squuid": "5dc03d17-5ef0-40f9-9787-f5ff76a4ace2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Gubener Str. 47",
+  "name": "11 Freunde Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-18d3-4575-9316-acd28f43f22d",
+  "controlDate": "2021-11-19T15:52:49.178Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10243",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "11 Freunde",
+        "squuid": "5be1a6b1-e6fe-49d5-874f-01bacda4cb75"
+      },
+      "squuid": "5be1a6b9-aea3-4ace-a337-493b1326e4e6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.11freunde.de",
+        "squuid": "5be1a6b1-a0fe-4db8-a9ab-8037c2440985"
+      },
+      "squuid": "5be1a6b9-030d-4751-b03f-a03a3d836b26",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Gruner + Jahr GmbH",
+        "squuid": "5be1a6b6-6647-418f-be7f-faee8268574e"
+      },
+      "liabilitySum": 51.0,
+      "squuid": "5be1a6b8-0200-4d52-a549-5829b8e21e31",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Praise Media GmbH & Co KG",
+        "squuid": "5be1a6b6-3611-4039-a10f-f3f6b071fc64"
+      },
+      "liabilitySum": 25.0,
+      "squuid": "5be1a6b8-1ab5-41cf-b39e-ac7291ff5f1b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.3,
+      "holder": {
+        "name": "Hörstmann, Matthias",
+        "squuid": "5be1a6b6-6631-4b56-aad1-92b3511cc588"
+      },
+      "liabilitySum": 8.3,
+      "squuid": "5be1a6b8-6db1-4601-a9d6-04a54d06e80e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.7,
+      "holder": {
+        "name": "Köster, Philipp",
+        "squuid": "5be1a6b6-44d0-4886-a8ef-86ef7a1842b8"
+      },
+      "liabilitySum": 15.7,
+      "squuid": "5be1a6b8-92a4-458b-a6dc-1a6dadc00a8a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "11 Freunde Verlag Verwaltungsgesellschaft mbH",
+        "squuid": "5dc03a43-814f-4d25-8ef8-85a844e0336d"
+      },
+      "squuid": "5dc03b62-bfdd-4031-88e1-3a81ccc25892",
+      "state": "active",
+      "votingShares": 0.0
+    }
+  ]
+}

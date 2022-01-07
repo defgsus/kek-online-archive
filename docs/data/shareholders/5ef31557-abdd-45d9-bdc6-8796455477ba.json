@@ -1,0 +1,89 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.26,
+      "held": {
+        "name": "Radio RT 4 GmbH & Co. Programm- und Beteiligungsgesellschaft KG",
+        "squuid": "5c98ece2-cbcf-4b69-b373-0f1117ff5746"
+      },
+      "squuid": "5ef3186c-f442-4838-8c11-e2f41328b1d4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.26,
+      "held": {
+        "name": "Radio RT 4 Verwaltungs-GmbH",
+        "squuid": "5ef314c8-cb90-4e80-83ba-bb85608e5223"
+      },
+      "squuid": "5f9a9726-3355-4bdf-91ec-7c837990ad18",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Reutlingen",
+  "pseudoCompany": false,
+  "street": "Burgstr.",
+  "name": "Wandel Solar Asset GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5ef31557-abdd-45d9-bdc6-8796455477ba",
+  "controlDate": "2021-11-24T17:11:50.043Z",
+  "streetNumber": "59",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "72764",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wandel, Wolfram",
+        "squuid": "5f9a920f-c04d-4791-bdf2-78ac71ca1a1b"
+      },
+      "squuid": "5f9a9233-fcaa-49e2-a409-69ae3cdde129",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Wandel Solar Asset Geschäftsführungs-GmbH",
+        "squuid": "5f9a91f5-0e1f-4b89-bbf9-a7ab39390a5d"
+      },
+      "squuid": "5f9a924b-f435-4ce7-95ae-fc41134f15dc",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Freundeskreis Radio Brocken Beteiligungs-GmbH",
+        "squuid": "5f280059-c18c-419b-bbd1-70c628e8b16b"
+      },
+      "squuid": "5f32aa4e-efc8-4ad4-a246-5372fa457592",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.1,
+      "held": {
+        "name": "Madsack Hörfunk GmbH",
+        "squuid": "5be1a6b6-4add-4b03-bec9-315127c38099"
+      },
+      "squuid": "5f32ab49-d2a5-41a1-9e93-ff91643f056e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Deine Tierwelt GmbH",
+        "squuid": "5ef0c2fa-b73b-4204-8bb9-d5faecae58d9"
+      },
+      "squuid": "60423dfc-fd2f-4329-9493-37da7222c994",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "August-Madsack-Str.",
+  "name": "Madsack Venture GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4535-4926-a4a0-54c0126219b9",
+  "controlDate": "2021-11-22T11:37:39.942Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "30559",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "5be1a6b8-bbbc-4348-a29c-a99ed89cb275",
+      "state": "active"
+    }
+  ]
+}

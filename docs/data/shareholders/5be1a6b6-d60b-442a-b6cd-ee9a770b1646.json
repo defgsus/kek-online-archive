@@ -1,0 +1,77 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.1,
+      "held": {
+        "name": "AVE VI Vermögensverwaltungsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-e386-4870-bd86-fe97dc61431e"
+      },
+      "squuid": "5be1a6b8-8c04-4269-a67f-d8a80e90fc08",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Georg von Holtzbrinck GmbH & Co. KG",
+        "squuid": "5be1a6b6-3efe-470d-89eb-1d230f00b5fa"
+      },
+      "squuid": "5ec3cf27-8225-47b9-ad33-259936443194",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Gänsheidestraße",
+  "name": "Verlagsgruppe Georg von Holtzbrinck GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d60b-442a-b6cd-ee9a770b1646",
+  "controlDate": "2021-10-04T13:37:27.651Z",
+  "streetNumber": "26",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "70184",
+  "corporationName": "Verlagsgruppe Georg von Holtzbrink",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "von Holtzbrinck, Dr. Stefan",
+        "squuid": "5be1a6b6-7163-4a0c-b98c-bc23856fa815"
+      },
+      "squuid": "5be1a6b7-998c-4fc5-9847-ab6068ca017b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Monika Schoeller Familiengesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-c6b4-4c64-94e2-ce8dc66854f2"
+      },
+      "squuid": "5be1a6b7-a3a9-4709-927d-fbb196b54996",
+      "state": "active"
+    }
+  ]
+}

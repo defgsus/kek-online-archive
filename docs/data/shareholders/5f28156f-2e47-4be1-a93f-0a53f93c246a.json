@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Magdeburg",
+  "pseudoCompany": false,
+  "street": "Albert-Vater-Str.",
+  "name": "Medien und Handel GbR",
+  "naturalPerson": false,
+  "squuid": "5f28156f-2e47-4be1-a93f-0a53f93c246a",
+  "controlDate": "2021-12-13T12:44:48.481Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "39108",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kulturmd.de",
+        "squuid": "5f2814cc-0c93-448d-9b81-f153d3506a7d"
+      },
+      "squuid": "5f2815b3-c3d2-489c-b079-5bd0febfa319",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schallenberg, Salka",
+        "squuid": "5f28159d-3b7d-4858-8785-efeac290be41"
+      },
+      "squuid": "5f2816d3-b668-4732-8890-b6ad202ac4ba",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schallenberg, Bernd",
+        "squuid": "5d021442-99cd-48b7-899f-ce3a47154b16"
+      },
+      "squuid": "5f2816e1-56ea-4d5e-8bdc-7ef823de4744",
+      "state": "active"
+    }
+  ]
+}

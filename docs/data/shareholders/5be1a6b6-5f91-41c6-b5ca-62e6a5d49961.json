@@ -1,0 +1,68 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 22.73,
+      "held": {
+        "name": "rkw Radio Königs Wusterhausen GmbH & Co. KG",
+        "squuid": "5be1a6b6-69e0-4daf-a710-83e0f0e54de7"
+      },
+      "squuid": "5be1a6b7-cf18-4c2b-82eb-4e7f2439a10f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.14,
+      "held": {
+        "name": "rkw Radio Königs Wusterhausen Verwaltungs GmbH",
+        "squuid": "60b75905-73c5-4e38-81ff-e227ed1e321b"
+      },
+      "squuid": "60d0688b-673f-4e79-ba4d-b2fb9c416125",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wesel",
+  "pseudoCompany": false,
+  "name": "Schulte & Enkmann Medien-Service GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5f91-41c6-b5ca-62e6a5d49961",
+  "controlDate": "2021-12-09T15:09:25.852Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schulte, Martin",
+        "squuid": "5be1a6b6-383c-45c0-bfce-e934f6e725bc"
+      },
+      "squuid": "5be1a6b7-be4f-4549-bb9f-9e5d84e1dd4b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Enkmann, Klaus",
+        "squuid": "5be1a6b6-1e89-4387-8953-ceaad30fdb13"
+      },
+      "squuid": "5be1a6b7-68c7-4fec-8df5-a12f6a2406b0",
+      "state": "active"
+    }
+  ]
+}

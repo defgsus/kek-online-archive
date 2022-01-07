@@ -1,0 +1,32 @@
+{
+  "name": "Gemeinde Lindlar",
+  "pseudoCompany": true,
+  "squuid": "5f181553-9447-4fa1-89e4-c1821648eef3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "BGW Bau-, Grundstücks- und Wirtschaftsförderungsgesellschaft der Gemeinde Lindlar",
+        "squuid": "5be1a6b6-2511-4466-8191-38afd731f8c2"
+      },
+      "squuid": "5f181589-58be-4b86-b1a3-bda35bcad127",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

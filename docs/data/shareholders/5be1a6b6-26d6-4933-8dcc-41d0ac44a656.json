@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Döbeln",
+  "pseudoCompany": false,
+  "street": "Rosa-Luxemburg-Straße",
+  "name": "DDV Döbeln GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-26d6-4933-8dcc-41d0ac44a656",
+  "otherMediaActivities": "Regionalverlag der Sächsischen Zeitung",
+  "controlDate": "2021-10-14T10:44:14.950Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "04720",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Döbelner Anzeiger",
+        "squuid": "5be1a6b1-085d-405d-815d-daac90980bee"
+      },
+      "squuid": "5be1a6b9-93f0-4eec-9851-ab33587caeae",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "5be1a6b8-962b-4e2e-991b-10074a7bdda2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.5,
+      "holder": {
+        "name": "Görlitz, Elke",
+        "squuid": "5be1a6b6-5757-4411-b9c9-37e577bee0ec"
+      },
+      "squuid": "5be1a6b8-98e7-4748-8f30-d0cf997c4cbd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.5,
+      "holder": {
+        "name": "Poch, Matthias",
+        "squuid": "5be1a6b6-40b0-439b-9bbf-76fb356620b4"
+      },
+      "squuid": "5be1a6b8-72a3-42ec-888e-782239d18a0e",
+      "state": "active"
+    }
+  ]
+}

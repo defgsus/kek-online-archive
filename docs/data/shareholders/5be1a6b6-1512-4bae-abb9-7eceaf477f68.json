@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Wiesbaden",
+  "pseudoCompany": false,
+  "street": "Taunusstraße",
+  "name": "Next Healthlab GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1512-4bae-abb9-7eceaf477f68",
+  "streetNumber": "38",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "65183",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Funk, Christopher",
+        "squuid": "5be1a6b6-8e33-40ea-96ba-10e3441c15f0"
+      },
+      "squuid": "5be1a6b8-2104-4fb4-9e4f-1d97dcf455e6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Jäger, Florian",
+        "squuid": "5be1a6b6-fd49-4c05-bf69-f991566ec827"
+      },
+      "squuid": "5be1a6b8-8f97-4dac-82f6-e63c2a6ad87e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "ADJUVA Gesundheitsprodukte und Serviceleistungen GmbH",
+        "squuid": "5be1a6b6-6040-4ee9-a580-07b1c4489089"
+      },
+      "squuid": "5be1a6b8-cffa-406e-a5f8-b7e6b70f597a",
+      "state": "active"
+    }
+  ]
+}

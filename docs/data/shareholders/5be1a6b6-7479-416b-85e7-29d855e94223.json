@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Flensburg",
+  "pseudoCompany": false,
+  "street": "Fördestr.",
+  "name": "Handballwoche GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7479-416b-85e7-29d855e94223",
+  "controlDate": "2021-10-22T13:11:13.512Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "24944",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Handballwoche",
+        "squuid": "5be1a6b1-1ec4-4e56-a632-4105aad95ec0"
+      },
+      "squuid": "5be1a6b9-cbbf-4549-89db-dbce130a6cff",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.handballwoche.de",
+        "squuid": "5be1a6b1-0774-44d2-b760-e2aefc4ff30e"
+      },
+      "squuid": "5be1a6b9-5ed4-419c-aee3-f21473106bde",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "medien holding:nord gmbh",
+        "squuid": "5be1a6b6-3a49-498e-ac48-b7da3a2e673b"
+      },
+      "squuid": "61793498-76fa-44c8-abca-71fe536c9e0c",
+      "state": "active"
+    }
+  ]
+}

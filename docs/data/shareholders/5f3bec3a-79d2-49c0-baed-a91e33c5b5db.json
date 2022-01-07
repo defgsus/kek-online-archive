@@ -1,0 +1,33 @@
+{
+  "name": "Koppelstätter, Horst",
+  "pseudoCompany": false,
+  "squuid": "5f3bec3a-79d2-49c0-baed-a91e33c5b5db",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Koppelstätter Media GmbH",
+        "squuid": "5d35cb75-fc29-4b0b-a03d-0096eee6d7c1"
+      },
+      "squuid": "5f3bec5c-6372-4fad-bec3-91afa64bcdec",
+      "state": "active"
+    }
+  ],
+  "city": "Sinsheim",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

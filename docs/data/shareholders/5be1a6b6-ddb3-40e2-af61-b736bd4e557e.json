@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Wiesbaden",
+  "pseudoCompany": false,
+  "street": "Adolfsallee",
+  "name": "BdSt Steuerzahler Service GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ddb3-40e2-af61-b736bd4e557e",
+  "controlDate": "2021-09-30T14:10:03.759Z",
+  "streetNumber": "22",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65185",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Der Steuerzahler",
+        "squuid": "5be1a6b1-7c95-4c87-b9da-4395d471fcb8"
+      },
+      "squuid": "5be1a6b9-a436-4ccd-b6ba-0ab2eef93767",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bund der Steuerzahler Deutschland e.V.",
+        "squuid": "5be1a6b6-88a2-4807-992a-d4813988f8bc"
+      },
+      "squuid": "5be1a6b8-752d-4147-b6f0-3d92c81bc0a9",
+      "state": "active"
+    }
+  ]
+}

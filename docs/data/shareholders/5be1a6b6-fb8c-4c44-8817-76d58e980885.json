@@ -1,0 +1,27 @@
+{
+  "name": "Streubesitz an der PrimaCom AG",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-fb8c-4c44-8817-76d58e980885",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 9.51,
+      "held": {
+        "name": "PrimaCom AG",
+        "squuid": "5be1a6b6-4c85-4d13-81d0-3b018c41c351"
+      },
+      "squuid": "5be1a6b7-9b8e-4b5a-bca5-69e586e8fa79",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,32 @@
+{
+  "name": "weitere Gesellschafter (Kleinstverlage) mit Anteilen von jeweils unter 0,1 %",
+  "pseudoCompany": true,
+  "squuid": "60d21c4d-9b4b-4ec2-8349-d6ed5594852f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.36,
+      "held": {
+        "name": "Mediengesellschaft der bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Programm- und Werbegesellschaft",
+        "squuid": "5be1a6b6-c525-4b11-a1b7-9969a9671afb"
+      },
+      "squuid": "60d21df8-9a04-49e8-ac92-f75864ff1601",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

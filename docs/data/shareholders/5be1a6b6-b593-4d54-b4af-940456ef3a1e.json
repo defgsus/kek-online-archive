@@ -1,0 +1,118 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Medienhaus Südwest GmbH & Co. KG",
+        "squuid": "611a29be-20ab-4a5e-a86b-ef5f24460dda"
+      },
+      "squuid": "611a2b43-9507-4990-add4-5e9f4a715818",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Medienhaus Südwest Verwaltungs-GmbH",
+        "squuid": "611a2a6a-1cd6-4581-af9e-c2f913aa7453"
+      },
+      "squuid": "611a2c02-e0b5-40ae-bbf4-76b443081aa0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ulm",
+  "note": "Stand: 3/2021",
+  "pseudoCompany": false,
+  "street": "Basteistraße",
+  "name": "M.O.R.E. Lokalfunk Baden-Württemberg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-b593-4d54-b4af-940456ef3a1e",
+  "controlDate": "2021-12-03T13:23:41.430Z",
+  "streetNumber": "37",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "89073",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Donau 3 FM",
+        "squuid": "5be1a6b1-a993-4964-82ce-0b21050d8bbc"
+      },
+      "squuid": "5be1a6b9-3ce1-4abd-a7ca-cb3201e45a25",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Donau 3 FM ",
+        "squuid": "5e58f35c-43b4-41af-9b0a-f28097d6ac8d"
+      },
+      "squuid": "5e5e0e4d-89d4-4dff-a012-f57ae44c271c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.donau3fm.de",
+        "squuid": "5f3e5cca-5e7e-4b0c-aa0e-9ad9ca8303ce"
+      },
+      "squuid": "5f3e5cf7-2763-4fc2-a7e2-6b89d29deb1d",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5be1a6b7-1671-4f94-9179-47b323d5d381",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Burda Broadcast Media Baden-Württemberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-b72e-448d-80dc-1616b9035eec"
+      },
+      "squuid": "5c8a300d-c852-4750-ab52-efd9231f2548",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "M.O.R.E. Lokalfunk Baden-Württemberg Verwaltungs-GmbH",
+        "squuid": "5f3e5dbf-77f7-4b35-9d44-29ce2169f7de"
+      },
+      "squuid": "5f3e5e11-159e-418c-9d0f-e5832bb38b83",
+      "state": "active"
+    }
+  ]
+}

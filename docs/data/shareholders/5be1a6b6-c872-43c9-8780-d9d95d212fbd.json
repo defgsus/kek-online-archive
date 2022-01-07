@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Picassoplatz",
+  "name": "VOX Television GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c872-43c9-8780-d9d95d212fbd",
+  "otherMediaActivities": "Die RTL Television GmbH, die mittelbar 99,7 % der Anteile an der Veranstalterin von VOX hält, veranstaltet die bundesweiten Fernsehprogramme RTL Television, RTL Crime, RTL Living, RTL Passion, RTLplus, NITRO und GEO Television. Zudem hält die  RTL Television GmbH sämtliche Anteile an der Veranstalterin von n-tv. Die RTL Group ist zudem an den Veranstaltern von SUPER RTL, TOGGO plus und RTL II beteiligt.",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50679",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "VOX",
+        "squuid": "5be1a6b1-743c-4538-a129-aa7cceb957bf"
+      },
+      "squuid": "5be1a6b9-e3f1-4ba5-9647-551a86c26a45",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 27.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.3,
+      "holder": {
+        "name": "dctp Entwicklungsgesellschaft für TV-Programm mbH",
+        "squuid": "5be1a6b6-01aa-4926-869b-7e89ca45166d"
+      },
+      "squuid": "5be1a6b7-939a-4b0c-b7bd-b0e4f2137e53",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 99.7,
+      "holder": {
+        "name": "VOX Holding GmbH",
+        "squuid": "5be1a6b6-4bf6-4402-8f44-8a3f6d0e0b16"
+      },
+      "squuid": "5be1a6b7-6634-4e3f-9ed7-4da3241a90bb",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Landeshauptstadt Düsseldorf",
+  "pseudoCompany": true,
+  "squuid": "5f159f80-1317-487d-babc-06211bb0f78a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Holding der Landeshauptstadt Düsseldorf GmbH",
+        "squuid": "5be1a6b6-f351-497b-bc2b-4a8d2c95f02a"
+      },
+      "squuid": "5f159fa6-79b4-4696-bdc0-3aeffd39feaf",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

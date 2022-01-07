@@ -1,0 +1,75 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.82,
+      "held": {
+        "name": "OMS-Online Marketing Service GmbH & Co. KG",
+        "squuid": "6082ac61-e251-4ed7-b875-a96ae933da5b"
+      },
+      "squuid": "6086b2b8-09d2-4a22-aef5-e0b4574e1b42",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Zülpicher Str.",
+  "name": "ProServ GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6086b268-cbce-4cd7-9cc2-c13c110946f3",
+  "controlDate": "2021-04-26T12:33:03.538Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40549",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Rheinische Post Mediengruppe GmbH",
+        "squuid": "5be1a6b6-25ea-44da-8834-b9ab2a407a4d"
+      },
+      "squuid": "6086b371-fba5-4d21-acaa-8c12c53401a2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Saarbrücker Zeitung Medienhaus GmbH",
+        "squuid": "5be1a6b6-7b22-4bc2-abdb-c97a7151bc88"
+      },
+      "squuid": "6086b39c-2380-4c86-8db0-36090f5d83f4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.67,
+      "holder": {
+        "name": "Trierischer Volksfreund Medienhaus GmbH",
+        "squuid": "5be1a6b6-134b-493c-95c7-df75a3201bc2"
+      },
+      "squuid": "6086b3ab-b154-4568-b0e3-687fd2f1cf4d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "ProServ Verwaltungs GmbH",
+        "squuid": "6086b29b-2ada-497c-ad03-d17a4d526692"
+      },
+      "squuid": "6086b3b8-91d0-4f7a-bb53-4955ab875e04",
+      "state": "active"
+    }
+  ]
+}

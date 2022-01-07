@@ -1,0 +1,87 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Mehringdamm 33",
+  "name": "Axel Springer Mediahouse Berlin GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-76a0-431d-8d98-a87fa233ed68",
+  "controlDate": "2021-11-03T14:57:37.007Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10961",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "musikexpress",
+        "squuid": "5be1a6b1-f0f7-4dc3-aa32-3cbe783ec297"
+      },
+      "squuid": "5be1a6b9-dd9e-41bb-bed3-a0bf8f027b09",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Metal Hammer",
+        "squuid": "5be1a6b1-61df-4102-b3da-a9fa8d425a53"
+      },
+      "squuid": "5be1a6b9-d852-4b4f-adf5-26cdfd2bf5a5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rolling Stone",
+        "squuid": "5be1a6b1-d63c-4bdf-b535-d380a6cb8252"
+      },
+      "squuid": "5be1a6b9-c0ae-4c1c-a31e-5d7dcaaec23a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.metal-hammer.de",
+        "squuid": "5be1a6b1-1985-4492-a12d-62db08328173"
+      },
+      "squuid": "5be1a6b9-04a3-4cb6-a616-485bb290ed5a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.musikexpress.de",
+        "squuid": "5be1a6b1-01f9-41c0-a274-3d8d6db2fc7e"
+      },
+      "squuid": "5be1a6b9-6ec2-4b9a-b6ca-7aa75cc55372",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rollingstone.de",
+        "squuid": "5be1a6b1-9938-4fd3-aa6d-02b65b5dc4c9"
+      },
+      "squuid": "5be1a6b9-b1ab-4119-9a24-3b6cc3252657",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Axel Springer SE",
+        "squuid": "5be1a6b6-5c1b-48b1-ad15-85241452bf42"
+      },
+      "squuid": "5be1a6b8-4847-495c-b2bd-a3111f394d90",
+      "state": "active"
+    }
+  ]
+}

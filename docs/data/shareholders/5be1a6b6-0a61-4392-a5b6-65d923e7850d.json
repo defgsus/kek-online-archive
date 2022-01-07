@@ -1,0 +1,99 @@
+{
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "Ruhrtalstr. 67",
+  "name": "SEG Stegenwaller Entertainment Group GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-0a61-4392-a5b6-65d923e7850d",
+  "controlDate": "2021-10-21T15:27:09.684Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "45239",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gute Laune",
+        "squuid": "5be1a6b1-853f-46e6-843f-3e662760e836"
+      },
+      "squuid": "5be1a6b9-8a17-4ece-abc0-d89f91077daf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Meine Pause",
+        "squuid": "5be1a6b1-f4d1-4295-aba0-2e96d0dd8b40"
+      },
+      "squuid": "5be1a6b9-93f0-4485-8390-d34c8a2b16e8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lecker Kochen & Backen",
+        "squuid": "5be1a6b1-90ab-4bc1-84b1-f99b30145a87"
+      },
+      "squuid": "5be1a6b9-04b5-48fe-8033-7f08938a7b68",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gute Laune - Wohnen & Genießen",
+        "squuid": "5be1a6b1-419f-44b1-8f0b-783c00c03efe"
+      },
+      "squuid": "5be1a6b9-bce5-41ee-8775-3e2a13cfc455",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gute Laune - Mein neues Zuhause",
+        "squuid": "5be1a6b1-606d-4273-a8be-3326b0ee95aa"
+      },
+      "squuid": "5be1a6b9-00e9-4b01-99ba-e83171960c8c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Inside",
+        "squuid": "5de92ebc-5e14-4dcb-948e-f16967630009"
+      },
+      "squuid": "5de92f0c-ee3b-4acc-91e5-d30a437e6428",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "VGS Verlagsgruppe Stegenwaller GmbH",
+        "squuid": "5be1a6b6-ef5f-4dfd-a397-34b0150e5f62"
+      },
+      "squuid": "5be1a6b8-f07a-441b-a4b8-47e8228215f2",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SEG Stegenwaller Entertainment Group Verwaltungs GmbH",
+        "squuid": "5ecd1902-dda0-435f-992a-7bb64b2b36af"
+      },
+      "squuid": "5ecd1928-259a-44ce-b853-f09ad0fdc060",
+      "state": "active"
+    }
+  ]
+}

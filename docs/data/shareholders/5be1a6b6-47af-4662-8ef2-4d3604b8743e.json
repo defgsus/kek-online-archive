@@ -1,0 +1,121 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.37,
+      "held": {
+        "name": "Lokalradio Steinfurt Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-c7a2-4726-a9b5-0984cc73c7d8"
+      },
+      "squuid": "5be1a6b7-f380-4969-827b-aaf51423a763",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.9,
+      "held": {
+        "name": "Pressefunk Nordrhein-Westfalen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8c11-4526-af08-275ec93dea8b"
+      },
+      "squuid": "5be1a6b7-fba3-47ac-8638-f81a269a93c5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.45,
+      "held": {
+        "name": "Lokalradio Münster Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-4442-4dba-906e-7a3bc3bf8a4a"
+      },
+      "squuid": "5eeb7601-c3e9-4e42-ba4f-908526e06b86",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MZ Medien Holding Verwaltungsgesellschaft mbH",
+        "squuid": "5ecd090c-a260-4468-b4af-08278b387b7b"
+      },
+      "squuid": "5ef1c710-4564-4d10-b23f-1b4bf7132690",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "An der Hansalinie",
+  "name": "MZ Medien Holding GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-47af-4662-8ef2-4d3604b8743e",
+  "controlDate": "2021-11-03T17:20:51.650Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "48163",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Münstersche Zeitung",
+        "squuid": "5be1a6b1-3758-45d3-b0ab-d988eb6cfce0"
+      },
+      "squuid": "5be1a6b9-24a9-4e40-a53d-507f250f2dcf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Grevener Zeitung",
+        "squuid": "5be1a6b1-b420-43a5-8297-fa4ae410c994"
+      },
+      "squuid": "5be1a6b9-38f7-4435-89d7-e06f2f7ae518",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.muensterschezeitung.de",
+        "squuid": "5be1a6b1-6960-4159-a558-91a86b0b1e0c"
+      },
+      "squuid": "5be1a6b9-1a4a-411f-bf49-09b0e2fa76b3",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Aschendorff Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c"
+      },
+      "squuid": "5c4b227d-db1c-438a-af13-4f33992e58c9",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "MZ Medien Holding Verwaltungsgesellschaft mbH",
+        "squuid": "5ecd090c-a260-4468-b4af-08278b387b7b"
+      },
+      "squuid": "5ecd0925-b659-4310-9c41-c4d0f3bb075b",
+      "state": "active"
+    }
+  ]
+}

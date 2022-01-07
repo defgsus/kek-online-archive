@@ -1,0 +1,31 @@
+{
+  "name": "Bourlon, Hans",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-3738-48af-ac49-a1b265b0dfa3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Romulus en Remus BV",
+        "squuid": "5be1a6b6-4e61-4200-b460-dbd80baa0888"
+      },
+      "squuid": "5be1a6b7-fdeb-470c-8410-ecad6a3438d4",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

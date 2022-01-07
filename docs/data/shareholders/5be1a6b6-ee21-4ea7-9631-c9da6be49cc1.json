@@ -1,0 +1,83 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Grunewaldstraße",
+  "name": "Neue Berliner Rundfunk GmbH & Co. KG",
+  "naturalPerson": false,
+  "co": "medienzentrum Berlin",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-ee21-4ea7-9631-c9da6be49cc1",
+  "controlDate": "2021-11-26T16:16:39.478Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "12165",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Berliner Rundfunk 91.4",
+        "squuid": "5be1a6b1-37bf-4054-a264-ff28ea1d185a"
+      },
+      "squuid": "5be1a6b9-14cc-4ace-8dd5-2fd575a6a1a4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.berliner-rundfunk.de",
+        "squuid": "5c3dee55-485e-443d-936d-61ba8cd288ca"
+      },
+      "squuid": "5c3deeca-8070-48d5-961b-d0ebb5f946f7",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 24.87,
+      "holder": {
+        "name": "Radio-Information Audio-Service Zwei GmbH",
+        "squuid": "5be1a6b6-0980-44bd-87ee-606ba9e9f625"
+      },
+      "squuid": "5be1a6b7-833a-4669-a94b-b5b67208a101",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.13,
+      "holder": {
+        "name": "Märkisches Medienhaus GmbH & Co KG",
+        "squuid": "5be1a6b6-77a9-41c7-a6e8-f04daa097183"
+      },
+      "squuid": "5be1a6b7-7402-42d2-a9d9-1cefe6c96ac3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Neue Berliner Rundfunk Verwaltungs GmbH",
+        "squuid": "5ef07ed6-6a63-47d4-abcf-795eeeb4b49b"
+      },
+      "squuid": "5ef07f03-765f-45bb-906c-5275419ec8a6",
+      "state": "active"
+    }
+  ]
+}

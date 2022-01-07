@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Altenburgstr.",
+  "name": "EazyBioLive and Vital GmbH",
+  "naturalPerson": false,
+  "squuid": "5f843fe0-3e4a-4179-a857-3ebcaa7f1e2c",
+  "controlDate": "2021-11-22T12:26:07.544Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81243",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.89hitfm.eu",
+        "squuid": "5f843ed0-ff4e-43a3-9d3a-40c26bb29f42"
+      },
+      "squuid": "5f84401b-8b2a-4253-9516-a5a8bb5d4948",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "89 HIT FM Ltd.",
+        "squuid": "5be1a6b6-9cb2-4232-8966-d7a46040c715"
+      },
+      "squuid": "5f8440be-95fb-4e18-bff6-c722dcf52b7b",
+      "state": "active"
+    }
+  ]
+}

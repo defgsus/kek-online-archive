@@ -1,0 +1,151 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Medienhaus Südwest GmbH & Co. KG",
+        "squuid": "611a29be-20ab-4a5e-a86b-ef5f24460dda"
+      },
+      "squuid": "611a2b2f-cb58-4ea7-a09f-d9594016510f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Medienhaus Südwest Verwaltungs-GmbH",
+        "squuid": "611a2a6a-1cd6-4581-af9e-c2f913aa7453"
+      },
+      "squuid": "611a2bf3-60f4-490d-a35f-0a90a7ebc8fc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Karlsruhe",
+  "note": "Stand: 11/2021",
+  "pseudoCompany": false,
+  "street": "Philipp-Reis-Straße",
+  "name": "Radio Karlsruhe GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-db3d-4f4f-813b-126e135cf064",
+  "controlDate": "2021-11-23T13:33:52.593Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "76137",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "die neue welle",
+        "squuid": "5be1a6b1-b409-4e38-9294-ded14da5fbb5"
+      },
+      "squuid": "5be1a6b9-1e2d-4d7c-bc2c-9c4030547e63",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "AlternativeFM",
+        "squuid": "5be1a6b1-e1ce-4595-b881-91b27164fc94"
+      },
+      "squuid": "5be1a6b9-5641-4472-92c7-06df77377e28",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.alternativefm.de",
+        "squuid": "5f36759f-e9dc-4b52-88ba-45b6a339855b"
+      },
+      "squuid": "5f3675d2-1ba7-40a1-a366-023d4816167c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.die-neue-welle.de",
+        "squuid": "5f3e5c25-1c0d-4b67-803e-445bc5477ecb"
+      },
+      "squuid": "5f3e5c52-a208-4b3c-b8a5-bb2b3bc145c0",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 13.9,
+      "holder": {
+        "name": "Burda Broadcast Media GmbH & Co. KG",
+        "squuid": "5be1a6b6-36c9-4097-9471-8ac9ef5c6024"
+      },
+      "squuid": "5be1a6b7-981e-4703-8b6e-3f4a08900a6c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.63,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5be1a6b7-c25a-40eb-9839-ca51af870bc7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.67,
+      "holder": {
+        "name": "Grenke, Wolfgang",
+        "squuid": "5be1a6b6-4989-4ef4-aaef-affba20e99a6"
+      },
+      "squuid": "5be1a6b7-4bc8-4707-875c-cf1f3fc8a193",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.97,
+      "holder": {
+        "name": "Röser MEDIA GmbH & Co. KG",
+        "squuid": "5be1a6b6-25b7-4d88-b2f6-4e4aee52fe61"
+      },
+      "squuid": "5be1a6b7-22c1-4d32-803a-99e2cdf0f84b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.82,
+      "holder": {
+        "name": "Neue Welle Baden Rundfunk GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-008b-4b3b-9c96-5f7635e2fa3d"
+      },
+      "squuid": "5be1a6b7-d2f6-4843-95f4-d05344df8509",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Karlsruhe Verwaltungs GmbH",
+        "squuid": "5f3676a4-7221-4dba-be65-4439d46fe8ae"
+      },
+      "squuid": "60a666bb-9adf-4eac-9222-e0810a393de5",
+      "state": "active"
+    }
+  ]
+}

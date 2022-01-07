@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Friedberg",
+  "pseudoCompany": false,
+  "street": "Bismarckstraße 24",
+  "name": "Frankfurt Business Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2e7d-4005-98f8-b8cee474afc5",
+  "controlDate": "2020-06-08T09:17:00.623Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "61169",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Frankfurter Allgemeine Zeitung GmbH",
+        "squuid": "5be1a6b6-a13b-4dae-9b4e-28467cc294bb"
+      },
+      "squuid": "5be1a6b8-dec2-4435-985c-4655cd5da151",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3a5db6-5ca9-45f7-8fce-fa4470e2a4ed",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Kinowelt Television GmbH",
+        "squuid": "5be1a6b6-981e-4738-8602-d42b4ee91a40"
+      },
+      "squuid": "5f3a5ddd-fb6d-4819-be64-e084adafd5ab",
+      "state": "active"
+    }
+  ],
+  "name": "www.kinowelt.tv",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-10T12:40:12.738Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

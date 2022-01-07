@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Pro FM Media GmbH & Co. KG",
+        "squuid": "5be1a6b6-e00e-4054-b5fa-829e9fd143f3"
+      },
+      "squuid": "5f919968-ce12-422a-9c02-1419d23fbbf7",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Bürgermeister-Fischer-Str.",
+  "name": "Pro FM Media Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5f9198f2-e952-4591-9cf6-59352984ecd2",
+  "controlDate": "2021-12-20T15:11:21.184Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86150",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "Gilg, Markus",
+        "squuid": "5ce6ab91-d6ba-4c8c-859e-8c1c04006beb"
+      },
+      "squuid": "5f995fb9-12a5-47a7-ae2f-888f501a2ecb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Vogele, Markus",
+        "squuid": "5d133fa6-6155-430e-95a0-df75f9ffa36b"
+      },
+      "squuid": "5f995fd5-6445-41b3-8bbf-87fcab6e496a",
+      "state": "active"
+    }
+  ]
+}

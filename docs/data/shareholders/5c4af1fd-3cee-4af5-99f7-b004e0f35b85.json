@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Fürstenfeldbruck",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Weidenstr.",
+  "name": "Badminton Fördergemeinschaft Oberbayern e. V.",
+  "naturalPerson": false,
+  "squuid": "5c4af1fd-3cee-4af5-99f7-b004e0f35b85",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82256",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Badmintonsport Television",
+        "squuid": "5c4af215-908c-475e-b81f-256f011ef873"
+      },
+      "squuid": "5c4af3b7-7dbf-483f-b249-9e42289d4a7c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bafo.de",
+        "squuid": "5f7ae982-fcb4-470a-bb3d-e7ce1c72b80d"
+      },
+      "squuid": "5f7ae9d6-bca0-41cd-9daf-bdd25812ec7b",
+      "state": "active"
+    }
+  ]
+}

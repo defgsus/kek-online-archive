@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "5be1a6b1-af40-4f50-9e87-1ef47f6fe121",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Zeitungsverlag Leonberg GmbH",
+        "squuid": "5be1a6b6-d5b1-41bb-b4f0-34d180db4b29"
+      },
+      "squuid": "5be1a6b9-4b47-4daa-93fb-fc4672374344",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Stuttgarter Zeitung Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-ef3b-43ce-979a-eddf7669f94f"
+      },
+      "squuid": "5be1a6b9-2813-4fc6-8e96-0bb34bca1989",
+      "state": "active"
+    }
+  ],
+  "name": "www.leonberger-kreiszeitung.de",
+  "pressEditionsIVW": false,
+  "type": "online",
+  "controlDate": "2021-10-28T09:23:22.705Z",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "onlineComments": "siehe unter www.stuttgarter-zeitung.de"
+}

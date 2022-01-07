@@ -1,0 +1,84 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Dieburger Anzeiger Verwaltungsgesellschaft mbH",
+        "squuid": "5ec3d548-fd5f-4963-aa54-e517ccd39240"
+      },
+      "squuid": "5ec3d5e7-88d4-46f1-8c1e-6fbdfed3da74",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dieburg",
+  "pseudoCompany": false,
+  "street": "Mühlgasse 3",
+  "name": "Dieburger Anzeiger GmbH & Co KG Druck und Verlag",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7afc-4cce-919e-f0a1edf2ab0d",
+  "controlDate": "2021-10-04T13:43:46.129Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "64807",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Dieburger Anzeiger",
+        "squuid": "5be1a6b1-6a4b-4d8b-974e-105768e78a7b"
+      },
+      "squuid": "5be1a6b9-6340-4592-ad36-5e93c92cde19",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Groß-Zimmerner Lokal-Anzeiger",
+        "squuid": "5be1a6b1-b5e0-49c6-aff0-9e65c518a5bb"
+      },
+      "squuid": "5be1a6b9-39a5-45b4-a08f-aa904b8a3fdd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.da-imnetz.de",
+        "squuid": "5be1a6b1-0c6c-4bb4-be81-1428e3031ef7"
+      },
+      "squuid": "615b04e0-2bf6-4ab9-be03-609dcf33f395",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Pressehaus Bintz Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-8a85-4051-ab8c-3b6710166754"
+      },
+      "squuid": "5be1a6b8-dedb-4f25-93b6-6d39a8bcd047",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Dieburger Anzeiger Verwaltungsgesellschaft mbH",
+        "squuid": "5ec3d548-fd5f-4963-aa54-e517ccd39240"
+      },
+      "squuid": "5ec3d561-5590-46df-9ad1-aea7dcc0f04d",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.25,
+      "held": {
+        "name": "Giesdorf Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-fb43-4e63-9777-3026b838d87b"
+      },
+      "squuid": "5be1a6b8-bbac-4efa-95d6-7aafdeba21f6",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Detmold",
+  "pseudoCompany": false,
+  "street": "Dehlenkamp",
+  "name": "Familiengesellschaft Rainer Giesdorf KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-c472-4005-bb05-70ff71976eb4",
+  "controlDate": "2021-10-28T10:09:24.414Z",
+  "streetNumber": "17",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "32756",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Giesdorf, Laura",
+        "squuid": "5be1a6b6-3405-4e34-890d-a1a8fff647ee"
+      },
+      "squuid": "5be1a6b8-d745-48ca-9c38-cbcec5f1f4cf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Giesdorf, Lorenz",
+        "squuid": "5be1a6b6-a6c2-45b5-8f94-a21fd5c26103"
+      },
+      "squuid": "5be1a6b8-e9f6-4f02-b960-5b0baf49e8c4",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Giesdorf, Rainer",
+        "squuid": "5ed10764-5ef6-4279-bd87-5f26f9a81d6c"
+      },
+      "squuid": "5ed10781-69a3-4a91-ba0c-7dbaa4728e80",
+      "state": "active"
+    }
+  ]
+}

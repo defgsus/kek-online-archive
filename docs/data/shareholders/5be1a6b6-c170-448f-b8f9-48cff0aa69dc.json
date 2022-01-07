@@ -1,0 +1,87 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Am Baumwall 11",
+  "name": "G+J Living Digital GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c170-448f-b8f9-48cff0aa69dc",
+  "controlDate": "2021-11-12T14:42:34.282Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20459",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schoener-wohnen.de",
+        "squuid": "5be1a6b1-c0be-40d4-be6c-3c4b441811c2"
+      },
+      "squuid": "5be1a6b9-0477-4bc0-b53f-0be1cc9db777",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.couchstyle.de",
+        "squuid": "5be1a6b1-13c5-44de-9855-1191d94093e6"
+      },
+      "squuid": "5be1a6b9-cf1d-4a41-a613-060c01eadfa6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.livingathome.de",
+        "squuid": "5be1a6b1-e561-4d6e-8cde-0c1aae39a02d"
+      },
+      "squuid": "5efdc81e-498f-4a37-b314-0dcdc5ee39ad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Couch",
+        "squuid": "5be1a6b1-7dfb-42f8-af8d-bb0057150147"
+      },
+      "squuid": "602a9f1f-5206-4d83-af08-c261f56480f6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Guidos Deko Queen",
+        "squuid": "60363cd8-8833-4a05-b50c-acd62744addb"
+      },
+      "squuid": "611ba65f-db63-4486-b59b-084fd8d985e8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wohnklamotte.de",
+        "squuid": "61a8c1c7-a432-421a-b71d-3f9be5403229"
+      },
+      "squuid": "61a8c1e4-ed35-437a-866a-0202ffa4ca8e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gruner + Jahr GmbH",
+        "squuid": "5be1a6b6-6647-418f-be7f-faee8268574e"
+      },
+      "squuid": "5be1a6b8-c6c7-4d39-a76d-2003f3bec52f",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Evangelische Arbeitsgemeinschaft für private Funk- und Fernsehsendungen in Südostbayern e.V.",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-8b73-4175-bae4-98293f3bfd73",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Radio Regenbogen Programmanbieter gGmbH",
+        "squuid": "5be1a6b6-9578-44dc-8400-61e526137e1f"
+      },
+      "squuid": "5be1a6b7-acfa-4dc5-a528-2288f6f63873",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.6,
+      "held": {
+        "name": "Inn-Salzach-Welle GmbH",
+        "squuid": "5be1a6b6-0551-4c05-8a64-0f79f20b7890"
+      },
+      "squuid": "5cc04f2f-c52c-431e-a5a0-46dc8004f535",
+      "state": "active"
+    }
+  ],
+  "city": "Traunstein",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

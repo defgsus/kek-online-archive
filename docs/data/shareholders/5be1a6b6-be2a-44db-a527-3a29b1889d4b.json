@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Frankenallee",
+  "name": "FSM Mediendienste GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-be2a-44db-a527-3a29b1889d4b",
+  "controlDate": "2021-11-10T13:08:57.505Z",
+  "streetNumber": "71-81",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60327",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rüsselsheimer Echo",
+        "squuid": "5be1a6b1-bc2a-44e9-b021-e2e2a1c654cf"
+      },
+      "squuid": "5be1a6b9-5ace-4173-af05-d0351eacc8cc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ruesselsheimer-echo.de",
+        "squuid": "5be1a6b1-c714-4bc7-bfd3-a63b5ae9a8b8"
+      },
+      "squuid": "5be1a6b9-6e82-46f0-82a7-641d61076d04",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Frankfurter Societäts-Medien GmbH",
+        "squuid": "5be1a6b6-503e-4911-aa84-57f6b2a9ce64"
+      },
+      "squuid": "5be1a6b8-a444-44ed-969d-c1096f08ee12",
+      "state": "active"
+    }
+  ]
+}

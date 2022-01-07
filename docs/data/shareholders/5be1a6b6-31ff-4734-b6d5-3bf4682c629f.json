@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Amsterdamer Straße",
+  "name": "DuMont Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-31ff-4734-b6d5-3bf4682c629f",
+  "streetNumber": "192",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "50735",
+  "credits": "Website DuMont, Abruf am 17.02.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DuMont Mediengruppe GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1ab-45ed-adc5-5a3dca911ab5"
+      },
+      "squuid": "5be1a6b7-175c-42af-ab7e-fc1af7f77a9f",
+      "state": "active"
+    }
+  ]
+}

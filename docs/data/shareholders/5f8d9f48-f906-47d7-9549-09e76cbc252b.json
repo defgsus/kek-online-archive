@@ -1,0 +1,80 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Radio Citywelle Chemnitz GmbH & Co. Betriebs KG",
+        "squuid": "5be1a6b6-85f0-4c08-9f0f-deebb770dc69"
+      },
+      "squuid": "5f8d9fb1-db01-40f9-8971-fa140128b7a6",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Thomasgasse",
+  "name": "Radio Citywelle Chemnitz GmbH",
+  "naturalPerson": false,
+  "squuid": "5f8d9f48-f906-47d7-9549-09e76cbc252b",
+  "controlDate": "2021-05-20T12:14:34.366Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04109",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "CIB Beteiligungs GmbH",
+        "squuid": "5be1a6b6-c35a-4143-bcd5-fd91e5941b24"
+      },
+      "squuid": "5f9001da-9ff8-4b2d-aa59-907593dd777f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "7010 Radio Leipzig GmbH & Co. Betriebs KG",
+        "squuid": "5be1a6b6-3b95-4bf5-a5c0-75a8fb6ffce9"
+      },
+      "squuid": "5f9001f4-f986-434d-a069-4e934d37fb43",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Radio Elbwelle Dresden GmbH & Co. KG",
+        "squuid": "5be1a6b6-1716-4a3a-b7d2-c04bed51280b"
+      },
+      "squuid": "5f900201-7c9c-4c4c-bc8a-6c6f7dc70102",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Eigenbesitz der Radio Citywelle Chemnitz GmbH",
+        "squuid": "5f900233-7ec5-4e2f-84b0-07a7c3c769ca"
+      },
+      "squuid": "5f900259-9171-42ad-bf13-8083c257d433",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Streubesitz an der Audi AG",
+  "squuid": "605c8f80-c77f-4780-a19c-8598f58c1a8f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Audi AG",
+        "squuid": "5be1a6b6-b2ce-4109-847f-cdd7cf6f54e6"
+      },
+      "squuid": "605c8fc3-f8db-473d-9010-c542bd205f59",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active"
+}

@@ -1,0 +1,92 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Theresienstr.",
+  "name": "Promipool GmbH",
+  "naturalPerson": false,
+  "squuid": "5c4f01d3-f83a-4f27-9a0e-959fee8b5b22",
+  "controlDate": "2021-12-17T11:28:38.877Z",
+  "streetNumber": "40",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80333",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.promipool.de",
+        "squuid": "5c4f01c7-c9e8-4359-9900-00109fb5d657"
+      },
+      "squuid": "5c4f0226-b05d-46ce-a109-e978696176bd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 66.43,
+      "holder": {
+        "name": "ECA Media GmbH",
+        "squuid": "5d244f6b-27a8-4e17-b15a-9cef7848dcdc"
+      },
+      "squuid": "5d24504a-e9d8-4aa2-84f9-704bba3499ad",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.22,
+      "holder": {
+        "name": "HY4 Media GmbH",
+        "squuid": "5d245008-2996-419f-ab30-85a712fb5805"
+      },
+      "squuid": "5d24505a-645a-4dbf-91f9-94538e2b563d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.48,
+      "holder": {
+        "name": "Tiburon Unternehmensaufbau GmbH",
+        "squuid": "5be1a6b6-b6c7-4aa3-9969-372094de1b91"
+      },
+      "squuid": "5d2450b8-cd8f-464d-aacf-fd9c156ca5a7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.29,
+      "holder": {
+        "name": "Sandmann, Friedrich-Karl",
+        "squuid": "5d2452af-4192-4ae1-91cf-130d7cc7fcdf"
+      },
+      "squuid": "60a4e621-f189-413e-9d59-7887bb10756e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.58,
+      "holder": {
+        "name": "Mountain Alliance AG",
+        "squuid": "5d2452f9-3a0d-4283-bb17-61c0ff780bb3"
+      },
+      "squuid": "60a4e64b-42b2-4cf5-a577-833477668e75",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Gößwein, Alexander",
+        "squuid": "60a4e67e-dd9d-45d7-8f7b-f26eb4ff1439"
+      },
+      "squuid": "60a4e695-1a2e-408d-8945-0702d0e8e775",
+      "state": "active"
+    }
+  ]
+}

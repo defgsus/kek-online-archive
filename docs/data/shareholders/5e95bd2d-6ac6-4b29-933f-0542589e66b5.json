@@ -1,0 +1,30 @@
+{
+  "name": "VR Bank Oberfranken Mitte eG",
+  "squuid": "5e95bd2d-6ac6-4b29-933f-0542589e66b5",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.5,
+      "held": {
+        "name": "Fernsehanbietergemeinschaft oberfränkischer Sparkassen und Volks- und Raiffeisenbanken GbR",
+        "squuid": "5be1a6b6-b155-48e2-a97e-3b39bfce7fbc"
+      },
+      "squuid": "5e95bdf3-ca77-427c-9de0-9804802951bb",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active"
+}

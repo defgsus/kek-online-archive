@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Landsberger Straße",
+  "name": "EUVIA TRAVEL GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f230-41bd-a54f-e6a4c9ce1a66",
+  "controlDate": "2022-01-05T15:51:32.275Z",
+  "streetNumber": "88",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80339",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "sonnenklar.TV",
+        "squuid": "5be1a6b1-6ff6-4f8c-a55f-9216bfd2e54b"
+      },
+      "squuid": "5be1a6b9-6797-4a97-b5ac-847a43c4eac9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sonnenklar.tv",
+        "squuid": "5d2ee1f1-1382-406d-856f-9d42da0727f4"
+      },
+      "squuid": "5d2ee21f-0a67-4cec-b463-9ef9683e78e7",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft der EUVIA TRAVEL GmbH vom 25.06.2014",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RT/Raiffeisen Touristik Group GmbH",
+        "squuid": "5cda7c06-ddde-49ca-abf3-e191216338c3"
+      },
+      "squuid": "5cda7dce-10b2-409d-9c20-f5e9b95a98b2",
+      "state": "active"
+    }
+  ]
+}

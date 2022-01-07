@@ -1,0 +1,61 @@
+{
+  "name": "Röser, Robert",
+  "pseudoCompany": false,
+  "squuid": "5f367c17-fe2c-41fb-b967-71ca7a7c702b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Röser MEDIA GmbH & Co. KG",
+        "squuid": "5be1a6b6-25b7-4d88-b2f6-4e4aee52fe61"
+      },
+      "squuid": "5f367cce-a08a-43b6-9676-2931b14d91aa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Röser MEDIA Verwaltungsgesellschaft mbH",
+        "squuid": "5f367bf8-0c3b-492d-80b0-9dcdbf49029e"
+      },
+      "squuid": "5fac14a6-ef8c-495a-8ed9-2735113f37c7",
+      "state": "active"
+    }
+  ],
+  "city": "Karlsruhe",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

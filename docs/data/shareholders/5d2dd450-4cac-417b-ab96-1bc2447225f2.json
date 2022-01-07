@@ -1,0 +1,40 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Wolters Kluwer Germany Holding GmbH",
+        "squuid": "5d2dd395-2a56-4935-a862-470130bfa409"
+      },
+      "squuid": "5d2dd46b-5cab-413c-b2a2-8d771d99d16c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Amsterdam (NL)",
+  "pseudoCompany": false,
+  "name": "Wolters Kluwer International Holding B.V.",
+  "naturalPerson": false,
+  "squuid": "5d2dd450-4cac-417b-ab96-1bc2447225f2",
+  "controlDate": "2022-01-06T13:08:26.059Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wolters Kluwer N.V.",
+        "squuid": "5d2de0aa-f270-44de-811e-63aca2c6e92d"
+      },
+      "squuid": "5d2de0f6-d18e-4a7b-8d90-b47f7009a4b1",
+      "state": "active"
+    }
+  ]
+}

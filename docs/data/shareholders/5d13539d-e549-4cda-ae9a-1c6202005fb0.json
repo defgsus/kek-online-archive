@@ -1,0 +1,58 @@
+{
+  "state": "active",
+  "city": "Grassau",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Radio BUH gGmbH",
+  "naturalPerson": false,
+  "co": "Evi Dettl",
+  "squuid": "5d13539d-e549-4cda-ae9a-1c6202005fb0",
+  "controlDate": "2021-12-01T13:56:51.126Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "83224",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio BUH  ",
+        "squuid": "5d132a5a-f5de-4feb-82c8-e746e56707bf"
+      },
+      "squuid": "5d1353b8-44ba-474a-a2ae-80530ad50c48",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.buh.rocks",
+        "squuid": "5f929441-7176-46d9-8569-d3d3cb39c435"
+      },
+      "squuid": "5f929593-2a2a-4ae5-979e-cc10da72efa2",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Dettl, Stefan",
+        "squuid": "5d132b35-40c2-48fb-9edf-8369aa9e070e"
+      },
+      "squuid": "5d1353dd-5d5e-4f3f-986e-72af66fd6b9c",
+      "state": "active"
+    }
+  ]
+}

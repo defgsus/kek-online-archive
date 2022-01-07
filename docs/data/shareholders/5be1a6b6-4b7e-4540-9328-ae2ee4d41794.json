@@ -1,0 +1,100 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Berlin 87,9 Rundfunkveranstalter GmbH & Co. KG",
+        "squuid": "5be1a6b6-fd71-4dcf-95ea-d597070a15e0"
+      },
+      "squuid": "5be1a6b7-d0ca-45ba-b407-bc9874999381",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Rock World GmbH",
+        "squuid": "5f0d75c5-ba32-4c6b-b183-dc8bf5c79b80"
+      },
+      "squuid": "5f1016c6-ba40-49c1-a618-02431996d50f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Star FM Nürnberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-d6bc-4680-a37b-5bd97a65f4e0"
+      },
+      "squuid": "6022b808-ccf4-4f92-b3b5-0da7eb1c6f32",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "STAR FM Nürnberg Verwaltungs GmbH",
+        "squuid": "5f96dc32-cd53-4987-b16f-ed689e744fa3"
+      },
+      "squuid": "6022b832-d7ea-4546-a3aa-cd0d88edffae",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "München",
+  "note": "Stand: 11/2021",
+  "pseudoCompany": false,
+  "street": "Montgelasstr.",
+  "name": "Dornier Medien Beteiligungs GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4b7e-4540-9328-ae2ee4d41794",
+  "controlDate": "2021-11-26T16:01:01.662Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "81679",
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Dornier Medien GmbH & Co. KG",
+        "squuid": "5f0580fa-7732-474c-a202-7561c3672200"
+      },
+      "squuid": "5f0581c9-b166-469b-b223-fab5bd0fbb57",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Dornier Medien Vermögensverwaltung GmbH",
+        "squuid": "5f0d76d7-633c-495a-b506-f18554778397"
+      },
+      "squuid": "5f0d7745-4cd5-4f68-8c33-b8f259a7e890",
+      "state": "active"
+    }
+  ]
+}

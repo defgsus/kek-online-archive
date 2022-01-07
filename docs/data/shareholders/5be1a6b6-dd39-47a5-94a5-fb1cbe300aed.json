@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Senefelderstraße",
+  "name": "Radio 5 Programm- und Werbegesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-dd39-47a5-94a5-fb1cbe300aed",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "90409",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Mayer, Prof. Hermann",
+        "squuid": "5be1a6b6-e5c4-4b79-a553-b8d515827271"
+      },
+      "squuid": "5be1a6b7-bab8-4519-aa0d-2f0012269272",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Radio Hot Spotlight GmbH",
+        "squuid": "5be1a6b6-6e4c-4fd9-afc8-085c386723a2"
+      },
+      "squuid": "5be1a6b7-d619-46fc-be1c-7f1ca77d7734",
+      "state": "active"
+    }
+  ]
+}

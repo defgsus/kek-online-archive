@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Nikolaistraße 5",
+  "name": "Verlag Natur & Heilen Inh. Hansjörg Volkhardt",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6c95-4176-9852-e089c5077aba",
+  "controlDate": "2021-11-03T17:35:51.972Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80802",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Natur & Heilen",
+        "squuid": "5be1a6b1-a54c-47ce-957e-4932d1b0b7ac"
+      },
+      "squuid": "5be1a6b9-d4fd-4a85-8c0d-cbc0862ff572",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.naturundheilen.de",
+        "squuid": "5be1a6b1-87ca-44e3-8f3d-b4299073ea70"
+      },
+      "squuid": "5be1a6b9-2ecb-4dd8-82d3-23a700b18877",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Volkhardt, Hansjörg",
+        "squuid": "5be1a6b6-f2a9-4c9e-9806-ded6360d7d06"
+      },
+      "squuid": "5be1a6b8-e6cd-4c55-8a08-052b997bc4db",
+      "state": "active"
+    }
+  ]
+}

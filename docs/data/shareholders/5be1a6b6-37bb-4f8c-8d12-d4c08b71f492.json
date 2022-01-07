@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Radio Merzig 105.1 UG (haftungsbeschränkt)",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-37bb-4f8c-8d12-d4c08b71f492",
+  "organizations": [
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Merzig 105.1",
+        "squuid": "5be1a6b1-546b-4fd7-8a6f-4ab930495668"
+      },
+      "squuid": "5be1a6b9-4278-49f8-999d-1bf706b09a2c",
+      "state": "active"
+    }
+  ],
+  "credits": "LMS",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Becker, Thomas",
+        "squuid": "5be1a6b6-583a-43d8-b7cc-2fcd84de087e"
+      },
+      "squuid": "5be1a6b8-face-4c9b-8062-e693d6e3acd0",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Gänsheidestraße",
+  "name": "AVE VI Vermögensverwaltungsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e386-4870-bd86-fe97dc61431e",
+  "streetNumber": "26",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "70184",
+  "credits": "radiowoche.de vom 18.10.2012",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.9,
+      "holder": {
+        "name": "RTL Radio Deutschland GmbH",
+        "squuid": "5be1a6b6-fa80-4709-a830-dea042b7476d"
+      },
+      "squuid": "5be1a6b8-7880-43ba-8e08-76c4e73339aa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.1,
+      "holder": {
+        "name": "Verlagsgruppe Georg von Holtzbrinck GmbH",
+        "squuid": "5be1a6b6-d60b-442a-b6cd-ee9a770b1646"
+      },
+      "squuid": "5be1a6b8-8c04-4269-a67f-d8a80e90fc08",
+      "state": "active"
+    }
+  ]
+}

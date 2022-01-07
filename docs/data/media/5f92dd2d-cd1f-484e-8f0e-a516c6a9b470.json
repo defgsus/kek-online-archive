@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f92dd2d-cd1f-484e-8f0e-a516c6a9b470",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio München gUG (haftungsbeschränkt)",
+        "squuid": "5f92dddc-2512-43d7-b865-48a694c606d2"
+      },
+      "squuid": "5f92de10-2f4a-4067-bc13-562efc2c85f5",
+      "state": "active"
+    }
+  ],
+  "name": "www.radiomuenchen.net",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-22T15:54:44.742Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

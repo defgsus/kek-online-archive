@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Kissing",
+  "pseudoCompany": false,
+  "street": "Römerstr. 4",
+  "name": "WEKA Holding GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-b268-4964-aa1e-0e781b842aec",
+  "controlDate": "2020-05-07T13:43:01.756Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "86438",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 5.2,
+      "holder": {
+        "name": "KM-B Vermögensverwaltung GmbH",
+        "squuid": "5be1a6b6-62a9-4ead-a40f-6c7b916d2c36"
+      },
+      "squuid": "5be1a6b8-e09d-483a-a7e0-b5357c06d717",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.6,
+      "holder": {
+        "name": "SH-B Vermögensverwaltung GmbH",
+        "squuid": "5be1a6b6-af8d-44e5-9bcc-af32fb510e8c"
+      },
+      "squuid": "5be1a6b8-3e63-4e75-b57f-b2271858a7d3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 92.2,
+      "holder": {
+        "name": "WM-B Vermögensverwaltung GmbH",
+        "squuid": "5be1a6b6-3d20-4fa1-a9fb-a9fc02051b8f"
+      },
+      "squuid": "5be1a6b8-0063-43df-a2a5-0f68e2789ea5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "WEKA Holding Beteiligungs-GmbH",
+        "squuid": "5ebd4519-32ba-44f2-ae6b-22e682504e56"
+      },
+      "squuid": "5ebd453a-98cf-4734-a550-6defae61091a",
+      "state": "active"
+    }
+  ]
+}

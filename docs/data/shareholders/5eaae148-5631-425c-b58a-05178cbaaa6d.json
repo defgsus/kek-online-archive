@@ -1,0 +1,61 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "A. Reiff & Cie. GmbH & Co. KG",
+        "squuid": "5be1a6b6-3544-4546-8b8c-5420e439f6e5"
+      },
+      "squuid": "5eaae173-31ab-4f17-b5dc-c8c31e47bd01",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Reiff Beteiligungen KG",
+        "squuid": "5be1a6b6-93ac-4f77-a227-441f9298f8ac"
+      },
+      "squuid": "5eaae2b3-5115-4b22-8443-faa5936d3068",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Offenburg",
+  "pseudoCompany": false,
+  "street": "Marlener Str.",
+  "name": "Reiff GmbH",
+  "naturalPerson": false,
+  "squuid": "5eaae148-5631-425c-b58a-05178cbaaa6d",
+  "controlDate": "2021-11-05T15:26:11.100Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "77656",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "A. Reiff & Cie. GmbH & Co. KG",
+        "squuid": "5be1a6b6-3544-4546-8b8c-5420e439f6e5"
+      },
+      "squuid": "5ee1e952-fd44-4f11-ae30-bac86fe4103c",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Chaville, Frankreich",
+  "pseudoCompany": false,
+  "street": "Avenue Roger Salengro",
+  "name": "Motors TV ACL",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2464-4b9d-8245-a691aca836c8",
+  "streetNumber": "855",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "92370",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Motors TV",
+        "squuid": "5be1a6b1-066b-4346-976c-5d58dafe6ad3"
+      },
+      "squuid": "5be1a6b9-becc-4fdc-b6d2-23832ea77b3b",
+      "state": "active"
+    }
+  ]
+}

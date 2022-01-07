@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Bleibtreustr.",
+  "name": "Media Pioneer Publishing AG",
+  "naturalPerson": false,
+  "squuid": "5f2925da-6416-41a3-b66a-a4d6d962b41b",
+  "controlDate": "2022-01-06T16:00:17.418Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10623",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.thepioneer.de",
+        "squuid": "5f292581-3de3-41e7-bb80-d28010637027"
+      },
+      "squuid": "5f29267d-e8a3-45a6-863e-499c1179d059",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 54.0,
+      "holder": {
+        "name": "Steingart, Gabor (& Management der Media Pioneer Publishing AG)",
+        "squuid": "5be1a6b6-43ee-44de-9553-c946116b08dd"
+      },
+      "squuid": "5f2926e0-abe6-4a0e-8833-727c976cc032",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 36.0,
+      "holder": {
+        "name": "Axel Springer SE",
+        "squuid": "5be1a6b6-5c1b-48b1-ad15-85241452bf42"
+      },
+      "squuid": "5f2926f1-f1d1-4b3b-b260-913beb0da164",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Streubesitz an der Media Pioneer Publishing AG (Leser und Hörer von www.thepioneer.de)",
+        "squuid": "5f29263c-ce72-4e6f-ab90-3630a5f0ca43"
+      },
+      "squuid": "5f2926fb-1950-4c8a-8fc7-02331726a963",
+      "state": "active"
+    }
+  ]
+}

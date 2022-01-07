@@ -1,0 +1,102 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.25,
+      "held": {
+        "name": "VRM Holding GmbH & Co KG",
+        "squuid": "5be1a6b6-ef85-4f4b-88f1-69d0d1eedc57"
+      },
+      "squuid": "5be1a6b8-8df3-4f02-8c0c-922da8b9109c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hürth",
+  "pseudoCompany": false,
+  "street": "Gernotstr.",
+  "name": "Thywissen MV-Familiengesellschaft KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-da9e-4e13-97c0-31429fc8f8b0",
+  "controlDate": "2021-11-23T11:59:41.477Z",
+  "streetNumber": "25",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "50354",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.2,
+      "holder": {
+        "name": "Thywissen, Cornelius",
+        "squuid": "5be1a6b6-8265-4ef8-aca3-07fc9717950a"
+      },
+      "squuid": "5be1a6b8-42cc-4003-a2c5-793ec28abe6b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.8,
+      "holder": {
+        "name": "Josten, Anneliese",
+        "squuid": "5be1a6b6-d14c-4bcb-8061-92d54f48fc0a"
+      },
+      "squuid": "5be1a6b8-fe13-42d3-922c-8047629cb6ad",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Thywissen, Hermann Fidelis",
+        "squuid": "5eb03e6f-0edf-4145-8dd0-51641b36ab07"
+      },
+      "squuid": "5eb03e90-98e2-4234-beb3-4078ea7017fd",
+      "state": "active"
+    }
+  ]
+}

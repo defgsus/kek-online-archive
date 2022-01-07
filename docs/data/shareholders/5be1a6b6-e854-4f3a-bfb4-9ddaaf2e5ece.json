@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Willich",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-e854-4f3a-bfb4-9ddaaf2e5ece",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "Lokalfunk Krefeld-Viersen GmbH & Co. KG",
+        "squuid": "5be1a6b6-9fa4-4094-842a-06d50f2d23d3"
+      },
+      "squuid": "5be1a6b7-8733-4694-a892-0f533d365daa",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

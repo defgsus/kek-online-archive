@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Allgäu-TV GmbH & Co. KG",
+        "squuid": "5cab6a19-b235-49e1-abfe-578e329004c0"
+      },
+      "squuid": "5f77225e-98f3-45d9-a091-12e439d98323",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kempten",
+  "pseudoCompany": false,
+  "street": "Heisinger Str.",
+  "name": "Allgäu-TV Beteiligungs- und Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f7721ce-3b10-4b61-bd97-b6e5b9ee8fdd",
+  "controlDate": "2021-11-23T12:10:27.676Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "87437",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 56.0,
+      "holder": {
+        "name": "rta.media GmbH",
+        "squuid": "5be1a6b6-835d-4817-ab25-5f64286c4824"
+      },
+      "squuid": "5f896034-8152-4f6a-8621-ab9820e0f9ac",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.0,
+      "holder": {
+        "name": "RT.15 GmbH",
+        "squuid": "5be1a6b6-70b0-48eb-8010-19756d476b0e"
+      },
+      "squuid": "5f896054-8143-4348-889b-e03e7a474521",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Sankt Ulrich Verlag GmbH",
+        "squuid": "5be1a6b6-cac1-420a-b40c-87452e0ab6f4"
+      },
+      "squuid": "5f896076-65c1-4118-8d85-a73d33cf16f2",
+      "state": "active"
+    }
+  ]
+}

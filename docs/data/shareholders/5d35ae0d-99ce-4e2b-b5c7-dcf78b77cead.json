@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Am Studio",
+  "name": "RT DE Productions GmbH",
+  "naturalPerson": false,
+  "squuid": "5d35ae0d-99ce-4e2b-b5c7-dcf78b77cead",
+  "controlDate": "2021-12-02T17:30:00.589Z",
+  "streetNumber": "16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "12489",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deutsch.rt.com",
+        "squuid": "5d35ae24-b0ed-4e52-8689-feb4132cade4"
+      },
+      "squuid": "5d35ae3f-1cfc-49b2-8591-fd35262b1b20",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rossija Sewodnja (Medienunternehmen der Russischen Föderation)",
+        "squuid": "5d35b1de-01f5-4664-bc63-87f5ae42f04f"
+      },
+      "squuid": "5d35b207-4598-418d-a048-cc634a1b76d0",
+      "state": "active"
+    }
+  ]
+}

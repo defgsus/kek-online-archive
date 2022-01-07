@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Rosenheim",
+  "pseudoCompany": false,
+  "street": "Adlzreiterstraße 16",
+  "name": "ROJ Werbe- und Verlags-GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e5e4-47cf-b107-3b6185b0db9f",
+  "controlDate": "2021-11-10T11:46:42.906Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "83022",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rosenheimer Journal",
+        "squuid": "5be1a6b1-e614-429c-98d2-a3a8817ddaaa"
+      },
+      "squuid": "5be1a6b9-f3e9-4765-9d24-a6cde00f0c5a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rojo.de",
+        "squuid": "5be1a6b1-d677-426b-be4e-6a6887f5b41b"
+      },
+      "squuid": "5be1a6b9-0752-4e5a-beea-f94517eff7b8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Hartl, Gisela",
+        "squuid": "5be1a6b6-5514-4069-8d18-0867f7854666"
+      },
+      "squuid": "5be1a6b8-215a-4803-88ba-6bc3507411a6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Hartl, Robert",
+        "squuid": "5be1a6b6-e0d1-4f9f-a19a-ff2fd928fce4"
+      },
+      "squuid": "5be1a6b8-ed27-49e8-962f-4c44ced7b3a9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "Betzl, Sabine",
+        "squuid": "5be1a6b6-039f-45e5-8914-47a3757aaad6"
+      },
+      "squuid": "5be1a6b8-0f3a-48df-93f1-7d9b56a3c7aa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Betzl, Robert",
+        "squuid": "5be1a6b6-9ca1-4061-912a-89b14bc35554"
+      },
+      "squuid": "5be1a6b8-95c6-442c-b964-3259ecec10b7",
+      "state": "active"
+    }
+  ]
+}

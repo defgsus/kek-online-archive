@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "5be1a6b1-18ba-4f33-84af-ddaebf7c4bf8",
+  "marketReach": 0.8,
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.ndr.de/wellenord/index.html",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Norddeutscher Rundfunk (NDR)",
+        "squuid": "5be1a6b6-f139-4f07-95d0-bf1060f47ff8"
+      },
+      "squuid": "5be1a6b9-f6b7-4ab6-810a-3e943a2cd349",
+      "state": "active"
+    }
+  ],
+  "name": "NDR 1 Welle Nord",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": true,
+  "rfDirector": "Joachim Knuth",
+  "type": "radio",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "accessibilityEmail": "ndr@ndr.de"
+}

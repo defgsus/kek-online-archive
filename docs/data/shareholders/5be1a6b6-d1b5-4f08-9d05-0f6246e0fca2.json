@@ -1,0 +1,96 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Großer Burstah 18",
+  "name": "Funke TV Guide GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d1b5-4f08-9d05-0f6246e0fca2",
+  "controlDate": "2021-10-25T13:00:38.331Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20457",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hörzu",
+        "squuid": "5be1a6b1-a8a2-468c-a014-38b72a4cddeb"
+      },
+      "squuid": "5be1a6b9-25a5-42a2-9b38-16bec54dab7f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TV digital",
+        "squuid": "5be1a6b1-33af-4821-8179-8beec17ce6d1"
+      },
+      "squuid": "5be1a6b9-3895-4cc1-a8a4-84ea79b2e9f8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hörzu Wissen",
+        "squuid": "5be1a6b1-85fe-4164-9033-1435a4b4c1e8"
+      },
+      "squuid": "5be1a6b9-7c68-4786-bb1a-4efad3996486",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hörzu Gesundheit",
+        "squuid": "5be1a6b1-f2fa-4461-bf3f-5fbeafd9dc5a"
+      },
+      "squuid": "5be1a6b9-00bc-4c7f-b0ca-9f82fe78fc70",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hoerzu.de",
+        "squuid": "5be1a6b1-368b-4578-a15f-6dd7d35aeaed"
+      },
+      "squuid": "5be1a6b9-48dc-4acd-846c-cadf8715fac9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvdigital.de",
+        "squuid": "5be1a6b1-f97e-43c7-a09e-55350171c91a"
+      },
+      "squuid": "5be1a6b9-fcde-4da3-9f03-5c7177f5908b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Streaming",
+        "squuid": "5f856325-c240-4019-9b2c-51a658d344bf"
+      },
+      "squuid": "5f8563a6-c5e9-4db2-ae65-6c77e2c7dca1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Medien Niedersachsen GmbH",
+        "squuid": "5be1a6b6-09ab-484b-9101-6d223b5a7c82"
+      },
+      "squuid": "5ebaa335-881d-44c8-8bc2-59929be436de",
+      "state": "active"
+    }
+  ]
+}

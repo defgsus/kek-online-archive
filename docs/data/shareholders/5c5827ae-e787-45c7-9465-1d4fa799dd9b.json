@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Altenberg",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Anton-Unger-Straße",
+  "name": "Sommerschuh, Eckhard",
+  "naturalPerson": true,
+  "squuid": "5c5827ae-e787-45c7-9465-1d4fa799dd9b",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01773",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kabelzeitung (Altenberg, Geising, Zinnwald)",
+        "squuid": "5c582787-efd6-4af4-9cc3-97ec6ce3ad3d"
+      },
+      "squuid": "5c582852-6bdd-4099-9b94-5e06a8a7d569",
+      "state": "active"
+    }
+  ]
+}

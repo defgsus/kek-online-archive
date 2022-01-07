@@ -1,0 +1,89 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Plieninger Str.",
+  "name": "Die Redaktion Stuttgarter Zeitung Stuttgarter Nachrichten GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c1ae-47fb-bd64-605c3bad3e40",
+  "controlDate": "2021-11-15T14:32:42.031Z",
+  "streetNumber": "150",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70567",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stuttgarter Nachrichten",
+        "squuid": "5be1a6b1-abcb-4d14-8450-951abdaee47a"
+      },
+      "squuid": "5be1a6b9-c70d-4ac9-a70e-5d2de6802f22",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.stuttgarter-nachrichten.de",
+        "squuid": "5be1a6b1-1e7d-4add-8d0a-2bdb4d528b5d"
+      },
+      "squuid": "5be1a6b9-cd78-4dbc-8d1d-f460cf0436f8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stuttgarter Zeitung",
+        "squuid": "5be1a6b1-3f5e-4386-ac6d-5c30f51537fb"
+      },
+      "squuid": "5be1a6b9-c7ed-46f4-8bfc-3f5f6555f787",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.stuttgarter-zeitung.de",
+        "squuid": "5be1a6b1-eef0-45bf-9535-1660d1354169"
+      },
+      "squuid": "5be1a6b9-4756-467e-ad8a-44494b9d8b86",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Fellbacher Zeitung",
+        "squuid": "5be1a6b1-07b4-4590-a6f3-db3ffcd80ab2"
+      },
+      "squuid": "5ec78fac-c7a1-426b-badf-2143a78a8adf",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b"
+      },
+      "squuid": "5be1a6b8-e853-4ee8-8399-6463082e8c16",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Stuttgarter Zeitung Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-ef3b-43ce-979a-eddf7669f94f"
+      },
+      "squuid": "5be1a6b8-884e-46de-bbd1-b57eb2a939ca",
+      "state": "active"
+    }
+  ]
+}

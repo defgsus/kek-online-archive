@@ -1,0 +1,74 @@
+{
+  "rfRepresentative": "Hanschick, Martin",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "03.01.2020",
+  "rfFreePay": true,
+  "squuid": "5e3a90d6-11d5-4783-b370-9e98a11229e9",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "accessibilityUrl": "https://seenluft24.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SEENLAND kreativ GmbH",
+        "squuid": "5e3a90ac-f541-4a4c-beee-e6091c76bd8d"
+      },
+      "squuid": "5e3a943f-06bd-4cda-9443-930177f9ead0",
+      "state": "active"
+    }
+  ],
+  "name": "seenluft24",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Lokales Fernsehprogramm",
+  "rfLicensed": "06.12.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d7a7-4bd8-a6c4-89a1eb1c79a0",
+      "name": "Lokale Kabelnetze (veraltet)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "unbefristet",
+  "rfAddress": "Bahnhofstraße 49, 01968 Senftenberg",
+  "accessibilityEmail": "info@seenluft24.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

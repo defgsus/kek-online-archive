@@ -1,0 +1,98 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Newsroom Holding GmbH & Co KG",
+        "squuid": "5be1a6b6-dea3-41e0-846f-2f8029ee5d79"
+      },
+      "squuid": "5e1f39c2-9681-449f-bc8c-357701028161",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Newsroom Holding Geschäftsführungs GmbH",
+        "squuid": "5eba7db0-8958-41a9-8d1b-3e7f6c1418dd"
+      },
+      "squuid": "5eba7e41-0d4d-4b2e-88a1-df0a379682bd",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Alte Jakobstr.",
+  "name": "Berliner Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-71e3-4db3-a1ea-dcd57648af78",
+  "controlDate": "2021-11-26T16:08:04.038Z",
+  "streetNumber": "105",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "10969",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Berliner Zeitung",
+        "squuid": "5be1a6b1-8583-4fd6-8e9c-5d468549f698"
+      },
+      "squuid": "5be1a6b9-da66-4440-846d-195f13db8750",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.berliner-zeitung.de",
+        "squuid": "5be1a6b1-8a18-46cf-89aa-ccb4588ffede"
+      },
+      "squuid": "5be1a6b9-08de-4217-81a5-81a6dd5e50a7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Berliner Kurier",
+        "squuid": "5be1a6b1-4da2-41fb-a3f9-07c6d172825d"
+      },
+      "squuid": "5cd4311c-7621-4466-a5fe-c7da08bed3ae",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.berliner-kurier.de",
+        "squuid": "5be1a6b1-7823-4ad4-a900-ac9e836e95d0"
+      },
+      "squuid": "5cd43451-f412-4168-8bd4-4e80e39f1986",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BV Deutsche Zeitungsholding GmbH",
+        "squuid": "5be1a6b6-43b9-40fe-b1b1-f680ebfdd4bc"
+      },
+      "squuid": "5be1a6b8-2a95-429f-9208-a224107288d4",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Ericusspitze 1",
+  "name": "manager magazin new media GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-328d-4826-8fd5-c964305d4b23",
+  "controlDate": "2021-10-22T13:57:37.024Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20457",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.manager-magazin.de",
+        "squuid": "5be1a6b1-87b0-42fc-9e9f-1548ae0c66b4"
+      },
+      "squuid": "5be1a6b9-f867-4e5d-95e7-db9a0f465705",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.harvardbusinessmanager.de",
+        "squuid": "5be1a6b1-562a-459b-af1f-ca55e69aa5b6"
+      },
+      "squuid": "5be1a6b9-f9b0-46ec-a319-ace7c2aa68e9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "manager magazin Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-9798-4c29-b529-ae86f0d972bd"
+      },
+      "squuid": "5be1a6b8-88f2-440c-a273-8e552df0e1b9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ericus Beteiligungsmanagement GmbH",
+        "squuid": "6092a4ef-c6ee-47d0-b761-9cc057a4342f"
+      },
+      "squuid": "6092a50b-8b2b-40e2-8b49-cefdf9af4385",
+      "state": "active"
+    }
+  ]
+}

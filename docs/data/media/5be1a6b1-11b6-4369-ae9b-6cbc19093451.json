@@ -1,0 +1,86 @@
+{
+  "rfRepresentative": "Paul Borgetto",
+  "state": "active",
+  "rfShoppingChannel": true,
+  "rfStartDate": "2007",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-11b6-4369-ae9b-6cbc19093451",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "redspider networks gmbh",
+        "squuid": "5be1a6b6-54d6-4e48-b8e9-76bc20e607e9"
+      },
+      "squuid": "5be1a6b9-7faf-4cd8-9457-dd90be6d3ada",
+      "state": "active"
+    }
+  ],
+  "name": "meinTVshop",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-6b1a-4de6-924f-727ccb20e81b",
+    "name": "Teleshopping",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+    "name": "LFK",
+    "type": "organization",
+    "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+  },
+  "description": "Teleshoppingsender mit Einkaufstipps rund um den täglichen Bedarf",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

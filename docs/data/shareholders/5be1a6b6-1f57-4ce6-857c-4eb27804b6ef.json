@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Amsterdamer Straße 192",
+  "name": "DuMont.next GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1f57-4ce6-857c-4eb27804b6ef",
+  "controlDate": "2021-10-14T16:01:15.027Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50735",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.express.de",
+        "squuid": "5be1a6b1-e6a3-4a5c-87d2-85a31d8eb359"
+      },
+      "squuid": "5be1a6b9-cf66-4d6f-a4bc-2fe69b7195cf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ksta.de",
+        "squuid": "5be1a6b1-7e58-47e3-8d39-464c9525056b"
+      },
+      "squuid": "5be1a6b9-0ace-4bc6-9852-f366e2422e78",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "DuMont.next Verwaltungs GmbH",
+        "squuid": "5ef5e461-83e8-4ad1-a4d3-c1ac43dc6368"
+      },
+      "squuid": "5ef5e48e-ee03-40bd-af97-614abced2b88",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DuMont Regionalmedienholding GmbH & Co KG",
+        "squuid": "5be1a6b6-ef0d-457b-8db1-fea99e30f23e"
+      },
+      "squuid": "6076fea5-79d4-4cc0-ba55-20c6066c5337",
+      "state": "active"
+    }
+  ]
+}

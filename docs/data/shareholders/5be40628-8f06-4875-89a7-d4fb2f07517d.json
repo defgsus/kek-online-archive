@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Axel-Springer-Straße",
+  "name": "Axel Springer Corporate Solutions GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be40628-8f06-4875-89a7-d4fb2f07517d",
+  "controlDate": "2021-01-19T14:36:34.844Z",
+  "streetNumber": "65",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10888",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Arte Magazin",
+        "squuid": "5be1a6b1-e52e-4ef0-b520-5c05d39d75dd"
+      },
+      "squuid": "5be406e3-3b69-4c92-9380-8784afc41655",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Axel Springer SE",
+        "squuid": "5be1a6b6-5c1b-48b1-ad15-85241452bf42"
+      },
+      "squuid": "5be4076e-3866-4362-af2a-c3ea4884f01d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Axel Springer Corporate Solutions Verwaltungs-GmbH",
+        "squuid": "5eb3f708-692b-4b1a-93bd-a5decfbeb5f0"
+      },
+      "squuid": "5eb3f732-ca8c-4a37-bcaa-725105f7b056",
+      "state": "active"
+    }
+  ]
+}

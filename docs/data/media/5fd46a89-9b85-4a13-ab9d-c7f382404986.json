@@ -1,0 +1,69 @@
+{
+  "rfRepresentative": "Christian Müller, Marcel Linke",
+  "state": "active",
+  "sharesInfo": "KEK 1056",
+  "rfShoppingChannel": false,
+  "rfStartDate": "September 2019",
+  "rfFreePay": false,
+  "squuid": "5fd46a89-9b85-4a13-ab9d-c7f382404986",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Sports Trade GmbH",
+        "squuid": "5fd46a9b-7682-4253-92c4-d4cea1561335"
+      },
+      "squuid": "5fd46bf5-a861-4934-bc68-d399aae4a4db",
+      "state": "active"
+    }
+  ],
+  "name": "sprade.tv",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+    "name": "LFK",
+    "type": "organization",
+    "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+  },
+  "description": "Livestreaming-Angebot mit Live-Übertragungen von Sportveranstaltungen, vornehmlich aus dem Bereich Eishockey.",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

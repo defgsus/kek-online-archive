@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.04,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Mülheim/Oberhausen mbH & Co. KG",
+        "squuid": "5be1a6b6-37f1-4531-90ce-878548f818b8"
+      },
+      "squuid": "5be1a6b8-5eec-4471-b81f-4b73afc5ac16",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.4,
+      "held": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Mülheim/Oberhausen mbH",
+        "squuid": "5f180762-de46-470c-81fd-8194ea35a869"
+      },
+      "squuid": "5ff5acf7-b3b8-4666-a20f-d07be5d34980",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mülheim an der Ruhr",
+  "pseudoCompany": false,
+  "street": "Am Schloß Broich",
+  "name": "Beteiligungsholding Mülheim an der Ruhr GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-32c1-449b-a86c-c620e020c54b",
+  "controlDate": "2021-12-22T15:51:48.048Z",
+  "streetNumber": "2-6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "45479",
+  "credits": "Quelle: www.muelheim-ruhr.de",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Mülheim an der Ruhr",
+        "squuid": "5be1a6b6-1330-40f2-b2f0-9ca8a80ccba2"
+      },
+      "squuid": "5be1a6b8-edba-4755-9542-7c4efd0212da",
+      "state": "active"
+    }
+  ]
+}

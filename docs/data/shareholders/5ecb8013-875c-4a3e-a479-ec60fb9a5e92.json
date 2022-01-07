@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Freizeitwoche Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-eafd-4837-9758-92df7b21c886"
+      },
+      "squuid": "5ecb8035-b214-4ab0-8601-02dba478c28b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Rastatt",
+  "pseudoCompany": false,
+  "street": "Karlsruher Str.",
+  "name": "Freizeitwoche Verlag Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5ecb8013-875c-4a3e-a479-ec60fb9a5e92",
+  "controlDate": "2021-10-15T13:26:03.009Z",
+  "streetNumber": "31",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "76437",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "5ecb80c0-2648-4661-a4a9-0dfa2952f178",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Medienholding Klambt GmbH & Co KG",
+        "squuid": "5be1a6b6-7140-4499-b16b-b5c1288ef7a6"
+      },
+      "squuid": "5ecb80cf-7efe-4d09-8e1f-9c0d2ca1e13b",
+      "state": "active"
+    }
+  ]
+}

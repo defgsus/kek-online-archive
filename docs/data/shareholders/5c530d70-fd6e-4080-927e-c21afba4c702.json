@@ -1,0 +1,93 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Unicum Verwaltungs-GmbH",
+        "squuid": "5eea0f70-f60e-44b0-8f8a-45af40fe690f"
+      },
+      "squuid": "5eea11bc-df77-41c5-8de4-300bcd88d18b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bochum",
+  "pseudoCompany": false,
+  "street": "Ferdinandstraße",
+  "name": "UNICUM GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5c530d70-fd6e-4080-927e-c21afba4c702",
+  "controlDate": "2021-11-17T16:17:12.121Z",
+  "streetNumber": "13",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "44789",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Unicum",
+        "squuid": "5c530cef-e6ed-4555-8583-be05b31fff1c"
+      },
+      "squuid": "5c530dea-7bcb-4e8e-bd49-41192c7d2470",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Unicum Abi",
+        "squuid": "5c530d14-157d-46e6-9c1c-3e872c6ae637"
+      },
+      "squuid": "5c530e53-b234-4858-9e5f-66cba6779c7f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Unicum Beruf",
+        "squuid": "5c530d1e-0951-46e3-8796-928be7e45800"
+      },
+      "squuid": "5c530ec7-9514-46e0-9315-e67cd4782514",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.unicum.de",
+        "squuid": "5c530d29-903d-4b2c-ad02-3796148f0f6a"
+      },
+      "squuid": "5c530f25-2ebc-48f9-948a-71a94ac9caa3",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Baldschus, Manfred",
+        "squuid": "5c530fbd-c06b-4c19-a985-f9e6acab30aa"
+      },
+      "squuid": "5c530fdd-4775-4c3d-abc7-6ac0cb17b3d4",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Unicum Verwaltungs-GmbH",
+        "squuid": "5eea0f70-f60e-44b0-8f8a-45af40fe690f"
+      },
+      "squuid": "5eea0f8a-c1aa-4599-8181-71614e05b56c",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Burchardtsr.",
+  "name": "Bauer Lifestyle GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-446d-466e-9cb0-921496118093",
+  "controlDate": "2021-03-25T15:51:50.481Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20077",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Closer",
+        "squuid": "5be1a6b1-f402-401b-aa51-54dddde250bb"
+      },
+      "squuid": "5be1a6b9-2775-43fd-a01b-bdafa9aeaa15",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "inTouch",
+        "squuid": "5be1a6b1-6b2a-4605-b861-4a0f771d8c72"
+      },
+      "squuid": "5be1a6b9-5d4b-4848-887a-a043cc5d0e99",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "5be1a6b8-c515-4750-ab35-b28b30cec340",
+      "state": "active"
+    }
+  ]
+}

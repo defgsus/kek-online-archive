@@ -1,0 +1,112 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.77,
+      "held": {
+        "name": "TVA Ostbayern Fernsehprogrammgesellschaft mbH & Co. Studiobetriebs KG",
+        "squuid": "5cab5d68-1576-4194-9733-75dce03e44ad"
+      },
+      "squuid": "5cab628c-aa6f-4e68-8476-b3e71d6abf69",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "held": {
+        "name": "Niederbayern TV Deggendorf-Straubing GmbH & Co. KG",
+        "squuid": "5ccac6bb-64a5-4968-961e-45b37a85765f"
+      },
+      "squuid": "5ccac822-0499-49b0-a54f-2381b7cd6cc3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "held": {
+        "name": "Niederbayern TV Passau GmbH",
+        "squuid": "5ccacbf6-a59f-42fd-8dcb-8c22e0d52fcb"
+      },
+      "squuid": "5ccacc35-c102-4278-bd03-01c2078ae709",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "held": {
+        "name": "Niederbayern TV Landshut GmbH",
+        "squuid": "5ccace35-9ed3-4c9c-9524-88d2b18c6009"
+      },
+      "squuid": "5ccace81-2f46-4d31-ba32-78568203cb60",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "held": {
+        "name": "Niederbayern TV Verwaltungs-GmbH",
+        "squuid": "5f7dd8ac-80e9-4600-a702-e19ee6ce8cf8"
+      },
+      "squuid": "5f8974b6-8791-4385-8157-88e3b165b950",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Landshut",
+  "pseudoCompany": false,
+  "street": "Altstadt",
+  "name": "Niederbayern TV Programm- und Werbe-GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5cab626e-4766-4537-95c3-64d96fef1fb4",
+  "controlDate": "2021-12-02T16:06:08.672Z",
+  "streetNumber": "89",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "84028",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.niederbayerntv.de",
+        "squuid": "5f7dca9f-09ac-448e-84c6-e4c4c4e4e914"
+      },
+      "squuid": "5f7dcb76-3040-44ca-93dd-e088af9b4046",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Aktuelle Welle Westliches Niederbayern Programm und Werbe GmbH",
+        "squuid": "5be1a6b6-15b3-4228-8660-7f53ca3bcca4"
+      },
+      "squuid": "5cab62f5-ddd8-4a6d-8fdb-f5f804af92f6",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Niederbayern TV Programm- und Werbe-GmbH",
+        "squuid": "5f7dccdb-5a9b-4700-a588-19230bbd222c"
+      },
+      "squuid": "5f8976e6-3d84-4e76-811e-9ce923f7c194",
+      "state": "active"
+    }
+  ]
+}

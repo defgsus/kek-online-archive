@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "rfStartDate": "06.02.2017",
+  "squuid": "5d4ab5c8-03cf-476a-8073-f7d16f8247ec",
+  "marketReach": 0.1,
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.swr.de/swraktuell/index.html",
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Südwestrundfunk (SWR)",
+        "squuid": "5be1a6b6-39c3-4007-b07c-6f84bcebd692"
+      },
+      "squuid": "5d4aba92-1a20-4e46-b396-7f93eff1dea9",
+      "state": "active"
+    }
+  ],
+  "name": "SWR Aktuell",
+  "rfPublicPrivate": true,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "rfDirector": "Kai Gniffke",
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "description": "SWR Aktuell (Radio) ist das Nachrichten- und Informationsprogramm des Südwestrundfunks (SWR) und Nachfolger des Nachrichtenprogramms SWRinfo (dessen Sendestart: 09.01.2012, seinerseits als Nachfolger von \"SWR cont.ra\"). Zudem dient \"SWR Aktuell\" als medienübergreifende SWR-Nachrichtenmarke.",
+  "accessibilityEmail": "info@SWR.de"
+}

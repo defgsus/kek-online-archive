@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "New York (US)",
+  "pseudoCompany": false,
+  "name": "Vimeo Inc.",
+  "naturalPerson": false,
+  "squuid": "5d2c660a-9a5b-4347-a1c2-d5e304465b02",
+  "controlDate": "2022-01-07T12:23:18.305Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.vimeo.com",
+        "squuid": "5d2c657c-0998-4f13-abce-952d5058e14f"
+      },
+      "squuid": "5d2c662c-e3bd-41b7-9e55-8718251bf261",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "IAC InterActiveCorp. ",
+        "squuid": "5d2c6899-0b71-4a04-b974-f95ea6702015"
+      },
+      "squuid": "5d2c68b2-dc39-4842-a1ef-04c8169057fa",
+      "state": "active"
+    }
+  ]
+}

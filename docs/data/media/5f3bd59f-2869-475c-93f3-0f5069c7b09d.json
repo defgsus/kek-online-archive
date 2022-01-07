@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3bd59f-2869-475c-93f3-0f5069c7b09d",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "fx-net Internet Based Services GmbH",
+        "squuid": "5be1a6b6-0d30-44bc-85af-adea183b75e1"
+      },
+      "squuid": "5f3bd5ff-57b7-4908-9c42-28ef9eb10057",
+      "state": "active"
+    }
+  ],
+  "name": "www.kik-tv.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-10T12:02:43.200Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

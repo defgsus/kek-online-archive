@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Bornheim",
+  "note": "",
+  "pseudoCompany": true,
+  "street": "Maarpfad",
+  "name": "SauLustig Online Media",
+  "naturalPerson": false,
+  "squuid": "5d36c167-1512-4c01-bae2-516ed1d7052c",
+  "controlDate": "2022-01-05T11:32:06.601Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53332",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.saulustig.com",
+        "squuid": "5d2ee99c-58bd-43c2-b450-ced59c7534d3"
+      },
+      "squuid": "5d36c17e-3051-4ff0-a62f-b742bee51ddd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kleist, Andreas",
+        "squuid": "61d581ad-4eb2-47e0-98a1-e0ccb4a4b644"
+      },
+      "squuid": "61d581e0-ac1e-4472-b6e9-6ebdfce13d75",
+      "state": "active"
+    }
+  ]
+}

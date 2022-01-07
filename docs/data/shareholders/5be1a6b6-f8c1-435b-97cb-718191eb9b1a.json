@@ -1,0 +1,102 @@
+{
+  "state": "active",
+  "city": "Bautzen",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Wilthener Straße",
+  "name": "Radio Görlitz GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-f8c1-435b-97cb-718191eb9b1a",
+  "controlDate": "2021-12-22T15:13:35.101Z",
+  "streetNumber": "32",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "02625",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Lausitz",
+        "squuid": "5be1a6b1-8cb5-4f30-99e6-76f490a3662b"
+      },
+      "squuid": "5be1a6b9-a08f-4cf3-aed4-164a0f6ca7c1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiolausitz.de",
+        "squuid": "5f92d180-3e1c-45c0-b81d-ca490e4beda5"
+      },
+      "squuid": "5f92d206-7d9e-44ac-a15b-fc25fa12748e",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.21,
+      "holder": {
+        "name": "Verlag für die Frau GmbH",
+        "squuid": "5be1a6b6-73e9-4253-b01c-6c3a76ee24f4"
+      },
+      "squuid": "5be1a6b7-b4eb-43e5-9b2f-d85358b944d4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.21,
+      "holder": {
+        "name": "MTS Mediengesellschaft Telefonbuchverlag Sachsen GmbH",
+        "squuid": "5be1a6b6-22d6-49d6-bc4c-a469bf390acf"
+      },
+      "squuid": "5be1a6b7-106d-468b-ae28-5acaf3462544",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.17,
+      "holder": {
+        "name": "Göllrich, Robby",
+        "squuid": "5be1a6b6-658d-4ff7-b723-be6b7cbf1dda"
+      },
+      "squuid": "5be1a6b7-d482-4363-a94b-33748bc82be1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.41,
+      "holder": {
+        "name": "Rubin, Gerhardt",
+        "squuid": "5be1a6b6-a878-41b7-8873-e5f6e483cfb3"
+      },
+      "squuid": "5be1a6b7-0419-44ca-a935-cd4416c42b7f",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Görlitz Rundfunkverwaltungsgesellschaft mbH",
+        "squuid": "5f92d2b3-f683-4c00-a4d8-91be9c104c11"
+      },
+      "squuid": "5f92d327-f1c3-400d-bb13-032eea78c428",
+      "state": "active"
+    }
+  ]
+}

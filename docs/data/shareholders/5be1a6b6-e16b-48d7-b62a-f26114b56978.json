@@ -1,0 +1,84 @@
+{
+  "state": "active",
+  "city": "Görlitz",
+  "pseudoCompany": false,
+  "street": "An der Frauenkirche",
+  "name": "DDV Neiße GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e16b-48d7-b62a-f26114b56978",
+  "otherMediaActivities": "Regionalverlag der Sächsischen Zeitung",
+  "controlDate": "2021-11-16T14:09:53.750Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "02826",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sächsische Zeitung (Ausgaben Görlitz, Zittau, Löbau, Weißwasser, Niesky)",
+        "squuid": "5be1a6b1-41f5-44ce-9297-a1e821a305e8"
+      },
+      "squuid": "5be1a6b9-feee-413e-8b6a-2e41c67cb359",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 52.0,
+      "holder": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "5be1a6b8-574c-4113-9676-7dc8bfab353a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Rudolph, Petra",
+        "squuid": "5be1a6b6-cba1-4ed3-babe-162fbdc14ffc"
+      },
+      "squuid": "5be1a6b8-8219-46c2-81a8-27982db17b09",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Lange, Peggy",
+        "squuid": "5be1a6b6-86f4-4392-b4e4-118330f237cd"
+      },
+      "squuid": "5be1a6b8-6440-450c-a832-cfdb94e302b8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.0,
+      "holder": {
+        "name": "Mielke, Thomas",
+        "squuid": "60a7a330-2454-43c9-ad94-d4e31a77c292"
+      },
+      "squuid": "60a7a368-6533-4ea1-a9ad-ae755c32b804",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.0,
+      "holder": {
+        "name": "Beutler, Sebastian",
+        "squuid": "60a7a33d-1f73-4bf7-981b-02f1674e29e7"
+      },
+      "squuid": "60a7a376-2d7e-45bc-b83e-11f504383e16",
+      "state": "active"
+    }
+  ]
+}

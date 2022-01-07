@@ -1,0 +1,78 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "S-W Verlag GmbH & Co. KG für Lokalinformationen",
+        "squuid": "5be1a6b6-9dfa-4e7a-a187-34251fc1bcf5"
+      },
+      "squuid": "5ef46aca-d7f7-439c-a37d-d7dc11787d0c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mayen",
+  "pseudoCompany": false,
+  "street": "Göbelstr.",
+  "name": "S-W Verlag Verwaltungsgesellschaft für Lokalinformation mbH",
+  "naturalPerson": false,
+  "squuid": "5ef46a30-6784-4bb2-a0d7-5af358c38805",
+  "controlDate": "2022-01-04T10:33:49.096Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    }
+  ],
+  "zipcode": "56727",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Verlag für Anzeigenblätter GmbH",
+        "squuid": "5ef46a4f-538b-468e-b583-e5cb76ab586d"
+      },
+      "squuid": "6058a1ef-1f1c-438b-ad31-6d14d79caa18",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "WM-Beteiligungs- und Verwaltungs-GmbH & Co KG",
+        "squuid": "5be1a6b6-066d-4a9c-8fc5-81ac88fa3508"
+      },
+      "squuid": "6058a212-e719-40f7-9a20-84bb10daa4ff",
+      "state": "active"
+    }
+  ]
+}

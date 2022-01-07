@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Netzwerk Programmanbietergesellschaft mbH Sachsen & Co. Betriebs KG",
+        "squuid": "5be1a6b6-181c-4a7c-bbd4-0e8d172c83a3"
+      },
+      "squuid": "619fb0a3-e270-4b25-8be6-4f0895bb0fb5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Thomasgasse",
+  "name": "Netzwerk Programmanbietergesellschaft mbH Sachsen",
+  "naturalPerson": false,
+  "squuid": "5f8d93f0-036d-45d6-94aa-4dda55bccb1e",
+  "controlDate": "2021-12-06T12:12:32.002Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04109",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Radio Citywelle Chemnitz GmbH & Co. Betriebs KG",
+        "squuid": "5be1a6b6-85f0-4c08-9f0f-deebb770dc69"
+      },
+      "squuid": "61adfe04-2a76-4d2d-8e7a-ca6ab91764e3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "7010 Radio Leipzig GmbH & Co. Betriebs KG",
+        "squuid": "5be1a6b6-3b95-4bf5-a5c0-75a8fb6ffce9"
+      },
+      "squuid": "61adfe13-8590-4678-9e03-4de0ca8bb6cc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Radio Elbwelle Dresden GmbH & Co. KG",
+        "squuid": "5be1a6b6-1716-4a3a-b7d2-c04bed51280b"
+      },
+      "squuid": "61adfe26-f5e6-4154-8b77-f48dd67b1051",
+      "state": "active"
+    }
+  ]
+}

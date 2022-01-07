@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Deelbögenkamp 4c",
+  "name": "4Players GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2dd0-4587-90d2-6f8959c5ac73",
+  "controlDate": "2021-11-22T10:55:48.188Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22297",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.4players.de",
+        "squuid": "5be1a6b1-06c7-43c1-996b-c8c21aa8e8b7"
+      },
+      "squuid": "5be1a6b9-07b8-4cde-857b-495e8fb09992",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "4players AG",
+        "squuid": "60085673-a2dd-47d9-ac73-530c339f602e"
+      },
+      "squuid": "600856aa-8470-436c-92c8-98703f39ba83",
+      "state": "active"
+    }
+  ]
+}

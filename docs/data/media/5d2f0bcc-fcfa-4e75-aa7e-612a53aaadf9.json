@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "squuid": "5d2f0bcc-fcfa-4e75-aa7e-612a53aaadf9",
+  "marketReach": 0.0760557144527292,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Westdeutscher Rundfunk (WDR)",
+        "squuid": "5be1a6b6-be05-415a-a519-205618bb23bf"
+      },
+      "squuid": "5d2f0bf8-16b1-43d4-b4d5-5d6de997a452",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Südwestrundfunk (SWR)",
+        "squuid": "5be1a6b6-39c3-4007-b07c-6f84bcebd692"
+      },
+      "squuid": "5d2f0c03-c2f2-45f1-8aba-11b51e3285f1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bayerischer Rundfunk (BR) / Programmbereich Planung und Entwicklung ARD-alpha",
+        "squuid": "5d2f0cb4-f4cd-4af8-b783-f2142b2700e3"
+      },
+      "squuid": "5d2f0ccd-208e-49ea-869e-0a7243d1391f",
+      "state": "active"
+    }
+  ],
+  "name": "www.planet-wissen.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-16T18:39:51.343Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

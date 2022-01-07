@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Heidelberger Platz",
+  "name": "Springer Medizin Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a7df-49a0-be28-c8ea5f8ab3f0",
+  "controlDate": "2021-11-19T13:35:37.085Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14197",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ärzte Zeitung",
+        "squuid": "5be1a6b1-ece2-4804-9ec5-0cee42c698f3"
+      },
+      "squuid": "5be1a6b9-2435-4ff8-a5e6-e5b904c5bd29",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.aerztezeitung.de",
+        "squuid": "5be1a6b1-31da-4f35-860b-457e6cb6336d"
+      },
+      "squuid": "5be1a6b9-9493-4c92-b814-a58161e3c9a3",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Springer-Verlag GmbH",
+        "squuid": "5be1a6b6-e031-4d91-b9c0-c7b3a5877101"
+      },
+      "squuid": "5be1a6b8-3a50-4537-9e85-3b772111b35b",
+      "state": "active"
+    }
+  ]
+}

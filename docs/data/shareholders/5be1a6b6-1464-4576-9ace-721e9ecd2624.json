@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Am Mönchgraben",
+  "name": "onMediaTV UG (haftungsbeschränkt)",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1464-4576-9ace-721e9ecd2624",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40597",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "YUN!Q",
+        "squuid": "5be1a6b1-ddd7-4a29-b119-3c7bab4acde6"
+      },
+      "squuid": "5be1a6b9-1dc6-49fc-b4cc-20d6ff2fca8b",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 12.05.2015, Az.: KEK 830, und Bescheid der LfM vom 27.05.2015",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Spiga, Davide",
+        "squuid": "5be1a6b6-8f9b-40d2-bbd2-1dcb8b2fa200"
+      },
+      "squuid": "5be1a6b8-fe4f-47f3-969d-5aedaaff5433",
+      "state": "active"
+    }
+  ]
+}

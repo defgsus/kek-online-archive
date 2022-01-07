@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Lilienstraße",
+  "name": "Cuneo AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-af51-4831-ae24-01ea7e51f0c6",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "81669",
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 16.11.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wölfle, Michael",
+        "squuid": "5be1a6b6-d60e-41c3-913c-a170c2a273c6"
+      },
+      "squuid": "5be1a6b7-a361-491a-9cff-ed13e4c90101",
+      "state": "active"
+    }
+  ]
+}

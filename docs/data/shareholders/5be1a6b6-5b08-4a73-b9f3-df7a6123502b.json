@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 19.0,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Emscher-Lippe mbH & Co. KG",
+        "squuid": "5be1a6b6-c41f-48b1-8173-2a38f8701aaa"
+      },
+      "squuid": "5be1a6b8-52c2-48e7-9eda-b23a79ccadb1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.0,
+      "held": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Emscher-Lippe mbH",
+        "squuid": "5f15a3a2-5c32-49bf-952c-70c917065b72"
+      },
+      "squuid": "5ff5a0f8-cc85-4a70-9528-4f420d8bc5c0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gelsenkirchen",
+  "pseudoCompany": false,
+  "street": "Ebertstr.",
+  "name": "Stadtwerke Gelsenkirchen GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5b08-4a73-b9f3-df7a6123502b",
+  "controlDate": "2021-12-21T17:23:16.917Z",
+  "streetNumber": "30",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "45879",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Gelsenkirchen",
+        "squuid": "5be1a6b6-7328-4e90-97ee-aecb7d2a48c6"
+      },
+      "squuid": "5be1a6b8-9162-4a74-afd9-e65eb4fcd975",
+      "state": "active"
+    }
+  ]
+}

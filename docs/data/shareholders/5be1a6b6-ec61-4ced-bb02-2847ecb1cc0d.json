@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Hoheluftchaussee 95",
+  "name": "Emotion Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ec61-4ced-bb02-2847ecb1cc0d",
+  "controlDate": "2021-10-14T14:37:04.487Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20253",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Emotion",
+        "squuid": "5be1a6b1-46c1-4581-85a6-216e775f6bfa"
+      },
+      "squuid": "5be1a6b9-2711-41d2-8174-73b21ed7036a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Emotion slow",
+        "squuid": "5be1a6b1-e9b5-4e5d-a7ad-48bf8029d532"
+      },
+      "squuid": "5be1a6b9-aa75-4620-a325-d3887cbc928c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.emotion.de",
+        "squuid": "5be1a6b1-fe0b-4ce6-8f0d-a8a54042af25"
+      },
+      "squuid": "5be1a6b9-1b1e-4159-ac9b-4a5686332e94",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Finanzielle",
+        "squuid": "60e6e200-44da-4192-8409-f59b9e5b8b5d"
+      },
+      "squuid": "60e6e25d-290a-4b8d-99e4-de826da6de66",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Inspiring Network GmbH & Co KG",
+        "squuid": "5be1a6b6-da6c-4b50-b75b-8bf218cadad7"
+      },
+      "squuid": "5be1a6b8-4d53-44f6-8f31-c50dbc573f82",
+      "state": "active"
+    }
+  ]
+}

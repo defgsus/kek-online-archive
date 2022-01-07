@@ -1,0 +1,111 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Rock Antenne Hamburg Verwaltung GmbH",
+        "squuid": "5f0320d8-00b1-484b-aa84-8d11728b5cb7"
+      },
+      "squuid": "5f081cd1-83ff-471e-9566-cc43d36ff5c4",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "note": "Stand: 10/2019",
+  "pseudoCompany": false,
+  "street": "Messberg",
+  "name": "Rock Antenne Hamburg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-c420-4d02-ba7c-c4e87be91ddc",
+  "controlDate": "2021-11-22T12:30:06.443Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "20095",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ROCK ANTENNE Hamburg",
+        "squuid": "5be1a6b1-2241-4401-9c72-0bf8d3728dcd"
+      },
+      "squuid": "5be1a6b9-3f9f-464d-9850-24e112c5b2d7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "917XFM",
+        "squuid": "5be1a6b1-497c-4085-a20e-c9acd3237568"
+      },
+      "squuid": "5be1a6b9-2ff1-4db2-ae4a-3a240822433f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rockantenne.hamburg",
+        "squuid": "5efca46a-d830-430f-aace-7daf36c14092"
+      },
+      "squuid": "5efca4ab-8d6f-41b4-9507-3c26074373ca",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.917xfm.de",
+        "squuid": "5f1980d1-3550-4057-bc15-83a1ddf71651"
+      },
+      "squuid": "5f1980fb-9dd0-4e4b-b272-29c712912332",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "ROCK ANTENNE GmbH & Co. KG",
+        "squuid": "5be1a6b6-1640-4e2c-9d60-ee7bc798fdc9"
+      },
+      "squuid": "5be1a6b7-4f50-4810-9ed8-4f5ab253442f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "NWZ Funk und Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-e74c-47af-9e67-66b48a57e0a8"
+      },
+      "squuid": "5be1a6b7-87e0-4bba-8aac-89a797a4bd2b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Rock Antenne Hamburg Verwaltung GmbH",
+        "squuid": "5f0320d8-00b1-484b-aa84-8d11728b5cb7"
+      },
+      "squuid": "5f032105-9071-41ff-b50b-39aeca193031",
+      "state": "active"
+    }
+  ]
+}

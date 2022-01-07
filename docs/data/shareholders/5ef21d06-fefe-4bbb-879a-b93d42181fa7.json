@@ -1,0 +1,67 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 35.12,
+      "held": {
+        "name": "MMN Mediengesellschaft Mittlerer Neckar GmbH",
+        "squuid": "5c98ee6c-4328-4f2e-9dbb-8bcfcc3b9d68"
+      },
+      "squuid": "5ef21d9b-10cf-4ff1-a690-b7fc01d417f4",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Hellerhofstr.",
+  "name": "DA Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5ef21d06-fefe-4bbb-879a-b93d42181fa7",
+  "controlDate": "2021-11-24T16:55:29.179Z",
+  "streetNumber": "2-4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "60327",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Frankfurter Allgemeine Zeitung GmbH",
+        "squuid": "5be1a6b6-a13b-4dae-9b4e-28467cc294bb"
+      },
+      "squuid": "5f97f517-883a-4c88-9a1d-e30a6e6281ac",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Bremen",
+  "pseudoCompany": false,
+  "street": "Elsasser Str. 41",
+  "name": "Verlag W. Wächter GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-31f5-455c-873f-b2bcab63bb0f",
+  "controlDate": "2021-10-14T13:39:03.523Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "28211",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gartenfreund",
+        "squuid": "5be1a6b1-a7f8-4913-ac95-3ab8ffdd75f3"
+      },
+      "squuid": "5be1a6b9-d22e-45c2-bccb-c0910254e2f2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Eigenheimer Magazin",
+        "squuid": "5be1a6b1-bc33-484a-89fe-a5901c087b53"
+      },
+      "squuid": "5be1a6b9-be57-4f6f-a13e-614b3460a883",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gartenfreund.de",
+        "squuid": "5be1a6b1-3fab-4374-9c5f-ced848a28fd8"
+      },
+      "squuid": "5be1a6b9-90ab-4490-a9b8-46f5754e8b6d",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wächter Holding GmbH",
+        "squuid": "5be1a6b6-444a-46d3-8ea6-ec5b6c5de6f5"
+      },
+      "squuid": "5be1a6b8-5792-4b78-8c9b-99ac121a66b4",
+      "state": "active"
+    }
+  ]
+}

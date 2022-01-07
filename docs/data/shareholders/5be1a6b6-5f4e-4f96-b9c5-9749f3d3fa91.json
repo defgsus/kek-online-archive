@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Frankfurt am Main",
+  "pseudoCompany": false,
+  "street": "Cassellastr.",
+  "name": "Big City Beats GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5f4e-4f96-b9c5-9749f3d3fa91",
+  "controlDate": "2021-11-30T16:37:23.353Z",
+  "streetNumber": "30-32",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "60386",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "BigCityBeats",
+        "squuid": "5be1a6b1-55ce-40a6-bf15-56edaac535ca"
+      },
+      "squuid": "5be1a6b9-1104-4c84-900e-7a7359ffacfd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bigcitybeats.de",
+        "squuid": "5f3e852c-5198-49db-b0d2-f1e5aa479610"
+      },
+      "squuid": "5f3e856f-9f54-4e0e-98ea-d81978e17c76",
+      "state": "active"
+    }
+  ],
+  "credits": "ZAK-PM 14/2011 vom 29.06.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Breiter, Bernd",
+        "squuid": "5f3e8668-7ab2-413e-b4e1-60272364914f"
+      },
+      "squuid": "5f3e86af-1395-499e-baa8-976743ea573a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Germany WCD Holding GmbH",
+        "squuid": "5f3e8688-23c4-494f-9d6a-865e5a980f3e"
+      },
+      "squuid": "5f3e86c5-bcc4-4ba9-b143-fe8cbc919e54",
+      "state": "active"
+    }
+  ]
+}

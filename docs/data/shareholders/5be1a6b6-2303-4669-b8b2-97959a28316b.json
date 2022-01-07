@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Großer Kolonnenweg",
+  "name": "Channel21 GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2303-4669-b8b2-97959a28316b",
+  "controlDate": "2021-12-01T16:34:08.720Z",
+  "streetNumber": "18 d",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30163",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "CHANNEL21",
+        "squuid": "5be1a6b1-7405-4636-a0f9-94dfba68256f"
+      },
+      "squuid": "5be1a6b9-cc5a-46f0-a45a-08a0e4336fb4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.channel21.de",
+        "squuid": "5f05daa6-a07a-411e-837b-581c37372e13"
+      },
+      "squuid": "5f05daf9-4671-4679-970d-ee78cfcc1e16",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft der Channel21 GmbH vom 01.02.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Channel21 Holding AG",
+        "squuid": "5be1a6b6-72e2-41db-a450-66b439cab218"
+      },
+      "squuid": "5be1a6b7-b9f2-49de-8a45-8a7f4ba4a121",
+      "state": "active"
+    }
+  ]
+}

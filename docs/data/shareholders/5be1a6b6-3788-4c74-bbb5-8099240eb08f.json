@@ -1,0 +1,27 @@
+{
+  "name": "Energie Baden-Württemberg AG",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-3788-4c74-bbb5-8099240eb08f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "held": {
+        "name": "EWE AG",
+        "squuid": "5be1a6b6-a727-406e-888d-a469494c87e8"
+      },
+      "squuid": "5be1a6b7-bfd0-4a40-abee-fc8683f1f5d6",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

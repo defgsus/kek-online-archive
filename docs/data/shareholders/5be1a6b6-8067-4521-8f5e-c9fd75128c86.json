@@ -1,0 +1,49 @@
+{
+  "state": "active",
+  "city": "London",
+  "pseudoCompany": false,
+  "name": "NBC (Europe) Ltd.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8067-4521-8f5e-c9fd75128c86",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "corporationName": "NBC",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 88.49,
+      "holder": {
+        "name": "United Telco Ltd.",
+        "squuid": "5be1a6b6-2f00-40f0-bb76-9d2de61af0d4"
+      },
+      "squuid": "5be1a6b7-c096-4145-84a0-f7cbbd4b21ab",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.3,
+      "holder": {
+        "name": "IGE International General Electric (USA) Ltd.",
+        "squuid": "5be1a6b6-8b9f-43f1-b89b-33433fa458f2"
+      },
+      "squuid": "5be1a6b7-0777-4ff4-964a-975a8fbc6334",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.21,
+      "holder": {
+        "name": "Channel Island Communications Ltd. (USA), Music Box Ltd. (USA)",
+        "squuid": "5be1a6b6-407e-4ed3-92fc-6f5c6961e2cb"
+      },
+      "squuid": "5be1a6b7-5762-4126-9018-12b7282694e6",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Grünwald",
+  "pseudoCompany": false,
+  "street": "Bavariafilmplatz",
+  "name": "1-2-3.tv GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b308-419c-8320-0944300cfe20",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82031",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "1-2-3.tv",
+        "squuid": "5be1a6b1-797c-4a10-a060-78184676eafb"
+      },
+      "squuid": "5be1a6b9-91a7-490f-b130-f9c9436557c0",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft der 1-2-3.tv GmbH vom 08.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "123tv Beteiligungs GmbH",
+        "squuid": "5be1a6b6-e4b6-431a-b560-4abe904fa1b0"
+      },
+      "squuid": "5be1a6b7-63f8-4bf7-b660-75e603708958",
+      "state": "active"
+    }
+  ]
+}

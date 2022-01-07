@@ -1,0 +1,32 @@
+{
+  "name": "Gemeinde Reken",
+  "pseudoCompany": true,
+  "squuid": "5f118d45-43b3-4495-bee5-6eacf7e21f28",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.06,
+      "held": {
+        "name": "Stadtwerke Borken/Westf. GmbH",
+        "squuid": "5be1a6b6-4d99-439e-90aa-033d22bce542"
+      },
+      "squuid": "5ff5ca40-d1a8-424e-abb2-83f24db94fb6",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

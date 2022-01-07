@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3ba5d7-23d8-4f5a-a90d-7a11d76ea720",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Zone 7 GmbH & Co. KG",
+        "squuid": "5be1a6b6-58fc-460a-96a4-a6b530ba1fee"
+      },
+      "squuid": "5f3ba63e-c86c-44da-86be-18e3b0787cc5",
+      "state": "active"
+    }
+  ],
+  "name": "www.rontv.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-04T10:13:45.409Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

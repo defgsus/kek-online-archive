@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f96ce31-8032-4e4a-b626-5352f677a941",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Schlagerparadies GmbH",
+        "squuid": "5be1a6b6-d116-4b16-8f7d-275f430faecf"
+      },
+      "squuid": "5f96ce88-7a95-4ff7-9411-de1b330d9580",
+      "state": "active"
+    }
+  ],
+  "name": "www.schlagerparadies.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-05T11:34:48.031Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

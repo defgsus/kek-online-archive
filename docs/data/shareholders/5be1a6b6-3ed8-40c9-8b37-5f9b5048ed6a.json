@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Winterhuder Marktplatz",
+  "name": "Radio 97.1 MHz Hamburg GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3ed8-40c9-8b37-5f9b5048ed6a",
+  "controlDate": "2021-12-06T11:16:53.464Z",
+  "streetNumber": "6 - 7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "22299",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Energy 97.1 Hamburg",
+        "squuid": "5be1a6b1-7b19-41e9-9426-8447abc22aff"
+      },
+      "squuid": "5be1a6b9-2f00-4fa6-bdb5-ad365f006be7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Energy",
+        "squuid": "5be1a6b1-57ee-442e-a5fe-ace985e82ea8"
+      },
+      "squuid": "5be1a6b9-d5d0-4b13-9779-b8f0f7de897a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.energy.de/hamburg",
+        "squuid": "5f198f51-e801-4d96-9421-f99a2eadbb40"
+      },
+      "squuid": "5f199019-4085-4e69-b179-660c12aaf5cf",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "NRJ Hörfunk Beteiligungs GmbH",
+        "squuid": "5be1a6b6-36c7-4893-9dd4-73765ce4a934"
+      },
+      "squuid": "5be1a6b7-2d17-4d67-8257-af2ebe92c591",
+      "state": "active"
+    }
+  ]
+}

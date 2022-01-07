@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Regio TV Stuttgart GmbH & Co. KG",
+        "squuid": "5d42caf7-0022-4587-bddb-9a42a391a3cf"
+      },
+      "squuid": "5f3d1780-8330-4deb-a4af-f4b3c1a4c8b0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Naststr.",
+  "name": "Regional-TV Lizenz GmbH",
+  "naturalPerson": false,
+  "squuid": "5f3d174f-40dd-4974-b384-71fca3680f8c",
+  "controlDate": "2022-01-03T15:29:29.340Z",
+  "streetNumber": "25",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70376",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5ff470a4-30dd-412c-9dcc-c390e2b8599a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Gehrung, Bernd",
+        "squuid": "5be1a6b6-096b-4ae2-a936-a6ae65e5a325"
+      },
+      "squuid": "5ff470c8-d165-413a-9a86-a547937451c5",
+      "state": "active"
+    }
+  ]
+}

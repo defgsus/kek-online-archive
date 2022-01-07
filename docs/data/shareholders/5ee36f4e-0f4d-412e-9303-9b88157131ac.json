@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Siegener Zeitung Vorländer + Rothmaler GmbH & Co. KG",
+        "squuid": "5be1a6b6-1839-4b80-a72a-59fc952c45c5"
+      },
+      "squuid": "5ee36f79-5f1f-4fe6-8bf7-74aae507433c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Siegen",
+  "pseudoCompany": false,
+  "street": "Obergraben",
+  "name": "Siegener Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5ee36f4e-0f4d-412e-9303-9b88157131ac",
+  "controlDate": "2021-11-12T15:39:30.824Z",
+  "streetNumber": "39",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "57072",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 32.33,
+      "holder": {
+        "name": "Rothmaler-Schön, Cornelie",
+        "squuid": "5d11e01b-867e-44ad-829a-fb81a80c81ef"
+      },
+      "squuid": "5ef1d387-3510-4ece-a09f-da51d8035054",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 32.33,
+      "holder": {
+        "name": "Rothmaler, Johannes",
+        "squuid": "5d11dfee-3346-4e19-bb40-1c19f67e11c0"
+      },
+      "squuid": "5ef1d396-57c1-4704-b70d-fc910c3a8bf9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.34,
+      "holder": {
+        "name": "Erbengemeinschaft nach Wolfgang Rothmaler (Cornelie Rothmaler-Schön; Johannes Rothmaler)",
+        "squuid": "60c080b9-6dd4-43f8-a354-b00694203338"
+      },
+      "squuid": "60c080d9-810c-4d46-9ec9-641320346850",
+      "state": "active"
+    }
+  ]
+}

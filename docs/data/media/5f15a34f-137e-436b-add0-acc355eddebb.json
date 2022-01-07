@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f15a34f-137e-436b-add0-acc355eddebb",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5f15a3cd-e7bc-49e9-9e43-fcae6c6f3dda",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Betriebsgesellschaft Radio Emscher-Lippe mbH & Co. KG",
+        "squuid": "5be1a6b6-c41f-48b1-8173-2a38f8701aaa"
+      },
+      "squuid": "5f15a3da-0c9e-4aca-b50f-a18a921c4d10",
+      "state": "active"
+    }
+  ],
+  "name": "www.radioemscherlippe.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-21T17:20:25.833Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

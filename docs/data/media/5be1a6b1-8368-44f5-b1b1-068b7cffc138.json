@@ -1,0 +1,80 @@
+{
+  "state": "archived",
+  "rfShoppingChannel": false,
+  "rfStartDate": "Juli 2009",
+  "rfFreePay": false,
+  "squuid": "5be1a6b1-8368-44f5-b1b1-068b7cffc138",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "name": "Disney Cinemagic",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+    "name": "Sendebetrieb eingestellt",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b083116-b4c6-4d71-965c-d9d0e6f52237",
+    "name": "Im Ausland zugelassen",
+    "type": "organization",
+    "fullName": "keine"
+  },
+  "description": "Filmsender für die ganze Familie mit den Disney-Kinoklassikern und den neuesten Disney- und Disney-Pixar-Film-Highlights (Lizenzierung durch OFCOM)",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
+      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
+        "name": "Programmplattform",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Infanteriestr.",
+  "name": "VGB VerlagsGruppeBahn GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9ab9-490b-b2c0-5941ddba1545",
+  "controlDate": "2021-01-28T13:59:56.883Z",
+  "streetNumber": "11a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80797",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Modelleisenbahner",
+        "squuid": "5be1a6b1-e510-4207-92ae-ff92ea309a88"
+      },
+      "squuid": "5be1a6b9-d4e8-4c7e-b40c-0429dacaac5d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MIBA",
+        "squuid": "5be1a6b1-8028-40a6-ae66-8c336e43d353"
+      },
+      "squuid": "5be1a6b9-6959-4876-b500-54965ca5f5d6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Eisenbahn-Romantik",
+        "squuid": "5be1a6b1-5469-4c6f-b4ce-9c3327eaf550"
+      },
+      "squuid": "5be1a6b9-0772-4991-b4df-853d953041d2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Digitale Modellbahn",
+        "squuid": "5be1a6b1-13b0-4d50-865d-57bd92b10421"
+      },
+      "squuid": "5be1a6b9-da24-46f0-b7c7-04445bccba4f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bahn Epoche",
+        "squuid": "5be1a6b1-5aca-4de4-95e2-1baca78f231a"
+      },
+      "squuid": "5be1a6b9-3c1f-47e4-ae4f-4104f40c7bc9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "GeraNova Bruckmann Verlagshaus GmbH",
+        "squuid": "5be1a6b6-ea92-461d-834d-d5d6d281d6cf"
+      },
+      "squuid": "611a6b7a-73bc-4ac7-bd09-a33da7de05c8",
+      "state": "active"
+    }
+  ]
+}

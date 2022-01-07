@@ -1,0 +1,76 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Antenne Deutschland Verwaltungs GmbH",
+        "squuid": "600953bc-099f-460a-afab-1fc2c9c07803"
+      },
+      "squuid": "6009568b-0f31-43c7-a6fa-6ed120786642",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Garching",
+  "pseudoCompany": false,
+  "street": "Parkring",
+  "name": "Antenne Deutschland GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6009538a-ac8c-48a9-bb13-240604fb3e4d",
+  "controlDate": "2021-11-22T16:01:08.063Z",
+  "streetNumber": "31",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85748",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.absolutradio.de",
+        "squuid": "5f3a4c4d-415a-42ff-98eb-df3e87db08b6"
+      },
+      "squuid": "600953dd-c634-4e1f-98d8-a747e7b9ca7e",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Antenne Deutschland Verwaltungs GmbH",
+        "squuid": "600953bc-099f-460a-afab-1fc2c9c07803"
+      },
+      "squuid": "60095513-8ec5-44b5-9fd3-28d47b68346e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Absolut Digital GmbH & Co. KG",
+        "squuid": "5be1a6b6-e844-4b84-a123-7fc1c7140414"
+      },
+      "squuid": "6009552c-eda9-4824-b256-96c6cada48c6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Media Broadcast GmbH",
+        "squuid": "60095594-c018-4e37-9252-6018555043cd"
+      },
+      "squuid": "600955c2-d290-4788-ae7f-e8f20961747e",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.25,
+      "held": {
+        "name": "Radio Gütersloh Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-8678-4c3a-80a8-a1e585c9889a"
+      },
+      "squuid": "5be1a6b7-9dee-4631-a814-5f9035e23de4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.3,
+      "held": {
+        "name": "Pressefunk Nordrhein-Westfalen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8c11-4526-af08-275ec93dea8b"
+      },
+      "squuid": "5be1a6b7-5533-4428-8e0b-db34fe4425dc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.0,
+      "held": {
+        "name": "AUDIO MEDIA SERVICE Produktionsgesellschaft mbH & Co. KG",
+        "squuid": "5eeb7b89-1d1d-486f-b21f-09fd3bc32248"
+      },
+      "squuid": "5eeb7e7e-ecde-471b-8153-15ea3199c89b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "OWL-Digital GmbH & Co. KG",
+        "squuid": "6086b017-2ec8-4344-a998-4bc0af8d8e9a"
+      },
+      "squuid": "6086b11c-bc6a-45b0-9613-c4442a93efcd",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Halle",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr. 2",
+  "name": "Haller Kreisblatt Verlags-GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-74c0-4578-9c26-b2c91711672a",
+  "controlDate": "2021-10-22T12:02:22.583Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "33790",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Haller Kreisblatt",
+        "squuid": "5be1a6b1-e315-4627-96ad-3f022633abf5"
+      },
+      "squuid": "5be1a6b9-1c76-4246-b3a4-ce915cfd1fdb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.haller-kreisblatt.de",
+        "squuid": "5be1a6b1-f59b-4b8c-9a03-69802e3451aa"
+      },
+      "squuid": "5be1a6b9-1663-4556-a5a6-8c81ccf79032",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zeitungsverlag Neue Westfälische GmbH & Co. KG",
+        "squuid": "5be1a6b6-2567-447c-b4a0-60f7702714c2"
+      },
+      "squuid": "6082c3ff-b667-40b6-89a3-f35dd8585b40",
+      "state": "active"
+    }
+  ]
+}

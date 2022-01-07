@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Lakronstraße",
+  "name": "Rhein-Live.tv GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-457f-4368-bfd4-fc0e6357a221",
+  "controlDate": "2022-01-06T11:13:47.536Z",
+  "streetNumber": "76",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40625",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "sportstadt.tv",
+        "squuid": "5be1a6b1-5ee6-491f-9de5-6781ef181006"
+      },
+      "squuid": "5be1a6b9-9fe1-46b9-a9b5-03254f9d11b0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sportstadt.tv",
+        "squuid": "5f158fb4-fa25-4010-96e0-41c98e18691b"
+      },
+      "squuid": "5f158fde-ca0d-424a-9f76-5f23a6ba8486",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 09.05.2017, Az.: KEK 920, und Bescheid der LfM vom 19.06.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Keßel, Martin",
+        "squuid": "5be1a6b6-3639-4799-8746-b03fa9db2cc5"
+      },
+      "squuid": "5be1a6b8-510b-43ce-9bca-b203e812ea85",
+      "state": "active"
+    }
+  ]
+}

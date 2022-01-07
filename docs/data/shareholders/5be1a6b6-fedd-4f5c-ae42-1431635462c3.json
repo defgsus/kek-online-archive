@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Thalkirchner Straße",
+  "name": "German Car TV Programm GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fedd-4f5c-ae42-1431635462c3",
+  "controlDate": "2021-12-14T16:43:23.087Z",
+  "streetNumber": "56",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80337",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MotorVision TV",
+        "squuid": "5be1a6b1-6f32-43d9-bb5a-954cc21169d9"
+      },
+      "squuid": "5be1a6b9-15ee-4719-986f-bf9c2bd10a9d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.motorvision.tv",
+        "squuid": "5f7dbdf6-9d4c-40f5-94c5-ee5ef3214103"
+      },
+      "squuid": "5f7dbe23-ab98-4c78-a806-229702e29008",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.04.2017, Az.: KEK 906",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "MV International GmbH",
+        "squuid": "5be1a6b6-300c-4395-8394-74d9429ada7e"
+      },
+      "squuid": "5be1a6b7-01fa-45ef-a2ef-75921f0266ca",
+      "state": "active"
+    }
+  ]
+}

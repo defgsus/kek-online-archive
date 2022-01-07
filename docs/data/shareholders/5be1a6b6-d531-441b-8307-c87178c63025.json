@@ -1,0 +1,27 @@
+{
+  "name": "Streubesitz an der Beate Uhse AG",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-d531-441b-8307-c87178c63025",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 37.69,
+      "held": {
+        "name": "Beate Uhse AG",
+        "squuid": "5be1a6b6-1b64-483b-a440-076e552d2058"
+      },
+      "squuid": "5be1a6b7-ec7f-4b0d-8d98-b42dd0f86251",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

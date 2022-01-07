@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Axel-Springer-Str.",
+  "name": "Business Insider Deutschland GmbH",
+  "naturalPerson": false,
+  "squuid": "5ef0a3e9-f375-41fa-a13f-8b76211254c0",
+  "controlDate": "2021-12-01T15:16:57.770Z",
+  "streetNumber": "65",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10888",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.businessinsider.de",
+        "squuid": "5be1a6b1-ee74-4837-b3ec-e8f46e6bc484"
+      },
+      "squuid": "5ef0a55c-12d9-47a9-bfa3-5ac731b4bc44",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Axel Springer Digital Ventures GmbH",
+        "squuid": "5be1a6b6-1e66-42a9-8f09-daddb92b637d"
+      },
+      "squuid": "5ef0a49d-0ff4-4bf1-a872-8b17ca09ea53",
+      "state": "active"
+    }
+  ]
+}

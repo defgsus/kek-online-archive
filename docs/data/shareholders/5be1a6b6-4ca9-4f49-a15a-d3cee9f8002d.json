@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Bautzen",
+  "pseudoCompany": false,
+  "street": "Tuchmacherstr. 27",
+  "name": "Domowina-Verlag GmbH Ludowe nakladnistwo Domowina",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4ca9-4f49-a15a-d3cee9f8002d",
+  "controlDate": "2021-11-12T15:26:37.557Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "02625",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Serbske Nowiny",
+        "squuid": "5be1a6b1-af2f-4013-b647-60f683ec271d"
+      },
+      "squuid": "5be1a6b9-ea3c-414b-90da-e3a762e671db",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.serbske-noviny.de",
+        "squuid": "5be1a6b1-8f5b-4044-bc7c-1b7027937273"
+      },
+      "squuid": "5be1a6b9-0c94-470b-8831-0d744166fc14",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stiftung für das Sorbische Volk",
+        "squuid": "5be1a6b6-e442-446f-ba00-9bf3310d442f"
+      },
+      "squuid": "5be1a6b8-02ea-463a-8af4-5354fdb7b2e7",
+      "state": "active"
+    }
+  ]
+}

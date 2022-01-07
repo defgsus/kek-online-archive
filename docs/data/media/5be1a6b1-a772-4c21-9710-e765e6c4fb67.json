@@ -1,0 +1,93 @@
+{
+  "state": "archived",
+  "rfShoppingChannel": false,
+  "rfStartDate": "November 2004 (unter dem Namen Playhouse Disney)",
+  "rfFreePay": false,
+  "squuid": "5be1a6b1-a772-4c21-9710-e765e6c4fb67",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://disney.de/",
+  "rfStatewide": true,
+  "name": "Disney Junior",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-59ef-453a-9d47-fa4b4ab0b1a4",
+    "name": "Spartenprogramm (Kinder)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b083116-b4c6-4d71-965c-d9d0e6f52237",
+    "name": "Im Ausland zugelassen",
+    "type": "organization",
+    "fullName": "keine"
+  },
+  "description": "Vorschulsender für Kinder im Alter von 2 bis 7 Jahren. Neben Animations- und Live-Action-Programm beinhaltet Disney Junior auch lern- und entwicklungsfördernde Programmelemente. Am Abend ist das Programm auf Erwachsene und Familien zugeschnitten (seit 12.06.2017 OFCOM-Lizenz).",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
+      "name": "Vodafone Kabel Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
+      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "accessibilityEmail": "hilfe@disney.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

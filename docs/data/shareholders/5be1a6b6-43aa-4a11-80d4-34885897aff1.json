@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "USMedia Geschäftsführungsgesellschaft mbH",
+        "squuid": "5f032eb2-dfa4-4682-9e07-d4aaeef780a5"
+      },
+      "squuid": "5f032f4f-2bd5-4ac0-96f1-85217e76dcfa",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Tegernsee",
+  "pseudoCompany": false,
+  "street": "Hauptstraße 33",
+  "name": "USMedia GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-43aa-4a11-80d4-34885897aff1",
+  "controlDate": "2022-01-04T16:06:45.786Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "83684",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rund-ums-baby.de",
+        "squuid": "5be1a6b1-9bd0-4b7e-8109-f16937a17064"
+      },
+      "squuid": "5be1a6b9-3167-409b-b267-f62b5e85463a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schneider, Ulrich",
+        "squuid": "5be1a6b6-e8f0-4af0-aa4d-90a3c89c4241"
+      },
+      "squuid": "5be1a6b8-d265-4c28-8179-2b5d443bdf24",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "USMedia Geschäftsführungsgesellschaft mbH",
+        "squuid": "5f032eb2-dfa4-4682-9e07-d4aaeef780a5"
+      },
+      "squuid": "5f032f13-2903-4afe-8107-5e4a5383c258",
+      "state": "active"
+    }
+  ]
+}

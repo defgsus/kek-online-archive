@@ -1,0 +1,88 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "MZV Murrhardter Zeitungsverlag GmbH & Co KG",
+        "squuid": "5be1a6b6-88f8-4b7a-ac62-535f3fc50ffc"
+      },
+      "squuid": "5ede4559-439c-4c43-983c-8fe4becf46eb",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Murrhardt",
+  "pseudoCompany": false,
+  "street": "Grabenstr.",
+  "name": "Murrhardter Zeitungsverlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5ede453e-3854-4f77-86af-7cbe1eaff91e",
+  "controlDate": "2021-11-03T14:52:21.567Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "71540",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 52.0,
+      "holder": {
+        "name": "GeVi Beteiligungen GmbH Medien KG",
+        "squuid": "5be1a6b6-e76e-4e4d-b935-b2ad38477d9c"
+      },
+      "squuid": "5ede4617-69f9-406c-8291-99c2f4829239",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "holder": {
+        "name": "Stroh, Werner",
+        "squuid": "5be1a6b6-5279-4016-8e30-a44e2e451e8a"
+      },
+      "squuid": "5ede4625-bdcf-432a-820a-429d63b37370",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.0,
+      "holder": {
+        "name": "Zeitungsverlag GmbH & Co Waiblingen KG",
+        "squuid": "5be1a6b6-7df4-4bc8-b97b-01d70dc592a7"
+      },
+      "squuid": "5ede4634-abdb-4441-9bcd-c8a607ac6e81",
+      "state": "active"
+    }
+  ]
+}

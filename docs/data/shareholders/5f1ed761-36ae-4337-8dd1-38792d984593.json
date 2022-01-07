@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Saarbrücken",
+  "pseudoCompany": false,
+  "street": "Angela-Braun-Str.",
+  "name": "Medien Saarland GmbH",
+  "naturalPerson": false,
+  "squuid": "5f1ed761-36ae-4337-8dd1-38792d984593",
+  "controlDate": "2022-01-04T16:22:57.391Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "66115",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.saarland-fernsehen.com",
+        "squuid": "5f1eceaa-22b5-4657-8a79-9e45a8f68e20"
+      },
+      "squuid": "5f1ed79b-d5e4-4836-b05b-3555b0eedd47",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Herzog, Marlene Teresa",
+        "squuid": "5f1ed903-60ea-427d-8e73-69d431ee7a24"
+      },
+      "squuid": "5f1ed92c-26d2-4290-a621-670f6785a86b",
+      "state": "active"
+    }
+  ]
+}

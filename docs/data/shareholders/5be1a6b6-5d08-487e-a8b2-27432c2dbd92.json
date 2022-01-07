@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Halle / Saale",
+  "pseudoCompany": false,
+  "street": "Delitzscher Straße",
+  "name": "TV Halle Fernsehgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5d08-487e-a8b2-27432c2dbd92",
+  "controlDate": "2022-01-07T10:44:01.274Z",
+  "streetNumber": "65",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    }
+  ],
+  "zipcode": "06112",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "TV Halle",
+        "squuid": "5be1a6b1-617d-4792-9ade-f973d281c2c1"
+      },
+      "squuid": "5be1a6b9-a991-4a34-99e3-b0b1f23928b9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvhalle.de",
+        "squuid": "5f280ccb-8877-4c67-a017-1f04b2c3c0b2"
+      },
+      "squuid": "5f280d07-ccc9-4233-8374-2d516e3073cc",
+      "state": "active"
+    }
+  ],
+  "credits": "www.dumont.de",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.8,
+      "holder": {
+        "name": "Mediengruppe Mitteldeutsche Zeitung GmbH & Co KG",
+        "squuid": "5be1a6b6-3e2f-47c5-8dbc-8019b8dfe45b"
+      },
+      "squuid": "5be1a6b7-d5eb-46d7-873e-96d9f0452fec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.2,
+      "holder": {
+        "name": "Schietrumpf, Ralf",
+        "squuid": "5d021339-ae79-4162-b95c-c5a2e35f1168"
+      },
+      "squuid": "5d02138c-bf0c-40fd-acfd-06171b1061c7",
+      "state": "active"
+    }
+  ]
+}

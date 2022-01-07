@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Aschaffenburg",
+  "pseudoCompany": false,
+  "street": "Gabelsbergerstraße",
+  "name": "Studio Gong Aschaffenburg GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c612-45ee-a6b9-545939406a6c",
+  "streetNumber": "22 a",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "63739",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5be1a6b7-c0d9-4390-9bfc-2cfb5665edfa",
+      "state": "active"
+    }
+  ]
+}

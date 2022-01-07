@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "August-Madsack-Straße ",
+  "name": "Madsack Online GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5c2f73b2-6dc5-4a14-b157-7447ea7d193d",
+  "controlDate": "2019-06-19T10:21:04.047Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "30559",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "5c2f749d-fa9f-426c-a42e-7b202bfb7a21",
+      "state": "active"
+    }
+  ]
+}

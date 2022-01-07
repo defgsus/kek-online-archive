@@ -1,0 +1,109 @@
+{
+  "state": "active",
+  "city": "Oberhaching",
+  "pseudoCompany": false,
+  "street": "Bajuwarenring",
+  "name": "Jahr Artopé Media GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "609296a5-9ae9-44d6-99a4-26ad69ecedfb",
+  "controlDate": "2021-10-15T10:58:50.277Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82041",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Golf Magazin",
+        "squuid": "5be1a6b1-6a94-46fb-9844-72ab6e1ea2f3"
+      },
+      "squuid": "609297a2-ddc9-41b5-8f1f-50b9b629c3f4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.golfmagazin.de",
+        "squuid": "5be1a6b1-13a8-43ca-b6b4-16b4b0c96138"
+      },
+      "squuid": "609297c5-e7c1-45c3-94f8-53e630a6c9a5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "tauchen",
+        "squuid": "5be1a6b1-fb1b-497d-a3b8-928e4c2abdfa"
+      },
+      "squuid": "6092981d-8eba-4db0-8168-8f8a21ae1839",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tauchen.de",
+        "squuid": "5be1a6b1-8637-4e90-a804-e661702d3924"
+      },
+      "squuid": "6092983a-f17e-4d78-9895-384253400792",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kanu Magazin",
+        "squuid": "5be1a6b1-c880-406d-ba9f-3c7b777091e0"
+      },
+      "squuid": "609298a9-f7a1-4d5e-affd-c3a7bdcdd2fe",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kanumagazin.de",
+        "squuid": "5be1a6b1-4274-484d-8d0b-0665856dfff7"
+      },
+      "squuid": "60929970-c9cc-4d16-89cf-57b91ed2a17c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Jahr Artopé Media Verwaltung GmbH",
+        "squuid": "609296f5-b500-48d1-9475-dc42d0d397d7"
+      },
+      "squuid": "60929a51-c3fb-4339-8936-9b36d066bde9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "Jahr, Alexandra",
+        "squuid": "5be1a6b6-e71d-4115-b3c9-0a91cc14048d"
+      },
+      "squuid": "60929a60-7609-4c9a-9b79-539ce0dbcb8c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Artopé, Philip-André",
+        "squuid": "60929a28-2274-4c82-b2ea-9469220dc00e"
+      },
+      "squuid": "60929a71-4e44-46b5-9114-459e55aff052",
+      "state": "active"
+    }
+  ]
+}

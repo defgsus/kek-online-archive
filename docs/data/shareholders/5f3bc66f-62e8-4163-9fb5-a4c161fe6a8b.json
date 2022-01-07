@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Landau",
+  "pseudoCompany": false,
+  "street": "Waffenstr.",
+  "name": "Lokalradios RLP GmbH",
+  "naturalPerson": false,
+  "squuid": "5f3bc66f-62e8-4163-9fb5-a4c161fe6a8b",
+  "controlDate": "2021-12-01T17:52:02.078Z",
+  "streetNumber": "17",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "76829",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.antenne-trier.com",
+        "squuid": "5f3bc5c9-9fda-4966-abbb-1e6dfad93428"
+      },
+      "squuid": "5f3bc681-57d1-456c-8e0f-af8772155745",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "The Radio Group Holding GmbH",
+        "squuid": "5be1a6b6-0b31-4cd0-88b2-e247324913be"
+      },
+      "squuid": "5f3bc705-0404-4f50-9d45-a9060d729046",
+      "state": "active"
+    }
+  ]
+}

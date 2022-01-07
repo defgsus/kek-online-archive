@@ -1,0 +1,49 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "held": {
+        "name": "Portal München Betriebs-GmbH & Co. KG",
+        "squuid": "5d2f340f-3a21-4940-ad62-ac0c75f0ecf4"
+      },
+      "squuid": "5d2f358c-a4c1-4128-80c5-d5006e88c147",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Stadtwerke München GmbH",
+        "squuid": "5d2f344f-9eba-4e5e-b3f2-28e0563c2818"
+      },
+      "squuid": "5d2f3690-6150-4fd7-b61c-c04961f338bc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": true,
+  "name": "Landeshauptstadt München",
+  "naturalPerson": false,
+  "squuid": "5d2f342f-a50f-4ad1-8baa-98b2ac792ef9",
+  "controlDate": "2020-07-03T09:51:49.631Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.muenchen.de",
+        "squuid": "5d2f33d7-6575-4f60-8176-e2a3a625d692"
+      },
+      "squuid": "5d2f34a1-7234-48ba-ba7e-16535bd9b15b",
+      "state": "active"
+    }
+  ]
+}

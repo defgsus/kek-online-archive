@@ -1,0 +1,100 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Böheimstr. 8",
+  "name": "Bayard Media GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-29a7-4c15-b7e9-867ccd8abff5",
+  "controlDate": "2021-10-15T12:14:36.983Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86153",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "G/Geschichte",
+        "squuid": "5be1a6b1-3ff5-43ca-95f2-60406234df31"
+      },
+      "squuid": "5be1a6b9-567f-4cb6-8363-76138afbd3dc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Frau im Leben",
+        "squuid": "5be1a6b1-abb9-4b4c-ae01-82e5ccba2113"
+      },
+      "squuid": "5be1a6b9-c22f-4db3-9641-6bdddf49f789",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "plus Magazin",
+        "squuid": "5be1a6b1-b58e-447d-8e11-6319d754a270"
+      },
+      "squuid": "5be1a6b9-cc93-4ee8-b9df-63e2fcc0717e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rente & Co",
+        "squuid": "5be1a6b1-8393-4dc9-aaad-70bae85c48db"
+      },
+      "squuid": "5be1a6b9-3543-4d26-aa3a-97a50ffd83a3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "G/Geschichte Porträt",
+        "squuid": "5c0e9076-3845-42b1-a091-2aa4299a231f"
+      },
+      "squuid": "5c0e90bb-6449-45ac-ae4e-e84ac408384e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Bayard Press Investissement S.A.",
+        "squuid": "5be1a6b6-7cb2-4d46-81ff-eb017d88bd7d"
+      },
+      "squuid": "5be1a6b8-26b8-405b-81ec-bce4b2d59c23",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Roularta Media Group S. A.",
+        "squuid": "5be1a6b6-b278-460a-a1ef-4bf1799ebfbb"
+      },
+      "squuid": "5be1a6b8-7160-4ed1-a438-669d6cdb5f39",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bayard Media Verwaltungsgesellschaft mbH",
+        "squuid": "5ec7bd44-4862-4084-8e0b-41cfd9c11d60"
+      },
+      "squuid": "5ec7bd5e-06cf-4012-91ad-72b7221d4889",
+      "state": "active"
+    }
+  ]
+}

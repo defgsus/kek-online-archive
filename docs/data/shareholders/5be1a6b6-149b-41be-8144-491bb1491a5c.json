@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Meckenheim",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-149b-41be-8144-491bb1491a5c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "held": {
+        "name": "Radio Bonn/Rhein-Sieg GmbH & Co. KG",
+        "squuid": "5be1a6b6-cedf-42cf-96c2-9455aebbb02f"
+      },
+      "squuid": "5be1a6b7-68ca-4651-8359-48eb98a0bfd3",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,109 @@
+{
+  "state": "active",
+  "city": "Rostock",
+  "pseudoCompany": false,
+  "street": "Joachim-Jungius-Str.",
+  "name": "Juni Media GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5c656f42-f403-44c4-91f9-6053f63841e0",
+  "controlDate": "2021-12-15T11:53:35.626Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "18059",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MV1",
+        "squuid": "5c657102-15ab-47dc-894e-22f2d308966d"
+      },
+      "squuid": "5c65717b-d0c1-439f-a997-443597eed792",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mv1.tv",
+        "squuid": "5f201d3c-0666-443c-94ff-0a0e596c6c0e"
+      },
+      "squuid": "5f201d78-cef6-48df-8f5b-b117c683951e",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Juni Media Verwaltungsgesellschaft mbH",
+        "squuid": "5c656fc9-d864-4d2c-b903-b20230bc1a71"
+      },
+      "squuid": "5f2021b5-0a9b-4528-bdcb-9b7ce073651c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 42.0,
+      "holder": {
+        "name": "Böhm, Thomas",
+        "squuid": "5f202209-5655-4669-88bb-14e5a4290db6"
+      },
+      "squuid": "5f2022bc-3dd3-4ffb-8380-80d79c7442a6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "Dönau, Angela",
+        "squuid": "5f202215-c32f-4c48-8e56-e15dba8c5e84"
+      },
+      "squuid": "5f2022ca-5038-4337-9c08-64c14ea376d1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Koß, Bert",
+        "squuid": "5f20221f-b083-4dbd-80e6-7b80cec6730f"
+      },
+      "squuid": "5f2022d7-535f-4d7c-b9c7-fca54b944e62",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "Meyer, Uwe",
+        "squuid": "5f202229-c48f-43ed-9d30-93b87d4d1d39"
+      },
+      "squuid": "5f2022e8-4efd-4b8f-abd6-ea2e6a6eadd9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.0,
+      "holder": {
+        "name": "Seifert, Christian",
+        "squuid": "5f20223d-12f5-465b-8feb-1e4d6f47528d"
+      },
+      "squuid": "5f2022f6-4ff6-44bd-9326-8c7bfbce9022",
+      "state": "active"
+    }
+  ]
+}

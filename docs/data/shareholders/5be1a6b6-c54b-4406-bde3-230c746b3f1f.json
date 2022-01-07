@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "ARTE G.E.I.E.",
+        "squuid": "5be1a6b6-69a8-446f-89af-0d92b3ee87d5"
+      },
+      "squuid": "5be1a6b7-0ed2-43c8-afe9-54341e62fafc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "ARTE Deutschland TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c54b-4406-bde3-230c746b3f1f",
+  "controlDate": "2020-06-18T13:01:35.718Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)",
+        "squuid": "5be1a6b6-c5dc-4a3d-ad7b-deaabd587214"
+      },
+      "squuid": "5be1a6b8-fb04-493c-8078-acfd6419e66c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Zweites Deutsches Fernsehen (ZDF) Anstalt des öffentlichen Rechts",
+        "squuid": "5be1a6b6-7ee8-46a7-b584-31f00742b7a2"
+      },
+      "squuid": "5be1a6b8-ff43-4cbb-a959-2cf1d80ddad6",
+      "state": "active"
+    }
+  ]
+}

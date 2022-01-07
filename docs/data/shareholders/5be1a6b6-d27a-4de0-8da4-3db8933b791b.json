@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Heidenrod-Watzelmann",
+  "pseudoCompany": false,
+  "street": "Am Sonnenberg",
+  "name": "ClipMyHorse.TV Operations GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d27a-4de0-8da4-3db8933b791b",
+  "controlDate": "2021-12-02T10:50:17.656Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65321",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ClipMyHorse.TV",
+        "squuid": "5be1a6b1-5ff2-4427-aaa1-6cce8e87f3fa"
+      },
+      "squuid": "5be1a6b9-8adf-4801-9bb3-6ca673e460d4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.clipmyhorse.tv/de",
+        "squuid": "5f3a69a5-0021-4e12-a201-2d653b556b5f"
+      },
+      "squuid": "5f3a69db-d2bb-4449-9e0f-ea9a775d11a5",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 17.11.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ClipMyHorse.TV International GmbH",
+        "squuid": "5be1a6b6-dc32-4114-9294-1270b077ded8"
+      },
+      "squuid": "5be1a6b8-7940-43e0-b7c4-c8735480ba2f",
+      "state": "active"
+    }
+  ]
+}

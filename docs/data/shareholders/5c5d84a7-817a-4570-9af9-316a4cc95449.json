@@ -1,0 +1,42 @@
+{
+  "name": "Nordkurier Mediengruppe GmbH & Co. KG",
+  "squuid": "5c5d84a7-817a-4570-9af9-316a4cc95449",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Nordkurier TV und Studio GmbH & Co. KG",
+        "squuid": "5c5d8479-0913-4dd0-af8b-b2425336454f"
+      },
+      "squuid": "5d441818-9a4d-48b4-add0-d4ccc10ecef8",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "state": "archived"
+}

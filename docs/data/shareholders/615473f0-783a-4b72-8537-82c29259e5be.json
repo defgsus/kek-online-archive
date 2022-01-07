@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Paul-Heyse-Str.",
+  "name": "Munich Online GmbH",
+  "naturalPerson": false,
+  "squuid": "615473f0-783a-4b72-8537-82c29259e5be",
+  "controlDate": "2021-09-29T14:12:00.085Z",
+  "streetNumber": "2-4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80336",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fupa.net/region/oberbayern",
+        "squuid": "615473e2-60be-42eb-9e1f-e9d3c53716f6"
+      },
+      "squuid": "61547408-03d0-4e40-a707-62b90fb44f14",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Münchener Zeitungs-Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1"
+      },
+      "squuid": "615474a7-62bc-4197-8c85-2a6bd933fd8c",
+      "state": "active"
+    }
+  ]
+}

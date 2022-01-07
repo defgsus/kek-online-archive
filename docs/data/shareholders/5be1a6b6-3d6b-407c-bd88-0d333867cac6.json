@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Bad Wörishofen",
+  "pseudoCompany": false,
+  "street": "Adolf-Scholz-Allee 6",
+  "name": "Kneipp-Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3d6b-407c-bd88-0d333867cac6",
+  "controlDate": "2021-10-26T12:06:10.454Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86825",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kneipp Journal aktiv & gesund",
+        "squuid": "5be1a6b1-3705-4ec2-8398-e78d4218fb73"
+      },
+      "squuid": "5be1a6b9-f4c4-41e9-957e-c2eaffeac431",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kneipp-Bund e.V.",
+        "squuid": "5be1a6b6-786a-4b8e-853b-2c663b0261ef"
+      },
+      "squuid": "5be1a6b8-2fe5-4550-b372-f5251ff409c4",
+      "state": "active"
+    }
+  ]
+}

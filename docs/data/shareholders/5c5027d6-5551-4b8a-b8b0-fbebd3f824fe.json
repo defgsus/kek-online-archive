@@ -1,0 +1,41 @@
+{
+  "name": "Stadt Köln",
+  "controlDate": "2020-01-21T11:14:43.569Z",
+  "squuid": "5c5027d6-5551-4b8a-b8b0-fbebd3f824fe",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "GEW Köln AG",
+        "squuid": "5c5027e8-3e8b-411f-a86f-517af4b8ea41"
+      },
+      "squuid": "5c50292e-dacd-4b72-8bc1-4c8a154f2487",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Stadtwerke Köln GmbH",
+        "squuid": "5be1a6b6-44ec-414f-95f0-bc29beea5622"
+      },
+      "squuid": "5c502f76-fed7-4ea4-a7b3-c116793de189",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active"
+}

@@ -1,0 +1,79 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Schwäbisches Verlagshaus Neu-Ulm GmbH",
+        "squuid": "5f9a92e1-05ef-407b-adba-a8bd29c4cd6f"
+      },
+      "squuid": "5facf6c5-0a2a-43da-a62f-aac02c8a3112",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ulm",
+  "pseudoCompany": false,
+  "street": "Frauenstr.",
+  "name": "SVH Schwäbisches Verlagshaus GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5facf699-634b-4bc4-b70f-ecc6fa5cdce8",
+  "controlDate": "2021-11-24T17:09:58.112Z",
+  "streetNumber": "77",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "89073",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbisches Verlagshaus Neu-Ulm GmbH",
+        "squuid": "5f9a92e1-05ef-407b-adba-a8bd29c4cd6f"
+      },
+      "squuid": "5ff2f358-7691-411b-a12e-1781bf348c82",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Neue Pressegesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-9a6a-4235-a5d2-f080b726ddef"
+      },
+      "squuid": "5ff2f36b-80fb-4041-934d-6551e3127c26",
+      "state": "active"
+    }
+  ]
+}

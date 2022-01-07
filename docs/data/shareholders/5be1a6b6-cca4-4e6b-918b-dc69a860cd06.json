@@ -1,0 +1,77 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Ruhr24 GmbH & Co. KG",
+        "squuid": "5c5c4a82-8897-442c-a194-c9e656c2a047"
+      },
+      "squuid": "5c65981e-0cdd-4a80-a30b-93711224c33b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Ruhr24 Verwaltungsgesellschaft mbH",
+        "squuid": "5f032ce9-7acd-43dd-9212-f63c50fa600f"
+      },
+      "squuid": "5f032d76-a390-4d57-b9f0-9862c09d4c63",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Unna",
+  "pseudoCompany": false,
+  "street": "Wasserstr.",
+  "name": "Zeitungsverlag Unna GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-cca4-4e6b-918b-dc69a860cd06",
+  "controlDate": "2021-10-25T11:24:22.046Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "59423",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Westfälische Rundschau (Ausgaben Unna/Kamen)",
+        "squuid": "5be1a6b1-aedb-48de-9ec8-f7c8f6b4e1c1"
+      },
+      "squuid": "5be1a6b9-802a-4c19-b5ab-86624fa09789",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zeitungsdruckerei Rubens GmbH & Co KG",
+        "squuid": "5be1a6b6-f038-4e3f-a435-3be4287a6c9f"
+      },
+      "squuid": "5be1a6b8-d611-48fd-b153-a0158c40f718",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Rubens GmbH",
+        "squuid": "5ec4fd1f-3bf4-4b8e-a256-1e46185ff8bc"
+      },
+      "squuid": "60d06bed-2a28-4128-b068-5d5358186ff2",
+      "state": "active"
+    }
+  ]
+}

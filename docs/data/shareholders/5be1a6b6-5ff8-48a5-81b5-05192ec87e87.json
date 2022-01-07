@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Herbert-von-Karajan-Straße",
+  "name": "Berliner Philharmonie gGmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5ff8-48a5-81b5-05192ec87e87",
+  "controlDate": "2020-04-27T14:09:19.472Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10785",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "128 - Das Magazin der Berliner Philharmoniker",
+        "squuid": "5be1a6b1-5d7f-4bb5-9d9d-93b2d147640c"
+      },
+      "squuid": "5be1a6b9-5099-414d-90b0-337fa7f50053",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stiftung Berliner Philharmoniker",
+        "squuid": "5be1a6b6-32b3-4551-909f-3b08660b2176"
+      },
+      "squuid": "5be1a6b8-bfd9-4a75-81c2-89e3c954b9ee",
+      "state": "active"
+    }
+  ]
+}

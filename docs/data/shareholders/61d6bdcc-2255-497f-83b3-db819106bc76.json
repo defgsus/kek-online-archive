@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Oldenburg",
+  "pseudoCompany": false,
+  "street": "Wilhelmshavener Heerstr.",
+  "name": "OF Verlagsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "61d6bdcc-2255-497f-83b3-db819106bc76",
+  "controlDate": "2022-01-06T10:03:33.790Z",
+  "streetNumber": "260",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "26125",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Anzeiger für Harlingerland",
+        "squuid": "5be1a6b1-e175-4857-9dcb-ed04d8b4e73d"
+      },
+      "squuid": "61d6be0b-3eef-4d7c-9a72-21efe03b43c4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.harlinger.de",
+        "squuid": "5be1a6b1-e815-43ab-a52b-1fd71cc47abe"
+      },
+      "squuid": "61d6be49-680b-4286-b59a-0a6b21f5f5ec",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Nordwest-Zeitung Verlags- und Verwaltungsgesellschaft mbH",
+        "squuid": "5eb2a95e-80c9-4735-9ac2-05236316199a"
+      },
+      "squuid": "61d6bedb-0fdc-44c6-81fe-d658922f4385",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nordwest-Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-6d98-47de-ac59-bdd22da3974d"
+      },
+      "squuid": "61d6beeb-9d26-4122-8bdb-f8b8bde5c1b9",
+      "state": "active"
+    }
+  ]
+}

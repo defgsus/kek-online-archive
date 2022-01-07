@@ -1,0 +1,120 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Boxhagener Str.",
+  "name": "VIMN Germany GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-dbf3-4649-ba7e-e810162955ae",
+  "controlDate": "2021-12-02T12:04:09.008Z",
+  "streetNumber": "80",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10245",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Nick",
+        "squuid": "5be1a6b1-69c1-4b01-800b-20e67e807b17"
+      },
+      "squuid": "5be1a6b9-1c29-4074-a583-27765879f629",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MTV",
+        "squuid": "5be1a6b1-d8f4-493f-9c94-7df55636cf3a"
+      },
+      "squuid": "5be1a6b9-c044-4485-b4f8-51c15b2225ff",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "nicktoons",
+        "squuid": "5be1a6b1-4f10-41ca-b4f4-3264511454a3"
+      },
+      "squuid": "5be1a6b9-bf1d-4287-aaba-c1b997e9934a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MTV Brand New",
+        "squuid": "5be1a6b1-9502-4764-9f57-62ff2b42df3f"
+      },
+      "squuid": "5be1a6b9-40ae-4dd1-a86f-5caf8418d3f8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.viva.tv",
+        "squuid": "5be1a6b1-85c2-42da-b26d-60869842f4b8"
+      },
+      "squuid": "5be1a6b9-eb9f-4dfb-b867-52b7062af14c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mtv.de",
+        "squuid": "5c545c3c-8cf1-4c70-b4c2-608f160e0bc6"
+      },
+      "squuid": "5c545c8a-bb1b-46fd-8b82-f4a81e6f431c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nick.de",
+        "squuid": "5d2f2546-888f-42b7-9b1e-3c37f553f973"
+      },
+      "squuid": "5d2f2575-f572-440f-bb19-5c1f86ff95fb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.comedycentral.tv",
+        "squuid": "5f116859-e51c-44e7-b424-ec29c64774cc"
+      },
+      "squuid": "5f11688a-1f5d-435e-93fc-9065961fd4ff",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "VIVA Media GmbH",
+        "squuid": "5be1a6b6-699d-4023-8beb-545c9b48d309"
+      },
+      "squuid": "5be1a6b7-7dcc-40c1-92da-45b764aca80d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Viacom Holdings Germany LL.C.",
+        "squuid": "5be1a6b6-79f3-4703-a2ea-aefc16637bff"
+      },
+      "squuid": "5be1a6b7-7a3d-4a6c-9e83-2693a6e736ab",
+      "state": "active"
+    }
+  ]
+}

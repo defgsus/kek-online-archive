@@ -1,0 +1,89 @@
+{
+  "state": "active",
+  "city": "Rottweil",
+  "pseudoCompany": false,
+  "street": "Waldtorstr.",
+  "name": "RNB Radio Neckarburg GmbH",
+  "naturalPerson": false,
+  "limitedPartnership": false,
+  "squuid": "5be1a6b6-bcd4-4862-8a1f-3e03ad0ed1e0",
+  "controlDate": "2021-11-24T16:44:23.072Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "78628",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Antenne 1 Neckarburg Rock und Pop",
+        "squuid": "5be1a6b1-a2a1-4377-8423-8dc1d045d82b"
+      },
+      "squuid": "5be1a6b9-6e0a-48f9-b692-f0d49f7bebdf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.antenne1-neckarburg.de",
+        "squuid": "5f3d3034-1bee-4fbb-babc-13421b222221"
+      },
+      "squuid": "5f3d3083-68d9-4bb4-9f0d-ca2320c28f06",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Schwarzwälder Bote Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-63c7-407b-b983-bdf7d0a4327d"
+      },
+      "squuid": "5f3d31fb-c42d-49bc-81da-cfbdb1348063",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.0,
+      "holder": {
+        "name": "Städte-Radio Produktions GmbH",
+        "squuid": "5be1a6b6-2a76-4a12-b0ff-f72ef7741317"
+      },
+      "squuid": "5f3d3213-fea0-415a-b839-1cf91c59e544",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.5,
+      "holder": {
+        "name": "ANTENNE RADIO GmbH & Co. KG",
+        "squuid": "5be1a6b6-d66b-47be-bf76-e515dd9367d8"
+      },
+      "squuid": "5f3d3225-0c98-4412-bb12-60e1d083c9ed",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "Eigenbesitz der RNB Radio Neckarburg GmbH",
+        "squuid": "5f3d324f-308e-4874-acf4-c381c275da77"
+      },
+      "squuid": "5f3d3289-6398-4ec4-b7dd-187a215f2d20",
+      "state": "active"
+    }
+  ]
+}

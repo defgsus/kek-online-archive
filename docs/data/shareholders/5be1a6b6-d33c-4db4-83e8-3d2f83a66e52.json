@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Pellworm",
+  "pseudoCompany": false,
+  "street": "Schulstr.",
+  "name": "Project 67 GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d33c-4db4-83e8-3d2f83a66e52",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "25849",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Steingart, Gabor (& Management der Media Pioneer Publishing AG)",
+        "squuid": "5be1a6b6-43ee-44de-9553-c946116b08dd"
+      },
+      "squuid": "5be1a6b8-afcd-44d8-a7db-2caff7f41164",
+      "state": "active"
+    }
+  ]
+}

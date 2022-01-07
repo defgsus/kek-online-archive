@@ -1,0 +1,210 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.13,
+      "held": {
+        "name": "Südwestdeutsche Medien Holding GmbH (SWMH)",
+        "squuid": "5be1a6b6-f0b4-4918-a667-d5f8c5d968d0"
+      },
+      "squuid": "5be1a6b8-e284-4019-a3d9-95cf0bab6b36",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "GO Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-ef37-465a-9cf0-8001dd0ea273"
+      },
+      "squuid": "5be1a6b8-5a6e-4375-afb8-c30abc087733",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "GO Verlag Verwaltungs-GmbH",
+        "squuid": "5ec262b6-8a72-4454-8a57-134cfe8bd0f3"
+      },
+      "squuid": "5ec2634f-1d19-433f-9ba3-24545e44f1c1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Stuttgarter Presse Funk GmbH",
+        "squuid": "5c98ed33-3de6-4a1d-b2fa-4f2782148a39"
+      },
+      "squuid": "5ef21b44-c94b-4ce8-92e6-a0c6d9adce44",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Kreiswelle Esslingen Hörfunk GmbH",
+        "squuid": "5efcacce-1d95-4a75-92a6-3886f0b1364b"
+      },
+      "squuid": "5fa0378c-09af-4749-a57d-7660c7dd794d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kirchheim unter Teck",
+  "pseudoCompany": false,
+  "street": "Alleenstr. 158",
+  "name": "GO Druck Media Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4042-452c-96bc-3602172e3e77",
+  "controlDate": "2021-09-30T14:47:59.092Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+      "name": "brema",
+      "type": "organization",
+      "fullName": "Bremische Landesmedienanstalt"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "73230",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 66.67,
+      "holder": {
+        "name": "Gottlieb, Ulrich",
+        "squuid": "5be1a6b6-73c5-43d2-a0ea-ae68abd4a864"
+      },
+      "squuid": "5be1a6b8-0a89-4dbd-b8f0-7aad464cf1a4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.23,
+      "holder": {
+        "name": "Kolb, Dr. Udo",
+        "squuid": "5be1a6b6-7672-470e-a3a8-c64f25643ece"
+      },
+      "squuid": "5be1a6b8-ad71-4b63-8105-0eab6238d315",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.1,
+      "holder": {
+        "name": "Kolb, Katharina",
+        "squuid": "5be1a6b6-2c64-432d-a446-fb681bcdbeb2"
+      },
+      "squuid": "5be1a6b8-99f1-4e4a-95fc-5fd078e592d7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Teckbote Verwaltungsgesellschaft mbH",
+        "squuid": "5ec264e5-7270-4d0c-8936-ea94180e7002"
+      },
+      "squuid": "5ec26508-720a-4fa3-8ee7-dd45e81c1389",
+      "state": "active"
+    }
+  ]
+}

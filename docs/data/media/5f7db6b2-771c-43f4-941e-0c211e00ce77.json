@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f7db6b2-771c-43f4-941e-0c211e00ce77",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "TV-Medien Rhein-Neckar GmbH",
+        "squuid": "5d2c4b69-082e-4993-87e3-0706faf8b63a"
+      },
+      "squuid": "5f7db6f9-79a2-488d-8006-bf303e7288ec",
+      "state": "active"
+    }
+  ],
+  "name": "www.metropolregion.tv",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-13T17:18:48.286Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

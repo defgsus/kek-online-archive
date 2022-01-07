@@ -1,0 +1,156 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 29.03,
+      "held": {
+        "name": "Lokalradio Steinfurt Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-c7a2-4726-a9b5-0984cc73c7d8"
+      },
+      "squuid": "5be1a6b7-b744-4e20-abc8-62eb8886c51d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.4,
+      "held": {
+        "name": "Pressefunk Nordrhein-Westfalen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8c11-4526-af08-275ec93dea8b"
+      },
+      "squuid": "5be1a6b7-081f-4827-814c-4347b254535b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Verlag Emsdettener Volkszeitung GmbH & Co KG",
+        "squuid": "5be1a6b6-1416-477e-ab40-752af68d1c69"
+      },
+      "squuid": "5be1a6b8-6b65-4140-8191-7bb7320ab93b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Altmeppen Verwaltungsgesellschaft mbH",
+        "squuid": "5ec52dfc-e630-43bc-b814-8baeec11e062"
+      },
+      "squuid": "5ef1b300-8a52-4902-8fd1-62767a10181d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Rheine",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr. 8",
+  "name": "Altmeppen Verlag GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-83d8-4e1a-9f74-04e98897c91b",
+  "controlDate": "2021-10-14T14:45:27.802Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "48431",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Münsterländische Volkszeitung",
+        "squuid": "5be1a6b1-475b-49e5-9eed-17e0a2d1926f"
+      },
+      "squuid": "5be1a6b9-3e7b-41f9-adb0-9300b230327a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Emsdettener Volkszeitung",
+        "squuid": "5be1a6b1-1e10-4c16-8ec9-ff2a1ab7c366"
+      },
+      "squuid": "5be1a6b9-2ce6-442b-bfc8-37acd2b07e9a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ev-online.de",
+        "squuid": "5be1a6b1-80bd-4845-877c-8da3a998ee5e"
+      },
+      "squuid": "5be1a6b9-e10e-4950-9e0c-61d49f3354e2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mv-online.de",
+        "squuid": "5be1a6b1-ec3e-434f-a30c-e417e0b4ee93"
+      },
+      "squuid": "5be1a6b9-398e-4f55-ac0d-260dbdd39c15",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "Haumer, Ursula",
+        "squuid": "5be1a6b6-0246-4c40-9e17-64832fb20b94"
+      },
+      "squuid": "5be1a6b8-10b6-4d8f-b9f0-8d9c79d0d02d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Stegelmann, Birgit",
+        "squuid": "5be1a6b6-7469-4122-85e2-35b75c65c22f"
+      },
+      "squuid": "5be1a6b8-ed71-4853-84bc-4008e0790d81",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": false,
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Altmeppen-Rekers, Britta",
+        "squuid": "5ec52e17-443e-4b2f-b0eb-f9992cffd28e"
+      },
+      "squuid": "5ec52e37-63bc-4cf2-8dfc-b25f4c5d5b83",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Altmeppen Verwaltungsgesellschaft mbH",
+        "squuid": "5ec52dfc-e630-43bc-b814-8baeec11e062"
+      },
+      "squuid": "5ec52e44-4279-483a-a27a-5c5396418f8b",
+      "state": "active"
+    }
+  ]
+}

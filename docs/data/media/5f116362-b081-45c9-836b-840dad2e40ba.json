@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f116362-b081-45c9-836b-840dad2e40ba",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "tv.gusto GmbH",
+        "squuid": "5be1a6b6-86d5-4066-87a1-30843d22dd9b"
+      },
+      "squuid": "5f1163a8-f475-4c1e-b915-9032752ec8f5",
+      "state": "active"
+    }
+  ],
+  "name": "www.bongusto.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-01T13:10:18.631Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

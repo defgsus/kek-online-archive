@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Margetshöchheim",
+  "pseudoCompany": false,
+  "street": "Friedenstraße",
+  "name": "Quotenmeter GmbH",
+  "naturalPerson": false,
+  "squuid": "5c581d22-538c-4e9b-823f-8be1910b0444",
+  "controlDate": "2021-12-20T15:02:10.415Z",
+  "streetNumber": "82a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "97276",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.quotenmeter.de",
+        "squuid": "5c581d15-773c-44c6-85cb-5314f03d1165"
+      },
+      "squuid": "5c581d85-c751-4519-955a-67cb245c523b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Riedner, Fabian",
+        "squuid": "5c581d37-859c-45c0-989a-7cae08b72ca7"
+      },
+      "squuid": "5c581dde-a4aa-46ad-9893-50c7eb1fe592",
+      "state": "active"
+    }
+  ]
+}

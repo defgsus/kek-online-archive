@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Axel-Springer-Platz 1",
+  "name": "Computer Bild Digital GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-95d0-408a-b2de-04a2ecb6caf6",
+  "controlDate": "2021-09-24T13:39:39.588Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20350",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Audio Video Foto Bild",
+        "squuid": "5be1a6b1-8520-4f29-ab1c-2829904b773d"
+      },
+      "squuid": "5be1a6b9-32d2-4bfe-aff6-c4d5c8cc3e26",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TestBild",
+        "squuid": "5be1a6b1-7625-4a08-8d6c-810c5098593c"
+      },
+      "squuid": "5be1a6b9-f1e7-4167-8e95-6290631232f5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Computer Bild",
+        "squuid": "5be1a6b1-ffc8-44d0-af0f-57e3ef906935"
+      },
+      "squuid": "5be1a6b9-9a69-4555-bbc6-73cd016f5414",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Computer Bild Spiele",
+        "squuid": "5be1a6b1-8f96-4585-84f0-4fce09e7f40f"
+      },
+      "squuid": "5be1a6b9-e6f2-4b09-b00b-10dfeeb3145d",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Axel Springer SE",
+        "squuid": "5be1a6b6-5c1b-48b1-ad15-85241452bf42"
+      },
+      "squuid": "5be1a6b8-14ad-4950-8f94-e8edbf4f1a68",
+      "state": "active"
+    }
+  ]
+}

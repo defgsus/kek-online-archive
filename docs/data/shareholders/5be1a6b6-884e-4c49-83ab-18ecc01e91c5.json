@@ -1,0 +1,68 @@
+{
+  "name": "Schütte, Jörg",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-884e-4c49-83ab-18ecc01e91c5",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 16.5,
+      "held": {
+        "name": "tv.gusto GmbH",
+        "squuid": "5be1a6b6-86d5-4066-87a1-30843d22dd9b"
+      },
+      "squuid": "5be1a6b7-887a-421a-a3e5-cfff397beb40",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "held": {
+        "name": "Motor Presse TV GmbH",
+        "squuid": "5be1a6b6-1ea3-4042-a7f5-ab5f4024e7d7"
+      },
+      "squuid": "5be1a6b7-e1ac-4c8b-98f8-5ea4b28ce9e6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Marco Polo TV GmbH",
+        "squuid": "5be1a6b6-f4da-445b-86ce-e43d31d929cf"
+      },
+      "squuid": "5be1a6b8-da8a-46eb-9870-d2740c9fa9f3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 95.0,
+      "held": {
+        "name": "carus media GmbH",
+        "squuid": "5be1a6b6-2c4d-42e4-988c-453ed4f550fe"
+      },
+      "squuid": "5be1a6b8-26d3-4d65-b15f-c8a32b0ae6ec",
+      "state": "active"
+    }
+  ],
+  "city": "Köln",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

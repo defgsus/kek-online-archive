@@ -1,0 +1,89 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "TV Bayern GmbH Bayerische Lokal-Fernsehprogramm Gesellschaft",
+        "squuid": "5be1a6b6-515a-406b-b899-999e085ca150"
+      },
+      "squuid": "5f8d6cc3-0ba6-4fb9-b3b9-6df5b22e0d14",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Südwestpark ",
+  "name": "TVF Fernsehen in Franken Programm GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-494c-479e-b840-fd16916f9cc7",
+  "controlDate": "2021-12-07T15:12:45.944Z",
+  "streetNumber": "73",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "90449",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Franken Fernsehen",
+        "squuid": "5be1a6b1-ca66-42de-a310-132eedd89e49"
+      },
+      "squuid": "5be1a6b9-2f5e-4c6c-b6b4-bdb38cc94087",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.frankenfernsehen.tv",
+        "squuid": "5f7c4d0d-ffc6-4ed9-8b9e-0978445a4e18"
+      },
+      "squuid": "5f7c4d37-2514-4d67-90a5-be099621e171",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Neue Welle Franken - Antenne Nürnberg Hörfunkprogrammgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-96a7-4bcb-a4f1-35aa6710c5d5"
+      },
+      "squuid": "5be1a6b7-42d6-4052-8922-02206bcf0fda",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 37.0,
+      "holder": {
+        "name": "Lokalfernsehen Nürnberg GmbH",
+        "squuid": "5be1a6b6-3825-4410-9145-190995253eaf"
+      },
+      "squuid": "5be1a6b7-cb2b-4644-abef-f5e7f76a14ce",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 13.0,
+      "holder": {
+        "name": "TVN Fernseh-Beteiligungsgesellschaft mbH Nürnberg",
+        "squuid": "5be1a6b6-a60c-4397-80e6-9e8b1156d0b1"
+      },
+      "squuid": "5be1a6b7-9320-4bbc-be9c-5d517230f1c9",
+      "state": "active"
+    }
+  ]
+}

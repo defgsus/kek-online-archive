@@ -1,0 +1,43 @@
+{
+  "name": "Hoepfner, Yella",
+  "pseudoCompany": false,
+  "squuid": "5f3bf275-9ac0-435c-8624-b94ad168bfb5",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "Hoepfner Bräu Friedrich Hoepfner Verwaltungsgesellschaft mbH & Co. KG",
+        "squuid": "5d35cbb0-932a-4aed-9554-ec09fb9323c2"
+      },
+      "squuid": "5f3bf2ea-f51c-4818-a66f-9adbaca78b0e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Hoepfner Verwaltungs GmbH",
+        "squuid": "5f3bf24a-9d74-45bc-ac4f-907f869d3183"
+      },
+      "squuid": "5ff449bd-aa91-44aa-9ee3-5d3005150ac1",
+      "state": "active"
+    }
+  ],
+  "city": "Berlin",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

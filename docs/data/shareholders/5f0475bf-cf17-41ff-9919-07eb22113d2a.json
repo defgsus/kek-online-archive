@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Neustadt a. Rbge.",
+  "pseudoCompany": false,
+  "street": "Boschstr.",
+  "name": "Meer Radio GmbH",
+  "naturalPerson": false,
+  "squuid": "5f0475bf-cf17-41ff-9919-07eb22113d2a",
+  "controlDate": "2021-12-13T16:47:24.133Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "31535",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.meerradio.de",
+        "squuid": "5f047585-5f04-440b-b10e-e3a373e2fbe4"
+      },
+      "squuid": "5f0475e7-d76b-4b47-a81c-742bd3631359",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 48.0,
+      "holder": {
+        "name": "Nülle, Niklas",
+        "squuid": "5f0476ca-cd6e-471a-a1d7-db0333abb467"
+      },
+      "squuid": "5f04773f-b91a-494f-89ef-f9c528493815",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 37.0,
+      "holder": {
+        "name": "Nülle, Silke",
+        "squuid": "60fe7706-a33a-43b0-80fe-71c2a529ab00"
+      },
+      "squuid": "60fe777c-34a3-445c-b54a-23073a307d33",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Nülle, Klaus Dieter",
+        "squuid": "60fe771a-ebfe-4832-8375-b030a4a58bfd"
+      },
+      "squuid": "60fe7791-35df-4d91-b30e-16526d57a093",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Gottschalk, André",
+        "squuid": "60fe772c-eccc-4edd-bf16-e5618ff39a25"
+      },
+      "squuid": "60fe77a0-8422-4a94-b693-59657dcdc89e",
+      "state": "active"
+    }
+  ]
+}

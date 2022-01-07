@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3baf16-d64c-421e-a468-0dd42aa5c2d7",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio RocklandPfalz GmbH & Co. KG",
+        "squuid": "5be1a6b6-9ede-4424-b670-4e7a7ef8c0ed"
+      },
+      "squuid": "5f3baf48-23c5-4b6a-bcc4-9283cfdb8432",
+      "state": "active"
+    }
+  ],
+  "name": "www.rockland.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-03T16:25:02.683Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Lokalfunk Dortmund Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-5242-4e9a-ba73-f7fe5104a850"
+      },
+      "squuid": "5f159585-3aee-49c0-8392-d6201ca0b16b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Westenhellweg",
+  "name": "Lokalfunk Dortmund Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5f15953d-0462-4959-92c4-6b9da3d8f510",
+  "controlDate": "2021-12-21T14:30:30.071Z",
+  "streetNumber": "86-88",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "44137",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 39.6,
+      "holder": {
+        "name": "Ruhr-Nachrichten Verlag & Co. KG",
+        "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793"
+      },
+      "squuid": "5ff5baf2-1952-4ec6-b1c7-3e64afaa1e72",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.4,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5ff5bb0d-a13f-4a82-83ea-79598b1c1be7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Dortmunder Stadtwerke AG",
+        "squuid": "5be1a6b6-b107-4a1c-b4a6-3d1f92f34923"
+      },
+      "squuid": "5ff5bb22-169a-4d60-9910-d643bd027370",
+      "state": "active"
+    }
+  ]
+}

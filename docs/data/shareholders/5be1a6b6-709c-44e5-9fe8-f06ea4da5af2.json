@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Buchloe",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Druck und Verlag Hans Obermayer GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-709c-44e5-9fe8-f06ea4da5af2",
+  "streetNumber": "33",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "86807",
+  "credits": "BLM-Schriftenreihe Band 83",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.5,
+      "holder": {
+        "name": "Männlein, Ursula",
+        "squuid": "5be1a6b6-05dc-47b7-a1e1-1ad78b2711b3"
+      },
+      "squuid": "5be1a6b7-28c2-43c8-9900-4a939a7a55a8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "holder": {
+        "name": "Albertshofer, Hans",
+        "squuid": "5be1a6b6-d880-43b1-88bf-57f15abb89b2"
+      },
+      "squuid": "5be1a6b7-a752-4813-9334-13e48e0fe21c",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Gelsenkirchen",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-7328-4e90-97ee-aecb7d2a48c6",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Stadtwerke Gelsenkirchen GmbH",
+        "squuid": "5be1a6b6-5b08-4a73-b9f3-df7a6123502b"
+      },
+      "squuid": "5be1a6b8-9162-4a74-afd9-e65eb4fcd975",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

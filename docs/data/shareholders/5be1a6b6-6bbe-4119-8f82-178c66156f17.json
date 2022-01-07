@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Thomasgasse",
+  "name": "Lausitzer Rundfunkbetreibergesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6bbe-4119-8f82-178c66156f17",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04109",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ENERGY Lausitz - Hit Music Only!",
+        "squuid": "5be1a6b1-f37f-453e-a5f9-50d7e893c7a6"
+      },
+      "squuid": "5be1a6b9-b3c9-4fa4-b273-d9dadd7ae4f4",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Netzwerk Programmanbietergesellschaft mbH Sachsen & Co. Betriebs KG",
+        "squuid": "5be1a6b6-181c-4a7c-bbd4-0e8d172c83a3"
+      },
+      "squuid": "5be1a6b7-efb7-4fa5-8638-5105d9fe5a64",
+      "state": "active"
+    }
+  ]
+}

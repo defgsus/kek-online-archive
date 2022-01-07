@@ -1,0 +1,75 @@
+{
+  "rfRepresentative": "Mathias Fischer, Diethelm Heinen",
+  "state": "active",
+  "rfShoppingChannel": true,
+  "rfStartDate": "31.01.2006",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-31e2-4d25-be62-78742c0664f6",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Betreibergesellschaft RegioOnline mbH",
+        "squuid": "5be1a6b6-ef74-40c9-b710-cb981d68ce4a"
+      },
+      "squuid": "5be1a6b9-ef04-480b-8a5c-8e8f39f3254a",
+      "state": "active"
+    }
+  ],
+  "name": "MonA TV",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-6b1a-4de6-924f-727ccb20e81b",
+    "name": "Teleshopping",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+    "name": "NLM",
+    "type": "organization",
+    "fullName": "Niedersächsische Landesmedienanstalt"
+  },
+  "description": "MonA TV bietet auf seiner DVB-T-Sendeplattform (derzeit in Bremen/ Unterweser/ Oldenburg) Shopping-, News- und Unterhaltungsprogramme.",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-4f77-4a73-90db-f4170510c758",
+      "name": "Media Broadcast GmbH / freenet TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-4dbe-45ef-ab98-fcd1599e57f0",
+        "name": "Terrestrik",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

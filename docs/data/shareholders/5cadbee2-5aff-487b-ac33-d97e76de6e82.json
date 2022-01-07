@@ -1,0 +1,33 @@
+{
+  "name": "Evangelischer Kirchenkreis Teltow-Zehlendorf",
+  "pseudoCompany": false,
+  "squuid": "5cadbee2-5aff-487b-ac33-d97e76de6e82",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.22,
+      "held": {
+        "name": "Radio Paradiso Verwaltungs GmbH",
+        "squuid": "5f352e18-eaac-4abd-a6c4-a07784da5dd1"
+      },
+      "squuid": "5f76f19a-87d1-47e5-8ad4-0295cde7efb9",
+      "state": "active"
+    }
+  ],
+  "city": "Berlin",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,77 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Neuturmstr.",
+  "name": "DOSB New Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f478-4a19-833e-ff699c12fe30",
+  "controlDate": "2022-01-06T10:31:26.790Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80331",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sportdeutschland.TV",
+        "squuid": "5be1a6b1-eb52-49d8-b86b-6513e69e86c5"
+      },
+      "squuid": "5be1a6b9-e862-4ddd-ae52-97dea4f3e0c3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sportdeutschland.tv",
+        "squuid": "5c531330-aa30-404a-be93-4fe7a4e432f9"
+      },
+      "squuid": "5c531423-31e7-4263-8b29-399d3f946517",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 05.12.2017, Az.: KEK 937",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 27.5,
+      "holder": {
+        "name": "Deutscher Olympischer Sportbund e.V. (DOSB)",
+        "squuid": "5be1a6b6-bf2c-4f78-bee6-31a8fd33c702"
+      },
+      "squuid": "5be1a6b8-fbf7-426c-8834-6f4ac88cc55d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "BMB Holding GmbH",
+        "squuid": "5be1a6b6-1839-4adf-8a27-64a4d32ef417"
+      },
+      "squuid": "5be1a6b8-989a-4b04-a20c-1473ffc6bf90",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 67.5,
+      "holder": {
+        "name": "Seven.One Sports GmbH",
+        "squuid": "5be1a6b6-81c8-4613-995a-ee1b2927dc57"
+      },
+      "squuid": "5be1a6b8-9852-4a95-9637-75c8d597ba64",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Merching",
+  "pseudoCompany": false,
+  "street": "Mandichostraße 18",
+  "name": "Forum Zeitschriften und Spezialmedien GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a3d2-4371-bb6f-d0d8a9489a84",
+  "controlDate": "2021-09-29T15:51:56.723Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86504",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Der Hund",
+        "squuid": "5be1a6b1-146d-4b97-9405-14e18aedcedb"
+      },
+      "squuid": "5be1a6b9-affc-416a-a7ef-fc5a7b8949c4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.derhund.de",
+        "squuid": "5be1a6b1-4958-4744-991d-cef0f7ab193d"
+      },
+      "squuid": "5be1a6b9-6c2d-47a4-a48e-7d0ece3c0533",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Forum Media Group GmbH",
+        "squuid": "5be1a6b6-7364-488a-bde8-934b93b9160c"
+      },
+      "squuid": "5be1a6b8-27be-487d-a9f7-4bdbfd4f6938",
+      "state": "active"
+    }
+  ]
+}

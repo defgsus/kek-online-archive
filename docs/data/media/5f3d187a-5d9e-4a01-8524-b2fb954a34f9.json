@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3d187a-5d9e-4a01-8524-b2fb954a34f9",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Klarner Medien GmbH",
+        "squuid": "5d31b7cf-4501-49b7-aa68-f9b43897b7a1"
+      },
+      "squuid": "5f3d1903-4cf0-4efc-8182-b4493c7daeb7",
+      "state": "active"
+    }
+  ],
+  "name": "www.rtf1.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-04T11:09:25.033Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

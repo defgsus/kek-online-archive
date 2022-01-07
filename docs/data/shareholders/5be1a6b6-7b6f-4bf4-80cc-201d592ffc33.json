@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Bad Reichenhall",
+  "pseudoCompany": false,
+  "street": "Schachtstr.",
+  "name": "BGL-Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7b6f-4bf4-80cc-201d592ffc33",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "83435",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Passauer Neue Presse GmbH",
+        "squuid": "5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
+      },
+      "squuid": "5be1a6b8-2383-4a5d-9a75-ff2bc92ccec8",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Sky Ltd.",
+        "squuid": "5be1a6b6-008b-4591-b912-fe13db89a83c"
+      },
+      "squuid": "5c407bd8-33d9-428f-9206-b1aa2dc72f31",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "name": "Comcast Bidco Limited",
+  "naturalPerson": false,
+  "squuid": "5c407afe-8008-48b9-8101-133daec8426a",
+  "controlDate": "2022-01-05T15:37:52.712Z",
+  "placeOfBusiness": "UK",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Comcast Bidco Holdings Limited",
+        "squuid": "5c419710-8298-4369-a69d-216ca2742ce4"
+      },
+      "squuid": "5c41a0e1-234d-4d6c-9657-9dc2932d17a6",
+      "state": "active"
+    }
+  ]
+}

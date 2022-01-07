@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Nymphenburger Str.",
+  "name": "Stylight GmbH",
+  "naturalPerson": false,
+  "squuid": "5d2dc567-1eb2-4e74-b208-99f88d80b6e2",
+  "controlDate": "2022-01-06T13:18:16.114Z",
+  "streetNumber": "86",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80636",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.stylight.de",
+        "squuid": "5d2dc552-2719-4690-9dfa-0b6b1d6d01a8"
+      },
+      "squuid": "5d2dcb32-8d27-4198-a8a0-e0c1daf7a8d6",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "NCG Commerce GmbH",
+        "squuid": "5d2dc5de-dd9d-4ec9-bc5b-0c0def60313a"
+      },
+      "squuid": "5d2dcb9f-1077-43a6-b818-4b92c3cd0cd3",
+      "state": "active"
+    }
+  ]
+}

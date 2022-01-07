@@ -1,0 +1,48 @@
+{
+  "name": "Bagel, Felix Ulrich",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-5c97-4889-8fe8-85717f52e4bf",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "held": {
+        "name": "Karl Rauch Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-6aeb-49a6-8afb-207596e10dcd"
+      },
+      "squuid": "5be1a6b8-a22a-411b-b0f2-61e99f0400d3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "held": {
+        "name": "Bagel Verlag GmbH",
+        "squuid": "60521311-12fc-4e7e-bdf9-7dcf8cf08e52"
+      },
+      "squuid": "606c4bdd-fbfa-4bdf-a03b-3636145c03a7",
+      "state": "active"
+    }
+  ],
+  "city": "Düsseldorf",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

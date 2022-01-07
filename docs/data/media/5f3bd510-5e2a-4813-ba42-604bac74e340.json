@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3bd510-5e2a-4813-ba42-604bac74e340",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "wetter.com GmbH",
+        "squuid": "5be1a6b6-7e2c-4158-b1b8-4bf296693393"
+      },
+      "squuid": "5f3bd533-4332-4729-a54b-e5df938a911f",
+      "state": "active"
+    }
+  ],
+  "name": "www.wetter.com/tv",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-07T14:23:00.710Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

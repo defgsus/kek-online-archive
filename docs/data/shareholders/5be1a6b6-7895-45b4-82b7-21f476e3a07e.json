@@ -1,0 +1,76 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "OTZ II GmbH",
+        "squuid": "5c6c07f1-80f6-4b27-97fa-4458273cf0f5"
+      },
+      "squuid": "5c6c0877-7dad-47a7-8d3f-ce1f82609add",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Ostthüringer Zeitung Verlag II GmbH & Co. KG",
+        "squuid": "5c6c05b3-f954-4c35-8d5e-4fc8a36d1380"
+      },
+      "squuid": "5ee213ab-d1de-47ef-b2f4-29108b0ec38b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gera",
+  "pseudoCompany": false,
+  "street": "Bahnhofstraße 18",
+  "name": "OTZ Ostthüringer Zeitung Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7895-45b4-82b7-21f476e3a07e",
+  "controlDate": "2021-11-05T17:02:36.820Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "07545",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Rheinisch-Westfälische Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-ea73-40a7-ba5c-20b4724bee39"
+      },
+      "squuid": "5be1a6b8-aa59-46e6-bfcf-d886c99c2f8f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Funke OTZ Holding GmbH",
+        "squuid": "5be1a6b6-987d-489e-8519-0c3e5e663454"
+      },
+      "squuid": "5be1a6b8-0b73-40e2-b4df-29d562b964e0",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "OTZ Ostthüringer Zeitung Verlag Verwaltungs-GmbH",
+        "squuid": "5ee213ea-4ea5-4f5b-a253-092eacacf273"
+      },
+      "squuid": "5ee21422-38a6-4e51-891c-318859dbadc2",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Erzbistum Freiburg",
+  "controlDate": "2019-07-05T12:52:15.716Z",
+  "squuid": "5c486543-8c18-41ee-9388-dbd93535d4e0",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.91,
+      "held": {
+        "name": "Tellux Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-434a-4353-9b67-bb8a0bcf4412"
+      },
+      "squuid": "5c486564-ce88-472f-b09c-313818b302c6",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active"
+}

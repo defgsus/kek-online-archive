@@ -1,0 +1,75 @@
+{
+  "rfRepresentative": "Rätzel, Stephan",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "01.01.2011",
+  "rfFreePay": true,
+  "squuid": "5c5d62c9-8f35-4fb3-9b22-2bfa7d45bcf9",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "accessibilityUrl": "http://www.strausberg.tv/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Rätzel, Stephan",
+        "squuid": "5c5c1d0c-e18e-46da-a0f1-531daf1c96cf"
+      },
+      "squuid": "5c5d64ae-2f7d-4f34-b583-6e9056046082",
+      "state": "active"
+    }
+  ],
+  "name": "Strausberg.TV",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+    "name": "Spartenprogramm (Information/Dokumentation)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Brandenburger Lokal-TV-Programm",
+  "rfLicenseUntil": "31.12.2025",
+  "rfLicensed": "15.12.2017",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d7a7-4bd8-a6c4-89a1eb1c79a0",
+      "name": "Lokale Kabelnetze (veraltet)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.01.2018",
+  "rfAddress": "Ernst-Thälmann-Str. 25, 15344 Strausberg\n",
+  "accessibilityEmail": "redaktion@strausberg.tv",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

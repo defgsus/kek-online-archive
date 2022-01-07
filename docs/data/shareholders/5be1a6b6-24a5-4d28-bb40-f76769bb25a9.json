@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Buchwaldstr. 1",
+  "name": "ConPart Verlag GmbH & Co Zeitschriften KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-24a5-4d28-bb40-f76769bb25a9",
+  "controlDate": "2021-09-28T11:13:48.029Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22143",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Freizeit Illu",
+        "squuid": "5be1a6b1-c4c9-4cb8-9f0e-9b42f3763a69"
+      },
+      "squuid": "5be1a6b9-4824-4a88-bc02-21371a7cb075",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Das macht Spaß",
+        "squuid": "5be1a6b1-5cce-4da5-918a-ce618ecce5ec"
+      },
+      "squuid": "5be1a6b9-a2d0-4c04-b217-4f974afa4c1e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schöne Freizeit",
+        "squuid": "5be1a6b1-7a01-4a21-9db4-7d84b2a992d9"
+      },
+      "squuid": "5be1a6b9-b722-45d9-a250-a268e01fa46e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schöner Monat",
+        "squuid": "5be1a6b1-286c-42d8-85d4-3d48bcb77ccf"
+      },
+      "squuid": "5be1a6b9-bd14-4584-bc79-65ff379d98cd",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Biehler, Helga",
+        "squuid": "5be1a6b6-f189-439a-8808-a81e74362720"
+      },
+      "squuid": "5be1a6b8-027b-40fe-8e8b-1ecff009831c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "ConPart Verlag GmbH",
+        "squuid": "5ebe6e03-68ed-45fa-9d97-8387721acbad"
+      },
+      "squuid": "5ebe6e28-1801-4436-aa18-1d7fc5185ae0",
+      "state": "active"
+    }
+  ]
+}

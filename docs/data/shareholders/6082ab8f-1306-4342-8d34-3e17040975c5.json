@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Ströer Digital Group GmbH",
+        "squuid": "6082a85c-3624-4345-bca6-010da1a73eff"
+      },
+      "squuid": "6082abaf-47d6-4577-b9de-56b9d82a8e9b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Ströer Allee",
+  "name": "Interactive Media CCSP GmbH",
+  "naturalPerson": false,
+  "squuid": "6082ab8f-1306-4342-8d34-3e17040975c5",
+  "controlDate": "2021-04-23T11:13:25.325Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50999",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 94.2,
+      "holder": {
+        "name": "Ströer Digital Publishing GmbH",
+        "squuid": "5be1a6b6-bcab-4cbe-82df-bf0be2b34cd8"
+      },
+      "squuid": "6082acbb-77b4-4fc5-b1f5-addf559c9795",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.8,
+      "holder": {
+        "name": "OMS-Online Marketing Service GmbH & Co. KG",
+        "squuid": "6082ac61-e251-4ed7-b875-a96ae933da5b"
+      },
+      "squuid": "6082accb-7a3a-43b0-8cad-584337eb9a0d",
+      "state": "active"
+    }
+  ]
+}

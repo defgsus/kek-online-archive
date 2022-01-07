@@ -1,0 +1,40 @@
+{
+  "name": "Lottermoser, Marcus",
+  "pseudoCompany": false,
+  "squuid": "5ce2d3e6-9c34-4924-b3b5-18e8f9b5efa0",
+  "city": "Berlin",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SlethZockt",
+        "squuid": "5ce2d41d-376f-44f4-a126-a9d870a9ddc0"
+      },
+      "squuid": "5ce2d620-e042-4ceb-8cb8-8baf9d6766bd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.slethzockt.de",
+        "squuid": "5f117e6f-58cc-4c36-a6fd-ab9bd571d95b"
+      },
+      "squuid": "5f117e95-7f1a-4240-809c-c20c07e24b96",
+      "state": "active"
+    }
+  ],
+  "naturalPerson": true
+}

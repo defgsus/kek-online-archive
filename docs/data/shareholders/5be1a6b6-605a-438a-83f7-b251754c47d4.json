@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Neusäß - Augsburg",
+  "note": "Stand: 2/2018",
+  "pseudoCompany": false,
+  "street": "Schubertstraße",
+  "name": "Hitradio MS One Studiobetrieb Ltd.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-605a-438a-83f7-b251754c47d4",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "86356",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MS One SchlagerRADIO",
+        "squuid": "5be1a6b1-490e-4d4a-8a4a-f648ae933f72"
+      },
+      "squuid": "5be1a6b9-0128-41e3-9779-ac6420c8653f",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "holder": {
+        "name": "Krug, Maximilian",
+        "squuid": "5be1a6b6-516d-4b6d-bd37-dd35dd1eedc3"
+      },
+      "squuid": "5be1a6b8-919a-4f59-a79e-8020cf5dbaae",
+      "state": "active"
+    }
+  ]
+}

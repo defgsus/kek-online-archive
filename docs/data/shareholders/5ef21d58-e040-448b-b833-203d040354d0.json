@@ -1,0 +1,99 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.17,
+      "held": {
+        "name": "MMN Mediengesellschaft Mittlerer Neckar GmbH",
+        "squuid": "5c98ee6c-4328-4f2e-9dbb-8bcfcc3b9d68"
+      },
+      "squuid": "5ef21dab-4d48-47b3-8ead-1ea0e72f1322",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Südwestdeutsche Konzertdirektion Erwin Russ GmbH",
+        "squuid": "5f97f87c-8722-44e5-bfc1-da5573822d45"
+      },
+      "squuid": "5fac08dc-f9f0-4020-92e3-0b67312676b7",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Charlottenplatz",
+  "name": "Konzertdirektion Russ GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5ef21d58-e040-448b-b833-203d040354d0",
+  "controlDate": "2021-11-24T16:58:49.200Z",
+  "streetNumber": "17",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70173",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Russ, Michael",
+        "squuid": "5f97f88e-6a5b-414b-8202-c3ad04a4fb39"
+      },
+      "squuid": "5f97f937-0396-4f6f-94db-f9a8ba409985",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Russ, Michaela",
+        "squuid": "5f97f8a3-c5b6-41f6-8083-60b8fea4ffe7"
+      },
+      "squuid": "5f97f94b-5248-48ec-9427-682bf1724f99",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Südwestdeutsche Konzertdirektion Erwin Russ GmbH",
+        "squuid": "5f97f87c-8722-44e5-bfc1-da5573822d45"
+      },
+      "squuid": "5f97f95d-f522-41db-87d0-0ef9c92bc5ce",
+      "state": "active"
+    }
+  ]
+}

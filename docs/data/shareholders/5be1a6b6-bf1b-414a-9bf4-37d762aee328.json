@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Kiel",
+  "pseudoCompany": false,
+  "street": "Neufeldtstraße 9",
+  "name": "Ariva.de AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-bf1b-414a-9bf4-37d762aee328",
+  "controlDate": "2021-11-25T16:16:18.022Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "24118",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ariva.de",
+        "squuid": "5be1a6b1-c810-4efe-b0c1-8d3cfbfcf9b8"
+      },
+      "squuid": "5be1a6b9-f435-4399-9aba-a4efb1db9f2a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wallstreet:online AG",
+        "squuid": "5be1a6b6-efb6-4178-a7d4-a65f346c332b"
+      },
+      "squuid": "5d1a3ad4-4f36-405c-86b6-2fc9d66c7d92",
+      "state": "active"
+    }
+  ]
+}

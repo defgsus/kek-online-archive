@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f116b04-99db-4ab5-b045-1d17128725b5",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "The Walt Disney Company (Germany) GmbH",
+        "squuid": "5be1a6b6-62fe-4b85-a886-2d02af7df9ab"
+      },
+      "squuid": "5f116b2b-b6a4-43e1-9782-822fb54c8c6d",
+      "state": "active"
+    }
+  ],
+  "name": "www.tv.disney.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-07T10:19:32.828Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

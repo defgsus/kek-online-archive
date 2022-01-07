@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Lahr",
+  "pseudoCompany": false,
+  "street": "Kreuzstr. 9",
+  "name": "Lahrer Zeitung GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f18f-49c3-bcf2-fec95b06738c",
+  "controlDate": "2021-10-27T08:55:38.946Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "77933",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lahrer Zeitung",
+        "squuid": "5be1a6b1-f4f3-4ac0-85f1-194a313852ec"
+      },
+      "squuid": "5be1a6b9-335a-4907-b832-ffa90bba86a4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwarzwälder Bote (Ausgabe Kinzigtal)",
+        "squuid": "5be1a6b1-4516-449e-bfa5-5d5147a72fb6"
+      },
+      "squuid": "5be1a6b9-d889-4528-a0a9-05eb53d49790",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lahrer-zeitung.de",
+        "squuid": "5be1a6b1-07ae-4d15-9f9e-acf812be140a"
+      },
+      "squuid": "5be1a6b9-e769-427e-8f32-1eec26779b8a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwarzwälder Bote Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-63c7-407b-b983-bdf7d0a4327d"
+      },
+      "squuid": "5be1a6b8-7f3a-46ee-aaa6-2f9986129ee8",
+      "state": "active"
+    }
+  ]
+}

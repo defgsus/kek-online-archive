@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Wälischmiller Grundbesitz GmbH & Co. KG",
+        "squuid": "5e2ef80a-38c4-4839-b77e-fa2e61cc73f9"
+      },
+      "squuid": "5e2ef9f6-5f35-4223-b55a-2b0a926ebe71",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dingolfing",
+  "pseudoCompany": false,
+  "street": "Laaberstr.",
+  "name": "Wälischmiller Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5e2ef842-fe91-4dec-8f04-438ba409dc32",
+  "controlDate": "2021-10-04T13:51:57.087Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "84130",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Wälischmiller, Maria",
+        "squuid": "5e2ef824-ca19-43d1-a78f-027a426c316d"
+      },
+      "squuid": "5e2efa8a-374a-484c-b4ed-66e0794f94ce",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Wälischmiller, Max Josef",
+        "squuid": "5be1a6b6-ee36-4fa7-87e5-cd4b02fb65e0"
+      },
+      "squuid": "5e2efa9c-a066-4fbd-a16d-fe7d0a14581c",
+      "state": "active"
+    }
+  ]
+}

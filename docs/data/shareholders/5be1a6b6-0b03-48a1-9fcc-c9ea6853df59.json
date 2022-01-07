@@ -1,0 +1,42 @@
+{
+  "name": "Hochsauerlandkreis",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-0b03-48a1-9fcc-c9ea6853df59",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.89,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Hochsauerlandkreis mbH & Co. KG",
+        "squuid": "5be1a6b6-df29-4c59-9e1c-de49c415bfab"
+      },
+      "squuid": "5be1a6b8-8e5c-4ec5-a9ca-e7fced395e50",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Hochsauerlandkreis mbH",
+        "squuid": "5f16d067-4798-4a9e-a003-a69f6f99fbb5"
+      },
+      "squuid": "5ff5aba4-760d-477a-b20d-68061e9d10cc",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

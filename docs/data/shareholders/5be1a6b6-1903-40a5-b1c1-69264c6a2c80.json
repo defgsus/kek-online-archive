@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Bad Windsheim",
+  "pseudoCompany": false,
+  "street": "Oberntiefer Straße 20",
+  "name": "Auto & Reise GmbH Verlag und Wirtschaftsdienst",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1903-40a5-b1c1-69264c6a2c80",
+  "controlDate": "2021-01-19T14:21:12.581Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "91438",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ARCD Clubmagazin Auto & Reise",
+        "squuid": "5be1a6b1-dafa-4cb0-92be-187d03aacb12"
+      },
+      "squuid": "5be1a6b9-9f53-44b1-8a73-102eb2fd2c17",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Auto- und Reiseclub Deutschland e.V.",
+        "squuid": "5be1a6b6-30d8-4169-89cd-8f6eab33ec76"
+      },
+      "squuid": "5be1a6b8-f862-4554-a3b7-4d93ca45d23c",
+      "state": "active"
+    }
+  ]
+}

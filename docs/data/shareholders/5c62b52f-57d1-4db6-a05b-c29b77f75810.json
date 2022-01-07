@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Wiesendamm",
+  "name": "SJV Segel Journal Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5c62b52f-57d1-4db6-a05b-c29b77f75810",
+  "controlDate": "2021-11-12T14:59:29.425Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22305",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "segel Journal",
+        "squuid": "5c62b505-97ce-48c1-9237-d11ccae75fb3"
+      },
+      "squuid": "5c62b5a2-61c5-4f89-8e27-a6720dfb5277",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "SVG Service Verlag GmbH",
+        "squuid": "5be1a6b6-43bf-4044-933c-c4fa498ea2ab"
+      },
+      "squuid": "5c62b5e7-e741-488a-b0bc-c9fe59d44e6b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "John, Martina",
+        "squuid": "5c62b616-701e-4191-a3df-f0d4349b4cc3"
+      },
+      "squuid": "5c62b641-07b1-499e-bc18-a32b70246c3c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Julius-Warning, Martina",
+        "squuid": "5c62b627-ffa6-483b-b74f-c2669734652f"
+      },
+      "squuid": "5c62b64d-0979-4010-b742-7e91838b5f69",
+      "state": "active"
+    }
+  ]
+}

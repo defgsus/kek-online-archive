@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Winsener Anzeiger GmbH & Co. KG",
+        "squuid": "5ff2de51-83d5-4444-b35f-926e9d1cc6cf"
+      },
+      "squuid": "5ff2dff3-3831-490f-83b2-94e5b9f3fbab",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Lüneburg",
+  "pseudoCompany": false,
+  "street": "Am Sande",
+  "name": "Winsener Anzeiger Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5ff2dfc5-fcf9-4c51-b730-cd1f353ba818",
+  "controlDate": "2021-11-19T11:22:52.562Z",
+  "streetNumber": "18/19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "21335",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Bergmann, Wolf Christian",
+        "squuid": "5be1a6b6-f115-4c19-badb-9c70b23b8ea4"
+      },
+      "squuid": "5ff2e1b3-fd86-4786-80b3-43c4e2db8d72",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "von Stern, Christian",
+        "squuid": "5ff2e0bf-3b03-44fd-9144-d1a720877dd5"
+      },
+      "squuid": "5ff2e1c2-8e3d-415c-a322-d8e63ab30ab5",
+      "state": "active"
+    }
+  ]
+}

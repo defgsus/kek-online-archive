@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Neumarkter Str.",
+  "name": "Universum Film GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3124-451d-9e9d-bfaec1d16e6a",
+  "streetNumber": "28",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "81673",
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 09.06.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RTL Television GmbH",
+        "squuid": "5be1a6b6-7542-41b4-ab53-17975a930698"
+      },
+      "squuid": "5be1a6b7-00d4-4a35-be59-b8ac14cc2a0d",
+      "state": "active"
+    }
+  ]
+}

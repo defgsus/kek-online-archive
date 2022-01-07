@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "Atlanta (US)",
+  "pseudoCompany": false,
+  "name": "Cable News Network Inc.",
+  "naturalPerson": false,
+  "squuid": "5d35d9f2-8f00-45a3-9796-51a3da6cc9ad",
+  "controlDate": "2021-12-02T11:55:52.333Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cnn.com",
+        "squuid": "5d35d8ef-0fb4-44c4-a97a-9d55608e005b"
+      },
+      "squuid": "5d35da2a-1c29-4965-a87a-c64d8072777f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Turner Broadcasting System, Inc.",
+        "squuid": "5be1a6b6-3879-4319-8946-843c56f1aa8c"
+      },
+      "squuid": "5d35da8c-8879-40ba-b3c4-8b926da5ee5a",
+      "state": "active"
+    }
+  ]
+}

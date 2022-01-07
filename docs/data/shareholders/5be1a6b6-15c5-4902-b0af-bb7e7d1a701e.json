@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Samerberg",
+  "pseudoCompany": false,
+  "street": "Birkenweg",
+  "name": "Ensemble am Chiemsee Programmanbietergesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-15c5-4902-b0af-bb7e7d1a701e",
+  "streetNumber": "29",
+  "organizations": [
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "83122",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ensemble am Chiemsee",
+        "squuid": "5be1a6b1-0313-488b-a0fb-09f3f1cc1eda"
+      },
+      "squuid": "5be1a6b9-a0d9-4c70-b24d-4589be788398",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Doermer, Christian-Michael",
+        "squuid": "5be1a6b6-d7b4-4055-8175-a9848fed7dd2"
+      },
+      "squuid": "5be1a6b7-4c6f-4f55-9253-a697f845b271",
+      "state": "active"
+    }
+  ]
+}

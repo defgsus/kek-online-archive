@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "AMC Chello Zone Holdings Ltd.",
+        "squuid": "5be1a6b6-2ad1-4e4a-a11b-01f0a1fe7ee5"
+      },
+      "squuid": "5be1a6b8-3f47-4a05-92de-fc8c3667effd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "AMC Networks International Zone Holdings Ltd.",
+        "squuid": "5d3047f9-4b8a-42f6-9df9-58ac88ceb552"
+      },
+      "squuid": "5d304d5c-1be6-40ee-9db3-e3ca6587b5ec",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "AMC UK Midco Ltd.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-85d6-46c9-bc78-6c15ac24b212",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "Auskunft der Chellozone Holdings Ltd. vom 27.06.2014",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "AMC UK Topco Ltd.",
+        "squuid": "5be1a6b6-b23b-4f6f-ad8a-4c8ff580848d"
+      },
+      "squuid": "5be1a6b8-c62d-4a68-a8f2-c6f4fb33a0ec",
+      "state": "active"
+    }
+  ]
+}

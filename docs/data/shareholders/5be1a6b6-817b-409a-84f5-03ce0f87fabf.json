@@ -1,0 +1,102 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Hanauer Anzeiger GmbH",
+        "squuid": "5df8fa66-b63d-4b8b-b949-c34c941ec95b"
+      },
+      "squuid": "5e29752d-8492-4942-8964-7e16490cff65",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hanau",
+  "pseudoCompany": false,
+  "street": "Donaustr. 5",
+  "name": "Hanauer Anzeiger GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-817b-409a-84f5-03ce0f87fabf",
+  "controlDate": "2021-10-22T12:25:08.168Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "63452",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hanauer Anzeiger",
+        "squuid": "5be1a6b1-790b-4edd-a3bf-1acf8bcaebf0"
+      },
+      "squuid": "5be1a6b9-b906-4531-b4ae-c5c05650e73e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Maintal Tagesanzeiger",
+        "squuid": "5be1a6b1-f7ee-4c00-8d24-be17b283bf57"
+      },
+      "squuid": "5be1a6b9-1087-4039-b29d-c9396fa11a4c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Langenselbolder Zeitung",
+        "squuid": "5be1a6b1-8862-4eb3-ab03-d54d67c8cb41"
+      },
+      "squuid": "5be1a6b9-f8bc-4095-bd81-3820e28a95bc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hanauer.de",
+        "squuid": "5be1a6b1-bfd6-48f6-9e3b-f7b57e451e2a"
+      },
+      "squuid": "5be1a6b9-6fbb-4e6e-8dac-91a4d2bb342c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "meinJournal",
+        "squuid": "5c619cfa-0edd-4920-9982-156240d3b0c0"
+      },
+      "squuid": "5c619d5f-043d-4ef8-ad21-37a5766dd41c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hanauer Anzeiger GmbH",
+        "squuid": "5df8fa66-b63d-4b8b-b949-c34c941ec95b"
+      },
+      "squuid": "5df8fadf-8b05-4da7-947a-fd1942bc3870",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Pressehaus Bintz Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-8a85-4051-ab8c-3b6710166754"
+      },
+      "squuid": "5e297305-6f9b-4a33-9435-68941ef13abf",
+      "state": "active"
+    }
+  ]
+}

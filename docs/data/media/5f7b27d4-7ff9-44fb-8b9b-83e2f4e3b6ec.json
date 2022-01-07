@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f7b27d4-7ff9-44fb-8b9b-83e2f4e3b6ec",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Discovery Communications Deutschland GmbH & Co. KG",
+        "squuid": "5be1a6b6-ee49-4a3b-a184-2f0cbe7dffcf"
+      },
+      "squuid": "5f7b296d-c989-40e0-8f9e-be0f5d766448",
+      "state": "active"
+    }
+  ],
+  "name": "www.eurosport.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-06T13:30:19.121Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

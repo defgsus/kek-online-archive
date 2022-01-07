@@ -1,0 +1,81 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Sportdigital.TV Sende- und Produktions GmbH",
+        "squuid": "5be1a6b6-ec20-4ad4-85d5-8fd11eb94dc3"
+      },
+      "squuid": "5be1a6b7-1a36-4c1b-9c63-389883a53902",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Sportainment Medien Verwaltungs-GmbH",
+        "squuid": "5f184f5b-ca85-4fa9-8613-9344c8f79f4a"
+      },
+      "squuid": "5f1a9433-5592-44cf-8c30-3de926f16112",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Jenfelder Allee",
+  "name": "Sportainment Medien GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1453-4f65-9406-1767aef2e002",
+  "controlDate": "2022-01-06T10:40:41.623Z",
+  "streetNumber": "80",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22045",
+  "credits": "Beschluss der KEK vom 11.04.2017, Az.: KEK 909, und Bescheid der MA HSH vom 13.04.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Wundram, Gisbert",
+        "squuid": "5be1a6b6-bd11-4732-bfe4-297bfcc1917d"
+      },
+      "squuid": "5be1a6b7-4cf1-49e2-8204-67d5a8aa48e5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Eisermann, Bendix",
+        "squuid": "5be1a6b6-4d94-4bcc-bf94-1192ca904f17"
+      },
+      "squuid": "5be1a6b7-396d-4b29-8b72-24474e4077ad",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Sportainment Medien Verwaltungs-GmbH",
+        "squuid": "5f184f5b-ca85-4fa9-8613-9344c8f79f4a"
+      },
+      "squuid": "5f184f86-641e-4118-acab-980ebce5b497",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.32,
+      "held": {
+        "name": "Radio RT 4 GmbH & Co. Programm- und Beteiligungsgesellschaft KG",
+        "squuid": "5c98ece2-cbcf-4b69-b373-0f1117ff5746"
+      },
+      "squuid": "6087cdb4-ea4b-4e2c-b639-dee175490c36",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.32,
+      "held": {
+        "name": "Radio RT 4 Verwaltungs-GmbH",
+        "squuid": "5ef314c8-cb90-4e80-83ba-bb85608e5223"
+      },
+      "squuid": "6087ce0f-072d-4803-812a-038500808112",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Metzingen",
+  "pseudoCompany": false,
+  "street": "Römerstr.",
+  "name": "Südwest Presse Neckar-Alb GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7896-41d7-86fd-15daa70439d8",
+  "controlDate": "2021-10-25T12:50:31.385Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "72555",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Südwest Presse/Metzinger-Uracher Volksblatt",
+        "squuid": "5be1a6b1-ec85-4e9c-aef6-31ed645d509a"
+      },
+      "squuid": "5be1a6b9-933a-4aa2-a98a-c5cbf7b7d00e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Reutlinger Nachrichten",
+        "squuid": "5be1a6b1-effc-476c-9656-3d032e30728a"
+      },
+      "squuid": "5be1a6b9-ae31-4b44-bb39-01f082ae2956",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hohenzollerische Zeitung",
+        "squuid": "5be1a6b1-c18e-4a7c-96d2-a6dba16ed87a"
+      },
+      "squuid": "6087cc90-d85d-4ff1-af28-2d12a5ae54c8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Neue Pressegesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-9a6a-4235-a5d2-f080b726ddef"
+      },
+      "squuid": "5be1a6b8-8d21-4b7b-bf45-4ff48b94b6cb",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Südwest Presse Neckar-Alb Verwaltungs GmbH",
+        "squuid": "5ee23707-ab9d-45d8-a3a0-491302cba836"
+      },
+      "squuid": "5ee23726-324f-40a1-9642-89a0ff228de1",
+      "state": "active"
+    }
+  ]
+}

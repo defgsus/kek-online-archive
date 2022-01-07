@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5c6c2bc6-2b60-46c9-b1bd-ac2c530771e2",
+  "marketReach": 0.5810512412312686,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Norddeutscher Rundfunk (NDR)",
+        "squuid": "5be1a6b6-f139-4f07-95d0-bf1060f47ff8"
+      },
+      "squuid": "5c6c2bde-9992-40ea-9169-6ed30b76d356",
+      "state": "active"
+    }
+  ],
+  "name": "www.ndr.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-15T16:19:26.684Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

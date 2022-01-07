@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "held": {
+        "name": "IBMVG GmbH",
+        "squuid": "5f9a8d9c-a369-47dc-85b2-7062b5cb7e9d"
+      },
+      "squuid": "5fa03224-90a2-4db0-bd6b-fcb0ccdca61d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Tholey",
+  "pseudoCompany": false,
+  "street": "Marpinger Weg",
+  "name": "S-R GmbH",
+  "naturalPerson": false,
+  "squuid": "5fa031e0-2ae8-47d2-8468-b78e60c50818",
+  "controlDate": "2022-01-05T11:46:30.746Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    }
+  ],
+  "zipcode": "66636",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Federkeil, Dirk",
+        "squuid": "5fa2c767-2706-43ce-ac08-e104eb79d8b7"
+      },
+      "squuid": "5fa2c7c0-289c-4ac2-8ceb-ea239b8973be",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Simon, Timo",
+        "squuid": "5fa2c77e-af4e-4849-a960-5ce45a22a11a"
+      },
+      "squuid": "5fa2c7d0-709a-4355-8099-bef4dbd060d5",
+      "state": "active"
+    }
+  ]
+}

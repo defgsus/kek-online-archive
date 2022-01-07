@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Kurfürstendamm 22",
+  "name": "Funke Medien Berlin GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-eb02-4cfa-9a0d-4686605539d2",
+  "controlDate": "2021-02-02T16:27:02.276Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10719",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Berliner Morgenpost",
+        "squuid": "5be1a6b1-a8d0-4f6a-88a1-fa65d59fda95"
+      },
+      "squuid": "5be1a6b9-2008-4850-8d3b-16e3dd1b735b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.morgenpost.de",
+        "squuid": "5be1a6b1-55e9-45d9-bc29-428658a47022"
+      },
+      "squuid": "5be1a6b9-e229-4933-b4f9-405ed24ef9c8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Medien Hamburg GmbH",
+        "squuid": "5be1a6b6-f3ae-464c-aceb-c2c79f90ca3b"
+      },
+      "squuid": "5be1a6b8-5802-4498-bb16-a054990c56be",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Lokalradio Steinfurt Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-c7a2-4726-a9b5-0984cc73c7d8"
+      },
+      "squuid": "5dcbadc6-da7e-4038-98cb-5b92cb38a104",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Steinfurt",
+  "pseudoCompany": false,
+  "street": "Tecklenburger Str.",
+  "name": "Beteiligungsgesellschaft des Kreises Steinfurt",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8d4c-4c80-b5ca-cffeb850b521",
+  "controlDate": "2022-01-03T10:33:14.897Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "48565",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kreis Steinfurt",
+        "squuid": "5f104540-6c25-4ff8-b9f3-48bc50be628a"
+      },
+      "squuid": "5f10456f-490f-4a7a-bcdf-f0c75442c637",
+      "state": "active"
+    }
+  ]
+}

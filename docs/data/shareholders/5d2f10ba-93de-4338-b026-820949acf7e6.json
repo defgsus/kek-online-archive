@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Zürich (CH)",
+  "pseudoCompany": false,
+  "street": "Kalanderplatz",
+  "name": "Neue Mediengesellschaft Zürich AG",
+  "naturalPerson": false,
+  "squuid": "5d2f10ba-93de-4338-b026-820949acf7e6",
+  "controlDate": "2021-12-16T18:08:48.323Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "8027",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pctipp.ch",
+        "squuid": "5d2f10a6-fd36-4d31-9b7c-d73a36bf0129"
+      },
+      "squuid": "5d2f10d7-c4cb-4971-8400-338b0e75b0de",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ebner Media Group GmbH & Co KG",
+        "squuid": "5be1a6b6-84e9-4f17-a677-1e326d5da9f2"
+      },
+      "squuid": "5d2f1277-4107-4bc9-b98d-e88e56d8f5c8",
+      "state": "active"
+    }
+  ]
+}

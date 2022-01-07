@@ -1,0 +1,43 @@
+{
+  "name": "Richter, Tina und Effert, Jan in Erbengemeinschaft",
+  "pseudoCompany": false,
+  "squuid": "5d3045bb-da4b-43aa-b917-8557f45db921",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 5.1,
+      "held": {
+        "name": "rkw Radio Königs Wusterhausen GmbH & Co. KG",
+        "squuid": "5be1a6b6-69e0-4daf-a710-83e0f0e54de7"
+      },
+      "squuid": "5d3045e5-6197-4701-9248-28803494c6db",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.07,
+      "held": {
+        "name": "rkw Radio Königs Wusterhausen Verwaltungs GmbH",
+        "squuid": "60b75905-73c5-4e38-81ff-e227ed1e321b"
+      },
+      "squuid": "60d06906-0b5b-45fb-9a45-8713393953e4",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

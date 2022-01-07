@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Stefan Betzofd, Raff Hermanns, Carolin Hufshoff Pol, Christian Nienhaus",
+  "state": "active",
+  "sharesInfo": "KEK 1055",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Felix Seidel",
+  "rfStartDate": "2020",
+  "rfFreePay": true,
+  "squuid": "5fd4660e-ae04-4b3b-a72b-aefb105620db",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bild GmbH ",
+        "squuid": "5be1a6b6-af30-4d16-b7eb-afb070fc9f88"
+      },
+      "squuid": "5fd469b1-0e7c-46d2-8d0f-22419a75c788",
+      "state": "active"
+    }
+  ],
+  "name": "Bild Live",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Das Streaming-Angebot umfasst mehrere lineare Sendeformate mit ereignisbasierter Live-Berichterstattung, kommentierenden Sendungen, Talk-Formaten und Berichterstattung über Sportereignisse.",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "26.05.2020",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "26.05.2020",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "NCG Commerce GmbH",
+        "squuid": "5d2dc5de-dd9d-4ec9-bc5b-0c0def60313a"
+      },
+      "squuid": "5d2dcbfa-a697-402c-8358-84a36f5d1a16",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Unterföhring",
+  "pseudoCompany": false,
+  "street": "Medienallee",
+  "name": "NCG - NUCOM Group SE",
+  "naturalPerson": false,
+  "squuid": "5d2dc61e-3a18-414f-9d1c-4e96145eb44e",
+  "controlDate": "2022-01-06T13:19:41.647Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "85774",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.9,
+      "holder": {
+        "name": "ProSiebenSat.1 Media SE",
+        "squuid": "5be1a6b6-c403-468d-8ebc-b75baf6ebe76"
+      },
+      "squuid": "5d2dcc67-fbf4-475f-b63b-ccf6d7f4f105",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.1,
+      "holder": {
+        "name": "General Atlantic Service Company L.P.",
+        "squuid": "5d2dcacc-bc7b-4710-b29f-e42179ac1e9f"
+      },
+      "squuid": "5d2dcc90-5395-43cc-a8da-3df8a14c83db",
+      "state": "active"
+    }
+  ]
+}

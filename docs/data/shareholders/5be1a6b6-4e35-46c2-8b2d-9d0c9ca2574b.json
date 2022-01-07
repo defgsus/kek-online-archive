@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Heiliger Weg 1",
+  "name": "Visions Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4e35-46c2-8b2d-9d0c9ca2574b",
+  "controlDate": "2021-11-18T10:31:44.455Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "44135",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Visions",
+        "squuid": "5be1a6b1-1e96-468c-a567-06482f6f4b09"
+      },
+      "squuid": "5be1a6b9-49db-4c66-b1cd-3c3c65178f44",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.visions.de",
+        "squuid": "5be1a6b1-4ef9-4eae-81b7-0970a99212e9"
+      },
+      "squuid": "5be1a6b9-887b-4b6f-8eb3-1b342f8edff8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Lohrmann, Michael",
+        "squuid": "5be1a6b6-245b-4cb7-ba08-5df378f3e070"
+      },
+      "squuid": "5be1a6b8-752c-44a0-a6ca-71bc45301194",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 85.0,
+      "holder": {
+        "name": "Konradin Mediengruppe GmbH",
+        "squuid": "5be1a6b6-1008-4437-b7e6-9d9c26b7f27d"
+      },
+      "squuid": "5bf681d5-f72d-44eb-98cb-e6015e94b1b6",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "Ulm",
+  "pseudoCompany": false,
+  "street": "Platzgasse",
+  "name": "Radio FREE FM gemeinnützige GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4941-4b20-b6dc-a067435d1184",
+  "controlDate": "2021-12-07T15:22:08.417Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    }
+  ],
+  "zipcode": "89073",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Free FM",
+        "squuid": "5be1a6b1-6d75-4066-a5be-6e0454540e7f"
+      },
+      "squuid": "5be1a6b9-f2b9-4f63-a4e5-3ed765ba4f59",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.freefm.de",
+        "squuid": "5f92baa4-4935-45f7-a69c-df26d88f9cb2"
+      },
+      "squuid": "5f92bb47-c925-4033-a0ec-96ceeb19f74d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 98.0,
+      "holder": {
+        "name": "Arbeitsgemeinschaft freie Medien Ulm / Neu-Ulm - Freunde und Förderer e.V.",
+        "squuid": "5f92bc2f-e478-444b-99d5-9d90e9749744"
+      },
+      "squuid": "5f92bc7e-8d7a-42c9-bec4-f386055cd5d4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Arbeitsgemeinschaft freie Medien Ulm / Neu-Ulm - Redaktion e.V.",
+        "squuid": "5f92bc47-3063-4288-9fba-7c79df4f2d78"
+      },
+      "squuid": "5f92bc96-01c4-4672-8399-5d86fb0d244a",
+      "state": "active"
+    }
+  ]
+}

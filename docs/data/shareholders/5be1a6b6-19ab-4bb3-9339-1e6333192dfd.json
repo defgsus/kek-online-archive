@@ -1,0 +1,94 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.75,
+      "held": {
+        "name": "Radio Next Generation GmbH & Co. KG",
+        "squuid": "5be1a6b6-73c7-40c3-9f6c-36bdb642bc5d"
+      },
+      "squuid": "5be1a6b7-626c-4910-a261-448f87b6a6c9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "radioblut Geschäftsführungs GmbH",
+        "squuid": "5f3e6b71-cd82-4ad2-8ed1-57d21905a78b"
+      },
+      "squuid": "5ff47cb2-cc98-4261-b06b-ea7cba8236c7",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Leopoldstr.",
+  "name": "radioblut GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-19ab-4bb3-9339-1e6333192dfd",
+  "controlDate": "2021-12-06T10:03:10.295Z",
+  "streetNumber": "254",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "80807",
+  "credits": "ALM Jahrbuch 2008; www.radioszene.de/news/egofm_Sendestart_211108.htm (02/2010)",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.03,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5be1a6b7-beb3-49c7-be0d-91243883e616",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 99.97,
+      "holder": {
+        "name": "Schwingenstein, Konrad",
+        "squuid": "5be1a6b6-21ec-493e-b012-36fe65160bd9"
+      },
+      "squuid": "5d108017-5e18-4c33-88db-cdcdbeac0e69",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "radioblut Geschäftsführungs GmbH",
+        "squuid": "5f3e6b71-cd82-4ad2-8ed1-57d21905a78b"
+      },
+      "squuid": "5f3e6bcf-cbbd-4490-a6ac-edff4218e4c7",
+      "state": "active"
+    }
+  ]
+}

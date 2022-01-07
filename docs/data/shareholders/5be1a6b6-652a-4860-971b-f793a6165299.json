@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Alt-Moabit 96c",
+  "name": "teltarif.de Onlineverlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-652a-4860-971b-f793a6165299",
+  "controlDate": "2022-01-06T15:32:25.221Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10559",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.teltarif.de",
+        "squuid": "5be1a6b1-9785-4c76-aed2-d6215536116e"
+      },
+      "squuid": "5be1a6b9-c6e9-4e7d-bc41-2693303b45c4",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 83.3,
+      "holder": {
+        "name": "Petzke, Kai",
+        "squuid": "5be1a6b6-d026-4380-9348-a91404113713"
+      },
+      "squuid": "5be1a6b8-88fd-41ce-80c4-3f207c03b000",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.7,
+      "holder": {
+        "name": "Müller, Martin",
+        "squuid": "5be1a6b6-4019-4c39-aa81-6f4ed7378e67"
+      },
+      "squuid": "5be1a6b8-7540-4bb5-abc7-b29776b3495d",
+      "state": "active"
+    }
+  ]
+}

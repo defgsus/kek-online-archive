@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "J. Esslinger GmbH & Co KG",
+        "squuid": "5be1a6b6-ca56-4d28-88af-dd06a71b26bc"
+      },
+      "squuid": "5ee222a8-7664-4ca1-a7b6-ae55962c977a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Pforzheim",
+  "pseudoCompany": false,
+  "street": "Poststr.",
+  "name": "Esslinger Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5ee22275-d214-4ff9-8be0-bab4166f3ed7",
+  "controlDate": "2021-11-08T15:36:18.118Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "75172",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "PZ Media GmbH & Co KG",
+        "squuid": "5be1a6b6-70a5-476e-bc57-f86c7340f944"
+      },
+      "squuid": "5f97f1f0-002c-4640-b65d-0867c6fce332",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.5,
+      "holder": {
+        "name": "Jablonski, Ingrid",
+        "squuid": "5be1a6b6-0975-4064-8c7f-1f70d39a69da"
+      },
+      "squuid": "5f97f203-bd82-41c3-acca-89a9f202c1dd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.5,
+      "holder": {
+        "name": "Kiefer, Klaus",
+        "squuid": "5be1a6b6-754e-40d9-a945-f1179b8e8bdb"
+      },
+      "squuid": "5f97f218-8c4d-4382-8474-1354084424fe",
+      "state": "active"
+    }
+  ]
+}

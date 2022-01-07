@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "M.O.R.E. Lokalfunk Baden-Württemberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-b593-4d54-b4af-940456ef3a1e"
+      },
+      "squuid": "5f3e5e11-159e-418c-9d0f-e5832bb38b83",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ulm",
+  "pseudoCompany": false,
+  "street": "Basteistr.",
+  "name": "M.O.R.E. Lokalfunk Baden-Württemberg Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5f3e5dbf-77f7-4b35-9d44-29ce2169f7de",
+  "controlDate": "2021-12-03T13:25:35.214Z",
+  "streetNumber": "37",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "89073",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5ff45762-04ad-4286-8166-de9cfd8f1d3b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Burda Broadcast Media Baden-Württemberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-b72e-448d-80dc-1616b9035eec"
+      },
+      "squuid": "5ff45771-68f1-4eb4-bf30-d07ffa050f3a",
+      "state": "active"
+    }
+  ]
+}

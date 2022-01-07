@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "Hongkong",
+  "pseudoCompany": false,
+  "name": "9GAG Inc.",
+  "naturalPerson": false,
+  "squuid": "5d371438-8436-483c-9fc6-e20801fe9e8d",
+  "controlDate": "2021-11-22T15:49:10.268Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.9gag.com",
+        "squuid": "5d3712af-9925-4754-aa19-453f05fb0ee1"
+      },
+      "squuid": "5d37145a-753e-4564-8fd2-f18a1ad25e54",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Chan, Ray",
+        "squuid": "5d3714a6-106a-4153-b11e-b2dc439413eb"
+      },
+      "squuid": "5d3714c3-4849-4919-8fbf-87e3102e2a82",
+      "state": "active"
+    }
+  ]
+}

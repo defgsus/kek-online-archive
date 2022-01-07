@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "619e4dae-d032-407c-a717-0e6b4c68849a",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio ENERGY NRW GmbH",
+        "squuid": "619e4e22-f58b-476a-a39b-0fa9ee236c39"
+      },
+      "squuid": "619e4e3e-5ce3-4cf7-9662-6d76890c57c7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio NRJ GmbH",
+        "squuid": "5be1a6b6-fbf8-4b3a-b83b-552f26cc61a6"
+      },
+      "squuid": "61adfea5-fe1f-4d0f-9c0e-f253a7a62253",
+      "state": "active"
+    }
+  ],
+  "name": "www.energy.de/nrw",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-11-24T14:35:45.961Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

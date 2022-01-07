@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Rieckestraße",
+  "name": "Freies Radio für Stuttgart e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-75df-4151-a1c0-6ee5e0c6bd4f",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70190",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Freies Radio für Stuttgart",
+        "squuid": "5be1a6b1-7f97-4b3b-9371-ab24592c0896"
+      },
+      "squuid": "5be1a6b9-1ae2-4690-a404-c9c597ae6ec6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.freies-radio.de",
+        "squuid": "5f3e87d4-d1ba-4922-ace8-f34e1f99129b"
+      },
+      "squuid": "5f3e8817-6eb1-4b68-b3c1-93caf5086408",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "rfRepresentative": "Stefan Richartz",
+  "state": "active",
+  "sharesInfo": "KEK 1014",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Immo W. Fietz",
+  "rfStartDate": "Dezember 2018",
+  "rfFreePay": true,
+  "squuid": "5fd45660-99c4-4d45-b604-09a249fbab0b",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Richartz, Stefan",
+        "squuid": "5fd456a8-c46c-4738-ace6-c682e4d19c17"
+      },
+      "squuid": "5fd45880-63fc-47aa-9f7c-acb0e2431091",
+      "state": "active"
+    }
+  ],
+  "name": "TALK ABOUT YOU",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Talk-Show-Stream, bei dem der Veranstalter in Interaktion mit den Zuschauern tritt und sich mit diesen über die verschiedensten Themen austauscht. Ergänzt wird das Programm durch Let's Plays.",
+  "rfLicenseUntil": "11.06.2023",
+  "rfLicensed": "12.06.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-6b30-40cd-81e4-c876e3a2cf67",
+      "name": "Twitch",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "12.06.2019"
+}

@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Borgfelder Str.",
+  "name": "OBE Radio GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2375-488f-843b-ecbde48fa395",
+  "streetNumber": "34",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "20537",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "OBE Radio",
+        "squuid": "5be1a6b1-0b29-4ea5-9b10-f0e2f3126c44"
+      },
+      "squuid": "5be1a6b9-b4a8-4380-813e-d5ca29160194",
+      "state": "active"
+    }
+  ],
+  "credits": "Website MA HSH, Abruf am 28.12.2010",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Abaidoo, Jacob",
+        "squuid": "5be1a6b6-58fe-4032-8983-b48a616bef39"
+      },
+      "squuid": "5be1a6b7-ea48-4ff6-9dee-d37f559528fc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Kautsky, Felix",
+        "squuid": "5be1a6b6-d843-46a4-813f-9ec4c452cfcd"
+      },
+      "squuid": "5be1a6b7-900b-4af5-8cd1-ebe2acd212a8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Ampaw Kwame , Bernard",
+        "squuid": "5be1a6b6-2db7-4ba4-8085-9c7388f8a56d"
+      },
+      "squuid": "5be1a6b7-25fe-487a-af48-4167ec62665f",
+      "state": "active"
+    }
+  ]
+}

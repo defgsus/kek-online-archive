@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Meißen",
+  "pseudoCompany": false,
+  "street": "Niederauer Straße",
+  "name": "DDV Elbland GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a17a-416e-82d4-fd4ad79e1f5b",
+  "otherMediaActivities": "Regionalverlag der Sächsischen Zeitung",
+  "controlDate": "2021-11-16T13:59:02.175Z",
+  "streetNumber": "43",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "01662",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sächsische Zeitung (Ausgaben Dresdner und Meißner Land, Meißen, Großenhain, Riesa)",
+        "squuid": "5be1a6b1-aa49-4370-996c-88ec764415bd"
+      },
+      "squuid": "5be1a6b9-1a2c-4ac1-b0c0-8de89c24737b",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 68.0,
+      "holder": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "5be1a6b8-d642-4623-a069-6b6a1945fec1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Gürtler, Petra",
+        "squuid": "5be1a6b6-9848-41f7-bac2-5a4a0360088e"
+      },
+      "squuid": "5be1a6b8-4ddf-422f-a956-630ee43aaca2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Mallek, Ulf",
+        "squuid": "5be1a6b6-7492-4a0b-b16b-60a7fd3923f6"
+      },
+      "squuid": "5be1a6b8-d4e9-4fe4-9eba-66c5f7cdbb73",
+      "state": "active"
+    }
+  ]
+}

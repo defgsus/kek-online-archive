@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Radio Köln GmbH & Co. KG",
+        "squuid": "5be1a6b6-db8e-49f4-ac46-b7d5e3444a14"
+      },
+      "squuid": "5be1a6b7-a570-471b-bbe9-f0823bc288d5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "held": {
+        "name": "GEW Köln AG",
+        "squuid": "5c5027e8-3e8b-411f-a86f-517af4b8ea41"
+      },
+      "squuid": "5c502941-cadf-41d9-9bdc-edcec715c539",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Parkgürtel",
+  "name": "Stadtwerke Köln GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-44ec-414f-95f0-bc29beea5622",
+  "controlDate": "2021-12-10T14:45:46.088Z",
+  "streetNumber": "26",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "50823",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Köln",
+        "squuid": "5c5027d6-5551-4b8a-b8b0-fbebd3f824fe"
+      },
+      "squuid": "5c502f76-fed7-4ea4-a7b3-c116793de189",
+      "state": "active"
+    }
+  ]
+}

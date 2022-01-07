@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Heusenstamm",
+  "pseudoCompany": false,
+  "street": "Philipp-Reis-Straße",
+  "name": "MainHessen Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4b34-4ce6-be5d-fc1dd1e63c2b",
+  "streetNumber": "4-8",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "63150",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Fortuna",
+        "squuid": "5be1a6b1-811f-4644-8a91-4570741753cf"
+      },
+      "squuid": "5be1a6b9-4e13-4fb8-812d-2d0612cba3a9",
+      "state": "active"
+    }
+  ],
+  "credits": "Handeslregisterauszug (Liste der Gesellschafter der MainHessen Medien GmbH vom 23.05.2011)",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 29.4,
+      "holder": {
+        "name": "Pyck, Herbert",
+        "squuid": "5be1a6b6-6a4c-4748-a5aa-25a06ec3a336"
+      },
+      "squuid": "5be1a6b8-761a-4b06-80d4-9370550703f8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Schmidt-Scheuber, Miles",
+        "squuid": "5be1a6b6-2932-4a0f-9eea-9fc408c92270"
+      },
+      "squuid": "5be1a6b8-d66d-4543-bfa5-e645a3bb9532",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.6,
+      "holder": {
+        "name": "Adolph, Thomas",
+        "squuid": "5be1a6b6-c244-4481-ab8b-606d716903b1"
+      },
+      "squuid": "5be1a6b8-7216-4b53-9305-1d9e3c092a48",
+      "state": "active"
+    }
+  ]
+}

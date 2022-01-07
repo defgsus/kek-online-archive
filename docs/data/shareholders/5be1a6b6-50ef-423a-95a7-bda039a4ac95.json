@@ -1,0 +1,140 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Sächsisches Gemeinschaftsprogramm GmbH & Co. KG",
+        "squuid": "5be1a6b6-1eb4-45d8-931a-789e8b934ea5"
+      },
+      "squuid": "5be1a6b7-d33d-4f63-bb83-14fe13117fb9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "LFS Landesfunk Sachsen GmbH",
+        "squuid": "5be1a6b6-b740-46cb-9e6b-2bde3d68f29c"
+      },
+      "squuid": "5be1a6b7-e052-4e36-9b47-bf7a6eab82a9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Eurocast Rundfunk Beteiligungs GmbH",
+        "squuid": "5be1a6b6-5118-43d4-80c3-8c8bada2c0d0"
+      },
+      "squuid": "5be1a6b7-098b-4c93-8943-867bbb4947ea",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "EUROCAST GmbH Radio Venture & Management",
+        "squuid": "5be1a6b6-90a7-424c-9d55-64a7e467336c"
+      },
+      "squuid": "5be1a6b7-d6ae-46aa-a538-8b55924c0451",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Sächsisches Gemeinschaftsprogramm Geschäftsführungs GmbH",
+        "squuid": "5f8d842b-1398-4b2e-91c6-d7b0c55775e2"
+      },
+      "squuid": "5f9006db-b3cd-4bcc-a83e-117b3cb2761e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leipzig",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Thomasgasse",
+  "name": "Privater Sächsischer Rundfunk GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-50ef-423a-95a7-bda039a4ac95",
+  "controlDate": "2021-11-25T15:44:44.856Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "04109",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio PSR",
+        "squuid": "5be1a6b1-2fcf-43b5-8bde-4bd65d558982"
+      },
+      "squuid": "5be1a6b9-b61b-4560-befa-1c7b84a31358",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiopsr.de",
+        "squuid": "5f96b057-c2f2-4a1d-befb-b6a6a402292d"
+      },
+      "squuid": "5f96b0ab-1466-44cf-9983-b5bdc2e1daf6",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 66.67,
+      "holder": {
+        "name": "REGIOCAST GmbH & Co. KG",
+        "squuid": "5be1a6b6-44d3-4fcc-8739-a1cd06ab21d3"
+      },
+      "squuid": "5be1a6b7-189c-4478-943e-95967d476427",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Eigenbesitz der Privater Sächsischer Rundfunk GmbH",
+        "squuid": "5f918986-35d0-48b2-b239-0f0bb2466292"
+      },
+      "squuid": "5f918a4f-3fa6-44d8-8d98-2399be7843fc",
+      "state": "active"
+    }
+  ]
+}

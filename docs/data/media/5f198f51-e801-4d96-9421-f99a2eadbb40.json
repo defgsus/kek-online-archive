@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f198f51-e801-4d96-9421-f99a2eadbb40",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio 97.1 MHz Hamburg GmbH",
+        "squuid": "5be1a6b6-3ed8-40c9-8b37-5f9b5048ed6a"
+      },
+      "squuid": "5f199019-4085-4e69-b179-660c12aaf5cf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio NRJ GmbH",
+        "squuid": "5be1a6b6-fbf8-4b3a-b83b-552f26cc61a6"
+      },
+      "squuid": "5f1ec638-cdc8-403a-bf38-a7c12cc7f96a",
+      "state": "active"
+    }
+  ],
+  "name": "www.energy.de/hamburg",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-06T11:16:32.239Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

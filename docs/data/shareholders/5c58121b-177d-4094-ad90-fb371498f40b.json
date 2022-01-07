@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "city": "Obergurig",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Waldstraße ",
+  "name": "Merting, Jens",
+  "naturalPerson": true,
+  "squuid": "5c58121b-177d-4094-ad90-fb371498f40b",
+  "streetNumber": "22",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "02692",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "oko",
+        "squuid": "5c58120a-f303-4e6d-b0c6-3edd95eee846"
+      },
+      "squuid": "5c5812c8-1b30-43f8-a599-f7b27d1f3970",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "AIFO",
+        "squuid": "5c581a61-0bc5-49c4-8078-fc081f229ca9"
+      },
+      "squuid": "5c581af8-8269-409e-996a-f2c889156100",
+      "state": "active"
+    }
+  ]
+}

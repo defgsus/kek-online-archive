@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "city": "Bielefeld",
+  "pseudoCompany": false,
+  "street": "Cansteinstr.",
+  "name": "Evangelischer Presseverband für Westfalen und Lippe e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6548-4947-82be-7535120d851f",
+  "controlDate": "2020-06-17T12:55:33.454Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "33647",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Unsere Kirche",
+        "squuid": "5be1a6b1-65ca-4b2a-b7ce-ddff438144cf"
+      },
+      "squuid": "5be1a6b9-75fd-4107-87e0-7253117195c0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.unserekirche.de",
+        "squuid": "5be1a6b1-52a4-48c2-b3a6-76b8f82df12c"
+      },
+      "squuid": "5be1a6b9-29d0-42c0-b380-9f5b10406bce",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

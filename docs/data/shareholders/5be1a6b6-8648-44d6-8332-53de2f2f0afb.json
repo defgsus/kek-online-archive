@@ -1,0 +1,70 @@
+{
+  "state": "active",
+  "city": "Herford",
+  "pseudoCompany": false,
+  "street": "Brüderstr.",
+  "name": "Herforder Kreisblatt Busse GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8648-44d6-8332-53de2f2f0afb",
+  "controlDate": "2021-10-25T11:36:16.898Z",
+  "streetNumber": "13",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "32052",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Herforder Kreisblatt",
+        "squuid": "5be1a6b1-e7f3-47c0-9daa-3d118ac3b92a"
+      },
+      "squuid": "5be1a6b9-54e2-4520-8d38-4161d36b1baa",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Vlothoer Zeitung",
+        "squuid": "5be1a6b1-cb07-47da-97eb-8a6ddb2b1b8b"
+      },
+      "squuid": "5be1a6b9-29c4-4019-bd92-1e3fbb38f1c5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bünder Zeitung",
+        "squuid": "5be1a6b1-26ab-4da5-8cde-be7dbff7d882"
+      },
+      "squuid": "5be1a6b9-a18f-4baf-af42-568469b109db",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Westfalen-Blatt (Ausgabe Löhne/Bad Oeynhausen)",
+        "squuid": "5be1a6b1-7bc6-4da8-905f-e2edf664d256"
+      },
+      "squuid": "5be1a6b9-4678-408d-ba28-7ece3300709a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Westfalen-Blatt Vereinigte Zeitungsverlage GmbH & Co. KG",
+        "squuid": "5e1dbf05-b346-426d-a4eb-cfe11f1b031f"
+      },
+      "squuid": "5e1dced5-33c9-415f-83d9-702a90d38b6b",
+      "state": "active"
+    }
+  ]
+}

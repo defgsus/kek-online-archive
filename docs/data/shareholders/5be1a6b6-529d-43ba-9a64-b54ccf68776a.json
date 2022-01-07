@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Torstr.",
+  "name": "Ströer Next Publishing GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-529d-43ba-9a64-b54ccf68776a",
+  "controlDate": "2021-06-14T10:48:35.670Z",
+  "streetNumber": "49",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10119",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.watson.de",
+        "squuid": "5be1a6b1-5533-47ad-817c-e497d08218c0"
+      },
+      "squuid": "5be1a6b9-67e2-442a-a4b5-f1448e8321ca",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ströer Content Group GmbH",
+        "squuid": "5be1a6b6-710a-4e14-ad65-f50014a6c653"
+      },
+      "squuid": "5be1a6b8-8b4e-4d66-884b-640f313e9769",
+      "state": "active"
+    }
+  ]
+}

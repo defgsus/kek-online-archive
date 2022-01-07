@@ -1,0 +1,32 @@
+{
+  "name": "Kommunales Radio e.V.",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-c8f2-4a6b-acb1-0c8131596c71",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Anbietergemeinschaft Hamburger Lokalradio e.V.",
+        "squuid": "5be1a6b6-0228-4160-b5a2-0b9a3475c786"
+      },
+      "squuid": "5be1a6b7-ab4f-4994-a7ad-c293ea311b71",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

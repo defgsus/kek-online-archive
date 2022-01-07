@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "city": "London WC1V 6HZ, UK",
+  "pseudoCompany": false,
+  "street": "Cromwell House, 14 Fulwood Place",
+  "name": "Alfratv Ltd.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-279a-4fed-9ab6-1ab3ad8d5011",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Body in Balance",
+        "squuid": "5be1a6b1-2361-48d4-a378-773e699982ed"
+      },
+      "squuid": "5be1a6b9-2e59-4af2-bfc1-c71d1b4ef6b4",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft der Alfratv Ltd. vom 07.07.2014",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Body in Balance Ltd.",
+        "squuid": "5be1a6b6-3918-4e46-aa07-82918a2c4714"
+      },
+      "squuid": "5be1a6b7-64d5-47bb-a81d-59ae24478dd3",
+      "state": "active"
+    }
+  ]
+}

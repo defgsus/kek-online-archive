@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Trachenbergring ",
+  "name": "Peli One Medien GmbH ",
+  "naturalPerson": false,
+  "squuid": "5cb4a564-daf0-4d68-97b0-5dbad10d9d5b",
+  "controlDate": "2021-12-16T18:13:01.468Z",
+  "streetNumber": "93",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "12249",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "PELI ONE (Berlin)",
+        "squuid": "5cb4a4c7-3fed-4a77-87f1-7d8efd2b1f60"
+      },
+      "squuid": "5cb4a604-dc3f-4632-9a83-462a855b2b9b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "PELI ONE - Urban Music Radio",
+        "squuid": "5d274051-1f6c-442d-93c6-2f8c65ca0fcd"
+      },
+      "squuid": "5d27424c-f511-419f-8251-74d8a35babd2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pelione.de",
+        "squuid": "5f917b5e-789a-4bf3-8a0c-8e558e4153bf"
+      },
+      "squuid": "5f917bb4-eada-416a-b0a8-f105ec924379",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Peli One Investment GmbH",
+        "squuid": "5f917dd4-04a9-4fea-93e4-3296f8c8930e"
+      },
+      "squuid": "5f917efa-52c9-4141-9014-0267260296c2",
+      "state": "active"
+    }
+  ]
+}

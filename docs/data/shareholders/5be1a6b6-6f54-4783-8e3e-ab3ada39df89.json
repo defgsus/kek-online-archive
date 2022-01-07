@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Beethovenstraße",
+  "name": "BBL GmbH Gesellschaft der Basketball-Bundesliga",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6f54-4783-8e3e-ab3ada39df89",
+  "controlDate": "2021-12-03T15:09:50.990Z",
+  "streetNumber": "5 - 13",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50674",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Beko-BBL.TV",
+        "squuid": "5be1a6b1-452b-4cec-a84e-4d019fa30299"
+      },
+      "squuid": "5be1a6b9-51ae-4a02-bdcd-bc0b57c5c43c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.easycredit-bbl.de",
+        "squuid": "5f7aed4d-1151-4477-b9a4-f863c96112ba"
+      },
+      "squuid": "5f7aed79-3e97-432c-8d18-782cec952fd5",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 16.09.2014, Az.: KEK 785",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.0,
+      "holder": {
+        "name": "Arbeitsgemeinschaft Basketball Bundesliga e.V.",
+        "squuid": "5be1a6b6-b6b5-4f92-81cb-a93da0710e5e"
+      },
+      "squuid": "5be1a6b8-6a77-4629-8c09-438c9946373e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "holder": {
+        "name": "Deutscher Basketball-Bund e.V.",
+        "squuid": "5be1a6b6-5ab6-486f-9527-7dae43fa0788"
+      },
+      "squuid": "5be1a6b8-9969-4e24-b478-dfbc71fd3e9d",
+      "state": "active"
+    }
+  ]
+}

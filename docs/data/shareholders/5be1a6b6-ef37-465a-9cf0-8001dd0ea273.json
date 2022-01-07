@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Kirchheim unter Teck",
+  "pseudoCompany": false,
+  "street": "Alleenstr. 158",
+  "name": "GO Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-ef37-465a-9cf0-8001dd0ea273",
+  "controlDate": "2021-09-30T14:45:40.613Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "73230",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Der Teckbote",
+        "squuid": "5be1a6b1-e0bf-476f-b663-b09a2c50c11e"
+      },
+      "squuid": "5be1a6b9-948a-4e81-8954-19e3cb0dffeb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.teckbote.de",
+        "squuid": "5be1a6b1-2ff2-46c7-802e-9d5c43615866"
+      },
+      "squuid": "5be1a6b9-110c-4a90-906f-dd104d638b01",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "GO Druck Media Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-4042-452c-96bc-3602172e3e77"
+      },
+      "squuid": "5be1a6b8-5a6e-4375-afb8-c30abc087733",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "GO Verlag Verwaltungs-GmbH",
+        "squuid": "5ec262b6-8a72-4454-8a57-134cfe8bd0f3"
+      },
+      "squuid": "5ec262d6-2009-4f2b-9d62-0c817ee53aec",
+      "state": "active"
+    }
+  ]
+}

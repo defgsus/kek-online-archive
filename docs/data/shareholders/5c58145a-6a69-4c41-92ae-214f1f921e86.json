@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "Soester Straße ",
+  "name": "Westline GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5c58145a-6a69-4c41-92ae-214f1f921e86",
+  "controlDate": "2019-07-09T15:10:27.729Z",
+  "streetNumber": "13",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "48155",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 42.4,
+      "holder": {
+        "name": "Aschendorff Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c"
+      },
+      "squuid": "5c581836-6355-4f90-926c-75b75387304c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "J. Mergelsberg GmbH & Co KG",
+        "squuid": "5be1a6b6-430f-441d-b020-109fe5c45968"
+      },
+      "squuid": "5c58185f-4a16-460a-ae50-060acb83bb67",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 42.4,
+      "holder": {
+        "name": "WestOnline GmbH & Co. KG",
+        "squuid": "5c581768-11eb-4b62-9112-e64817ccbfaf"
+      },
+      "squuid": "5c581885-ee1b-40ef-a4e2-fe87435e8a26",
+      "state": "active"
+    }
+  ]
+}

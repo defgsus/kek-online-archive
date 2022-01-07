@@ -1,0 +1,102 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.178,
+      "held": {
+        "name": "Antenne Mecklenburg-Vorpommern  GmbH & Co. KG",
+        "squuid": "5be1a6b6-ca2e-49f0-bf0e-f0ca2f445514"
+      },
+      "squuid": "5be1a6b7-db19-4bb2-80be-d8ac7452bb53",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.51,
+      "held": {
+        "name": "HITRADIO RTL Sachsen GmbH",
+        "squuid": "5be1a6b6-f658-46b1-9195-6a62234756bb"
+      },
+      "squuid": "5be1a6b7-9da0-4036-a4c5-2b88d7510145",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.06,
+      "held": {
+        "name": "Funkhaus Halle GmbH & Co. KG",
+        "squuid": "5be1a6b6-5fcf-45b5-9357-652833a2d4dc"
+      },
+      "squuid": "5f280196-165f-4484-b649-8060a359f0d0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Blumenstr.",
+  "name": "Evangelisches Medienhaus GmbH",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-8029-4189-9656-8dc645debc9e",
+  "controlDate": "2021-09-30T11:16:17.214Z",
+  "streetNumber": "76",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    }
+  ],
+  "zipcode": "04155",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Der Sonntag (Leipzig)",
+        "squuid": "5be1a6b1-1804-4227-b26b-6a1b1a66955b"
+      },
+      "squuid": "5be1a6b9-a78e-4b76-a4b1-b271c377281a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sonntag-sachsen.de",
+        "squuid": "5be1a6b1-dbb7-4d81-8c90-8515522bad9a"
+      },
+      "squuid": "5be1a6b9-53fe-49f8-afff-f63b679d2b7d",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Evangelisch-Lutherische Landeskirche Sachsen",
+        "squuid": "5be1a6b6-574b-45ec-a4ea-bbb3b19b3bc6"
+      },
+      "squuid": "5be1a6b8-39fd-4ae4-95bf-884de0178542",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f96db7c-a90f-4e03-b2ab-1826bf72f71e",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Star FM Nürnberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-d6bc-4680-a37b-5bd97a65f4e0"
+      },
+      "squuid": "5f96dbc7-9681-4d1f-a5d9-dd2a0481d21e",
+      "state": "active"
+    }
+  ],
+  "name": "www.nbg.starfm.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-15T16:15:41.557Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

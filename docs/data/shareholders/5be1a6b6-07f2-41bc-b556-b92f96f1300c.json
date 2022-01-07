@@ -1,0 +1,92 @@
+{
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Endenicher Str.",
+  "name": "managerSeminare Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-07f2-41bc-b556-b92f96f1300c",
+  "controlDate": "2021-10-29T12:32:42.192Z",
+  "streetNumber": "41",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53115",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "managerSeminare",
+        "squuid": "5be1a6b1-8085-45d1-a3c8-5a47d1884e9e"
+      },
+      "squuid": "5be1a6b9-9d35-49ec-90d4-aeee8e43090e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.managerseminare.de",
+        "squuid": "5be1a6b1-ca02-4398-ac74-10078d9589a9"
+      },
+      "squuid": "5be1a6b9-105b-4ca5-95bc-a41713254744",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.05,
+      "holder": {
+        "name": "May, Gerhard",
+        "squuid": "5be1a6b6-118f-431d-98a1-d969d83853aa"
+      },
+      "squuid": "5be1a6b8-a70c-44d9-9c64-14788da79eb8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.96,
+      "holder": {
+        "name": "Graf, Jürgen",
+        "squuid": "5be1a6b6-d7cf-46ef-9a2d-ba00e313e051"
+      },
+      "squuid": "5be1a6b8-5b9f-4eed-ae63-c74dfc87bf04",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.0,
+      "holder": {
+        "name": "Koch, Jürgen",
+        "squuid": "5be1a6b6-9f3d-4d98-be2c-d8ac83a5e859"
+      },
+      "squuid": "5be1a6b8-798d-4da0-a0e6-41b2c06cd319",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.5,
+      "holder": {
+        "name": "Bußmann, Nicole",
+        "squuid": "5be1a6b6-c565-4bd2-bb54-c73744e8129b"
+      },
+      "squuid": "5be1a6b8-4ae3-4088-904e-1154cc7e1f29",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.5,
+      "holder": {
+        "name": "Muskatewitz, Ralf",
+        "squuid": "5be1a6b6-137c-486b-8504-425415e3ec12"
+      },
+      "squuid": "5be1a6b8-5b38-4be1-bba0-b2369f7b8bc1",
+      "state": "active"
+    }
+  ]
+}

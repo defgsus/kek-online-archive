@@ -1,0 +1,49 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Radio Hamm Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-7ea2-4236-b420-b889ca581e81"
+      },
+      "squuid": "5be1a6b7-335d-4281-8088-4890485b06e2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamm",
+  "pseudoCompany": false,
+  "street": "Südring",
+  "name": "Stadtwerke Hamm GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8ba5-44fc-8005-8020be3bcc39",
+  "controlDate": "2021-12-13T14:31:35.868Z",
+  "streetNumber": "1/3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "59065",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Hamm",
+        "squuid": "5f104df3-6a07-49f7-9c8e-d7dbb660c3d1"
+      },
+      "squuid": "5ff6e7a3-85ae-4235-b717-6134a1c03b35",
+      "state": "active"
+    }
+  ]
+}

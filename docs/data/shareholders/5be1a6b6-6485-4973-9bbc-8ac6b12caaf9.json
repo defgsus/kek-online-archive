@@ -1,0 +1,95 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "held": {
+        "name": "DuMont Reise Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-6aea-4f4f-89a4-823180aaad1c"
+      },
+      "squuid": "5be1a6b8-1915-4cdd-9d07-a9bf506449ed",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "held": {
+        "name": "DuMont Reise Verlag GmbH",
+        "squuid": "5ef5e58e-f19a-4957-b395-3af49ee0f32c"
+      },
+      "squuid": "5ef5e67d-d32a-4644-a386-f0f4c0298838",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ostfildern",
+  "pseudoCompany": false,
+  "street": "Marco-Polo-Straße 1",
+  "name": "MAIRDUMONT GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-6485-4973-9bbc-8ac6b12caaf9",
+  "controlDate": "2021-12-03T14:24:17.148Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "73760",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.marcopolo.de",
+        "squuid": "5be1a6b1-a735-44f9-af52-968ff641f618"
+      },
+      "squuid": "5be1a6b9-d3c1-4501-ab32-d85aa9a441c3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.marcopolo.de/tv",
+        "squuid": "5f3bd31f-d899-43a2-8187-1e653490253e"
+      },
+      "squuid": "5f3bd39f-614a-4a58-a5a9-3244b3c6d5e9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "DuMont Mediengruppe GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1ab-45ed-adc5-5a3dca911ab5"
+      },
+      "squuid": "5be1a6b8-5418-450f-9356-9b0761fcbef6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Mair-Jickeli Familien GmbH & Co. KG",
+        "squuid": "5be1a6b6-1975-4503-9c2a-805f1b6655c8"
+      },
+      "squuid": "5be1a6b8-e0cd-45ca-9c2b-efd6a1313dbe",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "MAIRDUMONT Verwaltungs GmbH",
+        "squuid": "5eddfe9a-07a3-41a5-bd6b-d6bbcbda2789"
+      },
+      "squuid": "5eddfebf-d481-49f2-8a73-9833474b406f",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Georg von Holtzbrinck GmbH & Co. KG",
+        "squuid": "5be1a6b6-3efe-470d-89eb-1d230f00b5fa"
+      },
+      "squuid": "5be1a6b7-8df8-437f-a00a-da8838f5a325",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Verlagsgruppe Georg von Holtzbrinck GmbH",
+        "squuid": "5be1a6b6-d60b-442a-b6cd-ee9a770b1646"
+      },
+      "squuid": "5be1a6b7-998c-4fc5-9847-ab6068ca017b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "name": "von Holtzbrinck, Dr. Stefan",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-7163-4a0c-b98c-bc23856fa815",
+  "controlDate": "2019-05-20T15:06:20.652Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "credits": "IJK"
+}

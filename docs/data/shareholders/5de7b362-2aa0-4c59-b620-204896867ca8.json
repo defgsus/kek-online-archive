@@ -1,0 +1,101 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 18.0,
+      "held": {
+        "name": "Redaktionsgemeinschaft der ostwestfälisch-lippischen Verlage GmbH & Co. KG",
+        "squuid": "5de7ab4e-e35a-4fc7-8289-dd27e04bb28b"
+      },
+      "squuid": "5de7b473-d754-40a3-a33e-092bb5d8f28c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Giesdorf Media Verwaltungs GmbH",
+        "squuid": "5de7b381-744a-4a4e-8fc2-439a630bd2f9"
+      },
+      "squuid": "5de7b6f4-9ba0-4edf-b37b-86377f12af93",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 70.2,
+      "held": {
+        "name": "Lippischer Rundfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-4b3f-4f25-8ecd-85ec1650f50b"
+      },
+      "squuid": "5f16e152-7ea5-4d88-a3bf-f83d6a9f3a8e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lippisches Medienhaus Giesdorf GmbH & Co. KG",
+        "squuid": "618566b1-2e6f-4ec7-9ea9-fba336abd5fc"
+      },
+      "squuid": "618567a6-b379-4da7-8ba3-df780456de66",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lippisches Medienhaus Verwaltungs GmbH",
+        "squuid": "618566c6-42d8-4fdb-badb-0ec371d05d4a"
+      },
+      "squuid": "618568a7-55b3-4310-a1b4-0cc8dacf3c8a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Detmold",
+  "pseudoCompany": false,
+  "street": "Ohmstr.",
+  "name": "Giesdorf Media GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5de7b362-2aa0-4c59-b620-204896867ca8",
+  "controlDate": "2021-12-22T15:25:21.179Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "32758",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Giesdorf Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-fb43-4e63-9777-3026b838d87b"
+      },
+      "squuid": "5de7b5f2-3f3f-4457-967f-57d1445463db",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Giesdorf Media Verwaltungs GmbH",
+        "squuid": "5de7b381-744a-4a4e-8fc2-439a630bd2f9"
+      },
+      "squuid": "5de7b609-905b-416b-ac7f-b37c88b4bc8d",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "de Feijter, Adrian",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-0255-49d7-b527-536806707b38",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "S.R.T.L. S.A.",
+        "squuid": "5be1a6b6-a873-4175-9cd5-6d7486b4df8d"
+      },
+      "squuid": "5be1a6b8-96f7-46ec-a29f-e9e0af1c3dfe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "A.J.L. Associates S.A.",
+        "squuid": "5be1a6b6-a45a-4335-9098-62bbd9277ec6"
+      },
+      "squuid": "5be1a6b8-2bfd-4751-bed3-c645a5db6828",
+      "state": "active"
+    }
+  ],
+  "city": "Luxemburg",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

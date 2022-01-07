@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Schulz Holding GmbH & Co. KG",
+        "squuid": "5d387796-7319-4b9a-a7f2-c45111a24984"
+      },
+      "squuid": "5d3878a0-2df7-4411-bf7b-ac5565974d4b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Krefeld",
+  "pseudoCompany": false,
+  "street": "Kaiserstraße",
+  "name": "Schulz Beteiligungsverwaltungs GmbH & Co.KG",
+  "naturalPerson": false,
+  "squuid": "5d38787e-e60a-47ca-a63c-ec1cf7e4baae",
+  "controlDate": "2020-01-16T15:53:16.011Z",
+  "streetNumber": "244",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "47800",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schreurs, Mirja",
+        "squuid": "5d387908-d6d6-4b7f-aec0-2ca8d24c8df8"
+      },
+      "squuid": "5d387921-5c48-47af-b4c4-704a24ce4183",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schulz, Luca",
+        "squuid": "5d3878f7-1379-4ac4-8589-a387067900aa"
+      },
+      "squuid": "5d387931-c2f6-44e2-ae20-5fdaed479f70",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Köln GmbH",
+        "squuid": "5f16d30b-f50b-4bb7-8339-9d88ad1c053b"
+      },
+      "squuid": "5ff6df75-7b45-4da3-acbf-b3087e0eb8d0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Amsterdamer Straße",
+  "name": "Radio Köln GmbH & Co. KG",
+  "naturalPerson": false,
+  "co": "HSG Hörfunk Service GmbH",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-db8e-49f4-ac46-b7d5e3444a14",
+  "controlDate": "2021-12-22T14:59:00.106Z",
+  "streetNumber": "192",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "50735",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Köln",
+        "squuid": "5be1a6b1-b21e-4a46-b770-684dc0640388"
+      },
+      "squuid": "5be1a6b9-74e6-4ea7-8be4-e9299e3e52af",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiokoeln.de",
+        "squuid": "5f16d1e0-ed56-4583-81ee-024ce06da5d3"
+      },
+      "squuid": "5f16d2b3-50ad-49fd-b1e9-9f82dc384f11",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Stadtwerke Köln GmbH",
+        "squuid": "5be1a6b6-44ec-414f-95f0-bc29beea5622"
+      },
+      "squuid": "5be1a6b7-a570-471b-bbe9-f0823bc288d5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "DuMont Mediatainment GmbH & Co. KG",
+        "squuid": "5be1a6b6-40fa-4f5d-b8d7-34e7e5c1f0f2"
+      },
+      "squuid": "5c4193b5-e9f5-4d09-8d14-81244d33db68",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Köln GmbH",
+        "squuid": "5f16d30b-f50b-4bb7-8339-9d88ad1c053b"
+      },
+      "squuid": "5f16d33b-7f9c-4237-bc57-3d60cfb5cbf2",
+      "state": "active"
+    }
+  ]
+}

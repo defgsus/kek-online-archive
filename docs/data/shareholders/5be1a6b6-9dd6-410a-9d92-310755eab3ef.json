@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Paderborn",
+  "pseudoCompany": false,
+  "street": "Senefeldstr.",
+  "name": "Zeitungsverlag für das Hochstift Paderborn GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9dd6-410a-9d92-310755eab3ef",
+  "controlDate": "2021-11-18T17:33:32.004Z",
+  "streetNumber": "13",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "33100",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Westfälisches Volksblatt",
+        "squuid": "5be1a6b1-c26c-4580-b792-07e3c6fd215f"
+      },
+      "squuid": "5be1a6b9-fdcb-4f2d-919f-2609f5fb9250",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schlänger Zeitung",
+        "squuid": "5be1a6b1-187c-4086-a9c2-14ca1b0caed7"
+      },
+      "squuid": "5be1a6b9-851f-4e33-bff3-30506df7a812",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Westfalen-Blatt Vereinigte Zeitungsverlage GmbH & Co. KG",
+        "squuid": "5e1dbf05-b346-426d-a4eb-cfe11f1b031f"
+      },
+      "squuid": "5e1dcfc8-03bb-42d5-97fb-1814f727b86a",
+      "state": "active"
+    }
+  ]
+}

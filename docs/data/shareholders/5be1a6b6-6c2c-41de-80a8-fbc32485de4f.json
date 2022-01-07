@@ -1,0 +1,76 @@
+{
+  "state": "active",
+  "city": "Dresden",
+  "pseudoCompany": false,
+  "street": "Ostra-Allee",
+  "name": "Morgenpost Sachsen GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6c2c-41de-80a8-fbc32485de4f",
+  "controlDate": "2021-10-14T10:10:56.760Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01067",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Dresdner Morgenpost",
+        "squuid": "5be1a6b1-fed7-4e6d-a06f-4c529a59e71c"
+      },
+      "squuid": "5be1a6b9-581c-4998-b4aa-58dccedbb3f7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Chemnitzer Morgenpost",
+        "squuid": "5be1a6b1-707f-40b9-b650-f863477e67b8"
+      },
+      "squuid": "5be1a6b9-0699-4dbc-bbc8-b2696dbfe55d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Morgenpost am Sonntag",
+        "squuid": "5be1a6b1-d51c-451b-a4b6-47b09903c092"
+      },
+      "squuid": "5be1a6b9-8c76-4d9e-9951-309a008a6430",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Tag 24 TV",
+        "squuid": "5d0c8e8c-0666-4c98-babb-c2e7ef07efa5"
+      },
+      "squuid": "5d0c8fc6-3b5e-4ea0-9b1a-08c7d78e8d53",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "5be1a6b8-07f0-4447-a943-b1d812b653cb",
+      "state": "active"
+    }
+  ]
+}

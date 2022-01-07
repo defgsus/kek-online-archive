@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Grevenbroich",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-b9eb-455d-861f-be01274a7ecd",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "Lokalradio Kreis Neuss GmbH & Co. KG",
+        "squuid": "5be1a6b6-d6ff-4a81-b8c0-cb16b7e7a0cf"
+      },
+      "squuid": "5be1a6b8-525b-4e41-a94e-1475a56b6cfe",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

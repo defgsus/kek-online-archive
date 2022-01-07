@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Jüchen",
+  "pseudoCompany": false,
+  "street": "Mürmeln 83 B",
+  "name": "PF Publishing GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e539-4a20-9034-9e3378f2e2a4",
+  "controlDate": "2021-11-08T16:36:19.632Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "41363",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ProfiFoto",
+        "squuid": "5be1a6b1-72af-4dc4-8ef2-94e5c96af3c0"
+      },
+      "squuid": "5be1a6b9-ce6d-42dd-8fd5-62fc7fec6c26",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.profifoto.de",
+        "squuid": "5be1a6b1-c435-44a8-83ec-80c138581ba7"
+      },
+      "squuid": "5be1a6b9-8389-47da-b8dd-5e00dc514199",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Gerwers, Thomas",
+        "squuid": "5be1a6b6-2182-42bb-b5c1-2471ee8ddae8"
+      },
+      "squuid": "5be1a6b8-0ba8-47ad-b0ac-9400f48d99c1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Eigenbesitz der PF Publishing GmbH",
+        "squuid": "5be1a6b6-58be-410f-bc26-75c2cec4a7db"
+      },
+      "squuid": "5be1a6b8-2b0c-4ba1-898d-50d1dc5e7677",
+      "state": "active"
+    }
+  ]
+}

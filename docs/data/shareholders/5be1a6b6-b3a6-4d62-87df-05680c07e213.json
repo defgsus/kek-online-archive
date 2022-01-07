@@ -1,0 +1,72 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 45.36,
+      "held": {
+        "name": "Reiff Beteiligungen KG",
+        "squuid": "5be1a6b6-93ac-4f77-a227-441f9298f8ac"
+      },
+      "squuid": "5be1a6b8-755f-47b2-a2b2-263b19d43cd0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Robert-Bosch-Str. 65",
+  "name": "ARR GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-b3a6-4d62-87df-05680c07e213",
+  "controlDate": "2021-11-05T15:27:38.724Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70192",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Reiff, Ariane",
+        "squuid": "5be1a6b6-abba-4a4a-910d-ae92fe43267e"
+      },
+      "squuid": "5be1a6b8-2e87-4328-9be6-70f3f38051d1",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "ARR Verwaltungs-GmbH",
+        "squuid": "5eaae3c9-048b-4cad-94ec-c61ae127c725"
+      },
+      "squuid": "5eaae3eb-eb91-4a62-b6ee-a7452d0a8661",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Reiff, Rouven",
+        "squuid": "5be1a6b6-c399-4635-88e8-4f3feed6b766"
+      },
+      "squuid": "5eaae3fc-85f7-4cfc-94a6-97b611b65c79",
+      "state": "active"
+    }
+  ]
+}

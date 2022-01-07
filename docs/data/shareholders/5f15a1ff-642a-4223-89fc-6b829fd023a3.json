@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Ennepe-Ruhr-Kreis mbH & Co. KG",
+        "squuid": "5be1a6b6-6217-4bfd-a31c-59f9a4f17c82"
+      },
+      "squuid": "5f15a23b-0eb7-451b-9453-ba5cdb1b0a19",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "Jakob-Funke-Platz",
+  "name": "Betriebsverwaltungsgesellschaft Radio Ennepe-Ruhr-Kreis mbH",
+  "naturalPerson": false,
+  "squuid": "5f15a1ff-642a-4223-89fc-6b829fd023a3",
+  "controlDate": "2021-12-21T17:28:42.479Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "45127",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5ff6ef7e-2f84-41e1-b03c-d82d5706b311",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Ennepe-Ruhr-Kreis",
+        "squuid": "5be1a6b6-d6f3-4d79-a877-39019e15155a"
+      },
+      "squuid": "5ff6ef8e-5eab-4097-8f29-60ba42581a99",
+      "state": "active"
+    }
+  ]
+}

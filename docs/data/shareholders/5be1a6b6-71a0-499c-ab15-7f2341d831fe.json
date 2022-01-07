@@ -1,0 +1,124 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Planckstr.",
+  "name": "Klassik Radio GmbH",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-71a0-499c-ab15-7f2341d831fe",
+  "controlDate": "2021-12-10T13:14:06.087Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "22765",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Klassik Radio (Berlin)",
+        "squuid": "5be1a6b1-7ed5-44b3-bfe1-a7dbfc1320a1"
+      },
+      "squuid": "5be1a6b9-4bfd-4d66-bfe9-578a5f00a58d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Jean Michel Jarre",
+        "squuid": "5be1a6b1-1678-4e57-9bef-3e3eedaf6506"
+      },
+      "squuid": "5be1a6b9-33db-49b7-af5e-08b6de8e7f0b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Till Brönner",
+        "squuid": "5be1a6b1-a950-4ab4-b6f8-ddd7e425a5f2"
+      },
+      "squuid": "5be1a6b9-f105-4a79-851f-c68b85b79ca1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Klassik Radio (bundesweit)",
+        "squuid": "5d1b5f66-8e34-433c-b053-6711c6727186"
+      },
+      "squuid": "5d1b6870-6ecb-4354-a530-cd314ad2880c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Klassik Radio",
+        "squuid": "5e5911f5-0cf2-4673-ac60-c4e4685eb51b"
+      },
+      "squuid": "5e5e0f0f-26ea-4499-b7b9-b7d66899877e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.klassikradio.de",
+        "squuid": "5efddcce-a9eb-457c-a065-ae6b6accdffb"
+      },
+      "squuid": "5efddd3f-a09e-4a54-a60e-98a89ab85f60",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Klassik Radio Beats (bundesweit)",
+        "squuid": "606c4518-7bc4-4f4e-b0a9-2d0037947ca5"
+      },
+      "squuid": "606c4759-0676-4bfc-9de7-2e47f7a4c127",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH, mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Euro Klassik GmbH",
+        "squuid": "5be1a6b6-d9a6-4e0b-8afd-3d237112ac0f"
+      },
+      "squuid": "61b35333-52ee-45bf-abec-d423c86089da",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "TV Bayern GmbH Bayerische Lokal-Fernsehprogramm Gesellschaft",
+        "squuid": "5be1a6b6-515a-406b-b899-999e085ca150"
+      },
+      "squuid": "5f8d6d0f-bae1-41ba-a536-66377b4f2a2f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Rosenheim",
+  "pseudoCompany": false,
+  "street": "Hechtseestraße",
+  "name": "RFO Regional Fernsehen Oberbayern GmbH",
+  "naturalPerson": false,
+  "squuid": "5cb882e7-726b-4b2c-8fb0-5844b2365670",
+  "controlDate": "2022-01-03T15:48:52.068Z",
+  "streetNumber": "16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "83022",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Regional Fernsehen Oberbayern (RFO)",
+        "squuid": "5cb88241-f6b2-4e5f-ad53-7c7e9883fbb4"
+      },
+      "squuid": "5cb88306-227d-4550-882f-54cad627dcbe",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rfo.de",
+        "squuid": "5f7efac7-510b-4c21-9978-03a7254ebcd8"
+      },
+      "squuid": "5f7efaf6-da1d-4d08-9207-849e161fd17d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 67.0,
+      "holder": {
+        "name": "Haimerl, Norbert",
+        "squuid": "5cb88331-a720-4056-8a17-cabef304808f"
+      },
+      "squuid": "5cb88349-c49d-494a-8001-02ae2b5cd441",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.0,
+      "holder": {
+        "name": "WWZ Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-af92-4839-96f4-2d8d9e234c83"
+      },
+      "squuid": "5cb88353-9371-4c24-9f2b-7173532ba1d3",
+      "state": "active"
+    }
+  ]
+}

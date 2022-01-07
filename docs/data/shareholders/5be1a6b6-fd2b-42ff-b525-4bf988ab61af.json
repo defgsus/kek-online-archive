@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Paul Parey Zeitschriftenverlag GmbH",
+        "squuid": "5be1a6b6-7462-4682-b55e-2480a9af91e3"
+      },
+      "squuid": "5be1a6b8-870a-414f-9078-8fa911f353dc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bremberg",
+  "pseudoCompany": false,
+  "street": "Schaumburger Str. 17",
+  "name": "Twer Beteiligungen GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-fd2b-42ff-b525-4bf988ab61af",
+  "controlDate": "2021-09-30T11:07:14.957Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "56370",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Twer, Thorn",
+        "squuid": "5be1a6b6-2704-4822-bede-d85904db62c4"
+      },
+      "squuid": "5be1a6b8-290f-4c6f-a3e8-b24d78ae6391",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Vermögensverwaltung Twer GmbH",
+        "squuid": "5ec2581e-ff9f-4a5e-b46e-7b5201553c74"
+      },
+      "squuid": "5ec25845-373f-409d-b15b-78993faca541",
+      "state": "active"
+    }
+  ]
+}

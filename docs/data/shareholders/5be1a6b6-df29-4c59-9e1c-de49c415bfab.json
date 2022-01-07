@@ -1,0 +1,92 @@
+{
+  "state": "active",
+  "city": "Meschede",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Steinstr.",
+  "name": "Betriebsgesellschaft Radio Hochsauerlandkreis mbH & Co. KG",
+  "naturalPerson": false,
+  "co": "Westfunk  GmbH & Co. KG",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-df29-4c59-9e1c-de49c415bfab",
+  "controlDate": "2022-01-03T10:41:50.355Z",
+  "streetNumber": "32",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "59872",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Sauerland",
+        "squuid": "5be1a6b1-90ff-4a45-b579-785e40ee7d9d"
+      },
+      "squuid": "5be1a6b9-3c8e-4345-9843-4fb7a8882697",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiosauerland.de",
+        "squuid": "5f16d033-88ec-44a5-9070-081a71ddf9b3"
+      },
+      "squuid": "5f16d0a6-9641-4db4-a4b8-de0d675ee577",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5be1a6b8-3c6f-42cb-9b56-7b320e61aded",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.89,
+      "holder": {
+        "name": "Hochsauerlandkreis",
+        "squuid": "5be1a6b6-0b03-48a1-9fcc-c9ea6853df59"
+      },
+      "squuid": "5be1a6b8-8e5c-4ec5-a9ca-e7fced395e50",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 21.11,
+      "holder": {
+        "name": "MFS-Holding GmbH",
+        "squuid": "5be1a6b6-9b6b-4afc-a511-ecba36539dc2"
+      },
+      "squuid": "5c408eaa-2580-4680-a63c-a484b63aa95e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Hochsauerlandkreis mbH",
+        "squuid": "5f16d067-4798-4a9e-a003-a69f6f99fbb5"
+      },
+      "squuid": "5f16d15c-8d0c-40c5-9f87-a3cd2b9cc29a",
+      "state": "active"
+    }
+  ]
+}

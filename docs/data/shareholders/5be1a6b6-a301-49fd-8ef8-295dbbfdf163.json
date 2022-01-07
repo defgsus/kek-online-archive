@@ -1,0 +1,84 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 21.0,
+      "held": {
+        "name": "Sächsische Lokalrundfunk-Dienstleistungsprogramm GmbH & Co. Studiobetriebs-KG",
+        "squuid": "5be1a6b6-a548-4307-a76f-9bbb9d92208c"
+      },
+      "squuid": "5be1a6b7-a022-4fde-b33e-4dfe702eaed9",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Chemnitz",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Carolastraße",
+  "name": "Radio Chemnitz UKW 102,1 GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-a301-49fd-8ef8-295dbbfdf163",
+  "controlDate": "2021-05-20T12:04:37.362Z",
+  "streetNumber": "4 - 6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09111",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Chemnitz",
+        "squuid": "5be1a6b1-ff6d-484a-bf30-5a3face84ef6"
+      },
+      "squuid": "5be1a6b9-5ecb-4fd5-bdad-2aa6ef56fa05",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Verlag für die Frau GmbH",
+        "squuid": "5be1a6b6-73e9-4253-b01c-6c3a76ee24f4"
+      },
+      "squuid": "5be1a6b7-4340-4595-bad7-ed2b05247131",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "MTS Mediengesellschaft Telefonbuchverlag Sachsen GmbH",
+        "squuid": "5be1a6b6-22d6-49d6-bc4c-a469bf390acf"
+      },
+      "squuid": "5be1a6b7-d324-4a94-8ed4-6e04bce1385b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Sächsische Lokalrundfunk-Dienstleistungsprogramm Verwaltungs-GmbH",
+        "squuid": "5f8d8b78-3fa9-4357-b86f-258845799605"
+      },
+      "squuid": "60a65052-734f-4871-872c-3220f12c4eb0",
+      "state": "active"
+    }
+  ]
+}

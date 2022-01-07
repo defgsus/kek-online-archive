@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "squuid": "5c6c2eec-2387-4fcf-b02e-62cc822d57d7",
+  "marketReach": 0.06574674095960427,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Zweites Deutsches Fernsehen (ZDF) Anstalt des öffentlichen Rechts",
+        "squuid": "5be1a6b6-7ee8-46a7-b584-31f00742b7a2"
+      },
+      "squuid": "5c6c2f20-857b-44e3-b41c-733961fd33f1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "3sat/Geschäftsstelle Neue Medien",
+        "squuid": "5eeb3e8a-9f76-4654-90c4-eaf31a6692e3"
+      },
+      "squuid": "5eeb3ea0-485b-413b-885f-d274a7c927ad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bayerischer Rundfunk (für die ARD)",
+        "squuid": "619b767e-8c81-4156-b758-b501dc6a8fa8"
+      },
+      "squuid": "619b769d-8ca1-4310-aab2-5bb0ee2f77a2",
+      "state": "active"
+    }
+  ],
+  "name": "www.3sat.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-11-22T10:47:07.255Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

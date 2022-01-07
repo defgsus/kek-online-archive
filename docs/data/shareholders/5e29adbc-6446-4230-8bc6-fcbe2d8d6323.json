@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Torstr.",
+  "name": "Ströer News Publishing GmbH",
+  "naturalPerson": false,
+  "squuid": "5e29adbc-6446-4230-8bc6-fcbe2d8d6323",
+  "controlDate": "2022-01-06T15:13:42.762Z",
+  "streetNumber": "49",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10119",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.t-online.de",
+        "squuid": "5be1a6b1-fc0b-4c84-82f8-21868b76045e"
+      },
+      "squuid": "5e29add3-21b0-4657-9b5d-7ee6db42bc96",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ströer media brands GmbH",
+        "squuid": "5be1a6b6-03e4-4007-9948-74e88cb1e596"
+      },
+      "squuid": "5e29ae6f-1b46-40af-82df-83e3f21be556",
+      "state": "active"
+    }
+  ]
+}

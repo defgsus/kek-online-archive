@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Montabaur",
+  "pseudoCompany": false,
+  "street": "Elgendorfer Str.",
+  "name": "1&1 Mail & Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a726-4246-9a90-4075f123ae4e",
+  "controlDate": "2021-12-08T13:27:43.700Z",
+  "streetNumber": "57",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "56410",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.web.de",
+        "squuid": "5be1a6b1-3b32-4355-8f19-65b14f0900a8"
+      },
+      "squuid": "5be1a6b9-05ae-48c3-9648-cd6c08bb107e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gmx.net",
+        "squuid": "5be1a6b1-ddc6-4d53-aacc-1b76744e1198"
+      },
+      "squuid": "5be1a6b9-8651-4298-b735-694367dca7a3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gmx.de",
+        "squuid": "5d31b2f7-8c25-4f50-b81d-448fd253b00b"
+      },
+      "squuid": "5d31b39b-8a67-44cd-91c8-44ec59ae5bd9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "1&1 Mail & Media Applications SE",
+        "squuid": "5be1a6b6-f4a0-4713-93d7-8df3dd2f7ded"
+      },
+      "squuid": "5be1a6b8-44b1-4f55-9438-7017ce4c849c",
+      "state": "active"
+    }
+  ]
+}

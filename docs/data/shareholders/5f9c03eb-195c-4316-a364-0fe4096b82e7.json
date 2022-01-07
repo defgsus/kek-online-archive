@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Rostock",
+  "pseudoCompany": false,
+  "street": "Nobelstraße ",
+  "name": "mediadock GmbH",
+  "naturalPerson": false,
+  "squuid": "5f9c03eb-195c-4316-a364-0fe4096b82e7",
+  "controlDate": "2022-01-07T10:52:53.669Z",
+  "streetNumber": "50 a/b",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "18059",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "tv.rostock",
+        "squuid": "5f9c00fc-d971-4dc0-9b09-6f2754688d17"
+      },
+      "squuid": "5f9c04f8-f08b-43fb-970f-9f6c47826c72",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvrostock.de",
+        "squuid": "5f203383-65af-47a5-b064-2f0991f414e3"
+      },
+      "squuid": "6093b971-64ec-4a94-9a8d-d05759b17d0c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Matthias Mück",
+        "squuid": "5fa28a77-f215-4a42-8412-4edd8ea2d90e"
+      },
+      "squuid": "5fa28ade-7f40-46e0-9fe6-0ef6267d2db4",
+      "state": "active"
+    }
+  ]
+}

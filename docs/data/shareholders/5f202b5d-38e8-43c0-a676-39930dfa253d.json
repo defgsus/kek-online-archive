@@ -1,0 +1,78 @@
+{
+  "state": "active",
+  "city": "Schwerin",
+  "pseudoCompany": false,
+  "street": "Marienplatz",
+  "name": "TV M-V GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5f202b5d-38e8-43c0-a676-39930dfa253d",
+  "controlDate": "2022-01-06T17:00:06.225Z",
+  "streetNumber": "1-2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "19053",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tv-schwerin.de",
+        "squuid": "5f202b0d-ff69-41dd-87b3-a8c211171582"
+      },
+      "squuid": "5f202b89-2e6e-468b-92f4-b234963abeb5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TV:SCHWERIN",
+        "squuid": "5fd8bbec-be03-4a64-be9a-1d959378a8fc"
+      },
+      "squuid": "5fd8be53-853a-47fc-be97-6d78d310a2a4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Wismar TV",
+        "squuid": "5fb78ed4-3273-47a1-bb22-9af81211caa3"
+      },
+      "squuid": "5fd8bfae-0788-4d62-b9a0-99599fa58914",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "TV M-V Verwaltungs GmbH",
+        "squuid": "5f202e63-8ed8-4c61-b57b-a1a1c7a46aa9"
+      },
+      "squuid": "5f202ead-d8f7-455a-8de4-727cf4fdbfe8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Medienbeteiligungsgesellschaft Schwerin mbH",
+        "squuid": "5f202f31-56d6-4703-9fa5-1d0ab3cbc938"
+      },
+      "squuid": "5f202f6f-4552-4d7d-9a17-9920f7231ae7",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 99.0,
+      "held": {
+        "name": "Vermögensverwaltungsgesellschaft für Versorgung und Verkehr der Stadt Herne mbH (VVH)",
+        "squuid": "5be1a6b6-a8a1-4172-8d2b-34afd698ec3b"
+      },
+      "squuid": "5f16c33f-207a-4c0c-86d9-a9a7953606b8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 99.0,
+      "held": {
+        "name": "Holding für Versorgung und Verkehr GmbH Bochum",
+        "squuid": "5f105f1c-aa56-444e-8d09-8fcf4ec1c5d6"
+      },
+      "squuid": "5ff59d2c-2a3a-40a8-97a8-7723e27cfeba",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bochum",
+  "pseudoCompany": false,
+  "street": "Ostring",
+  "name": "Energie- und Wasserversorgung Mittleres Ruhrgebiet GmbH",
+  "naturalPerson": false,
+  "squuid": "5f16c2fd-51a4-4932-9239-3cccfc04da8d",
+  "controlDate": "2021-12-21T15:50:31.707Z",
+  "streetNumber": "28",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "44787",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 57.0,
+      "holder": {
+        "name": "Stadt Bochum",
+        "squuid": "5f105e76-b84d-4e42-890d-7171fa8aa69d"
+      },
+      "squuid": "5ff5aa78-e9a4-43b0-963b-14aa12264df9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 27.8,
+      "holder": {
+        "name": "Stadt Herne",
+        "squuid": "5f16c2e1-988f-4f1c-8603-e3dd7e63fc2e"
+      },
+      "squuid": "5ff5aa87-c463-46a1-9a51-ab1c1eb0babd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.2,
+      "holder": {
+        "name": "Stadt Witten",
+        "squuid": "5ff5aaa6-13d1-433d-aa69-bd2ceb62d359"
+      },
+      "squuid": "5ff5aad0-a0e7-4a22-9303-cb0133317370",
+      "state": "active"
+    }
+  ]
+}

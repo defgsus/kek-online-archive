@@ -1,0 +1,67 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "RADIO SALÜ - Euro-Radio Saar GmbH",
+        "squuid": "5be1a6b6-c416-473b-9edc-b68307c0e478"
+      },
+      "squuid": "5be1a6b7-05a2-4f4a-9b55-793d2f538e9e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Saarbrücken",
+  "pseudoCompany": false,
+  "street": "Scheidter Straße",
+  "name": "Prisma Plus Gesellschaft für Beteiligungen mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-6021-46f3-afb4-8a693756b473",
+  "controlDate": "2021-11-23T15:02:46.655Z",
+  "streetNumber": "162",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "66123",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Leismann, Dieter",
+        "squuid": "5e8b6040-07e2-4dee-896f-fb7a410ec4a7"
+      },
+      "squuid": "5e8b60c4-893c-4fff-8bed-248335631189",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Prisma-Plus Verwaltungsgesellschaft für Beteiligungen mbH",
+        "squuid": "5e8b5fb8-5f38-40af-9e40-e15b64464ce7"
+      },
+      "squuid": "5e8b6126-d293-4f65-9433-25edf98d4abb",
+      "state": "active"
+    }
+  ]
+}

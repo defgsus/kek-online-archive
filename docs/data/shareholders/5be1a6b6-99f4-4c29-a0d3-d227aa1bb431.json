@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Niederlande",
+  "note": "(in Liquidation)",
+  "pseudoCompany": false,
+  "name": "Stichting Administratiekantoor Media",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-99f4-4c29-a0d3-d227aa1bb431",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "P7S1 Broadcasting S.à.r.l.",
+        "squuid": "5be1a6b6-246f-4799-a7df-9b6afa70fce3"
+      },
+      "squuid": "5be1a6b7-a173-4a8d-b62a-2049a5a28e8a",
+      "state": "active"
+    }
+  ]
+}

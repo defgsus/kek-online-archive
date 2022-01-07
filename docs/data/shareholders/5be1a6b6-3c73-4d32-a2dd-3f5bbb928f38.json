@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Gänsheidestr.",
+  "name": "GvH Vermögensverwaltungsgesellschaft XXIIIa GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3c73-4d32-a2dd-3f5bbb928f38",
+  "controlDate": "2020-07-10T08:03:54.056Z",
+  "streetNumber": "26",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "70184",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Georg von Holtzbrinck GmbH & Co. KG",
+        "squuid": "5be1a6b6-3efe-470d-89eb-1d230f00b5fa"
+      },
+      "squuid": "5f08210f-ba98-43a3-90bb-36bc4db7e999",
+      "state": "active"
+    }
+  ]
+}

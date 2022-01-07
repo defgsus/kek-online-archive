@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Funke Thüringen Verlag GmbH",
+        "squuid": "6093d9b9-fe17-4ffa-956c-cd26af79a1c1"
+      },
+      "squuid": "6093daeb-f6ed-4877-b10f-eb5279bf6a71",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Funke OTZ Holding GmbH",
+        "squuid": "5be1a6b6-987d-489e-8519-0c3e5e663454"
+      },
+      "squuid": "6093df3f-20cf-4e91-8538-b97ea858440e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Erfurt",
+  "pseudoCompany": false,
+  "street": "Gottstedter Landstr.",
+  "name": "Funke Medien Thüringen GmbH",
+  "naturalPerson": false,
+  "squuid": "6093dace-825a-4773-9685-4da57015a822",
+  "controlDate": "2021-10-29T13:50:11.582Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "99092",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Mediengruppe GmbH & Co. KGaA",
+        "squuid": "5be1a6b6-6d6f-4b05-b3c4-8202f7c67653"
+      },
+      "squuid": "6093db5f-ff25-49de-8d32-f519d7494bc6",
+      "state": "active"
+    }
+  ]
+}

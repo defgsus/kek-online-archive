@@ -1,0 +1,117 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.6126,
+      "held": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "5be1a6b7-301c-43f1-a9e6-16febec80f5a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Werra Verlag Geschäftsführungs-GmbH",
+        "squuid": "5ee7593b-27b8-45cd-9211-2667f12ea3d6"
+      },
+      "squuid": "5ef47ba8-11d9-495a-bd31-92302bcf1e36",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Eschwege",
+  "pseudoCompany": false,
+  "street": "Herrengasse 1",
+  "name": "Werra Verlag Kluthe GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-0634-43d8-bfc2-65e20cf1ea5d",
+  "controlDate": "2021-11-18T16:47:07.247Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "37269",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Werra-Rundschau",
+        "squuid": "5be1a6b1-c544-4836-bca4-3f770df586ae"
+      },
+      "squuid": "5be1a6b9-49fe-49e8-9304-67204bd5fc99",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.werra-rundschau.de",
+        "squuid": "5be1a6b1-1419-4cf3-b609-d84a8f88c0e7"
+      },
+      "squuid": "5be1a6b9-d29c-4004-b1f7-3c1609e0af5c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Verlag Dierichs GmbH & Co. KG",
+        "squuid": "5be1a6b6-6af6-4d18-aba5-e87517df7d54"
+      },
+      "squuid": "5be1a6b8-12ee-41da-95ba-a49ccf2eaca6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Peter Kluthe Verlag GmbH",
+        "squuid": "5be1a6b6-9e1f-416b-a584-a68984ad5026"
+      },
+      "squuid": "5be1a6b8-5ae0-4e70-8a81-d868d1fc2dd1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "MBG Medien Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-d29e-400c-b3d1-1de422ecf822"
+      },
+      "squuid": "5be1a6b8-af8b-48ef-a714-2d09c28cbf36",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Werra Verlag Geschäftsführungs-GmbH",
+        "squuid": "5ee7593b-27b8-45cd-9211-2667f12ea3d6"
+      },
+      "squuid": "5ee7595b-7744-49f1-9593-6451e1f0a432",
+      "state": "active"
+    }
+  ]
+}

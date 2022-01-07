@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Gossau",
+  "pseudoCompany": false,
+  "street": "Flawiler Str.",
+  "name": "Kephas Stiftung gemeinnützige GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-26fb-4acd-925d-a450a1e7cc9d",
+  "controlDate": "2021-12-10T10:39:39.633Z",
+  "placeOfBusiness": "Kirchstr. 10, D 88145 Opfenbach",
+  "streetNumber": "70",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "CH 9200",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "K-TV Katholisches Fernsehen",
+        "squuid": "5be1a6b1-7b40-41f8-8c52-77759f464454"
+      },
+      "squuid": "5be1a6b9-209a-467e-a785-46ccecb71383",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.k-tv.org",
+        "squuid": "5f7d7b5d-f927-4352-8c2c-13222a20c1a4"
+      },
+      "squuid": "5f7d7b88-7089-47e2-88a7-29cdf44c94d6",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gruhn, Patrick",
+        "squuid": "608fe326-f5a1-4b70-91f2-81a3492afb77"
+      },
+      "squuid": "608fe350-a9f8-4053-a81a-173f237e871c",
+      "state": "active"
+    }
+  ]
+}

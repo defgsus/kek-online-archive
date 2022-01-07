@@ -1,0 +1,33 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Hansastr.",
+  "name": "ADAC Medien und Reise GmbH ",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fc02-432d-9f0e-c794f357d70e",
+  "controlDate": "2019-12-09T10:44:19.652Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "80686",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ADAC e.V.",
+        "squuid": "5be1a6b6-08df-481b-81c1-51d2fa2d59d5"
+      },
+      "squuid": "5be1a6b8-2ca6-4b12-84d0-a4aa995dc58b",
+      "state": "active"
+    }
+  ]
+}

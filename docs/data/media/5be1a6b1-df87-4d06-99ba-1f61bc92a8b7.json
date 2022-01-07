@@ -1,0 +1,93 @@
+{
+  "rfRepresentative": "Remzi Ketenci",
+  "state": "active",
+  "sharesInfo": "KEK 1049/1095",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Ayse Akbulut",
+  "rfStartDate": "21.03.2011",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-df87-4d06-99ba-1f61bc92a8b7",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "http://mceu.tv",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Itep Pictures GmbH",
+        "squuid": "5be1a6b6-fbe5-46cc-a723-ad476f2dbf06"
+      },
+      "squuid": "5be1a6b9-0a72-4848-96b8-c2268025bb64",
+      "state": "active"
+    }
+  ],
+  "name": "MC EU",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+    "name": "Spartenprogramm (Information/Dokumentation)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+    "name": "LPR Hessen",
+    "type": "organization",
+    "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "description": "Türkischsprachiges Spartenprogramm mit dem thematischen Schwerpunkt Nachrichten und Dokumentation. Zum Programm gehören auch Unterhaltungsformate für die ganze Familie.",
+  "rfLicenseUntil": "29.03.2031",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "08.03.2021",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-6f88-4a38-b71e-0f31d5ff7b8f",
+      "name": "HOT BIRD",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-31bf-4695-b24e-b6d26d9113b1",
+      "name": "Türksat",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "30.03.2021",
+  "accessibilityEmail": "info@mceu.tv",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-5f26-4c8a-8dbe-f0997863285f",
+      "name": "Türkisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

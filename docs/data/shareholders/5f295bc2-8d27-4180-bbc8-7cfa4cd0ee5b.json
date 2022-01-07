@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Schönebeck",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Elbe Medienproduktion GmbH",
+  "naturalPerson": false,
+  "squuid": "5f295bc2-8d27-4180-bbc8-7cfa4cd0ee5b",
+  "controlDate": "2021-12-06T10:58:08.039Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "39218",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.elbekanal.de",
+        "squuid": "5f295b4a-8695-4c49-87e0-a483f4d57dbb"
+      },
+      "squuid": "5f295be8-81bb-40c8-809c-2e77a24b2974",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kolbe, Christian",
+        "squuid": "5d0203a7-339c-4afc-9831-881d0562e06e"
+      },
+      "squuid": "5f295c59-0f17-468b-b2c1-7d097b0f96b9",
+      "state": "active"
+    }
+  ]
+}

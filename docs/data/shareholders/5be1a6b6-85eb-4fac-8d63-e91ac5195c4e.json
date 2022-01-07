@@ -1,0 +1,42 @@
+{
+  "name": "Kreis Borken",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-85eb-4fac-8d63-e91ac5195c4e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Lokalfunk für den Kreis Borken GmbH & Co. KG",
+        "squuid": "5be1a6b6-4527-4ef2-9ab7-0f9cd59a6f29"
+      },
+      "squuid": "5be1a6b7-e1ad-4db3-aeeb-e3e4123079c4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Lokalfunk Betriebsgesellschaft für den Kreis Borken mbH",
+        "squuid": "5f118afc-d5a0-4761-9da5-833f45c9344e"
+      },
+      "squuid": "60016039-d7a6-4252-aecd-84687e534627",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

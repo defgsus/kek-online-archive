@@ -1,0 +1,134 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Bonn/Rhein-Sieg Geschäftsführungsgesellschaft mbH",
+        "squuid": "5f1063c4-c03d-413d-887e-488b2de86cb5"
+      },
+      "squuid": "60016525-cbc5-441d-9a41-d5506eb92c93",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Siegburg",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Friedensplatz",
+  "name": "Radio Bonn/Rhein-Sieg GmbH & Co. KG",
+  "naturalPerson": false,
+  "co": "HSG Hörfunk Service GmbH",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-cedf-42cf-96c2-9455aebbb02f",
+  "controlDate": "2021-12-21T15:55:58.221Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "53721",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Bonn/Rhein-Sieg",
+        "squuid": "5be1a6b1-cd4a-46c6-aa10-1ac7812a54b9"
+      },
+      "squuid": "5be1a6b9-a0a9-4ba9-8da8-2a95deef19c0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiobonn.de",
+        "squuid": "5f106337-98ff-4bc3-b44f-3db286d4d378"
+      },
+      "squuid": "5f10636d-2654-459f-9c56-7e14a872b0e6",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "Stadtwerke Bonn GmbH",
+        "squuid": "5be1a6b6-68b2-44f7-87c3-473bf33a2a4d"
+      },
+      "squuid": "5be1a6b7-018c-42dd-b152-d32fe9850aac",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.5,
+      "holder": {
+        "name": "Stadt Siegburg",
+        "squuid": "5be1a6b6-ad42-4489-9f47-1f73c0eabcd8"
+      },
+      "squuid": "5be1a6b7-3c7b-4a53-a266-672b6f6331cc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Rhein-Sieg-Kreis",
+        "squuid": "5be1a6b6-75da-4478-b620-79613f4c1c66"
+      },
+      "squuid": "5be1a6b7-c8bd-47b5-920d-9575c321417f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "holder": {
+        "name": "Stadt Bornheim",
+        "squuid": "5be1a6b6-e85e-4a19-ba45-8ff16c310940"
+      },
+      "squuid": "5be1a6b7-175b-455e-aaca-9324a1361490",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "holder": {
+        "name": "Stadt Meckenheim",
+        "squuid": "5be1a6b6-149b-41be-8144-491bb1491a5c"
+      },
+      "squuid": "5be1a6b7-68ca-4651-8359-48eb98a0bfd3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "RBR Rundfunkbeteiligungsgesellschaft Bonn/Rhein-Sieg GmbH & Co. KG",
+        "squuid": "5be1a6b6-1b16-44eb-a53d-81d7f8581e9d"
+      },
+      "squuid": "5be1a6b7-b794-41bd-b3f5-0354a92fbf9c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Bonn/Rhein-Sieg Geschäftsführungsgesellschaft mbH",
+        "squuid": "5f1063c4-c03d-413d-887e-488b2de86cb5"
+      },
+      "squuid": "5ff6d81d-3e13-4a13-8105-0ba443cf7828",
+      "state": "active"
+    }
+  ]
+}

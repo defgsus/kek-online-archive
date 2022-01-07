@@ -1,0 +1,109 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Sonntag Aktuell GmbH",
+        "squuid": "5be1a6b6-a02a-4877-bcb9-9894be7baf66"
+      },
+      "squuid": "5be1a6b8-4d39-4ab4-9c80-9113e9b97b34",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "held": {
+        "name": "Stuttgarter Presse Funk GmbH",
+        "squuid": "5c98ed33-3de6-4a1d-b2fa-4f2782148a39"
+      },
+      "squuid": "5ef21bc8-c024-4e00-9498-20a4fc5b32a8",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Marbach ",
+  "pseudoCompany": false,
+  "street": "König Wilhelm Platz 2",
+  "name": "Adolf Remppis Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-6c87-4b36-bc2f-8d68f68a93f3",
+  "controlDate": "2021-10-29T13:01:59.848Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "71672",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Marbacher Zeitung",
+        "squuid": "5be1a6b1-38e4-4e9a-8fa3-9e9ca619bc25"
+      },
+      "squuid": "5be1a6b9-8f52-4ce0-a95a-84a52d7271a3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.marbacher-zeitung.de",
+        "squuid": "5be1a6b1-1602-4031-82f7-d71c339da8d2"
+      },
+      "squuid": "5be1a6b9-380e-458c-9361-a252c2e46f9d",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b"
+      },
+      "squuid": "5be1a6b8-3ffe-43e4-be1c-8852eb2aaee8",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Zeitungsverlag Marbach Verwaltungs GmbH",
+        "squuid": "5eddfb87-5988-451a-909e-2925d0c97722"
+      },
+      "squuid": "5eddfbb2-504c-4058-a253-b4247f333612",
+      "state": "active"
+    }
+  ]
+}

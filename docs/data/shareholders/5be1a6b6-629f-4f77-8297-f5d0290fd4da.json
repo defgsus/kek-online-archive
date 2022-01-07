@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "München",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Paul-Heyse-Straße",
+  "name": "Radio Charivari oHG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-629f-4f77-8297-f5d0290fd4da",
+  "controlDate": "2021-12-01T16:49:34.486Z",
+  "streetNumber": "2-4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "80336",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "95.5 Charivari München",
+        "squuid": "5be1a6b1-5523-4f93-8324-f81db687338d"
+      },
+      "squuid": "5be1a6b9-f27f-4ba2-a30f-e87364f802d1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.charivari.de",
+        "squuid": "5f844359-17e6-4f54-ab5f-7a2658f5f912"
+      },
+      "squuid": "5f84438e-51c9-4384-ba19-17da4c5ce5aa",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Neue Welle - Antenne München Rundfunk-Programmanbieter- Gesellschaft mbH",
+        "squuid": "5be1a6b6-90f8-4156-8b53-c5b7e0e113ba"
+      },
+      "squuid": "5be1a6b7-3bd7-48ac-8b87-b37e3760bbea",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Münchener Zeitungsverlag GmbH & Co. KG + Merkur tz Redaktions GmbH & Co. KG",
+        "squuid": "5c9a2dee-b94e-44e5-908a-e4b207c27a01"
+      },
+      "squuid": "5c9a2e06-6df4-484b-b4fd-1487312e8e00",
+      "state": "active"
+    }
+  ]
+}

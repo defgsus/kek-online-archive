@@ -1,0 +1,82 @@
+{
+  "state": "active",
+  "city": "Ingelheim",
+  "pseudoCompany": false,
+  "street": "Gartenfeldstr.",
+  "name": "WetterKontor GmbH",
+  "naturalPerson": false,
+  "squuid": "5d2c6144-8492-4a61-b864-dc8987b4957a",
+  "controlDate": "2022-01-07T14:27:27.009Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "55218",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wetterkontor.de",
+        "squuid": "5d2c60d8-142d-4afa-b67d-8ad0f2c9d102"
+      },
+      "squuid": "5d2c615d-b010-48db-b7b8-21ed72e48f5b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Schmidt, Jürgen",
+        "squuid": "5d2c61bf-4843-4440-9639-cb732506ad18"
+      },
+      "squuid": "5d2c6243-3a85-42a5-b745-afd5364f32c6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Wald, Peter",
+        "squuid": "5d2c61ce-0ce1-495b-8f05-2a3be7f95383"
+      },
+      "squuid": "5d2c6258-892c-4205-a82a-594c211a73eb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Zender, Stefan",
+        "squuid": "5d2c61de-7378-4a77-b8ce-6dc0dd88d8d0"
+      },
+      "squuid": "5d2c626b-90a9-422a-9e49-df0618cca9dc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Kühne, Beate",
+        "squuid": "5d2c61eb-d239-4732-b292-78cc21dcb11e"
+      },
+      "squuid": "5d2c629f-07ef-4851-af62-20b4a675dace",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Hackenthal, Dieter",
+        "squuid": "5d2c61f9-a1ee-471b-923b-2a470b009062"
+      },
+      "squuid": "5d2c62b3-8652-48cb-94da-1cb02d2805b2",
+      "state": "active"
+    }
+  ]
+}

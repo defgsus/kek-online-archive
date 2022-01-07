@@ -1,0 +1,95 @@
+{
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Q7 ",
+  "name": "Zone 7 GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-58fc-460a-96a4-a6b530ba1fee",
+  "controlDate": "2022-01-04T10:15:36.210Z",
+  "streetNumber": "28",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "68161 ",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "RON",
+        "squuid": "5c766735-5f99-41dc-bf05-383e9a43df0b"
+      },
+      "squuid": "5c7667a0-27f6-4fdf-9f4a-056a7579e919",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "RON Baden-Württemberg",
+        "squuid": "5d2c712d-c1f2-4767-ae09-76cf2ce04d33"
+      },
+      "squuid": "5d41962e-e50a-474f-9794-8217b9f7a729",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rontv.de",
+        "squuid": "5f3ba5d7-23d8-4f5a-a90d-7a11d76ea720"
+      },
+      "squuid": "5f3ba63e-c86c-44da-86be-18e3b0787cc5",
+      "state": "active"
+    }
+  ],
+  "credits": "LMK, Az.: KEK 853",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Peschke, Sina",
+        "squuid": "5be1a6b6-6c4c-4ba9-8baf-0206c9289ee7"
+      },
+      "squuid": "5be1a6b8-9d2c-4672-9026-4586d056e833",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Präkelt, Thomas",
+        "squuid": "5be1a6b6-48c6-4620-a7e0-fac5c481e3bc"
+      },
+      "squuid": "5be1a6b8-b65e-42cc-9a3d-fc1ff677c660",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Zone 7 Verwaltungs GmbH",
+        "squuid": "5f3ba70f-c5dd-4c4a-a92b-1bd626a39caa"
+      },
+      "squuid": "5f3ba738-2155-433e-95dd-2f1697bd6439",
+      "state": "active"
+    }
+  ]
+}

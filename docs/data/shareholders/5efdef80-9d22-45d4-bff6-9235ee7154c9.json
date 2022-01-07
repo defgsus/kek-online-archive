@@ -1,0 +1,43 @@
+{
+  "name": "Stack, Björn",
+  "pseudoCompany": false,
+  "squuid": "5efdef80-9d22-45d4-bff6-9235ee7154c9",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "Radio Hannover GmbH",
+        "squuid": "5be1a6b6-1a34-4949-a67e-0de35401a07e"
+      },
+      "squuid": "5efdefbf-a9cd-4621-9090-c21e9fd1fe01",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "KMWS Media Hannover GmbH & Co. KG",
+        "squuid": "5efdee17-0d59-43d6-83a0-252863f7366e"
+      },
+      "squuid": "5efdf464-b988-46cb-8e8d-d33d9b34b6bd",
+      "state": "active"
+    }
+  ],
+  "city": "Hannover",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

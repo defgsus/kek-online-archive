@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Lichtenfels",
+  "pseudoCompany": false,
+  "street": "Bahnhofstraße 14",
+  "name": "MPO Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0e73-4b8b-b838-8003bdb08a56",
+  "controlDate": "2021-11-05T14:53:18.381Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "96215",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Obermain-Tagblatt",
+        "squuid": "5be1a6b1-28ce-4e3b-9d1e-ee067d5d1f54"
+      },
+      "squuid": "5be1a6b9-2c4d-422f-b580-50183c6f1ead",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.obermain.de",
+        "squuid": "5be1a6b1-563b-4176-ab5b-f871621d2996"
+      },
+      "squuid": "5be1a6b9-2493-441f-8400-af61cf4f116f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Main-Post GmbH",
+        "squuid": "5be1a6b6-8b22-4880-b165-294a9c44a51b"
+      },
+      "squuid": "5be1a6b8-ad47-4caa-a85e-352e183ff4fc",
+      "state": "active"
+    }
+  ]
+}

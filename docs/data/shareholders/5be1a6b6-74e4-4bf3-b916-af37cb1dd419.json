@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Grimm",
+  "name": "ONECLIMATE.TV gGmbH",
+  "naturalPerson": false,
+  "co": "ALDEBARAN Marine Research & Broadcast,",
+  "squuid": "5be1a6b6-74e4-4bf3-b916-af37cb1dd419",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20457",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "OneClimate.TV",
+        "squuid": "5be1a6b1-c403-4ad1-9b5b-b4c1fcc91e0a"
+      },
+      "squuid": "5be1a6b9-6c7a-458d-909a-1b0a269cc64c",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 09.09.2014",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schweikert, Frank",
+        "squuid": "5be1a6b6-58ea-4888-84b8-2e0fac008954"
+      },
+      "squuid": "5be1a6b8-3de4-470e-aaa1-0d27845efd74",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Graßl, Prof. em. Dr. Hartmut",
+        "squuid": "5be1a6b6-a455-4979-b7c9-1e82211ecacd"
+      },
+      "squuid": "5be1a6b8-4601-4096-b50c-c7ae8a0c4c5a",
+      "state": "active"
+    }
+  ]
+}

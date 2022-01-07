@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Amsterdamer Straße",
+  "name": "DuMont Medien-Services GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-c732-4d59-82ec-51ef78689ad1",
+  "controlDate": "2021-04-14T14:30:33.825Z",
+  "streetNumber": "192",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "50735",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DuMont Regionalmedienholding GmbH & Co KG",
+        "squuid": "5be1a6b6-ef0d-457b-8db1-fea99e30f23e"
+      },
+      "squuid": "5be1a6b8-fe57-4d26-bbdc-f44ad1d2af7e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "DuMont Medien-Services Geschäftsführungs GmbH",
+        "squuid": "5ed907e2-49af-4c98-80fa-df3c26c00b57"
+      },
+      "squuid": "5ed90811-5525-4a34-8c8d-822132dd3172",
+      "state": "active"
+    }
+  ]
+}

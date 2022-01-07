@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f7af923-daf1-44ef-83b9-f0181b984c19",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bayerischer Rundfunk (BR)",
+        "squuid": "5be1a6b6-4924-43c9-95a6-d5d474f6b384"
+      },
+      "squuid": "5f7af95b-580f-4012-943c-9721de53b49c",
+      "state": "active"
+    }
+  ],
+  "name": "www.br.de/br-fernsehen/",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-01T13:26:23.007Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Wangen im Allgäu",
+  "pseudoCompany": false,
+  "street": "Franz-Walchner-Straße ",
+  "name": "Sports Trade GmbH",
+  "naturalPerson": false,
+  "squuid": "5fd46a9b-7682-4253-92c4-d4cea1561335",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "88239",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "sprade.tv",
+        "squuid": "5fd46a89-9b85-4a13-ab9d-c7f382404986"
+      },
+      "squuid": "5fd46bf5-a861-4934-bc68-d399aae4a4db",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Müller, Christian",
+        "squuid": "5fd46c94-4a98-4716-b378-a45775b7d772"
+      },
+      "squuid": "5fd46d0d-2ddd-4e4d-ae2c-137fa9500f11",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.7,
+      "holder": {
+        "name": "Linke, Marcel",
+        "squuid": "5fd46ca5-f0e9-4f76-9a11-7292881753d5"
+      },
+      "squuid": "5fd46d23-59e1-4b63-a991-c44b0ba47e28",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Fietze, Gregor",
+        "squuid": "5fd46cb6-232c-455b-a826-6086d37dc376"
+      },
+      "squuid": "5fd46d37-0cb6-47a7-90f5-df6c605e6d66",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.0,
+      "holder": {
+        "name": "Probst, Hansjörg",
+        "squuid": "5fd46ccc-03e7-4516-b0bf-01b0e9f811ee"
+      },
+      "squuid": "5fd46d47-c54c-4356-9737-b4956ea4fb86",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.3,
+      "holder": {
+        "name": "Röstel, Thomas",
+        "squuid": "5fd46cdf-c0bc-4134-88fc-631f86cdad00"
+      },
+      "squuid": "5fd46d5b-0490-46d2-894f-0849c784caa7",
+      "state": "active"
+    }
+  ]
+}

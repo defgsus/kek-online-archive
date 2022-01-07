@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Halle",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr. 2",
+  "name": "Bratvogel Verlagsgesellschaft mbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-0a25-4b3f-9e5c-30d80bcaaa27",
+  "controlDate": "2020-05-26T13:47:20.672Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "33790",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 46.4,
+      "holder": {
+        "name": "Bratvogel, Ernst-August",
+        "squuid": "5be1a6b6-ac6c-46db-b7a0-735a9012789e"
+      },
+      "squuid": "5be1a6b8-85a9-43f5-a773-946b18024717",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 28.3,
+      "holder": {
+        "name": "Brachvogel, Hans",
+        "squuid": "5be1a6b6-2f18-48c8-988a-ca0d9b7b7f9a"
+      },
+      "squuid": "5be1a6b8-de1b-44a6-b0ec-3fd8acd756f1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.3,
+      "holder": {
+        "name": "Brachvogel, Eva Maria",
+        "squuid": "5be1a6b6-a74e-4fb8-bb78-46be09cff37b"
+      },
+      "squuid": "5be1a6b8-15cf-44b3-a413-276b1c75db29",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bratvogel Verlagsgesellschaft mbH",
+        "squuid": "5ecd1e53-3d9c-4567-b450-fae86b49519c"
+      },
+      "squuid": "5ecd1e6c-059d-45b6-86b9-f3b34e197b51",
+      "state": "active"
+    }
+  ]
+}

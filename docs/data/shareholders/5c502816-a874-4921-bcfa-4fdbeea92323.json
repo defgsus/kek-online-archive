@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Am Coloneum ",
+  "name": "NetCologne Gesellschaft für Telekommunikation mbH",
+  "naturalPerson": false,
+  "squuid": "5c502816-a874-4921-bcfa-4fdbeea92323",
+  "controlDate": "2021-12-10T14:45:32.264Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50829",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.koeln.de",
+        "squuid": "5c5027c8-a8e3-4bde-a994-2a046a0948e7"
+      },
+      "squuid": "5c50286c-1d0f-44ae-a89b-fa56d8d2eb4b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "GEW Köln AG",
+        "squuid": "5c5027e8-3e8b-411f-a86f-517af4b8ea41"
+      },
+      "squuid": "5c5028bd-6e6c-4ebc-b93c-5a88a35aff08",
+      "state": "active"
+    }
+  ]
+}

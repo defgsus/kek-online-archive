@@ -1,0 +1,50 @@
+{
+  "name": "Erzdiöszese München und Freising",
+  "pseudoCompany": true,
+  "controlDate": "2019-07-05T12:51:25.685Z",
+  "squuid": "5be1a6b6-14e2-447c-9a0f-9c116273c944",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 19.9,
+      "held": {
+        "name": "Tellux Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-434a-4353-9b67-bb8a0bcf4412"
+      },
+      "squuid": "5be1a6b8-8059-4c4a-ba86-630613631f6e",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Credit Suisse First Boston, Inc.",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 43.0,
+      "holder": {
+        "name": "Credit Suisse Group",
+        "squuid": "5be1a6b6-c5df-4772-be6c-0383563d33ce"
+      },
+      "squuid": "5be1a6b7-c572-480d-a6be-cb4374763063",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 57.0,
+      "holder": {
+        "name": "Credit Suisse First Boston",
+        "squuid": "5be1a6b6-21bd-4446-92b6-4a045187cc41"
+      },
+      "squuid": "5be1a6b7-27cb-482d-a0ed-66db6b6ac49b",
+      "state": "active"
+    }
+  ],
+  "squuid": "5be1a6b6-215c-4bc9-863e-c31a39b19ca4",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Credit Suisse First Boston Private Equity, Inc.",
+        "squuid": "5be1a6b6-e6c8-43a1-b616-cc41c5772a12"
+      },
+      "squuid": "5be1a6b7-1fd0-4e80-a56a-b635f5004464",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

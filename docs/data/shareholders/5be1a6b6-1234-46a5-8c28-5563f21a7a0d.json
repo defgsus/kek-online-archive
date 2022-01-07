@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Sonnenallee 223a",
+  "name": "Zattoo Deutschland GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1234-46a5-8c28-5563f21a7a0d",
+  "controlDate": "2021-07-09T10:35:31.433Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "12059",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.zattoo.de",
+        "squuid": "5be1a6b1-9271-4337-8935-bed820345192"
+      },
+      "squuid": "5be1a6b9-e352-483a-aa38-9946245fde68",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zattoo Europa AG",
+        "squuid": "5be1a6b6-fb94-46d4-99d7-1c0ea401401e"
+      },
+      "squuid": "5be1a6b8-ea18-4595-9473-02ab9206530f",
+      "state": "active"
+    }
+  ]
+}

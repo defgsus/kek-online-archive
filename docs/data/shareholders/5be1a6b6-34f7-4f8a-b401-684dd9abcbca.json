@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Kiel",
+  "pseudoCompany": false,
+  "street": "Gartenstr.",
+  "name": "Evangelischer Presseverlag Nord GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-34f7-4f8a-b401-684dd9abcbca",
+  "controlDate": "2021-10-14T15:40:12.450Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "24103",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Evangelische Zeitung für Hamburg",
+        "squuid": "5be1a6b1-7063-4afe-ae25-6d6ba2c6bee6"
+      },
+      "squuid": "5be1a6b9-28fc-4e10-9573-3f3a5b615b6d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Evangelische Zeitung für Niedersachsen",
+        "squuid": "5be1a6b1-300a-4bb9-b1d2-df73165771f9"
+      },
+      "squuid": "5c5c092a-c744-484e-be5e-df6bb1f31fc2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Evangelische Zeitung für Schleswig-Holstein",
+        "squuid": "5c5c0963-306f-49a1-89ea-8d94589084f4"
+      },
+      "squuid": "5c5c09b4-bd83-4e83-a3b7-648fa6c348d5",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Evangelischer Presseverband Norddeutschland GmbH",
+        "squuid": "5be1a6b6-c548-44ab-9ad3-d1896609c1c7"
+      },
+      "squuid": "5be1a6b8-3012-4242-8f41-db4d87fc61f1",
+      "state": "active"
+    }
+  ]
+}

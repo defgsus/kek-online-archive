@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Gera",
+  "pseudoCompany": false,
+  "street": "Bahnhofstraße",
+  "name": "Ostthüringer Zeitung Verlag II GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5c6c05b3-f954-4c35-8d5e-4fc8a36d1380",
+  "controlDate": "2021-11-05T17:01:20.003Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "07545",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.otz.de",
+        "squuid": "5be1a6b1-43c5-4f0c-ae8d-2b5a3ecfd03a"
+      },
+      "squuid": "5c6c05e8-1e28-45da-a08c-3605f8ae084f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ostthüringer Zeitung",
+        "squuid": "5be1a6b1-4ca4-407b-b429-74db910c2ac3"
+      },
+      "squuid": "5c6c0617-3019-43f6-a1c9-34736b582a97",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schmöllner Nachrichten",
+        "squuid": "5be1a6b1-05a6-4a39-98e4-5319d210c1f9"
+      },
+      "squuid": "5c6c0647-9242-4b41-a6ce-22468449a06e",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "OTZ II GmbH",
+        "squuid": "5c6c07f1-80f6-4b27-97fa-4458273cf0f5"
+      },
+      "squuid": "5c6c082b-2b0d-45a2-98ef-f4e35178286a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "OTZ Ostthüringer Zeitung Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-7895-45b4-82b7-21f476e3a07e"
+      },
+      "squuid": "5ee213ab-d1de-47ef-b2f4-29108b0ec38b",
+      "state": "active"
+    }
+  ]
+}

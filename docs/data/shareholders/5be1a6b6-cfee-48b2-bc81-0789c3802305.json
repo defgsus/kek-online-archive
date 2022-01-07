@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "Cheruskerring 19",
+  "name": "Dialog-Medien und Emmaus-Reisen gGmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-cfee-48b2-bc81-0789c3802305",
+  "controlDate": "2021-10-26T11:24:46.967Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "48147",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kirche-und-leben.de",
+        "squuid": "5be1a6b1-3bfd-4522-95be-eabf5df6dbb2"
+      },
+      "squuid": "5be1a6b9-f5ec-4a60-aac5-bb41515203eb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kirche und Leben",
+        "squuid": "5be1a6b1-ceaa-4411-8a88-00c53a002fe3"
+      },
+      "squuid": "5c176c2b-5a34-4ebe-ad6a-a63d137e500a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 93.32,
+      "holder": {
+        "name": "Bistum Münster",
+        "squuid": "5be1a6b6-7135-40ad-bdf4-b63471756602"
+      },
+      "squuid": "5be1a6b8-f9fe-4ba5-97a2-a0d480eb3d82",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.68,
+      "holder": {
+        "name": "Bischöflicher Stuhl Münster",
+        "squuid": "5be1a6b6-2681-4f4d-9683-586d6d3f0203"
+      },
+      "squuid": "5be1a6b8-dceb-4efe-b6fc-7ca76512b07d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Römisch-Katholische Kirche im Oldenburgischen Teil der Diözese Münster",
+        "squuid": "5be1a6b6-bdb5-41e5-954b-ecfe8bab0057"
+      },
+      "squuid": "5c176d5d-3949-466c-9e2a-e6c875355f31",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Ratingen",
+  "pseudoCompany": false,
+  "street": "Am Potekamp",
+  "name": "BLOOM's GmbH Medien Marketing Events",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7132-4bc4-bf43-24dfc9a78307",
+  "controlDate": "2021-11-30T17:40:55.544Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40885",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "BLOOM's Deco",
+        "squuid": "5be1a6b1-66f3-44c4-bd72-5259f5ec8b5f"
+      },
+      "squuid": "5be1a6b9-3d99-420a-9bd2-78d30563ba32",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blooms.de",
+        "squuid": "5be1a6b1-fd01-4b55-874e-c726369baf98"
+      },
+      "squuid": "5be1a6b9-87a0-4611-8b6b-f6f748faa589",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.98,
+      "holder": {
+        "name": "Wagener, Klaus",
+        "squuid": "5be1a6b6-c510-4a30-a6df-eae095b37ea5"
+      },
+      "squuid": "5be1a6b8-fc6a-4d85-a2e7-5ab555df57c8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.01,
+      "holder": {
+        "name": "Bauer-Thunich, Marion",
+        "squuid": "5be1a6b6-08cf-4d22-a057-dd72f38c2425"
+      },
+      "squuid": "5be1a6b8-d568-44fc-ae0a-4051f92b9777",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.01,
+      "holder": {
+        "name": "Henckel-Bruckhaus, Hella",
+        "squuid": "5be1a6b6-bb97-4ecc-9259-44919bfcae88"
+      },
+      "squuid": "5be1a6b8-ccb9-45d4-9d96-fcfc3ef94606",
+      "state": "active"
+    }
+  ]
+}

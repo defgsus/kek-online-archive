@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "name": " Radio Netzwerk Berlin e.V.",
+  "naturalPerson": false,
+  "squuid": "5cb4780d-bd31-4e39-92a1-070a48e6a5ee",
+  "controlDate": "2021-12-07T14:12:51.163Z",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "24/3",
+        "squuid": "5cb478f7-e0cd-4ab7-aae7-adec6127e2f0"
+      },
+      "squuid": "5cb47c70-b7f4-4878-b5fc-7d74d3d71eb3",
+      "state": "active"
+    }
+  ]
+}

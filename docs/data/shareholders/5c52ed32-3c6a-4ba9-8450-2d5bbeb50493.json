@@ -1,0 +1,77 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Petersteinweg",
+  "name": "LE Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5c52ed32-3c6a-4ba9-8450-2d5bbeb50493",
+  "controlDate": "2022-01-04T16:36:10.101Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04107",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SACHSEN FERNSEHEN Leipzig",
+        "squuid": "5c519bfc-09d4-497d-a85d-e3890801c58d"
+      },
+      "squuid": "5c541b20-f385-478b-86c2-bd6d0899d220",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "8sport",
+        "squuid": "5c519d8f-4d30-4b13-a903-ee4a5aa59968"
+      },
+      "squuid": "5c541be3-1f22-49cb-b8b2-8358385c0916",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sachsen-fernsehen.de",
+        "squuid": "5f355603-a0ba-4c2e-91cc-577bff9cbccb"
+      },
+      "squuid": "5f35570a-a881-463a-9eef-467dbae5f80f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 66.67,
+      "holder": {
+        "name": "HAESWE GmbH",
+        "squuid": "5be1a6b6-a309-4585-b5b2-491d732594db"
+      },
+      "squuid": "5e4f94f1-f212-44c6-9a46-2bcde7f2a0fc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Leipziger Verlags- und Druckereigesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-e3d7-48f4-a702-9fec71b10041"
+      },
+      "squuid": "5e4f9505-320d-431a-a071-181d6f1048c9",
+      "state": "active"
+    }
+  ]
+}

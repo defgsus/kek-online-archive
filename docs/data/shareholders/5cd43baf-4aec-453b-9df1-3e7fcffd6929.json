@@ -1,0 +1,88 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Schiffbauerdamm",
+  "name": "RND Berlin GmbH",
+  "naturalPerson": false,
+  "squuid": "5cd43baf-4aec-453b-9df1-3e7fcffd6929",
+  "controlDate": "2022-01-03T16:05:35.047Z",
+  "streetNumber": "40",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ksta.de",
+        "squuid": "5be1a6b1-7e58-47e3-8d39-464c9525056b"
+      },
+      "squuid": "5cf8f5b6-3411-44c7-94a0-ff7a454acaf7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kölner Stadt-Anzeiger",
+        "squuid": "5be1a6b1-c017-4468-b5f4-4522adb871af"
+      },
+      "squuid": "5cf8f600-8227-4e8e-8d3c-2ec49c4223ad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Leverkusener Anzeiger",
+        "squuid": "5be1a6b1-be55-4547-81a8-1f7f35fe582e"
+      },
+      "squuid": "5ed909a5-b6fc-4fcf-85bd-edd659444df5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Oberbergischer Anzeiger",
+        "squuid": "5be1a6b1-55d6-4f9f-baba-1bdd04f467df"
+      },
+      "squuid": "5ed90a2f-e4ef-495c-825c-3bda920e8064",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rhein-Sieg-Anzeiger",
+        "squuid": "5be1a6b1-3b65-41bb-a3bd-b8af4f6328a1"
+      },
+      "squuid": "5ed90af2-ca42-4466-9be2-ccb664f31970",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "RND RedaktionsNetzwerk Deutschland GmbH",
+        "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d"
+      },
+      "squuid": "5cd43c92-5a63-4ade-9345-fdea3f1e0c65",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "M. DuMont Schauberg Expedition der Kölnischen Zeitung GmbH & Co KG",
+        "squuid": "5be1a6b6-9d5d-484c-a27a-6a9349842635"
+      },
+      "squuid": "607700d8-da9c-44b0-af2c-6e4d74f1ed90",
+      "state": "active"
+    }
+  ]
+}

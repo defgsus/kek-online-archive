@@ -1,0 +1,100 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Beteiligungsgesellschaft Post Stuttgart Verwaltungs GmbH",
+        "squuid": "5be1a6b6-439a-476d-8286-bf6c1622100d"
+      },
+      "squuid": "5be1a6b8-b186-453e-87d8-62d2cf78bf9b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Plieninger Straße",
+  "name": "Beteiligungsgesellschaft Post Stuttgart GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9112-4d5c-9a1f-947d938e7760",
+  "controlDate": "2021-10-28T09:26:32.418Z",
+  "streetNumber": "150",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70567",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Medienholding Süd GmbH (MSG)",
+        "squuid": "5be1a6b6-19cc-4eda-8d42-c4a7e5a31027"
+      },
+      "squuid": "5be1a6b8-6c1d-4166-a328-f22c7b2695b2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Bechtle Graphische Betriebe und Verlagsgesellschaft GmbH & Co KG",
+        "squuid": "5be1a6b6-4792-466e-ae6c-b124e9c6b4ba"
+      },
+      "squuid": "5be1a6b8-267d-4e87-8913-60663d22aab2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Quick Logistics Beteiligungs GmbH",
+        "squuid": "5be1a6b6-ffcd-4312-98d7-b8f27bb21a71"
+      },
+      "squuid": "5be1a6b8-b5a8-4f3a-be6d-3927b4de3dc0",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Beteiligungsgesellschaft Post Stuttgart Verwaltungs GmbH",
+        "squuid": "5be1a6b6-439a-476d-8286-bf6c1622100d"
+      },
+      "squuid": "5eda2b3a-ee58-4665-be7a-aff635bb218d",
+      "state": "active"
+    }
+  ]
+}

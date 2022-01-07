@@ -1,0 +1,98 @@
+{
+  "state": "active",
+  "city": "Memmingen",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Donaustraße",
+  "name": "HITRADIO RT1 Südschwaben GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7179-4d1e-a276-e0773c9d9084",
+  "controlDate": "2022-01-04T11:00:24.225Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "87700",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "hitradio.rt1 südschwaben",
+        "squuid": "5be1a6b1-7b8d-456a-beb1-e918b40378ef"
+      },
+      "squuid": "5be1a6b9-32ba-436f-911b-554e6e84b06c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "hitradio rt1 Südschwaben",
+        "squuid": "5be1a6b1-1f80-4f86-8d94-9585b7ca8e67"
+      },
+      "squuid": "5be1a6b9-2ffc-4e8c-a465-97f9cf1a5766",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.imsueden.de/hitradio-rt1",
+        "squuid": "5f905785-551f-4678-b441-1e68907888e7"
+      },
+      "squuid": "5f9057e5-a9de-45f5-8890-d7be6b61083d",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Sankt Ulrich Verlag GmbH",
+        "squuid": "5be1a6b6-cac1-420a-b40c-87452e0ab6f4"
+      },
+      "squuid": "5be1a6b7-d503-4cb3-9933-375adb6a737a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.9,
+      "holder": {
+        "name": "Druckerei und Verlag Hans Högel KG",
+        "squuid": "5be1a6b6-f496-4b01-9204-ae8cbb56a1c9"
+      },
+      "squuid": "5be1a6b7-7741-4ef2-80b7-e7debe224b20",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.1,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5be1a6b7-c593-4b09-9adc-a9b944eaec4c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Allgäuer Zeitungsverlag GmbH",
+        "squuid": "5be1a6b6-9e2f-4de5-839b-a9064817ea96"
+      },
+      "squuid": "5c8a2766-fe4b-412b-a479-d44f13b6036c",
+      "state": "active"
+    }
+  ]
+}

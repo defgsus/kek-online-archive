@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5d31bc03-5b22-4318-9f2b-a9b76c9c3090",
+  "marketReach": 0.339186860028982,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Gehalt.de GmbH",
+        "squuid": "5d31bc0c-a6ce-46f5-b11a-86a59e2df62a"
+      },
+      "squuid": "5d31bc28-beb9-4f81-b80d-7bb822233971",
+      "state": "active"
+    }
+  ],
+  "name": "www.gehalt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-08T11:17:44.072Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Krone-Verlag GmbH",
+        "squuid": "5d308c06-9b4a-472a-b7f0-d561c5eb8bb1"
+      },
+      "squuid": "5d308dfa-2d1e-4135-986e-c8204c4b95f1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.5,
+      "held": {
+        "name": "Krone-Verlag GmbH & Co Vermögensverwaltung KG",
+        "squuid": "5d308be8-db59-467a-b397-514f3763b1b8"
+      },
+      "squuid": "5d308f17-d58e-45d2-b0a8-1573c0eabf91",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "Jakob-Funke-Platz ",
+  "name": "NKZ Austria-Beteiligungs GmbH ",
+  "naturalPerson": false,
+  "squuid": "5d308c26-bc81-426b-acb6-011874beb13b",
+  "controlDate": "2021-12-10T14:56:34.441Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "45127",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "WAZ Ausland Holding GmbH",
+        "squuid": "5d306b00-fd6f-48e9-9f73-3b50a96e77d2"
+      },
+      "squuid": "5d30915d-eb1b-4473-8389-8ef94b60ea86",
+      "state": "active"
+    }
+  ]
+}

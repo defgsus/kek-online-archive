@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "PrimaCom Management GmbH",
+        "squuid": "5be1a6b6-cbec-4be4-bcc4-4ea5c2c5f53a"
+      },
+      "squuid": "5be1a6b7-4b56-4a79-a5e9-b95eec84e097",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mainz",
+  "pseudoCompany": false,
+  "name": "PrimaCom AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4c85-4d13-81d0-3b018c41c351",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.49,
+      "holder": {
+        "name": "Orion Cable GmbH",
+        "squuid": "5be1a6b6-8b08-495d-bf50-b4056dcfe3c5"
+      },
+      "squuid": "5be1a6b7-deaf-4998-9956-e341344d7ac4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 9.51,
+      "holder": {
+        "name": "Streubesitz an der PrimaCom AG",
+        "squuid": "5be1a6b6-fb8c-4c44-8817-76d58e980885"
+      },
+      "squuid": "5be1a6b7-9b8e-4b5a-bca5-69e586e8fa79",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "Jakob-Funke-Platz ",
+  "name": "Funke NRW Wochenblatt GmbH",
+  "naturalPerson": false,
+  "squuid": "5d30489b-dd64-4853-88b2-3bcdc5902f06",
+  "controlDate": "2021-12-13T14:39:50.989Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "45127",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lokalkompass.de",
+        "squuid": "5d304d49-c2a7-4f17-af40-de3511552206"
+      },
+      "squuid": "5d305a65-b360-46b6-9905-24a85439c36c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5d305bab-2452-4f57-9cad-e79764e92a7f",
+      "state": "active"
+    }
+  ]
+}

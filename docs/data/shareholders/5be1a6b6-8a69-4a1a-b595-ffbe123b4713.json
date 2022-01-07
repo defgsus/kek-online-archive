@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Kelsterbach",
+  "note": "Inhaber der Sendeerlaubnis ist Herr Burkhard Beyer. Er hält die Sendeerlaubnis treuhändisch für die Russische Staatliche Rundfunkgesellschaft \"Golos Rossii\" (Stimme Russlands), Pyatnitskaya 25, 115326 Moskau, Russland.",
+  "pseudoCompany": false,
+  "street": "Mainstraße",
+  "name": "Beyer, Burkhard",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-8a69-4a1a-b595-ffbe123b4713",
+  "streetNumber": "80",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "65451",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stimme Russlands",
+        "squuid": "5be1a6b1-1f22-45ed-b5d4-d93555fad080"
+      },
+      "squuid": "5be1a6b9-2862-4bcb-ab07-b33139a4c0e8",
+      "state": "active"
+    }
+  ],
+  "credits": " Website der mabb, Abruf am 03.01.2011 sowie Website der NLM, Abruf am 07.01.2011"
+}

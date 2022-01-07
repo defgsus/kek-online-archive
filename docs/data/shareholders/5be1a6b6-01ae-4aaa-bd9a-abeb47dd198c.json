@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Ninth Beteiligung GmbH",
+        "squuid": "5be1a6b6-546a-4b73-898d-c83d7021c7ed"
+      },
+      "squuid": "5be1a6b7-a236-4b30-8b51-6844437d520f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Flensburg",
+  "pseudoCompany": false,
+  "name": "Ulrich Rotermund Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-01ae-4aaa-bd9a-abeb47dd198c",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Rotermund, Philipp",
+        "squuid": "5be1a6b6-bab0-4d4c-a708-0e6f68d8f1da"
+      },
+      "squuid": "5be1a6b7-a096-4151-8b37-9501fb681bdb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Rotermund, Reuben",
+        "squuid": "5be1a6b6-2407-467f-bd2c-acca19a20a34"
+      },
+      "squuid": "5be1a6b7-b611-405f-8c80-45d63d92885a",
+      "state": "active"
+    }
+  ]
+}

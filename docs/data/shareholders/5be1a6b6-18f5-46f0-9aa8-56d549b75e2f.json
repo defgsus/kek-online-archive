@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Övelgönne",
+  "name": "Vijay Sapre Vermögensverwaltung GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-18f5-46f0-9aa8-56d549b75e2f",
+  "controlDate": "2021-10-14T13:32:33.986Z",
+  "streetNumber": "59",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22605",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Effilee",
+        "squuid": "5be1a6b1-2642-43ab-8d3c-6ea2b834da19"
+      },
+      "squuid": "5be1a6b9-0c26-487a-aff3-f81c952b2443",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.effilee.de",
+        "squuid": "5be1a6b1-125a-47ee-9a1b-8fb17a0eee61"
+      },
+      "squuid": "5be1a6b9-b3c8-46b7-a2e8-da6ad8646f7d",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Sapre, Vijay",
+        "squuid": "5be1a6b6-51a1-4fdf-a5f5-249b6cf1024c"
+      },
+      "squuid": "5be1a6b8-d830-4daa-9820-6a6b3ef30430",
+      "state": "active"
+    }
+  ]
+}

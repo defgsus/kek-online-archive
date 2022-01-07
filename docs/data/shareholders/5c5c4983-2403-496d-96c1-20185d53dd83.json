@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Harvestehuder Weg ",
+  "name": "Urbanite Location Based Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5c5c4983-2403-496d-96c1-20185d53dd83",
+  "controlDate": "2021-12-17T11:18:28.431Z",
+  "streetNumber": "41",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20149",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.prinz.de",
+        "squuid": "5be1a6b1-d905-4098-a9ac-26295016f9ca"
+      },
+      "squuid": "5c5c499c-e24a-443d-b514-65bee2f0fe60",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ganske Media Group GmbH",
+        "squuid": "5be4349f-b557-40ba-bded-caeca828e151"
+      },
+      "squuid": "5c5c4ae7-7493-4209-a5bb-f21a51b47a39",
+      "state": "active"
+    }
+  ]
+}

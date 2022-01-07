@@ -1,0 +1,106 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "TV Oberfranken GmbH & Co. KG",
+        "squuid": "5be1a6b6-24fd-46f1-a071-75daf7870e61"
+      },
+      "squuid": "5be1a6b8-e7a3-4cd2-9ab9-675546c311a5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "TV Oberfranken Geschäftsführungs GmbH",
+        "squuid": "5f80392d-6f14-4fac-8824-7c5beda5ccc6"
+      },
+      "squuid": "5f8d747a-0568-468d-ad19-741e94e0c2ef",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hof",
+  "pseudoCompany": false,
+  "name": "Fernsehanbietergemeinschaft oberfränkischer Sparkassen und Volks- und Raiffeisenbanken GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b155-48e2-a97e-3b39bfce7fbc",
+  "controlDate": "2022-01-07T10:39:56.014Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 47.5,
+      "holder": {
+        "name": "Sparkasse Hochfranken",
+        "squuid": "5cb87803-bf51-4226-8de7-f69739359bb3"
+      },
+      "squuid": "5e95bb4a-ea43-4f70-a67f-5b82b34ed0a7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Sparkasse Coburg - Lichtenfels",
+        "squuid": "5e95bc59-004f-45d4-b86c-f877c4524c20"
+      },
+      "squuid": "5e95bc9f-c66a-436a-8bd1-006f81a838cc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "VR Bank Bayreuth - HOf eG",
+        "squuid": "5e95bd02-15f8-488f-9cdd-244c647c4d25"
+      },
+      "squuid": "5e95bdb8-bd2a-4fb9-9a0c-7b5f1dee8c9d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.5,
+      "holder": {
+        "name": "VR Bank Oberfranken Mitte eG",
+        "squuid": "5e95bd2d-6ac6-4b29-933f-0542589e66b5"
+      },
+      "squuid": "5e95bdf3-ca77-427c-9de0-9804802951bb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.5,
+      "holder": {
+        "name": "Volksbank Forchheim eG",
+        "squuid": "5e95bd49-8d97-41dd-be07-187cd8baceed"
+      },
+      "squuid": "5e95be08-7b8d-41b5-b73f-0c654e91bb22",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.5,
+      "holder": {
+        "name": "Raiffeisen-Volksbank Bad Staffelstein eG",
+        "squuid": "5e95bd74-230c-446d-873d-956477377032"
+      },
+      "squuid": "5e95be23-0367-491e-a7a9-b05c4035c8f3",
+      "state": "active"
+    }
+  ]
+}

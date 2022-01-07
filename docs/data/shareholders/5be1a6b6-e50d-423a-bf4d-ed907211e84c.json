@@ -1,0 +1,74 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Wandsbeker Zollstraße 5a",
+  "name": "Transfermarkt GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-e50d-423a-bf4d-ed907211e84c",
+  "controlDate": "2022-01-06T16:47:42.369Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22041",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.transfermarkt.de",
+        "squuid": "5be1a6b1-cbca-4fe1-8af7-b8d55559bc4e"
+      },
+      "squuid": "5be1a6b9-ecc6-4fa9-af55-0d0e7d935134",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Bild GmbH ",
+        "squuid": "5be1a6b6-af30-4d16-b7eb-afb070fc9f88"
+      },
+      "squuid": "5be1a6b8-6202-4883-a391-8751377bf45e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "e-quadrat communications gmbh",
+        "squuid": "5be1a6b6-a950-4b1a-b4f6-3880b3acd982"
+      },
+      "squuid": "5be1a6b8-abda-4e65-a539-81c0530a492d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 39.0,
+      "holder": {
+        "name": "Balumba GmbH",
+        "squuid": "5be1a6b6-ee40-4f90-b559-9c0eee4968bc"
+      },
+      "squuid": "5be1a6b8-3d0c-4703-a6b6-ede72dd398d5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Transfermarkt Verwaltungs GmbH",
+        "squuid": "5f059c15-7f0b-46a8-b827-84b0a532a129"
+      },
+      "squuid": "5f059c38-37fb-4266-a76c-92d18725a857",
+      "state": "active"
+    }
+  ]
+}

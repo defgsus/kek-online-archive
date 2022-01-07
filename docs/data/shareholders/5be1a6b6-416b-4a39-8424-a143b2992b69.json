@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Nürtingen",
+  "pseudoCompany": false,
+  "street": "Carl-Benz- Str. 1",
+  "name": "Senner Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-416b-4a39-8424-a143b2992b69",
+  "controlDate": "2021-11-04T16:26:07.098Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "72622",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Nürtinger Zeitung",
+        "squuid": "5be1a6b1-e8b6-41d5-8748-8c4365dd5a57"
+      },
+      "squuid": "5be1a6b9-cd96-463b-bd0f-4c76a9b190e6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Wendlinger Zeitung",
+        "squuid": "5be1a6b1-8aa6-491a-92ff-e764be5af17a"
+      },
+      "squuid": "5be1a6b9-9879-4b7d-afc7-aa02c8400c0d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ntz.de",
+        "squuid": "5be1a6b1-4904-46c7-b252-be696900620d"
+      },
+      "squuid": "5be1a6b9-ada4-44b3-8f32-8c50a5d2e385",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Senner Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-e299-4cb4-a84a-a2be3abd7f94"
+      },
+      "squuid": "5be1a6b8-177f-4d2f-a266-fdb44aafc9fe",
+      "state": "active"
+    }
+  ]
+}

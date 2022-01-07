@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Potsdam",
+  "pseudoCompany": false,
+  "street": "Dianastraße",
+  "name": "UFA GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-51c0-4cb8-a38d-031c32b6dbcf",
+  "streetNumber": "21",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "14482",
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 28.06.2013",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "UFA Film und Fernseh GmbH",
+        "squuid": "5be1a6b6-f28f-4a5c-ade9-5d5645c0cd41"
+      },
+      "squuid": "5be1a6b7-639b-4a5d-b1ae-13f856a4752d",
+      "state": "active"
+    }
+  ]
+}

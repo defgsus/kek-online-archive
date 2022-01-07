@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Verleger-Holding Radio Wesel GmbH & Co. KG",
+        "squuid": "5be1a6b6-5366-4d90-a196-1e0aaa483cd2"
+      },
+      "squuid": "5f103b61-afb1-4861-bef6-4ebb62852eff",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "Jakob-Funke-Platz",
+  "name": "Verleger-Holding Verwaltungsgesellschaft Radio Wesel mbH",
+  "naturalPerson": false,
+  "squuid": "5f103b27-8b39-4046-8631-4b0b007d48f7",
+  "controlDate": "2021-12-22T15:06:34.382Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "45127",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "PFD Pressefunk GmbH",
+        "squuid": "5be1a6b6-761b-43ab-b113-3d2fb927889c"
+      },
+      "squuid": "5ff5add6-332c-405a-a88f-86fd4c9279a7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 76.0,
+      "holder": {
+        "name": "Zeitungsverlag Niederrhein GmbH & Co. Essen KG",
+        "squuid": "5be1a6b6-82b1-496e-8b3c-f72246503b7e"
+      },
+      "squuid": "5ff5ade7-e644-4dc3-84b8-bb239df45bf8",
+      "state": "active"
+    }
+  ]
+}

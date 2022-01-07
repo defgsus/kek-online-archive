@@ -1,0 +1,40 @@
+{
+  "rfRepresentative": "Konrad Schwingenstein",
+  "state": "active",
+  "squuid": "5e59118d-c876-44a0-8d01-d92e1509a78f",
+  "marketReach": 0.2,
+  "organization": {
+    "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+    "name": "LFK",
+    "type": "organization",
+    "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+  },
+  "accessibilityUrl": "https://www.egofm.de/",
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Next Generation GmbH & Co. KG",
+        "squuid": "5be1a6b6-73c7-40c3-9f6c-36bdb642bc5d"
+      },
+      "squuid": "5e5e0ed9-7513-4120-8906-c08548e7e8a6",
+      "state": "active"
+    }
+  ],
+  "name": "egoFM",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+    "name": "LFK",
+    "type": "organization",
+    "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+  },
+  "accessibilityEmail": "werbung@egoFM.de"
+}

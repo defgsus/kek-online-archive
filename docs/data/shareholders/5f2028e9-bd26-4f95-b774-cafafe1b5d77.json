@@ -1,0 +1,85 @@
+{
+  "state": "active",
+  "city": "Stralsund",
+  "pseudoCompany": false,
+  "street": "Fährstr.",
+  "name": "FAS GmbH",
+  "naturalPerson": false,
+  "squuid": "5f2028e9-bd26-4f95-b774-cafafe1b5d77",
+  "controlDate": "2022-01-04T12:01:21.884Z",
+  "streetNumber": "33",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "18439",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ruegentv.de",
+        "squuid": "5f2028fc-0981-43b1-8f95-5323ec3d1ed4"
+      },
+      "squuid": "5f202956-3216-4dbc-9627-490a28ae4ac1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fas-tv.de",
+        "squuid": "5f202929-08e9-4d88-9c39-bcc6558e2909"
+      },
+      "squuid": "5f202997-52f3-425e-a7af-bcbeec219297",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stralsund TV",
+        "squuid": "5faeb4b2-2f55-4e12-8ea7-51dbd088b615"
+      },
+      "squuid": "5faeb847-9229-4bd0-8385-04041381e615",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rügen TV",
+        "squuid": "5fb5339b-2513-4f5d-a303-9a3321848b81"
+      },
+      "squuid": "5fb536ab-e0dd-454f-be0a-6ddc3ddea788",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 57.0,
+      "holder": {
+        "name": "Plückhahn, Frank",
+        "squuid": "5f2025ad-ae92-42e3-b921-b826f858bcc0"
+      },
+      "squuid": "5f202a4a-f42d-43e8-98e9-b943cafb7262",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 43.0,
+      "holder": {
+        "name": "AEP Plückhahn Netze GmbH",
+        "squuid": "5faeb8be-cf76-40b9-840d-965457c5d8e2"
+      },
+      "squuid": "5faeb8ec-22a5-43c3-9d63-503bb5f14377",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "state": "active",
+  "city": "Vallendar",
+  "pseudoCompany": false,
+  "street": "Höhrer Straße",
+  "name": "schoenstatt-tv GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7214-43f3-88f0-53744a1ccc52",
+  "controlDate": "2022-01-05T11:56:51.510Z",
+  "streetNumber": "77",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "56179",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "schoenstatt-tv",
+        "squuid": "5be1a6b1-112e-4f56-9724-b834ac0a4977"
+      },
+      "squuid": "5be1a6b9-a9b8-4b48-a70c-aa704f3c166f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schoenstatt-tv.de",
+        "squuid": "5f7f0c9c-6f87-43c2-96c6-2dde21682fd8"
+      },
+      "squuid": "5f7f0ce4-0a7e-4bc1-9012-d8f0a2533144",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 21.11.2016; vorbehaltlich medienkonzentrationsrechtlicher Genehmigung",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Hug, Josef",
+        "squuid": "5be1a6b6-2488-48bc-a0b9-dd120444b741"
+      },
+      "squuid": "5be1a6b7-fe2e-4c37-b33f-3ef5de87ed1e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Hug, Dr. Agathe",
+        "squuid": "5be1a6b6-a83f-4e1d-b128-c41d299ff8db"
+      },
+      "squuid": "5be1a6b7-c2bb-42af-8b56-7563780bad06",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Bihlmaier, Judith",
+        "squuid": "5be1a6b6-8abf-4c9b-bab6-b91609597ca2"
+      },
+      "squuid": "5be1a6b7-009d-4d15-9d29-95436d538e9c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Hug, Hildegard",
+        "squuid": "5f7f0e22-3c5d-4e59-bb60-e59ca1441727"
+      },
+      "squuid": "5f7f0e4e-6703-4f45-8ff8-63705a28bb0d",
+      "state": "active"
+    }
+  ]
+}

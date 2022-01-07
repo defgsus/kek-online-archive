@@ -1,0 +1,78 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Schneemannstraße",
+  "name": "Digitalradio Classix Rock be4 GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-463b-4e35-9b36-70b8f3e7ba8c",
+  "controlDate": "2021-12-03T11:18:06.496Z",
+  "streetNumber": "25",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "81369",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Digital Classix",
+        "squuid": "5be1a6b1-13f0-409a-9b9c-c6d21ead6dbd"
+      },
+      "squuid": "5be1a6b9-25ba-472a-a48c-8717dfbc36aa",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.digitalclassix.de",
+        "squuid": "5f8ef918-581e-413a-9e81-444be76130e2"
+      },
+      "squuid": "5f8ef953-623f-4598-a3c2-f2d56644a4cb",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Bertelshofer, Peter",
+        "squuid": "5be1a6b6-7f3b-4e22-ae18-9d43ff31a8bb"
+      },
+      "squuid": "5be1a6b7-6748-4955-ba91-906d7d93b89b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Bertelshofer, Nicole",
+        "squuid": "5be1a6b6-3e3d-418c-9dc6-e240fae54bc6"
+      },
+      "squuid": "5be1a6b7-e2f8-47e8-b928-063bf052da1c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Bertelshofer, Alexander",
+        "squuid": "5be1a6b6-db57-4cfd-80c8-24b50acadcbd"
+      },
+      "squuid": "5be1a6b7-c450-4b18-9674-69441e2f300a",
+      "state": "active"
+    }
+  ]
+}

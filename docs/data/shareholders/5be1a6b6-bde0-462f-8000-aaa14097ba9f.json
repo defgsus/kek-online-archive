@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Norden",
+  "pseudoCompany": false,
+  "street": "Stellmacherstr. 14",
+  "name": "Ostfriesischer Kurier GmbH",
+  "naturalPerson": false,
+  "limitedPartnership": false,
+  "squuid": "5be1a6b6-bde0-462f-8000-aaa14097ba9f",
+  "controlDate": "2021-11-05T16:41:12.308Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "26506",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ostfriesischer Kurier",
+        "squuid": "5be1a6b1-d827-4995-ae9a-ff570ca3a962"
+      },
+      "squuid": "5be1a6b9-e922-4c24-a0c0-ed468ebbf9b0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ostfriesischer-kurier.de",
+        "squuid": "5be1a6b1-61a3-418e-9b06-0e4c8eb1c0e5"
+      },
+      "squuid": "5be1a6b9-9730-4950-b1aa-1fd136f89dd0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.norderneyer-badezeitung.de",
+        "squuid": "5be1a6b1-9e1b-4393-a3c2-479921d3c46e"
+      },
+      "squuid": "5be1a6b9-702f-46df-ad12-3278bf71f9ef",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "SKN Druck und Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-b427-4188-bb05-236486d46c8e"
+      },
+      "squuid": "5be1a6b8-f596-48ac-bad8-a20eb0ce0b0b",
+      "state": "active"
+    }
+  ]
+}

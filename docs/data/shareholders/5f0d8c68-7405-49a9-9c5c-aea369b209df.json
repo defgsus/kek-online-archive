@@ -1,0 +1,31 @@
+{
+  "name": "Streubesitz an der Dermapharm Holding SE",
+  "pseudoCompany": true,
+  "squuid": "5f0d8c68-7405-49a9-9c5c-aea369b209df",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 24.95,
+      "held": {
+        "name": "Dermapharm Holding SE",
+        "squuid": "5f05dfa8-5d0b-4332-baf9-4360a7072088"
+      },
+      "squuid": "5f0d8cbc-4ce2-41fe-b579-9b16ceed56db",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

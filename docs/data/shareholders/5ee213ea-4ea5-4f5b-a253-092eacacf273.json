@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "OTZ Ostthüringer Zeitung Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-7895-45b4-82b7-21f476e3a07e"
+      },
+      "squuid": "5ee21422-38a6-4e51-891c-318859dbadc2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gera",
+  "pseudoCompany": false,
+  "street": "Bahnhoftsr.",
+  "name": "OTZ Ostthüringer Zeitung Verlag Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5ee213ea-4ea5-4f5b-a253-092eacacf273",
+  "controlDate": "2021-11-05T17:03:22.597Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "07545",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Funke OTZ Holding GmbH",
+        "squuid": "5be1a6b6-987d-489e-8519-0c3e5e663454"
+      },
+      "squuid": "5ee214a6-9493-4a82-ba4f-d1a56870693b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Rheinisch-Westfälische Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-ea73-40a7-ba5c-20b4724bee39"
+      },
+      "squuid": "5ee214b4-e5b9-439f-be7e-14e3acc27410",
+      "state": "active"
+    }
+  ]
+}

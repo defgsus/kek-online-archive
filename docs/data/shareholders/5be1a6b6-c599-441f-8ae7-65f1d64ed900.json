@@ -1,0 +1,37 @@
+{
+  "name": "Streubesitz an der AT&T Inc.",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-c599-441f-8ae7-65f1d64ed900",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 86.75,
+      "held": {
+        "name": "AT&T, Inc.",
+        "squuid": "5be1a6b6-e89f-4606-870e-ff1fd525b50f"
+      },
+      "squuid": "5be1a6b8-ccfc-4465-a51a-79830cbc29e9",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

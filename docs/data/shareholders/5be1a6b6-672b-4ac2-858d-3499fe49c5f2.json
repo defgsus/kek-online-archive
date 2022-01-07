@@ -1,0 +1,65 @@
+{
+  "state": "active",
+  "city": "Lübeck",
+  "pseudoCompany": false,
+  "street": "Mengstr.",
+  "name": "Max Schmidt-Römhild GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-672b-4ac2-858d-3499fe49c5f2",
+  "controlDate": "2021-11-01T14:33:40.786Z",
+  "streetNumber": "16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "23552",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mobil + Sicher",
+        "squuid": "5be1a6b1-94c4-4a11-84aa-4b58e65a86ad"
+      },
+      "squuid": "5be1a6b9-52cb-422c-a21a-26506315f9d5",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 6.0,
+      "holder": {
+        "name": "Verlag Beleke GmbH",
+        "squuid": "5be1a6b6-9be2-4fb8-8131-58a0f5e4b117"
+      },
+      "squuid": "5be1a6b8-6cd2-4533-8b61-7948c18e79a9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 94.0,
+      "holder": {
+        "name": "Carl Hinnerwisch Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-12c8-49ad-aa5e-d729cef65012"
+      },
+      "squuid": "5be1a6b8-0cc2-44c1-a293-cbd127e4f17b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hansisches Verlagskontor GmbH",
+        "squuid": "5ede4069-3368-4ad9-8697-168a5b9b9f42"
+      },
+      "squuid": "5ede4083-e62d-4bb4-8370-2be3b1ada883",
+      "state": "active"
+    }
+  ]
+}

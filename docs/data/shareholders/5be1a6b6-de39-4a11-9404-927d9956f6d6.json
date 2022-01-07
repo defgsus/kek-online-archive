@@ -1,0 +1,75 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Heinen-Verlag GmbH",
+        "squuid": "5be1a6b6-b9b0-4706-bd6c-15559db4e2d9"
+      },
+      "squuid": "5be1a6b7-d239-432f-872a-99e33723ed92",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Stolkgasse 25",
+  "name": "Kölnische Verlagsdruckerei GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-de39-4a11-9404-927d9956f6d6",
+  "controlDate": "2021-10-27T08:44:14.210Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "50667",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 78.92,
+      "holder": {
+        "name": "Heinen-Verlag GmbH",
+        "squuid": "5be1a6b6-b9b0-4706-bd6c-15559db4e2d9"
+      },
+      "squuid": "5be1a6b8-7daa-4ba7-9a14-8dfb7e98ee14",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Heinen, Helmut",
+        "squuid": "5be1a6b6-672e-4de5-9df3-f6d1d7890c22"
+      },
+      "squuid": "5be1a6b8-b4e7-4849-b8c6-1927e1b03d88",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.08,
+      "holder": {
+        "name": "DuMont Regionalmedienholding GmbH & Co KG",
+        "squuid": "5be1a6b6-ef0d-457b-8db1-fea99e30f23e"
+      },
+      "squuid": "5be1a6b8-b4cb-4c6d-8b56-f6fddde87f32",
+      "state": "active"
+    }
+  ]
+}

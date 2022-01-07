@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Biesenbrower Str.",
+  "name": "Dordevic, Branislav",
+  "naturalPerson": true,
+  "squuid": "5e57e343-efdf-4698-83e9-bf0ad92f3796",
+  "streetNumber": "60",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "13057",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "EuroBalkan.TV",
+        "squuid": "5e57e3c6-04bb-4f59-9952-bdbc176b9528"
+      },
+      "squuid": "5e57e59f-badd-49b3-828e-6fb1d3b39ae4",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Langenhagen",
+  "pseudoCompany": false,
+  "street": "Emil-Berliner-Straße",
+  "name": "ML-TV Conzept GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7018-47fa-8036-dbd5c9c2a280",
+  "streetNumber": "13-17",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30851",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MyManou",
+        "squuid": "5be1a6b1-5c52-40a3-865d-4b2f9b774948"
+      },
+      "squuid": "5be1a6b9-9990-483f-88d1-3f186a430090",
+      "state": "active"
+    }
+  ],
+  "credits": "Bescheid der BLM vom 09.08.2013",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ML essentials GmbH",
+        "squuid": "5be1a6b6-893c-46ae-9995-4228602c497b"
+      },
+      "squuid": "5be1a6b8-7e21-4805-9454-413dfdb93886",
+      "state": "active"
+    }
+  ]
+}

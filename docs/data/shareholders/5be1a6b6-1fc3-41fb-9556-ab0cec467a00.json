@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Speyer",
+  "pseudoCompany": false,
+  "street": "Große Greifengasse",
+  "name": "Inberas GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1fc3-41fb-9556-ab0cec467a00",
+  "streetNumber": "17",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "67346",
+  "credits": "Beschluss der KEK vom 11.04.2017, Az.: KEK 906",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "APIS Management GmbH",
+        "squuid": "5be1a6b6-e263-47ad-8c5a-3f967878916e"
+      },
+      "squuid": "5be1a6b7-169b-48ab-9b6d-c96443399570",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Dinauer, Stefan",
+        "squuid": "5be1a6b6-9d8d-42d8-9e3a-8eb5a1ed2bcd"
+      },
+      "squuid": "5be1a6b7-a5ff-446f-8ae8-ee24a9087a7d",
+      "state": "active"
+    }
+  ]
+}

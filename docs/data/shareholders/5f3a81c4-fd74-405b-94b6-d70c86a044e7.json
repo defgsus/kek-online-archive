@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Solmsstr.",
+  "name": "RTL Hessen GmbH",
+  "naturalPerson": false,
+  "squuid": "5f3a81c4-fd74-405b-94b6-d70c86a044e7",
+  "controlDate": "2022-01-04T11:22:50.365Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60486",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rtl-hessen.de",
+        "squuid": "5f3a811f-f14c-4587-b586-55b268d336f2"
+      },
+      "squuid": "5f3a81d8-1066-47fb-b217-ed6b9f981ba5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RTL Television GmbH",
+        "squuid": "5be1a6b6-7542-41b4-ab53-17975a930698"
+      },
+      "squuid": "5f3a830b-5778-488b-90e5-4a31769308a1",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Provinostr. 52",
+  "name": "Augsburg Journal Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1943-4c94-a963-1814c9f29eda",
+  "controlDate": "2021-11-25T16:30:34.347Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86153",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Augsburg Journal",
+        "squuid": "5be1a6b1-6211-4917-a04f-d75b8011c452"
+      },
+      "squuid": "5be1a6b9-9006-4d64-abb7-1542b6d1d9eb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.augsburg-journal.de",
+        "squuid": "5be1a6b1-b054-4412-bace-5f294e2d7ff0"
+      },
+      "squuid": "5be1a6b9-f4c9-42cb-8abb-d248c0f3224f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schilffarth, Walter-Kurt",
+        "squuid": "5be1a6b6-931f-48e6-bd2e-897d2951000c"
+      },
+      "squuid": "5be1a6b8-830f-412a-a1e1-64e129854d6c",
+      "state": "active"
+    }
+  ]
+}

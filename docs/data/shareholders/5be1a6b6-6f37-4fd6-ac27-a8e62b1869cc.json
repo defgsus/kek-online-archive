@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Bad Saulgau",
+  "pseudoCompany": false,
+  "name": "Schwäbische Zeitung Saulgau GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-6f37-4fd6-ac27-a8e62b1869cc",
+  "controlDate": "2021-11-11T14:23:58.385Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "88348",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwäbische Zeitung (Ausgabe Bad Saulgau)",
+        "squuid": "5be1a6b1-799e-496b-95d4-0c481f2b50e6"
+      },
+      "squuid": "5be1a6b9-823c-43e9-9037-495ddb450598",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-03aa-42cb-80a4-0ff613adc591",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbische Zeitung Saulgau Verwaltungs-GmbH",
+        "squuid": "5ee9b972-6f52-4b16-9bc6-03fac1084bce"
+      },
+      "squuid": "5ee9b992-9f8a-46d3-b212-0699b897d0d4",
+      "state": "active"
+    }
+  ]
+}

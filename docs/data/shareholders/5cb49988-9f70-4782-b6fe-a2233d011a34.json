@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Elvirasteig",
+  "name": "Landes Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5cb49988-9f70-4782-b6fe-a2233d011a34",
+  "controlDate": "2022-01-06T16:13:35.622Z",
+  "streetNumber": "29",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "14163",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "TOP 100 Station",
+        "squuid": "5cb49964-8435-4d4d-a59e-bf4e1edd7f5c"
+      },
+      "squuid": "5cb49a4e-c36d-4033-a52e-53f0f5ae8d91",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.top100station.de",
+        "squuid": "5f96e980-434d-45c0-964b-4eac4803f1a4"
+      },
+      "squuid": "5f96e9bf-a543-4a45-a6f1-04ad97e46931",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Landes, Frank",
+        "squuid": "5cb49aec-30d0-484b-b831-81d88d006ca1"
+      },
+      "squuid": "5cb49b3b-6a59-4599-be2d-dfc372676bb3",
+      "state": "active"
+    }
+  ]
+}

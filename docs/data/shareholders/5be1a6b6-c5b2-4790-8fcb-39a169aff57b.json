@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Karl-Hofer-Straße 11",
+  "name": "Rimbach Verlag e.K.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c5b2-4790-8fcb-39a169aff57b",
+  "controlDate": "2021-11-26T15:46:43.568Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14163",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Berlin Programm",
+        "squuid": "5be1a6b1-0322-4ab5-887e-02d49206bde6"
+      },
+      "squuid": "5be1a6b9-9cd9-4b44-b80c-e12f64bd350d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.berlin-programm.de",
+        "squuid": "5be1a6b1-1632-4b18-bc04-febdb907c256"
+      },
+      "squuid": "5be1a6b9-0c05-4358-915d-19076f8253a5",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rimbach, Rainer R.",
+        "squuid": "5be1a6b6-1816-4aee-a469-aaa4ae961986"
+      },
+      "squuid": "5be1a6b8-a982-4e80-a5d5-9708b4014983",
+      "state": "active"
+    }
+  ]
+}

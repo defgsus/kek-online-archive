@@ -1,0 +1,61 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.7,
+      "held": {
+        "name": "MUXX.tv GmbH",
+        "squuid": "5be1a6b6-1926-4f70-a29e-9c6df363aff6"
+      },
+      "squuid": "5be1a6b8-6256-4127-8718-c05a7ee27544",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Neuwied",
+  "pseudoCompany": false,
+  "street": "Hofgründchen",
+  "name": "Jansen Plus GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-62a9-4bc1-8b40-6738e1386800",
+  "controlDate": "2021-12-14T17:13:40.052Z",
+  "streetNumber": "65",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "56565",
+  "credits": "Beschluss der KEK vom 10.10.2017, Az.: KEK 935",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gajewski-Jansen, Uwe",
+        "squuid": "5be1a6b6-bf24-4ec2-ac26-de61f4209d3f"
+      },
+      "squuid": "5be1a6b8-7c2f-48ae-9b0f-342b793c4e88",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Jansen Plus Verwaltungs GmbH",
+        "squuid": "5f117968-04f5-4302-a177-2dcec1077954"
+      },
+      "squuid": "5f117990-709d-47ae-849f-6fe50af3d05c",
+      "state": "active"
+    }
+  ]
+}

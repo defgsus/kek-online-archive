@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Fellbach",
+  "pseudoCompany": false,
+  "street": "Philipp-Reis-Straße",
+  "name": "Radio Kormista",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-79c3-42ad-954b-787f2ebcef44",
+  "streetNumber": "43",
+  "organizations": [
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70736",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Kormista",
+        "squuid": "5be1a6b1-f451-45e2-8734-cfb57a4378e9"
+      },
+      "squuid": "5be1a6b9-82a7-4b3b-aad9-9884043543c8",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Vogtland-Anzeiger Betriebs-GmbH & Co. KG",
+        "squuid": "5bfff26c-fed1-4db3-9d8f-bf9a6b3da45c"
+      },
+      "squuid": "5bfff392-03bd-49cf-917d-d73a377e936a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Chemnitz",
+  "pseudoCompany": false,
+  "street": "Brückenstr. 15",
+  "name": "Chemnitzer Verlag und Druck GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-cfcd-42de-a2aa-c349ee9aa887",
+  "controlDate": "2021-10-15T12:27:07.767Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "09111",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Freie Presse",
+        "squuid": "5be1a6b1-656c-471b-a4c4-6e5ed9ecf361"
+      },
+      "squuid": "5be1a6b9-606c-4adc-82a1-2d13f68600ac",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.freiepresse.de",
+        "squuid": "5be1a6b1-9556-46ac-901b-3c79f2dbdf57"
+      },
+      "squuid": "5be1a6b9-6a6e-4b6d-81fd-d97459b374d2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Vogtland-Anzeiger",
+        "squuid": "5be1a6b1-eb93-432b-8519-9280318790b6"
+      },
+      "squuid": "5ee73767-6ce7-4995-9dd9-e7d4b80b683e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Medien Union GmbH Ludwigshafen",
+        "squuid": "5be1a6b6-c7c8-4983-84f6-ada451aec436"
+      },
+      "squuid": "5be1a6b8-6584-45a1-bd97-cf6885a09900",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Verlag Freie Presse GmbH",
+        "squuid": "5ec7c4b3-d1bc-4c55-bea8-74500a3a3d05"
+      },
+      "squuid": "5ec7c4d3-f953-4784-8f24-b36d7909fd94",
+      "state": "active"
+    }
+  ]
+}

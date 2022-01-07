@@ -1,0 +1,95 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Wort & Bild Verlag Konradshöhe GmbH & Co KG",
+        "squuid": "5c4ecea1-ed74-4078-9449-fb2e2671fc19"
+      },
+      "squuid": "5c4ed910-1992-44fc-8fcd-78411082187a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Verlag Konradshöhe GmbH",
+        "squuid": "5eb3f240-e715-4f80-98a9-52bc74e67f34"
+      },
+      "squuid": "5eb3f320-cfa2-4a02-983a-e0bc718cd14b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Isartalmedien Beteiligungsgesellschaft mbH",
+        "squuid": "5eb3f3ae-1d34-46fb-a31c-89cd054781e1"
+      },
+      "squuid": "5eb3f441-0660-4514-a658-73ca9d825a42",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Baierbrunn",
+  "pseudoCompany": false,
+  "street": "Wolfratshauser Str.",
+  "name": "Isartalmedien GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5c4ed82a-a196-4c5d-92da-885a88f6c18a",
+  "controlDate": "2021-11-25T17:13:18.899Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82065",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Becker, Hartmut",
+        "squuid": "5c4ed8d9-bd8b-4af4-871b-7d18deb24188"
+      },
+      "squuid": "5c4ed967-a0d1-4d32-88ed-6d2fdce8d86a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Becker, Marc",
+        "squuid": "5c4ed8e4-c34b-4f72-96f0-671bea0acd3a"
+      },
+      "squuid": "5c4ed97b-03d8-45e6-b882-c92647f6148d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Gühring, Nina",
+        "squuid": "5c4ed8ed-b0d7-4674-9e19-8d21b9633a31"
+      },
+      "squuid": "5c4ed98c-57fd-42ec-acfe-64503bad9d67",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Isartalmedien Beteiligungsgesellschaft mbH",
+        "squuid": "5eb3f3ae-1d34-46fb-a31c-89cd054781e1"
+      },
+      "squuid": "5eb3f3d8-7a33-43f5-86bf-3e742ec1a9cb",
+      "state": "active"
+    }
+  ]
+}

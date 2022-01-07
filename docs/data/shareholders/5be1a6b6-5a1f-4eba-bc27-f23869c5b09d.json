@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Hallerstr. 27",
+  "name": "Stroetmann Verlag und Agentur GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5a1f-4eba-bc27-f23869c5b09d",
+  "controlDate": "2021-11-12T14:09:43.376Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30161",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schädelspalter",
+        "squuid": "5be1a6b1-b692-4a30-9422-9e672e4a49ff"
+      },
+      "squuid": "5be1a6b9-c74a-4700-ab3d-facb276fb8a8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schaedelspalter.de",
+        "squuid": "5be1a6b1-0721-4f1a-9c1e-01279957f66d"
+      },
+      "squuid": "5be1a6b9-9591-4eaf-be48-a351d7985eae",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "5be1a6b8-4062-4ce4-925f-8f0d2f4537f5",
+      "state": "active"
+    }
+  ]
+}

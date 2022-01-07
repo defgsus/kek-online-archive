@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Korbach",
+  "pseudoCompany": false,
+  "street": "Lengefelder Str. 6",
+  "name": "Wilhelm Bing Druckerei und Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6336-498f-9447-54589bb69edb",
+  "controlDate": "2021-11-18T14:58:14.890Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "34497",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Waldeckische Landeszeitung",
+        "squuid": "5be1a6b1-c07a-4f25-bbb3-95666bedc05c"
+      },
+      "squuid": "5be1a6b9-8d56-439d-a71a-e67172e58aa9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wlz-online.de",
+        "squuid": "5be1a6b1-6f92-43fa-9aec-e0473c00aa6a"
+      },
+      "squuid": "5be1a6b9-542c-4624-9324-e6a33a9e2dff",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "MBG Medien Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-d29e-400c-b3d1-1de422ecf822"
+      },
+      "squuid": "5be1a6b8-2f91-4ca3-b945-9c5eec4b350f",
+      "state": "active"
+    }
+  ]
+}

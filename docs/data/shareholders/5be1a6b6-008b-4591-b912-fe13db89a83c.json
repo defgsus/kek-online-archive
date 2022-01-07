@@ -1,0 +1,74 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "A+E Networks UK",
+        "squuid": "5be1a6b6-2857-4563-842e-f1285578a37a"
+      },
+      "squuid": "5be1a6b8-b7f0-4de4-b107-8bb200f17e76",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Sky UK Limited",
+        "squuid": "5be1a6b6-7edf-40f9-ba1f-b7b6882bc4dc"
+      },
+      "squuid": "5be1a6b8-56b6-49aa-91a1-4b80c653d1d0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Sky Ltd.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-008b-4591-b912-fe13db89a83c",
+  "controlDate": "2022-01-05T15:37:47.828Z",
+  "placeOfBusiness": "London, UK",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sky News",
+        "squuid": "5be1a6b1-c543-429b-b9d4-70a715e9b107"
+      },
+      "squuid": "5be1a6b9-fef9-433c-b44a-9521eb32dddc",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 15.03.2017, Az.: KEK 905",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Comcast Bidco Limited",
+        "squuid": "5c407afe-8008-48b9-8101-133daec8426a"
+      },
+      "squuid": "5c407bd8-33d9-428f-9206-b1aa2dc72f31",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f105246-8cbe-494e-8a6b-710d11af7152",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL West GmbH",
+        "squuid": "5be1a6b6-c6c8-4398-bed5-90bd83e35104"
+      },
+      "squuid": "5f1052c9-bce7-4955-8551-1c4e946741c5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL interactive GmbH",
+        "squuid": "5be1a6b6-83ed-4c73-98a7-1ddc01209e8e"
+      },
+      "squuid": "60b8a3e9-4416-49c3-a641-05c8ec05eafa",
+      "state": "active"
+    }
+  ],
+  "name": "www.rtl-west.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-04T11:27:14.422Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

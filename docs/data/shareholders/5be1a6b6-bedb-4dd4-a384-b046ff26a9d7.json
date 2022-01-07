@@ -1,0 +1,98 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 67.0,
+      "held": {
+        "name": "VRM Mittelhessen GmbH & Co KG",
+        "squuid": "5be1a6b6-9c81-4e27-8fd5-9a2ac9fddbdb"
+      },
+      "squuid": "5be1a6b8-c00e-4e06-b191-fc10412aa6c2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Rhein Main Verlags- & Verwaltungsgesellschaft mbH",
+        "squuid": "5ec3dead-ced3-409c-9341-ffc764376d50"
+      },
+      "squuid": "5ef47584-631b-4681-be60-453fdb0d3134",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.695,
+      "held": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "5ef60826-d704-4666-bc64-31a1932ff447",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gießen",
+  "pseudoCompany": false,
+  "street": "Am Urnenfeld 12",
+  "name": "Gießener Anzeiger Beteiligungs-GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-bedb-4dd4-a384-b046ff26a9d7",
+  "controlDate": "2021-10-18T14:19:17.567Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "35396",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zeitungsgruppe Mittelhessen GmbH & Co KG",
+        "squuid": "5be1a6b6-1976-47b4-b13a-bc5af3349f0d"
+      },
+      "squuid": "5be1a6b8-9712-48d3-871c-b725ad6f1ab1",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Rhein Main Verlags- & Verwaltungsgesellschaft mbH",
+        "squuid": "5ec3dead-ced3-409c-9341-ffc764376d50"
+      },
+      "squuid": "5ec3dec8-c16f-4193-b43a-2034bb63f214",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kasper-Semmler, Rita",
+        "squuid": "5dee68d7-ddf0-46ac-bd84-8433f905eba3"
+      },
+      "squuid": "5ec3ded7-409a-4491-9a93-aca7335a8553",
+      "state": "active"
+    }
+  ]
+}

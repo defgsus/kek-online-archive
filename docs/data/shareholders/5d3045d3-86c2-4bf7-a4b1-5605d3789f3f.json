@@ -1,0 +1,79 @@
+{
+  "state": "active",
+  "city": "Redmond (US)",
+  "pseudoCompany": false,
+  "name": "Microsoft Corp.",
+  "naturalPerson": false,
+  "squuid": "5d3045d3-86c2-4bf7-a4b1-5605d3789f3f",
+  "controlDate": "2021-12-14T16:49:31.983Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.msn.com",
+        "squuid": "5d3045c6-f56e-4065-8d0d-1033d917cffd"
+      },
+      "squuid": "5d304620-aef4-4f3b-b9ef-befe2ad5027c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 7.9,
+      "holder": {
+        "name": "The Vanguard Group, Inc.",
+        "squuid": "5be1a6b6-eb02-41f1-8b69-58db68c8db1f"
+      },
+      "squuid": "5d3ae54e-2b1f-4c7e-8da5-db5614c6d9b0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.51,
+      "holder": {
+        "name": "BlackRock, Inc.",
+        "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
+      },
+      "squuid": "5d3ae565-7f2b-453a-90ec-edbd09fc6006",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.28,
+      "holder": {
+        "name": "Fidelity Management & Research Company (FMR LLC)",
+        "squuid": "5be1a6b6-e4f9-429d-97ce-7d0673422728"
+      },
+      "squuid": "5d3ae580-ab66-43c1-b6f8-7f705f851932",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.09,
+      "holder": {
+        "name": "State Street Corporation",
+        "squuid": "5d3ae59d-b832-4477-93eb-3421c0f77b0b"
+      },
+      "squuid": "5d3ae5e9-a1f1-4377-b16e-aac9e55df770",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 78.22,
+      "holder": {
+        "name": "Streubesitz an der Microsoft Corp.",
+        "squuid": "5d3ae60e-18e6-4b66-bbc8-2ce3ec3baac5"
+      },
+      "squuid": "5d3ae63e-6497-4767-b167-021cc146b664",
+      "state": "active"
+    }
+  ]
+}

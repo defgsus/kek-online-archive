@@ -1,0 +1,33 @@
+{
+  "name": "Förderverein für ein Freies Radio Karlsruhe e.V.",
+  "pseudoCompany": false,
+  "squuid": "60a4f4e9-541f-4595-ba4d-551aae220f9f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "QUERFUNK Radiobetriebsgesellschaft mbH",
+        "squuid": "5be1a6b6-9892-4c6e-ad16-1ab2112664fd"
+      },
+      "squuid": "60a4f511-5062-4a7e-8169-154e96bc3072",
+      "state": "active"
+    }
+  ],
+  "city": "Karlsruhe",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

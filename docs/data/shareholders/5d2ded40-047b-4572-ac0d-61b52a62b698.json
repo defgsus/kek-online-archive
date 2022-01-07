@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Prinzenallee",
+  "name": "SPORTAL GmbH",
+  "naturalPerson": false,
+  "squuid": "5d2ded40-047b-4572-ac0d-61b52a62b698",
+  "controlDate": "2022-01-05T17:10:09.247Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40549",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sportal.de",
+        "squuid": "5d2dec15-e781-4e2f-ad17-a00e2a8e1a66"
+      },
+      "squuid": "5d2ded93-647d-4331-998f-8fd889619032",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Perform Content Services Ltd.",
+        "squuid": "5d2deefe-616b-4a8b-9275-be9d06bbfc94"
+      },
+      "squuid": "5d2def1a-05f3-4b17-892b-c599706e891d",
+      "state": "active"
+    }
+  ]
+}

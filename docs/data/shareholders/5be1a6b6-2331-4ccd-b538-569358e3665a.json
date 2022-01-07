@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Hansastraße",
+  "name": "Radio Feierwerk e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2331-4ccd-b538-569358e3665a",
+  "streetNumber": "39-41",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "81373",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Feierwerk",
+        "squuid": "5be1a6b1-c9c6-4595-a6c4-02630711e1c7"
+      },
+      "squuid": "5be1a6b9-d35d-4685-83d6-04340498fd86",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.feierwerk.de",
+        "squuid": "5f92ba12-a404-4b14-be4a-affac14ba346"
+      },
+      "squuid": "5f92ba4c-46bf-4218-92b8-891fa6c6eca5",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM"
+}

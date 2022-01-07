@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Ulm",
+  "pseudoCompany": false,
+  "street": "Frauenstraße 77",
+  "name": "NPG Digital GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-32e0-4347-b17f-dcdba478c0a5",
+  "controlDate": "2021-05-12T11:48:49.705Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "89073",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.swp.de",
+        "squuid": "5be1a6b1-8297-44cd-9ba3-87b6cf725dba"
+      },
+      "squuid": "5be1a6b9-b2f4-4c9a-a1c6-0fead66ed2ee",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tagblatt.de",
+        "squuid": "5be1a6b1-3ceb-4f4c-b71f-67d4ce08970d"
+      },
+      "squuid": "5d10da99-c13d-43c0-9a04-0d02b641cc89",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.neckar-chronik.de",
+        "squuid": "618d3ba5-eb3b-4a6e-b3e9-62f2939640c1"
+      },
+      "squuid": "618d3bd9-8276-42d7-ae1e-1215537de163",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Neue Pressegesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-9a6a-4235-a5d2-f080b726ddef"
+      },
+      "squuid": "5be1a6b8-9b1d-4682-9f04-6862b434bc99",
+      "state": "active"
+    }
+  ]
+}

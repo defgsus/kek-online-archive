@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Haar",
+  "pseudoCompany": false,
+  "street": "Münchner Straße",
+  "name": "netfm GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-57a0-4178-a068-afdcf85af4c4",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "85540",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "net fm",
+        "squuid": "5be1a6b1-e166-4db5-8d0a-d745f32c4a62"
+      },
+      "squuid": "5be1a6b9-678c-4773-b303-09eb49bae062",
+      "state": "active"
+    }
+  ],
+  "credits": "Website der BLM, Abruf am 12.01.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Aigner, Thomas",
+        "squuid": "5be1a6b6-b335-4281-8d36-ab9ee182ffbf"
+      },
+      "squuid": "5be1a6b7-b337-484f-b7e6-762003b2c8fd",
+      "state": "active"
+    }
+  ]
+}

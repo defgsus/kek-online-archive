@@ -1,0 +1,82 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Radio Leverkusen GmbH & Co. KG",
+        "squuid": "5be1a6b6-d425-4ae7-ab48-785336c7af25"
+      },
+      "squuid": "5be1a6b7-bd28-4621-ac61-9ee2c240ccbf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Rundfunk-Holding Leverkusen Verwaltungs- und Beteiligungs GmbH",
+        "squuid": "5f16d8fc-4b3e-4583-bddc-0dea712f2c0b"
+      },
+      "squuid": "5ff6e0bc-8ec4-4734-821c-e6a3b79538cf",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Amsterdamer Str.",
+  "name": "Rundfunk-Holding Leverkusen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d215-4285-917b-c45b6439c541",
+  "controlDate": "2021-12-22T15:21:27.893Z",
+  "streetNumber": "192",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "50735",
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 14.0,
+      "holder": {
+        "name": "PFD Pressefunk GmbH",
+        "squuid": "5be1a6b6-761b-43ab-b113-3d2fb927889c"
+      },
+      "squuid": "5be1a6b8-9a91-4c29-a286-5b2af42869a8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 86.0,
+      "holder": {
+        "name": "DuMont Mediatainment GmbH & Co. KG",
+        "squuid": "5be1a6b6-40fa-4f5d-b8d7-34e7e5c1f0f2"
+      },
+      "squuid": "5c4194a8-4924-493f-a4d6-7d826ed6fd95",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Rundfunk-Holding Leverkusen Verwaltungs- und Beteiligungs GmbH",
+        "squuid": "5f16d8fc-4b3e-4583-bddc-0dea712f2c0b"
+      },
+      "squuid": "5f16db21-0a7d-49c5-810b-354ad795f529",
+      "state": "active"
+    }
+  ]
+}

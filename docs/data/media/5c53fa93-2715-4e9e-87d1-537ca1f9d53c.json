@@ -1,0 +1,49 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "Dezember 2018",
+  "squuid": "5c53fa93-2715-4e9e-87d1-537ca1f9d53c",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.mdr.de/tweens/index.html",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Mitteldeutscher Rundfunk (MDR)",
+        "squuid": "5be1a6b6-bd02-4fb7-8bd9-8294ee3500fb"
+      },
+      "squuid": "5c53fbfb-6e81-41b4-82e8-1f1189ef7598",
+      "state": "active"
+    }
+  ],
+  "name": "Tweens",
+  "rfPublicPrivate": true,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "rfDirector": "Karola Wille",
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "description": "Radioprogramm für Kinder zwischen 8 und 13 Jahren mit Musik, Informationen und Wissenswertem aus der Lebenswelt der \"Tweens\"",
+  "accessibilityEmail": "Publikumsservice@mdr.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

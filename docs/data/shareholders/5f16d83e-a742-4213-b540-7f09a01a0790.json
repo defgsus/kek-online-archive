@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Radio Leverkusen GmbH & Co. KG",
+        "squuid": "5be1a6b6-d425-4ae7-ab48-785336c7af25"
+      },
+      "squuid": "5f16d8b3-8da8-4dce-9104-bd3f3c7a2af7",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leverkusen",
+  "pseudoCompany": false,
+  "street": "Breidenbachstr.",
+  "name": "Radio Leverkusen GmbH",
+  "naturalPerson": false,
+  "squuid": "5f16d83e-a742-4213-b540-7f09a01a0790",
+  "controlDate": "2021-12-22T15:19:40.404Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "51373",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Radio Leverkusen GmbH & Co. KG",
+        "squuid": "5be1a6b6-d425-4ae7-ab48-785336c7af25"
+      },
+      "squuid": "5ff6e026-5b90-4bd8-8176-b8b64bc40681",
+      "state": "active"
+    }
+  ]
+}

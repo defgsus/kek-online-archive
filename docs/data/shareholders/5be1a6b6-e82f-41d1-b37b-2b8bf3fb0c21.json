@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Mehringdamm",
+  "name": "FFT Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e82f-41d1-b37b-2b8bf3fb0c21",
+  "streetNumber": "53-55",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "10961",
+  "credits": "Beschluss der KEK vom 13.10.2009, Az.: KEK 584",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 68.0,
+      "holder": {
+        "name": "Horsthemke, Frank Lukas",
+        "squuid": "5be1a6b6-66cd-40e9-95ea-97a508a6abb5"
+      },
+      "squuid": "5be1a6b7-916e-4328-901d-9e94c168fbe7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Gamlich, Thomas",
+        "squuid": "5be1a6b6-19e5-4744-bcd5-7d17e7334b6e"
+      },
+      "squuid": "5be1a6b7-d7d4-4bdf-911c-0be0ca328dbe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Glinski, Frank",
+        "squuid": "5be1a6b6-fe90-4f8a-a376-2651c191f804"
+      },
+      "squuid": "5be1a6b7-0e15-4386-81d7-1d4b361005d5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Schmökel, Ingo",
+        "squuid": "5be1a6b6-4e4f-473d-95da-3747ffd87241"
+      },
+      "squuid": "5be1a6b7-3b4f-4f55-8787-2762fcf4740a",
+      "state": "active"
+    }
+  ]
+}

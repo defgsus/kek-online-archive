@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Speyer",
+  "pseudoCompany": false,
+  "street": "Beethovenstr. 4",
+  "name": "Verlagshaus Speyer GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c351-4db6-b297-07432027937c",
+  "controlDate": "2021-10-14T15:43:35.570Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "67346",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Evangelischer Kirchenbote",
+        "squuid": "5be1a6b1-c171-4671-ba45-1f8c31cc4184"
+      },
+      "squuid": "5be1a6b9-a7ac-4a4c-aa1c-8636df2588ff",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.evangelischer-kirchenbote.de",
+        "squuid": "5be1a6b1-00a9-4178-87a5-8ab1acb0a1b7"
+      },
+      "squuid": "5be1a6b9-1890-48f1-bd84-b55eb0acc47b",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.1,
+      "holder": {
+        "name": "Evangelische Kirche in der Pfalz",
+        "squuid": "5be1a6b6-de4a-4f92-983d-e76ff68170ad"
+      },
+      "squuid": "5be1a6b8-5316-4d5d-9db8-fe94bcad1f79",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.9,
+      "holder": {
+        "name": "Evangelischer Presseverband in der Pfalz e.V.",
+        "squuid": "5be1a6b6-7bd1-465f-816d-7e36cf3a9216"
+      },
+      "squuid": "5be1a6b8-8af8-473d-a4ff-8b3e4fb6aba6",
+      "state": "active"
+    }
+  ]
+}

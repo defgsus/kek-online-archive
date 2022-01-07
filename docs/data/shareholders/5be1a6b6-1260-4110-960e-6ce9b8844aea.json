@@ -1,0 +1,95 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Recklinghäuser Lokalfunk Betriebs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5f180b65-a187-4611-9e18-dbf290eac985"
+      },
+      "squuid": "60a38fd6-dafe-4e55-9177-cf8fbee2049b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Marl",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Kampstraße",
+  "name": "Recklinghäuser Lokalfunk Betriebsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "co": "Recklinghäuser Zeitung ",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1260-4110-960e-6ce9b8844aea",
+  "controlDate": "2022-01-03T11:56:50.530Z",
+  "streetNumber": "84 b",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "45772",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Vest",
+        "squuid": "5be1a6b1-0843-4ab7-8404-a2469237858c"
+      },
+      "squuid": "5be1a6b9-120f-4735-b25a-83f71a248881",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiovest.de",
+        "squuid": "5f180a3c-edd5-46fe-9446-ecd79101dfbb"
+      },
+      "squuid": "5f180b08-9886-4272-9313-f6c4911072fd",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Recklinghäuser Lokalfunk Betriebs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5f180b65-a187-4611-9e18-dbf290eac985"
+      },
+      "squuid": "5f180c54-93c4-414f-b6a6-00acfc75be0c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Kreis Recklinghausen",
+        "squuid": "5f180c87-b3f5-4106-ace1-c46bfae17790"
+      },
+      "squuid": "5f180cbb-ee59-4705-94c1-724dc4c70474",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Medienhaus Bauer GmbH & Co. KG",
+        "squuid": "5be1a6b6-e95a-421a-a353-a27cde8b4377"
+      },
+      "squuid": "60a38f41-a82e-4b0a-b01e-645122201d21",
+      "state": "active"
+    }
+  ]
+}

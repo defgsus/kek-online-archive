@@ -1,0 +1,77 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.3022,
+      "held": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "5ef607af-a976-49b8-aa6a-08d63417770a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hanau",
+  "pseudoCompany": false,
+  "street": "Salisweg",
+  "name": "Bauer Rundfunkbeteiligungen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5ef60686-1490-4621-bdfb-848921efb9db",
+  "controlDate": "2021-12-07T12:34:17.812Z",
+  "streetNumber": "82",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "63452",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bauer Verwaltung GmbH",
+        "squuid": "5f081ec4-87c8-4d37-a7b7-f787bf95eb91"
+      },
+      "squuid": "5f081eef-9bb9-4905-8a30-1fd53336faab",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.0,
+      "holder": {
+        "name": "Bauer, Arnold Horst",
+        "squuid": "5be1a6b6-0e6b-427a-b536-21208b620320"
+      },
+      "squuid": "5f081f0e-8e95-49ab-9ebd-269a635d7c00",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 96.0,
+      "holder": {
+        "name": "Bauer, Thomas",
+        "squuid": "5df8fa89-ac37-4864-a73b-a144c9488212"
+      },
+      "squuid": "5f081f1b-2c9a-4774-af49-36d9cc5541c7",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.085,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Hagen mbH & Co. KG",
+        "squuid": "5be1a6b6-4d98-4260-b675-0c6539fa04f4"
+      },
+      "squuid": "5be1a6b8-cc3f-4145-912b-e22a32f6e8e5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Hagen mbH",
+        "squuid": "5f16b6e4-116d-4b53-9173-dd222df6f7d0"
+      },
+      "squuid": "5ff5a5b0-0be6-4e59-b703-2968d76ec115",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hagen",
+  "pseudoCompany": false,
+  "street": "Am Pfannenofen",
+  "name": "Hagener Versorgungs- und Verkehrsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d2c4-4d39-a353-f6df09fdf92d",
+  "controlDate": "2021-12-22T13:10:24.296Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "58095",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Hagen",
+        "squuid": "5f16b9de-035d-4dd3-8104-9eccebb90e19"
+      },
+      "squuid": "5f16ba0c-88f0-45e6-a62e-cb363edead16",
+      "state": "active"
+    }
+  ]
+}

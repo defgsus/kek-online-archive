@@ -1,0 +1,106 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Nordendstraße",
+  "name": "Your Family Entertainment AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9886-4c70-bfdf-c8c0fdbe4fa8",
+  "otherMediaActivities": "",
+  "controlDate": "2021-12-07T14:47:05.406Z",
+  "streetNumber": "64",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80801",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Fix & Foxi",
+        "squuid": "5be1a6b1-25c2-49ab-91bc-c7cfbc95b90f"
+      },
+      "squuid": "5be1a6b9-254e-46fb-be88-3d9e5c296267",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "RIC",
+        "squuid": "5be1a6b1-fffe-491b-b6d1-d85b6e429100"
+      },
+      "squuid": "5be1a6b9-6285-4b36-9ffb-f96c45ac3f4a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fixundfoxi.tv",
+        "squuid": "5f218cf0-3ce3-4f56-bd12-e2e5c1a770e2"
+      },
+      "squuid": "5f218d30-06b5-42ea-b3a2-fdbfc261ffa4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rictv.de",
+        "squuid": "5f7efe23-7901-41d2-b449-2539d1ffcfb0"
+      },
+      "squuid": "5f7efe79-d3b1-4395-93f6-c07db594e961",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 21.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 67.96,
+      "holder": {
+        "name": "F&M Film und Medien Beteiligungs GmbH",
+        "squuid": "5be1a6b6-064d-4865-b9cf-1ed14ee01812"
+      },
+      "squuid": "5be1a6b7-3643-4f15-9a1b-c82f45c1b557",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.18,
+      "holder": {
+        "name": "Piëch, Dr. Stefan",
+        "squuid": "5be1a6b6-055f-4e91-a6a7-ae5a8bd27496"
+      },
+      "squuid": "5be1a6b7-d03d-4636-8065-ee9285b4bd80",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.59,
+      "holder": {
+        "name": "Streubesitz an der Your Family Entertainment AG",
+        "squuid": "5be1a6b6-76e1-4797-8023-921035b96072"
+      },
+      "squuid": "5be1a6b7-bc71-4991-b3c4-89f5e64f913d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 13.27,
+      "holder": {
+        "name": "Holler-Stiftung",
+        "squuid": "5be1a6b6-8d22-4aef-a520-355f61290a87"
+      },
+      "squuid": "5e70afbe-9625-4610-9746-c7c2f65e67ad",
+      "state": "active"
+    }
+  ]
+}

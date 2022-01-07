@@ -1,0 +1,57 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Berliner Newsroom GmbH",
+        "squuid": "5be1a6b6-3a96-4515-bc7a-d480600d9517"
+      },
+      "squuid": "5be1a6b8-9625-4d84-b698-1386ff9f8977",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Amsterdamer Straße",
+  "name": "Newsroom Holding GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-dea3-41e0-846f-2f8029ee5d79",
+  "controlDate": "2020-05-12T10:41:29.229Z",
+  "streetNumber": "192",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "50735",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Berliner Verlag GmbH",
+        "squuid": "5be1a6b6-71e3-4db3-a1ea-dcd57648af78"
+      },
+      "squuid": "5e1f39c2-9681-449f-bc8c-357701028161",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Newsroom Holding Geschäftsführungs GmbH",
+        "squuid": "5eba7db0-8958-41a9-8d1b-3e7f6c1418dd"
+      },
+      "squuid": "5eba7dd4-a42a-475e-a3c2-2d4c985963aa",
+      "state": "active"
+    }
+  ]
+}

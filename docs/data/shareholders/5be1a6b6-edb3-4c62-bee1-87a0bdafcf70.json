@@ -1,0 +1,89 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "note": "Stand: 1/2019",
+  "pseudoCompany": false,
+  "street": "Alfred-Nobel-Straße",
+  "name": "MEGA Radio GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-edb3-4c62-bee1-87a0bdafcf70",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "86156",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mega Radio (BLM)",
+        "squuid": "5be1a6b1-7bdf-484d-b9fd-9a48b986ef50"
+      },
+      "squuid": "5be1a6b9-8032-4fc1-9cfe-23ba3be86d0d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MEGA 80´s (Sachsen)",
+        "squuid": "5d0a1d4a-e49f-4367-b30d-36dec5a11c82"
+      },
+      "squuid": "5d0a1e68-a26f-40a7-bd40-33669f3550cb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MEGA Radio",
+        "squuid": "5d1b6ca0-045c-4642-98e5-db9ba564cbc0"
+      },
+      "squuid": "5d1b6e97-0d1c-4495-bf8b-94db150dced8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MEGA RADIO Berlin",
+        "squuid": "5e57daf9-1c2a-45af-8b67-a0e5989a5d39"
+      },
+      "squuid": "5e57dc7d-8805-440b-9de4-820a5a276db0",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH, SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Peter Valentino Medien GmbH",
+        "squuid": "5be1a6b6-cf54-4147-94f0-03a023d0fe47"
+      },
+      "squuid": "5be1a6b8-153a-40dd-b1f4-07f620ba2930",
+      "state": "active"
+    }
+  ]
+}

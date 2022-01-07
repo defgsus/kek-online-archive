@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Lohne",
+  "pseudoCompany": false,
+  "street": "Bernardstr.",
+  "name": "regiotv GmbH",
+  "naturalPerson": false,
+  "squuid": "5f05e327-6df3-46cb-b2d1-5dad06728230",
+  "controlDate": "2022-01-03T15:40:09.323Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "49393",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.regiotv.de",
+        "squuid": "5f05e2cf-86d0-4a3d-93d8-79887ab63e17"
+      },
+      "squuid": "5f05e344-5b46-4ace-a4e9-9c9a4847dcae",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.9,
+      "holder": {
+        "name": "OM-Mediengruppe KG",
+        "squuid": "5be1a6b6-56b3-4bcb-a277-35106b48b3d0"
+      },
+      "squuid": "5f05e4eb-146d-451e-80b9-10d14930a824",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.9,
+      "holder": {
+        "name": "Bünker, Carl",
+        "squuid": "5f05e44f-f472-4e0e-9b54-9e6cbf6c9700"
+      },
+      "squuid": "5f05e4f9-8a17-4cb8-9096-b35634994ebc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "Fürste, Irene",
+        "squuid": "5f05e45e-3257-418f-b22f-b85841044886"
+      },
+      "squuid": "5f05e506-818c-4cd8-8544-f46ba551d131",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "Heidemann, Thomas",
+        "squuid": "5f05e474-b972-4ef5-9d19-604dee194960"
+      },
+      "squuid": "5f05e513-5a05-45fd-b218-1782647f09a6",
+      "state": "active"
+    }
+  ]
+}

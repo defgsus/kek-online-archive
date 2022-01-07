@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Achim",
+  "pseudoCompany": false,
+  "street": "Obernstr.",
+  "name": "Medien Beteiligungs- und Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5c4f1138-fe91-4aad-b3a6-778e6882ca2b",
+  "streetNumber": "63",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "28832",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hackmack, Meyer KG",
+        "squuid": "5be1a6b6-c5e8-4aab-b88d-a72ff7b3170d"
+      },
+      "squuid": "5c4f11d7-fb3e-4726-bf59-b71c8afd0945",
+      "state": "active"
+    }
+  ]
+}

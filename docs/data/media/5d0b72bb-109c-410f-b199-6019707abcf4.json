@@ -1,0 +1,67 @@
+{
+  "rfRepresentative": "Ralf Julke, Ratrick Kulow, Robert Dobschütz",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "2014",
+  "rfFreePay": true,
+  "squuid": "5d0b72bb-109c-410f-b199-6019707abcf4",
+  "organization": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "accessibilityUrl": "https://www.l-iz.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Mitteldeutsche Online Medien Ltd.",
+        "squuid": "5d0b73ef-ed9f-45da-b52d-f59d68fec361"
+      },
+      "squuid": "5d0b741a-93de-4b9a-b75f-181d0f83017e",
+      "state": "active"
+    }
+  ],
+  "name": "Leipziger Internet Zeitung - www.l-iz.de",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "controlDate": "2021-05-07T09:39:23.356Z",
+  "rfCategory": {
+    "squuid": "5be1a6ad-063c-4208-94e1-5216fef7a724",
+    "name": "Vollprogramm",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "description": "- ausschließliche Verbreitung über web www.l-iz.de\n- lokales Fernsehinformationsprogramm mit dem Schwerpunkt lokaler Berichterstattung aus dem Stadtgebiet Leipzig und Umgebung",
+  "rfLicenseUntil": "31.03.2022",
+  "rfLicensed": "03.06.2014",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.04.2014",
+  "accessibilityEmail": "redaktion@l-iz.de"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Monheim",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-7bee-4bf4-aa12-a9fd97980e47",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.7,
+      "held": {
+        "name": "Lokalradio Mettmann Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-3934-491c-92a0-1bac8a54065b"
+      },
+      "squuid": "5be1a6b7-07d8-4bf3-bde9-a688ee05962f",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

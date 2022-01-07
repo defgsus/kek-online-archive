@@ -1,0 +1,81 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "TV Bayern GmbH Bayerische Lokal-Fernsehprogramm Gesellschaft",
+        "squuid": "5be1a6b6-515a-406b-b899-999e085ca150"
+      },
+      "squuid": "5f8d6cec-a8bc-4402-ac48-ae70d946ac30",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Würzburg",
+  "pseudoCompany": false,
+  "street": "Mergentheimer Straße",
+  "name": "TV Mainfranken GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5caf546f-54d0-46eb-98a8-99af13919aff",
+  "controlDate": "2022-01-07T10:40:37.752Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "97082",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "tvm - Fernsehen für Mainfranken (TV Mainfranken)",
+        "squuid": "5caf53d2-298c-4319-8fcb-a16f661dc968"
+      },
+      "squuid": "5caf54a7-fbe7-437d-b7e4-0d8df4740297",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvmainfranken.de",
+        "squuid": "5f804e02-c6a6-4e18-8a59-da48afd2be97"
+      },
+      "squuid": "5f804e3f-d2e3-4e01-ba5e-1e614d6585f7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "TV Mainfranken Verwaltungs GmbH",
+        "squuid": "5f804ec8-2bae-4200-bde9-4d34b273bf20"
+      },
+      "squuid": "5f804f38-1d8e-4899-af82-17c943eac7f8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG",
+        "squuid": "5efef438-7c82-454e-beb9-493d1f5ec407"
+      },
+      "squuid": "5f80517b-9d11-4c4d-b053-ac0a299a66c0",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "TVF Fernsehen in Franken Programm GmbH",
+        "squuid": "5be1a6b6-494c-479e-b840-fd16916f9cc7"
+      },
+      "squuid": "5be1a6b7-42d6-4052-8922-02206bcf0fda",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.37,
+      "held": {
+        "name": "dpa Deutsche Presse Agentur GmbH",
+        "squuid": "5be1a6b6-d7c9-45c5-99de-2acb723d2e72"
+      },
+      "squuid": "5be1a6b8-acfd-4421-bbf7-330c90b9f8b5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "Funkhaus Nürnberg Studiobetriebs-GmbH",
+        "squuid": "5be1a6b6-01da-4c86-8564-5246716290f4"
+      },
+      "squuid": "5ce55f81-b887-4148-8a44-e5511972324f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Pretzfelder Str.",
+  "name": "Neue Welle Franken - Antenne Nürnberg Hörfunkprogrammgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-96a7-4bcb-a4f1-35aa6710c5d5",
+  "controlDate": "2021-11-22T15:33:34.614Z",
+  "streetNumber": "7-11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "90425",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Charivari Nürnberg 98,6",
+        "squuid": "5be1a6b1-161d-4778-84ef-e0a7384e4e78"
+      },
+      "squuid": "5ca755ee-e3d9-4038-bf6e-a0425e900eb9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 8.71,
+      "holder": {
+        "name": "Neue Welle Franken - Antenne Nürnberg Beteiligungs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5be1a6b6-d158-42de-a3e5-aefdb7a15325"
+      },
+      "squuid": "5eff1e6e-435c-4427-93ab-2b9549f8d31e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SR Broadcast Management GmbH & Co. KG",
+        "squuid": "5eeb6bb9-7b98-4b92-9235-53f76ae93224"
+      },
+      "squuid": "5eff1e83-7b82-457c-a1d2-68580c19d0fd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 91.29,
+      "holder": {
+        "name": "Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG",
+        "squuid": "5efef438-7c82-454e-beb9-493d1f5ec407"
+      },
+      "squuid": "5eff1e92-7cd8-48e7-b3b9-c3d3e5f41eba",
+      "state": "active"
+    }
+  ]
+}

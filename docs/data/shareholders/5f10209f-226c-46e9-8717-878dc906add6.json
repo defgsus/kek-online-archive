@@ -1,0 +1,31 @@
+{
+  "name": "Streubesitz an der Deutschen Vermögensberatung AG",
+  "pseudoCompany": true,
+  "squuid": "5f10209f-226c-46e9-8717-878dc906add6",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "held": {
+        "name": "Deutsche Vermögensberatung AG ",
+        "squuid": "5f02dd72-8c1b-4faa-a1b0-236f43af03f4"
+      },
+      "squuid": "5f1020fb-ca79-48e6-b35a-cabcb162f506",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

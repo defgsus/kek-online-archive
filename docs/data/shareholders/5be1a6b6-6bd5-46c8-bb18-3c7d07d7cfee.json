@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "city": "Würzburg",
+  "pseudoCompany": false,
+  "street": "Kardinal-Döpfner-Platz",
+  "name": "Diözese Würzburg",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6bd5-46c8-bb18-3c7d07d7cfee",
+  "controlDate": "2020-06-17T14:32:57.645Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "97070",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Würzburger katholisches Sonntagsblatt",
+        "squuid": "5be1a6b1-8539-4822-b4dc-24f7a98a4f6c"
+      },
+      "squuid": "5be1a6b9-8f77-495b-88ec-813ce5e60dad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sobla.de",
+        "squuid": "5be1a6b1-56a9-4966-a0ea-6022472850dd"
+      },
+      "squuid": "5be1a6b9-b990-4f54-8c1d-16f175680b22",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

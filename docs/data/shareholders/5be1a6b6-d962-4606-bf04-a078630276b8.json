@@ -1,0 +1,112 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.34,
+      "held": {
+        "name": "Funkhaus Regensburg GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-d53d-429c-b17b-21d935c65e5b"
+      },
+      "squuid": "5be1a6b7-c5a5-4ea7-9ecf-9334c6630187",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Funkhaus Regensburg GmbH",
+        "squuid": "5f902dc1-8fee-40ae-88c5-9abb0e9cc356"
+      },
+      "squuid": "5fac05cb-3bf2-42e7-b8cb-56fda7389df5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Regensburg",
+  "pseudoCompany": false,
+  "street": "Lilienthalstr.",
+  "name": "Radio Donauspatz Programmanbieter GmbH & Co. Hörfunk KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d962-4606-bf04-a078630276b8",
+  "controlDate": "2021-12-01T16:41:34.479Z",
+  "streetNumber": "3c",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "93049",
+  "credits": "BLM (Hrsg.) (2012): Wirtschaftliche Verflechtungen und Konkurrenz der Medien in Bayern, S. 205.",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Aktuelle Welle Westliches Niederbayern Programm und Werbe GmbH",
+        "squuid": "5be1a6b6-15b3-4228-8660-7f53ca3bcca4"
+      },
+      "squuid": "5c8109cf-f438-4b3d-a84a-e1f8477b8a97",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Donauspatz Programmanbieter GmbH",
+        "squuid": "5f903128-dcca-4cd9-bfda-d38a472ba051"
+      },
+      "squuid": "5f903173-3ee3-467b-bd7a-5c568d729460",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5f9032f5-96ce-47b3-bf58-ed7aa218f372",
+      "state": "active"
+    }
+  ]
+}

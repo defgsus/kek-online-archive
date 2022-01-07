@@ -1,0 +1,91 @@
+{
+  "state": "active",
+  "city": "Siegen",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Tiergartenstr.",
+  "name": "Radio Siegen Betriebsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-2881-47fa-9aff-4183c88398dd",
+  "controlDate": "2022-01-03T10:56:10.175Z",
+  "streetNumber": "37",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "57072",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Siegen",
+        "squuid": "5be1a6b1-9cfa-4695-acaa-068be80974c8"
+      },
+      "squuid": "5be1a6b9-4572-46a3-b477-15bc6a31b95c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiosiegen.de",
+        "squuid": "5f1815fa-c1bc-4f18-b408-adbba598d665"
+      },
+      "squuid": "5f181734-840f-4e34-8fdc-7699d2d701e5",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Lokalfunk Siegen Beteiligungsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-8f90-42fc-9b85-291e5f15af94"
+      },
+      "squuid": "5be1a6b7-85be-4d8d-bf43-89c08703b13b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Betriebs- und Beteiligungsgesellschaft Kreis Siegen-Wittgenstein mbH",
+        "squuid": "5be1a6b6-17f6-4e60-80db-2cbd04870ace"
+      },
+      "squuid": "5be1a6b7-bc5f-42f8-bca8-9f8535552256",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Kommunale Entwicklungsgesellschaft Siegen mbH",
+        "squuid": "5be1a6b6-c188-4118-ade0-399713edcd91"
+      },
+      "squuid": "5be1a6b7-fbed-4524-a25f-fab2a296cb94",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Siegen Betriebsgesellschaft-Verwaltungs-GmbH",
+        "squuid": "5f1816c7-3cf8-43f1-ad26-0b2d49f5f545"
+      },
+      "squuid": "5f1817b4-9ea6-4029-9aec-b3355ff19870",
+      "state": "active"
+    }
+  ]
+}

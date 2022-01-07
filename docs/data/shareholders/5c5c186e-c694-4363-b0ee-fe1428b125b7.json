@@ -1,0 +1,58 @@
+{
+  "state": "active",
+  "city": "Guben",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Platanenstraße",
+  "name": "Video & TV GmbH Kurt Bulke",
+  "naturalPerson": false,
+  "squuid": "5c5c186e-c694-4363-b0ee-fe1428b125b7",
+  "controlDate": "2021-12-15T16:34:01.854Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "03172",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "NWG - Neiße Welle Guben",
+        "squuid": "5c5c18e6-4034-4992-aaaa-e2364a355dab"
+      },
+      "squuid": "5c5c1a7d-3043-4e9a-b91c-1dd648ff67b2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.neissewelleguben.de",
+        "squuid": "5f3650f0-253e-4679-a305-d05f1f1cc116"
+      },
+      "squuid": "5f36514b-626e-4237-be76-5618eef9a476",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bulke, Alfred",
+        "squuid": "5c5c1849-89ba-4241-9997-65c4faab4345"
+      },
+      "squuid": "5c5c1af6-05b6-4cdb-b0ac-300ea3b158af",
+      "state": "active"
+    }
+  ]
+}

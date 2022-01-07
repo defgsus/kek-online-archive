@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Elisabethstraße",
+  "name": "MMCD NEW MEDIA GmbH",
+  "naturalPerson": false,
+  "squuid": "5bf67afa-4cd1-4f8f-b344-9ab1cb556e20",
+  "controlDate": "2022-01-05T12:06:28.661Z",
+  "streetNumber": "42",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40217",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wissen.de",
+        "squuid": "5be1a6b1-972c-4d2a-bdcb-f68241d54a63"
+      },
+      "squuid": "5bf67b11-7719-4a46-9346-3cf68c0e4cfa",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.scinexx.de",
+        "squuid": "5bf67c3a-b347-4ccf-be92-b3cff18d79de"
+      },
+      "squuid": "5bf67c96-c2d6-4a72-ac22-867b682ea680",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Frater, Harald",
+        "squuid": "5bf67b80-c87a-4fc1-a4b8-7de9856c8c9a"
+      },
+      "squuid": "5bf67b9b-a2c4-44db-ac6f-33f27ea950d4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Konradin Mediengruppe GmbH",
+        "squuid": "5be1a6b6-1008-4437-b7e6-9d9c26b7f27d"
+      },
+      "squuid": "5bf67bb5-abdd-492e-acb5-22a4e2ec4c6d",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "Aabenraa",
+  "pseudoCompany": false,
+  "street": "Skibbroen 4",
+  "name": "Bund Deutscher Nordschleswiger",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a28f-44e8-a6e4-b2bb4f266e41",
+  "controlDate": "2020-05-15T13:07:48.121Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "6200",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Der Nordschleswiger",
+        "squuid": "5be1a6b1-05a3-499f-bdd4-34b95d873fa3"
+      },
+      "squuid": "5be1a6b9-6100-4850-898d-aecaaa84a49f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nordschleswiger.dk",
+        "squuid": "5be1a6b1-57ea-446e-bd03-35c65b6fb4ec"
+      },
+      "squuid": "5be1a6b9-eba1-4dba-b033-560ff81c4585",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

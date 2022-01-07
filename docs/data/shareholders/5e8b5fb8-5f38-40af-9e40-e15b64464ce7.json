@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Prisma Plus Gesellschaft für Beteiligungen mbH & Co. KG",
+        "squuid": "5be1a6b6-6021-46f3-afb4-8a693756b473"
+      },
+      "squuid": "5e8b6126-d293-4f65-9433-25edf98d4abb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "SHB Hörfunkbeteiligungsgesellschaft mbH",
+        "squuid": "619d00f3-dba8-4cb8-83b1-d9beee2fe826"
+      },
+      "squuid": "61af3eee-dacc-4769-b42e-ce25fd2f905d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Saarbrücken",
+  "pseudoCompany": false,
+  "street": "Scheidter Str.",
+  "name": "Prisma-Plus Verwaltungsgesellschaft für Beteiligungen mbH",
+  "naturalPerson": false,
+  "squuid": "5e8b5fb8-5f38-40af-9e40-e15b64464ce7",
+  "controlDate": "2021-11-23T15:02:52.294Z",
+  "streetNumber": "162",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "66123",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Leismann, Dieter",
+        "squuid": "5e8b6040-07e2-4dee-896f-fb7a410ec4a7"
+      },
+      "squuid": "5ef1cea6-7e0c-421c-ac9e-ea91f4b268ac",
+      "state": "active"
+    }
+  ]
+}

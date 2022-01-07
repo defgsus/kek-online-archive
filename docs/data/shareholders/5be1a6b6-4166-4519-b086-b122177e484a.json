@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Kurfürstendamm",
+  "name": "Skyline Medien GmbH",
+  "naturalPerson": false,
+  "co": "c/o Büro Specker",
+  "squuid": "5be1a6b6-4166-4519-b086-b122177e484a",
+  "controlDate": "2021-12-10T09:32:35.124Z",
+  "streetNumber": "195",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10707",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "JAM FM",
+        "squuid": "5be1a6b1-fe55-404a-a686-041509ce3536"
+      },
+      "squuid": "5be1a6b9-d47c-428f-bed5-985fc5cebe66",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.jam.fm",
+        "squuid": "5f3541bd-5da3-4523-bbdd-10dd0afd9a5e"
+      },
+      "squuid": "5f3541f1-623e-43ce-bc00-58b8b45fe338",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.1,
+      "holder": {
+        "name": "Specker, Roland",
+        "squuid": "5be1a6b6-b0be-43db-a08d-ceb0df8ddd86"
+      },
+      "squuid": "5be1a6b7-78bd-411c-8405-346cfacfedf3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Häublein, Carolin",
+        "squuid": "5be1a6b6-3a02-4d68-8fbc-2de9b05f14b8"
+      },
+      "squuid": "5be1a6b7-fc3b-4b1d-bef1-333d20d74759",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.9,
+      "holder": {
+        "name": "RTL Audio Center Berlin GmbH",
+        "squuid": "5be1a6b6-6ea6-42b5-9674-9d85c813ccc9"
+      },
+      "squuid": "5be1a6b7-a8c9-4e49-abdd-2bf6846d0d00",
+      "state": "active"
+    }
+  ]
+}

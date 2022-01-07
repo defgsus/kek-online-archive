@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Osnabrück",
+  "pseudoCompany": false,
+  "street": "Beethovenstr.",
+  "name": "Metallica Beteiligungsgesellschaft mbH & Co KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-129f-419f-a4cf-6fc067f565eb",
+  "controlDate": "2019-06-04T14:37:31.474Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "49076",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Keller, Thomas",
+        "squuid": "5be1a6b6-4bdb-49ee-8a89-344f553a5059"
+      },
+      "squuid": "5be1a6b8-695f-4c9d-a4e7-5f75d147e3c3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Keller-Woelm, Petra",
+        "squuid": "5be1a6b6-8be1-4b14-91aa-1f0f7066be2b"
+      },
+      "squuid": "5be1a6b8-3576-48ed-bdc4-5a32f60f09ff",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Knox, Beatrix",
+        "squuid": "5be1a6b6-14eb-47e8-80a5-2a9344eb17fc"
+      },
+      "squuid": "5be1a6b8-d100-4ced-a591-63d059fe0aa4",
+      "state": "active"
+    }
+  ]
+}

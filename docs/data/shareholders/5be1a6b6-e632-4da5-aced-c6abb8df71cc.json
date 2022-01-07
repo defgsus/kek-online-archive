@@ -1,0 +1,38 @@
+{
+  "name": "Athletik Sportvereinigung",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-e632-4da5-aced-c6abb8df71cc",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.6,
+      "held": {
+        "name": "Radio Mainz Live Rundfunk GmbH",
+        "squuid": "5be1a6b6-b076-49a8-8d9d-a72b62d75d54"
+      },
+      "squuid": "5be1a6b8-a096-4817-9413-98177b20948c",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

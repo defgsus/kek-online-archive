@@ -1,0 +1,76 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Nordbuzz Verwaltungs-GmbH",
+        "squuid": "5eff2499-c9a5-472e-a44e-986c328dd37b"
+      },
+      "squuid": "5eff251a-c94d-4d3f-9984-1f1643919aa6",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bremen",
+  "pseudoCompany": false,
+  "street": "Wachtstr.",
+  "name": "Nordbuzz GmbH & Co. KG ",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d41615c-c191-4dd7-ac9a-c527181d8f0b",
+  "controlDate": "2021-12-15T17:25:04.267Z",
+  "streetNumber": "17-24",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "28195",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nordbuzz.de",
+        "squuid": "5d4161a9-a983-4772-8971-56ea48de7c01"
+      },
+      "squuid": "5d4161cb-b09a-4347-b623-dff1d87ca04f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "eMedienservice Nord GmbH",
+        "squuid": "5d4162e3-7faf-4b3e-897d-fc105ba0eed8"
+      },
+      "squuid": "5d416312-bb39-423a-8300-5ee0ea7fe947",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kreiszeitung Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-490a-4fa8-9053-eee04d29612a"
+      },
+      "squuid": "5d41632c-b975-45bb-8477-2d560c8b4828",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Nordbuzz Verwaltungs-GmbH",
+        "squuid": "5eff2499-c9a5-472e-a44e-986c328dd37b"
+      },
+      "squuid": "5eff24bb-b6d7-48e8-a214-b7ff4f34acf3",
+      "state": "active"
+    }
+  ]
+}

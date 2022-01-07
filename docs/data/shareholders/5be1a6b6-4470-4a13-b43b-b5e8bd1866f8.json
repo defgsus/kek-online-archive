@@ -1,0 +1,92 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Radio Berg GmbH & Co. KG",
+        "squuid": "5be1a6b6-7164-45a6-b867-324087fd69eb"
+      },
+      "squuid": "5be1a6b7-edce-4341-aaa9-0692d0f7104a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Rundfunk-Holding Rhein-Berg/Oberberg GmbH",
+        "squuid": "5f18143a-d0e1-464a-a7a1-4b5f6050441b"
+      },
+      "squuid": "5ff6d6a2-1ca2-4271-91b3-40195ce526c9",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gummersbach",
+  "pseudoCompany": false,
+  "street": "An der Schüttenhöhe ",
+  "name": "Rundfunk-Holding Rhein-Berg/Oberberg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4470-4a13-b43b-b5e8bd1866f8",
+  "controlDate": "2021-12-21T15:09:49.066Z",
+  "streetNumber": "1a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "51643",
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "PFD Pressefunk GmbH",
+        "squuid": "5be1a6b6-761b-43ab-b113-3d2fb927889c"
+      },
+      "squuid": "5be1a6b8-ea1a-4e2e-8ac5-23ec4380c539",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Remscheider Medienhaus GmbH & Co. KG",
+        "squuid": "5be1a6b6-2e57-495f-afbc-e091b08abc00"
+      },
+      "squuid": "5be1a6b8-1f83-4030-9629-685fbc20885f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "DuMont Mediatainment GmbH & Co. KG",
+        "squuid": "5be1a6b6-40fa-4f5d-b8d7-34e7e5c1f0f2"
+      },
+      "squuid": "5c41954f-e3e4-4d0a-bfd7-244df56053e2",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Rundfunk-Holding Rhein-Berg/Oberberg GmbH",
+        "squuid": "5f18143a-d0e1-464a-a7a1-4b5f6050441b"
+      },
+      "squuid": "5f1814e5-112a-40f1-8385-27a44ffdd973",
+      "state": "active"
+    }
+  ]
+}

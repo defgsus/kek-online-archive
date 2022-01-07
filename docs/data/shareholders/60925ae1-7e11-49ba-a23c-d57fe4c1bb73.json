@@ -1,0 +1,30 @@
+{
+  "name": "Evangelisches Diakonissenhaus Berlin Teltow Lehnin K.d.ö.R.",
+  "squuid": "60925ae1-7e11-49ba-a23c-d57fe4c1bb73",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lutherstift gGmbH",
+        "squuid": "5f76f49d-de0e-462e-86f2-464b1ca2bf20"
+      },
+      "squuid": "60925b0f-5a9a-494f-8c48-db44a7154f29",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "state": "active"
+}

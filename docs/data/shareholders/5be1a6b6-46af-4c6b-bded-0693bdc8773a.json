@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Wildeshausen",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr. 13",
+  "name": "Wildeshauser Zeitung Ludwig Löschen GmbH & Co oHG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-46af-4c6b-bded-0693bdc8773a",
+  "controlDate": "2021-11-19T10:34:01.747Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "27793",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Wildeshauser Zeitung",
+        "squuid": "5be1a6b1-c452-4a77-b28c-b21e76b3156a"
+      },
+      "squuid": "5be1a6b9-bc3d-4a6d-b8e2-b873e0f2b5b1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kreiszeitung Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-490a-4fa8-9053-eee04d29612a"
+      },
+      "squuid": "5be1a6b8-cc86-4084-9d5b-2aa9ccd58c50",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kreiszeitung Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-1c42-48a6-87f2-f42b88e13179"
+      },
+      "squuid": "5be1a6b8-fcf2-48b2-83eb-22a8d95886a9",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Schwetzinger Zeitungsverlag Geschäftsführungs GmbH",
+        "squuid": "5ece7cca-e01d-41cf-bfe5-ef062ef3f9c4"
+      },
+      "squuid": "5ece7d4b-e68d-44c9-951c-2f8dd966df9c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Schwetzingen",
+  "pseudoCompany": false,
+  "street": "Carl-Theodor-Str. 1",
+  "name": "Schwetzinger Zeitungsverlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-8210-4509-8c9c-dcfdcbb1daa3",
+  "controlDate": "2021-11-11T14:03:49.693Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "68723",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwetzinger Zeitung",
+        "squuid": "5be1a6b1-bc33-4e64-9207-076a5cdc3424"
+      },
+      "squuid": "5be1a6b9-f0e9-4a98-979e-6f03bf0f9c4e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hockenheimer Tageszeitung",
+        "squuid": "5be1a6b1-1314-4ff6-8cc1-4d12a226d2f8"
+      },
+      "squuid": "5be1a6b9-efc4-4f3d-a6bc-7fd4911adedb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schwetzinger-zeitung.de",
+        "squuid": "5be1a6b1-aa14-4031-a3ee-de4f84a29d14"
+      },
+      "squuid": "618d260c-7e1f-4bf7-8197-ab33f41452e2",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Dr. Haas GmbH",
+        "squuid": "5be1a6b6-f74a-4cc9-8e59-248e7f10c1a5"
+      },
+      "squuid": "5be1a6b8-f056-4963-a7e3-bbc3f40be54c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwetzinger Zeitungsverlag Geschäftsführungs GmbH",
+        "squuid": "5ece7cca-e01d-41cf-bfe5-ef062ef3f9c4"
+      },
+      "squuid": "5ece7ce4-5916-4cbd-9340-d48f5c146b57",
+      "state": "active"
+    }
+  ]
+}

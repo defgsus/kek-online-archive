@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Kroppach",
+  "pseudoCompany": false,
+  "street": "Ringstr.",
+  "name": "Animagine GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-01c8-4324-a4b2-0dd0d4eb89fd",
+  "controlDate": "2021-11-23T14:38:58.031Z",
+  "streetNumber": "2a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "57612",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Animania",
+        "squuid": "5be1a6b1-fca7-432d-b2a9-c38ed5e45c7f"
+      },
+      "squuid": "5be1a6b9-3547-405b-9611-01a6906af0f3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.animania.de",
+        "squuid": "5be1a6b1-6cfc-42e7-8c33-10cef4e3fd8a"
+      },
+      "squuid": "5be1a6b9-4b32-4ac0-b698-f6d0c68aeb39",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Webler, Thomas",
+        "squuid": "5be1a6b6-9ec2-4e21-a67a-0e03928c878b"
+      },
+      "squuid": "5be1a6b8-2885-4cb6-b8b1-45e2b073a05e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Enders, Mario",
+        "squuid": "5be1a6b6-c9ce-4d82-bf02-0699a30c62e4"
+      },
+      "squuid": "5be1a6b8-765a-4706-93da-8c5e1c2a6fe8",
+      "state": "active"
+    }
+  ]
+}

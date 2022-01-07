@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Neuried",
+  "pseudoCompany": false,
+  "street": "Ammerseestr.",
+  "name": "Dr. Landt Verlag",
+  "naturalPerson": false,
+  "squuid": "5c0e464d-b5dc-4ea4-8f27-09e027fc6d41",
+  "controlDate": "2021-10-15T11:21:39.032Z",
+  "streetNumber": "61A",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82061",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Fototest",
+        "squuid": "5c0e4668-5fb2-401f-8c93-7aa8821500a3"
+      },
+      "squuid": "5c0e46c7-4496-473e-a458-8ecbe78b6ffe",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fototest.de",
+        "squuid": "5c0e467b-4d33-46a3-8ec7-fcff07448799"
+      },
+      "squuid": "5c0e4708-5a72-4f29-ad3d-bbccc299f924",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Landt, Dr. Artur",
+        "squuid": "5c0e465c-0945-4e05-8689-cd2969d87df0"
+      },
+      "squuid": "5c0e477a-3bf8-4730-967c-992fb71d10a5",
+      "state": "active"
+    }
+  ]
+}

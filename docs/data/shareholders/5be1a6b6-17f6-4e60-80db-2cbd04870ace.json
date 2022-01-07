@@ -1,0 +1,49 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "held": {
+        "name": "Radio Siegen Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-2881-47fa-9aff-4183c88398dd"
+      },
+      "squuid": "5be1a6b7-bc5f-42f8-bca8-9f8535552256",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Siegen",
+  "pseudoCompany": false,
+  "street": "Koblenzer Str.",
+  "name": "Betriebs- und Beteiligungsgesellschaft Kreis Siegen-Wittgenstein mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-17f6-4e60-80db-2cbd04870ace",
+  "controlDate": "2022-01-03T10:56:15.334Z",
+  "streetNumber": "73",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "57072",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kreis Siegen-Wittgenstein",
+        "squuid": "5f181977-3ba6-4278-9f22-189d448c81b0"
+      },
+      "squuid": "5f18199d-b976-4dc1-bd0b-936cd15b22f7",
+      "state": "active"
+    }
+  ]
+}

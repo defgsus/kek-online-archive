@@ -1,0 +1,85 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Westfalen-Blatt Vereinigte Zeitungsverlage GmbH & Co. KG",
+        "squuid": "5e1dbf05-b346-426d-a4eb-cfe11f1b031f"
+      },
+      "squuid": "5e1dd6a8-d9bc-4b57-b103-52fb70733f12",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Aschendorff Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c"
+      },
+      "squuid": "5e1dd97e-7188-4b17-bf43-9995377449d3",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bielefeld",
+  "pseudoCompany": false,
+  "street": "Sudbrackstr.",
+  "name": "Westfälische Medien Holding AG",
+  "naturalPerson": false,
+  "squuid": "5e1dbf6a-1c4a-47cf-92d6-f85fa7fded35",
+  "controlDate": "2021-11-19T10:13:28.292Z",
+  "streetNumber": "14-18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "33611",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 76.5,
+      "holder": {
+        "name": "AM Holding AG",
+        "squuid": "5d14c3db-c81f-4a91-a64c-00debe78ac5b"
+      },
+      "squuid": "5e1dccf4-cdb6-41aa-834a-9719e09e8e0d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.09,
+      "holder": {
+        "name": "C.W. Busse Holding GmbH",
+        "squuid": "5be1a6b6-5540-4cd0-b003-a32ee86abad7"
+      },
+      "squuid": "5e1dcd0b-c149-4537-8b65-29201370e834",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.41,
+      "holder": {
+        "name": "Westfälischer Anzeiger Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-1155-4281-b6ac-c4879ebd2c19"
+      },
+      "squuid": "5e1dcd29-4fe5-4aaf-b0bb-f73f42c8d11d",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Bauer-Markt GmbH",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-b4c3-4e20-b437-d6ba80a60083",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 8.6,
+      "held": {
+        "name": "Radio Aschaffenburg GmbH",
+        "squuid": "5be1a6b6-1b6a-4f90-8187-235f8dc1a475"
+      },
+      "squuid": "5be1a6b7-2e4f-4930-8a47-2147917dc723",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

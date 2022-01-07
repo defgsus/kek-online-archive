@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Lindenallee 5",
+  "name": "Mosaik Steinchen für Steinchen Verlag + Procom Werbeagentur GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7292-4262-95ed-9fe19621f058",
+  "controlDate": "2021-11-03T14:07:51.884Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14050",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mosaik",
+        "squuid": "5be1a6b1-c393-49c1-a16b-99bcc8753b7a"
+      },
+      "squuid": "5be1a6b9-28a2-450e-8e88-6c349eee72b7",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schleiter, Klaus D.",
+        "squuid": "5be1a6b6-07c8-4af5-a277-5fbe20b29d8a"
+      },
+      "squuid": "5be1a6b8-5208-4008-b79e-fd65f42330fc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Hauser-Thiele, Annerose",
+        "squuid": "5be1a6b6-f38b-4800-af2b-eb4207e63c81"
+      },
+      "squuid": "5be1a6b8-59af-4578-b0db-da18144f0066",
+      "state": "active"
+    }
+  ]
+}

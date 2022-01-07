@@ -1,0 +1,91 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Lokalradio Düsseldorf Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-90d8-456e-afa5-de6b3d327696"
+      },
+      "squuid": "5be1a6b7-c10a-405c-b1b9-eb617927168c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lokalfunk Düsseldorf Presse-Beteiligungsgesellschaft mbH",
+        "squuid": "5f159e20-0b74-4d7b-84c6-62d252beadbb"
+      },
+      "squuid": "5ff5bbb7-5501-470b-9073-6c2eafdb5fb9",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Zülpicher Str.",
+  "name": "Lokalfunk Düsseldorf Presse-Beteiligungsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-e417-41c6-9dcb-c14721ec2951",
+  "controlDate": "2021-11-24T17:31:29.751Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "40169",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 12.0,
+      "holder": {
+        "name": "Zeitungsverlag Niederrhein GmbH & Co. Essen KG",
+        "squuid": "5be1a6b6-82b1-496e-8b3c-f72246503b7e"
+      },
+      "squuid": "5be1a6b8-b720-4bd6-bb94-f7b016351ce5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 69.0,
+      "holder": {
+        "name": "PFD Pressefunk GmbH",
+        "squuid": "5be1a6b6-761b-43ab-b113-3d2fb927889c"
+      },
+      "squuid": "5be1a6b8-e688-4a86-8d63-51a3507cd651",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lokalfunk Düsseldorf Presse-Beteiligungsgesellschaft mbH",
+        "squuid": "5f159e20-0b74-4d7b-84c6-62d252beadbb"
+      },
+      "squuid": "5f159e73-e340-4784-af21-4b8297318c7f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.0,
+      "holder": {
+        "name": "Westdeutsche Zeitung GmbH & Co KG",
+        "squuid": "5be1a6b6-415d-4a70-8991-2d894c374633"
+      },
+      "squuid": "5f159ebd-3e7f-4906-9f42-e09cc1cfecf1",
+      "state": "active"
+    }
+  ]
+}

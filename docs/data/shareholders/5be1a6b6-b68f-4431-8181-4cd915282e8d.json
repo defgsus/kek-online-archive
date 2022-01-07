@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Vestnertormauer",
+  "name": "Jazzstudio Nürnberg e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b68f-4431-8181-4cd915282e8d",
+  "controlDate": "2021-12-10T09:50:11.275Z",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "90403",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Jazztime Nürnberg",
+        "squuid": "5be1a6b1-262a-44fd-bec1-b495c115e26b"
+      },
+      "squuid": "5be1a6b9-d94a-4447-9dd0-979587fe0af6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.jazzstudio.de",
+        "squuid": "5f9159ff-6065-4a3c-ad0e-b1cad8758b71"
+      },
+      "squuid": "5f915a32-1212-48c1-b0fe-c8233e486291",
+      "state": "active"
+    }
+  ]
+}

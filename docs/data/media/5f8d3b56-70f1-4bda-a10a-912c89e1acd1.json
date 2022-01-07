@@ -1,0 +1,60 @@
+{
+  "rfRepresentative": "Frank Willer",
+  "state": "active",
+  "squuid": "5f8d3b56-70f1-4bda-a10a-912c89e1acd1",
+  "organization": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "LiveLive Media GmbH",
+        "squuid": "5f8d41ab-1d47-443b-b05e-d70059cd39d8"
+      },
+      "squuid": "5f8d439f-0eb9-4336-9850-051efd35aeef",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Frank Willer",
+        "squuid": "5f9806cf-7056-491a-a672-dfffb4e5da61"
+      },
+      "squuid": "5f980705-c088-44a7-bddf-4f7a4345ea02",
+      "state": "active"
+    }
+  ],
+  "name": "Radio livelive",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "description": "Vollprogramm - Informations- und Unterhaltungsprogramm mit Schleswig-Holstein-Schwerpunkt",
+  "rfLicenseUntil": "31.9.2030",
+  "rfLicensed": "24.9.2020",
+  "rfLicenseFrom": "1.10.2020",
+  "rfAddress": "LiveLive Media GmbH\nSchloßstraße 34\n12163 Berlin",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "state": "active",
+  "city": "Euskirchen",
+  "pseudoCompany": false,
+  "street": "Eifelring 28",
+  "name": "Reiner H. Nitschke Verlags-GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c431-43fe-97e2-4a0518f30668",
+  "controlDate": "2021-10-14T10:37:37.884Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53879",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stereo",
+        "squuid": "5be1a6b1-b65f-4569-bb1f-d14583e2c9a5"
+      },
+      "squuid": "5be1a6b9-bbe8-49bd-9f55-cfa52ec416f0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Fono Forum",
+        "squuid": "5be1a6b1-f2e6-45a9-ab70-225f245d8a9c"
+      },
+      "squuid": "5be1a6b9-18dd-4633-899a-abb9cb527ef2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "drums & percussion",
+        "squuid": "5be1a6b1-2cd9-460f-8668-33bde53df291"
+      },
+      "squuid": "5be1a6b9-9809-4538-9e13-1b2b849e7da0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.stereo.de",
+        "squuid": "5be1a6b1-51ba-4c5f-ba1c-e42831893672"
+      },
+      "squuid": "5be1a6b9-5446-48b8-8da9-70e909bc7f2b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fonoforum.de",
+        "squuid": "5be1a6b1-b1ac-49f3-ab4b-c6ec30c15f90"
+      },
+      "squuid": "5be1a6b9-ade3-4445-8d6b-876a3f196706",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.drumsundpercussion.de",
+        "squuid": "5be1a6b1-1fc8-488f-beb8-885194f6036a"
+      },
+      "squuid": "5be1a6b9-35a3-473e-ae4b-53ecca07c923",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Zeitschriften GmbH",
+        "squuid": "5be1a6b6-2cc7-48b6-bdf0-90da1bb163ba"
+      },
+      "squuid": "5be1a6b8-2778-4ac3-817c-fe622cdb7c38",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.78,
+      "held": {
+        "name": "Bayern Tele GmbH Fernsehproduktion bayerischer Zeitschriftenverlage",
+        "squuid": "5be1a6b6-9681-4a25-8626-a0e2626bec4a"
+      },
+      "squuid": "5d14bfe0-5d27-4aed-ae12-fd982d492cdf",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Klenzestr.",
+  "name": "E. Albrecht Verlags-KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d14bef7-3599-4e36-ac95-9a445288f28d",
+  "controlDate": "2022-01-04T17:00:59.972Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "80469",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Albrecht, Oliver",
+        "squuid": "60bf5d9f-34ee-4c34-9554-cb8ba486d7fa"
+      },
+      "squuid": "60bf5dd4-6208-4b93-896b-6e9166f1b4f6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Albrecht, Hansgeorg",
+        "squuid": "60bf5db6-531b-4d04-9a60-4d758b60cb8c"
+      },
+      "squuid": "60bf5de4-e545-4b02-8fcd-67b83064b3a3",
+      "state": "active"
+    }
+  ]
+}

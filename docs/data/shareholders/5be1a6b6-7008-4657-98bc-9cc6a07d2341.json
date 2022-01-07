@@ -1,0 +1,71 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.82,
+      "held": {
+        "name": "OZ Verlagsbeteiligungs GmbH",
+        "squuid": "5f3d3adc-d7be-46c4-b661-e4234b2dd179"
+      },
+      "squuid": "5ff4363a-6785-40d1-bfe1-cafe1148ac92",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ehingen",
+  "pseudoCompany": false,
+  "name": "Schwäbische Zeitung Ehingen GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7008-4657-98bc-9cc6a07d2341",
+  "controlDate": "2021-11-11T14:40:29.035Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "89584",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwäbische Zeitung (Ausgabe Ehingen)",
+        "squuid": "5be1a6b1-8eb8-49ae-ba01-025f9912bd8c"
+      },
+      "squuid": "5be1a6b9-0639-4ba2-aeb0-bf88db3be31f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-9b39-4963-bc47-6afc20d5ff1e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbische Zeitung Ehingen Verwaltungs-GmbH",
+        "squuid": "5ee9bd79-22f6-4091-9fb3-fc2ca7fcd3ad"
+      },
+      "squuid": "5ee9bdae-92fa-4532-bf1a-a12e93830b1b",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3bbd41-4e1d-47de-93b4-84a0322b84d5",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Antenne Koblenz GmbH",
+        "squuid": "5be1a6b6-a316-4364-876d-5f66fa24ddc7"
+      },
+      "squuid": "5f3bbd68-f3ac-4ffa-bf3b-d4a337e768e6",
+      "state": "active"
+    }
+  ],
+  "name": "www.antenne-koblenz.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-11-23T16:14:47.085Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

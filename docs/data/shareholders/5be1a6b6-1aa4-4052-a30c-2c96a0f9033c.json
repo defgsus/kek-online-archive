@@ -1,0 +1,27 @@
+{
+  "name": "Privatpersonen sowie verschiedene Beteiligungs- und Vermögensverwaltungsgesellschaften",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-1aa4-4052-a30c-2c96a0f9033c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 66.6,
+      "held": {
+        "name": "Midgard GmbH",
+        "squuid": "5be1a6b6-7556-4fba-8e63-a843224abf57"
+      },
+      "squuid": "5be1a6b7-34a9-4cb2-a530-61399c0c42ef",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

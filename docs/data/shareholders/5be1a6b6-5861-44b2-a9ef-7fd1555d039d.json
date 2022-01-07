@@ -1,0 +1,97 @@
+{
+  "state": "active",
+  "city": "Burgkirchen/Alz",
+  "pseudoCompany": false,
+  "street": "Mozartstraße",
+  "name": "Hörfunk Burgkirchen-Mühldorf GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5861-44b2-a9ef-7fd1555d039d",
+  "controlDate": "2021-12-09T16:20:25.829Z",
+  "streetNumber": "3 a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "84508",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Inn-Salzach-Welle",
+        "squuid": "5be1a6b1-d844-4c7f-a1f5-27033bca3d8c"
+      },
+      "squuid": "5be1a6b9-4057-41ae-b83d-579a3aa4ac0b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio ISW (Inn-Salzach-Welle)",
+        "squuid": "5be1a6b1-3646-40a1-9b34-27422913faaa"
+      },
+      "squuid": "5cc04077-25a9-46f5-bfbf-2e49b67f4f82",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.isw.fm",
+        "squuid": "5f915613-6e70-4549-ba87-3615c95ddd73"
+      },
+      "squuid": "5f915651-8ac9-49ee-a256-b6fd6be4445e",
+      "state": "active"
+    }
+  ],
+  "credits": " Pressemitteilung der BLM Nr. 19/2012 vom 29.03.2012",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 23.4,
+      "holder": {
+        "name": "Passauer Neue Medien GmbH",
+        "squuid": "5be1a6b6-f56c-41fa-9f86-24320b611288"
+      },
+      "squuid": "5be1a6b7-baaf-498e-9ef9-871fda66d14e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 23.4,
+      "holder": {
+        "name": "WWZ Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-af92-4839-96f4-2d8d9e234c83"
+      },
+      "squuid": "5be1a6b7-5d24-464d-9894-978b0d290298",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.95,
+      "holder": {
+        "name": "Radio B 94 GbR",
+        "squuid": "5be1a6b6-abeb-4129-a867-28a4ce0286a9"
+      },
+      "squuid": "5be1a6b7-3649-41c2-9fc7-0fbabc574b80",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.25,
+      "holder": {
+        "name": "Inn-Salzach-Welle GmbH",
+        "squuid": "5be1a6b6-0551-4c05-8a64-0f79f20b7890"
+      },
+      "squuid": "5cc04111-39dc-4475-86ce-9b57ff0c5f3b",
+      "state": "active"
+    }
+  ]
+}

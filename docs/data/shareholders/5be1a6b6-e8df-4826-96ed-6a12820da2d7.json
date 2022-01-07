@@ -1,0 +1,32 @@
+{
+  "name": "Kommunal Landspensjonskasse Mutual Ensurance Company",
+  "pseudoCompany": false,
+  "controlDate": "2021-11-25T16:24:05.532Z",
+  "squuid": "5be1a6b6-e8df-4826-96ed-6a12820da2d7",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 9.19,
+      "held": {
+        "name": "AUCTUS IV GmbH & Co. KG",
+        "squuid": "5be1a6b6-04ac-4f65-b721-969885524a81"
+      },
+      "squuid": "5be1a6b8-6124-4fb6-add3-c2dfe6e5362f",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

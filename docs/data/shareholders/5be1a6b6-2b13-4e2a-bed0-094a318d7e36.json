@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Kaiserslauterer Straße",
+  "name": "PRAY Nürnberg e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2b13-4e2a-bed0-094a318d7e36",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "90441",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Pray 92,9",
+        "squuid": "5be1a6b1-16ec-4797-a735-4c7ec0c7d5f0"
+      },
+      "squuid": "5be1a6b9-f190-4c22-963b-fd47d6b34a16",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiopray.de",
+        "squuid": "5f91839d-625f-4fc5-88fc-3154f9c8668d"
+      },
+      "squuid": "5f918574-c254-4401-8264-863904176456",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "holder": {
+        "name": "Klauss, Jochen",
+        "squuid": "5be1a6b6-871a-4267-a335-eba2c5cf286a"
+      },
+      "squuid": "5be1a6b7-cdf2-4ae1-92df-a97532d29e99",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "holder": {
+        "name": "Reinhold, Thomas",
+        "squuid": "5be1a6b6-883f-46b2-8d88-d6521aa8332b"
+      },
+      "squuid": "5be1a6b7-a2bf-4667-9227-bc18ca763964",
+      "state": "active"
+    }
+  ]
+}

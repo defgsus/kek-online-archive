@@ -1,0 +1,48 @@
+{
+  "name": "The Walt Disney Company Enterprises 18 Corp.",
+  "controlDate": "2021-06-25T12:20:19.562Z",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "The Walt Disney Company",
+        "squuid": "5be1a6b6-2159-4e8a-8bcf-7a6b7af0e573"
+      },
+      "squuid": "5d09e4c7-ad92-423e-9291-7408e5cfffaf",
+      "state": "active"
+    }
+  ],
+  "squuid": "5ce26e36-95f2-4b3d-a6d1-e025b75a8039",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Disney Enterprises, Inc.",
+        "squuid": "5be1a6b6-a38f-41db-90bc-fed17f3adf5b"
+      },
+      "squuid": "5ce26ec1-ed54-4054-ba1b-3f6a26356d1a",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active"
+}

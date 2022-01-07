@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Raboisen",
+  "name": "Rotary Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1609-4967-9522-eeaa4f6a7d40",
+  "controlDate": "2021-11-10T11:56:36.256Z",
+  "streetNumber": "30",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20095",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rotary Magazin",
+        "squuid": "5be1a6b1-457a-4a56-abf9-848d102d0230"
+      },
+      "squuid": "5be1a6b9-8274-4b30-ad4f-d2a1c1f7c6d4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rotary.de",
+        "squuid": "5be1a6b1-6401-430f-b979-088f897b0bdf"
+      },
+      "squuid": "5be1a6b9-448c-47c2-b375-329d13af11a7",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stiftung Der Rotarier",
+        "squuid": "5be1a6b6-bdee-4280-b111-59069372eb00"
+      },
+      "squuid": "5be1a6b8-4db0-40cf-b0b5-5c4a7cd3153a",
+      "state": "active"
+    }
+  ]
+}

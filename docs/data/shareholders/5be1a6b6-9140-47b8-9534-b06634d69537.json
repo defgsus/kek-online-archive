@@ -1,0 +1,157 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "IR Holding GmbH",
+        "squuid": "5be1a6b6-1568-4fc1-8a93-8feea8e27d7e"
+      },
+      "squuid": "5be1a6b7-d89d-4b24-a3e7-97d100327c48",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "BB RADIO Lokalwellen Brandenburg GmbH & Co. KG",
+        "squuid": "5be1a6b6-2bab-457b-a801-02b1373714fd"
+      },
+      "squuid": "5be1a6b7-202a-4be3-bd6e-1c62c032b3e3",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Potsdam",
+  "note": "",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Wetzlarer Str.",
+  "name": "BB RADIO Länderwelle Berlin/Brandenburg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9140-47b8-9534-b06634d69537",
+  "controlDate": "2021-11-26T14:54:14.089Z",
+  "streetNumber": "44",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+      "name": "brema",
+      "type": "organization",
+      "fullName": "Bremische Landesmedienanstalt"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "14482",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "BB Radio",
+        "squuid": "5be1a6b1-d159-4f1b-bc29-d9d901c5ac3d"
+      },
+      "squuid": "5be1a6b9-321d-4908-adfe-0d13875370e6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bbradio.de",
+        "squuid": "5f354838-e1dd-43da-b803-213aec114195"
+      },
+      "squuid": "5f354947-317d-4d8c-9ad9-a0fef0993c5d",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Burda Broadcast Media GmbH & Co. KG",
+        "squuid": "5be1a6b6-36c9-4097-9471-8ac9ef5c6024"
+      },
+      "squuid": "5be1a6b7-6b65-4b6f-95bf-63c54e912b6e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5be1a6b7-d0bb-4431-9459-f057b634ec07",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "BB RADIO Länderwelle Berlin/Brandenburg Beteiligungs GmbH",
+        "squuid": "5f1ea425-798d-4369-b734-6971938040e8"
+      },
+      "squuid": "5f1ea4df-9e21-4130-a46d-e34629860274",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Helmschrott, Katrin",
+        "squuid": "5f1ea44c-b31a-45a3-a110-127335be7146"
+      },
+      "squuid": "5f1ea4f2-4263-40d5-84ab-498ba01371c4",
+      "state": "active"
+    }
+  ]
+}

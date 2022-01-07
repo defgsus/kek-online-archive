@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Schweiz",
+  "note": "deren andere Gesellschafter sind die Neue Züricher Zeitung, die Basler Zeitung und der Ringier Verlag",
+  "pseudoCompany": false,
+  "name": "Presse TV AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e5eb-49fd-9840-11d4c1cff7b7",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "dctp Entwicklungsgesellschaft für TV-Programm mbH",
+        "squuid": "5be1a6b6-01aa-4926-869b-7e89ca45166d"
+      },
+      "squuid": "5be1a6b7-df63-4dee-ba6c-1d752cca1922",
+      "state": "active"
+    }
+  ]
+}

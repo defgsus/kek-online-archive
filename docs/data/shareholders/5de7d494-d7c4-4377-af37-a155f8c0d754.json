@@ -1,0 +1,79 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Kaiser-Ludwig-Platz ",
+  "name": "Kouneli Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5de7d494-d7c4-4377-af37-a155f8c0d754",
+  "controlDate": "2021-11-08T16:16:42.499Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80336",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Playboy (Deutschland-Ausgabe)",
+        "squuid": "5be1a6b1-b5af-470b-83d1-37e1358f07bc"
+      },
+      "squuid": "5de7d51d-9ad7-425d-b396-347c8cdcbdc3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.playboy.de",
+        "squuid": "5be1a6b1-999a-4c57-b805-070c755abbe6"
+      },
+      "squuid": "5de7d576-68dd-42e4-9cfb-865277cba028",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sports Illustrated",
+        "squuid": "61b7369d-c6a3-4d8f-b61d-5b934ec07bb4"
+      },
+      "squuid": "61b7370c-f526-4881-b24a-74b9c6aa280f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sportsillustrated.de",
+        "squuid": "61b736b7-fc24-41f1-8a3d-45b48b2bb087"
+      },
+      "squuid": "61b73737-9bfb-40a7-ad65-d079443c41c0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Boitin, Florian",
+        "squuid": "5de7d64b-7de1-4909-a2f1-ce663fe86632"
+      },
+      "squuid": "5de7d682-97ae-4424-ac06-998407185398",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Karsch, Myriam",
+        "squuid": "5de7d660-8cf8-4631-979d-fccdd9d34a4a"
+      },
+      "squuid": "5de7d694-dcb7-49cf-8529-067b467aa97c",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Bocholt",
+  "pseudoCompany": false,
+  "street": "Epping-Kamp ",
+  "name": "Radio VHR",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-5429-4c03-b436-3d503303ce3e",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "46395",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio VHR",
+        "squuid": "5be1a6b1-3de7-4831-8b8e-c2e147a85f05"
+      },
+      "squuid": "5be1a6b9-94be-4df3-8951-3115f62d3ccc",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Krandick, Alfred Heinrich",
+        "squuid": "5be1a6b6-3840-4055-bca1-afbf1ee01614"
+      },
+      "squuid": "5e26f69e-0ad0-4b2e-a9dd-43155b97434d",
+      "state": "active"
+    }
+  ]
+}

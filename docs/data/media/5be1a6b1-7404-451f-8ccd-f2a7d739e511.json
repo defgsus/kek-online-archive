@@ -1,0 +1,72 @@
+{
+  "rfRepresentative": "Erik Range",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Freiwillige Selbstkontrolle Unterhaltungssoftware GmbH (Berlin)",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-7404-451f-8ccd-f2a7d739e511",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.twitch.tv/gronkh",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Range, Erik",
+        "squuid": "5be1a6b6-7e5e-4be5-ba8b-27221c2f852c"
+      },
+      "squuid": "5be1a6b9-ca39-4cb5-9886-0de15a0ab140",
+      "state": "active"
+    }
+  ],
+  "name": "GronkhTV",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Unterhaltungsspartenprogramm, das ausschließlich über das Internet verbreitet wird",
+  "rfLicenseUntil": "12.02.2028",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "13.02.2018",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-6b30-40cd-81e4-c876e3a2cf67",
+      "name": "Twitch",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "13.02.2018",
+  "accessibilityEmail": "hey@gronkh.tv"
+}

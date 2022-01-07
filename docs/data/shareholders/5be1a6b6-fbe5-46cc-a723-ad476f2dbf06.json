@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Offenbach",
+  "pseudoCompany": false,
+  "street": "Carl-Legien-Str.",
+  "name": "Itep Pictures GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fbe5-46cc-a723-ad476f2dbf06",
+  "otherMediaActivities": "Neben dem Betrieb des Senders MC EU produziert und vertreibt die Itep Pictures GmbH Serien, Filme und Kinderprogramme.",
+  "controlDate": "2021-12-13T16:32:30.947Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "63073",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MC EU",
+        "squuid": "5be1a6b1-df87-4d06-99ba-1f61bc92a8b7"
+      },
+      "squuid": "5be1a6b9-0a72-4848-96b8-c2268025bb64",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mceu.tv",
+        "squuid": "5f3a6739-f17a-4400-82f2-236be36a88ea"
+      },
+      "squuid": "5f3a677b-e2fa-45ce-a212-60938e2c8d04",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 13.10.2015, Az.: KEK 848",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Koc, Fatih",
+        "squuid": "5f3a68a3-9028-4314-8a3f-9355cca23f14"
+      },
+      "squuid": "5f3a68e5-421e-449f-ba10-c6812ac9fbe6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Ketenci, Remzi",
+        "squuid": "5f3a6856-8719-4564-a4c8-b3c499b80af2"
+      },
+      "squuid": "5f3a68f2-368a-4a32-a2fc-0e7f7b60ddcc",
+      "state": "active"
+    }
+  ]
+}

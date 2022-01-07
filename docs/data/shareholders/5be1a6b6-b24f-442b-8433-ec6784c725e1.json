@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Lörracher Str. 3",
+  "name": "Heinrich Rombach KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b24f-442b-8433-ec6784c725e1",
+  "controlDate": "2019-12-10T10:47:24.178Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "79115",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.06,
+      "holder": {
+        "name": "Hodeige, Cornelia",
+        "squuid": "5be1a6b6-b01c-4a98-a25c-ed1c2d33fc89"
+      },
+      "squuid": "5be1a6b8-afbe-4e7a-a349-7408215424a9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.97,
+      "holder": {
+        "name": "Lehr, Claus-Georg",
+        "squuid": "5be1a6b6-f20b-4c53-928b-fe91a89b22bf"
+      },
+      "squuid": "5be1a6b8-5a95-4bc2-b3e0-dea6b3727b10",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.97,
+      "holder": {
+        "name": "Lehr, Hans-Peter",
+        "squuid": "5be1a6b6-4a57-4bb1-b57a-68b207e0c55c"
+      },
+      "squuid": "5be1a6b8-7648-49b0-a927-190ba3155666",
+      "state": "active"
+    }
+  ]
+}

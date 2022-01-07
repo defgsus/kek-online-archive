@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "New York (US)",
+  "pseudoCompany": false,
+  "name": "CBS Interactive Inc.",
+  "naturalPerson": false,
+  "squuid": "5d35ca95-2cf6-42dd-b6dd-f3ab8345aade",
+  "controlDate": "2021-12-02T11:54:13.966Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cnet.com",
+        "squuid": "5d35ca23-ba3c-44c2-8833-ed89bb67b6bf"
+      },
+      "squuid": "5d35cab0-b71d-4a24-9baf-ffab97a925b3",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "CBS Corp.",
+        "squuid": "5d35cbc3-4352-473e-a9b6-97835377d88b"
+      },
+      "squuid": "5d35cbdc-ead4-44ba-ac4c-01a6de3d1f76",
+      "state": "active"
+    }
+  ]
+}

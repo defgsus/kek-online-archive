@@ -1,0 +1,38 @@
+{
+  "name": "IMPERA Total Return AG",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Consilium AG",
+        "squuid": "5be1a6b6-9491-4036-a8d4-e61462200e93"
+      },
+      "squuid": "5be1a6b8-8589-4adb-834d-0b9843120e5c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Streubesitz an der IMPERA Total Return AG",
+        "squuid": "5be1a6b6-9ab9-46c1-9e45-0fc5c4059d0b"
+      },
+      "squuid": "5be1a6b8-5cf6-489a-baac-2d5735c7446a",
+      "state": "active"
+    }
+  ],
+  "squuid": "5be1a6b6-21c9-488b-a137-20035bfffd86",
+  "credits": "Beschluss der KEK vom 14.02.2017, Az.: KEK 900",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

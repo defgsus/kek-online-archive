@@ -1,0 +1,36 @@
+{
+  "name": "Frank Willer",
+  "squuid": "5f9806cf-7056-491a-a672-dfffb4e5da61",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "LiveLive Media GmbH",
+        "squuid": "5f8d41ab-1d47-443b-b05e-d70059cd39d8"
+      },
+      "squuid": "5f980793-4dc6-47b2-bc54-fc61a9ea83d9",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio livelive",
+        "squuid": "5f8d3b56-70f1-4bda-a10a-912c89e1acd1"
+      },
+      "squuid": "5f980705-c088-44a7-bddf-4f7a4345ea02",
+      "state": "active"
+    }
+  ]
+}

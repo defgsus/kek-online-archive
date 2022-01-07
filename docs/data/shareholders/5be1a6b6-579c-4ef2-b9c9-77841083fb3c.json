@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Backnang",
+  "pseudoCompany": false,
+  "street": "Postgasse 7",
+  "name": "Buchdruckerei Friedrich Stroh oHG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-579c-4ef2-b9c9-77841083fb3c",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "71522",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Stroh, Werner",
+        "squuid": "5be1a6b6-5279-4016-8e30-a44e2e451e8a"
+      },
+      "squuid": "5be1a6b8-f193-44a7-85a1-0a03da84c891",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Stroh Druck und Medien GmbH Backnang",
+        "squuid": "5be1a6b6-4687-4e9d-be50-4d96ad36af0e"
+      },
+      "squuid": "5be1a6b8-a81c-4d81-9f7d-51837fb4dfe7",
+      "state": "active"
+    }
+  ]
+}

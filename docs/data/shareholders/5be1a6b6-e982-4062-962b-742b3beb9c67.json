@@ -1,0 +1,73 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Hegelplatz 1",
+  "name": "Der Freitag Mediengesellschaft mbh & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-e982-4062-962b-742b3beb9c67",
+  "controlDate": "2021-09-29T15:06:40.450Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "der Freitag",
+        "squuid": "5be1a6b1-660e-47e3-9d78-66acc3dd79ec"
+      },
+      "squuid": "5be1a6b9-01bd-4925-b5ba-27cc78147380",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.freitag.de",
+        "squuid": "5be1a6b1-2df5-41d5-90f3-f33498b0fdb2"
+      },
+      "squuid": "5be1a6b9-8790-4b2b-ba2e-6218329924d7",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "50Kanonen Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-6526-4cb5-a369-2dbc6d0d7958"
+      },
+      "squuid": "5be1a6b8-3ba0-48de-bf56-2643c0b63f31",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Todenhöfer, Jürgen",
+        "squuid": "5be1a6b6-b469-450f-990c-23164140adfe"
+      },
+      "squuid": "5be1a6b8-c36f-4f61-9bba-c013a5dcade5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Der Freitag Verwaltungsgesellschaft mbH",
+        "squuid": "5ebe8c60-3310-46a9-94ee-7c7b43355b3e"
+      },
+      "squuid": "5ebe8c81-9567-41dc-9efb-78b9ce1b4331",
+      "state": "active"
+    }
+  ]
+}

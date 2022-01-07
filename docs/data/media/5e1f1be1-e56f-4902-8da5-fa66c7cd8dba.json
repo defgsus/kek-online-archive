@@ -1,0 +1,44 @@
+{
+  "rfRepresentative": "Dietmar Otto",
+  "state": "active",
+  "squuid": "5e1f1be1-e56f-4902-8da5-fa66c7cd8dba",
+  "organization": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "accessibilityUrl": "https://www.radio-pos.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Point of Sale GmbH",
+        "squuid": "5be1a6b6-df1d-414d-aff6-b0278c2fca89"
+      },
+      "squuid": "5e1f1f78-3b98-4b89-b351-81719782eb65",
+      "state": "active"
+    }
+  ],
+  "name": "Nordic Radio",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "description": "Hörfunkspartenprogramm",
+  "rfLicenseUntil": "31.12.2029",
+  "rfLicensed": "19.12.2019",
+  "rfLicenseFrom": "01.01.2020",
+  "accessibilityEmail": "info@radio-pos.de"
+}

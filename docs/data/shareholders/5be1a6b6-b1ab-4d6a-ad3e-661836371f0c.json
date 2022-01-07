@@ -1,0 +1,86 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "hamburg.de Beteiligungs GmbH",
+        "squuid": "5efb34b4-2cb6-4692-ad27-26fd9ce6dfb4"
+      },
+      "squuid": "5efb3539-d035-4be4-8651-8497f4ad4eb3",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Rothenbaumchaussee 80b",
+  "name": "hamburg.de GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-b1ab-4d6a-ad3e-661836371f0c",
+  "controlDate": "2021-12-09T12:35:07.289Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20148",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hamburg.de",
+        "squuid": "5be1a6b1-1a35-4e10-a50b-80de23d2e745"
+      },
+      "squuid": "5be1a6b9-0b38-47af-89dc-e259a84d50ca",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 87.0,
+      "holder": {
+        "name": "Freie und Hansestadt Hamburg",
+        "squuid": "5be1a6b6-9279-4667-a7db-9e172ac5d3fd"
+      },
+      "squuid": "5be1a6b8-21da-4135-b0a0-b39086ed6dfb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.5,
+      "holder": {
+        "name": "Hamburger Sparkasse AG",
+        "squuid": "5be1a6b6-75a4-4ef6-8e28-d9a59410f8c5"
+      },
+      "squuid": "5be1a6b8-19b7-4e36-b1ab-dd9d2a29ebdb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.5,
+      "holder": {
+        "name": "Sparkasse Harburg-Buxtehude",
+        "squuid": "5be1a6b6-fef9-454d-ac3f-58499c909851"
+      },
+      "squuid": "5be1a6b8-9139-4003-acbe-ee36e456fdc9",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "hamburg.de Beteiligungs GmbH",
+        "squuid": "5efb34b4-2cb6-4692-ad27-26fd9ce6dfb4"
+      },
+      "squuid": "5efb34d5-1417-461e-bca6-ad1c4fcf148b",
+      "state": "active"
+    }
+  ]
+}

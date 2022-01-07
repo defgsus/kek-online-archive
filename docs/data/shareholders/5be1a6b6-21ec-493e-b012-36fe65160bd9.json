@@ -1,0 +1,65 @@
+{
+  "name": "Schwingenstein, Konrad",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-21ec-493e-b012-36fe65160bd9",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 34.6,
+      "held": {
+        "name": "Radio Next Generation GmbH & Co. KG",
+        "squuid": "5be1a6b6-73c7-40c3-9f6c-36bdb642bc5d"
+      },
+      "squuid": "5be1a6b7-10ff-44dc-a5c0-b9cfc1823ecf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 99.97,
+      "held": {
+        "name": "radioblut GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-19ab-4bb3-9339-1e6333192dfd"
+      },
+      "squuid": "5d108017-5e18-4c33-88db-cdcdbeac0e69",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "piqd GmbH",
+        "squuid": "5e53d8cd-9b5b-4cb7-adcb-964011ba4457"
+      },
+      "squuid": "5f8ef51e-25b5-4fce-a3f5-e230e7c697f9",
+      "state": "active"
+    }
+  ],
+  "city": "Herrsching",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

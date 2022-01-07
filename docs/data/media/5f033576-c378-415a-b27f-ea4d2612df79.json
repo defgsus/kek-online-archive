@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f033576-c378-415a-b27f-ea4d2612df79",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio38 GmbH & Co. KG",
+        "squuid": "5be1a6b6-f894-439e-aff5-d135b06e6de5"
+      },
+      "squuid": "5f0335a5-cd76-40bf-a8e2-815a6f5442f6",
+      "state": "active"
+    }
+  ],
+  "name": "www.radio38.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-21T13:35:55.640Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

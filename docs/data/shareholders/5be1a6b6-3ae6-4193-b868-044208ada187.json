@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Wangen",
+  "pseudoCompany": false,
+  "name": "Schwäbische Zeitung Wangen GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-3ae6-4193-b868-044208ada187",
+  "controlDate": "2021-11-11T15:31:08.969Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "88239",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwäbische Zeitung (Ausgabe Wangen)",
+        "squuid": "5be1a6b1-c800-4a7e-b341-a9f23991340d"
+      },
+      "squuid": "5be1a6b9-3088-44fe-a9a3-ce68a7dc7344",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-1bc2-492c-9265-f532e0e83845",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbische Zeitung Wangen Verwaltungs-GmbH",
+        "squuid": "5ee9ccb0-312c-43c2-aecf-42947ab6bab5"
+      },
+      "squuid": "5ee9cd5f-7c6f-40f6-9da0-98ad4214a1d2",
+      "state": "active"
+    }
+  ]
+}

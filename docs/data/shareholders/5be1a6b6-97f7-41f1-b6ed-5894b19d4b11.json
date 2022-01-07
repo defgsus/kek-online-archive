@@ -1,0 +1,76 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Potsdamer Zeitungsverlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-8510-4beb-9eed-3216a050ae74"
+      },
+      "squuid": "5be1a6b8-5c80-4355-9bc0-38c851ecaa99",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Verlag Der Tagesspiegel GmbH",
+        "squuid": "5be1a6b6-6728-4fff-bb24-5700d8fdb1c6"
+      },
+      "squuid": "5be1a6b8-2d12-4fd1-9d89-f1ca3c4f1956",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Potsdamer Zeitungsverlagsgesellschaft Verwaltungs GmbH",
+        "squuid": "5ee229be-2863-4b6b-990c-060f877bf7ba"
+      },
+      "squuid": "5ee22a9e-53c4-4915-81b3-fdcbd483da03",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Askanischer Platz 3",
+  "name": "GMZ Gesellschaft für Medien-, Druck- und Zeitungsverlagsbeteiligungen mbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-97f7-41f1-b6ed-5894b19d4b11",
+  "otherMediaActivities": "\n\n",
+  "controlDate": "2021-09-30T14:26:12.757Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10963",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DvH Medien GmbH",
+        "squuid": "5be1a6b6-5ed8-4639-a346-1c7f7b26f35a"
+      },
+      "squuid": "5be1a6b8-9d8e-4516-8784-bb1240fa47ea",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "GMZ Gesellschaft für Medien-, Druck- und Zeitungsverlagsbeteiligungen Verwaltungsgesellschaft mbH",
+        "squuid": "5ec26058-5df2-4b1c-919f-e2e128ee2bd1"
+      },
+      "squuid": "5ec26082-b530-4cbd-9902-e6e127a1060f",
+      "state": "active"
+    }
+  ]
+}

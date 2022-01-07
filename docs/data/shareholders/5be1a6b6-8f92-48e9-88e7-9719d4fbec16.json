@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Sonnenstr.",
+  "name": "Haus & Grund Bayern Verlag und Service GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8f92-48e9-88e7-9719d4fbec16",
+  "controlDate": "2021-01-28T16:32:59.254Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80331",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bayerische Hausbesitzer-Zeitung",
+        "squuid": "5be1a6b1-a4f2-401b-b3be-c6931729996d"
+      },
+      "squuid": "5be1a6b9-e13d-4afe-afc0-c6e73132c3ad",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Haus- und Grund Bayern - Landesverband Bayerischer Haus-, Wohnungs- und Grundbesitzer e.V.",
+        "squuid": "5be1a6b6-33e4-47ea-a3ab-7e8549353fa8"
+      },
+      "squuid": "5be1a6b8-e371-463e-b12f-097aa367297e",
+      "state": "active"
+    }
+  ]
+}

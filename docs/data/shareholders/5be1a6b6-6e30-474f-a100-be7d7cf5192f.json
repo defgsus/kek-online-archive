@@ -1,0 +1,151 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Gemeinschaft Digitaler Radio Programme GmbH",
+        "squuid": "5be1a6b6-dc24-47cf-9ec2-e3f9b61bc5d2"
+      },
+      "squuid": "5d10c7bb-f73e-413a-b9f6-b462f103a28c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.692,
+      "held": {
+        "name": "Gemeinschaft Digitaler Radio Programme Beteiligungs-GmbH & Co. KG",
+        "squuid": "5f3e78f9-65e5-448e-9405-939dcc58f361"
+      },
+      "squuid": "5ff33325-5fcb-455a-adf2-11417a3ce2af",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Landshut",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Porschestraße",
+  "name": "Funkhaus Landshut GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-6e30-474f-a100-be7d7cf5192f",
+  "controlDate": "2021-12-07T16:45:21.824Z",
+  "streetNumber": "21",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "84030",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Galaxy Landshut",
+        "squuid": "5be1a6b1-5091-40de-b7b7-1f503b8ffbdc"
+      },
+      "squuid": "5be1a6b9-5220-4dde-8daf-a09ef7f94c6e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Trausnitz",
+        "squuid": "5be1a6b1-5eb0-4346-8771-1de540ab7658"
+      },
+      "squuid": "5be1a6b9-44e6-4ef9-96a2-73b2985ad3da",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.galaxy-landshut.de",
+        "squuid": "5f9049a4-51b1-4f49-bed8-bb3e1f66cac7"
+      },
+      "squuid": "5f904a27-45ef-434b-9059-d83600aa0dc5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-trausnitz.de",
+        "squuid": "5f96bd74-5640-4405-a302-248e26fc4281"
+      },
+      "squuid": "5f96bdc4-19ee-4531-9fe7-fad489e60090",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Radio AWN Landshut GmbH & Co. Hörfunk KG",
+        "squuid": "5be1a6b6-7468-4efc-9786-db3b43561958"
+      },
+      "squuid": "5be1a6b7-006d-40b3-a1ee-20a9dbca76c7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Neue Welle \"Antenne Landshut\" Rundfunk-Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-0d07-4116-9ede-fd59dbcc6c27"
+      },
+      "squuid": "5be1a6b7-637b-4c53-87c0-80003a777bce",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Funkhaus Landshut Verwaltungs GmbH",
+        "squuid": "5f904aad-3ea6-49af-8cd6-449bfa3f116e"
+      },
+      "squuid": "6050d3c1-ff7f-4e79-8147-90f75668c1ea",
+      "state": "active"
+    }
+  ]
+}

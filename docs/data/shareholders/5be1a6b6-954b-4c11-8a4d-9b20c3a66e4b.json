@@ -1,0 +1,39 @@
+{
+  "name": "Neue Verlagsgesellschaft GmbH",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hubert Burda Media Holding KG",
+        "squuid": "5be1a6b6-7626-4ccb-9b6d-025ef63b4f0a"
+      },
+      "squuid": "5be1a6b7-75bb-42b3-b0f7-f514a8c54157",
+      "state": "active"
+    }
+  ],
+  "squuid": "5be1a6b6-954b-4c11-8a4d-9b20c3a66e4b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Burda Direct GmbH",
+        "squuid": "5be1a6b6-cf53-499b-8a74-2fc26ee739d7"
+      },
+      "squuid": "5be1a6b7-fd75-48dc-934a-bcc4e3945408",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,78 @@
+{
+  "state": "active",
+  "city": "Marktheidenfeld",
+  "pseudoCompany": false,
+  "street": "Max-Braun-Straße",
+  "name": "Radio SANTEC GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8b99-447e-a438-2ed91e37195f",
+  "otherMediaActivities": "Die Radio SANTEC GmbH produziert Programminhalte zu weltanschaulichen Themen, die in diversen Radioprogrammen in ganz Europa ausgestrahlt werden.",
+  "controlDate": "2021-12-20T16:37:55.085Z",
+  "streetNumber": "2 - 4",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "97828",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sophia TV",
+        "squuid": "5be1a6b1-a6ec-4f94-b34c-8733694b0542"
+      },
+      "squuid": "5be1a6b9-466c-45bd-bb1d-b3b9d5c69a18",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-santec.com",
+        "squuid": "5f117fc1-c89c-4a62-9a11-c5113e4b4a6a"
+      },
+      "squuid": "5f118023-a077-44d0-a15d-ab82819703b2",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 05.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 31.0,
+      "holder": {
+        "name": "Hofer, Brigitte ",
+        "squuid": "5be1a6b6-488e-441f-8d4e-c5f8db791d79"
+      },
+      "squuid": "5be1a6b7-5a09-4015-8961-c9824f5f389f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Köbler, Matthias",
+        "squuid": "5c45a461-82cf-42f4-bcf7-b8f620aa9845"
+      },
+      "squuid": "5c45a527-f721-4f24-ab29-d96a88e7eb35",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Hetzel, Dr. Gert Joachim",
+        "squuid": "5c45a4af-6a9e-4644-808f-87d838090b2b"
+      },
+      "squuid": "5c45a54d-9abe-4568-9781-1454a52204d0",
+      "state": "active"
+    }
+  ]
+}

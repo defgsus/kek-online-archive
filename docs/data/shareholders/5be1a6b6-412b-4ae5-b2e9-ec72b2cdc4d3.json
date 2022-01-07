@@ -1,0 +1,91 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Antenne Koblenz GmbH",
+        "squuid": "5be1a6b6-a316-4364-876d-5f66fa24ddc7"
+      },
+      "squuid": "619d1641-e5b7-47b7-8478-9d094da03d3c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "held": {
+        "name": "Antenne Frankfurt GmbH",
+        "squuid": "5be1a6b6-6873-41c3-9937-cc5b685c758f"
+      },
+      "squuid": "61c31e0d-de97-4bd7-8f30-9cd8734ecd30",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kaiserslautern",
+  "pseudoCompany": false,
+  "street": "Am Altenhof",
+  "name": "The Radio Group GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-412b-4ae5-b2e9-ec72b2cdc4d3",
+  "controlDate": "2021-11-23T15:34:36.460Z",
+  "streetNumber": "11-13",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    }
+  ],
+  "zipcode": "67655",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Neunkirchen 94.6",
+        "squuid": "5be1a6b1-291b-43fc-ae21-db0b44407fa8"
+      },
+      "squuid": "5be1a6b9-ecea-4504-a0f0-9813e1b09823",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Homburg ",
+        "squuid": "5be1a6b1-5939-4023-813e-15687d25e437"
+      },
+      "squuid": "5be1a6b9-4ff3-4477-8e88-c01e6730741f",
+      "state": "active"
+    }
+  ],
+  "credits": "LMS",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwenk, Stephan",
+        "squuid": "5be1a6b6-fb21-4b9a-9e14-d7e66a4720bb"
+      },
+      "squuid": "619d0a00-54e3-4682-a2eb-a17539b4b390",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Burchardstr.",
+  "name": "Bauer Celebrity KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-5d65-45ad-8e41-598e4525b815",
+  "controlDate": "2021-10-15T13:39:10.449Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20095",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "mach mal Pause",
+        "squuid": "5be1a6b1-c61d-443d-8fe2-fe178139bc8d"
+      },
+      "squuid": "5be1a6b9-aa52-42dd-bfd7-af83b99f01ff",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mini",
+        "squuid": "5be1a6b1-1b80-4fdc-9167-b573fbcc4c15"
+      },
+      "squuid": "5be1a6b9-cb91-43de-8646-3fe7b4baceb7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Meine Melodie",
+        "squuid": "5be1a6b1-1c5d-46d1-a32f-f16f12a3e5a0"
+      },
+      "squuid": "5be1a6b9-91d4-476e-8204-ed33c76f7095",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schöne Woche",
+        "squuid": "5be1a6b1-4a4d-4468-921a-59314aeec10d"
+      },
+      "squuid": "5be1a6b9-6c84-459b-a76d-d81cb119d975",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Woche Heute",
+        "squuid": "5be1a6b1-90db-45ee-834b-918b403b1d06"
+      },
+      "squuid": "5be1a6b9-acf6-4c27-9e68-701591043521",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mein Leben",
+        "squuid": "5be1a6b1-5e85-488b-aece-a0685bf18231"
+      },
+      "squuid": "5be1a6b9-de7d-4117-ac8d-ccac05513c71",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Pflege & Familie",
+        "squuid": "5be1a6b1-892d-4d9d-ab8a-502eb362571a"
+      },
+      "squuid": "5be1a6b9-4ee8-4467-9607-4fc8818bc85c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gute Freizeit",
+        "squuid": "5be1a6b1-9a3a-420c-9498-2646e382c4a0"
+      },
+      "squuid": "5be1a6b9-d83c-413f-82f8-e7b5cf219614",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Freizeit Rätsel",
+        "squuid": "5be1a6b1-3341-4a09-ac6a-ab3649e5d3d6"
+      },
+      "squuid": "5be1a6b9-26e1-47c8-8286-01d8f8a77593",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "5be1a6b8-5f68-4b70-be54-acc9bc3aea97",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bauer Komplementär KG",
+        "squuid": "5eaffda5-a775-4f8a-9124-c01ded28585e"
+      },
+      "squuid": "5eb3f97a-ad7e-4d10-85b5-fa873daded33",
+      "state": "active"
+    }
+  ]
+}

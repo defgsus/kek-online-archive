@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Tettnang",
+  "pseudoCompany": false,
+  "name": "Schwäbische Zeitung Tettnang GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-0abe-42bd-8909-0fd13ca2f920",
+  "controlDate": "2021-11-11T15:29:54.169Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "88069",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwäbische Zeitung (Ausgabe Tettnang)",
+        "squuid": "5be1a6b1-d4cb-4849-b561-fd24e23bf7fa"
+      },
+      "squuid": "5be1a6b9-0dc9-4b6d-9e53-6c3620e23ff2",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-58b2-4b14-a385-1542e814c72e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbische Zeitung Tettnang Verwaltungs-GmbH",
+        "squuid": "5ee9cc0a-5f6a-4854-8512-6c7ebea40c18"
+      },
+      "squuid": "5ee9cc2e-271d-475e-84d4-8c39b5bcb837",
+      "state": "active"
+    }
+  ]
+}

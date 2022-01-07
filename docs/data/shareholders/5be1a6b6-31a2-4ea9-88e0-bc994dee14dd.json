@@ -1,0 +1,33 @@
+{
+  "state": "active",
+  "city": "Aachen",
+  "pseudoCompany": false,
+  "street": "Dresdener Str.",
+  "name": "ZVA Digital GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-31a2-4ea9-88e0-bc994dee14dd",
+  "controlDate": "2019-04-23T14:32:29.922Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "52068",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Medienhaus Aachen GmbH",
+        "squuid": "5be1a6b6-0200-4a40-921b-ce08c00a32ac"
+      },
+      "squuid": "5be1a6b8-73be-4f4d-a342-e593f2a273ab",
+      "state": "active"
+    }
+  ]
+}

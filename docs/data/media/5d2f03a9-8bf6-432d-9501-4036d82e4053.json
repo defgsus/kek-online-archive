@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5d2f03a9-8bf6-432d-9501-4036d82e4053",
+  "marketReach": 0.018238953502492723,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Rundfunk Berlin-Brandenburg (RBB)",
+        "squuid": "5be1a6b6-397d-4361-8635-4e42f797be3d"
+      },
+      "squuid": "5d2f03ea-ad7d-4c4c-90a6-7d2f51fccfd2",
+      "state": "active"
+    }
+  ],
+  "name": "www.radioeins.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-21T17:20:18.933Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "state": "active",
+  "city": "Oberwiesenthal",
+  "note": "",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Bergstraße",
+  "name": "Anbietergemeinschaft Radio Oberwiesenthal",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-94f9-4618-a9ba-4343db5cb07e",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09484",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Erzgebirge 107,7",
+        "squuid": "5be1a6b1-7068-4f68-9311-4ec35c7fddf5"
+      },
+      "squuid": "5be1a6b9-9b17-42e0-9c28-51802047bb2f",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "LFS Landesfunk Sachsen GmbH",
+        "squuid": "5be1a6b6-b740-46cb-9e6b-2bde3d68f29c"
+      },
+      "squuid": "5be1a6b7-ed3d-4db7-ba7a-c0213323377f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Radio Oberwiesenthal Regionale Rundfunk- und Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-0dc3-4679-95bc-750c21792ee4"
+      },
+      "squuid": "5be1a6b7-7291-4cb3-9c18-0860bccd09e7",
+      "state": "active"
+    }
+  ]
+}

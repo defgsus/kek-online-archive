@@ -1,0 +1,137 @@
+{
+  "state": "active",
+  "city": "Bremen",
+  "pseudoCompany": true,
+  "street": "Diepenau",
+  "name": "Radio Bremen",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-93ba-4cb0-81ce-65261bd2f196",
+  "controlDate": "2020-07-06T11:44:29.734Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "28195",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Bremen TV",
+        "squuid": "5be1a6b1-ea35-45b9-a727-22a1fd89f4e7"
+      },
+      "squuid": "5be1a6b9-17f8-4031-8deb-0b744cdcf4d7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bremen Eins",
+        "squuid": "5be1a6b1-2e22-43f6-909c-1b31e048f0c6"
+      },
+      "squuid": "5be1a6b9-8aab-4682-8309-576d2c5f0f5f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bremen Vier",
+        "squuid": "5be1a6b1-b18f-45e4-98dc-965a6c4fe204"
+      },
+      "squuid": "5be1a6b9-ef3d-4693-81bf-e2b9c512bb17",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bremen Zwei",
+        "squuid": "5be1a6b1-b5d3-4c93-aa8f-cc175f86f1e2"
+      },
+      "squuid": "5be1a6b9-17a7-469f-855b-35e7a2d4bb8e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bremen NEXT",
+        "squuid": "5be1a6b1-6470-4df5-b43d-b16bb577f5b7"
+      },
+      "squuid": "5be1a6b9-0db6-4a07-856a-a3ea055822b5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiobremen.de",
+        "squuid": "5c6c2c14-b3a9-4942-b15a-9cb9a599dcde"
+      },
+      "squuid": "5c6c2c32-183e-4b32-95cc-89b4f0559a14",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bremeneins.de",
+        "squuid": "5f8eeae0-280a-417e-8e0a-a4810c4da1f3"
+      },
+      "squuid": "5f8eeb3e-c6d5-410f-891a-93e55cb64730",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bremennext.de",
+        "squuid": "5f8eeb75-569b-4852-98dd-6514d3444f6c"
+      },
+      "squuid": "5f8eebf5-7637-44e5-a0c9-b196917bc8b3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bremenzwei.de",
+        "squuid": "5f8eeb9c-5a8a-4331-8563-53be05dac1c2"
+      },
+      "squuid": "5f8eec3e-966b-4496-9eb6-3cfc6d40ed23",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bremenvier.de",
+        "squuid": "5f8eebbc-6909-4a55-8d17-5a08e7d37905"
+      },
+      "squuid": "5f8eec82-c2cd-4416-9d71-82f335f33d60",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.butenunbinnen.de",
+        "squuid": "61c2062e-2c42-4063-b574-6ede9bc81ca8"
+      },
+      "squuid": "61c20653-63d4-4f25-be84-887cc42727ec",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)",
+        "squuid": "5be1a6b6-c5dc-4a3d-ad7b-deaabd587214"
+      },
+      "squuid": "5be1a6b7-9c4a-4934-96cc-4ae4ed7e6332",
+      "state": "active"
+    }
+  ]
+}

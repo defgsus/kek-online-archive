@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Marko Wünsch",
+  "state": "active",
+  "sharesInfo": "KEK 1071",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Ines Brilla",
+  "rfStartDate": "19.12.2020",
+  "rfFreePay": true,
+  "squuid": "5fd4700b-320b-4608-a429-6588b53eb888",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Deutsches Musik Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8fbd-4a98-b2e4-97a2545044f0"
+      },
+      "squuid": "5fd4735d-8174-4d28-beb9-6ad938d5aa7b",
+      "state": "active"
+    }
+  ],
+  "name": "LILO TV",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+    "name": "brema",
+    "type": "organization",
+    "fullName": "Bremische Landesmedienanstalt"
+  },
+  "description": "Spartenprogramm mit den Schwerpunkten \"Kochen und Ernährung\", nostalgische Spielfilme und Serien sowie Unterhaltungsmusik",
+  "rfLicenseUntil": "07.09.2030",
+  "rfLicensed": "06.10.2020",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "06.10.2020",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Lola e.V.",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-dacf-4338-a81c-25ce71c9df01",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "Anbietergemeinschaft Hamburger Lokalradio e.V.",
+        "squuid": "5be1a6b6-0228-4160-b5a2-0b9a3475c786"
+      },
+      "squuid": "5be1a6b7-e3ca-465c-9b51-d9cc73db7d2d",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

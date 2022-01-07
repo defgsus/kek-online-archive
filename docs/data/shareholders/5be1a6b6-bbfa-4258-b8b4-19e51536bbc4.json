@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Kempten (Allgäu)",
+  "pseudoCompany": false,
+  "street": "Heisinger Straße",
+  "name": "Allgäu Rundfunk GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-bbfa-4258-b8b4-19e51536bbc4",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "87437",
+  "credits": "Website der BLM, Abruf am 14.01.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Sankt Ulrich Verlag GmbH",
+        "squuid": "5be1a6b6-cac1-420a-b40c-87452e0ab6f4"
+      },
+      "squuid": "5be1a6b7-2c9c-49ba-a9b2-673954844921",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "rta.media GmbH",
+        "squuid": "5be1a6b6-835d-4817-ab25-5f64286c4824"
+      },
+      "squuid": "5be1a6b7-e9ce-432a-ab5e-436fc09ee788",
+      "state": "active"
+    }
+  ]
+}

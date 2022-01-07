@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f9185d2-6585-4a3d-aa73-5a4f1a4e2118",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bayerischer Rundfunk (BR)",
+        "squuid": "5be1a6b6-4924-43c9-95a6-d5d474f6b384"
+      },
+      "squuid": "5f918603-2efd-46f3-a8ae-9dde8d6e2073",
+      "state": "active"
+    }
+  ],
+  "name": "www.br.de/puls",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-01T13:26:47.415Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

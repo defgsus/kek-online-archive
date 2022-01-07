@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Offenburg",
+  "pseudoCompany": false,
+  "street": "Marlener Straße",
+  "name": "Lahrer Anzeiger Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a8e2-484b-aad5-b2810e16e882",
+  "controlDate": "2021-10-27T08:51:46.468Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "77656",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lahrer Anzeiger",
+        "squuid": "5be1a6b1-c410-48f2-84c4-d5ce098befac"
+      },
+      "squuid": "5be1a6b9-37d6-4a08-ac0c-e0f5a83291a6",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Reiff Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-3278-4c05-9688-8d598bffe272"
+      },
+      "squuid": "5be1a6b8-e7ca-49b9-89e8-4929207d2f8e",
+      "state": "active"
+    }
+  ]
+}

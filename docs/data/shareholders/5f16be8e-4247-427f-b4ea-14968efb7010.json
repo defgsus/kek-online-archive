@@ -1,0 +1,32 @@
+{
+  "name": "Gemeinde Rödinghausen",
+  "pseudoCompany": true,
+  "squuid": "5f16be8e-4247-427f-b4ea-14968efb7010",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.47,
+      "held": {
+        "name": "Kommunale Beteiligungsgesellschaft für den lokalen Rundfunk im Kreis Herford mbH",
+        "squuid": "5be1a6b6-03c5-4ce3-8bb8-77e17d10cb7e"
+      },
+      "squuid": "5f16bf92-7aaa-4e80-bd26-d82cb6c89cb1",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

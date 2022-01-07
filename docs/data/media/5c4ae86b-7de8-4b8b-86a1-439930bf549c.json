@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Sebastian Meyer",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "RA Fabian Braches",
+  "rfFreePay": true,
+  "squuid": "5c4ae86b-7de8-4b8b-86a1-439930bf549c",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.twitch.tv/rewinside",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Meyer, Sebastian",
+        "squuid": "5c4ae845-6957-4bfd-b5c1-c460fcd8c37f"
+      },
+      "squuid": "5c4ae8a6-5b3f-463d-81d3-1a67106a097c",
+      "state": "active"
+    }
+  ],
+  "name": "rewinside",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+    "name": "Sendebetrieb eingestellt",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Livestream-Angebot, das überwiegend aus Let's-Play-Formaten und z. T. aus Lifestyle-Formaten besteht. Das Programm wird ausschließlich über Twitch.tv übertragen.",
+  "rfLicenseUntil": "15.10.2023",
+  "rfLicensed": "16.10.2018",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "16.10.2018",
+  "accessibilityEmail": "kim@spacemgmt.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Radio Bonn/Rhein-Sieg GmbH & Co. KG",
+        "squuid": "5be1a6b6-cedf-42cf-96c2-9455aebbb02f"
+      },
+      "squuid": "5be1a6b7-b794-41bd-b3f5-0354a92fbf9c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "RBR Rundfunkbeteiligungsgesellschaft Bonn/Rhein-Sieg Geschäftsführungsgesellschaft mbH",
+        "squuid": "5f106538-368e-4f2b-a1e4-194c8a6eba63"
+      },
+      "squuid": "5ff5d381-6784-417d-971e-602a00a2272e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Robert-Kirchhoffstr.",
+  "name": "RBR Rundfunkbeteiligungsgesellschaft Bonn/Rhein-Sieg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1b16-44eb-a53d-81d7f8581e9d",
+  "controlDate": "2021-12-21T15:56:37.644Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "53121",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "RBR Rundfunkbeteiligungsgesellschaft Bonn/Rhein-Sieg Geschäftsführungsgesellschaft mbH",
+        "squuid": "5f106538-368e-4f2b-a1e4-194c8a6eba63"
+      },
+      "squuid": "5f106658-35b8-4ecc-9902-aa4cab3ca5f8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "General-Anzeiger Bonn GmbH",
+        "squuid": "5df8d245-a28a-4a77-8e51-8e4f9582e2b7"
+      },
+      "squuid": "5f1066a5-aa28-419d-b5bf-8529a8df4ae4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "DuMont Mediatainment GmbH & Co. KG",
+        "squuid": "5be1a6b6-40fa-4f5d-b8d7-34e7e5c1f0f2"
+      },
+      "squuid": "5ff6ed01-dc33-4716-9af0-78d5db809a08",
+      "state": "active"
+    }
+  ]
+}

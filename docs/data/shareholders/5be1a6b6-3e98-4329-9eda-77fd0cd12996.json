@@ -1,0 +1,42 @@
+{
+  "name": "Stadt Bottrop",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-3e98-4329-9eda-77fd0cd12996",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.71,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Emscher-Lippe mbH & Co. KG",
+        "squuid": "5be1a6b6-c41f-48b1-8173-2a38f8701aaa"
+      },
+      "squuid": "5be1a6b8-3582-4c09-9e2e-08afb0e53379",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.0,
+      "held": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Emscher-Lippe mbH",
+        "squuid": "5f15a3a2-5c32-49bf-952c-70c917065b72"
+      },
+      "squuid": "5ff5a105-a609-4c88-a10b-cf4c37a93775",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

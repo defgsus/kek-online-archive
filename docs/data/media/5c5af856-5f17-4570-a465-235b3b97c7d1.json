@@ -1,0 +1,74 @@
+{
+  "rfRepresentative": "Walter, Michael",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "Dezember 1993",
+  "rfFreePay": true,
+  "squuid": "5c5af856-5f17-4570-a465-235b3b97c7d1",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "accessibilityUrl": "https://www.sprembergtv.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Walter, Michael",
+        "squuid": "5c5af804-454a-4678-87e1-25b9fa135a64"
+      },
+      "squuid": "5c5afaae-2a36-4c34-95f7-5679dd22f8e5",
+      "state": "active"
+    }
+  ],
+  "name": "Kanal 12 Spremberg TV",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+    "name": "Spartenprogramm (Information/Dokumentation)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "rfLicenseUntil": "31.01.2022",
+  "rfLicensed": "25.03.2015",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d7a7-4bd8-a6c4-89a1eb1c79a0",
+      "name": "Lokale Kabelnetze (veraltet)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.02.2015",
+  "rfAddress": "Muskauer Straße 96 F, 03130 Spremberg",
+  "accessibilityEmail": "sprembergtv@t-online.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

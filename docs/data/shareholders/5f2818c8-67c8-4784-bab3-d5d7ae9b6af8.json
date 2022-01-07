@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Halberstadt",
+  "pseudoCompany": false,
+  "street": "Oststr.",
+  "name": "RFH Regionalfernsehen Harz GmbH",
+  "naturalPerson": false,
+  "squuid": "5f2818c8-67c8-4784-bab3-d5d7ae9b6af8",
+  "controlDate": "2022-01-03T15:46:17.247Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "38820",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rfh-tv.de",
+        "squuid": "5f28182c-7fa5-446f-8f2e-cdb0c422d929"
+      },
+      "squuid": "5f2818d9-541f-44d6-849a-f13999c15ff3",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ahrens, Marcus",
+        "squuid": "5d021259-0ec4-449d-a11e-97834f8d59d5"
+      },
+      "squuid": "5f281945-cfcc-43ff-8fbe-4f5c7c6baed2",
+      "state": "active"
+    }
+  ]
+}

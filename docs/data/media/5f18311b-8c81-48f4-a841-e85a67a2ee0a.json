@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f18311b-8c81-48f4-a841-e85a67a2ee0a",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL Nord GmbH",
+        "squuid": "5be1a6b6-47dc-4077-b376-a8d2229ae26b"
+      },
+      "squuid": "5f183202-b747-463f-bb75-84540bdc2243",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL interactive GmbH",
+        "squuid": "5be1a6b6-83ed-4c73-98a7-1ddc01209e8e"
+      },
+      "squuid": "60b89fc1-f610-4f84-a104-c11a1391268c",
+      "state": "active"
+    }
+  ],
+  "name": "www.rtlnord.de/niedersachsen-bremen",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-04T11:35:01.232Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

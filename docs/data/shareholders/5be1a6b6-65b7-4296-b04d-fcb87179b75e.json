@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Vogelsanger Straße 66",
+  "name": "DocCheck Community GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-65b7-4296-b04d-fcb87179b75e",
+  "controlDate": "2021-12-03T13:20:47.326Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50823",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.doccheck.de",
+        "squuid": "5be1a6b1-9454-4a29-9a4f-6e861ff2e7dc"
+      },
+      "squuid": "5be1a6b9-2891-4512-b3f5-ce0ced7c068b",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DocCheck AG",
+        "squuid": "5be1a6b6-6816-42ce-a098-ba786fd091f4"
+      },
+      "squuid": "5be1a6b8-adf9-41c6-b763-d1a160a2d891",
+      "state": "active"
+    }
+  ]
+}

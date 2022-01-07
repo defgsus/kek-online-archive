@@ -1,0 +1,30 @@
+{
+  "name": "Beyond Capital Partners FP GmbH & Co. KG",
+  "squuid": "6050dde6-aa19-43fe-83cf-3e4b6b5cf943",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Beyond Capital Partners Fund I GmbH & Co. KG",
+        "squuid": "5ff329c8-15ec-4383-bc9c-5bb7eaa9c083"
+      },
+      "squuid": "6050de71-845f-4aaf-b2e1-7b34b8be9a41",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active"
+}

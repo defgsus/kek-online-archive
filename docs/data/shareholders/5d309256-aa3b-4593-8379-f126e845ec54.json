@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Fressnapf Luxembourg GmbH",
+        "squuid": "5d306b94-9b41-46da-bbc6-3711b280813f"
+      },
+      "squuid": "5d309277-d017-46e6-b65b-aa9f86b4bb9d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Krefeld",
+  "pseudoCompany": false,
+  "street": "Westpreußenstr.",
+  "name": "Fressnapf Tiernahrungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5d309256-aa3b-4593-8379-f126e845ec54",
+  "controlDate": "2021-12-13T12:38:54.442Z",
+  "streetNumber": "32-38",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "47809",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 94.0,
+      "holder": {
+        "name": "Fressnapf Holding SE",
+        "squuid": "5d30934e-240f-4581-a060-39214eb4ad7f"
+      },
+      "squuid": "5d3093a4-c6aa-469c-a43c-6cb4116bcc61",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.0,
+      "holder": {
+        "name": "TILEO Beteiligungs GmbH",
+        "squuid": "5d309384-5fa8-475a-9b1a-5154c85d1934"
+      },
+      "squuid": "5d3093b6-d1cc-443a-9ac2-3a775ba3d5ae",
+      "state": "active"
+    }
+  ]
+}

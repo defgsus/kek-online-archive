@@ -1,0 +1,94 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Leverkusen GmbH",
+        "squuid": "5f16d83e-a742-4213-b540-7f09a01a0790"
+      },
+      "squuid": "5ff6e026-5b90-4bd8-8176-b8b64bc40681",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leverkusen",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Breidenbachstr.",
+  "name": "Radio Leverkusen GmbH & Co. KG",
+  "naturalPerson": false,
+  "co": "HSG Hörfunk Service GmbH",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d425-4ae7-ab48-785336c7af25",
+  "controlDate": "2021-12-22T15:19:09.407Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "51373",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Leverkusen",
+        "squuid": "5be1a6b1-5ee1-494a-b761-9121bb2773ef"
+      },
+      "squuid": "5be1a6b9-83c3-475c-8e9f-b1382c69ea68",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioleverkusen.de",
+        "squuid": "5f16d781-5e56-4813-b94a-d1889c58c08a"
+      },
+      "squuid": "5f16d7fd-d634-4fca-b6a9-f43b93401908",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Stadt Leverkusen",
+        "squuid": "5be1a6b6-80aa-4b72-8905-d142f490c4d7"
+      },
+      "squuid": "5be1a6b7-c878-4306-8c70-5290ff9bba72",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Rundfunk-Holding Leverkusen GmbH & Co. KG",
+        "squuid": "5be1a6b6-d215-4285-917b-c45b6439c541"
+      },
+      "squuid": "5be1a6b7-bd28-4621-ac61-9ee2c240ccbf",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Leverkusen GmbH",
+        "squuid": "5f16d83e-a742-4213-b540-7f09a01a0790"
+      },
+      "squuid": "5f16d8b3-8da8-4dce-9104-bd3f3c7a2af7",
+      "state": "active"
+    }
+  ]
+}

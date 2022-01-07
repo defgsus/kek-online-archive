@@ -1,0 +1,48 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Lützowplatz",
+  "name": "Stiftung Warentest",
+  "naturalPerson": false,
+  "squuid": "5d2c8736-dde8-4695-b370-394315f42729",
+  "controlDate": "2020-06-17T11:03:16.218Z",
+  "streetNumber": "11-13",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10785",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.test.de",
+        "squuid": "5d2c86f7-b141-4c05-bcc9-dd6574a61b2b"
+      },
+      "squuid": "5d2c8800-97ac-46bc-9763-2755ccd1267b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "test",
+        "squuid": "5d2c8710-4429-4be9-a849-39782fb53542"
+      },
+      "squuid": "5d2c88f8-8325-4861-b10a-452f2ef0d555",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Finanztest",
+        "squuid": "5d2c8728-0a7f-459f-bc04-f6a7f4da74d4"
+      },
+      "squuid": "5d2c898b-2e2e-4971-bb79-33095b2426ae",
+      "state": "active"
+    }
+  ]
+}

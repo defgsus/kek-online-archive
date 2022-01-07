@@ -1,0 +1,88 @@
+{
+  "state": "active",
+  "city": "Regensburg",
+  "pseudoCompany": false,
+  "street": "Seiffertstr. 5",
+  "name": "Aurelius KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-5bdb-402a-8d4b-042321a628c9",
+  "controlDate": "2021-11-01T14:15:15.962Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "93049",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Schwabenbauer, Dominique",
+        "squuid": "5be1a6b6-ccb2-4d72-a107-394a60c41db8"
+      },
+      "liabilitySum": 25.0,
+      "squuid": "5be1a6b8-5897-40df-ae86-6437539a05e0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Esser, Felix",
+        "squuid": "5be1a6b6-a57c-4fad-b611-b0a3559a3c57"
+      },
+      "liabilitySum": 25.0,
+      "squuid": "5be1a6b8-1d39-4dad-a929-27e9406926c9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Esser, Julian",
+        "squuid": "5be1a6b6-510e-4d5e-8d9a-302463cfe4b5"
+      },
+      "liabilitySum": 25.0,
+      "squuid": "5be1a6b8-c808-42fb-8344-2d49fda6ef2f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Esser, Moritz",
+        "squuid": "5be1a6b6-f5c5-439f-8f30-72d8cc0e3677"
+      },
+      "liabilitySum": 25.0,
+      "squuid": "5be1a6b8-159e-421a-baaa-f8b3ee7a49fa",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Esser, Peter",
+        "squuid": "5c77ebb5-2158-471b-b46e-0055b1b71b7d"
+      },
+      "squuid": "5c77f030-f282-4f1d-89de-55247a2a062c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "holder": {
+        "name": "Aurelius Verwaltungs GmbH",
+        "squuid": "5dfc9e4b-f5fe-43c7-a63c-0cfaa294dfa9"
+      },
+      "squuid": "5dfc9e8e-81f1-4378-95e0-17f4e50f2691",
+      "state": "active"
+    }
+  ]
+}

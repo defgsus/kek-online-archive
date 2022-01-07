@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Neuruppin",
+  "pseudoCompany": false,
+  "street": "Karl-Marx-Straße",
+  "name": "MAZ-Regionalverlag Prignitz-Ruppin GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ad3c-4c85-bfed-7ddbe7ad0dca",
+  "controlDate": "2021-05-05T14:59:53.327Z",
+  "streetNumber": "64",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "16816",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Märkische Allgemeine (Ausgaben Oranienburg, Gransee, Nauen, Prignitz, Ostprignitz-Ruppin)",
+        "squuid": "5be1a6b1-199e-4d14-a7c6-30281e3f280e"
+      },
+      "squuid": "5c1a5b74-d15b-4be2-aacc-cf6603750338",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Märkische Verlags- und Druck-Gesellschaft mbH Potsdam",
+        "squuid": "5be1a6b6-8cd1-46d4-85d9-5e8bbee063fe"
+      },
+      "squuid": "5be1a6b8-4fdc-416b-b52b-52250defd78a",
+      "state": "active"
+    }
+  ]
+}

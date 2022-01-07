@@ -1,0 +1,74 @@
+{
+  "rfRepresentative": "Marcus Lottermoser",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "André Phillipp Gluderer",
+  "rfStartDate": "Juni 2018",
+  "rfFreePay": true,
+  "squuid": "5ce2d41d-376f-44f4-a126-a9d870a9ddc0",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.slethzockt.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Lottermoser, Marcus",
+        "squuid": "5ce2d3e6-9c34-4924-b3b5-18e8f9b5efa0"
+      },
+      "squuid": "5ce2d620-e042-4ceb-8cb8-8baf9d6766bd",
+      "state": "active"
+    }
+  ],
+  "name": "SlethZockt",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "SlethZockt ist ein Streaming-Angebot, das über twich.tv und slethzockt.de verbreitet wird. Inhaltlich handelt es sich um \"Let'sPlays\", also das kommentierte Spielen von Computerspielen.",
+  "rfLicenseUntil": "07.04.2023",
+  "rfLicensed": "08.04.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "08.04.2019",
+  "accessibilityEmail": "contact@slethzockt.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

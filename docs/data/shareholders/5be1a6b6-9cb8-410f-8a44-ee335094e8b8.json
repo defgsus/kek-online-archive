@@ -1,0 +1,43 @@
+{
+  "name": "Langenberger, Antje",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-9cb8-410f-8a44-ee335094e8b8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "held": {
+        "name": "Hotz GmbH & Co. KG",
+        "squuid": "5be1a6b6-adcd-4e69-bbad-0e603672dd58"
+      },
+      "squuid": "5be1a6b8-b005-41cc-8425-01c01bd8043e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Langenberger Hotz-Beteiligung GmbH & Co. KG",
+        "squuid": "5be1a6b6-0ef8-4c59-9687-696ab0486334"
+      },
+      "squuid": "5f0d98d0-f4ce-4d5b-845d-bb1deacd0fb9",
+      "state": "active"
+    }
+  ],
+  "city": "Wolfsburg",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

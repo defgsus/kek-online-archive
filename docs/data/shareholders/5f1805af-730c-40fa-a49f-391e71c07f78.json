@@ -1,0 +1,31 @@
+{
+  "name": "Streubesitz an der Generali S.p.A.",
+  "pseudoCompany": true,
+  "squuid": "5f1805af-730c-40fa-a49f-391e71c07f78",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 73.2,
+      "held": {
+        "name": "Assicurazioni Generali S.p.A.",
+        "squuid": "5f155ba1-36d5-4adc-b0ef-cc7a1ad2acfb"
+      },
+      "squuid": "5f180687-6718-4780-8f06-06eed37d9f79",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

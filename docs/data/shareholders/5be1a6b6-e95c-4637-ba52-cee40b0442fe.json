@@ -1,0 +1,58 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Oberwiesenthal Regionale Rundfunk- und Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-0dc3-4679-95bc-750c21792ee4"
+      },
+      "squuid": "5be1a6b8-2126-427c-bc20-cfb2de194952",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Oberwiesenthal",
+  "pseudoCompany": false,
+  "street": "Bergstraße",
+  "name": "Wilde, Roswitha",
+  "naturalPerson": true,
+  "co": "Radio Oberwiesenthal",
+  "squuid": "5be1a6b6-e95c-4637-ba52-cee40b0442fe",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09484",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Oberwiesenthal - Hörfunk im Kabelnetz",
+        "squuid": "5be1a6b1-18a4-45ff-9732-66d28cdb8c1a"
+      },
+      "squuid": "5be1a6b9-fcfa-4b94-8092-81a2912b2939",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Oberwiesenthaler Bildschirmtext - TV im Kabelnetz",
+        "squuid": "5c583afb-d696-4338-913c-b159da6fe54d"
+      },
+      "squuid": "5c583ea5-d239-4c59-976e-bd07abba55ca",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM"
+}

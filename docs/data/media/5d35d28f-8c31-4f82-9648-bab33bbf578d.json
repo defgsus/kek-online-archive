@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5d35d28f-8c31-4f82-9648-bab33bbf578d",
+  "marketReach": 0.09393421447572133,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Deutscher Bundestag/Referat Online-Dienste, Parlamentsfernsehen ",
+        "squuid": "5d35d2c1-9c4c-47a7-b1a7-ebf9c68da3f1"
+      },
+      "squuid": "5d35d2e0-e26f-470b-8e9c-c079a1ebf34d",
+      "state": "active"
+    }
+  ],
+  "name": "www.bundestag.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-01T14:02:50.622Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

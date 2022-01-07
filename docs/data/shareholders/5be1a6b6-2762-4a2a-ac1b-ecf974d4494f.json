@@ -1,0 +1,72 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 19.0,
+      "held": {
+        "name": "Antenne Niedersachsen GmbH & Co. KG",
+        "squuid": "5be1a6b6-a997-45d6-8d9d-b0d0b50972f1"
+      },
+      "squuid": "5be1a6b7-5621-47d2-8a16-8b6b2d89d3bc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gronau (Leine)",
+  "pseudoCompany": false,
+  "street": "Junkernstraße",
+  "name": "Studio Gong Niedersachsen GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-2762-4a2a-ac1b-ecf974d4494f",
+  "controlDate": "2021-11-24T15:36:39.726Z",
+  "streetNumber": "13",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "31028",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5ee898d2-ce1e-4529-b630-bd97eb1844a0",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Studio Gong Deutschland Verwaltungs GmbH",
+        "squuid": "5ee898af-87db-4964-a12f-9294ac21b57f"
+      },
+      "squuid": "5ee898e0-2549-4814-a233-ca6b43bf1510",
+      "state": "active"
+    }
+  ]
+}

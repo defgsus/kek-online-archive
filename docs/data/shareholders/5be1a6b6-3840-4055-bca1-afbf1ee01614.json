@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio VHR",
+        "squuid": "5be1a6b6-5429-4c03-b436-3d503303ce3e"
+      },
+      "squuid": "5e26f69e-0ad0-4b2e-a9dd-43155b97434d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Krandick, Alfred Heinrich",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-3840-4055-bca1-afbf1ee01614",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio VHR",
+        "squuid": "5be1a6b1-d5c0-4bae-b01c-f7ba721a1d03"
+      },
+      "squuid": "5be1a6b9-f8be-4240-a090-2d6e6f28ddc7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-vhr.de",
+        "squuid": "5f1ac0a0-0658-4c7c-a08f-a7fe60bbc150"
+      },
+      "squuid": "5f1ac16e-8374-4512-a67e-ff9f719bbf6b",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH"
+}

@@ -1,0 +1,104 @@
+{
+  "state": "active",
+  "city": "Unterhaching",
+  "pseudoCompany": false,
+  "street": "Grünwalder Weg",
+  "name": "Stingray Germany GmbH",
+  "naturalPerson": false,
+  "squuid": "61544865-7df5-4578-968a-828e93f8c0ba",
+  "streetNumber": "28 d",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82041",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stingray Classica",
+        "squuid": "615447d0-31a2-41a7-aecc-5c8c4b355de2"
+      },
+      "squuid": "615448a6-28c3-4bbd-aa34-439935d28f35",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stingray Djazz",
+        "squuid": "615447e4-13c6-414f-85a1-c3c96486c9a9"
+      },
+      "squuid": "61545a72-b8a5-4943-bf2f-a218cbe30312",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stingray CMusic",
+        "squuid": "615447fb-67fe-418f-b7c0-81bbfd4e21b5"
+      },
+      "squuid": "61545f20-7f63-4501-8b82-dbe49ebf5d59",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stingray Festival",
+        "squuid": "61544815-0ba0-4f89-89a1-575794fa9b9a"
+      },
+      "squuid": "61546112-0820-4580-8dc7-5097b6e42402",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stingray Hits",
+        "squuid": "61544825-5c67-48e8-864b-1214b49e2453"
+      },
+      "squuid": "61546367-dc83-4ffa-852c-d5eed5796004",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stingray Naturescape",
+        "squuid": "6154483b-67a6-481d-8645-e839887a213a"
+      },
+      "squuid": "61546528-d7df-4eae-9df9-3866bb8bdc3b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stingray Lite TV",
+        "squuid": "5be1a6b1-c79a-40ea-88b7-996561a0fed1"
+      },
+      "squuid": "61546662-43f1-47e9-a29a-3c8945771738",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stingray Qello",
+        "squuid": "61544851-817d-4e5c-8920-801a7b28fd9a"
+      },
+      "squuid": "615468e9-b928-427e-ac81-b8c3e7df6fbb",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stingray Digital International Ltd.",
+        "squuid": "5be1a6b6-b5eb-453d-94dc-961e093c7c18"
+      },
+      "squuid": "6154500d-1778-48c2-982b-09e1403d60c3",
+      "state": "active"
+    }
+  ]
+}

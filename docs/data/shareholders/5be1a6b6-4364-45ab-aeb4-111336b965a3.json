@@ -1,0 +1,118 @@
+{
+  "state": "active",
+  "city": "Fürstenfeldbruck",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Schöngeisinger Straße",
+  "name": "AMPERWELLE Gesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4364-45ab-aeb4-111336b965a3",
+  "controlDate": "2022-01-06T16:10:08.417Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "82256",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "106.4 TOP FM",
+        "squuid": "5be1a6b1-c22d-45ea-8f76-25285f63d780"
+      },
+      "squuid": "5be1a6b9-0551-4cc1-9c4d-2b3810f56d8a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.top-fm.de",
+        "squuid": "5f806e05-0c87-459a-9957-1d8b9e7fc8ca"
+      },
+      "squuid": "5f806e4d-2509-49f9-82cd-55398620b943",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 24.36,
+      "holder": {
+        "name": "rt1.broadcast management GmbH",
+        "squuid": "5be1a6b6-85f0-48b9-9138-215258d455f7"
+      },
+      "squuid": "5c90e504-9ac6-4eaf-ae43-fbd6225b8091",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.49,
+      "holder": {
+        "name": "Zeitungsverlag Oberbayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-baa5-4644-bd90-1f917d261023"
+      },
+      "squuid": "5c90e528-29b6-4490-be35-4cc1956a0999",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 23.3,
+      "holder": {
+        "name": "MUC-West Radio- und Programmanbieter GmbH & Co. KG",
+        "squuid": "5c90e594-56f0-4ce6-9819-ee466fa292b0"
+      },
+      "squuid": "5c90e619-74ff-4ddc-b932-aaa33e5799e2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.22,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5c90e64e-3ad2-4079-a4a1-c5242333336e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.87,
+      "holder": {
+        "name": "Amper-Kurier GmbH",
+        "squuid": "5be1a6b6-c8a4-4698-af6c-a97bf8c61028"
+      },
+      "squuid": "5c90e664-3eba-4e80-8261-63cbf4bf157c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.66,
+      "holder": {
+        "name": "Lemke Medical TV GmbH",
+        "squuid": "5c90ea22-749f-4c68-aca4-86778b9c1b0f"
+      },
+      "squuid": "5c90ea7e-aca0-48ce-ba0b-9d90f9e3fba5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.1,
+      "holder": {
+        "name": "Huber, Maria Anna",
+        "squuid": "5c9381e3-2cf1-4be6-8bc9-516f2c19ebfe"
+      },
+      "squuid": "5c938227-bee1-49b9-aae5-58123ef91489",
+      "state": "active"
+    }
+  ]
+}

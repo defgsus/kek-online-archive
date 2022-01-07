@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Bamberg",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr.",
+  "name": "Digitalhaus Franken GmbH",
+  "naturalPerson": false,
+  "squuid": "604a46d7-2329-4db3-ab33-adf5784822dc",
+  "controlDate": "2021-10-15T14:22:21.539Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "96050",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fraenkischertag.de",
+        "squuid": "604a46b4-c8ec-45e9-bf77-9513184d5da8"
+      },
+      "squuid": "604a4709-8346-46cc-abdb-02952ecb67d9",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mediengruppe Oberfranken Zeitungsverlage GmbH & Co KG",
+        "squuid": "5be1a6b6-1ba9-4404-8b0b-eacd59f83952"
+      },
+      "squuid": "604a4827-d91b-46de-8e7c-314d18c075d9",
+      "state": "active"
+    }
+  ]
+}

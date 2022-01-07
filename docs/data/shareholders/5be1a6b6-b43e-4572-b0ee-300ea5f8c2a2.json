@@ -1,0 +1,50 @@
+{
+  "name": "Erzbistum Hamburg",
+  "pseudoCompany": true,
+  "controlDate": "2019-07-05T12:52:31.652Z",
+  "squuid": "5be1a6b6-b43e-4572-b0ee-300ea5f8c2a2",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.5,
+      "held": {
+        "name": "Tellux Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-434a-4353-9b67-bb8a0bcf4412"
+      },
+      "squuid": "5be1a6b8-f369-4451-a388-85b5ca654eeb",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

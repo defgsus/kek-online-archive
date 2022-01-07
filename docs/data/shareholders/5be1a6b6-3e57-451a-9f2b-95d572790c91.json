@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Recklinghausen",
+  "pseudoCompany": false,
+  "street": "Auf dem Graben 2",
+  "name": "BMV Bistumszeitung Münster Verlag gGmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3e57-451a-9f2b-95d572790c91",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "45657",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 77.5,
+      "holder": {
+        "name": "Bistum Münster",
+        "squuid": "5be1a6b6-7135-40ad-bdf4-b63471756602"
+      },
+      "squuid": "5be1a6b8-b41c-46c5-bc2d-b48d2723bf98",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.5,
+      "holder": {
+        "name": "Römisch-Katholische Kirche im Oldenburgischen Teil der Diözese Münster",
+        "squuid": "5be1a6b6-bdb5-41e5-954b-ecfe8bab0057"
+      },
+      "squuid": "5be1a6b8-fbf1-4519-8f18-05d0e044c78e",
+      "state": "active"
+    }
+  ]
+}

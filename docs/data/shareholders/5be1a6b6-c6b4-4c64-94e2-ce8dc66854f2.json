@@ -1,0 +1,77 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Georg von Holtzbrinck GmbH & Co. KG",
+        "squuid": "5be1a6b6-3efe-470d-89eb-1d230f00b5fa"
+      },
+      "squuid": "5be1a6b7-8da1-4246-84cd-28aefc37439e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Verlagsgruppe Georg von Holtzbrinck GmbH",
+        "squuid": "5be1a6b6-d60b-442a-b6cd-ee9a770b1646"
+      },
+      "squuid": "5be1a6b7-a3a9-4709-927d-fbb196b54996",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Gänseheidestr. 26",
+  "name": "Monika Schoeller Familiengesellschaft mbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-c6b4-4c64-94e2-ce8dc66854f2",
+  "controlDate": "2021-10-04T13:37:54.803Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "70184",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schoeller, Christiane",
+        "squuid": "5be1a6b6-f35d-4b06-b2c8-e57e1c048bb8"
+      },
+      "squuid": "5be1a6b8-3675-4984-8358-10cf89df97cc",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Familie Schoeller Verwaltungs GmbH",
+        "squuid": "5ec3cfd0-000f-444f-8980-5386b9734d1e"
+      },
+      "squuid": "5ec3cff0-101b-4a30-818f-c0bfec79275c",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Burchardstr.",
+  "name": "Bauer Style & Luxury KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-dcda-4d8a-bb55-0b6a70d6d659",
+  "controlDate": "2020-06-05T13:10:48.305Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "20095",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "5be1a6b8-1956-4d00-a948-eeae8b9fa7f8",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bauer Komplementär KG",
+        "squuid": "5eaffda5-a775-4f8a-9124-c01ded28585e"
+      },
+      "squuid": "5eda4531-e0e3-4d11-810a-b277e15ed9e1",
+      "state": "active"
+    }
+  ]
+}

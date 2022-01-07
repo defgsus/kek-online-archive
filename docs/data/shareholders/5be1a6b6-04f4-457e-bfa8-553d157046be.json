@@ -1,0 +1,82 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.91,
+      "held": {
+        "name": "dpa Deutsche Presse Agentur GmbH",
+        "squuid": "5be1a6b6-d7c9-45c5-99de-2acb723d2e72"
+      },
+      "squuid": "5c499031-03a9-43fc-836c-96c7649f6bd5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "ka-news GmbH",
+        "squuid": "5c51bfad-264e-44e6-8ca5-87e330e7d004"
+      },
+      "squuid": "5c51c0e0-ca0e-4aee-90c3-fb8f8824c05d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Konstanz",
+  "pseudoCompany": false,
+  "street": "Max-Stromeyer-Str. 178",
+  "name": "Südkurier GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-04f4-457e-bfa8-553d157046be",
+  "controlDate": "2021-11-16T15:33:56.328Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "78467",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Südkurier",
+        "squuid": "5be1a6b1-7b79-4f6d-a39d-4ce8f97ccdfb"
+      },
+      "squuid": "5be1a6b9-656f-4fe2-a401-044c3aa92a03",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.suedkurier.de",
+        "squuid": "5be1a6b1-e224-4e50-a837-04d6926bce88"
+      },
+      "squuid": "5be1a6b9-d469-46fb-865d-8f675772e90b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Alb Bote (Waldshut)",
+        "squuid": "5be1a6b1-d1f6-4c07-aad3-8abac8f8f5de"
+      },
+      "squuid": "5be1a6b9-a024-4ca1-b7b2-bcc4e53b0b04",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "PDV Medien Beteiligungs II GmbH",
+        "squuid": "5be1a6b6-309d-47d1-989b-aa6289bef66b"
+      },
+      "squuid": "5be1a6b8-25b9-41d0-a1f2-1e292d8214be",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Grunewaldstr.",
+  "name": "KCRW Berlin gGmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8f60-40a1-a7c8-6f765fd8dc24",
+  "controlDate": "2021-12-10T11:58:54.495Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "12165",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "KCRW Berlin",
+        "squuid": "5be1a6b1-dd0a-43db-909d-39fcee1c6b4d"
+      },
+      "squuid": "5be1a6b9-89f1-486d-b374-0761562e4b5a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kcrwberlin.com",
+        "squuid": "5f353e1f-289d-4232-a7c9-8bf8ea006db5"
+      },
+      "squuid": "5f353e47-6c42-46c5-a8d6-7be70e6e308c",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Roth, Karen",
+        "squuid": "5be1a6b6-fbb8-4876-975b-87617af67473"
+      },
+      "squuid": "5be1a6b8-1775-4e65-a487-4b5544806faa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kuchenbecker, Dr. Antje",
+        "squuid": "5f353f36-41e6-43f4-8e50-9f2b05c33993"
+      },
+      "squuid": "5f353f80-cf6f-4d87-adb7-bc6009d3dfac",
+      "state": "active"
+    }
+  ]
+}

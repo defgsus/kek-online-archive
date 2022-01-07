@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Schwerte",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-bf61-448a-992f-82e66648af69",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.25,
+      "held": {
+        "name": "Antenne Unna Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-a808-45af-8bdf-6dc05e47cb44"
+      },
+      "squuid": "5be1a6b7-6fe2-46a8-8e27-82e1e73d83d7",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

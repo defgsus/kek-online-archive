@@ -1,0 +1,113 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Gütersloh Betriebs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5f1049ab-67e5-49a8-ae35-7ede027abdb8"
+      },
+      "squuid": "5ff6de0e-cec6-4901-810a-22b1f9d9b66e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gütersloh",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Kahlertstr.",
+  "name": "Radio Gütersloh Betriebsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-8678-4c3a-80a8-a1e585c9889a",
+  "controlDate": "2021-12-22T13:03:16.513Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "33330",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Gütersloh",
+        "squuid": "5be1a6b1-83ed-46bb-85e0-27f2e91de3ce"
+      },
+      "squuid": "5be1a6b9-ef43-45de-8a7b-10de8d89cd81",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioguetersloh.de",
+        "squuid": "5f1049dd-89ae-4e21-b478-df032c6b3283"
+      },
+      "squuid": "5f104a2e-722f-40c8-a434-1d929b225a85",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 27.04,
+      "holder": {
+        "name": "Zeitungsverlag Neue Westfälische GmbH & Co. KG",
+        "squuid": "5be1a6b6-2567-447c-b4a0-60f7702714c2"
+      },
+      "squuid": "5be1a6b7-2548-4ea9-9d9c-76fd7defd882",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 32.71,
+      "holder": {
+        "name": "E. Holterdorf GmbH & Co. KG",
+        "squuid": "5be1a6b6-c488-44e2-a1a2-a1fade69831a"
+      },
+      "squuid": "5be1a6b7-71f2-47d8-94b1-d0cb88297c99",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.25,
+      "holder": {
+        "name": "Haller Kreisblatt Verlags-GmbH",
+        "squuid": "5be1a6b6-74c0-4578-9c26-b2c91711672a"
+      },
+      "squuid": "5be1a6b7-9dee-4631-a814-5f9035e23de4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Kreis Gütersloh",
+        "squuid": "5be1a6b6-fa6c-478d-9e8f-8fc8a56962c3"
+      },
+      "squuid": "5be1a6b7-6d80-4bc1-9556-107b0a98dcf8",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Gütersloh Betriebs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5f1049ab-67e5-49a8-ae35-7ede027abdb8"
+      },
+      "squuid": "5f104afd-ff87-4481-95f6-adc44406963a",
+      "state": "active"
+    }
+  ]
+}

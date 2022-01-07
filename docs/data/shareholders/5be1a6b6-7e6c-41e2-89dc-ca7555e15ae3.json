@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Augustenstr. 1",
+  "name": "Verlag Das Beste GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7e6c-41e2-89dc-ca7555e15ae3",
+  "controlDate": "2021-11-08T17:12:16.785Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70178",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Daheim in Deutschland",
+        "squuid": "5be1a6b1-642d-49ed-9f58-92925378c5fb"
+      },
+      "squuid": "5be1a6b9-757a-4d53-8d82-c703856d6f6a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Readers Digest Das Beste",
+        "squuid": "5be1a6b1-70f9-4dd8-abe9-4ed225f45a29"
+      },
+      "squuid": "5be1a6b9-7ab1-4d39-9c91-9bf86ddcbcd5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.readersdigest.de",
+        "squuid": "5be1a6b1-bf75-4024-a534-94458828e128"
+      },
+      "squuid": "5be1a6b9-376e-49c3-8586-3cd93e698051",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "CIL Inversiones S.L.",
+        "squuid": "5be1a6b6-5c36-4bba-883e-5bd16206650f"
+      },
+      "squuid": "5be1a6b8-8744-4058-80c0-8c81c0d98990",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Bremen",
+  "pseudoCompany": false,
+  "street": "Contrescarpe 75a",
+  "name": "KPS Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6ec6-4936-a948-98258f580e4e",
+  "controlDate": "2021-12-06T13:34:15.151Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "28195",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "event. Music. Entertainment. Life.",
+        "squuid": "5be1a6b1-98eb-491a-b999-54089ac9a330"
+      },
+      "squuid": "5be1a6b9-4d9d-426d-a39a-72d43ce39a19",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.eventmagazin.info",
+        "squuid": "5be1a6b1-bb1e-4596-ab45-bb81e940b9a3"
+      },
+      "squuid": "5be1a6b9-09e0-4982-9b31-6762c0bb3a01",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Elenxis-Media-Funds-Holding GmbH",
+        "squuid": "5be1a6b6-f6aa-491c-b29e-d227ab5f0e19"
+      },
+      "squuid": "5be1a6b8-5ec2-485f-acc5-0ae16eeba401",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "JUGU Media GmbH",
+        "squuid": "5be1a6b6-6ba5-4f5a-9a91-5161c5f5f233"
+      },
+      "squuid": "5be1a6b8-dc89-497a-9fdd-d9383f474631",
+      "state": "active"
+    }
+  ]
+}

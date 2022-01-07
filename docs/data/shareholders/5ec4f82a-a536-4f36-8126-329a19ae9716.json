@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "RNW Redaktionsnetz Westfalen GmbH & Co. KG",
+        "squuid": "5c6bcc8b-fe82-430e-93aa-a6ddb17c50e9"
+      },
+      "squuid": "5ec4f855-76c6-4a60-a2f4-2a6b2389868d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Unna",
+  "pseudoCompany": false,
+  "street": "Wasserstr.",
+  "name": "RNW Redaktionsnetz Westfalen Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5ec4f82a-a536-4f36-8126-329a19ae9716",
+  "controlDate": "2021-09-28T12:03:20.488Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "59423",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Ruhr-Nachrichten Verlag & Co. KG",
+        "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793"
+      },
+      "squuid": "5ec4f8b1-d85e-44a2-bf31-5c84ca3d1441",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Zeitungsverlag Rubens GmbH & Co. KG",
+        "squuid": "5be1a6b6-cf69-4ed0-a3d0-55dbe01f0150"
+      },
+      "squuid": "5ec4f8c0-2ff8-46d7-b7c3-41d198f2c4ab",
+      "state": "active"
+    }
+  ]
+}

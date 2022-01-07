@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Chemnitz",
+  "note": "Vorstandsvorsitzender: Arne Glaser",
+  "pseudoCompany": false,
+  "street": "Thüringer Weg",
+  "name": "Radio UNiCC e.V.",
+  "naturalPerson": false,
+  "squuid": "5fa27951-b4fb-4f30-8cd8-b40ecb4853e2",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09126",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio UNiCC",
+        "squuid": "5fa2786f-c169-4326-b128-879415f14132"
+      },
+      "squuid": "5fa27986-7134-45c3-bc7e-fca9123695bf",
+      "state": "active"
+    }
+  ]
+}

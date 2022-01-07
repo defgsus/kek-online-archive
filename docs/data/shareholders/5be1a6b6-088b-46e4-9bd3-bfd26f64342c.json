@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Karl-Liebknecht-Str. 29",
+  "name": "Berliner Kurier GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-088b-46e4-9bd3-bfd26f64342c",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "10178",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BV Deutsche Zeitungsholding GmbH",
+        "squuid": "5be1a6b6-43b9-40fe-b1b1-f680ebfdd4bc"
+      },
+      "squuid": "5be1a6b8-051b-42b8-b1e6-7557c34c5126",
+      "state": "active"
+    }
+  ]
+}

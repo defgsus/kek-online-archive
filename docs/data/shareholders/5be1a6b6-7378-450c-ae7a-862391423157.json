@@ -1,0 +1,149 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "Radio TON-Regional Hörfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-0d7b-4370-af24-f6e3d1f182f7"
+      },
+      "squuid": "5be1a6b7-25c6-4fc7-b21f-522694b93f6b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.1,
+      "held": {
+        "name": "Sonntag Aktuell GmbH",
+        "squuid": "5be1a6b6-a02a-4877-bcb9-9894be7baf66"
+      },
+      "squuid": "5be1a6b8-dc81-41cf-ae81-9d14964b414f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "Stuttgarter Presse Funk GmbH",
+        "squuid": "5c98ed33-3de6-4a1d-b2fa-4f2782148a39"
+      },
+      "squuid": "5ef21a28-2df1-4431-9ae8-353f8b8d8a95",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.15,
+      "held": {
+        "name": "RSL Radio Schwabenland Stuttgart GmbH & Co. KG",
+        "squuid": "5be1a6b6-55ad-4b9d-a6f2-ebeda816ca61"
+      },
+      "squuid": "5efcae70-d354-4eee-9d20-b9baebe2e480",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ludwigsburg",
+  "pseudoCompany": false,
+  "street": "Körnerstr. 14-18",
+  "name": "Ungeheuer + Ulmer KG GmbH & Co",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7378-450c-ae7a-862391423157",
+  "controlDate": "2021-10-28T16:49:33.932Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "71634",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ludwigsburger Kreiszeitung",
+        "squuid": "5be1a6b1-ceda-4ba1-9087-9f03dbf6606e"
+      },
+      "squuid": "5be1a6b9-d38a-4694-bc4c-3fabc0b9f506",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Neckar- und Enzbote",
+        "squuid": "5be1a6b1-762d-468b-9de4-b90a6a483130"
+      },
+      "squuid": "5be1a6b9-a9d0-470b-ad01-f44afd052b96",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lkz.de",
+        "squuid": "5be1a6b1-a9ba-42f1-8a05-0ad1deaf8140"
+      },
+      "squuid": "5be1a6b9-12e5-4aa8-bcd0-5277a3ad6741",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gerhard Ulmer GmbH",
+        "squuid": "5be1a6b6-7269-4b11-b341-01056320773b"
+      },
+      "squuid": "5be1a6b8-0c89-4515-8de8-2830c4b9e433",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Konrad Ulmer GmbH",
+        "squuid": "5eda39e3-e7f8-4cfa-93b5-50322f4a2487"
+      },
+      "squuid": "5eda39fe-6eda-4dad-8e8f-5b53c2c96e53",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Ulmer, Gerhard",
+        "squuid": "5be1a6b6-1fdb-4b75-b42a-e64656d71ece"
+      },
+      "squuid": "5eda3a18-fc49-4eca-bdab-cebebd993a47",
+      "state": "active"
+    }
+  ]
+}

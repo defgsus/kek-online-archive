@@ -1,0 +1,58 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "DWS Investment GmbH",
+        "squuid": "5be1a6b6-c474-4fe8-87d9-642d012c049e"
+      },
+      "squuid": "5efaedcf-1dc0-498a-a969-9fc9af0fcc39",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Mainzer Landstr.",
+  "name": "DWS Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5efaedaf-47bf-4056-a1ef-77a33e63fff0",
+  "controlDate": "2021-12-07T11:41:22.161Z",
+  "streetNumber": "11-17",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60329",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.04,
+      "holder": {
+        "name": "DWS Group GmbH & Co. KGaA",
+        "squuid": "5f02dd2f-a75c-4b4f-8bfb-340dd621327e"
+      },
+      "squuid": "5f02dd9e-e74b-4db0-afee-8783bd2dadbc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.96,
+      "holder": {
+        "name": "Deutsche Vermögensberatung AG ",
+        "squuid": "5f02dd72-8c1b-4faa-a1b0-236f43af03f4"
+      },
+      "squuid": "5f02ddb6-fcdb-4e2e-8e4b-80901013cf63",
+      "state": "active"
+    }
+  ]
+}

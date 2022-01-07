@@ -1,0 +1,68 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.1,
+      "held": {
+        "name": "Motor Presse Stuttgart GmbH & Co. KG",
+        "squuid": "5be1a6b6-99ba-4261-b3c0-411c299e72ae"
+      },
+      "squuid": "5be1a6b7-5089-44e0-a901-8f0c9377dfcb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.1,
+      "held": {
+        "name": "Motor Presse Stuttgart Verwaltungsgesellschaft mbH",
+        "squuid": "5eb00a19-c344-411c-946b-48a3abd8e819"
+      },
+      "squuid": "5eba72a4-e1ac-4b1c-8338-0d35cda22fda",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Leuschnerstraße 1",
+  "name": "P + S Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8cbc-42a9-8413-c25fd82ddf1a",
+  "controlDate": "2021-11-23T10:00:16.289Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70174",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Scholten, Patricia",
+        "squuid": "5be1a6b6-6cb3-4d4f-9be3-c0f3317b240f"
+      },
+      "squuid": "5e3a8046-d57b-4648-a64b-78cd4c0a19fb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Pietsch, Peter-Paul",
+        "squuid": "5be1a6b6-f2d8-4bca-bfb9-3b085b9ab5b0"
+      },
+      "squuid": "5e3a8065-1542-463f-b8d4-b70fba241107",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Jarimovas GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1cb5-4f55-a48a-e0ab595ebce9",
+  "controlDate": "2020-01-16T12:47:59.886Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 19.09.2017, Az.: KEK 929, und Bescheid der mabb vom 29.09.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Westermann, Remco",
+        "squuid": "5be1a6b6-d985-4556-a2af-f35ffc30df13"
+      },
+      "squuid": "5be1a6b8-4c1d-4ee5-a1a4-07efe6247786",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Westermann, Jaap",
+        "squuid": "5be1a6b6-f68e-440a-839b-cf97b30885fd"
+      },
+      "squuid": "5be1a6b8-6aae-47c6-a454-5a94881d3890",
+      "state": "active"
+    }
+  ]
+}

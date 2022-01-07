@@ -1,0 +1,56 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "A & F Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-87f6-4c20-88ac-aa9ef5a6be1a"
+      },
+      "squuid": "5ef1e395-c917-411a-a025-6b469aca9f4b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "An der Hansalinie",
+  "name": "A & F Medien Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5ef1e35a-fcf3-407b-b81f-fbe8b629e000",
+  "controlDate": "2021-11-19T10:19:13.612Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "48163",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "A & F Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-87f6-4c20-88ac-aa9ef5a6be1a"
+      },
+      "squuid": "5efaec88-3c28-4deb-9a8c-77f0e7f3e479",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Paulinus Verlag GmbH",
+        "squuid": "5be1a6b6-2ac3-4027-879f-7741f3fe4de9"
+      },
+      "squuid": "5be1a6b8-7723-49d7-b09c-786a6acaf71b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Trier",
+  "pseudoCompany": false,
+  "street": "Mustorstr.",
+  "name": "VMG Verwaltungs- und Managementgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-38ce-43a2-8fb3-092e5f665e61",
+  "controlDate": "2021-11-08T14:37:22.276Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "54290",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 71.0,
+      "holder": {
+        "name": "Bistum Trier",
+        "squuid": "5be1a6b6-ccab-40a8-a9e2-1d2b45991f14"
+      },
+      "squuid": "5be1a6b8-9c87-43ed-9f48-bb604fa5c01e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 29.0,
+      "holder": {
+        "name": "Bischöflicher Stuhl Trier",
+        "squuid": "5be1a6b6-efff-480a-8f97-dca28fd02098"
+      },
+      "squuid": "5be1a6b8-fdfa-4c58-9600-9a123eba542f",
+      "state": "active"
+    }
+  ]
+}

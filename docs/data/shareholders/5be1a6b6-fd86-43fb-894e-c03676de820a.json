@@ -1,0 +1,75 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Main-Post GmbH",
+        "squuid": "5be1a6b6-8b22-4880-b165-294a9c44a51b"
+      },
+      "squuid": "5be1a6b7-67d4-45d5-bad8-b68ce5b48c59",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Haßfurter Tagblatt Verlag GmbH",
+        "squuid": "5be1a6b6-c8a5-451b-9cfe-251bf10357ea"
+      },
+      "squuid": "5be1a6b8-d352-4a4c-b201-90ba4c961855",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.13,
+      "held": {
+        "name": "Mediengesellschaft der bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Programm- und Werbegesellschaft",
+        "squuid": "5be1a6b6-c525-4b11-a1b7-9969a9671afb"
+      },
+      "squuid": "60d2023e-b8e0-41a9-93a8-14e47433bb67",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Würzburg",
+  "pseudoCompany": false,
+  "street": "Berner Str. 2",
+  "name": "Mediengruppe Main-Post GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fd86-43fb-894e-c03676de820a",
+  "controlDate": "2021-10-29T09:59:10.276Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "97084",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "PDV Medien Beteiligungs GmbH",
+        "squuid": "5be1a6b6-f0e4-450f-b580-d39b9fe9dd58"
+      },
+      "squuid": "5be1a6b8-5d7f-4c32-a729-f8f838ada211",
+      "state": "active"
+    }
+  ]
+}

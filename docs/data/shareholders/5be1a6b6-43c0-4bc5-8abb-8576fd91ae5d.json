@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Burchardstraße 11",
+  "name": "Bauer Premium KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-43c0-4bc5-8abb-8576fd91ae5d",
+  "controlDate": "2021-03-25T15:58:40.103Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "20095",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "5be1a6b8-3cd0-4f90-aa45-6f52d5e605f5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bauer Komplementär KG",
+        "squuid": "5eaffda5-a775-4f8a-9124-c01ded28585e"
+      },
+      "squuid": "5ec51c67-8f96-46c9-a201-b038404be811",
+      "state": "active"
+    }
+  ]
+}

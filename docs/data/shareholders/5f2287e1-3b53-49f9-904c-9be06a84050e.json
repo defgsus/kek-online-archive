@@ -1,0 +1,43 @@
+{
+  "name": "Knörrer, Dieter",
+  "pseudoCompany": false,
+  "squuid": "5f2287e1-3b53-49f9-904c-9be06a84050e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "DWK Holding GmbH & Co. KG",
+        "squuid": "5f1fece6-8741-4d7b-899d-bd816655eee9"
+      },
+      "squuid": "5f228822-5cfe-405b-9ece-3bd2ba4523f4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "DWK Verwaltungs-GmbH",
+        "squuid": "5f2287f0-6a31-42e3-94d3-2df9b19b275f"
+      },
+      "squuid": "5f27b78c-5a8d-493b-9938-c6fd42a09b4b",
+      "state": "active"
+    }
+  ],
+  "city": "Bindlach",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

@@ -1,0 +1,97 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Große Burstah",
+  "name": "Funke Life GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e401-4d54-a358-f0e55ecc7a4d",
+  "controlDate": "2021-02-03T17:06:30.910Z",
+  "streetNumber": "18-32",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20457",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bild der Frau",
+        "squuid": "5be1a6b1-7e2a-4872-a699-89ec7ac65d83"
+      },
+      "squuid": "5be1a6b9-4d93-4b5e-9c23-0db6e87ff205",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bild der Frau - Gut kochen & backen",
+        "squuid": "5be1a6b1-e75e-402a-8559-a0dd8bb22a1f"
+      },
+      "squuid": "5be1a6b9-f073-453d-9f7b-cec0a1ac6350",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bild der Frau - Schlank & fit",
+        "squuid": "5be1a6b1-9f96-4a57-ac4e-2dde776a8dbf"
+      },
+      "squuid": "5be1a6b9-1d72-4b89-8763-e35c8ffd7385",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bildderfrau.de",
+        "squuid": "5be1a6b1-ab75-4f19-b0b5-8ce3ad31fb35"
+      },
+      "squuid": "5be1a6b9-27a4-4892-98d7-631f0690eb48",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.eat-club.de",
+        "squuid": "600042c8-161f-4d01-8d3a-c8f83c3abaa2"
+      },
+      "squuid": "600043b9-775e-4d96-a7dd-47f06385536d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Eat Club",
+        "squuid": "600042b8-552a-47bd-8451-cca8e36a4298"
+      },
+      "squuid": "600043e5-9bc7-46c1-8d7f-e75bb7f05e59",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Super You",
+        "squuid": "607578fb-5ad1-41cc-be6a-2f0a01b7da57"
+      },
+      "squuid": "60757964-f628-4124-86d9-907715ed213f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Medien Niedersachsen GmbH",
+        "squuid": "5be1a6b6-09ab-484b-9101-6d223b5a7c82"
+      },
+      "squuid": "5ebaa278-8006-4858-8782-60bc3739f394",
+      "state": "active"
+    }
+  ]
+}

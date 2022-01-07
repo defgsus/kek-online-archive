@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Wandsbeker Allee",
+  "name": "PressUp GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9aab-4dc6-a863-1360a1b908d6",
+  "controlDate": "2021-11-18T16:26:30.578Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22041",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Werde",
+        "squuid": "5be1a6b1-6440-416b-98db-742ee844a2ba"
+      },
+      "squuid": "5be1a6b9-8257-4674-b888-57a1b05d77c2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.werde-magazin.de",
+        "squuid": "5be1a6b1-cb69-4fde-a57f-7da9e505bc13"
+      },
+      "squuid": "5be1a6b9-efa7-4319-bc66-84cb650d5ed4",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Nawrot, Alois",
+        "squuid": "5be1a6b6-c147-45d0-ae8b-afeab4414d2d"
+      },
+      "squuid": "5be1a6b8-0d45-4a76-b452-778408aca577",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Sturmat, Guido",
+        "squuid": "5be1a6b6-8e07-4b3a-8791-5093e4819f14"
+      },
+      "squuid": "5be1a6b8-fadf-4369-b00d-ede28417f80f",
+      "state": "active"
+    }
+  ]
+}

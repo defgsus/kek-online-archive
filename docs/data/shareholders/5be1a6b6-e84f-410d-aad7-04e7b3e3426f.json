@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Berliner Str.",
+  "name": "DRK-Service GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e84f-410d-aad7-04e7b3e3426f",
+  "controlDate": "2021-11-10T12:05:34.618Z",
+  "streetNumber": "83",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "13189",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "rotkreuzmagazin für Mitglieder, Freunde und Förderer",
+        "squuid": "5be1a6b1-50fd-41b3-8574-e1c0b72b9aef"
+      },
+      "squuid": "5be1a6b9-ed28-4c26-baf1-831c061b3e50",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 46.8,
+      "holder": {
+        "name": "Deutsches Rotes Kreuz e.V.",
+        "squuid": "5be1a6b6-ec60-4be7-acb3-750e61ec764b"
+      },
+      "squuid": "5be1a6b8-3da6-403f-88b4-1baa0dad034f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.7,
+      "holder": {
+        "name": "Deutsches Rotes Kreuz Landesverband Westfalen-Lippe e.V.",
+        "squuid": "5be1a6b6-e4ee-4203-8bb7-26733b41d971"
+      },
+      "squuid": "5be1a6b8-0597-4320-a74a-2fc25089335f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 48.5,
+      "holder": {
+        "name": "Deutsches Rotes Kreuz Landesverband Niedersachen e.V.",
+        "squuid": "5be1a6b6-0dc5-4c07-a189-387e94aa7803"
+      },
+      "squuid": "5be1a6b8-b838-4d35-8706-2107181885b7",
+      "state": "active"
+    }
+  ]
+}

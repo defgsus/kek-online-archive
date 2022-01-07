@@ -1,0 +1,47 @@
+{
+  "state": "active",
+  "onlineAsOfDateIVW": "5/20",
+  "squuid": "5d4161a9-a983-4772-8971-56ea48de7c01",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Nordbuzz GmbH & Co. KG ",
+        "squuid": "5d41615c-c191-4dd7-ac9a-c527181d8f0b"
+      },
+      "squuid": "5d4161cb-b09a-4347-b623-dff1d87ca04f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "5d4161e9-7e67-4381-92a9-5f2f4f08beaf",
+      "state": "active"
+    }
+  ],
+  "name": "www.nordbuzz.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-15T17:24:57.135Z",
+  "onlineIVWPI": 2126000,
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "onlineVisitsIVW": 1701000
+}

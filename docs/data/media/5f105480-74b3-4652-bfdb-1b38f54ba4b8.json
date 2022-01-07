@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f105480-74b3-4652-bfdb-1b38f54ba4b8",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "WestCom Medien GmbH",
+        "squuid": "5be1a6b6-4f2a-4dd7-b23b-ff08ebd893e5"
+      },
+      "squuid": "5f1054c6-3872-4935-a765-144fbe87fb17",
+      "state": "active"
+    }
+  ],
+  "name": "www.sat1nrw.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-04T17:17:14.328Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

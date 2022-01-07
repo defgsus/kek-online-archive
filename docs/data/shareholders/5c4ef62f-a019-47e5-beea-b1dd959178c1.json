@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "München",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Liebherrstr.",
+  "name": "WRC Promoter GmbH",
+  "naturalPerson": false,
+  "squuid": "5c4ef62f-a019-47e5-beea-b1dd959178c1",
+  "controlDate": "2021-07-09T10:13:23.958Z",
+  "streetNumber": "22",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80538",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "WRC+",
+        "squuid": "5c4ef642-cae1-46e1-89b8-41a2f0ba2725"
+      },
+      "squuid": "5c502589-1456-480c-9f90-39625f90c485",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wrc.com",
+        "squuid": "5f8063f2-836c-40e9-a361-bbf0bbba8584"
+      },
+      "squuid": "5f806438-3a01-4436-9639-27708ec34a71",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Red Bull GmbH",
+        "squuid": "5be1a6b6-a817-47af-90a2-ba745694b027"
+      },
+      "squuid": "5c502862-98c8-4682-8682-0a4cee9058e2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "KW 25 Beteiligungs GmbH",
+        "squuid": "5c50277b-db8f-4037-88d8-b0ceddd8bf9b"
+      },
+      "squuid": "5c502879-ac75-4e21-873c-f33d55112a8a",
+      "state": "active"
+    }
+  ]
+}

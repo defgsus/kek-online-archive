@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "London, Großbritannien",
+  "note": "Die British Broadcasting Corporation ist eine Körperschaft des englischen öffentlichen Rechts mit Sitz in London. Der Körperschaftsstatus folgt aus der Royal Charter, die gegenwärtig bis Ende 2016 befristet ist. Die Tätigkeit der BBC wird im öffentlichen Interesse vom BBC Trust kontrolliert.",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "BBC Broadcasting House, Zone A, Portland Place",
+  "name": "BBC World Service, British Broadcasting Corporation",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ce5b-4871-8fb1-96fcdb9b4925",
+  "controlDate": "2021-03-25T16:37:48.936Z",
+  "streetNumber": "4th Floor",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "WIA IAA",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "BBC World Service",
+        "squuid": "5be1a6b1-933a-4c78-9cc6-eda8ff018c3f"
+      },
+      "squuid": "5be1a6b9-d630-43d3-a403-2139c0520a2b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bbc.com",
+        "squuid": "5d36faa7-2f52-4537-a4eb-b5119f017e17"
+      },
+      "squuid": "5d36fad4-e3c8-4614-b001-ec43227d6132",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bbc.co.uk",
+        "squuid": "5d36fab8-35fe-47b8-9602-dde9b7c622be"
+      },
+      "squuid": "5d36fb80-515c-427b-8aeb-2bf03aafdf11",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb"
+}

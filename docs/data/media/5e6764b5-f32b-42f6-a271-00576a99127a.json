@@ -1,0 +1,103 @@
+{
+  "rfRepresentative": "Gisbert Wundram, Bendix Eisermann",
+  "state": "active",
+  "sharesInfo": "KEK 1040",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Nick Bicko",
+  "rfStartDate": "05.11.2019",
+  "rfFreePay": false,
+  "squuid": "5e6764b5-f32b-42f6-a271-00576a99127a",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.edgesport.com/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Sportdigital.TV Sende- und Produktions GmbH",
+        "squuid": "5be1a6b6-ec20-4ad4-85d5-8fd11eb94dc3"
+      },
+      "squuid": "5e67670c-aff3-48ff-ba53-5eb3a0e2680e",
+      "state": "active"
+    }
+  ],
+  "name": "EDGEsport",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "description": "Pay-TV-Sportspartenprogramm mit inhaltlichem Schwerpunkt auf Trendsportarten, sog. Fun- und Action-Sport",
+  "rfLicenseUntil": "31.10.2029",
+  "rfLicensed": "11.10.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
+        "name": "Programmplattform",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-4a91-45e5-b9ed-2abbf093d6de",
+      "name": "HD Plus GmbH / HD+",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-c433-49e9-b390-5073f0f89b78",
+      "name": "waipu.tv (EXARING AG)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.11.2019",
+  "accessibilityEmail": "dataprivacy@img.com",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

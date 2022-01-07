@@ -1,0 +1,72 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Lokalradio Kreis Kleve Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-8f94-4224-bda5-7b626865cbf0"
+      },
+      "squuid": "5be1a6b7-c154-4b50-9091-4ebf9bf0a430",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lokalfunk Kreis Kleve Presse-Beteiligungs-Verwaltungsgesellschaft mbH",
+        "squuid": "5f0f0cc4-9cfd-438e-9c33-1f910131cc31"
+      },
+      "squuid": "5ff5bfa9-5009-4328-bc93-9110ab2d71cd",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kleve",
+  "pseudoCompany": false,
+  "street": "Hagsche Str.",
+  "name": "Lokalfunk Kreis Kleve Presse-Beteiligungsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-e946-4f6c-a97e-4d429dfee0f0",
+  "controlDate": "2021-11-25T14:47:30.174Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "47533",
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lokalfunk Kreis Kleve Presse-Beteiligungs-Verwaltungsgesellschaft mbH",
+        "squuid": "5f0f0cc4-9cfd-438e-9c33-1f910131cc31"
+      },
+      "squuid": "5f0f0d03-04fd-488a-9889-115e5401723b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "PFD Pressefunk GmbH",
+        "squuid": "5be1a6b6-761b-43ab-b113-3d2fb927889c"
+      },
+      "squuid": "5f0f0d15-cafe-423a-a3f0-701588383382",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5c52d5b7-7777-4dd1-8753-5e510151dc9b",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Medienhaus Aachen GmbH",
+        "squuid": "5be1a6b6-0200-4a40-921b-ce08c00a32ac"
+      },
+      "squuid": "61094d37-4698-46cb-ae34-6448cc677f4a",
+      "state": "active"
+    }
+  ],
+  "name": "www.klenkes.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-10-26T12:00:19.890Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

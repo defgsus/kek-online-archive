@@ -1,0 +1,86 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.3558,
+      "held": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "5be1a6b7-cdc1-4d5b-908f-e8650df94634",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Echo Zeitungen GmbH",
+        "squuid": "5be1a6b6-efc8-47d9-8b22-b1cb175ddbbe"
+      },
+      "squuid": "5be1a6b8-7fb7-4fd0-97d5-92dedce2e64c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.97,
+      "held": {
+        "name": "dpa Deutsche Presse Agentur GmbH",
+        "squuid": "5be1a6b6-d7c9-45c5-99de-2acb723d2e72"
+      },
+      "squuid": "5c498d40-5111-4113-beec-ddcb5b7691ce",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Darmstadt",
+  "pseudoCompany": false,
+  "street": "Berliner Allee",
+  "name": "Echo Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7b81-4b50-8e0f-4291b6790d20",
+  "controlDate": "2021-09-27T16:39:21.348Z",
+  "streetNumber": "65",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "64295",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 97.44,
+      "holder": {
+        "name": "VRM GmbH & Co KG",
+        "squuid": "5be1a6b6-17dc-47b0-87cc-2b1436e1a864"
+      },
+      "squuid": "5be1a6b8-9e6e-4c8c-9602-a73a8e139936",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.55,
+      "holder": {
+        "name": "Eigenbesitz der Echo Medien GmbH",
+        "squuid": "5be1a6b6-5df9-4378-9e5d-ea9f45d85db1"
+      },
+      "squuid": "5be1a6b8-3c91-447b-87ba-c50b8715f1c2",
+      "state": "active"
+    }
+  ]
+}

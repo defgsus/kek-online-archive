@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Strelitzer Str.",
+  "name": "Nextpit GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f775-4e4e-8472-7f36d4746c9f",
+  "controlDate": "2021-11-23T14:07:29.913Z",
+  "streetNumber": "58",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10115",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nextpit.de",
+        "squuid": "5be1a6b1-eca8-4cf0-87b3-232524883f51"
+      },
+      "squuid": "5be1a6b9-888e-4753-9b3b-49c3b653fd50",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Acan Invest AG",
+        "squuid": "5be1a6b6-8f8b-4b80-8b2b-5d2d1893c709"
+      },
+      "squuid": "5be1a6b8-a014-4a91-bcb4-5baf737644dc",
+      "state": "active"
+    }
+  ]
+}

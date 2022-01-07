@@ -1,0 +1,73 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "held": {
+        "name": "Acher-Rench-Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-6fcf-4c74-a219-e52d26bf8caa"
+      },
+      "squuid": "5be1a6b8-1ebc-49be-ad18-2919d62abeca",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "held": {
+        "name": "Verwaltungsgesellschaft Acher-Rench-Verlag mbH",
+        "squuid": "5eaadd29-94c8-4058-a75f-54cc9ad7d42e"
+      },
+      "squuid": "5eaadee7-5234-43c0-930f-3888b0ecd39a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Baden-Baden",
+  "pseudoCompany": false,
+  "street": "Stephanienstr. 1",
+  "name": "Badisches Tagblatt GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0086-4f07-b772-f3dac2342c2c",
+  "controlDate": "2021-11-26T14:38:50.387Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "76530",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Badisches Tagblatt",
+        "squuid": "5be1a6b1-ddb9-472f-9f73-e0accfba9878"
+      },
+      "squuid": "5be1a6b9-19cd-44af-965a-3e8403c21dbe",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.badisches-tagblatt.de",
+        "squuid": "5be1a6b1-6974-45eb-984f-4e7ddfb99553"
+      },
+      "squuid": "5be1a6b9-f7c0-4185-beaa-9e092ff9adc6",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Badische Neueste Nachrichten Badendruck GmbH",
+        "squuid": "5be1a6b6-9388-43c6-a9f6-a4d926c6c384"
+      },
+      "squuid": "60ec1f19-be19-40c8-bbd1-bc34d07a37bb",
+      "state": "active"
+    }
+  ]
+}

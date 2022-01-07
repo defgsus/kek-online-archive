@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Twer Beteiligungen GmbH & Co KG",
+        "squuid": "5be1a6b6-fd2b-42ff-b525-4bf988ab61af"
+      },
+      "squuid": "5ec25845-373f-409d-b15b-78993faca541",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bremberg",
+  "pseudoCompany": false,
+  "street": "Dorothea-Twer-Str.",
+  "name": "Vermögensverwaltung Twer GmbH",
+  "naturalPerson": false,
+  "squuid": "5ec2581e-ff9f-4a5e-b46e-7b5201553c74",
+  "controlDate": "2021-09-30T11:07:23.316Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "56370",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Twer, Walterpeter",
+        "squuid": "5be1a6b6-8c64-4686-97f8-72e368394458"
+      },
+      "squuid": "5ec258f8-4014-49a1-ac31-06064a1092d4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "Twer, Thorn",
+        "squuid": "5be1a6b6-2704-4822-bede-d85904db62c4"
+      },
+      "squuid": "5ec25905-c86a-409b-9549-f995878cfdb6",
+      "state": "active"
+    }
+  ]
+}

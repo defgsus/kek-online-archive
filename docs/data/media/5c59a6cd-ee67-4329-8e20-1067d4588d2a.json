@@ -1,0 +1,108 @@
+{
+  "rfRepresentative": "Mayer, Gertraud L.",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "15.03.1985",
+  "rfFreePay": true,
+  "squuid": "5c59a6cd-ee67-4329-8e20-1067d4588d2a",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "accessibilityUrl": "https://www.joymusicvideo.com/joy-music-video-joy-tv-channel",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Mayer, Gertraud L.",
+        "squuid": "5c59a688-f404-4c3c-b07e-04c8a9bab21b"
+      },
+      "squuid": "5c59aae3-2a24-4db6-bd60-365ad8475575",
+      "state": "active"
+    }
+  ],
+  "name": "Joy-Music-Video",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Programm auf Berliner Mischkanal (\"Spreekanal\")",
+  "rfLicenseUntil": "15.12.2020",
+  "rfLicensed": "08.01.2014",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
+      "name": "Vodafone Kabel Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-ec5e-4d1d-aeab-25f09a97bf67",
+      "name": "Tele Columbus AG",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-4f77-4a73-90db-f4170510c758",
+      "name": "Media Broadcast GmbH / freenet TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-4dbe-45ef-ab98-fcd1599e57f0",
+        "name": "Terrestrik",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-d7a7-4bd8-a6c4-89a1eb1c79a0",
+      "name": "Lokale Kabelnetze (veraltet)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "16.12.2013",
+  "rfAddress": "Blumenthalstraße 18, 10783 Berlin",
+  "accessibilityEmail": "office@joyvideo.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

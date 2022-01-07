@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Aachen",
+  "pseudoCompany": false,
+  "street": "Roonstraße",
+  "name": "k.u.r.s. mediasystems GmbH",
+  "naturalPerson": false,
+  "squuid": "5d35c836-b590-413a-8a82-a42683fad966",
+  "controlDate": "2021-12-02T12:19:45.740Z",
+  "streetNumber": "13a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "52070",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.computerhilfen.de",
+        "squuid": "5d35c848-afdb-45e3-b331-e69518a7df10"
+      },
+      "squuid": "5d35c86d-b701-49b1-9acd-79e3f3f57561",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kunath, Martin",
+        "squuid": "5d35c925-dd82-4c2e-9e5a-20f3654148ec"
+      },
+      "squuid": "5d35c950-8446-42ec-bf81-eb1b01f1facc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Rotermund, Nicolas",
+        "squuid": "5d35c935-41d8-4770-b8a6-d2071fb0e614"
+      },
+      "squuid": "5d35c96b-8d53-429c-b33b-bc01d49f7426",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.3,
+      "held": {
+        "name": "Sonntag Aktuell GmbH",
+        "squuid": "5be1a6b6-a02a-4877-bcb9-9894be7baf66"
+      },
+      "squuid": "5be1a6b8-b8d8-45c3-8ef6-80162c7d2696",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "held": {
+        "name": "Stuttgarter Presse Funk GmbH",
+        "squuid": "5c98ed33-3de6-4a1d-b2fa-4f2782148a39"
+      },
+      "squuid": "5ef21b89-35b6-4b25-bcdb-b28698a77810",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mühlacker",
+  "pseudoCompany": false,
+  "street": "Kißlingweg 35",
+  "name": "Karl Elser GmbH, Buch- und Zeitungsverlag",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0b28-465d-85cc-0aa7f8b34e92",
+  "controlDate": "2021-11-03T16:03:04.149Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "75417",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mühlacker Tagblatt",
+        "squuid": "5be1a6b1-c6cc-493f-b0c2-6dcd2e3dac08"
+      },
+      "squuid": "5be1a6b9-503d-4893-b680-1997e4ce46cf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.muehlacker-tagblatt.de",
+        "squuid": "5be1a6b1-da41-4b2b-bd2f-125ecf6cec42"
+      },
+      "squuid": "5be1a6b9-f792-4bf1-a11a-1efdedaee9f6",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Händle Verpachtungsunternehmen GbR",
+        "squuid": "5be1a6b6-b081-4a3a-be4c-5b4139a2df71"
+      },
+      "squuid": "5be1a6b8-bb67-47f7-91dd-f21a8069d440",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Wetzel, Hans-Ulrich",
+        "squuid": "5be1a6b6-6e40-43ba-a4e3-164c91a58a02"
+      },
+      "squuid": "5be1a6b8-a5ae-4532-8c72-32197ab8a6f7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Wetzel, Brigitte",
+        "squuid": "5be1a6b6-ade7-4932-ad4b-641f6d105876"
+      },
+      "squuid": "5be1a6b8-cf24-4ce8-b5a3-42566fee0b14",
+      "state": "active"
+    }
+  ]
+}

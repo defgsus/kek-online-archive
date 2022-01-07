@@ -1,0 +1,84 @@
+{
+  "state": "active",
+  "city": "Holzkirchen",
+  "pseudoCompany": false,
+  "street": "Tölzer Str.",
+  "name": "thinXpool TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b807-4b4e-bf8c-6f883898e5fe",
+  "controlDate": "2022-01-06T16:02:51.320Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "83607",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MyTeam TV - Basketball",
+        "squuid": "5be1a6b1-8ae8-448c-bde8-8e81d1bc887e"
+      },
+      "squuid": "5be1a6b9-d5dd-4e14-970c-839a4f982405",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MyTeam TV - Eishockey",
+        "squuid": "5be1a6b1-c6ab-4aef-9f0e-43bdd43291c9"
+      },
+      "squuid": "5be1a6b9-f609-4304-b1bc-c9be792ed8ae",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MyTeam TV - Fußball",
+        "squuid": "5be1a6b1-ab9c-4d85-a7cf-c16fdedca32a"
+      },
+      "squuid": "5be1a6b9-8b8e-4a8d-a60e-70a703a36ee0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Best of Sport",
+        "squuid": "5be1a6b1-9d04-4148-a6ca-0313bf302b2f"
+      },
+      "squuid": "5be1a6b9-719f-4813-98ea-b2e631351ce9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.thinxpool.de/myteam-tv.html",
+        "squuid": "5f7af0ff-6159-4176-9e1a-f18860c7497f"
+      },
+      "squuid": "5f7af170-982d-4a77-a8e3-32c06598b9e9",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.04.2017, Az.: KEK 912, und Bescheid der BLM vom 30.06.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Erbengemeinschaft Ellen Schmitt-Fleckenstein und Carolin Schmitt-Fleckenstein",
+        "squuid": "60d5cbfd-1813-4c3b-a67b-4f7e675696cd"
+      },
+      "squuid": "60e2f85c-d07b-417c-bbc5-ef86b5cbbdcb",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Zell am Harmersbach",
+  "pseudoCompany": false,
+  "street": "Pfarrhofgraben 2",
+  "name": "Druckerei Fuchs, Verlag Schwarzwälder Post, Inhaber Hanspeter Schwendemann e.K",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2123-4c9e-8b2a-c56cf8c82f58",
+  "controlDate": "2021-11-11T12:49:39.887Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "77736",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwarzwälder Post",
+        "squuid": "5be1a6b1-cbec-4d47-a7c9-143943afa11c"
+      },
+      "squuid": "5be1a6b9-67dd-46e0-8791-5b89149f0550",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwendemann, Hanspeter",
+        "squuid": "5be1a6b6-4145-42ab-8b75-9c2407a63053"
+      },
+      "squuid": "5be1a6b8-0c86-4f1c-8c64-135ebea09630",
+      "state": "active"
+    }
+  ]
+}

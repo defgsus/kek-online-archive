@@ -1,0 +1,59 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "pseudoCompany": false,
+  "street": "Leipziger Platz",
+  "name": "Radio 103,4 MHz Berlin GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1e8d-48a9-afbc-fe0fb6e415b0",
+  "controlDate": "2021-12-06T11:13:43.390Z",
+  "streetNumber": "16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Energy Berlin 103,4",
+        "squuid": "5be1a6b1-c9a4-43a1-b779-55ac760a177c"
+      },
+      "squuid": "5be1a6b9-e89f-427b-88ab-4b4102ac7bb9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.energy.de/berlin",
+        "squuid": "5f35461c-e25a-44bc-9bb4-49ec2df80b0a"
+      },
+      "squuid": "5f354672-aaa8-43a8-8dcb-2fc5c59b2c02",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "NRJ Hörfunk Beteiligungs GmbH",
+        "squuid": "5be1a6b6-36c7-4893-9dd4-73765ce4a934"
+      },
+      "squuid": "5be1a6b7-7b8f-4fa7-b7e8-6201fbb51b5a",
+      "state": "active"
+    }
+  ]
+}

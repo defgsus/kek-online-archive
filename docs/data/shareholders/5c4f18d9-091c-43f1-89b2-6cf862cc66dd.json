@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Mittenwalder Str.",
+  "name": "about:publishing GmbH",
+  "naturalPerson": false,
+  "squuid": "5c4f18d9-091c-43f1-89b2-6cf862cc66dd",
+  "controlDate": "2021-05-05T09:50:20.484Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10961",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hausjournal.net",
+        "squuid": "5c4f18ba-fc32-4af7-8151-9afc4f215632"
+      },
+      "squuid": "5c4f1960-2259-44f3-b9d2-36c2888ddd94",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Freiherr Loeffelholz von Colberg, Thomas",
+        "squuid": "5c4f18f8-9694-455f-ab4a-5410aa32895c"
+      },
+      "squuid": "5c4f19b4-48cb-4746-a14e-40abb38f6e30",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Hagelstein, Nils",
+        "squuid": "5c4f190d-0ec0-4e99-8bc5-d89b2af2e36f"
+      },
+      "squuid": "5c4f19c0-eb71-473e-b2df-31eec15efc12",
+      "state": "active"
+    }
+  ]
+}

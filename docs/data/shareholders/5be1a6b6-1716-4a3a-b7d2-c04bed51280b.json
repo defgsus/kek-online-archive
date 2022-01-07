@@ -1,0 +1,126 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 23.53,
+      "held": {
+        "name": "Radio Citywelle Chemnitz GmbH & Co. Betriebs KG",
+        "squuid": "5be1a6b6-85f0-4c08-9f0f-deebb770dc69"
+      },
+      "squuid": "5be1a6b7-da0a-4066-b6f5-3f97d85c70e5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 28.41,
+      "held": {
+        "name": "Radiowelle Zwickau GmbH & Co. Betriebs KG",
+        "squuid": "5be1a6b6-173c-40fc-bb61-4ceb84fe173b"
+      },
+      "squuid": "5be1a6b7-90b0-41e4-ba43-192ad3afbf41",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Netzwerk Programmanbietergesellschaft mbH Sachsen & Co. Betriebs KG",
+        "squuid": "5be1a6b6-181c-4a7c-bbd4-0e8d172c83a3"
+      },
+      "squuid": "5be1a6b8-4fc7-46d9-b533-093ed5d3280f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Radio Citywelle Chemnitz GmbH",
+        "squuid": "5f8d9f48-f906-47d7-9549-09e76cbc252b"
+      },
+      "squuid": "5f900201-7c9c-4c4c-bc8a-6c6f7dc70102",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Netzwerk Programmanbietergesellschaft mbH Sachsen",
+        "squuid": "5f8d93f0-036d-45d6-94aa-4dda55bccb1e"
+      },
+      "squuid": "61adfe26-f5e6-4154-8b77-f48dd67b1051",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leipzig",
+  "note": "Stand: 10/2020",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Thomasgasse",
+  "name": "Radio Elbwelle Dresden GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1716-4a3a-b7d2-c04bed51280b",
+  "controlDate": "2021-05-20T12:23:55.774Z",
+  "placeOfBusiness": "Dresden",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04109",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ENERGY Dresden - Hit Music Only!",
+        "squuid": "5be1a6b1-1aef-41a5-b1d1-832cc7c3eef0"
+      },
+      "squuid": "5be1a6b9-7c40-4547-87fa-5da20c6f7346",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 34.04,
+      "holder": {
+        "name": "CIB Beteiligungs GmbH",
+        "squuid": "5be1a6b6-c35a-4143-bcd5-fd91e5941b24"
+      },
+      "squuid": "5be1a6b7-aa77-4ec5-bf9b-abf834698113",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 65.96,
+      "holder": {
+        "name": "MHB Rundfunkbeteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-dde7-4bf5-98d0-f8935b6346bc"
+      },
+      "squuid": "5be1a6b7-bb75-45b5-b6c7-2b28738564bd",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Elbwelle Dresden Verwaltungs-GmbH",
+        "squuid": "5f8da08d-3a0b-4137-a1ee-7ddc5f182449"
+      },
+      "squuid": "5f8da0dc-2915-4677-aa03-f9d751d95089",
+      "state": "active"
+    }
+  ]
+}

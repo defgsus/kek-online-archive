@@ -1,0 +1,33 @@
+{
+  "name": "Dohmen, Fred",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-5506-4a07-9736-58dc053031c7",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Fred Dohmen Medien GmbH",
+        "squuid": "5be1a6b6-3bd6-44af-9cb1-290a8291883d"
+      },
+      "squuid": "5be1a6b8-8dcc-4049-bd1d-ca776876d4b9",
+      "state": "active"
+    }
+  ],
+  "city": "Böblingen",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

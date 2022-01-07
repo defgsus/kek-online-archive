@@ -1,0 +1,86 @@
+{
+  "state": "active",
+  "city": "Frankfurt am Main",
+  "pseudoCompany": false,
+  "street": "Mörfelder Landstraße",
+  "name": "Eintracht Frankfurt Fußball AG",
+  "naturalPerson": false,
+  "squuid": "5d3020b6-b98b-447f-ae74-c9a4b0217bef",
+  "controlDate": "2021-12-06T10:17:37.249Z",
+  "streetNumber": "362",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60528",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "EintrachtTV",
+        "squuid": "5d30209f-ecf5-48ec-b22f-812b2ecd1d4d"
+      },
+      "squuid": "5d3021fd-9ea0-4a26-bfba-02075b82ca1c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.eintracht.de/tv",
+        "squuid": "5f3a7b8b-7c6c-412d-a941-1dd9dc1db334"
+      },
+      "squuid": "5f3a7bf9-3c99-496c-962e-69997f6e1f16",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 67.88,
+      "holder": {
+        "name": "Eintracht Frankfurt e.V.",
+        "squuid": "5be1a6b6-002c-49f7-801c-67990789614a"
+      },
+      "squuid": "5d302784-5ceb-4709-8c06-030c0cf1c7b7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.55,
+      "holder": {
+        "name": "Freunde des Adlers GmbH",
+        "squuid": "5d302689-64bc-442c-9e81-035ecf488688"
+      },
+      "squuid": "5d30279a-b7fa-4cc9-8f7b-9eda82e8cfbf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Freunde der Eintracht Frankfurt AG",
+        "squuid": "5d3026a6-513d-4806-af22-41994926142c"
+      },
+      "squuid": "5d3027b2-10fd-4342-be1e-b9f8b8c70128",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.57,
+      "holder": {
+        "name": "Wolfgang Steubing AG",
+        "squuid": "5d3026b8-23f2-471a-b07e-6dc821f2ec22"
+      },
+      "squuid": "5d3027e1-fbc2-4647-b8f1-3350fd28fd90",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Unterföhring",
+  "pseudoCompany": false,
+  "street": "Dieselstr.",
+  "name": "Glomex GmbH",
+  "naturalPerson": false,
+  "squuid": "61bc7edb-26b5-41ba-ad18-5f584305439d",
+  "controlDate": "2021-12-17T12:15:10.619Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85774",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.promiboom.de",
+        "squuid": "61bc7e90-f84a-4f76-9309-f3585652fd3e"
+      },
+      "squuid": "61bc7ef8-8213-4be5-b3d3-4b75ba1b951e",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Seven.One Entertainment Group GmbH",
+        "squuid": "5be1a6b6-ee3d-454b-96df-68a8cdac19d3"
+      },
+      "squuid": "61bc7fa7-957a-4075-bfa8-a29b7993c923",
+      "state": "active"
+    }
+  ]
+}

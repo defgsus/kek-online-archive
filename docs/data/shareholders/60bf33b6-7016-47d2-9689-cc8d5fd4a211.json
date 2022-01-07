@@ -1,0 +1,109 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Hollerithstr.",
+  "name": "Privatfernsehen in Bayern GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "60bf33b6-7016-47d2-9689-cc8d5fd4a211",
+  "controlDate": "2022-01-04T16:50:24.626Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "81829",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sat1.de/regional/bayern",
+        "squuid": "5f7f18a4-2522-4a73-987e-7a412c9d1648"
+      },
+      "squuid": "60bf3425-bf1e-4ff7-804d-c4bc0d09cd39",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sat.1 17:30 live für Bayern (Regionalfenster)",
+        "squuid": "5be1a6b1-fde6-4bf2-86b9-b6b83f044e1f"
+      },
+      "squuid": "61122b6b-10ed-42de-ad25-2265f88cb615",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Privatfernsehen in Bayern Verwaltungs-GmbH",
+        "squuid": "60bf33f1-d3f1-46a9-b894-e9d883037faf"
+      },
+      "squuid": "60bf39b7-c755-43be-93f7-fdfafb68d65b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "tv weiss-blau Rundfunkprogrammanbieter GmbH",
+        "squuid": "5be1a6b6-6cca-4e9f-8aa9-dc6529f65bc5"
+      },
+      "squuid": "60bf3a0d-5dde-4a67-a2c1-41cae762fb70",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 21.18,
+      "holder": {
+        "name": "Bayern Tele GmbH Fernsehproduktion bayerischer Zeitschriftenverlage",
+        "squuid": "5be1a6b6-9681-4a25-8626-a0e2626bec4a"
+      },
+      "squuid": "60bf3a2e-015e-40c3-b6d7-e93e85ec7b6c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.88,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "60bf3a4f-9448-4895-8821-546faa6e9ee5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 21.18,
+      "holder": {
+        "name": "Stöckl, Alexander",
+        "squuid": "5be1a6b6-53da-4d37-b2d8-bd3c68913105"
+      },
+      "squuid": "60bf3a69-37ec-4999-b756-5650f68380b3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.76,
+      "holder": {
+        "name": "Mediengesellschaft der bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Programm- und Werbegesellschaft",
+        "squuid": "5be1a6b6-c525-4b11-a1b7-9969a9671afb"
+      },
+      "squuid": "60bf3bc4-0741-470b-9ffc-91608344469e",
+      "state": "active"
+    }
+  ]
+}

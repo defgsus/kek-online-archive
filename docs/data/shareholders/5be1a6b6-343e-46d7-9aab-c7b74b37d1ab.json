@@ -1,0 +1,114 @@
+{
+  "state": "active",
+  "city": "Plauen",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Haselbrunner Straße",
+  "name": "Vogtland Radio Rundfunkgesellschaft mbH und Co. Studio Betriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-343e-46d7-9aab-c7b74b37d1ab",
+  "controlDate": "2021-07-07T12:44:38.396Z",
+  "streetNumber": "114",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "08525",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "VOGTLAND RADIO (Sachsen)",
+        "squuid": "5be1a6b1-19bc-4d0f-af8c-9b32e060e011"
+      },
+      "squuid": "5be1a6b9-e24b-4528-aa9d-0471380631eb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "VOGTLAND RADIO",
+        "squuid": "5c755661-e891-46af-ba2f-7e4c74896f30"
+      },
+      "squuid": "5c77bccc-3ef2-44c0-8761-e76e6dbea6ac",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.vogtlandradio.de",
+        "squuid": "5f2963be-a918-46ed-a6f8-6f056688b2ab"
+      },
+      "squuid": "5f296990-dc68-4202-b136-5d10c81ad3ea",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Thoß, Claus-Tilo",
+        "squuid": "5be1a6b6-d786-4366-a09a-0acd8dadc7f0"
+      },
+      "squuid": "5e53cfd5-6442-4684-82a2-00b69c918950",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Bukow, Klaus-Harald",
+        "squuid": "5be1a6b6-9f75-4565-ba00-27b6445734a9"
+      },
+      "squuid": "5e53cfe1-174d-4f89-8a61-e9db38e82589",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Hamann, Axel",
+        "squuid": "5be1a6b6-49bc-41f0-956e-1b49ec9a04b0"
+      },
+      "squuid": "5e53cfef-bb00-4310-8bba-f52cc40b6ab8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Hamann, Brigitte",
+        "squuid": "5be1a6b6-2bcf-41bf-93c7-8358a8264615"
+      },
+      "squuid": "5e53cfff-b03f-490a-b283-aebc419ae9ce",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.0,
+      "holder": {
+        "name": "Rink, Anette",
+        "squuid": "5be1a6b6-d98b-412f-933e-e329bb78eeac"
+      },
+      "squuid": "5e53d007-1ef2-47b1-b970-5e848281428f",
+      "state": "active"
+    }
+  ]
+}

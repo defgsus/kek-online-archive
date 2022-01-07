@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Borselstraße",
+  "name": "Good Life Publishing GmbH",
+  "naturalPerson": false,
+  "squuid": "5e1c95cd-deea-4696-8ecc-da884de01937",
+  "controlDate": "2021-10-25T13:45:53.242Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22765",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Wohn!Design",
+        "squuid": "5be1a6b1-d2e1-4ca1-a781-28823fdb59de"
+      },
+      "squuid": "5e1c95fe-4574-45f8-a6f8-a86e99dcd23d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ideat - Contemporary Life",
+        "squuid": "5be1a6b1-e1a5-45b0-9d75-c21d4cf0c16a"
+      },
+      "squuid": "600041a7-7c8e-45ec-aeea-5f44237e8a51",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wohndesign.de",
+        "squuid": "60817646-d004-416f-8c38-361d696c1d58"
+      },
+      "squuid": "60817665-a4a4-4205-96c9-b67b5e0dc6e2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ideat.de",
+        "squuid": "608175ff-e8b1-4007-bdf3-8830390c85fb"
+      },
+      "squuid": "60817682-e724-4be4-a781-ccd6214e088d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Peters, Christian",
+        "squuid": "5e1c95e8-008c-40de-ace6-c2cecb43e2c2"
+      },
+      "squuid": "5e1c9673-1d1a-475f-bb53-3e2e1fb71643",
+      "state": "active"
+    }
+  ]
+}

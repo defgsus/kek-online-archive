@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Dingolfinger Straße 1",
+  "name": "Scout24 AG (zuvor: Asa NewCo GmbH)",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8f52-495b-bddf-ea8420cc2044",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "81673",
+  "credits": "Formatt",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 46.6,
+      "holder": {
+        "name": "Asa HoldCo GmbH",
+        "squuid": "5be1a6b6-73ff-44ff-914a-1e8225051a59"
+      },
+      "squuid": "5be1a6b8-2ff5-4889-9418-4b2b117791e5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.3,
+      "holder": {
+        "name": "MEP Ord GmbH & Co KG",
+        "squuid": "5be1a6b6-d7eb-41bf-a41d-6ed3fad13735"
+      },
+      "squuid": "5be1a6b8-052d-4653-8b96-f516d7c15fe9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 13.4,
+      "holder": {
+        "name": "Deutsche Telekom AG",
+        "squuid": "5be1a6b6-24e3-48ff-a771-390feb41d44f"
+      },
+      "squuid": "5be1a6b8-8f22-4e46-a50e-7628c68ab49b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 34.8,
+      "holder": {
+        "name": "Streubesitz an der Scout24 AG",
+        "squuid": "5be1a6b6-ac4c-4a76-861f-8180210d26fb"
+      },
+      "squuid": "5be1a6b8-ad51-4d19-b147-5e8ce85af26d",
+      "state": "active"
+    }
+  ]
+}

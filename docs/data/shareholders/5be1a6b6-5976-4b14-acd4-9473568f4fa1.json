@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Verlag Herder GmbH",
+        "squuid": "5be1a6b6-67c8-402e-a9d5-4d73d774e6a3"
+      },
+      "squuid": "5be1a6b8-1066-4c9b-9a04-906762118e5d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Hermann Herder-Str. 4",
+  "name": "Herder GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5976-4b14-acd4-9473568f4fa1",
+  "controlDate": "2021-10-26T11:55:07.491Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "79104",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 94.9,
+      "holder": {
+        "name": "Herder Verwaltungs GmbH",
+        "squuid": "5be1a6b6-eefc-4149-bfb2-f65492d96389"
+      },
+      "squuid": "5be1a6b8-08f9-44f8-860f-96ec871f5a21",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.1,
+      "holder": {
+        "name": "Bartholomä Herder Stiftung",
+        "squuid": "5be1a6b6-111d-4bf8-a387-a3b26c859961"
+      },
+      "squuid": "5be1a6b8-3c79-4861-81e1-bc645b4859bd",
+      "state": "active"
+    }
+  ]
+}

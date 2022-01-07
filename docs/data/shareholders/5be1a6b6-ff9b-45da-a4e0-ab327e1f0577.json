@@ -1,0 +1,89 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Kabel-TV Marketing GmbH",
+        "squuid": "5be1a6b6-5cf9-48a1-bcc2-0deef6525749"
+      },
+      "squuid": "5e4fa66b-3d19-4c16-93a4-fbf45eaf8989",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Marienberg",
+  "pseudoCompany": false,
+  "street": "Dörfelstraße",
+  "name": "Regional-Fernsehen Mittelerzgebirge MEF GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ff9b-45da-a4e0-ab327e1f0577",
+  "controlDate": "2021-12-10T10:55:04.802Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09496",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MEF - Mittel Erzgebirgs Fernsehen",
+        "squuid": "5be1a6b1-ab77-4ab6-8f0b-1de6c1747087"
+      },
+      "squuid": "5be1a6b9-df74-4f04-8876-dd69b5aed0ed",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mef-line.de",
+        "squuid": "5f7dafd4-b7df-4c59-894e-5064c65b29d9"
+      },
+      "squuid": "5f7db04c-c860-4c16-8d5d-c2abe2778e04",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Rötzer, Roy",
+        "squuid": "5be1a6b6-e6c2-4f09-b6f1-e27290fe0be7"
+      },
+      "squuid": "5e4faca5-b630-49d3-bfca-993b3844af1d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Antennengemeinschaft Erznet AG",
+        "squuid": "5e4fac7e-f26c-4322-a1f6-3a92c681b28f"
+      },
+      "squuid": "5e4facb1-8e1b-4dd9-bf40-951146465b35",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Langer, Frank",
+        "squuid": "5e4facc9-5b74-4812-97ab-cb075d5d1313"
+      },
+      "squuid": "5e4face4-fd02-472b-be7c-4d037965968b",
+      "state": "active"
+    }
+  ]
+}

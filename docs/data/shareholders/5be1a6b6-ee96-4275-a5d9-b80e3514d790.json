@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "TV Oberfranken GmbH & Co. KG",
+        "squuid": "5be1a6b6-24fd-46f1-a071-75daf7870e61"
+      },
+      "squuid": "5be1a6b8-d91d-491f-8bcc-c4c05f25c3cf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "TV Oberfranken Geschäftsführungs GmbH",
+        "squuid": "5f80392d-6f14-4fac-8824-7c5beda5ccc6"
+      },
+      "squuid": "5f8d7490-9f3f-4ea5-ac99-44c0eb46f512",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Marktredwitz",
+  "pseudoCompany": false,
+  "street": "Scherdelstraße",
+  "name": "Scherdel GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ee96-4275-a5d9-b80e3514d790",
+  "controlDate": "2022-01-07T10:35:56.809Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "95615",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Sigmund Scherdel GmbH & Co. KG",
+        "squuid": "5cb87d7c-d2ca-4f9d-8cb6-262f152e4247"
+      },
+      "squuid": "5cb87d90-7ab4-41f5-a3d6-c6d106695af7",
+      "state": "active"
+    }
+  ]
+}

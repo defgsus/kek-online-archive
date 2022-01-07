@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Straubing",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Landshuter Str.",
+  "name": "Radio Aktuelle Welle GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-f68d-49c4-8ee5-4264e52fbef5",
+  "controlDate": "2021-12-21T14:59:11.013Z",
+  "streetNumber": "93",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "94315",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio AWN",
+        "squuid": "5be1a6b1-82b3-4997-9476-774c12c05f8f"
+      },
+      "squuid": "5be1a6b9-f7f0-4f39-8b34-1b46e7de9e6b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioawn.de",
+        "squuid": "5f919d10-7ae5-4e47-8ace-dc1aca59d603"
+      },
+      "squuid": "5f919d70-6bd7-40de-bef2-1d949ac177d1",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "Radio AWN Straubing GmbH & Co. Hörfunk KG",
+        "squuid": "5be1a6b6-805c-446e-86e9-b73cddf22859"
+      },
+      "squuid": "5be1a6b7-d824-4186-9894-6d481d22ec70",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Neue Welle - Antenne Straubing, Hörfunk- und Fernsehprogrammanbieter GmbH",
+        "squuid": "5be1a6b6-6441-40ee-a8a0-ffe647cabd5c"
+      },
+      "squuid": "5be1a6b7-1785-4631-b527-38618fef5343",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Aktuelle Welle Verwaltungs GmbH",
+        "squuid": "5f919e94-9676-4009-8036-fc8fb920c5af"
+      },
+      "squuid": "5fa12bc2-ba9e-464a-8a18-a6df24b90c01",
+      "state": "active"
+    }
+  ]
+}

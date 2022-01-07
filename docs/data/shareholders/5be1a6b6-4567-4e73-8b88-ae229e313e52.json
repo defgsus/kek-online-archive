@@ -1,0 +1,100 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "Frequenzgemeinschaft Region 8 GbR",
+        "squuid": "5be1a6b6-0913-4d40-a567-e0f2833038f6"
+      },
+      "squuid": "5be1a6b7-f1ec-4c42-8c0c-a4a479fe7b3b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ansbach",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Schalkhäuser Landstraße",
+  "name": "Frequenzgemeinschaft Region 8 GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4567-4e73-8b88-ae229e313e52",
+  "controlDate": "2021-12-21T14:22:03.128Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "91522",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio 8",
+        "squuid": "5be1a6b1-b5bc-4f94-ad70-a46b2f92ace6"
+      },
+      "squuid": "5be1a6b9-584f-423a-b166-5865311d8ee6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Galaxy Mittelfranken",
+        "squuid": "5c6eaf0a-9434-4e0f-add6-e71501fa41ee"
+      },
+      "squuid": "5c6eaf5b-d96c-4aa3-88b2-47516abefe4a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio8.de",
+        "squuid": "5f918c39-c323-44fd-a27c-bd7d659d27de"
+      },
+      "squuid": "61c1e2c9-b7ea-4ad4-97f6-9fea3aff22e4",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Heinrich Delp GmbH",
+        "squuid": "5be1a6b6-8648-48ef-80fd-95a81989ad79"
+      },
+      "squuid": "5be1a6b7-582b-4f6a-a4bf-13494f4126f0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Schneider Druck GmbH",
+        "squuid": "5be1a6b6-e7d8-4693-9ad7-5c09151a0888"
+      },
+      "squuid": "5be1a6b7-42df-4724-a7f2-393107c7d90b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Aktuelle Welle Region 8 Programm- und Werbe GmbH",
+        "squuid": "5c6d77d0-ab5e-4ab7-ba44-af7c18891eda"
+      },
+      "squuid": "5c6d7840-837c-4a6e-8845-b24863e4fcd0",
+      "state": "active"
+    }
+  ]
+}

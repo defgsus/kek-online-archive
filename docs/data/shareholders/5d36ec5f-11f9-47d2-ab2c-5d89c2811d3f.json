@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": true,
+  "street": "Adenauerallee",
+  "name": "Bundeszentrale für politische Bildung ",
+  "naturalPerson": false,
+  "squuid": "5d36ec5f-11f9-47d2-ab2c-5d89c2811d3f",
+  "controlDate": "2020-06-22T11:44:48.382Z",
+  "streetNumber": "86",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53113",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bpb.de",
+        "squuid": "5d36ebc3-61b5-4468-a45e-2b7b4dd5ff35"
+      },
+      "squuid": "5d36ec88-548e-46f0-8b55-a9aefb466891",
+      "state": "active"
+    }
+  ]
+}

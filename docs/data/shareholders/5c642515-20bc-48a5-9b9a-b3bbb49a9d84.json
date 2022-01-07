@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Oberhafenstraße",
+  "name": "Jasmin Missler Verlag",
+  "naturalPerson": false,
+  "squuid": "5c642515-20bc-48a5-9b9a-b3bbb49a9d84",
+  "controlDate": "2021-11-04T14:07:50.982Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20097",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Nord Wirtschaft",
+        "squuid": "5c64247d-41d3-46ce-9504-1786cee3537d"
+      },
+      "squuid": "5c642527-b16d-4b3f-848f-af9efa30097a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Missler, Jasmin",
+        "squuid": "5c64253c-ed0d-448c-9096-b89b643a6543"
+      },
+      "squuid": "5c642578-6e59-49a0-93a8-8d075d931193",
+      "state": "active"
+    }
+  ]
+}

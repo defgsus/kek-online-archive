@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "61d2f793-bd4f-4cd1-a55b-35184e4d0861",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Rundfunk Berlin-Brandenburg (RBB)",
+        "squuid": "5be1a6b6-397d-4361-8635-4e42f797be3d"
+      },
+      "squuid": "61d2f7eb-c70d-475a-a0b6-7bc69ed6fdf7",
+      "state": "active"
+    }
+  ],
+  "name": "www.rbb-online.de/rbbkultur",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-03T13:19:22.125Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

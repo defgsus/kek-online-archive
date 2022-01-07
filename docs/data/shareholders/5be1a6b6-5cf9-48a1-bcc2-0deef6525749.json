@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Brand-Erbisdorf",
+  "pseudoCompany": false,
+  "street": "Am Goldbachtal",
+  "name": "Kabel-TV Marketing GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5cf9-48a1-bcc2-0deef6525749",
+  "controlDate": "2021-12-10T10:54:06.287Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09618",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kanal 9 Erzgebirge",
+        "squuid": "5be1a6b1-3a9a-426a-a60f-518b51493645"
+      },
+      "squuid": "5be1a6b9-eb3a-4cec-8a31-1d52e3d81c3e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kanal9.de",
+        "squuid": "5f7d8544-b9bd-4ac7-9e6e-a9d95c875a76"
+      },
+      "squuid": "5f7d8577-4ae6-4780-94ff-e06cbf74b3d9",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Regional-Fernsehen Mittelerzgebirge MEF GmbH",
+        "squuid": "5be1a6b6-ff9b-45da-a4e0-ab327e1f0577"
+      },
+      "squuid": "5e4fa66b-3d19-4c16-93a4-fbf45eaf8989",
+      "state": "active"
+    }
+  ]
+}

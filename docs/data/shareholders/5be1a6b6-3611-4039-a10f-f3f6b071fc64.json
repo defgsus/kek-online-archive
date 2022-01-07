@@ -1,0 +1,57 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "11 Freunde Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-18d3-4575-9316-acd28f43f22d"
+      },
+      "liabilitySum": 25.0,
+      "squuid": "5be1a6b8-1ab5-41cf-b39e-ac7291ff5f1b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Herwarthstr.",
+  "name": "Praise Media GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-3611-4039-a10f-f3f6b071fc64",
+  "controlDate": "2021-11-19T15:53:58.599Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50672",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hörstmann, Matthias",
+        "squuid": "5be1a6b6-6631-4b56-aad1-92b3511cc588"
+      },
+      "squuid": "5be1a6b8-ccbb-4cbb-bef2-42d59ecdd97b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Praise Media Verwaltungs GmbH",
+        "squuid": "5ea6e475-afae-42ca-a42e-026a1ea45a45"
+      },
+      "squuid": "5ea6e4b3-1545-4053-9f52-63130d325a0d",
+      "state": "active"
+    }
+  ]
+}

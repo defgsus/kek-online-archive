@@ -1,0 +1,67 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.0791,
+      "held": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "5be1a6b7-f5de-4983-9b68-c5f7ec528f7b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Griesheim",
+  "pseudoCompany": false,
+  "street": "Wiesenstr.",
+  "name": "Bassenauer UG (haftungsbeschränkt) & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-182f-443f-98ed-fbc46cb492f6",
+  "controlDate": "2021-12-07T12:49:04.669Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "64347",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bassenauer, Wolfgang",
+        "squuid": "5ef9c01e-dce6-4243-a9cf-1f323f0f4517"
+      },
+      "squuid": "5ef9c069-f031-4712-aaf8-9008443fa1f7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bassenauer Verwaltungs UG (haftungsbeschränkt)",
+        "squuid": "5ef9c034-5641-4fa6-983b-5ec350afd26e"
+      },
+      "squuid": "5ef9c07b-aba5-4821-a99f-fb37ddfab080",
+      "state": "active"
+    }
+  ]
+}

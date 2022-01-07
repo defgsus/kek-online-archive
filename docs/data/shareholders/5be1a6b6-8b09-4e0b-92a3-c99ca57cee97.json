@@ -1,0 +1,105 @@
+{
+  "state": "active",
+  "city": "Dresden",
+  "pseudoCompany": false,
+  "street": "Ostra-Allee 20",
+  "name": "DDV Sachsen GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8b09-4e0b-92a3-c99ca57cee97",
+  "controlDate": "2021-10-14T10:44:05.828Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "01067",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "WIRtschaft in Sachsen",
+        "squuid": "5be1a6b1-202a-4571-a03a-418ae9132d27"
+      },
+      "squuid": "5be1a6b9-8fbf-40dd-bc61-77e72e3c9fe6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sächsische Zeitung (Ausgabe Dresden)",
+        "squuid": "5be1a6b1-b992-45e4-8d7b-bfd08f64e701"
+      },
+      "squuid": "5be1a6b9-e6f7-48a9-9308-dac883534013",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sächsische Zeitung (Ausgaben Görlitz, Zittau, Löbau, Weißwasser, Niesky)",
+        "squuid": "5be1a6b1-41f5-44ce-9297-a1e821a305e8"
+      },
+      "squuid": "5be1a6b9-7078-4dee-b5f5-87830477d958",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sächsische Zeitung (Ausgaben Bautzen, Kamenz, Bischofswerda, Rödertal)",
+        "squuid": "5be1a6b1-841f-45f4-950b-589fc17d3e10"
+      },
+      "squuid": "5be1a6b9-7194-4972-817e-b5a8d9107be5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sächsische Zeitung (Ausgaben Freital, Pirna, Sebnitz, Dippoldiswalde)",
+        "squuid": "5be1a6b1-6538-4b93-a051-a2b415e019b1"
+      },
+      "squuid": "5be1a6b9-a2da-4423-bfec-8d614f7c4bed",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sächsische Zeitung (Ausgaben Dresdner und Meißner Land, Meißen, Großenhain, Riesa)",
+        "squuid": "5be1a6b1-aa49-4370-996c-88ec764415bd"
+      },
+      "squuid": "5be1a6b9-7a07-45b2-ac24-5bb258741546",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sächsische Zeitung (Ausgabe Hoyerswerda)",
+        "squuid": "5be1a6b1-db58-40b3-8dc2-686fead0766b"
+      },
+      "squuid": "5be1a6b9-f137-4ca4-af03-30b0aab98c92",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Döbelner Anzeiger",
+        "squuid": "5be1a6b1-085d-405d-815d-daac90980bee"
+      },
+      "squuid": "5be1a6b9-b91e-480c-8025-c0532d6cd3ed",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "5be1a6b8-b788-43a5-aaa0-415afa01b464",
+      "state": "active"
+    }
+  ]
+}

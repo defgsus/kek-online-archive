@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Plettenberg",
+  "pseudoCompany": false,
+  "street": "Am Galgenhagen 13",
+  "name": "Komplett-Verlag Schlütter, Höfner GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7cfd-4206-9176-c93ca331d7f9",
+  "controlDate": "2021-10-26T12:10:35.278Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "58840",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Komplett",
+        "squuid": "5be1a6b1-b32b-4361-8b83-80616e8f5c55"
+      },
+      "squuid": "5be1a6b9-44e6-4672-8bde-1e155e89c4f0",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schlütter, Bernhard",
+        "squuid": "5be1a6b6-98e7-4cef-80e7-301075086daf"
+      },
+      "squuid": "5be1a6b8-2c50-4664-bbeb-b664655f16e2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Höfner, Heiko",
+        "squuid": "5be1a6b6-7815-444b-aa0e-de02ab7030b6"
+      },
+      "squuid": "5be1a6b8-933d-41c7-b9ce-74a65e45b192",
+      "state": "active"
+    }
+  ]
+}

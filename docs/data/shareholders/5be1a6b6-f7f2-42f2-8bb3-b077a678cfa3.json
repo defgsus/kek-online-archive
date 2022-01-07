@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Zürich, Schweiz",
+  "pseudoCompany": false,
+  "street": "Falkenstraße",
+  "name": "Neue Zürcher Zeitung AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f7f2-42f2-8bb3-b077a678cfa3",
+  "controlDate": "2021-12-15T17:30:57.198Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "8021",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nzz.ch",
+        "squuid": "5d2f1907-c0db-4b66-865f-3842d04fa664"
+      },
+      "squuid": "5d2f209a-186e-45ff-8d9d-cc0d097ced9c",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 23.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "AG für die Neue Zürcher Zeitung/NZZ-Mediengruppe",
+        "squuid": "5be1a6b6-13ac-4b54-844a-20b9854fad50"
+      },
+      "squuid": "5be1a6b7-0e38-4d66-b765-723680d59a9c",
+      "state": "active"
+    }
+  ]
+}

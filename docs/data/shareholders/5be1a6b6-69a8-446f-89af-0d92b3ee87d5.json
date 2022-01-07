@@ -1,0 +1,66 @@
+{
+  "state": "active",
+  "city": "Straßburg Cedex, Frankreich",
+  "pseudoCompany": true,
+  "street": "4, Quai du Chanoine Winterer",
+  "name": "ARTE G.E.I.E.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-69a8-446f-89af-0d92b3ee87d5",
+  "otherMediaActivities": "ARTE (Association Relative à la Télévision Européenne) ist eine Europäische Wirtschaftliche Interessenvereinigung (G.E.I.E.). Sie wurde am 30. April 1991 gegründet. Gleichberechtigte Mitglieder sind ARTE France (Issy-les-Moulineaux) und ARTE Deutschland TV GmbH (Baden-Baden; ARD und ZDF sind zu je 50 % beteiligt). Die Mitglieder liefern jeweils 40 % der von ARTE gesendeten Programme.",
+  "controlDate": "2020-06-18T13:01:30.399Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "67000",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "arte",
+        "squuid": "5be1a6b1-92b0-4751-bf46-4df5f09ad31c"
+      },
+      "squuid": "5be1a6b9-d094-4f2c-a738-5617f7ae8638",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.arte.tv/de",
+        "squuid": "5c6c2f83-b756-4a00-b6d6-75c3e747b9ea"
+      },
+      "squuid": "5c6c2fa6-75cf-4902-a73b-e55e31c97c42",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "ARTE Deutschland TV GmbH",
+        "squuid": "5be1a6b6-c54b-4406-bde3-230c746b3f1f"
+      },
+      "squuid": "5be1a6b7-0ed2-43c8-afe9-54341e62fafc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "ARTE France",
+        "squuid": "5be1a6b6-6387-4760-8413-f6bc532547e3"
+      },
+      "squuid": "5be1a6b7-80e0-4401-b54c-78ac1c49ccfd",
+      "state": "active"
+    }
+  ]
+}

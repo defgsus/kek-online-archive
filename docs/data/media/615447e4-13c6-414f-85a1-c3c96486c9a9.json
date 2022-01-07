@@ -1,0 +1,91 @@
+{
+  "rfRepresentative": "Thomas Adams",
+  "state": "active",
+  "sharesInfo": "KEK 1089",
+  "rfShoppingChannel": false,
+  "rfStartDate": "2012",
+  "rfFreePay": false,
+  "squuid": "615447e4-13c6-414f-85a1-c3c96486c9a9",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://djazz.stingray.com/en/DE/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Stingray Germany GmbH",
+        "squuid": "61544865-7df5-4578-968a-828e93f8c0ba"
+      },
+      "squuid": "61545a72-b8a5-4943-bf2f-a218cbe30312",
+      "state": "active"
+    }
+  ],
+  "name": "Stingray Djazz",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-10a1-4d0f-be3f-dc7e8cdd350a",
+    "name": "Spartenprogramm (Musik)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+    "name": "LPR Hessen",
+    "type": "organization",
+    "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "description": "Musikspartenprogramm Jazz",
+  "rfLicenseUntil": "28.01.2031",
+  "rfLicensed": "29.01.2021",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-2288-40d6-afbf-1bb173d78d5e",
+      "name": "M7 Group",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "29.01.2021",
+  "accessibilityEmail": "support@stingray.com",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

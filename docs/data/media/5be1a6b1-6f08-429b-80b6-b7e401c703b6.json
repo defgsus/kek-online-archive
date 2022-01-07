@@ -1,0 +1,78 @@
+{
+  "rfRepresentative": "Charles Prast",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Manfred Rauch",
+  "rfStartDate": "01.03.2001",
+  "rfFreePay": false,
+  "squuid": "5be1a6b1-6f08-429b-80b6-b7e401c703b6",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "tmc Content Group GmbH",
+        "squuid": "5be1a6b6-44e1-422c-ba9a-315508c4cf22"
+      },
+      "squuid": "5be1a6b9-8967-4f87-b755-ef376d8a0a6c",
+      "state": "active"
+    }
+  ],
+  "name": "beate-uhse.tv",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Spartenprogramm aus eigen- und fremdproduzierten Spielfilmen und anderen Sendeformaten, wie Magazinen, Doku-Soaps, Reportagen oder Shows, zum Thema Erotik",
+  "rfLicenseUntil": "unbefristet",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "19.12.2014",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
+        "name": "Programmplattform",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Offenbach",
+  "pseudoCompany": true,
+  "street": "Frankfurter Straße ",
+  "name": "Deutscher Wetterdienst (A.d.ö.R. im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur)",
+  "naturalPerson": false,
+  "squuid": "5d35887c-9bc3-4bca-8d72-3372f3eea94c",
+  "controlDate": "2020-06-26T12:16:03.619Z",
+  "streetNumber": "135",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "63067",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dwd.de",
+        "squuid": "5d35885a-0552-4b3c-af54-1a33705b96bd"
+      },
+      "squuid": "5d3588b6-0dd1-4b3a-8fb6-d9e491481acc",
+      "state": "active"
+    }
+  ]
+}

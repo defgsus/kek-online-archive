@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5c6596c4-f22e-4a76-b48d-48691d2c312f",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ruhr24 GmbH & Co. KG",
+        "squuid": "5c5c4a82-8897-442c-a194-c9e656c2a047"
+      },
+      "squuid": "5c659752-769b-4b24-b77b-229fef60ae38",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "60b8b0ab-1355-4a89-b6a7-d8d813f20075",
+      "state": "active"
+    }
+  ],
+  "name": "www.ruhr24.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-04T12:04:33.514Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

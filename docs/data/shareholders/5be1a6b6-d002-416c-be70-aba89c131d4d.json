@@ -1,0 +1,109 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 65.0,
+      "held": {
+        "name": "ANTENNE RADIO GmbH & Co. KG",
+        "squuid": "5be1a6b6-d66b-47be-bf76-e515dd9367d8"
+      },
+      "squuid": "5be1a6b7-73ec-4897-a9c7-41315d153952",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 65.0,
+      "held": {
+        "name": "Antenne Radio-Verwaltungsgesellschaft mbH",
+        "squuid": "5ef21049-234a-498b-b709-7199ff6d9a03"
+      },
+      "squuid": "5f97dd95-985d-4195-b118-29cd819f94a8",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Plieninger Straße",
+  "name": "Stuttgart Regional Hörfunk GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d002-416c-be70-aba89c131d4d",
+  "controlDate": "2021-11-24T16:50:41.370Z",
+  "streetNumber": "150",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70567",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 59.0,
+      "holder": {
+        "name": "Stuttgarter Presse Funk GmbH",
+        "squuid": "5c98ed33-3de6-4a1d-b2fa-4f2782148a39"
+      },
+      "squuid": "5c98ede5-0f87-49c9-b9a3-13ed7027b8a9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.7,
+      "holder": {
+        "name": "MMN Mediengesellschaft Mittlerer Neckar GmbH",
+        "squuid": "5c98ee6c-4328-4f2e-9dbb-8bcfcc3b9d68"
+      },
+      "squuid": "5c98ee8e-436c-4aa3-88ac-910c9c37f0dd",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Stuttgart Regional Hörfunk Verwaltung GmbH",
+        "squuid": "5ef218a7-e39b-4f04-ac6f-0db2f0a1ed55"
+      },
+      "squuid": "5ef218c7-430b-4bd0-b31e-7f50074783f9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.3,
+      "holder": {
+        "name": "Axel Springer Audio GmbH",
+        "squuid": "5eec977a-4293-4391-9c4b-ea689f80f489"
+      },
+      "squuid": "5f9aadbc-3bec-4df5-beac-498c956fb9e5",
+      "state": "active"
+    }
+  ]
+}

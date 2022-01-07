@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "Weinheim",
+  "pseudoCompany": false,
+  "street": "Akazienweg",
+  "name": "TV-Medien Rhein-Neckar GmbH",
+  "naturalPerson": false,
+  "squuid": "5d2c4b69-082e-4993-87e3-0706faf8b63a",
+  "controlDate": "2021-12-13T17:19:57.872Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "69469",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Metropolregion.tv",
+        "squuid": "5d2c4a45-c868-4f9a-93d1-ca59f93694e0"
+      },
+      "squuid": "5d3580f2-4242-4bc8-9802-d903430ca8ce",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.metropolregion.tv",
+        "squuid": "5f7db6b2-771c-43f4-941e-0c211e00ce77"
+      },
+      "squuid": "5f7db6f9-79a2-488d-8006-bf303e7288ec",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Blue Lava GmbH",
+        "squuid": "5d3581e2-e409-4655-8d81-feccefa101c2"
+      },
+      "squuid": "5d3581fc-bb88-4fd3-ba7c-d2090200d0a5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Gräber, Christian",
+        "squuid": "5d3581c0-b882-413a-b5a9-aa66061a675e"
+      },
+      "squuid": "5d358207-4ec0-4349-a6f2-d33bf23d0b4e",
+      "state": "active"
+    }
+  ]
+}

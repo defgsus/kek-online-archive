@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Ravensburg",
+  "pseudoCompany": false,
+  "street": "Karlstraße",
+  "name": "Regio TV Bodenseefernsehen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d42ccf5-3861-4929-b50a-310d6e2a6e6f",
+  "controlDate": "2022-01-03T15:22:58.975Z",
+  "streetNumber": "16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "88212 ",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Regio TV Bodensee",
+        "squuid": "5d2c70c7-07f3-40c6-8311-d7fbb76d5c8d"
+      },
+      "squuid": "5d42cd2b-8cf4-4fbd-ad89-99e991aaaa3f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.regio-tv.de/regio-tv-bodensee",
+        "squuid": "5f3d12ec-e804-4573-83a9-494a15523e35"
+      },
+      "squuid": "5f3d136f-3be9-46bf-93c3-451f568c6e87",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Regio TV Bodenseefernsehen Verwaltungs-GmbH",
+        "squuid": "5f3d13e1-315c-41be-92d0-0e091491ec1a"
+      },
+      "squuid": "5f3d1427-5fbf-40fa-b5de-ffd077b90bbe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5f3d1439-c7db-4194-a017-582a28747837",
+      "state": "active"
+    }
+  ]
+}

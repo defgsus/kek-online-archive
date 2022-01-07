@@ -1,0 +1,82 @@
+{
+  "state": "active",
+  "city": "Naumburg",
+  "pseudoCompany": false,
+  "street": "Salzstr. 8",
+  "name": "Zeitungsverlag Naumburg Nebra GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-dabb-46bf-b8b9-ee72733fdc10",
+  "controlDate": "2021-11-04T11:39:39.734Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "06618",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Naumburger Tageblatt",
+        "squuid": "5be1a6b1-6de4-4f88-9c70-87df22790d79"
+      },
+      "squuid": "5be1a6b9-728c-4a21-961a-a252e4b7b7cd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mitteldeutsche Zeitung (Ausgabe Nebra)",
+        "squuid": "5be1a6b1-75e6-4a69-aa95-fbc4f68ffe77"
+      },
+      "squuid": "5be1a6b9-7dc7-4852-a38c-440b2791ccf2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mz.de",
+        "squuid": "5be1a6b1-53a1-4ffe-856d-c3fee1697121"
+      },
+      "squuid": "6093d127-566a-4af3-8638-dfb3b0576078",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 24.9,
+      "holder": {
+        "name": "Mediengruppe Mitteldeutsche Zeitung GmbH & Co KG",
+        "squuid": "5be1a6b6-3e2f-47c5-8dbc-8019b8dfe45b"
+      },
+      "squuid": "5be1a6b8-4083-4c94-91be-a74a7f27393d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.1,
+      "holder": {
+        "name": "Leipziger Verlags- und Druckereigesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-e3d7-48f4-a702-9fec71b10041"
+      },
+      "squuid": "5be1a6b8-bfbc-4755-9fee-2818cf8b3b6b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Zeitungsverlag Naumburg Nebra Verwaltungs GmbH",
+        "squuid": "5ede3ba6-e902-4a89-a3bc-9831843bb5cf"
+      },
+      "squuid": "5ede3bcb-041e-422e-bc39-c1ef499edeff",
+      "state": "active"
+    }
+  ]
+}

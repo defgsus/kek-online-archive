@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5d2ee099-9217-4c1b-a4e3-7cbd394e0e21",
+  "marketReach": 0.024799209165142968,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SPIEGEL TV GmbH",
+        "squuid": "5be1a6b6-16c9-4c58-9037-a0a95a6e46d8"
+      },
+      "squuid": "5d2ee0c3-085a-4186-be74-63e5ba4849ee",
+      "state": "active"
+    }
+  ],
+  "name": "www.tv.spiegel.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-05T16:48:33.849Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

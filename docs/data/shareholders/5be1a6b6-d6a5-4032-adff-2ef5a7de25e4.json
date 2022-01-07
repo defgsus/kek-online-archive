@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Freital",
+  "pseudoCompany": false,
+  "street": "Dresdner Straße",
+  "name": "DDV Sächsische Schweiz-Osterzgebirge GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d6a5-4032-adff-2ef5a7de25e4",
+  "otherMediaActivities": "Regionalverlag der Sächsischen Zeitung",
+  "controlDate": "2021-11-16T14:04:10.630Z",
+  "streetNumber": "72",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "01705",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sächsische Zeitung (Ausgaben Freital, Pirna, Sebnitz, Dippoldiswalde)",
+        "squuid": "5be1a6b1-6538-4b93-a051-a2b415e019b1"
+      },
+      "squuid": "5be1a6b9-c759-46ee-8b96-7434462fe9c5",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 77.5,
+      "holder": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "5be1a6b8-dae0-410f-9e00-3daf054aaf24",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.5,
+      "holder": {
+        "name": "Seidel, Jörg",
+        "squuid": "5be1a6b6-b68d-4062-bb02-8315b4fcd4b8"
+      },
+      "squuid": "5be1a6b8-dee1-48fe-a1cc-756a61a10ad5",
+      "state": "active"
+    }
+  ]
+}

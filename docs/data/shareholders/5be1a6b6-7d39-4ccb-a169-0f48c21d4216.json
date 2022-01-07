@@ -1,0 +1,72 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 18.5,
+      "held": {
+        "name": "Giesdorf Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-fb43-4e63-9777-3026b838d87b"
+      },
+      "squuid": "5be1a6b8-c7e0-4e62-b917-1566f153b277",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "Salzstr.",
+  "name": "S & A Verwaltungs UG (haftungsbeschränkt) & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7d39-4ccb-a169-0f48c21d4216",
+  "controlDate": "2021-06-03T11:33:52.853Z",
+  "streetNumber": "29",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "48143",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Pockrandt, Arid Göran",
+        "squuid": "5be1a6b6-3ee7-4ffd-989d-d19654b652d2"
+      },
+      "squuid": "5be1a6b8-0f7a-49df-ada7-f04754986e8e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Pockrandt, Sven Oliver",
+        "squuid": "5be1a6b6-eb6e-48dd-8297-f448a0149cac"
+      },
+      "squuid": "5be1a6b8-6d3d-4705-b72b-dd485b347115",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "S & A Beteiligungs UG (haftungsbeschränkt)",
+        "squuid": "5ed1088f-0b97-48e6-aff7-d4fffd769620"
+      },
+      "squuid": "5ed108d4-7442-4017-9e6d-940468e41264",
+      "state": "active"
+    }
+  ]
+}

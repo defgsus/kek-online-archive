@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Maastrichter Str. 49 ",
+  "name": "Stadt-Revue Verlags-GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e1c7-48f3-b22b-c8a114bbc94f",
+  "controlDate": "2021-11-15T12:18:15.545Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50672",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "StadtRevue",
+        "squuid": "5be1a6b1-74ac-4b63-824a-6b5d839cc50c"
+      },
+      "squuid": "5be1a6b9-0f0f-49bc-8b23-58a16467d6b5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.stadtrevue.de",
+        "squuid": "5be1a6b1-8bee-47f8-bd78-2d9070906a8f"
+      },
+      "squuid": "5be1a6b9-51ad-4c39-a0a3-3cbfab8a418e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Förderverein Stadt Revue Köln e. V. vertreten durch: Wegener, Manfred",
+        "squuid": "5be1a6b6-89e2-41e6-aff9-6cd9175e744f"
+      },
+      "squuid": "5be1a6b8-ec46-4bdf-a0e1-02732cfb4243",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Ganslmeier, Christoph",
+        "squuid": "5be1a6b6-b1d2-479c-8127-66dfd7d9b583"
+      },
+      "squuid": "5be1a6b8-b9fa-4357-a26e-ec5d901d4278",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Kraskes, Eva",
+        "squuid": "5be1a6b6-2498-46b4-9ba1-d1aee4a37a19"
+      },
+      "squuid": "5be1a6b8-b440-4c94-ae08-4e91cd7c76b0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Armborst, Urban",
+        "squuid": "5be1a6b6-4c0f-4329-84fa-f1131302532a"
+      },
+      "squuid": "5be1a6b8-4553-424b-bc3a-4fe71a0df660",
+      "state": "active"
+    }
+  ]
+}

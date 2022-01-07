@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Frankenalle",
+  "name": "RheinMainMedia GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5324-4076-8f76-aa41e651b6b3",
+  "controlDate": "2021-11-10T11:19:05.017Z",
+  "streetNumber": "71-81",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60327",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MAINfeeling",
+        "squuid": "5be1a6b1-c3ed-4f6d-b84e-264d97531259"
+      },
+      "squuid": "5be1a6b9-c991-42be-b5cd-e44668ed7af2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "RheinMainMedia (MVM)",
+        "squuid": "5cff9768-6655-4da8-869b-8c88e915d8bc"
+      },
+      "squuid": "5cff9c91-ab3d-4610-8a79-01e6566a968e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.1,
+      "holder": {
+        "name": "Frankfurter Allgemeine Zeitung GmbH",
+        "squuid": "5be1a6b6-a13b-4dae-9b4e-28467cc294bb"
+      },
+      "squuid": "5be1a6b8-a560-4632-b069-2f66f9289d72",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 74.9,
+      "holder": {
+        "name": "Frankfurter Societäts-Medien GmbH",
+        "squuid": "5be1a6b6-503e-4911-aa84-57f6b2a9ce64"
+      },
+      "squuid": "5be1a6b8-d5e1-4581-b735-526c951fd646",
+      "state": "active"
+    }
+  ]
+}

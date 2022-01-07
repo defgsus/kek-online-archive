@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Bayernturm",
+  "name": "EMMA Frauenverlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d9d2-4833-8652-b714ad04688a",
+  "controlDate": "2021-10-14T14:31:56.445Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50678",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "EMMA",
+        "squuid": "5be1a6b1-51d0-4659-a834-9c3ceed333e7"
+      },
+      "squuid": "5be1a6b9-5ca8-446b-87b5-d060f64e8525",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.emma.de",
+        "squuid": "5be1a6b1-f4da-4486-be84-8747e46ed246"
+      },
+      "squuid": "5be1a6b9-8860-45c5-b089-46696ea35bee",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwarzer, Alice",
+        "squuid": "5be1a6b6-3104-4ec6-bb4b-6e6abb67180a"
+      },
+      "squuid": "5be1a6b8-91a2-47a5-bfe4-f70ae6818112",
+      "state": "active"
+    }
+  ]
+}

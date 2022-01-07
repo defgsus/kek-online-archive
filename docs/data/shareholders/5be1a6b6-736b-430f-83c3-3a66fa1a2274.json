@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Saarbrücken",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr.11",
+  "name": "N49 Agentur für Konzept und Performance GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-736b-430f-83c3-3a66fa1a2274",
+  "controlDate": "2021-12-15T17:14:02.578Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "66117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sol.de",
+        "squuid": "5be1a6b1-c57e-4e4c-8092-4eaaba806ed5"
+      },
+      "squuid": "5be1a6b9-81fd-4bb5-8641-8caa0f7a494d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.news-trier.de",
+        "squuid": "5be1a6b1-80ad-4478-aa71-d5519dc4a996"
+      },
+      "squuid": "5be1a6b9-31c5-4f51-b26e-fe55e20e8304",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Saarbrücker Zeitung Medienhaus GmbH",
+        "squuid": "5be1a6b6-7b22-4bc2-abdb-c97a7151bc88"
+      },
+      "squuid": "5be1a6b8-b433-4c11-b082-8b88407726df",
+      "state": "active"
+    }
+  ]
+}

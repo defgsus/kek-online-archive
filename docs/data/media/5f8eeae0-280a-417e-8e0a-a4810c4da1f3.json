@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f8eeae0-280a-417e-8e0a-a4810c4da1f3",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Bremen",
+        "squuid": "5be1a6b6-93ba-4cb0-81ce-65261bd2f196"
+      },
+      "squuid": "5f8eeb3e-c6d5-410f-891a-93e55cb64730",
+      "state": "active"
+    }
+  ],
+  "name": "www.bremeneins.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-21T16:48:04.548Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

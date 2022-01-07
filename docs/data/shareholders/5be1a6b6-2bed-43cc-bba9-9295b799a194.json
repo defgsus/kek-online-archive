@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Karlsruhe",
+  "pseudoCompany": false,
+  "street": "Gartenstraße 67",
+  "name": "finanzen.net GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2bed-43cc-bba9-9295b799a194",
+  "controlDate": "2021-11-30T17:56:28.373Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "76135",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.finanzen.net",
+        "squuid": "5be1a6b1-9c20-4143-bf12-e22239fe9a5a"
+      },
+      "squuid": "5be1a6b9-81fe-46df-93b6-34f306da8b33",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.boerse-online.de",
+        "squuid": "5be1a6b1-b559-4e41-81c6-f5c16ee612c2"
+      },
+      "squuid": "5be1a6b9-472e-4bce-b9ee-c2a8593a0821",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Axel Springer Digital Ventures GmbH",
+        "squuid": "5be1a6b6-1e66-42a9-8f09-daddb92b637d"
+      },
+      "squuid": "5be1a6b8-48cd-4533-8bf5-20b2782bf048",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.1,
+      "holder": {
+        "name": "Ohr, Jens",
+        "squuid": "5be1a6b6-9f8f-45a7-8988-53e0134c7499"
+      },
+      "squuid": "5be1a6b8-b649-4050-9a16-d6a895bf7cdc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.1,
+      "holder": {
+        "name": "Schille, Peter",
+        "squuid": "5be1a6b6-3979-42b7-8c4a-40cfa3525c1d"
+      },
+      "squuid": "5be1a6b8-c843-43d7-9bf9-7e4be0092d67",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.8,
+      "holder": {
+        "name": "Nienhaus, Dominik",
+        "squuid": "5be1a6b6-6e76-44b4-a79c-9c60e27d3025"
+      },
+      "squuid": "5be1a6b8-d895-42e5-b1a1-e23e26dcc92e",
+      "state": "active"
+    }
+  ]
+}

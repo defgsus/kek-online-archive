@@ -1,0 +1,97 @@
+{
+  "state": "active",
+  "city": "Oberndorf",
+  "pseudoCompany": false,
+  "street": "Kirchtorstr.",
+  "name": "Schwarzwälder Bote Redaktionsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-69a2-407f-bc79-e11bb6b41a6d",
+  "controlDate": "2021-11-10T17:49:14.592Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "78727",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwarzwälder Bote",
+        "squuid": "5be1a6b1-13cd-43ce-8db8-d967641722f2"
+      },
+      "squuid": "5be1a6b9-32f8-435b-8a15-58b57796ef4b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schwarzwaelder-bote.de",
+        "squuid": "5be1a6b1-21f2-456e-a889-c295df9695bd"
+      },
+      "squuid": "5be1a6b9-fc6a-4fdf-83f9-b74691c2c49e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Die Oberbadische",
+        "squuid": "5be1a6b1-8d31-4a2a-9dde-652019f9bf92"
+      },
+      "squuid": "5ec3be20-e6d6-4efe-be8d-39331164e000",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Markgräfler Tagblatt",
+        "squuid": "5be1a6b1-7f1c-4b4c-b8c8-d47da888863c"
+      },
+      "squuid": "5ec3be60-3ee6-4dd0-9e10-f789ccdd917e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Weiler Zeitung",
+        "squuid": "5be1a6b1-58ae-4148-8efb-510dc18f9743"
+      },
+      "squuid": "5ec3be8a-aaa9-4edb-972c-9d3c92282e05",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lahrer Zeitung",
+        "squuid": "5be1a6b1-f4f3-4ac0-85f1-194a313852ec"
+      },
+      "squuid": "5ee363a5-4529-4178-98f5-15fc9bae2c58",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwarzwälder Bote (Ausgabe Kinzigtal)",
+        "squuid": "5be1a6b1-4516-449e-bfa5-5d5147a72fb6"
+      },
+      "squuid": "5ee3648c-6bfa-4966-a2b6-7382d0106f31",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwarzwälder Bote Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-63c7-407b-b983-bdf7d0a4327d"
+      },
+      "squuid": "5be1a6b8-4be1-498d-b238-a0439d5cc660",
+      "state": "active"
+    }
+  ]
+}

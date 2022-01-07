@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Kurfürstendamm",
+  "name": "RTL Radio Berlin GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c6d7-4aae-adfb-8f30e91a68c5",
+  "streetNumber": "207 - 208",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10719",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "104,6 RTL (Berlin)",
+        "squuid": "5be1a6b1-1a71-4857-89c4-38cded3c98bc"
+      },
+      "squuid": "5be1a6b9-a9b7-4049-9d34-7321dbc20dcb",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RTL Audio Center Berlin GmbH",
+        "squuid": "5be1a6b6-6ea6-42b5-9674-9d85c813ccc9"
+      },
+      "squuid": "5be1a6b7-1d0e-4aea-82d7-757c1966ca18",
+      "state": "active"
+    }
+  ]
+}

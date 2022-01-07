@@ -1,0 +1,91 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.23,
+      "held": {
+        "name": "Baden TV GmbH",
+        "squuid": "5d35c713-a955-4d81-a4b4-86acf2ac33a0"
+      },
+      "squuid": "5d35cd86-5ec7-4b8a-a3dd-48e591402940",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.25,
+      "held": {
+        "name": "Baden TV Süd GmbH",
+        "squuid": "5d41944e-f947-4ab8-9b0b-6bfa3af7cb02"
+      },
+      "squuid": "6010474e-1a1d-44ff-a732-97cbf8eadb3e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Karlsruhe",
+  "pseudoCompany": false,
+  "street": "Haid-und-Neu-Str.",
+  "name": "Hoepfner Bräu Friedrich Hoepfner Verwaltungsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d35cbb0-932a-4aed-9554-ec09fb9323c2",
+  "controlDate": "2021-11-25T17:27:02.659Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "76131",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hoepfner Verwaltungs GmbH",
+        "squuid": "5f3bf24a-9d74-45bc-ac4f-907f869d3183"
+      },
+      "squuid": "5f3bf2a9-7032-44e4-b189-31fb062c11ca",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Hoepfner, Catharina",
+        "squuid": "5f3bf28c-6184-4cdf-afbf-44cfe3fd136d"
+      },
+      "squuid": "5f3bf2cb-8ff1-4ba5-be74-82c5814598c4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Hoepfner, Dr. Friedrich",
+        "squuid": "5f3bf268-e34a-4712-b423-e018121e69e8"
+      },
+      "squuid": "5f3bf2dc-a24a-4fe9-b1b5-c7e42f44a3fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Hoepfner, Yella",
+        "squuid": "5f3bf275-9ac0-435c-8624-b94ad168bfb5"
+      },
+      "squuid": "5f3bf2ea-f51c-4818-a66f-9adbaca78b0e",
+      "state": "active"
+    }
+  ]
+}

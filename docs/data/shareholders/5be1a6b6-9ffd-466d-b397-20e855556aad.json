@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Würzburg",
+  "pseudoCompany": false,
+  "street": "Semmelstraße",
+  "name": "Studio Gong GmbH AV Produktionsgesellschaft & Co. Betriebs KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9ffd-466d-b397-20e855556aad",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "97070",
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5be1a6b7-1e93-49ca-bf96-c8e6cbe751e9",
+      "state": "active"
+    }
+  ]
+}

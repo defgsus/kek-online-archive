@@ -1,0 +1,57 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "HH-P Beteiligungenservice Verwaltungs-GmbH",
+        "squuid": "5eba84e0-e265-4978-ac08-2763b3cca5a2"
+      },
+      "squuid": "5f072ca7-6e3d-425f-920b-207603d4c56a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "Rüttenscheider Str.",
+  "name": "HH-P Beteiligungsservice GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7d22-4f95-b847-cc288836489b",
+  "controlDate": "2021-04-21T13:57:14.636Z",
+  "streetNumber": "199",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "45131",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Holthoff-Pförtner, Dr. Stephan",
+        "squuid": "5be1a6b6-d503-4ba1-b38e-cf66c73a9a31"
+      },
+      "squuid": "5be1a6b8-5992-4b6c-b327-23feca2b2fbe",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "HH-P Beteiligungenservice Verwaltungs-GmbH",
+        "squuid": "5eba84e0-e265-4978-ac08-2763b3cca5a2"
+      },
+      "squuid": "5eba8500-bbd1-4772-aa5a-12b90a72246d",
+      "state": "active"
+    }
+  ]
+}

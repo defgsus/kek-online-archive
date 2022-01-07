@@ -1,0 +1,102 @@
+{
+  "state": "active",
+  "city": "Bochum",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Huestr.",
+  "name": "Betriebsgesellschaft Radio Bochum mbH & Co. KG",
+  "naturalPerson": false,
+  "co": "Westfunk  GmbH & Co. KG",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-86ab-4b74-a5ef-1d657e8efae2",
+  "controlDate": "2021-12-21T15:46:17.099Z",
+  "streetNumber": "25",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "44787",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "98.5 Radio Bochum",
+        "squuid": "5be1a6b1-41dc-4327-9ed0-05701910eee5"
+      },
+      "squuid": "5be1a6b9-29bb-42d1-9c03-4faed8249daa",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiobochum.de",
+        "squuid": "5f105a2e-8b7e-4cc0-8792-6456bff072a0"
+      },
+      "squuid": "5f105a7b-3ab7-4b00-90c4-1adfa586d233",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 7.01,
+      "holder": {
+        "name": "Stadtwerke Bochum Holding GmbH",
+        "squuid": "5be1a6b6-fd67-4240-8798-a58ac1c5eb79"
+      },
+      "squuid": "5be1a6b7-2d9a-43fb-81b6-dc717a83c18d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.99,
+      "holder": {
+        "name": "MFS-Holding GmbH",
+        "squuid": "5be1a6b6-9b6b-4afc-a511-ecba36539dc2"
+      },
+      "squuid": "5c408f34-ba78-4e8f-a4a3-d8a365c6b110",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 73.88,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5f105d1a-767e-4569-98db-d125183b6490",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.12,
+      "holder": {
+        "name": "Ruhr-Nachrichten Verlag & Co. KG",
+        "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793"
+      },
+      "squuid": "5f105d80-b90c-44c0-8ead-3f88e7abc46b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Bochum GmbH",
+        "squuid": "5f105c35-32c8-4fc6-828d-01407d6e5ba0"
+      },
+      "squuid": "5ff59c40-34e3-4e6b-b7ce-26bafd38be02",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "state": "active",
+  "city": "Ostfildern",
+  "pseudoCompany": false,
+  "street": "Senefelder Str. 12",
+  "name": "Schwabenverlag AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ca2b-4801-bbaf-01ebf25ab077",
+  "controlDate": "2021-10-26T10:03:56.144Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "73760",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Katholisches Sonntagsblatt",
+        "squuid": "5be1a6b1-32ef-4644-b857-e74bd8852d05"
+      },
+      "squuid": "5be1a6b9-c624-4011-b3f5-bef07f0ddd7f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kathsonntagsblatt.de",
+        "squuid": "5be1a6b1-016a-4153-91bc-95bdd4ae35dc"
+      },
+      "squuid": "5be1a6b9-6ff8-49a3-bd94-a9a11938233b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "L'Osservatore Romano (Wochenausgabe in deutscher Sprache) ",
+        "squuid": "5ccc5aaf-f7c8-4ef3-969c-0d20476719cc"
+      },
+      "squuid": "5ccc5aee-a5ac-4b5d-919a-7541bc9a30b8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 19.94,
+      "holder": {
+        "name": "Bistum Rottenburg-Stuttgart",
+        "squuid": "5be1a6b6-8615-48f5-b033-c7d50255c1cf"
+      },
+      "squuid": "5be1a6b8-f3f3-4137-987f-82f160040dfa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 46.65,
+      "holder": {
+        "name": "Diözese Rottenburg-Stuttgart",
+        "squuid": "5be1a6b6-628a-4ac3-a5c0-d2318a2f6477"
+      },
+      "squuid": "5be1a6b8-bd5e-4388-9b9c-07522e79651f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.79,
+      "holder": {
+        "name": "Interkalarfonds Kath. Kirchenstellen",
+        "squuid": "5be1a6b6-705c-4a1a-9666-06e943d0a051"
+      },
+      "squuid": "5be1a6b8-955f-4e10-a30e-6eb1f6b123d2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 13.62,
+      "holder": {
+        "name": "Streubesitz an der Schwabenverlag AG",
+        "squuid": "5be1a6b6-a689-40e5-9183-5a3e4e502b35"
+      },
+      "squuid": "5be1a6b8-fa4b-42b2-9204-47d228273cb7",
+      "state": "active"
+    }
+  ]
+}

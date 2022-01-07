@@ -1,0 +1,89 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Euro Klassik GmbH",
+        "squuid": "5be1a6b6-d9a6-4e0b-8afd-3d237112ac0f"
+      },
+      "squuid": "5be1a6b7-db4d-4d3f-aefc-3d6a9deddaf6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 94.4,
+      "held": {
+        "name": "KR Holding GmbH",
+        "squuid": "5be1a6b6-c928-4f59-abd7-6c3ffd9b20a2"
+      },
+      "squuid": "5be1a6b8-4e53-4c85-ada6-edc6b7e9dfbd",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Augsburg",
+  "note": "Stand: 12/2021",
+  "pseudoCompany": false,
+  "street": "Fuggerstr.",
+  "name": "Klassik Radio AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-61cd-424e-9924-513df0e021a8",
+  "controlDate": "2021-12-10T13:36:24.013Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "86150",
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 68.22,
+      "holder": {
+        "name": "Kubak, Ulrich R. J.",
+        "squuid": "5be1a6b6-f973-4060-8002-276831f33a07"
+      },
+      "squuid": "5be1a6b7-8019-4d59-b14d-66cb28293381",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.78,
+      "holder": {
+        "name": "Streubesitz an der Klassik Radio AG",
+        "squuid": "5be1a6b6-b861-4a56-88c3-f99a21bde9bc"
+      },
+      "squuid": "5be1a6b7-aac3-46c2-b25a-98f9b28c8231",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "rfRepresentative": "Herrmann Schüller, Regina Kulms",
+  "state": "active",
+  "sharesInfo": "KEK 1051",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Daniel Tronnier",
+  "rfStartDate": "2020",
+  "rfFreePay": true,
+  "squuid": "5fd3f8a1-2193-4843-8df0-ac39baf5834e",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "www.ewe-baskets.de",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Baskets Oldenburg GmbH & Co. KG",
+        "squuid": "5fd3f8d1-c70c-4a01-8ff2-1bd00ee0391b"
+      },
+      "squuid": "5fd3fa9d-0f2e-401f-ae82-e989984a3153",
+      "state": "active"
+    }
+  ],
+  "name": "EWE Baskets eSports",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+    "name": "NLM",
+    "type": "organization",
+    "fullName": "Niedersächsische Landesmedienanstalt"
+  },
+  "description": "EWE Baskets eSports ist ein Livestream-Angebot mit Inhalten rund um das eSports-Team des Basketball-Bundesligisten EWE Baskets Oldenburg",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "10.03.2020",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-6b30-40cd-81e4-c876e3a2cf67",
+      "name": "Twitch",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "10.03.2020",
+  "accessibilityEmail": "info[at]ewe­-baskets.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

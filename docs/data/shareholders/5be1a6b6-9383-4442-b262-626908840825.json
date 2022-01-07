@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Bensheim",
+  "pseudoCompany": false,
+  "street": "Rodensteinstr. 6",
+  "name": "Wilhelm Heß & Co GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9383-4442-b262-626908840825",
+  "controlDate": "2021-02-02T14:00:35.636Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "64625",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bergsträßer Anzeiger",
+        "squuid": "5be1a6b1-d87f-4d3d-9b96-36cd76b0cdfc"
+      },
+      "squuid": "5be1a6b9-27c4-41cb-bf7d-94d0aebc61f9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bergstraesser-anzeiger.de",
+        "squuid": "5be1a6b1-ca2f-45df-be2a-9e3c972fe701"
+      },
+      "squuid": "611e4693-19f2-4f88-b14d-0c293a3898f6",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Dr. Haas GmbH",
+        "squuid": "5be1a6b6-f74a-4cc9-8e59-248e7f10c1a5"
+      },
+      "squuid": "5be1a6b8-d33c-4b09-b07a-c6168df619c0",
+      "state": "active"
+    }
+  ]
+}

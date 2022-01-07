@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3a4c4d-415a-42ff-98eb-df3e87db08b6",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Antenne Deutschland GmbH & Co. KG",
+        "squuid": "6009538a-ac8c-48a9-bb13-240604fb3e4d"
+      },
+      "squuid": "600953dd-c634-4e1f-98d8-a747e7b9ca7e",
+      "state": "active"
+    }
+  ],
+  "name": "www.absolutradio.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-11-22T15:54:10.015Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

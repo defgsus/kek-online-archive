@@ -1,0 +1,43 @@
+{
+  "name": "Breitner, Andreas",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-3b01-468e-84b9-f5b644aa5c89",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "PN Medien GmbH",
+        "squuid": "5be1a6b6-1954-4555-8d73-75140891eee2"
+      },
+      "squuid": "5be1a6b8-df9c-4523-a4ea-14a674763a51",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Funkhaus Pfaffenhofen GmbH",
+        "squuid": "5ce69f45-63d2-4b4b-89a9-4ff5f62268e7"
+      },
+      "squuid": "5ce69fa4-1241-49a0-a30d-b6b87dace555",
+      "state": "active"
+    }
+  ],
+  "city": "Pfaffenhofen",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

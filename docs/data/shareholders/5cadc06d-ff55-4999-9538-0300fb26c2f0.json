@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.888412441,
+      "held": {
+        "name": "Radio Paradiso GmbH & Co. KG",
+        "squuid": "5be1a6b6-f3bc-43d6-9d76-6f69bc5dec0d"
+      },
+      "squuid": "5cadc498-c316-4af0-9862-af3540e3f83a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Am kleinen Wannsee",
+  "name": "R.H.B. Radiohaus Berlin GmbH",
+  "naturalPerson": false,
+  "squuid": "5cadc06d-ff55-4999-9538-0300fb26c2f0",
+  "controlDate": "2021-12-16T17:19:38.888Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "14109",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 98.0,
+      "holder": {
+        "name": "Evangelischer Presseverband Norddeutschland GmbH",
+        "squuid": "5be1a6b6-c548-44ab-9ad3-d1896609c1c7"
+      },
+      "squuid": "5f76e729-6b09-44fc-99e5-34365fec786a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Radio Paradiso Verwaltungs GmbH",
+        "squuid": "5f352e18-eaac-4abd-a6c4-a07784da5dd1"
+      },
+      "squuid": "5f76e737-39b5-40a9-9af7-d6a19647cc28",
+      "state": "active"
+    }
+  ]
+}

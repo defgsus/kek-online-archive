@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Lingen",
+  "pseudoCompany": false,
+  "street": "Kaiserstr.",
+  "name": "EV1.TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5f1835c3-df67-42e3-928c-8ac14e7272fb",
+  "controlDate": "2021-12-06T11:01:37.527Z",
+  "streetNumber": "10a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "49809",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.emstv.de",
+        "squuid": "5f183567-a7e7-4596-ba54-187b74f7b8ca"
+      },
+      "squuid": "5f1835de-7c70-4e72-82b9-92f5fcbf578d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Backers, Klaus",
+        "squuid": "5f18371b-f326-456a-a928-8b8646d4adc4"
+      },
+      "squuid": "5f183777-1157-4bf7-82fc-995c0d24fbf8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Emsland GmbH",
+        "squuid": "5f183709-5091-4549-859e-754174a1af4e"
+      },
+      "squuid": "5f183783-bf70-4eb4-8b84-ed4934bc11bf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "Medienwerkstatt GmbH & Co. KG",
+        "squuid": "5f1836f2-31e6-4e24-b222-0602dd8cc2f8"
+      },
+      "squuid": "5f183791-3330-47a5-9a42-0e0b8d4b5b0f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "CM Media & Event GmbH",
+        "squuid": "5f183736-01e9-487c-be68-a29d396329fc"
+      },
+      "squuid": "5f18379c-e317-40c8-9d30-473020b35841",
+      "state": "active"
+    }
+  ]
+}

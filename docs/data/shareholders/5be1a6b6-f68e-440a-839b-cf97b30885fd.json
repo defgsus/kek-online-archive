@@ -1,0 +1,42 @@
+{
+  "name": "Westermann, Jaap",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-f68e-440a-839b-cf97b30885fd",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Jarimovas GmbH",
+        "squuid": "5be1a6b6-1cb5-4f55-a48a-e0ab595ebce9"
+      },
+      "squuid": "5be1a6b8-6aae-47c6-a454-5a94881d3890",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Bodhivas GmbH",
+        "squuid": "5e395f83-0dab-41fd-8b1b-d8558235b468"
+      },
+      "squuid": "5e553661-8fc6-4c80-845d-b0609b172dc8",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

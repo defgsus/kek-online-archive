@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Bergisch Gladbach",
+  "pseudoCompany": false,
+  "street": "Paffrather Straße",
+  "name": "Joh. Heider Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-35bb-4bad-a91a-466213ed36d5",
+  "controlDate": "2021-10-27T15:28:45.995Z",
+  "streetNumber": "102-116",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "51465",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lebenshilfe Zeitung",
+        "squuid": "5be1a6b1-6240-4664-ae10-7f7f0d3f1eb7"
+      },
+      "squuid": "5be1a6b9-cb33-4e55-88f0-c784ef092c2d",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Montagna Gesellschaft mbH",
+        "squuid": "5be1a6b6-7f12-420d-8f75-b4d5fbb0b942"
+      },
+      "squuid": "5be1a6b8-7e1f-418a-b33f-f0b9375cb64e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Heider, Thomas",
+        "squuid": "5be1a6b6-ef59-464b-b757-cf8364a9ff2f"
+      },
+      "squuid": "5be1a6b8-02e1-4e6d-b4a2-eb573a0afb1d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Heider, Christoph",
+        "squuid": "5be1a6b6-3028-46fe-962b-e21fe6b495d3"
+      },
+      "squuid": "5be1a6b8-2035-4d85-8bcc-7fb099a3a591",
+      "state": "active"
+    }
+  ]
+}

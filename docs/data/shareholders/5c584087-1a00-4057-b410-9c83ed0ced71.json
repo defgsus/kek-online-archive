@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Freiberg",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Carl-Schiffner-Straße",
+  "name": "Liebscher, Robert",
+  "naturalPerson": true,
+  "squuid": "5c584087-1a00-4057-b410-9c83ed0ced71",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09599",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "InPulz Dein Stadtradio für Freiberg",
+        "squuid": "5c584077-78fd-4c87-b594-988c13cd72b5"
+      },
+      "squuid": "5c5843ff-f78a-44c2-9f9f-6cf401388519",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioinpulz.de",
+        "squuid": "5f9158db-2e54-4b3f-8d58-bce3e1ba80df"
+      },
+      "squuid": "5f915918-3f1a-4179-9acc-26f7fae586e9",
+      "state": "active"
+    }
+  ]
+}

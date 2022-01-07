@@ -1,0 +1,126 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Epplestr. 225",
+  "name": "Daimler AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4684-4c43-b22b-32d4686264f0",
+  "controlDate": "2021-12-02T13:30:09.874Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70567",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Daimler Audiovisuelles Programm",
+        "squuid": "5be1a6b1-6b4e-47ec-966f-74757739f8e6"
+      },
+      "squuid": "5be1a6b9-b1e1-4626-aac1-02015fc9d624",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.daimler.com/live",
+        "squuid": "5f184c2d-b034-47d9-b14a-a1aa10d8e0ad"
+      },
+      "squuid": "5f184c56-1535-48ed-9dfd-dac3f4f4e08e",
+      "state": "active"
+    }
+  ],
+  "credits": "Formatt",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 4.47,
+      "holder": {
+        "name": "BlackRock, Inc.",
+        "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
+      },
+      "squuid": "5be1a6b8-2465-483c-b313-b9e95ddab42c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.8,
+      "holder": {
+        "name": "Kuwait Investment Authority (KIA, Land Kuwait)",
+        "squuid": "5be1a6b6-dbe9-4f99-944b-d6c8f6fd9931"
+      },
+      "squuid": "5be1a6b8-430a-406a-9d28-e721b0ac076f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.54,
+      "holder": {
+        "name": "Renault S.A.",
+        "squuid": "5be1a6b6-b2f2-4509-b0a1-13794bdcc11a"
+      },
+      "squuid": "5be1a6b8-473e-4528-8f30-9890c2efcfd8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.54,
+      "holder": {
+        "name": "Nissan Motor Co., Ltd.",
+        "squuid": "5be1a6b6-f52d-4e2d-8bd3-bc7c08590a8b"
+      },
+      "squuid": "5be1a6b8-35f7-4996-964c-dda3b3125c82",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 67.79,
+      "holder": {
+        "name": "Streubesitz an der Daimler AG",
+        "squuid": "5be1a6b6-0b50-47d2-aa5a-93bfc5ff954d"
+      },
+      "squuid": "5be1a6b8-ea37-4982-a946-da2c5337df95",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.17,
+      "holder": {
+        "name": "Bank of America Corporation",
+        "squuid": "5be1a6b6-153e-4a7e-aaf7-a5668a094638"
+      },
+      "squuid": "5f19454d-80f1-4342-bcea-78226a6ca4c1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 9.69,
+      "holder": {
+        "name": "Tenaciou3 Prospect Investment Limited",
+        "squuid": "5f1944c6-9627-4155-9a40-d7c4a220620f"
+      },
+      "squuid": "5f194564-5a7b-4544-b9e0-f1ea3f6d72e9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Investment Global Co., Ltd. (BAIC-Group)",
+        "squuid": "5f1944a3-bed7-4080-9979-792bf22e1c42"
+      },
+      "squuid": "5f1945e8-f9f8-46dd-9ef7-cbcb50a0ca19",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "state": "active",
+  "city": "Ismaning",
+  "pseudoCompany": false,
+  "street": "Münchner Str.",
+  "name": "DAZN DACH GmbH",
+  "naturalPerson": false,
+  "squuid": "5ce64e36-cd7f-4914-b720-b6ec442d403d",
+  "controlDate": "2021-12-02T13:53:12.472Z",
+  "streetNumber": "101, Gebäude 24.5 Nord",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85737",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "DAZN",
+        "squuid": "5ce64e72-e97a-490e-9cbf-a17a3fc7381f"
+      },
+      "squuid": "5ce64ee3-20f5-456c-91b7-0cb2962facb2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "DAZN 1 Bar HD",
+        "squuid": "5ce64e97-e01b-4631-ace7-552ced5a04c2"
+      },
+      "squuid": "5ce64f16-f8fc-46c6-abe3-2a5e0cc3e327",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "DAZN 2 Bar HD",
+        "squuid": "5ce64eab-f771-4c93-a402-d62b559bb229"
+      },
+      "squuid": "5ce64fdd-a4a8-4e6a-8895-8dbd70e5efa7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dazn.com/de",
+        "squuid": "5f2180b7-b9b7-411b-a88c-dd0843dff9f1"
+      },
+      "squuid": "5f2180ea-d7e4-4c38-8cb7-c4c97e243692",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "DAZN for Business",
+        "squuid": "61239b08-c844-42a2-8fb5-bd8af773397f"
+      },
+      "squuid": "61239d8b-70f5-4da2-82e2-e6de4f272678",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DAZN DACH Holdco Ltd.",
+        "squuid": "5ce64e14-fe8d-4b46-b6e5-ccad65462cb3"
+      },
+      "squuid": "5ce65086-9559-45a9-8f8e-fc517a404e78",
+      "state": "active"
+    }
+  ]
+}

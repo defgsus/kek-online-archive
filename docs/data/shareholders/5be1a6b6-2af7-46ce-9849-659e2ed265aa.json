@@ -1,0 +1,51 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "gofeminin.de GmbH",
+        "squuid": "5be1a6b6-a498-4047-94d5-f4ae00325ce1"
+      },
+      "squuid": "5be1a6b8-18c4-46be-990f-47968a01324b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Paris (F)",
+  "pseudoCompany": false,
+  "name": "auFeminin S.A.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2af7-46ce-9849-659e2ed265aa",
+  "controlDate": "2021-12-08T15:30:04.566Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 78.4,
+      "holder": {
+        "name": "Télévision Francaise S.A. (TF1)",
+        "squuid": "5be1a6b6-0989-4b79-857e-c7f1be45357c"
+      },
+      "squuid": "5be1a6b8-7e8d-4da3-a4fe-80734ea5cfa7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 21.6,
+      "holder": {
+        "name": "Streubesitz an der auFeminin.com S.A.",
+        "squuid": "5be1a6b6-cb8c-46ac-9623-684c6efd8128"
+      },
+      "squuid": "5be1a6b8-07fe-4d9f-ba73-e29ff398ff25",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Hotz-Hammling, Beate",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-c332-4b79-afb0-4d89c84e0a82",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "held": {
+        "name": "Hotz GmbH & Co. KG",
+        "squuid": "5be1a6b6-adcd-4e69-bbad-0e603672dd58"
+      },
+      "squuid": "5be1a6b8-f7f8-4682-ad98-fc19e1d12eb9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "held": {
+        "name": "Hammling Hotz-Beteiligung GmbH & Co. KG",
+        "squuid": "5be1a6b6-f17f-41a0-aeb0-97caf9d6b15b"
+      },
+      "squuid": "5ff44675-b16e-4014-b1f8-b4c0e028653a",
+      "state": "active"
+    }
+  ],
+  "city": "Wolfsburg",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

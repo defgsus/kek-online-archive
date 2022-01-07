@@ -1,0 +1,93 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio 93,3 MHz München GmbH",
+        "squuid": "5be1a6b6-5151-4299-a7c6-6c51184510ef"
+      },
+      "squuid": "5be1a6b7-9b39-4e18-9aa5-2fb79bdd43da",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio 106,9 MHz Nürnberg GmbH",
+        "squuid": "5be1a6b6-4023-450b-909c-ab971d20cad7"
+      },
+      "squuid": "5be1a6b7-7868-46d0-a64f-b030b8f491f5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio 103,4 MHz Berlin GmbH",
+        "squuid": "5be1a6b6-1e8d-48a9-afbc-fe0fb6e415b0"
+      },
+      "squuid": "5be1a6b7-7b8f-4fa7-b7e8-6201fbb51b5a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio 97.1 MHz Hamburg GmbH",
+        "squuid": "5be1a6b6-3ed8-40c9-8b37-5f9b5048ed6a"
+      },
+      "squuid": "5be1a6b7-2d17-4d67-8257-af2ebe92c591",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "note": "Stand: 1/2018",
+  "pseudoCompany": false,
+  "street": "Leipziger Platz ",
+  "name": "NRJ Hörfunk Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-36c7-4893-9dd4-73765ce4a934",
+  "controlDate": "2021-12-06T11:16:58.543Z",
+  "streetNumber": "16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "10117",
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Radio NRJ GmbH",
+        "squuid": "5be1a6b6-fbf8-4b3a-b83b-552f26cc61a6"
+      },
+      "squuid": "5be1a6b7-6dae-47f2-937f-b0fba5f4bee7",
+      "state": "active"
+    }
+  ]
+}

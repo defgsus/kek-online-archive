@@ -1,0 +1,48 @@
+{
+  "name": "Haubrich, Michael",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-3403-4e31-801f-5cc47444c934",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 36.0,
+      "held": {
+        "name": "Haubrich Zentrale GmbH & Co. KG",
+        "squuid": "5be1a6b6-6cea-49b4-9681-3a7e8586569e"
+      },
+      "squuid": "5be1a6b8-a6f8-4d81-951a-b0693b45c83e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "held": {
+        "name": "CityRadio Saarland GmbH",
+        "squuid": "5f1edf2d-f0a7-4607-b64a-1e887a66beb5"
+      },
+      "squuid": "5f1ee198-0bb9-4547-a22e-0e97a8963dc4",
+      "state": "active"
+    }
+  ],
+  "city": "Saarwellingen",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

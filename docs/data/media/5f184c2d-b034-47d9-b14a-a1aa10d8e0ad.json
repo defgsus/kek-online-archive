@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f184c2d-b034-47d9-b14a-a1aa10d8e0ad",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Daimler AG",
+        "squuid": "5be1a6b6-4684-4c43-b22b-32d4686264f0"
+      },
+      "squuid": "5f184c56-1535-48ed-9dfd-dac3f4f4e08e",
+      "state": "active"
+    }
+  ],
+  "name": "www.daimler.com/live",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-02T13:29:35.777Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Tele Columbus Sachsen-Thüringen GmbH",
+        "squuid": "5f7c8240-36bf-4e2c-b819-5183b2cc81c0"
+      },
+      "squuid": "60d09699-787d-46e4-9db7-b0e95767d78c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Kaiserin-Augusta-Allee",
+  "name": "Tele Columbus Multimedia GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "60d09673-b4cd-4030-891c-0a9add0eb22b",
+  "controlDate": "2021-12-10T10:10:17.665Z",
+  "streetNumber": "108",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10553",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Tele Columbus AG",
+        "squuid": "60d09761-0ac3-40de-b70e-066babbe3943"
+      },
+      "squuid": "60d0979d-71db-4c9b-9982-03d9b1c3a088",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Tele Columbus Betriebs GmbH",
+        "squuid": "60d09771-d97a-4f70-b1ba-16559e5412b3"
+      },
+      "squuid": "60d097ab-209b-486e-b7b8-d4e928e08fc1",
+      "state": "active"
+    }
+  ]
+}

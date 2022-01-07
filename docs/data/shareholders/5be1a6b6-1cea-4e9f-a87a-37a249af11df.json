@@ -1,0 +1,105 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Westfalium Verwaltungsgesellschaft mbH",
+        "squuid": "5eea1ee6-6fe6-4452-87c1-ba1dc5496854"
+      },
+      "squuid": "5eea1f4a-c1c5-4204-9e3b-ff1030450431",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "Welsingheide 2-4",
+  "name": "Westfalium Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1cea-4e9f-a87a-37a249af11df",
+  "controlDate": "2021-11-18T17:28:24.428Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "48161",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Westfalium",
+        "squuid": "5be1a6b1-95f3-4b58-87b3-fe67ef2141de"
+      },
+      "squuid": "5be1a6b9-0a37-4e97-9923-807d3a8490c9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.westfalium.de",
+        "squuid": "5be1a6b1-87e0-4de6-b3b1-3dc43f8185d1"
+      },
+      "squuid": "5be1a6b9-7531-4b9f-80bb-58a434c12b01",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.5,
+      "holder": {
+        "name": "Geuking, Wienand",
+        "squuid": "5be1a6b6-26ca-42a3-aeb5-7b9bd349e2cc"
+      },
+      "squuid": "5be1a6b8-6f31-4838-a80d-5f51b5d83e2c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.5,
+      "holder": {
+        "name": "Bierbaum, Frank",
+        "squuid": "5be1a6b6-1e0e-4f24-9c21-e4f9e8c09cfa"
+      },
+      "squuid": "5be1a6b8-87c2-4d97-969e-828e88260c72",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.5,
+      "holder": {
+        "name": "Böckenhoff, Bernhard",
+        "squuid": "5be1a6b6-b2d3-404a-b50c-1727d58cfc35"
+      },
+      "squuid": "5be1a6b8-1148-4d00-b7d8-4c2e9c9f73b2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.5,
+      "holder": {
+        "name": "Schnell Buch und Druck GmbH & Co KG",
+        "squuid": "5be1a6b6-7309-4472-b30f-bf2fa3195802"
+      },
+      "squuid": "5be1a6b8-e30b-4a7e-bb09-71eea184012f",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Westfalium Verwaltungsgesellschaft mbH",
+        "squuid": "5eea1ee6-6fe6-4452-87c1-ba1dc5496854"
+      },
+      "squuid": "5eea1f0f-7692-46cb-be0c-2be89d8d3715",
+      "state": "active"
+    }
+  ]
+}

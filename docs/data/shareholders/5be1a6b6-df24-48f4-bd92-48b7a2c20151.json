@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Dresden",
+  "pseudoCompany": false,
+  "street": "Schandauer Str. 64",
+  "name": "Orange YC GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-df24-48f4-bd92-48b7a2c20151",
+  "controlDate": "2021-11-15T11:39:27.079Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "01277",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Spiesser - Die Jugendzeitschrift",
+        "squuid": "5be1a6b1-37f2-4272-ac6e-d89ff3f45c96"
+      },
+      "squuid": "5be1a6b9-f96f-415f-97d5-b6067af0e2be",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.spiesser.de",
+        "squuid": "5be1a6b1-eabe-44d9-92fc-23ce62ac5e81"
+      },
+      "squuid": "5be1a6b9-f55b-487c-8f8f-044238063592",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "HAESWE GmbH",
+        "squuid": "5be1a6b6-a309-4585-b5b2-491d732594db"
+      },
+      "squuid": "5be1a6b8-2839-4b09-a555-e17cf5605c6d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "BSC Management UG (haftungsbeschränkt)",
+        "squuid": "5be1a6b6-5485-4f71-821e-012b3b010d1c"
+      },
+      "squuid": "5be1a6b8-04b2-4592-8e8e-fbb65c0d9d5c",
+      "state": "active"
+    }
+  ]
+}

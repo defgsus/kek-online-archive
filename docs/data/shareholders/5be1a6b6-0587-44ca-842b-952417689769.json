@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Kassel",
+  "pseudoCompany": false,
+  "street": "Werner-Heisenberg-Straße 7",
+  "name": "Kasseler Sonntagsblatt Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0587-44ca-842b-952417689769",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "34123",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Rolf Schwarz Immobilien GmbH & Co KG",
+        "squuid": "5be1a6b6-f621-4eae-9d8b-16da26bb75e7"
+      },
+      "squuid": "5be1a6b8-d666-4a2c-ae7b-7e86819f8ea5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Schwarz, Andreas",
+        "squuid": "5be1a6b6-9681-4bd0-b18b-b20ab0ac3dd2"
+      },
+      "squuid": "5be1a6b8-8e7e-4075-aa08-bb66458e4909",
+      "state": "active"
+    }
+  ]
+}

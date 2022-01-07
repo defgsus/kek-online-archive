@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "street": "Rosenaustraße",
+  "name": "Medienwerkstatt Franken e.V.",
+  "squuid": "5cb884cd-3c75-4f95-956d-34391311d06f",
+  "controlDate": "2021-12-13T16:46:09.390Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "90429",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Medienwerkstatt Franken",
+        "squuid": "5cb884da-bdb0-4633-ae90-d46c7b8257bd"
+      },
+      "squuid": "5cb884ed-1cd8-46f9-b367-3fbf8bb5ac5e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.medienwerkstatt-franken.de",
+        "squuid": "5f7daf52-1ec0-4a20-a3bd-a80b6519b245"
+      },
+      "squuid": "5f7daf93-395b-47af-98cc-72b1f5293c20",
+      "state": "active"
+    }
+  ]
+}

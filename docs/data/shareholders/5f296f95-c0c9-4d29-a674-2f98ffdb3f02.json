@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Erfurt",
+  "pseudoCompany": false,
+  "street": "Anger",
+  "name": "salve.tv GmbH",
+  "naturalPerson": false,
+  "squuid": "5f296f95-c0c9-4d29-a674-2f98ffdb3f02",
+  "controlDate": "2022-01-04T16:44:06.914Z",
+  "streetNumber": "37",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "99084",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.salve.tv",
+        "squuid": "5f296ee9-60ed-4ad7-b429-ad6eef9537d2"
+      },
+      "squuid": "5f296fc4-8fe9-4026-843c-97c3eb685344",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 92.0,
+      "holder": {
+        "name": "Toskanaworld GmbH",
+        "squuid": "5f2970c2-5984-4eab-b1aa-fed84bbf7cc8"
+      },
+      "squuid": "5f2970df-fc1c-4ac8-b759-5050da0f22d0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.0,
+      "holder": {
+        "name": "Remann, Michael",
+        "squuid": "5f2970b1-7ecb-4e5f-a23e-38e44543bbb8"
+      },
+      "squuid": "5f2970f3-82ca-4855-8a85-2378e8c8dfbb",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "618b9f25-fd6b-40dd-9677-8ba57f5edc69",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RP Digital GmbH",
+        "squuid": "5be1a6b6-0812-4100-b36e-793f33daf6b0"
+      },
+      "squuid": "618b9f40-f187-49a2-9250-3c4e3f6c681a",
+      "state": "active"
+    }
+  ],
+  "name": "www.tonight.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-11-10T10:30:05.052Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Hafenstrasse 25",
+  "name": "Kurz und Spiegel GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ce08-4da5-902d-86815d9eb408",
+  "controlDate": "2021-12-10T12:38:20.298Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "68159",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kino-zeit.de",
+        "squuid": "5be1a6b1-8936-4a77-a845-bf5ee5542f08"
+      },
+      "squuid": "5be1a6b9-6fe8-495e-8ca8-be3ce45a9f0d",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kurz, Joachim",
+        "squuid": "5be1a6b6-df56-4d43-a3e1-452e051d94de"
+      },
+      "squuid": "5be1a6b8-d915-4355-8e2f-7653466e9729",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Spiegel, Michael",
+        "squuid": "5be1a6b6-ac63-49cc-a7a8-df25bb98af87"
+      },
+      "squuid": "5be1a6b8-e196-4916-b9ef-33edf02b41eb",
+      "state": "active"
+    }
+  ]
+}

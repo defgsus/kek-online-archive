@@ -1,0 +1,74 @@
+{
+  "state": "active",
+  "city": "Karlsruhe",
+  "pseudoCompany": false,
+  "street": "Philipp-Reis-Str.",
+  "name": "Medienhaus Südwest GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "611a29be-20ab-4a5e-a86b-ef5f24460dda",
+  "controlDate": "2021-08-16T09:03:40.109Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "76137",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.anna.fm",
+        "squuid": "611a2972-06ca-4851-8585-5bf2033863f1"
+      },
+      "squuid": "611a29d5-724f-4877-b023-dcac42f2f054",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Medienhaus Südwest Verwaltungs-GmbH",
+        "squuid": "611a2a6a-1cd6-4581-af9e-c2f913aa7453"
+      },
+      "squuid": "611a2a96-b2b7-4eb2-b7b2-e2a45e08bba6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Funkhaus Freiburg GmbH & Co. KG",
+        "squuid": "5be1a6b6-56ad-46d4-8221-517da639f398"
+      },
+      "squuid": "611a2b16-e80c-43d8-9ee4-88f4af96d7eb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Radio Karlsruhe GmbH & Co. KG",
+        "squuid": "5be1a6b6-db3d-4f4f-813b-126e135cf064"
+      },
+      "squuid": "611a2b2f-cb58-4ea7-a09f-d9594016510f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "M.O.R.E. Lokalfunk Baden-Württemberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-b593-4d54-b4af-940456ef3a1e"
+      },
+      "squuid": "611a2b43-9507-4990-add4-5e9f4a715818",
+      "state": "active"
+    }
+  ]
+}

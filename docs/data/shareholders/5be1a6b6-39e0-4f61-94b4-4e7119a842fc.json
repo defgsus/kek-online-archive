@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Unterföhring",
+  "pseudoCompany": false,
+  "street": "Medienallee 19",
+  "name": "wer-weiss-was GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-39e0-4f61-94b4-4e7119a842fc",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "85774",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ProSiebenSat.1 Media SE",
+        "squuid": "5be1a6b6-c403-468d-8ebc-b75baf6ebe76"
+      },
+      "squuid": "5be1a6b8-5fef-44e9-a52b-d5d1778f5616",
+      "state": "active"
+    }
+  ]
+}

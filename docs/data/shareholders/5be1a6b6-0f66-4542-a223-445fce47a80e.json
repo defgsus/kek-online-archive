@@ -1,0 +1,49 @@
+{
+  "name": "Thorhauer Familienstiftung",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-0f66-4542-a223-445fce47a80e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Merkur Thorhauer GmbH & Co. KG",
+        "squuid": "5be1a6b6-80f4-40a1-9801-590a31d82c7b"
+      },
+      "squuid": "5be1a6b7-49de-48b8-b4bc-bd1a585a2a6c",
+      "state": "active",
+      "votingShares": 49.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Dieter Thorhauer GmbH",
+        "squuid": "5f19566f-b800-42da-ad05-c2e2e0c754fa"
+      },
+      "squuid": "5f1e925c-bb87-4559-a574-3bd8f957c645",
+      "state": "active"
+    }
+  ],
+  "city": "Liederbach",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Potsdam",
+  "pseudoCompany": false,
+  "street": "Lindstedter Str. 9b",
+  "name": "Moviejones GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9dee-4978-8e29-146b8649da3a",
+  "controlDate": "2021-12-14T16:45:48.869Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14469",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.moviejones.de",
+        "squuid": "5be1a6b1-a229-4226-9d81-10c9a2ca60c5"
+      },
+      "squuid": "5be1a6b9-6725-42f0-bb11-80c1a0710e84",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Eggerth, Claudia",
+        "squuid": "5be1a6b6-5e31-44bb-99b0-429d8c2efb46"
+      },
+      "squuid": "5be1a6b8-6705-44e9-b1c3-7b65080f7c51",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Eggerth, Torsten",
+        "squuid": "5be1a6b6-0f16-4838-b79d-3f9ff21d22f3"
+      },
+      "squuid": "5be1a6b8-201d-4d1e-b0ed-2b02864cfbd5",
+      "state": "active"
+    }
+  ]
+}

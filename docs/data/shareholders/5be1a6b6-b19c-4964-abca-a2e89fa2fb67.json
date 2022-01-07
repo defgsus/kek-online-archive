@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Winsen/Luhe",
+  "pseudoCompany": false,
+  "street": "Schloßring 5",
+  "name": "Winsener Anzeiger Ravens und Maack GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b19c-4964-abca-a2e89fa2fb67",
+  "controlDate": "2020-06-15T12:39:20.550Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "21423",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Ravens, Tobias",
+        "squuid": "5be1a6b6-4cbe-4e3d-8808-fef9b6a2e345"
+      },
+      "squuid": "5be1a6b8-8e34-4b48-b061-687701ae5ffe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Maack, Lebrecht",
+        "squuid": "5be1a6b6-2776-40b9-9699-04e4e705f7b6"
+      },
+      "squuid": "5be1a6b8-b8ab-4cb0-837b-2de4f29064a3",
+      "state": "active"
+    }
+  ]
+}

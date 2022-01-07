@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Osterwaldstraße",
+  "name": "Midgard GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7556-4fba-8e63-a843224abf57",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "80805",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Plazamedia GmbH TV- und  Filmproduktion",
+        "squuid": "5be1a6b6-7257-43a8-836d-e65193849c2c"
+      },
+      "squuid": "5be1a6b7-c32e-4690-a5d1-8e127fbb0c25",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 66.6,
+      "holder": {
+        "name": "Privatpersonen sowie verschiedene Beteiligungs- und Vermögensverwaltungsgesellschaften",
+        "squuid": "5be1a6b6-1aa4-4052-a30c-2c96a0f9033c"
+      },
+      "squuid": "5be1a6b7-34a9-4cb2-a530-61399c0c42ef",
+      "state": "active"
+    }
+  ]
+}

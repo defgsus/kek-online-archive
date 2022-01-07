@@ -1,0 +1,93 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Burda Senator Verlag GmbH",
+        "squuid": "5be1a6b6-8141-4e03-8020-bfaa504c615e"
+      },
+      "squuid": "5be1a6b8-d7b7-43a5-bb94-6ac81c127f8f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Offenburg",
+  "pseudoCompany": false,
+  "street": "Hubert-Burda-Platz 2",
+  "name": "Verlag Aenne Burda GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7e4a-419e-ab4d-b10131e25a5a",
+  "controlDate": "2021-12-01T14:23:39.995Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "77652",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "burda style",
+        "squuid": "5be1a6b1-d7e5-417f-a3ce-28f2810ec7fe"
+      },
+      "squuid": "5be1a6b9-b1cb-478c-a3a6-86ff37c97251",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.burdastyle.de",
+        "squuid": "5be1a6b1-8d25-4aa2-b276-c89d9b5ec8f2"
+      },
+      "squuid": "5be1a6b9-b06e-4979-a4c5-b2c705fa92b3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "burda easy",
+        "squuid": "5c3efdfd-98b9-47f0-8b8c-2067c50666d4"
+      },
+      "squuid": "5c3efe3d-af32-4762-9802-8f892a53c5ac",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "burda stricken",
+        "squuid": "612791d6-df9b-4cbe-9589-5cc678635ffd"
+      },
+      "squuid": "6127922e-9436-4dc8-b3c4-259716a217db",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Burda GmbH",
+        "squuid": "5be1a6b6-b032-4c21-b688-486e01ca11bd"
+      },
+      "squuid": "5be1a6b8-31b6-4c11-840c-335acd5a3109",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Aenne Burda Verwaltungsgesellschaft mbH",
+        "squuid": "5ebbee4d-dd4c-46d4-856f-22ebe79b47fa"
+      },
+      "squuid": "5ebbee75-cf4f-45ff-a728-08ebfaf619fb",
+      "state": "active"
+    }
+  ]
+}

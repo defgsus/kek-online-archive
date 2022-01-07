@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Würzburg",
+  "pseudoCompany": false,
+  "street": "Max-Planck-Str.",
+  "name": "IWW Institut für Wissen in der Wirtschaft GmbH",
+  "naturalPerson": false,
+  "squuid": "5c505fc6-5efd-4f9d-bc7d-ddbcb0f015bf",
+  "controlDate": "2021-12-09T16:32:42.030Z",
+  "streetNumber": "7/9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "97082",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.iww.de",
+        "squuid": "5c505fb3-70b3-42be-a961-fdb58c0059fa"
+      },
+      "squuid": "5c50604d-80c8-487b-ad3e-3db04f30dacb",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Vogel Communications Group GmbH & Co. KG",
+        "squuid": "5c505ff1-70df-4cd9-bf59-d0632d21ceba"
+      },
+      "squuid": "5c5060c2-29d9-4ac3-ba24-ad245c64016c",
+      "state": "active"
+    }
+  ]
+}

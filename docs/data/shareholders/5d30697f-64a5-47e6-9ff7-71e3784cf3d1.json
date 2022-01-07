@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Wien (A)",
+  "pseudoCompany": false,
+  "street": "Leopold-Ungar-Platz ",
+  "name": "k-digital Medien GmbH & Co KG ",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d30697f-64a5-47e6-9ff7-71e3784cf3d1",
+  "controlDate": "2021-06-25T11:21:16.593Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "1190",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kurier.at",
+        "squuid": "5d30695b-6bf5-4cab-9421-ccff40693c8d"
+      },
+      "squuid": "5d306bd8-018e-4bdb-80dd-875fd13f4f98",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kurier Zeitungsverlag und Druckerei GmbH",
+        "squuid": "5d30699e-3ff6-4124-9699-5379b718210b"
+      },
+      "squuid": "5d306c4a-e0f1-4cbc-afeb-13374465dde3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "k-digital Medien GmbH",
+        "squuid": "5efc9248-8ec9-468e-925d-1b33614d7898"
+      },
+      "squuid": "5efc9268-ef19-455a-939d-28d599a2e536",
+      "state": "active"
+    }
+  ]
+}

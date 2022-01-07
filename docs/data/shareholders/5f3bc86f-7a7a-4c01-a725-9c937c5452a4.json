@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Pirmasens",
+  "pseudoCompany": false,
+  "street": "Exerzierplatzstr.",
+  "name": "G & G Medien Funkhaus GmbH",
+  "naturalPerson": false,
+  "squuid": "5f3bc86f-7a7a-4c01-a725-9c937c5452a4",
+  "controlDate": "2021-11-23T16:52:08.849Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "66953",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.antenne-pirmasens.de",
+        "squuid": "5f3bc777-3ce9-454d-acf7-70b7f25c0f00"
+      },
+      "squuid": "5f3bc89d-e3c3-49fa-9199-b57043df6428",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.antenne-zweibruecken.de",
+        "squuid": "5f3e80db-7058-4bca-8f81-50e00a56552a"
+      },
+      "squuid": "5f3e8122-225d-43eb-a558-c8c3550804dc",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gallucci, Antonio",
+        "squuid": "5f3bca0e-b9b5-4c5b-beef-9cf425b5ffee"
+      },
+      "squuid": "5f3bca2c-8e76-4159-9432-fd22ec964a0d",
+      "state": "active"
+    }
+  ]
+}

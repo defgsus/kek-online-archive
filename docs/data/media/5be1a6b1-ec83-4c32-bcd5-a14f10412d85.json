@@ -1,0 +1,124 @@
+{
+  "rfRepresentative": "Tim Werner",
+  "state": "active",
+  "sharesInfo": "",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Petra Misselwitz",
+  "rfStartDate": "01.03.2000",
+  "rfFreePay": false,
+  "squuid": "5be1a6b1-ec83-4c32-bcd5-a14f10412d85",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.goldstar-tv.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Mainstream Media AG",
+        "squuid": "5be1a6b6-e7d4-42fd-aacd-37234b231d29"
+      },
+      "squuid": "5be1a6b9-b23e-48a6-be01-971f3aeb0cb6",
+      "state": "active"
+    }
+  ],
+  "name": "GoldStar TV",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-10a1-4d0f-be3f-dc7e8cdd350a",
+    "name": "Spartenprogramm (Musik)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Musikspartenprogramm für deutschsprachige, volkstümliche und internationale Schlager und Oldies",
+  "rfLicenseUntil": "unbefristet",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "29.01.2016",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-ad9e-4670-b9d9-71ea6517791a",
+      "name": "Zattoo",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-1930-428e-8708-79638b07c85f",
+      "name": "TV Spielfilm live",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-2e4e-4403-a987-3e52b61cf91b",
+      "name": "Couchfunk.de (Couchfunk GmbH)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-c433-49e9-b390-5073f0f89b78",
+      "name": "waipu.tv (EXARING AG)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-2a80-4b57-9a14-77c549d0ed24",
+      "name": "Prime Video (Amazon Instant Video Germany GmbH)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Handelsblatt GmbH",
+        "squuid": "5be1a6b6-f62c-4b11-ac45-b9fab6580c3a"
+      },
+      "squuid": "5be1a6b7-dfda-4400-837b-c5ba375245ff",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Solutions by Handelsblatt Media Group GmbH",
+        "squuid": "5be1a6b6-5bb1-481a-96c5-3f9fd14dce4b"
+      },
+      "squuid": "5be1a6b8-9359-409a-8543-80b555f60edc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Kasernenstr. 67",
+  "name": "Handelsblatt Media Group GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-c822-4c39-b59a-d10c1fd9268d",
+  "otherMediaActivities": "Holding",
+  "controlDate": "2021-10-22T13:20:13.472Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40213",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DvH Medien GmbH",
+        "squuid": "5be1a6b6-5ed8-4639-a346-1c7f7b26f35a"
+      },
+      "squuid": "5be1a6b8-0745-400f-ba74-64054e514d2a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Handelsblatt Verwaltungs-GmbH",
+        "squuid": "5ebd4c7f-1c12-4182-8c0c-be8f2f5989ff"
+      },
+      "squuid": "5ebd4ca0-9ee9-4ec3-a1d4-e9938a40702e",
+      "state": "active"
+    }
+  ]
+}

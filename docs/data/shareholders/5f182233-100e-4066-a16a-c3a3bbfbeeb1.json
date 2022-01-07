@@ -1,0 +1,77 @@
+{
+  "state": "active",
+  "city": "Pulheim",
+  "pseudoCompany": false,
+  "street": "Franz-Wenzeler-Strasse",
+  "name": "Central FM Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5f182233-100e-4066-a16a-c3a3bbfbeeb1",
+  "controlDate": "2021-11-25T14:49:48.688Z",
+  "streetNumber": "2a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "50259",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.antennepulheim.de",
+        "squuid": "5f1821d9-f903-40fa-b104-9c99388108f1"
+      },
+      "squuid": "5f182254-6c8e-4be1-95ea-4eb139208231",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Antenne Pulheim",
+        "squuid": "5f918266-3c8d-48c2-8567-8a99dcbc6951"
+      },
+      "squuid": "5f91846b-5361-4303-a5d6-45190ee8b692",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Lüghausen, Jan",
+        "squuid": "5be1a6b6-d3e5-471d-b96a-57f1d75177a7"
+      },
+      "squuid": "5f182392-a381-4d49-9cc2-ce9c269d7004",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Grünter, Marie-Antoinette",
+        "squuid": "5f182360-e381-4d87-a2e2-b4be66845377"
+      },
+      "squuid": "5f1823a7-cf26-4607-9824-216835c12a62",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "NANO-COMP electronic GmbH",
+        "squuid": "5be1a6b6-c8f4-4f4a-bb6f-159238eaffc1"
+      },
+      "squuid": "5f1823b5-17b9-40cf-9a1f-e12e625cfdd0",
+      "state": "active"
+    }
+  ]
+}

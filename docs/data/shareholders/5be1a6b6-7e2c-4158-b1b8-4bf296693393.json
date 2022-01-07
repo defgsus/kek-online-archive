@@ -1,0 +1,66 @@
+{
+  "state": "active",
+  "city": "Konstanz",
+  "pseudoCompany": false,
+  "street": "Reichenaustr. ",
+  "name": "wetter.com GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7e2c-4158-b1b8-4bf296693393",
+  "controlDate": "2022-01-07T14:22:31.289Z",
+  "streetNumber": "19 a",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "78467",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wetter.com",
+        "squuid": "5be1a6b1-0c4f-4d95-8030-7be779ea378c"
+      },
+      "squuid": "5be1a6b9-5228-44cf-891e-cc51f3bcf69a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "wetter.com TV",
+        "squuid": "5c654ac3-84fa-4105-a50e-9a8d148877fa"
+      },
+      "squuid": "5c65505f-1e07-4494-8fa5-ef418a7eb218",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wetter.com/tv",
+        "squuid": "5f3bd510-5e2a-4813-ba42-604bac74e340"
+      },
+      "squuid": "5f3bd533-4332-4729-a54b-e5df938a911f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Seven.One Entertainment Group GmbH",
+        "squuid": "5be1a6b6-ee3d-454b-96df-68a8cdac19d3"
+      },
+      "squuid": "60bf2b24-8fa9-47a6-b505-d3153f088c7b",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Goseriede",
+  "name": "AZ MEDIA TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fd84-43ec-976e-25aab56af95e",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "30159",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "AZ MEDIA TV (Drittsendezeit bei RTL)",
+        "squuid": "5be1a6b1-0225-4795-8500-f0e7f0d487fd"
+      },
+      "squuid": "5be1a6b9-092d-4f5d-91f4-936d0e0f4c15",
+      "state": "active"
+    }
+  ],
+  "credits": "Website der NLM, Abruf am 07.01.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "5be1a6b7-f349-4c2c-94f2-e94d5c39e2c2",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "89 HIT FM Ltd.",
+  "pseudoCompany": false,
+  "controlDate": "2021-11-22T12:26:34.760Z",
+  "squuid": "5be1a6b6-9cb2-4232-8966-d7a46040c715",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "HIT FM MEDIA GmbH & Co. KG",
+        "squuid": "5be1a6b6-2041-4a41-bf6e-cd932454f533"
+      },
+      "squuid": "5be1a6b8-e00d-4e39-abc1-43b933de538e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "VP- GLOBAL RADIO & TV UG",
+        "squuid": "5be1a6b6-484d-4dbe-a6ed-d393054ecfdb"
+      },
+      "squuid": "5be1a6b8-9716-4c9a-83a8-abd449018918",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "EazyBioLive and Vital GmbH",
+        "squuid": "5f843fe0-3e4a-4179-a857-3ebcaa7f1e2c"
+      },
+      "squuid": "5f8440be-95fb-4e18-bff6-c722dcf52b7b",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

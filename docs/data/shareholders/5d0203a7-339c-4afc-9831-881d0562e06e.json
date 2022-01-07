@@ -1,0 +1,44 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Elbe Medienproduktion GmbH",
+        "squuid": "5f295bc2-8d27-4180-bbc8-7cfa4cd0ee5b"
+      },
+      "squuid": "5f295c59-0f17-468b-b2c1-7d097b0f96b9",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Schönebeck",
+  "pseudoCompany": false,
+  "name": "Kolbe, Christian",
+  "naturalPerson": true,
+  "squuid": "5d0203a7-339c-4afc-9831-881d0562e06e",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ELBEKANAL",
+        "squuid": "5c614f90-efb2-4249-af06-f8150a80d048"
+      },
+      "squuid": "5d0204da-d77a-4c8b-88aa-13e57da369b1",
+      "state": "active"
+    }
+  ]
+}

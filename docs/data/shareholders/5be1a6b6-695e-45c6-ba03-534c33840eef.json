@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Voßstraße",
+  "name": "Kuhnt, Andreas",
+  "naturalPerson": true,
+  "co": "Konzept.Kommunikation",
+  "squuid": "5be1a6b6-695e-45c6-ba03-534c33840eef",
+  "streetNumber": "35",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "30161",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Mundus",
+        "squuid": "5be1a6b1-d802-40ea-a82b-78979c1479e4"
+      },
+      "squuid": "5be1a6b9-78b1-4a8f-b46c-bea502d064ed",
+      "state": "active"
+    }
+  ],
+  "credits": "Website der LFK, Abruf am 03.03.2011"
+}

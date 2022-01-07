@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Köpenicker Straße",
+  "name": "Golem Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2225-4fa4-b3f8-95be3d5aa7a6",
+  "controlDate": "2021-12-08T15:51:25.773Z",
+  "streetNumber": "54",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10179",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.golem.de",
+        "squuid": "5be1a6b1-d973-49fe-8030-511d612a2565"
+      },
+      "squuid": "5be1a6b9-4ceb-4a0a-ae35-3d4638557d1c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Computec Media GmbH",
+        "squuid": "5be1a6b6-5199-4675-9443-c28b03ae254c"
+      },
+      "squuid": "5be1a6b8-76cb-499e-812c-a97f8721adda",
+      "state": "active"
+    }
+  ]
+}

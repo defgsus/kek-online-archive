@@ -1,0 +1,32 @@
+{
+  "name": "Familie Dolan (Stimmrechte)",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-2e2f-4175-ac92-249b4ea00848",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 73.0,
+      "held": {
+        "name": "AMC Networks Inc.",
+        "squuid": "5be1a6b6-fab9-42b3-9ccd-42be9f4d2df7"
+      },
+      "squuid": "5be1a6b8-15fd-4427-8f1d-10cc68d84735",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

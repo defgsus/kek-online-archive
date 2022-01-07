@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Viernheim",
+  "pseudoCompany": false,
+  "street": "Rathausstr. 38",
+  "name": "Johannes Martin Söhne Inhaber Wolfgang Johannes Martin e.K.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-aa81-4419-bb33-dba2c89f320e",
+  "controlDate": "2021-11-18T10:23:30.265Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "68519",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Viernheimer Tageblatt",
+        "squuid": "5be1a6b1-97c1-4944-8cfd-39e7bd32e724"
+      },
+      "squuid": "5be1a6b9-190d-46dc-b298-926a5e60747e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Martin, Wolfgang Johannes",
+        "squuid": "5be1a6b6-1576-482e-b001-f051a058393f"
+      },
+      "squuid": "5be1a6b8-060f-45eb-b32d-a9bcd6b0e53e",
+      "state": "active"
+    }
+  ]
+}

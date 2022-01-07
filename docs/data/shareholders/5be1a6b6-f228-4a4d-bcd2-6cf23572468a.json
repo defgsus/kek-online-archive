@@ -1,0 +1,31 @@
+{
+  "name": "Broermann, Dr. Bernard gr.",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-f228-4a4d-bcd2-6cf23572468a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Broermann Holding GmbH",
+        "squuid": "5be1a6b6-effe-42ec-baf9-4ff98fc21402"
+      },
+      "squuid": "5be1a6b8-eeff-4688-a234-b1a29bab2852",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

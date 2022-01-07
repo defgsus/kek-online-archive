@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": true,
+  "street": "Marktplatz",
+  "name": "Landeshauptstadt Düsseldorf/Amt für Kommunikation",
+  "naturalPerson": false,
+  "squuid": "5d358a12-16e8-4d50-99d2-e024ae6c78ac",
+  "controlDate": "2020-01-17T13:05:16.114Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40213",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.duesseldorf.de",
+        "squuid": "5d3589e9-ce8d-4511-b1de-e301cb364ef1"
+      },
+      "squuid": "5d358a2d-4e60-459c-88a1-7b3e0f659105",
+      "state": "active"
+    }
+  ]
+}

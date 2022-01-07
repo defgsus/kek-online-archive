@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Rindermarkt",
+  "name": "Port Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d1a4-48f3-96f4-7d3d5f6c6518",
+  "controlDate": "2021-09-27T15:59:33.927Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80331",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "crescendo",
+        "squuid": "5be1a6b1-5f38-4330-a2d8-323accf93b58"
+      },
+      "squuid": "5be1a6b9-f447-4340-a178-8d50c4b9a03c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.crescendo.de",
+        "squuid": "5be1a6b1-35e5-47d4-9b05-1993b2e4ea9c"
+      },
+      "squuid": "5be1a6b9-9ac5-4610-8886-3b0c1ebbaa7a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hanuschik, Winfried",
+        "squuid": "5be1a6b6-a21e-4dfe-aaab-75c42250db7e"
+      },
+      "squuid": "5be1a6b8-8bbb-45b5-be36-2c77575cede7",
+      "state": "active"
+    }
+  ]
+}

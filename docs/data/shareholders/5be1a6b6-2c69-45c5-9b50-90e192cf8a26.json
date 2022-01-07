@@ -1,0 +1,154 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Lina-Ammon-Str. 30",
+  "name": "Johann Michael Sailer Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-2c69-45c5-9b50-90e192cf8a26",
+  "controlDate": "2022-01-05T11:59:26.553Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "90471",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Wapiti",
+        "squuid": "5be1a6b1-e23f-43e2-8a61-789accdf7a07"
+      },
+      "squuid": "5be1a6b9-6050-4333-9fa0-0e17227d03f0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Tierfreund",
+        "squuid": "5be1a6b1-d68b-4635-9487-9ed0620d6fa8"
+      },
+      "squuid": "5be1a6b9-7c0e-428b-997d-9fd030031a66",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stafette",
+        "squuid": "5be1a6b1-6672-42ae-9de7-504ef273e4e4"
+      },
+      "squuid": "5be1a6b9-5d1b-4a3d-9193-5efd4dca9c12",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Benni",
+        "squuid": "5be1a6b1-a457-4e2d-bf52-4a91e595cc74"
+      },
+      "squuid": "5be1a6b9-ea48-4731-8247-b75301bf7903",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Olli und Molli",
+        "squuid": "5be1a6b1-4393-4b24-8c36-e1b5bf5ee12a"
+      },
+      "squuid": "5be1a6b9-906f-4716-8f8f-885aa04b291b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "I love English",
+        "squuid": "5be1a6b1-e5a9-4d54-a900-fc14373c2519"
+      },
+      "squuid": "5be1a6b9-555d-4a27-af9c-0a83815a2683",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "I love English junior",
+        "squuid": "5be1a6b1-cae1-4210-82e0-679257e532c3"
+      },
+      "squuid": "5be1a6b9-907c-420c-92db-0d984587f036",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schule-und-familie.de",
+        "squuid": "5be1a6b1-8c36-4f3b-9691-62c7d3e18203"
+      },
+      "squuid": "5be1a6b9-5e8c-4698-b7c3-76bca2278b12",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Olli und Molli Kindergarten",
+        "squuid": "611d27c4-2b12-402a-8430-7898ad26b816"
+      },
+      "squuid": "611d27f9-e881-4ef5-b7c9-e9d3825adabd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Dein Planet",
+        "squuid": "611d28b1-c773-40c3-b336-c154f16c244f"
+      },
+      "squuid": "611d28f4-6647-4e4d-8d5d-7fcd61d304b8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "I love English mini",
+        "squuid": "611d299f-4125-4b0c-9dea-d2993a596704"
+      },
+      "squuid": "611d29dd-b2a0-4a17-8c41-7720891c8f3b",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Bayard Press Investissement S.A.",
+        "squuid": "5be1a6b6-7cb2-4d46-81ff-eb017d88bd7d"
+      },
+      "squuid": "5be1a6b8-b904-45ac-a811-6ea80f7ba667",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Roularta Media Group S. A.",
+        "squuid": "5be1a6b6-b278-460a-a1ef-4bf1799ebfbb"
+      },
+      "squuid": "5be1a6b8-f8dd-451a-a2b3-4913adeefc8a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Johann Michael Sailer Verlag Geschäftsführungs GmbH",
+        "squuid": "5eb9214a-ebc0-4753-ae46-bd0a3219befe"
+      },
+      "squuid": "5eb92181-935f-4ff4-8b70-e3daea1da1f2",
+      "state": "active"
+    }
+  ]
+}

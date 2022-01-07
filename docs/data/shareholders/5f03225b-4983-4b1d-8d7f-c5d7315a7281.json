@@ -1,0 +1,84 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "ROCK ANTENNE GmbH & Co. KG",
+        "squuid": "5be1a6b6-1640-4e2c-9d60-ee7bc798fdc9"
+      },
+      "squuid": "5f0322be-9562-4ff2-a9da-2ec2d2b69991",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ismaning",
+  "pseudoCompany": false,
+  "street": "Münchener Str.",
+  "name": "Rock Antenne Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f03225b-4983-4b1d-8d7f-c5d7315a7281",
+  "controlDate": "2021-11-22T15:25:12.323Z",
+  "streetNumber": "101c",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "85737",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 81.5,
+      "holder": {
+        "name": "Antenne Bayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-5d70-4275-a2da-4ea50ee1b6af"
+      },
+      "squuid": "5f1155c2-66b5-4684-b55a-154aa16782b2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.5,
+      "holder": {
+        "name": "NWZ Funk und Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-e74c-47af-9e67-66b48a57e0a8"
+      },
+      "squuid": "5f1155e3-8dd1-40be-9457-9e0190c031c7",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Im Bonnet ",
+  "name": "Donnerwetter.de GmbH",
+  "naturalPerson": false,
+  "squuid": "5d358c2f-44ad-42ab-a7cf-1877e740bbb3",
+  "controlDate": "2021-12-03T13:27:09.931Z",
+  "streetNumber": "19a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53229",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.donnerwetter.de",
+        "squuid": "5d358c0a-be6c-4db1-bb2c-c4413e8dd366"
+      },
+      "squuid": "5d358c59-1ab0-4f0c-a6a3-7fcd6b5a0ec4",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Brandt, Dr. Karsten",
+        "squuid": "5d358d5d-a131-4934-84e0-1f55092a51a8"
+      },
+      "squuid": "5d358d8d-8c7c-4637-b187-65b19ee69393",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Klein, Michael",
+        "squuid": "5d358d6c-30dc-454f-8f64-4b365e2afc0f"
+      },
+      "squuid": "5d358d9a-8d97-4908-b99a-c39695a7d78d",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Speersort",
+  "name": "PE Digital GmbH ",
+  "naturalPerson": false,
+  "squuid": "5c51cd1e-8d63-4b83-8f30-7cb79fa35bea",
+  "controlDate": "2021-11-30T16:24:39.768Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20095",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.beziehungsweise-magazin.de",
+        "squuid": "5c51ccf7-5c32-458d-9078-83ae29066600"
+      },
+      "squuid": "5c51cdbe-ff27-42cc-8f72-9fb900b62d88",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Parship Group GmbH",
+        "squuid": "5c51ce6e-7e66-4fe5-9230-023b1707811e"
+      },
+      "squuid": "5c51ce8b-4e98-4345-becd-f93a2ce541bb",
+      "state": "active"
+    }
+  ]
+}

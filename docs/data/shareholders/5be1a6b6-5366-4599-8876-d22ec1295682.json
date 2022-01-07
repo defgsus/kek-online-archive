@@ -1,0 +1,92 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Ridlerstraße 55",
+  "name": "Webedia Gaming GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5366-4599-8876-d22ec1295682",
+  "controlDate": "2021-07-07T14:04:07.422Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80339",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "GameStar",
+        "squuid": "5be1a6b1-3981-497a-90dd-4524181be86a"
+      },
+      "squuid": "5be1a6b9-29ed-4cdb-bfe6-c6b7cd57863e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "GamePro",
+        "squuid": "5be1a6b1-e1fc-4ea9-a27d-17e3a172b134"
+      },
+      "squuid": "5be1a6b9-5f96-4630-a42d-433621c92375",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gamestar.de",
+        "squuid": "5be1a6b1-032c-42f6-8b6b-02a716c96bbb"
+      },
+      "squuid": "5be1a6b9-c5c4-4268-a1f0-27b11218c8b9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gamepro.de",
+        "squuid": "5be1a6b1-1ef3-4e04-ad6a-36d9c5da5b27"
+      },
+      "squuid": "5be1a6b9-e663-4c02-b8ae-e8a056b0ce8d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mein-mmo.de",
+        "squuid": "5be1a6b1-4c98-4605-9db3-04dad4711bc3"
+      },
+      "squuid": "5be1a6b9-95b8-475f-8d5f-d07b23d814d7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Multi-Channel-Network Webedia",
+        "squuid": "5e5f9584-ab14-4507-9a1d-5404dd5302a3"
+      },
+      "squuid": "5e5f9800-e7f8-4d7b-8da1-58232a2364e6",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Webedia GmbH",
+        "squuid": "5be1a6b6-0f93-4f35-9b21-42a3e80b70aa"
+      },
+      "squuid": "5be1a6b8-f0ff-4a3a-8204-6852110f6d4e",
+      "state": "active"
+    }
+  ]
+}

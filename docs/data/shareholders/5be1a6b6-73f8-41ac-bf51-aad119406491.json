@@ -1,0 +1,91 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Sonntag Aktuell GmbH",
+        "squuid": "5be1a6b6-a02a-4877-bcb9-9894be7baf66"
+      },
+      "squuid": "5be1a6b8-3fec-4d74-8368-9264f8f0a0f6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Kreiszeitung Böblinger Bote Wilhelm Schlecht Verwaltungs GmbH",
+        "squuid": "5ecfcd40-c878-47fb-9963-185efbe16d43"
+      },
+      "squuid": "5ed0fc6a-6f84-4bca-ac0c-fcc665a469fc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Böblingen",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr. 27",
+  "name": "Kreiszeitung Böblinger Bote Wilhelm Schlecht GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-73f8-41ac-bf51-aad119406491",
+  "controlDate": "2021-10-26T12:54:50.300Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "71034",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kreiszeitung Böblinger Bote",
+        "squuid": "5be1a6b1-5c3f-48bb-98a8-a5c1325b50d6"
+      },
+      "squuid": "5be1a6b9-4a13-4c1e-b37e-b14b6c5e9ec0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.krzbb.de",
+        "squuid": "5be1a6b1-ac06-46d1-b9ed-cd5a344266cd"
+      },
+      "squuid": "5be1a6b9-e90c-407c-8a90-4b96d1cb6d9d",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stuttgarter Zeitung Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-ef3b-43ce-979a-eddf7669f94f"
+      },
+      "squuid": "5be1a6b8-86a0-4303-ab71-8989aa8f92c3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kreiszeitung Böblinger Bote Wilhelm Schlecht Verwaltungs GmbH",
+        "squuid": "5ecfcd40-c878-47fb-9963-185efbe16d43"
+      },
+      "squuid": "5ecfcdae-cfb6-4cd9-8511-7932f476de1f",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Schöneberger Straße",
+  "name": "Res Publica Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9747-4917-ad59-20145241c5bf",
+  "controlDate": "2021-09-24T12:56:26.118Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10963",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Cicero",
+        "squuid": "5be1a6b1-45ea-4dff-b676-8c6280fe9fee"
+      },
+      "squuid": "5be1a6b9-81b3-46e6-b3bf-0b1662260126",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cicero.de",
+        "squuid": "5be1a6b1-f61b-4d40-b004-43ff4847dd7b"
+      },
+      "squuid": "5be1a6b9-5df7-4937-b627-631835821db2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "monopol - Magazin für Kunst und Leben",
+        "squuid": "5be1a6b1-b937-4396-bd03-a8c8d033b7e9"
+      },
+      "squuid": "5be1a6b9-5b03-4871-9aa8-1279b517a8f8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.monopol-magazin.de",
+        "squuid": "5be1a6b1-769d-4ff8-b50e-68f80d87278c"
+      },
+      "squuid": "5be1a6b9-fe3c-4994-90ab-93c6084b5511",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Marguier, Alexander",
+        "squuid": "5be1a6b6-6470-47b8-8cc4-02018d7e8e51"
+      },
+      "squuid": "5be1a6b8-2b87-4ec9-ac45-40e3c5af313a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "DINOVO Invest GmbH",
+        "squuid": "6082a3ba-a372-4eda-a2b1-b234a8efca7b"
+      },
+      "squuid": "6082a3d5-444c-463b-bd1d-7da18d9cbb5c",
+      "state": "active"
+    }
+  ]
+}

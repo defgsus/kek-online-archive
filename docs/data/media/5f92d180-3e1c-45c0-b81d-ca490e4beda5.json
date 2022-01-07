@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f92d180-3e1c-45c0-b81d-ca490e4beda5",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Görlitz GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-f8c1-435b-97cb-718191eb9b1a"
+      },
+      "squuid": "5f92d206-7d9e-44ac-a15b-fc25fa12748e",
+      "state": "active"
+    }
+  ],
+  "name": "www.radiolausitz.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-22T15:10:37.365Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 32.71,
+      "held": {
+        "name": "Radio Gütersloh Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-8678-4c3a-80a8-a1e585c9889a"
+      },
+      "squuid": "5be1a6b7-71f2-47d8-94b1-d0cb88297c99",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.6,
+      "held": {
+        "name": "Pressefunk Nordrhein-Westfalen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8c11-4526-af08-275ec93dea8b"
+      },
+      "squuid": "5be1a6b7-cc64-410d-a600-8bcf2e4c9364",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 67.27,
+      "held": {
+        "name": "Radio Warendorf Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-d275-4aa8-9d53-91baa912ca07"
+      },
+      "squuid": "5be1a6b8-91d6-45a5-be5e-3e8ccbfc9397",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "AUDIO MEDIA SERVICE Produktionsgesellschaft mbH & Co. KG",
+        "squuid": "5eeb7b89-1d1d-486f-b21f-09fd3bc32248"
+      },
+      "squuid": "5eeb7e2f-da0d-4f35-a076-ae7284d76f23",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Oelde",
+  "pseudoCompany": false,
+  "street": "Engelbert-Holterdorf-Str. 4",
+  "name": "E. Holterdorf GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-c488-44e2-a1a2-a1fade69831a",
+  "controlDate": "2021-12-03T10:21:38.182Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "59302",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Die Glocke",
+        "squuid": "5be1a6b1-1961-497a-8bd5-30f1a2da3e19"
+      },
+      "squuid": "5be1a6b9-e275-4698-91c9-78814bba7298",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ahlener Tageblatt",
+        "squuid": "5be1a6b1-54e5-46e9-bfd2-aa55cfb41689"
+      },
+      "squuid": "5be1a6b9-e3e9-49d7-8de4-d4597f641947",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.die-glocke.de",
+        "squuid": "5be1a6b1-f57d-4c17-a716-83dfa08f07e4"
+      },
+      "squuid": "5be1a6b9-d0fd-4a50-ad62-e2f267cfc0d3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "hierzulande",
+        "squuid": "5c5ac81a-1cd0-442c-83d8-e2b10f963d92"
+      },
+      "squuid": "5c5ac885-e569-4c7a-8a55-1c3f7cda3ef9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hierzulande.de",
+        "squuid": "5c5ac827-4d91-48a0-bfa0-39ecab4ae11a"
+      },
+      "squuid": "5c5ac8ac-4948-4868-be35-1ec13782a7f8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Holterdorf, Dirk",
+        "squuid": "5be1a6b6-dd6d-4f01-a333-a48ccd4a6565"
+      },
+      "squuid": "5be1a6b8-1578-4dae-a03f-edbee9044e7c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Gehring, Fried",
+        "squuid": "5be1a6b6-15ca-41c0-81af-094c3dd9c950"
+      },
+      "squuid": "5be1a6b8-a788-4b90-be66-fdb9f65c9d62",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "E. Holterdorf Beteiligungs-GmbH",
+        "squuid": "5eb00b6f-51ba-47f3-8424-887cd762ffe0"
+      },
+      "squuid": "5eb00b99-135b-46fd-8729-ec51bb32c0a2",
+      "state": "active"
+    }
+  ]
+}

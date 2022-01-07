@@ -1,0 +1,103 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio L 12 Verwaltung GmbH",
+        "squuid": "5efcaba3-bf44-4a82-a1e9-9a8294ba7128"
+      },
+      "squuid": "5fa2b480-5503-49d0-a644-cbed9503d2c9",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "note": "Stand: 2/2018",
+  "pseudoCompany": false,
+  "street": "Königstraße",
+  "name": "Radio L 12 GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7bbf-407e-8496-2a066492e027",
+  "controlDate": "2021-05-20T13:44:56.202Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70173",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "DIE NEUE 107.7",
+        "squuid": "5be1a6b1-6d8e-43be-b7af-0aac5993d5f8"
+      },
+      "squuid": "5be1a6b9-0f40-4869-a7c3-a6fd1434d8d7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dieneue1077.de",
+        "squuid": "5efcab02-d2a1-46e3-9a84-0f9107263b74"
+      },
+      "squuid": "5efcab26-ce9b-4d96-b024-62f0280732c6",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 58.3,
+      "holder": {
+        "name": "RSL Radio Schwabenland Stuttgart GmbH & Co. KG",
+        "squuid": "5be1a6b6-55ad-4b9d-a6f2-ebeda816ca61"
+      },
+      "squuid": "5be1a6b7-a743-44e5-8db4-da8585d3d70b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "ANTENNE RADIO GmbH & Co. KG",
+        "squuid": "5be1a6b6-d66b-47be-bf76-e515dd9367d8"
+      },
+      "squuid": "5be1a6b7-d04f-4b9d-9ab6-1a765d4adfd3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.7,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5be1a6b7-19e9-4f4d-9dc2-3a4bb83ee03c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio L 12 Verwaltung GmbH",
+        "squuid": "5efcaba3-bf44-4a82-a1e9-9a8294ba7128"
+      },
+      "squuid": "5efcabc2-dfb1-40d1-b138-c8437b58e02d",
+      "state": "active"
+    }
+  ]
+}

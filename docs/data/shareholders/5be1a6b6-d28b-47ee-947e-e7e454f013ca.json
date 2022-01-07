@@ -1,0 +1,70 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Altonaer Poststr.",
+  "name": "spomedis GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d28b-47ee-947e-e7e454f013ca",
+  "controlDate": "2021-11-16T13:07:26.095Z",
+  "streetNumber": "13a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22767",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "triathlon",
+        "squuid": "5be1a6b1-f181-41a8-ab9d-e292655d3fe7"
+      },
+      "squuid": "5be1a6b9-ebfb-4b1e-92b1-cdc3044a41ef",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tri-mag.de",
+        "squuid": "5be1a6b1-89c8-423b-9da1-b98c3e43d5fc"
+      },
+      "squuid": "5be1a6b9-397a-487c-9086-1e3edf9ed364",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "swim",
+        "squuid": "5be1a6b1-2e4b-4888-8e0c-47df7f50aa9d"
+      },
+      "squuid": "5be1a6b9-92f4-4178-a8db-9837c5e06b6a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.swim.de",
+        "squuid": "5be1a6b1-675b-4c1c-b644-f23b7749dc07"
+      },
+      "squuid": "5be1a6b9-b480-4e31-98bb-7f60288c682a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wechsel, Frank",
+        "squuid": "5be1a6b6-f258-4b62-8018-94a018ad39c1"
+      },
+      "squuid": "5be1a6b8-9ed0-479c-89fd-812b93c6fcfb",
+      "state": "active"
+    }
+  ]
+}

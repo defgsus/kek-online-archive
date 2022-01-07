@@ -1,0 +1,127 @@
+{
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Basler Landstraße",
+  "name": "Baden TV Süd GmbH",
+  "naturalPerson": false,
+  "squuid": "5d41944e-f947-4ab8-9b0b-6bfa3af7cb02",
+  "controlDate": "2021-11-25T17:20:47.850Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "79111",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Baden TV Süd",
+        "squuid": "5d2c7093-ffcf-41a8-9c05-db876836b21c"
+      },
+      "squuid": "5d4194ae-f121-48a8-8ced-345542d8cc7d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.baden-tv-sued.com",
+        "squuid": "5f3d0f20-3bc0-486c-9dc1-daf636b7ffc9"
+      },
+      "squuid": "5f3d0f54-af0f-4a96-b4d7-1a4963f442c1",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Gnann, Bernd",
+        "squuid": "5d35cbc9-da4d-4cd0-84da-3ae57651fd03"
+      },
+      "squuid": "5f3d104b-ba36-4a74-8b1b-29489a90b421",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Hubschneider, Martin",
+        "squuid": "5d35cb0d-c442-4a6f-a77c-d971b6b9d6cd"
+      },
+      "squuid": "5f3d1058-5442-4379-b485-10023c6eebc1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Lucie Invest GmbH",
+        "squuid": "5d35caf0-cf2e-4ffe-b27d-226bbf2093c5"
+      },
+      "squuid": "5f3d1066-30a2-47e0-bfcf-a80ba59705ec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.25,
+      "holder": {
+        "name": "EFA Tankstellenbetriebe GmbH",
+        "squuid": "5d35cb3b-c933-49e1-ab73-23c5be9a4119"
+      },
+      "squuid": "5f3d1076-c7b5-4bf5-9c81-546eadb42803",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.25,
+      "holder": {
+        "name": "Koppelstätter Media GmbH",
+        "squuid": "5d35cb75-fc29-4b0b-a03d-0096eee6d7c1"
+      },
+      "squuid": "6010473a-ba4f-4704-a73c-c96113531be2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.25,
+      "holder": {
+        "name": "Hoepfner Bräu Friedrich Hoepfner Verwaltungsgesellschaft mbH & Co. KG",
+        "squuid": "5d35cbb0-932a-4aed-9554-ec09fb9323c2"
+      },
+      "squuid": "6010474e-1a1d-44ff-a732-97cbf8eadb3e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.25,
+      "holder": {
+        "name": "Pilarsky, Günter",
+        "squuid": "5d35cb58-900d-4240-9349-0599f2cf420d"
+      },
+      "squuid": "6010475a-d1d0-4fa8-8908-5ce01012a918",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "b.i.g. gruppe-management gmbh",
+        "squuid": "5be1a6b6-abef-4485-8b76-f482b7323c20"
+      },
+      "squuid": "6010476b-67ce-42f0-83e2-a4a2f924905f",
+      "state": "active"
+    }
+  ]
+}

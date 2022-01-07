@@ -1,0 +1,103 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Anbietergemeinschaft Elsterwelle",
+        "squuid": "5c541d1e-db85-4ea6-b7bc-2901b9d6556e"
+      },
+      "squuid": "5c779240-2f9d-4e19-ad74-e4bf4088df29",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "held": {
+        "name": "Rundfunkgesellschaft Anhalt mbh",
+        "squuid": "5d020f7a-8a26-42d1-a57c-10134bba67cf"
+      },
+      "squuid": "5f281e31-80b6-4963-aa12-3be627d00418",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hoyerswerda",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Schulstraße",
+  "name": "SGS Rundfunkgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d37e-4bc1-afed-a58e7e365862",
+  "controlDate": "2021-12-13T13:40:38.113Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    }
+  ],
+  "zipcode": "02977",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lausitzwelle (Brandenburg)",
+        "squuid": "5be1a6b1-ac33-4c1b-ae63-9ae30af102f5"
+      },
+      "squuid": "5be1a6b9-8898-4abf-9f86-87f21a1cde93",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "LAUSITZWELLE Fernsehen",
+        "squuid": "5be1a6b1-6a49-4cad-9797-7e0bacce4310"
+      },
+      "squuid": "5be1a6b9-efe4-44b5-947d-65c891f8eebc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lausitzwelle.de",
+        "squuid": "5f35397a-fe7b-4596-97f8-33de8d6c2064"
+      },
+      "squuid": "5f3539a6-bfba-437c-9c43-f1a281a72782",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schreiber, Hans-Peter",
+        "squuid": "5be1a6b6-e087-4778-b658-8a80a163668f"
+      },
+      "squuid": "5be1a6b7-38e3-4172-9548-850c35e96a39",
+      "state": "active"
+    }
+  ]
+}

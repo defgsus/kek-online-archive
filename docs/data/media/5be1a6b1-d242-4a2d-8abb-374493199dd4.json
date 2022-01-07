@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "5be1a6b1-d242-4a2d-8abb-374493199dd4",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Medienhaus Aachen GmbH",
+        "squuid": "5be1a6b6-0200-4a40-921b-ce08c00a32ac"
+      },
+      "squuid": "5be1a6b9-880b-4642-836f-fea39234e9f6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Aachener Nachrichten Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-b4d3-4fa3-8576-e891efe0d2c4"
+      },
+      "squuid": "5e1f0acd-02ff-45df-a958-39f150757ff4",
+      "state": "active"
+    }
+  ],
+  "name": "www.aachener-nachrichten.de",
+  "pressEditionsIVW": false,
+  "type": "online",
+  "controlDate": "2021-11-22T15:51:39.355Z",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "onlineComments": "siehe unter www.aachener-zeitung.de"
+}

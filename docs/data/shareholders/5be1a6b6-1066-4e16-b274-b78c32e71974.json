@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Treuchtlingen",
+  "pseudoCompany": false,
+  "street": "Haupstr. 19",
+  "name": "J. Christian Leidel GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1066-4e16-b274-b78c32e71974",
+  "controlDate": "2021-11-17T14:53:12.492Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "91757",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Treuchtlinger Kurier",
+        "squuid": "5be1a6b1-60e5-4709-92da-ee90077266c1"
+      },
+      "squuid": "5be1a6b9-61d8-4417-abf0-046eb5b1161f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nordbayerische Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-c472-41cd-929b-92ddc54a0324"
+      },
+      "squuid": "5ee38b6e-e270-468e-bf01-68e41176f722",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "05.02.1989",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-c543-429b-b9d4-70a715e9b107",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://news.sky.com/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Sky Ltd.",
+        "squuid": "5be1a6b6-008b-4591-b912-fe13db89a83c"
+      },
+      "squuid": "5be1a6b9-fef9-433c-b44a-9521eb32dddc",
+      "state": "active"
+    }
+  ],
+  "name": "Sky News",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-5d06-4b68-96e4-33a2746127f9",
+    "name": "Spartenprogramm (Nachrichten)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b083116-b4c6-4d71-965c-d9d0e6f52237",
+    "name": "Im Ausland zugelassen",
+    "type": "organization",
+    "fullName": "keine"
+  },
+  "description": "Englischsprachiges Nachrichtenprogramm (Lizenzierung durch OFCOM)",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
+      "name": "Vodafone Kabel Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "languages": [
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

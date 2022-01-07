@@ -1,0 +1,48 @@
+{
+  "name": "Sparkasse Rosenheim-Bad Aibling",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-1307-488d-968c-a05ada223880",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "held": {
+        "name": "RO 1 Radio- und Fernsehprogramm-Anbieter GmbH Rosenheim",
+        "squuid": "5be1a6b6-d7f2-43c9-884c-ce58caf60cf8"
+      },
+      "squuid": "5be1a6b7-cb46-4445-8ffa-28eb07b05d4b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 42.0,
+      "held": {
+        "name": "Radio Wendelstein GmbH Anbietergesellschaft für Rundfunk- und Fernsehprogramme",
+        "squuid": "5be1a6b6-b7a0-41a6-b75f-61141243624b"
+      },
+      "squuid": "5c77e377-0a8d-4ae1-b3e0-0709a38dedd7",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

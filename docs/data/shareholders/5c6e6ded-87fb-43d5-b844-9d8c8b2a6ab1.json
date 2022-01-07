@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Koblenz",
+  "pseudoCompany": false,
+  "street": "Andernacher Str.",
+  "name": "rheinahr.tv e.V.",
+  "naturalPerson": false,
+  "squuid": "5c6e6ded-87fb-43d5-b844-9d8c8b2a6ab1",
+  "controlDate": "2020-10-08T12:38:29.028Z",
+  "streetNumber": "80",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    }
+  ],
+  "zipcode": "56070",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "RLP TV",
+        "squuid": "5c6e66c3-c9f4-4551-be85-149e839ec8a7"
+      },
+      "squuid": "5c6e6e1a-791a-4fb2-b47c-8043daee82ff",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rheinlandpfalz-fernsehen.de",
+        "squuid": "5f3ba4f5-678c-4b93-9b5b-253984c32a5d"
+      },
+      "squuid": "5f3ba55d-3fbd-4577-a9c7-50974cf0fc69",
+      "state": "active"
+    }
+  ]
+}

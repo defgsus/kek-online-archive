@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5ee77ac3-6216-4381-86ee-9246b58e92da",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Nordseewelle GmbH & Co. KG",
+        "squuid": "5be1a6b6-6d07-4d82-8b33-00a1b932a95d"
+      },
+      "squuid": "5ee77ae2-5562-4413-8c88-a1eb40a74377",
+      "state": "active"
+    }
+  ],
+  "name": "www.radio-nordseewelle.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-20T15:53:32.771Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

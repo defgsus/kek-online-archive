@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Speersort",
+  "name": "Zeit Weltkunst Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1ef2-4f74-a8ff-d3588cdf95c8",
+  "controlDate": "2021-11-18T16:22:21.210Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20095",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Weltkunst",
+        "squuid": "5be1a6b1-13c8-4d7c-bd4c-47e631ebc33f"
+      },
+      "squuid": "5be1a6b9-65d8-4cbd-b044-abddfa81bc1f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kunst und Auktionen",
+        "squuid": "5be1a6b1-3b31-4561-adbb-adb2d76b557b"
+      },
+      "squuid": "5be1a6b9-b29d-452e-a97a-68ce56deb785",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.weltkunst.de",
+        "squuid": "5be1a6b1-6342-4d26-b652-73f0d5966344"
+      },
+      "squuid": "5be1a6b9-e09c-4b24-92eb-306df9331ce9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zeitverlag Gerd Bucerius GmbH & Co KG",
+        "squuid": "5be1a6b6-dd6a-41c7-81ed-4225dceddcfb"
+      },
+      "squuid": "5be1a6b8-9687-48f9-a357-fe9d2a3e8aa2",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Time Warner Holdings Ltd.",
+        "squuid": "5be1a6b6-0963-48c7-a32b-6b57a1b02818"
+      },
+      "squuid": "5be1a6b7-95ca-4ba9-8df9-1c1f99b76f6e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Time Warner UK Holdings, Inc.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3a6e-45f5-936e-4d3d5fead399",
+  "controlDate": "2021-12-01T13:15:13.169Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.07.2017, Az.: KEK 924, und Bescheid der BLM vom 19.07.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 71.2,
+      "holder": {
+        "name": "Warner Communications LLC",
+        "squuid": "5be1a6b6-1318-4282-ac27-12284431ce4e"
+      },
+      "squuid": "5be1a6b8-2433-42e9-ad4c-dd79ebb2d0db",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 28.8,
+      "holder": {
+        "name": "Warner Bros. Entertainment, Inc.",
+        "squuid": "5be1a6b6-7e0d-45d8-a072-cd1e1be833a9"
+      },
+      "squuid": "5be1a6b8-95be-451b-9ce8-bf429a26822c",
+      "state": "active"
+    }
+  ]
+}

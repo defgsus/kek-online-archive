@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "squuid": "5d304d49-c2a7-4f17-af40-de3511552206",
+  "marketReach": 0.1086407223219486,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ostruhr-Anzeigenblattgesellschaft mbH & Co KG",
+        "squuid": "5d3059a7-432e-4288-a284-a7386acf3c95"
+      },
+      "squuid": "5d305a59-417d-4f8b-a5d0-41daf5814457",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke NRW Wochenblatt GmbH",
+        "squuid": "5d30489b-dd64-4853-88b2-3bcdc5902f06"
+      },
+      "squuid": "5d305a65-b360-46b6-9905-24a85439c36c",
+      "state": "active"
+    }
+  ],
+  "name": "www.lokalkompass.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-13T14:39:32.728Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

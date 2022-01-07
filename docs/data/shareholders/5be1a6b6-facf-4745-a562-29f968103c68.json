@@ -1,0 +1,31 @@
+{
+  "name": "Familie Ruckstuhl",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-facf-4745-a562-29f968103c68",
+  "owns": [
+    {
+      "type": "own",
+      "held": {
+        "name": "Bodan AG, Druckerei und Verlag",
+        "squuid": "5be1a6b6-0228-47f3-b6e0-2f9b5ef6ac41"
+      },
+      "squuid": "5be1a6b7-8589-4d6e-a217-0721b24e95eb",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

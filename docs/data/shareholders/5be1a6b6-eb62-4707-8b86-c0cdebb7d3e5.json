@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Emmericherstraße 10",
+  "name": "VN Verlagsmarketing Nürnberg GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-eb62-4707-8b86-c0cdebb7d3e5",
+  "controlDate": "2021-11-08T16:22:32.035Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "90441",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "plärrer - Das Stadtmagazin",
+        "squuid": "5be1a6b1-3cf6-4fed-b816-e9c2ac46ab14"
+      },
+      "squuid": "5be1a6b9-b6ff-4e17-83ca-4cf4b0ca8a30",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.plaerrer.de",
+        "squuid": "5be1a6b1-438f-4cf4-9388-1e4e82aacb81"
+      },
+      "squuid": "5be1a6b9-6347-4582-93e9-7a10c499e743",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hofmann Druck Nürnberg GmbH & Co KG",
+        "squuid": "5be1a6b6-fc42-4a4e-9752-e3eabd51c5a4"
+      },
+      "squuid": "5be1a6b8-e65e-4c56-b3b0-6969330f249d",
+      "state": "active"
+    }
+  ]
+}

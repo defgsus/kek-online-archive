@@ -1,0 +1,191 @@
+{
+  "state": "active",
+  "city": "Frankfurt am Main",
+  "pseudoCompany": true,
+  "street": "Bertramstraße",
+  "name": "Hessischer Rundfunk (hr)",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-702f-43a4-8d85-f61441c4dac6",
+  "controlDate": "2020-06-30T13:56:49.566Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60320",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "hr-fernsehen",
+        "squuid": "5be1a6b1-b061-4f0e-a31d-ce74730997b7"
+      },
+      "squuid": "5be1a6b9-da32-4bde-ba6a-2417d46027be",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "hr1",
+        "squuid": "5be1a6b1-d1d9-4b42-9c16-6e78dc35d151"
+      },
+      "squuid": "5be1a6b9-d47e-4e3f-9e94-6083a2b810b8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "hr2-kultur",
+        "squuid": "5be1a6b1-ec5e-43c2-8f31-5e06f51517a3"
+      },
+      "squuid": "5be1a6b9-e19b-49c8-a114-bdb418fa4054",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "hr3",
+        "squuid": "5be1a6b1-2139-434d-a745-f372963e6912"
+      },
+      "squuid": "5be1a6b9-3ddc-4b88-8853-3f1174425b24",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "hr4",
+        "squuid": "5be1a6b1-f71f-42e7-b82e-9d43450bac75"
+      },
+      "squuid": "5be1a6b9-92b0-4819-93ea-448961f78d3b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "hr-iNFO",
+        "squuid": "5be1a6b1-ccd2-4d11-beac-9266859e9ffa"
+      },
+      "squuid": "5be1a6b9-acc9-4a66-b6f3-569c35a55a00",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "YOU FM",
+        "squuid": "5be1a6b1-03dc-4953-881e-b9d5681cd882"
+      },
+      "squuid": "5be1a6b9-fb2a-4309-94a8-50b7b9b86330",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hessenschau.de",
+        "squuid": "5be1a6b1-a106-4db9-91c6-8c223fb594cc"
+      },
+      "squuid": "5be1a6b9-e0f1-41b5-a328-21ee30fa0fb0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hr.de",
+        "squuid": "5c6c2c9a-2d0d-439e-870d-5758365e662d"
+      },
+      "squuid": "5c6c2cb0-906c-428b-919e-b361715030c3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hr-online.de",
+        "squuid": "5d319908-4b47-44a0-b74d-44c4d9394156"
+      },
+      "squuid": "5d31991f-77de-4534-9330-7420367de0ba",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hr-fernsehen.de",
+        "squuid": "5f7c5b41-5563-48b2-897d-c958dfd43cdc"
+      },
+      "squuid": "5f7c5b69-26a3-4160-b2a5-bdd83b664298",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hr-inforadio.de",
+        "squuid": "5f914d6c-9060-4313-b576-3afebf60722e"
+      },
+      "squuid": "5f914db9-e599-483e-89db-f43decb46c02",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hr1.de",
+        "squuid": "5f914e14-674f-48dc-8457-0c502ca211a7"
+      },
+      "squuid": "5f914e8e-5166-4017-b381-425f6cae4146",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hr2.de",
+        "squuid": "5f914e21-1cef-40ca-b6c0-9286106d8502"
+      },
+      "squuid": "5f914ed6-a4e8-4f84-a2e5-bc4fde285799",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hr3.de",
+        "squuid": "5f914e4c-a7c2-43b2-82a8-aa014b666a4a"
+      },
+      "squuid": "5f914f1c-dc37-492c-8b2f-073a83492442",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hr4.de",
+        "squuid": "5f914e58-1c84-46f8-8754-9782848e48bd"
+      },
+      "squuid": "5f914f67-d8a4-478a-8173-2ad3c0c79523",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.you-fm.de",
+        "squuid": "5f96ecbb-8ab5-4a49-a9c3-069ed561a2cb"
+      },
+      "squuid": "5f96ed15-b1ee-4bf1-a9e4-a845a842d554",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)",
+        "squuid": "5be1a6b6-c5dc-4a3d-ad7b-deaabd587214"
+      },
+      "squuid": "5be1a6b7-ca61-45ae-b57f-d62d490b251b",
+      "state": "active"
+    }
+  ]
+}

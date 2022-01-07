@@ -1,0 +1,82 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Bergedorfer Buchdruckerei von Ed. Wagner GmbH",
+        "squuid": "5be1a6b6-e4ec-4619-99c0-c64e390c2d9a"
+      },
+      "squuid": "5be1a6b8-e5ff-4bad-8152-d50e14a80aa5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Funke Medien Berlin GmbH",
+        "squuid": "5be1a6b6-eb02-4cfa-9a0d-4686605539d2"
+      },
+      "squuid": "5be1a6b8-5802-4498-bb16-a054990c56be",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Großer Burstah 18",
+  "name": "Funke Medien Hamburg GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f3ae-464c-aceb-c2c79f90ca3b",
+  "controlDate": "2021-10-22T12:13:33.690Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20457",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hamburger Abendblatt",
+        "squuid": "5be1a6b1-8838-47a2-981f-0eaf57d1f4b4"
+      },
+      "squuid": "5be1a6b9-7b2c-4bba-a9ca-5a33d5a927b3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.abendblatt.de",
+        "squuid": "5be1a6b1-4ad7-42e4-bdd9-f04e95f392c9"
+      },
+      "squuid": "5be1a6b9-5b3b-422d-a262-872dbc00c63c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hamburg mit Kindern",
+        "squuid": "5c6aaa38-49aa-40e4-b7bc-b147fb155915"
+      },
+      "squuid": "5c6aaa7b-9428-4396-96fb-f42ba440989f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Mediengruppe GmbH & Co. KGaA",
+        "squuid": "5be1a6b6-6d6f-4b05-b3c4-8202f7c67653"
+      },
+      "squuid": "5be1a6b8-0c58-4ba4-94ff-b752dce128ea",
+      "state": "active"
+    }
+  ]
+}

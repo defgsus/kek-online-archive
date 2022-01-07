@@ -1,0 +1,112 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Betriebsgesellschaft Radio 95.0 GmbH",
+        "squuid": "5f199529-7c2f-4c9b-97ad-fc8a91825166"
+      },
+      "squuid": "5f1fe8ef-1cfb-4b19-87b3-22628f78f63d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Spitalerstraße",
+  "name": "Radio 95.0 GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d6da-4887-812d-d70ca5478073",
+  "controlDate": "2021-12-08T16:33:53.626Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "20095",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hamburg 2",
+        "squuid": "5be1a6b1-c8ed-4de1-a42f-6175e8724e73"
+      },
+      "squuid": "5be1a6b9-2536-43cd-a40e-2a70fd1525c0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hamburg-zwei.de",
+        "squuid": "5efdb871-4f66-4ac5-ac29-e75b69f64427"
+      },
+      "squuid": "5f19946e-0e07-4cbd-ad2a-1668bfaa910d",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Frank Otto Medienbeteiligungsgesellschaft mbH & Co. KG (FOM)",
+        "squuid": "5be1a6b6-ca51-4678-bab9-f3c88c906e5e"
+      },
+      "squuid": "5be1a6b7-5ebc-47c5-9c04-232d5cb866ed",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.4,
+      "holder": {
+        "name": "Radio Hamburg GmbH & Co. KG",
+        "squuid": "5be1a6b6-afbf-4f56-89af-d512d75aaf49"
+      },
+      "squuid": "5be1a6b7-52f2-4a3e-a251-9f493e66ddc8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.3,
+      "holder": {
+        "name": "REGIOCAST GmbH & Co. KG",
+        "squuid": "5be1a6b6-44d3-4fcc-8739-a1cd06ab21d3"
+      },
+      "squuid": "5be1a6b7-a531-4127-86ac-ecd1d4a24b05",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.3,
+      "holder": {
+        "name": "Funk & Fernsehen Nordwestdeutschland GmbH & Co. KG",
+        "squuid": "5be1a6b6-6d31-40f9-81d9-39e930c9b6cb"
+      },
+      "squuid": "5be1a6b7-b8ab-4256-a358-f50480ac7b3d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Betriebsgesellschaft Radio 95.0 GmbH",
+        "squuid": "5f199529-7c2f-4c9b-97ad-fc8a91825166"
+      },
+      "squuid": "5f19955e-7f82-446f-905f-1629d4a68017",
+      "state": "active"
+    }
+  ]
+}

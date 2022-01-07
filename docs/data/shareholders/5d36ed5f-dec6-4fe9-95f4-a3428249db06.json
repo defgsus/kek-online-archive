@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": true,
+  "street": "Wilhelmstraße",
+  "name": "Bundesministerium für Arbeit und Soziales (BMAS)/Öffentlichkeitsarbeit und Internet",
+  "naturalPerson": false,
+  "squuid": "5d36ed5f-dec6-4fe9-95f4-a3428249db06",
+  "controlDate": "2020-06-22T11:15:18.293Z",
+  "streetNumber": "49",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bmas.de",
+        "squuid": "5d36ee2b-825b-46b4-bd4b-c852b7719957"
+      },
+      "squuid": "5d36ee52-5deb-4570-86df-5177143c27c4",
+      "state": "active"
+    }
+  ]
+}

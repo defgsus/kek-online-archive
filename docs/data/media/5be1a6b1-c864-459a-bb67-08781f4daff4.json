@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "5be1a6b1-c864-459a-bb67-08781f4daff4",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Zeitungsverlag Rubens GmbH & Co. KG",
+        "squuid": "5be1a6b6-cf69-4ed0-a3d0-55dbe01f0150"
+      },
+      "squuid": "5be1a6b9-1f81-4a1a-acfe-1c28e5bf25a5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RNW Redaktionsnetz Westfalen GmbH & Co. KG",
+        "squuid": "5c6bcc8b-fe82-430e-93aa-a6ddb17c50e9"
+      },
+      "squuid": "60eef7fe-dce1-4069-ba0b-c4622ab9f81e",
+      "state": "active"
+    }
+  ],
+  "name": "www.hellwegeranzeiger.de",
+  "pressEditionsIVW": false,
+  "type": "online",
+  "controlDate": "2021-10-25T11:16:14.701Z",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

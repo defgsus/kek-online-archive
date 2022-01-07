@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "Lüneburg",
+  "pseudoCompany": false,
+  "street": "Bei der Abtspferdetränke",
+  "name": "Revue Verlag GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a8d7-4de2-8c4b-0faeb870eb55",
+  "controlDate": "2021-10-15T13:29:57.569Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "21335",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Freizeit extra",
+        "squuid": "5be1a6b1-08cd-4ab0-8a02-868bae0f360a"
+      },
+      "squuid": "5be1a6b9-ce4d-4e79-9829-ff19ad1030df",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Woche exklusiv",
+        "squuid": "5be1a6b1-25ba-4b78-9902-bbcb7d0d4e40"
+      },
+      "squuid": "5be1a6b9-890a-4dfc-a67a-7017f333d958",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Welt von heute",
+        "squuid": "5be1a6b1-1ebe-47df-b605-f8bd59c6d0be"
+      },
+      "squuid": "5be1a6b9-5e3c-42a4-95c2-6438e8e7db7b",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Ahlers, Andreas",
+        "squuid": "5be1a6b6-bd22-4271-baf0-7e6abe8cf9dc"
+      },
+      "squuid": "5be1a6b8-ae83-4743-9cb3-281c61b49cce",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Carstensen, Ulf",
+        "squuid": "5be1a6b6-92af-4560-8daf-769583353070"
+      },
+      "squuid": "5be1a6b8-1af7-476e-8e8e-e760822137de",
+      "state": "active"
+    }
+  ]
+}

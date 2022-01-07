@@ -1,0 +1,91 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 49.9,
+      "held": {
+        "name": "Skyline Medien GmbH",
+        "squuid": "5be1a6b6-4166-4519-b086-b122177e484a"
+      },
+      "squuid": "5be1a6b7-a8c9-4e49-abdd-2bf6846d0d00",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "RTL Radio Berlin GmbH",
+        "squuid": "5be1a6b6-c6d7-4aae-adfb-8f30e91a68c5"
+      },
+      "squuid": "5be1a6b7-1d0e-4aea-82d7-757c1966ca18",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Neue Spreeradio Hörfunkgesellschaft mbH",
+        "squuid": "5be1a6b6-fa5d-4d2e-9deb-6804a914c4ca"
+      },
+      "squuid": "5be1a6b7-cf68-48ed-8178-1838a79083ef",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "note": "Stand: 11/2021",
+  "pseudoCompany": false,
+  "street": "Kurfürstendamm",
+  "name": "RTL Audio Center Berlin GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6ea6-42b5-9674-9d85c813ccc9",
+  "controlDate": "2021-11-19T15:49:00.339Z",
+  "streetNumber": "207-208",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10719",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.spreeradio.de",
+        "squuid": "5f354cd4-bd61-41e8-95d4-83898f231afe"
+      },
+      "squuid": "5f354da6-88cd-43a9-a98e-84018c048751",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.104.6rtl.com",
+        "squuid": "5f354e38-1b84-4823-a165-d4d28bf83237"
+      },
+      "squuid": "5f354e6a-e368-4006-981f-39ff9ad8a17d",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RTL Radio Deutschland GmbH",
+        "squuid": "5be1a6b6-fa80-4709-a830-dea042b7476d"
+      },
+      "squuid": "5be1a6b7-9ff6-4c9e-9a53-9537e94c68bd",
+      "state": "active"
+    }
+  ]
+}

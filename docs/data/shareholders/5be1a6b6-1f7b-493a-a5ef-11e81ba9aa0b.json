@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Mercedesstraße 109",
+  "name": "Verein für Bewegungsspiele Stuttgart 1893 e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1f7b-493a-a5ef-11e81ba9aa0b",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70372",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "VfB TV",
+        "squuid": "5be1a6b1-746e-42fa-8cdb-64d74b078f84"
+      },
+      "squuid": "5be1a6b9-c3e2-46a1-acbd-90f74b00da85",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.vfb.de/tv/",
+        "squuid": "5f80529e-bd84-41df-a7f3-3c587f47ecf9"
+      },
+      "squuid": "5f80534b-3895-4a3a-9681-1c93b9bc06ee",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "rund 48.000 Vereinsmitglieder (2016)",
+        "squuid": "5be1a6b6-3a34-4a01-bdc7-3f1adac0a5eb"
+      },
+      "squuid": "5be1a6b8-30b4-4154-99ea-60832769999f",
+      "state": "active"
+    }
+  ]
+}

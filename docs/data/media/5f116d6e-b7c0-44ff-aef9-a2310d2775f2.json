@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f116d6e-b7c0-44ff-aef9-a2310d2775f2",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "EWTN-TV gGmbH",
+        "squuid": "5be1a6b6-5469-412b-837a-8a25f20acbb3"
+      },
+      "squuid": "5f116da6-6489-4c89-90c5-510351633890",
+      "state": "active"
+    }
+  ],
+  "name": "www.ewtn.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-06T13:35:52.823Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

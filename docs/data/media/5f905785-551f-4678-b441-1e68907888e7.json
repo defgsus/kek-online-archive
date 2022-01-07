@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "squuid": "5f905785-551f-4678-b441-1e68907888e7",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "HITRADIO RT1 Augsburg GmbH",
+        "squuid": "5be1a6b6-bebd-48b2-aa4d-f5997b1217f9"
+      },
+      "squuid": "5f9057cd-0990-4cb5-b54b-2d675701b9da",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "HITRADIO RT1 Nordschwaben OHG",
+        "squuid": "5be1a6b6-3aee-49bd-b315-e946bc324a67"
+      },
+      "squuid": "5f9057da-834d-4d31-9b02-06dfe334daec",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "HITRADIO RT1 Südschwaben GmbH",
+        "squuid": "5be1a6b6-7179-4d1e-a276-e0773c9d9084"
+      },
+      "squuid": "5f9057e5-a9de-45f5-8890-d7be6b61083d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "rt1.digital broadcast GmbH",
+        "squuid": "5be1a6b6-6486-4a28-9d02-2b02f103cc2f"
+      },
+      "squuid": "61d4276b-8a0f-4702-9324-9dee091a5249",
+      "state": "active"
+    }
+  ],
+  "name": "www.imsueden.de/hitradio-rt1",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-04T10:47:46.420Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

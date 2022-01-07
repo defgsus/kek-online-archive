@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f8034fc-c733-4f8c-befa-c996c24237aa",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "TV Oberfranken GmbH & Co. KG",
+        "squuid": "5be1a6b6-24fd-46f1-a071-75daf7870e61"
+      },
+      "squuid": "5f80353a-b58e-4da4-86fc-2a6375c9d26a",
+      "state": "active"
+    }
+  ],
+  "name": "www.tvo.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-07T10:51:00.094Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

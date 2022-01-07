@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Bremen",
+  "pseudoCompany": false,
+  "street": "Altenwall 9",
+  "name": "Bremer Blatt Verlags-GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6f95-43c4-8c2e-d4fa8395ba22",
+  "controlDate": "2021-12-01T13:35:05.224Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "28195",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bremer",
+        "squuid": "5be1a6b1-dd3c-4f92-86aa-d847c01a43d3"
+      },
+      "squuid": "5be1a6b9-3573-4f15-8f84-f03ec416fc80",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bremer.de",
+        "squuid": "5cdac33a-66e8-4622-ba73-c2fc275cb61a"
+      },
+      "squuid": "5cdac35d-0b9c-40b0-9ac2-bd289da7bcaa",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bienkowski, Lothar",
+        "squuid": "5be1a6b6-c854-40d8-882c-4d1fbb378ffb"
+      },
+      "squuid": "5be1a6b8-bcfa-49f6-ad55-1da27acb8ca5",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Schanzenstr.",
+  "name": "Redaktionsbüro Wipperfürth GmbH",
+  "naturalPerson": false,
+  "squuid": "60004d97-f089-429f-80f6-f1a4fe885232",
+  "controlDate": "2021-01-14T14:01:48.941Z",
+  "streetNumber": "36",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "51063",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bravo",
+        "squuid": "5be1a6b1-839f-4b1c-ac79-8a773803b28a"
+      },
+      "squuid": "60004dee-b01d-428e-99fe-be8160ad2167",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bravo Girl",
+        "squuid": "5be1a6b1-3eea-4886-a3fa-28b9b72632a8"
+      },
+      "squuid": "60004e46-8be6-489e-86a5-e4e6f03c14ad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bravo Sport",
+        "squuid": "5be1a6b1-042a-4a9d-acf8-b91af5a2be71"
+      },
+      "squuid": "60004ea3-cbf1-42e7-9be7-04e396959f27",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Myfw Medienholding GmbH",
+        "squuid": "5be1a6b6-25f5-4554-9412-c9bf3116b2f3"
+      },
+      "squuid": "60004f16-9ce7-41fa-882b-c2bb18fcfc26",
+      "state": "active"
+    }
+  ]
+}

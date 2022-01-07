@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Hammerbrookstr.",
+  "name": "concerti Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d1a6-4371-a917-0b4c45a0a582",
+  "controlDate": "2021-12-02T12:24:15.193Z",
+  "streetNumber": "93",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20097",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "concerti - Das Konzert- und Opernmagazin",
+        "squuid": "5be1a6b1-fdee-4522-8a6e-956bec86d5d1"
+      },
+      "squuid": "5be1a6b9-5a1a-4cf9-a833-8d5a9c3c5704",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.concerti.de",
+        "squuid": "5be1a6b1-20a7-4d20-98ae-d339b7e57a77"
+      },
+      "squuid": "5be1a6b9-3c64-40dc-9638-c0b94ce7e591",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 67.5,
+      "holder": {
+        "name": "concerti GmbH",
+        "squuid": "5be1a6b6-18f5-4129-b577-a7b106a4ffe0"
+      },
+      "squuid": "5be1a6b8-3696-4432-b641-abdc9feeb621",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.5,
+      "holder": {
+        "name": "Burgenmeister, Gregor",
+        "squuid": "5be1a6b6-766a-41f3-81a7-d89a5b261257"
+      },
+      "squuid": "5be1a6b8-e609-4343-96b7-a23de093a0d8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Trautmann, Dr. Clemens",
+        "squuid": "5be1a6b6-ce56-42a1-a353-2cc9acc88af2"
+      },
+      "squuid": "5be1a6b8-3ef8-43f8-928d-f9c87e78fc09",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "KEC Kölner Eishockey-Gesellschaft \"Die Haie\" mbH",
+        "squuid": "5d372fd4-f6ca-4a3d-b588-8ddf2084320e"
+      },
+      "squuid": "5d3730e3-5300-4f87-96d2-f1bdc4edf5f3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "KEC Verwaltungs GmbH",
+        "squuid": "5f06eb94-7892-460e-921e-b0e47cb3e95f"
+      },
+      "squuid": "5f06ec32-67e6-4fa2-87ea-2a0e9f7cf030",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Gummersbacher Straße ",
+  "name": "KEC Vertriebs GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d3730b6-3a8d-48e8-bdaf-1988a731a3cd",
+  "controlDate": "2021-03-11T17:21:39.372Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50679",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 96.1,
+      "holder": {
+        "name": "Gotthardt, Frank",
+        "squuid": "5be1a6b6-6c3a-4c2b-87b8-dadd135a3cc0"
+      },
+      "squuid": "5d385750-100c-4dd6-9d5d-526df311f22a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Pape, Ralf",
+        "squuid": "5d3854e3-41b5-4048-8527-742b0c49bfab"
+      },
+      "squuid": "5d385763-6572-4497-b63b-9488df06e3c9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.4,
+      "holder": {
+        "name": "Heinen, Volker",
+        "squuid": "5d3854d8-5392-45c6-88cd-3bbfdf72e63f"
+      },
+      "squuid": "5d38577f-9212-40ae-aff5-9b2f2427b332",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "holder": {
+        "name": "Eibich, Uwe",
+        "squuid": "5d3854b4-973e-4a45-898e-86447b6a5d92"
+      },
+      "squuid": "5d385796-c781-48e1-9823-b0ac9c3655b3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "KEC Verwaltungs GmbH",
+        "squuid": "5f06eb94-7892-460e-921e-b0e47cb3e95f"
+      },
+      "squuid": "5f06ebb9-4b17-453a-9fbe-9a2020009ab3",
+      "state": "active"
+    }
+  ]
+}

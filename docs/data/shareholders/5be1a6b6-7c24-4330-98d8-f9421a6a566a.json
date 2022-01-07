@@ -1,0 +1,105 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Karlstr. 23",
+  "name": "Condé Nast Germany GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7c24-4330-98d8-f9421a6a566a",
+  "controlDate": "2021-10-21T12:56:10.035Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80333",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Vogue",
+        "squuid": "5be1a6b1-931c-438e-98df-0e0273b9870f"
+      },
+      "squuid": "5be1a6b9-e785-458c-82a1-c39290462641",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "AD Architectural Digest",
+        "squuid": "5be1a6b1-dcea-4426-b674-85a95ef3ecb9"
+      },
+      "squuid": "5be1a6b9-b0a0-4f9f-a07a-53ccff608507",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "GQ",
+        "squuid": "5be1a6b1-6d42-43ec-9197-e27483533d1b"
+      },
+      "squuid": "5be1a6b9-669c-459e-bfda-d668b5672a46",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Glamour",
+        "squuid": "5be1a6b1-a20a-4300-aba9-2896fee3d235"
+      },
+      "squuid": "5be1a6b9-b0c7-4bb6-a057-e79bf13a987f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.glamour.de",
+        "squuid": "5be1a6b1-c948-4e69-8388-4c23096a141e"
+      },
+      "squuid": "5be1a6b9-1f03-42c6-aa03-1bc8fb5fb87e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.vogue.de",
+        "squuid": "5be1a6b1-c2e9-4843-87be-1a8ab1312290"
+      },
+      "squuid": "5be1a6b9-d9eb-4cbd-a53b-ff320960ef77",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gq-magazin.de",
+        "squuid": "5be1a6b1-6efc-449a-b261-658140664275"
+      },
+      "squuid": "5be1a6b9-229b-44c9-823f-f72e04056cb6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ad-magazin.de",
+        "squuid": "5be1a6b1-e4bd-4efd-8207-6e72fc899fe7"
+      },
+      "squuid": "5be1a6b9-7cbe-47d3-a91f-9d00b75e916b",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Condé Nast International Ltd.",
+        "squuid": "5be1a6b6-d18c-4a64-8e27-a91b0a943c0d"
+      },
+      "squuid": "5be1a6b8-12fe-439b-80ea-a9028a4e82c4",
+      "state": "active"
+    }
+  ]
+}

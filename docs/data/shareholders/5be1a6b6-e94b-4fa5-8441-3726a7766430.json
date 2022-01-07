@@ -1,0 +1,49 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Essen mbH & Co. KG",
+        "squuid": "5be1a6b6-86d0-4d01-be90-868b00db343f"
+      },
+      "squuid": "5be1a6b7-dfe4-465d-a79c-d84eb67b6ace",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "III. Hagen",
+  "name": "s-Beteiligungsgesellschaft Essen mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e94b-4fa5-8441-3726a7766430",
+  "controlDate": "2021-12-22T11:38:34.810Z",
+  "streetNumber": "43",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "45127",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Sparkasse Essen",
+        "squuid": "5be1a6b6-85c2-4524-b11f-a3a61a0e17f2"
+      },
+      "squuid": "5be1a6b8-6264-45cf-9a79-99ea778a1e57",
+      "state": "active"
+    }
+  ]
+}

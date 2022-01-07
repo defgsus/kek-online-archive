@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "TV M-V GmbH & Co. KG",
+        "squuid": "5f202b5d-38e8-43c0-a676-39930dfa253d"
+      },
+      "squuid": "5f202ead-d8f7-455a-8de4-727cf4fdbfe8",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Schwerin",
+  "pseudoCompany": false,
+  "street": "Marienplatz",
+  "name": "TV M-V Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f202e63-8ed8-4c61-b57b-a1a1c7a46aa9",
+  "controlDate": "2022-01-06T17:02:13.400Z",
+  "streetNumber": "1-2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "19053",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Medienbeteiligungsgesellschaft Schwerin mbH",
+        "squuid": "5f202f31-56d6-4703-9fa5-1d0ab3cbc938"
+      },
+      "squuid": "5f202fb8-8c05-41d5-9daa-f356609dfb56",
+      "state": "active"
+    }
+  ]
+}

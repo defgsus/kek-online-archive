@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Senftenberg",
+  "pseudoCompany": false,
+  "street": "Bahnhofstraße",
+  "name": "SEENLAND kreativ GmbH",
+  "naturalPerson": false,
+  "squuid": "5e3a90ac-f541-4a4c-beee-e6091c76bd8d",
+  "streetNumber": "49",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "01968",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "seenluft24",
+        "squuid": "5e3a90d6-11d5-4783-b370-9e98a11229e9"
+      },
+      "squuid": "5e3a943f-06bd-4cda-9443-930177f9ead0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Hanschick, Martin",
+        "squuid": "5e3a9008-8f10-42ce-816f-906729cfab1d"
+      },
+      "squuid": "5e3a950a-f95d-44fd-b0d0-db3f5b414f36",
+      "state": "active",
+      "votingShares": -1.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Przybilski, Jan",
+        "squuid": "5e3a905d-5552-41af-9e37-c4fcadfaa6c8"
+      },
+      "squuid": "5e3a952b-a8d6-45f0-80cb-b9c498ed9d44",
+      "state": "active"
+    }
+  ]
+}

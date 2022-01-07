@@ -1,0 +1,104 @@
+{
+  "rfRepresentative": "Klaus C. Plönzke, Markus Detering",
+  "state": "active",
+  "sharesInfo": "KEK 1083",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Juri Bücker",
+  "rfStartDate": "Mai 2008",
+  "rfFreePay": false,
+  "squuid": "5be1a6b1-5ff2-4427-aaa1-6cce8e87f3fa",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.clipmyhorse.tv/de_DE/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "ClipMyHorse.TV Operations GmbH",
+        "squuid": "5be1a6b6-d27a-4de0-8da4-3db8933b791b"
+      },
+      "squuid": "5be1a6b9-8adf-4801-9bb3-6ca673e460d4",
+      "state": "active"
+    }
+  ],
+  "name": "ClipMyHorse.TV",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+    "name": "LPR Hessen",
+    "type": "organization",
+    "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "description": "Spartenprogramm mit Themen rund um den Pferdesport, wie z. B. Dressur- und Springreiten, Pferdezucht oder das tägliche Training",
+  "rfLicenseUntil": "20.12.2030",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "18.12.2020",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
+        "name": "Programmplattform",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-4a91-45e5-b9ed-2abbf093d6de",
+      "name": "HD Plus GmbH / HD+",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "21.12.2020",
+  "accessibilityEmail": "info@clipmyhorse.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": true,
+  "street": "Platz der Republik",
+  "name": "Deutscher Bundestag/Referat Online-Dienste, Parlamentsfernsehen ",
+  "naturalPerson": false,
+  "squuid": "5d35d2c1-9c4c-47a7-b1a7-ebf9c68da3f1",
+  "controlDate": "2020-06-22T12:17:25.041Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "11011",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bundestag.de",
+        "squuid": "5d35d28f-8c31-4f82-9648-bab33bbf578d"
+      },
+      "squuid": "5d35d2e0-e26f-470b-8e9c-c079a1ebf34d",
+      "state": "active"
+    }
+  ]
+}

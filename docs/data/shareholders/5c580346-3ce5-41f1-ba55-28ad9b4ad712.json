@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Fanny-Zobel-Straße ",
+  "name": "Neun Zeichen GmbH",
+  "naturalPerson": false,
+  "squuid": "5c580346-3ce5-41f1-ba55-28ad9b4ad712",
+  "controlDate": "2021-11-23T10:14:19.667Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "12435",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.airliners.de",
+        "squuid": "5c580338-ff70-44f9-bad6-20bab30991f1"
+      },
+      "squuid": "5c5803e4-13df-4aa8-a790-ac1201a41918",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Haße, David",
+        "squuid": "5c580366-cca2-413b-ba30-d986027c0850"
+      },
+      "squuid": "5c580425-cf05-48b6-83e8-93e5174054e4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Fialski, Alexander",
+        "squuid": "5c580375-e4e6-4f00-bcfa-98c0bdc7e0ac"
+      },
+      "squuid": "5c580437-396d-4553-8af0-c733139a76f4",
+      "state": "active"
+    }
+  ]
+}

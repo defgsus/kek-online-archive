@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Ostseebad Kühlungsborn",
+  "pseudoCompany": false,
+  "street": "Cubanze Straße",
+  "name": "ELVG Europäische Lokalradio Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e971-4398-a8d2-40c4a9869316",
+  "streetNumber": "19 b",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "18225",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio 103.3 - Ihr Lokalradio",
+        "squuid": "5be1a6b1-398e-4bee-99aa-48c7f3a2d672"
+      },
+      "squuid": "5be1a6b9-70af-4f76-8245-d4d34fc72c8d",
+      "state": "active"
+    }
+  ],
+  "credits": "Schreiben der MMV vom 18.10.2010",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hoffmann, Marcus",
+        "squuid": "5be1a6b6-ccf2-4151-955f-9f78609bfe43"
+      },
+      "squuid": "5be1a6b7-763e-4083-b1a3-7698fa36de96",
+      "state": "active"
+    }
+  ]
+}

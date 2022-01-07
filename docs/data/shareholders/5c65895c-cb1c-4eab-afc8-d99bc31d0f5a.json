@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Arnulfstraße",
+  "name": "Verlag Bayerische Staatszeitung GmbH ",
+  "naturalPerson": false,
+  "squuid": "5c65895c-cb1c-4eab-afc8-d99bc31d0f5a",
+  "controlDate": "2021-11-26T14:47:41.170Z",
+  "streetNumber": "122",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80636",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "BSZ Bayerische Staatszeitung",
+        "squuid": "5c658922-1446-4074-beff-6bc9d66fb120"
+      },
+      "squuid": "5c658a18-7d01-4824-9f12-5cbc9dcb92f2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bayerische-staatszeitung.de",
+        "squuid": "5c65893f-ee2f-47d1-99a4-1d33ffd278ef"
+      },
+      "squuid": "5c658a3b-4907-45a5-a380-7ba50cd976f6",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Süddeutscher Verlag GmbH",
+        "squuid": "5be1a6b6-e8a9-4e8f-b96c-e04e65dc55ed"
+      },
+      "squuid": "5c658ac6-ed85-4e46-b61a-2848166b7c93",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Münchener Zeitungs-Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1"
+      },
+      "squuid": "5c658adb-2d88-4b3b-9ef5-ed431ac6a7c1",
+      "state": "active"
+    }
+  ]
+}

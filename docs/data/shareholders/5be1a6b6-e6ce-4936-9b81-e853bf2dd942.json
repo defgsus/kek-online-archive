@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Kronach",
+  "pseudoCompany": false,
+  "street": "Rosenau",
+  "name": "FRC Radio Coburg GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e6ce-4936-9b81-e853bf2dd942",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "96317",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mediengruppe Oberfranken GmbH & Co. KG",
+        "squuid": "5be1a6b6-77ea-4cc0-b206-105ee3aec7f8"
+      },
+      "squuid": "5be1a6b7-6fb3-4c72-9869-5a18ed7055b9",
+      "state": "active"
+    }
+  ]
+}

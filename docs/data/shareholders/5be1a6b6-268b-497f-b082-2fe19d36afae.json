@@ -1,0 +1,96 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Saarstr. 5",
+  "name": "Piranha Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-268b-497f-b082-2fe19d36afae",
+  "controlDate": "2021-09-24T13:27:46.661Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80797",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "riddim",
+        "squuid": "5be1a6b1-5b13-41ec-8c7f-1f84ac80f841"
+      },
+      "squuid": "5be1a6b9-50a2-453c-9731-e789f8ee8d20",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.groove.de",
+        "squuid": "5be1a6b1-13e4-4d14-b3fd-f808defc9cc4"
+      },
+      "squuid": "5be1a6b9-1573-4ac4-a352-54740d6686ad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.juice.de",
+        "squuid": "5be1a6b1-e846-41b8-867a-58f9ea0b02a5"
+      },
+      "squuid": "5be1a6b9-f7e5-4df0-84fb-ae306d9c75ba",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.riddim.de",
+        "squuid": "5be1a6b1-a7ba-4fad-94a3-b148ee0934be"
+      },
+      "squuid": "5be1a6b9-3e5e-407b-b06e-92b3aea76573",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Classic Rock",
+        "squuid": "5be1a6b1-e97b-4604-ae87-b72df947b250"
+      },
+      "squuid": "5be1a6b9-07df-4f2a-bf55-026b626fe4a7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.classicrock.net",
+        "squuid": "5be1a6b1-d017-4247-9232-9690bb278573"
+      },
+      "squuid": "5be1a6b9-9fef-451b-92e3-09e2f387d7ad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rap.de",
+        "squuid": "614dd1b6-5832-4c9b-a0f5-3cedba5853b9"
+      },
+      "squuid": "614dd1da-72d7-43bc-a898-09cbc641f7ab",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "IMAG Independent Media AG",
+        "squuid": "5be1a6b6-c869-4f11-a22c-f6da52ccaad1"
+      },
+      "squuid": "5be1a6b8-26db-47f1-b333-5f88d38e7db0",
+      "state": "active"
+    }
+  ]
+}

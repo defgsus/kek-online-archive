@@ -1,0 +1,53 @@
+{
+  "name": "Staude, Hanns-Werner",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-c68d-4ef6-ac83-c4743e51fa3e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Radio Hannover GmbH",
+        "squuid": "5be1a6b6-1a34-4949-a67e-0de35401a07e"
+      },
+      "squuid": "5be1a6b8-03fe-4192-b043-f6d1dcb7e962",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "KMWS Media Hannover GmbH & Co. KG",
+        "squuid": "5efdee17-0d59-43d6-83a0-252863f7366e"
+      },
+      "squuid": "5efdf49f-432d-42ef-b8e3-f4b344cee51b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "KMWS Media GmbH",
+        "squuid": "5efdee2c-5d91-46e6-9539-29079dfaa414"
+      },
+      "squuid": "5efdf597-73b1-43e6-9b26-326b18c1117a",
+      "state": "active"
+    }
+  ],
+  "city": "Isernhagen",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

@@ -1,0 +1,41 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Westfalium Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-1cea-4e9f-a87a-37a249af11df"
+      },
+      "squuid": "5eea1f0f-7692-46cb-be0c-2be89d8d3715",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "name": "Westfalium Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5eea1ee6-6fe6-4452-87c1-ba1dc5496854",
+  "controlDate": "2021-11-18T17:28:35.796Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Westfalium Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-1cea-4e9f-a87a-37a249af11df"
+      },
+      "squuid": "5eea1f4a-c1c5-4204-9e3b-ff1030450431",
+      "state": "active"
+    }
+  ]
+}

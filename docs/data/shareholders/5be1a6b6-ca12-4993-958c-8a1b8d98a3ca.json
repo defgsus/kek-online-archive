@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Bietigheim",
+  "pseudoCompany": false,
+  "street": "Kronenbergstr. 10",
+  "name": "Druck- und Verlagsgesellschaft Bietigheim mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ca12-4993-958c-8a1b8d98a3ca",
+  "controlDate": "2021-02-03T15:20:16.213Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "74321",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bietigheimer Zeitung",
+        "squuid": "5be1a6b1-f7e1-410b-a857-893f32c45223"
+      },
+      "squuid": "5be1a6b9-86e6-42fa-ae0c-696a8043c9d1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bönnigheimer Zeitung",
+        "squuid": "5be1a6b1-48fb-4d69-ae68-a05cf4b7165c"
+      },
+      "squuid": "5be1a6b9-ec4e-474b-9cad-c472da76ea0a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sachsenheimer Zeitung",
+        "squuid": "5be1a6b1-d363-406e-9819-59bdf11165a8"
+      },
+      "squuid": "5be1a6b9-f032-4165-bd2d-86944d322320",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bietigheimerzeitung.de",
+        "squuid": "601ac236-a6ab-4658-8d2b-bdf14689f7c4"
+      },
+      "squuid": "601ac261-ce5c-4636-9ff3-f256436b75a1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gläser & Kümmerle GmbH & Co KG",
+        "squuid": "5be1a6b6-0768-47e6-89a1-26f58e8da15a"
+      },
+      "squuid": "5be1a6b8-5a7c-47e6-82ec-8b77c025d58b",
+      "state": "active"
+    }
+  ]
+}

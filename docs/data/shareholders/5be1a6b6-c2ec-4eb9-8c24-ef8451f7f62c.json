@@ -1,0 +1,92 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Lokalfunk Remscheid-Solingen Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-7792-448c-8fae-b97e99f0b6b3"
+      },
+      "squuid": "5be1a6b7-2b90-41e4-a73a-23af2a620ddb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lokalfunk Remscheid-Solingen Presse-Beteiligungsgesellschaft mbH",
+        "squuid": "5f18107c-3fcf-4a1b-9d0e-2747457b9cfa"
+      },
+      "squuid": "5ff5c633-3865-4040-8797-673644fe7762",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Solingen",
+  "pseudoCompany": false,
+  "street": "Mummstr.",
+  "name": "Lokalfunk Remscheid-Solingen Presse-Beteiligungsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-c2ec-4eb9-8c24-ef8451f7f62c",
+  "controlDate": "2021-12-29T16:51:22.520Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "42651",
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 14.0,
+      "holder": {
+        "name": "PFD Pressefunk GmbH",
+        "squuid": "5be1a6b6-761b-43ab-b113-3d2fb927889c"
+      },
+      "squuid": "5be1a6b8-5d38-4197-95a1-71919605d37b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "Remscheider Medienhaus GmbH & Co. KG",
+        "squuid": "5be1a6b6-2e57-495f-afbc-e091b08abc00"
+      },
+      "squuid": "5be1a6b8-02e9-45d2-ad35-7e8cb18bfada",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "B. Boll Verlag des Solinger Tageblattes GmbH & Co",
+        "squuid": "5be1a6b6-73da-494b-b484-29fe9a8f2dc0"
+      },
+      "squuid": "5be1a6b8-3ee0-4e3e-b0c5-1aa8e4487180",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lokalfunk Remscheid-Solingen Presse-Beteiligungsgesellschaft mbH",
+        "squuid": "5f18107c-3fcf-4a1b-9d0e-2747457b9cfa"
+      },
+      "squuid": "5f18119e-1533-4844-8956-10b40e90bab2",
+      "state": "active"
+    }
+  ]
+}

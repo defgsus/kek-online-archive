@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Lippstadt",
+  "pseudoCompany": false,
+  "street": "Hansastr. 2",
+  "name": "Zeitungsverlag Der Patriot GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0337-487c-af52-9cd35cafdd66",
+  "controlDate": "2021-09-30T10:25:25.356Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "59557",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Der Patriot",
+        "squuid": "5be1a6b1-2aaa-43e7-85e8-8c0d2e476c71"
+      },
+      "squuid": "5be1a6b9-73f9-4dae-888e-2bdeb2c6e237",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Geseker Zeitung",
+        "squuid": "5be1a6b1-b4a6-4a68-ac20-c5b71d77f7a5"
+      },
+      "squuid": "5be1a6b9-0c7c-477c-9281-9e75dc9a5b8a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.derpatriot.de",
+        "squuid": "5be1a6b1-4554-45b4-ac9a-6a112be8c3d6"
+      },
+      "squuid": "5be1a6b9-d9e3-46a5-8a52-191c62e6952c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Laumanns Verwaltungs GmbH",
+        "squuid": "5be1a6b6-b890-4cb5-bcd1-8bf4073a1fd6"
+      },
+      "squuid": "5be1a6b8-8d3f-42b3-a2fb-e51f0ac3ef63",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Zeitverlag Gerd Bucerius GmbH & Co KG",
+        "squuid": "5be1a6b6-dd6a-41c7-81ed-4225dceddcfb"
+      },
+      "squuid": "5be1a6b8-37a9-45da-8fd9-e4e9975eaafe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "tempus Zeitverlag Geschäftsführungsgesellschaft mbH",
+        "squuid": "5ec3cbdb-420a-4420-a17b-c476b230882e"
+      },
+      "squuid": "5ec3cc7c-3902-4c6e-a7af-de4f03f84df1",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Gänsheidestr. 26",
+  "name": "Georg von Holtzbrinck GmbH & Co. Zeitverlag Beteiligungsgesellschaft",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-cf74-4eb3-a52d-d6f0fbe8601b",
+  "controlDate": "2021-10-04T13:31:42.955Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70186",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Georg von Holtzbrinck GmbH & Co. KG",
+        "squuid": "5be1a6b6-3efe-470d-89eb-1d230f00b5fa"
+      },
+      "squuid": "5be1a6b8-bf68-403f-964c-a7b7d5f80706",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "tempus Zeitungsverlags- und Beteiligungsgesellschaft mbH",
+        "squuid": "5ec3cda2-5eb5-4a07-9d3a-aee588578f87"
+      },
+      "squuid": "5ec3cdc9-c169-4b3b-a7ed-434264d39fdd",
+      "state": "active"
+    }
+  ]
+}

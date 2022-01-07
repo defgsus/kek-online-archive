@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "August-Madsack-Str.",
+  "name": "Deine Tierwelt GmbH",
+  "naturalPerson": false,
+  "squuid": "5ef0c2fa-b73b-4204-8bb9-d5faecae58d9",
+  "controlDate": "2021-12-02T16:19:27.632Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30559",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deine-tierwelt.de",
+        "squuid": "5be1a6b1-47de-4095-b9e5-fcc08689a32d"
+      },
+      "squuid": "60423afe-128e-4e2a-ae1e-930b23e5a477",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Madsack Venture GmbH",
+        "squuid": "5be1a6b6-4535-4926-a4a0-54c0126219b9"
+      },
+      "squuid": "60423dfc-fd2f-4329-9493-37da7222c994",
+      "state": "active"
+    }
+  ]
+}

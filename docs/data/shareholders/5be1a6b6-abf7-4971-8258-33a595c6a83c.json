@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Wuppertal",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-abf7-4971-8258-33a595c6a83c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Lokalfunk Wuppertal GmbH & Co. KG",
+        "squuid": "5be1a6b6-e8b9-4d02-bff8-329f2ad909cb"
+      },
+      "squuid": "5be1a6b8-3e30-4139-beb3-016c9d36fe1b",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

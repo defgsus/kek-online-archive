@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Schwäbische Zeitung Biberach GmbH & Co KG",
+        "squuid": "5be1a6b6-7497-49ba-b499-c2941b014392"
+      },
+      "squuid": "5ee9bc4c-ff00-4edd-95c0-f3009c7f2a5c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Biberach",
+  "pseudoCompany": false,
+  "street": "Marktplatz",
+  "name": "Schwäbische Zeitung Biberach Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5ee9bc2a-24db-4c36-aa56-fd16d93b6c70",
+  "controlDate": "2021-11-11T14:35:48.724Z",
+  "streetNumber": "35",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "88400",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.0,
+      "holder": {
+        "name": "Biberacher Verlagsdruckerei GmbH & Co KG",
+        "squuid": "5be1a6b6-ba99-449f-a74f-0cacaf3ca418"
+      },
+      "squuid": "5ee9bca7-b782-4748-9bbc-469571fdc732",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5ee9bcbb-fa78-402a-9985-e9f8c3687076",
+      "state": "active"
+    }
+  ]
+}

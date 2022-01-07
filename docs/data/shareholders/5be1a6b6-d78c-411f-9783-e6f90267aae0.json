@@ -1,0 +1,82 @@
+{
+  "state": "active",
+  "city": "Memmingen",
+  "pseudoCompany": false,
+  "street": "Hirschgasse",
+  "name": "Radio Prima 1 GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d78c-411f-9783-e6f90267aae0",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "87700",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Prima 1",
+        "squuid": "5be1a6b1-014f-4c50-b3c9-4158164bf8e1"
+      },
+      "squuid": "5be1a6b9-2d8b-4e9a-a7cb-ad124bce471d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Druckerei und Verlag Hans Högel KG",
+        "squuid": "5be1a6b6-f496-4b01-9204-ae8cbb56a1c9"
+      },
+      "squuid": "5be1a6b7-db5b-40ce-84bf-fa00dcc05512",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Radio Welle Unterallgäu Lokaler Programmanbieter GmbH",
+        "squuid": "5be1a6b6-7f46-4804-8f48-c3238bc93a9a"
+      },
+      "squuid": "5be1a6b7-3db9-47b5-bb7e-c4076cd5b55d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Allgäuer Zeitungsverlag GmbH",
+        "squuid": "5be1a6b6-9e2f-4de5-839b-a9064817ea96"
+      },
+      "squuid": "5be1a6b7-0f44-45c2-8fd8-ab85172b801a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "holder": {
+        "name": "RT.15 GmbH",
+        "squuid": "5be1a6b6-70b0-48eb-8010-19756d476b0e"
+      },
+      "squuid": "5be1a6b7-5a2e-4bc4-b67f-f20af2908a00",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 39.5,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5be1a6b7-a259-4dd0-b1cf-82368bfd8d3c",
+      "state": "active"
+    }
+  ]
+}

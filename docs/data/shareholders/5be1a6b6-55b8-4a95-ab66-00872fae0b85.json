@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Lüneburg",
+  "pseudoCompany": false,
+  "street": "Keplerstr.",
+  "name": "TW-Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-55b8-4a95-ab66-00872fae0b85",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "21337",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Elbe 1",
+        "squuid": "5be1a6b1-4d4c-4973-bc66-afce9a7131b1"
+      },
+      "squuid": "5be1a6b9-bb98-4f8e-906e-fac90c0e2d0c",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wacker, Tobias",
+        "squuid": "5be1a6b6-06c4-49cd-89b4-60dc6791f8d9"
+      },
+      "squuid": "5be1a6b8-e8eb-49b3-99d7-c1178872c38b",
+      "state": "active"
+    }
+  ]
+}

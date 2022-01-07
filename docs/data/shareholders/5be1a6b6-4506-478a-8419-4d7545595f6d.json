@@ -1,0 +1,51 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Falstaff Deutschland GmbH",
+        "squuid": "5be1a6b6-5ba4-4327-8027-b721e152d9b4"
+      },
+      "squuid": "5be1a6b8-4181-4888-b416-2f08bc6f3aa5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wien (A)",
+  "pseudoCompany": false,
+  "name": "Falstaff Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4506-478a-8419-4d7545595f6d",
+  "controlDate": "2021-10-15T08:52:04.303Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Rosam, Wolfgang M.",
+        "squuid": "5be1a6b6-53cf-4775-986e-3f1e2eb46e5d"
+      },
+      "squuid": "5be1a6b8-4f51-438b-be7b-87a5e91c08ec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Rosam, Angelika",
+        "squuid": "5be1a6b6-c534-4f57-b4cc-41e7be714032"
+      },
+      "squuid": "5be1a6b8-6ba2-4ccd-a4eb-3f0cb57da412",
+      "state": "active"
+    }
+  ]
+}

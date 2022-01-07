@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Mülheim/Oberhausen mbH & Co. KG",
+        "squuid": "5be1a6b6-37f1-4531-90ce-878548f818b8"
+      },
+      "squuid": "5f180893-0b88-4def-a438-61acca095e3a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Oberhausen",
+  "pseudoCompany": false,
+  "street": "Essener Str.",
+  "name": "Betriebsverwaltungsgesellschaft Radio Mülheim/Oberhausen mbH",
+  "naturalPerson": false,
+  "squuid": "5f180762-de46-470c-81fd-8194ea35a869",
+  "controlDate": "2021-12-22T15:49:41.377Z",
+  "streetNumber": "99",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "46047",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Zeitungsverlag Niederrhein GmbH & Co. Essen KG",
+        "squuid": "5be1a6b6-82b1-496e-8b3c-f72246503b7e"
+      },
+      "squuid": "5ff5acb5-146d-47a8-b01b-0213063adc38",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.6,
+      "holder": {
+        "name": "Stadt Oberhausen",
+        "squuid": "5be1a6b6-16b1-4820-b4dc-9356537798d2"
+      },
+      "squuid": "5ff5acdb-eeb8-4d38-bd8c-19715c2af35f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.4,
+      "holder": {
+        "name": "Beteiligungsholding Mülheim an der Ruhr GmbH",
+        "squuid": "5be1a6b6-32c1-449b-a86c-c620e020c54b"
+      },
+      "squuid": "5ff5acf7-b3b8-4666-a20f-d07be5d34980",
+      "state": "active"
+    }
+  ]
+}

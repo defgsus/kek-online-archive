@@ -1,0 +1,79 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Gießener Anzeiger Beteiligungs-GmbH & Co KG",
+        "squuid": "5be1a6b6-bedb-4dd4-a384-b046ff26a9d7"
+      },
+      "squuid": "5be1a6b8-9712-48d3-871c-b725ad6f1ab1",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gießen",
+  "pseudoCompany": false,
+  "street": "Am Urnenfelde",
+  "name": "Zeitungsgruppe Mittelhessen GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1976-47b4-b13a-bc5af3349f0d",
+  "controlDate": "2021-10-18T14:20:42.306Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "35396",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "VRM Holding GmbH & Co KG",
+        "squuid": "5be1a6b6-ef85-4f4b-88f1-69d0d1eedc57"
+      },
+      "squuid": "5be1a6b8-78c4-436e-8cd7-d5042a717298",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Zeitungsgruppe Mittelhessen Verwaltungsgesellschaft mbH",
+        "squuid": "5ec3e09b-8eb9-4d6c-9d70-8a22e03962b1"
+      },
+      "squuid": "5ec3e0b5-1d83-42d1-9017-22260eb6d1c3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kasper-Semmler, Rita",
+        "squuid": "5dee68d7-ddf0-46ac-bd84-8433f905eba3"
+      },
+      "squuid": "5ec3e0c6-9b05-4e26-972e-85a82c39b037",
+      "state": "active"
+    }
+  ]
+}

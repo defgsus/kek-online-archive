@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Kavalleriestraße",
+  "name": "NRW.Bank Kreativwirtschaftsfonds GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ba9a-4f47-b2ac-35f969a0f584",
+  "streetNumber": "22",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "40213",
+  "credits": "Beschluss der KEK vom 13.10.2009, Az.: KEK 584",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "NRW.Bank",
+        "squuid": "5be1a6b6-c52e-4309-8efc-5ef1740b465d"
+      },
+      "squuid": "5be1a6b7-3783-481f-ae6c-b78d4d82d323",
+      "state": "active"
+    }
+  ]
+}

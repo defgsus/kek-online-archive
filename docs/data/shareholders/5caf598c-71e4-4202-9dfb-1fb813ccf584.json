@@ -1,0 +1,91 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "TV Bayern GmbH Bayerische Lokal-Fernsehprogramm Gesellschaft",
+        "squuid": "5be1a6b6-515a-406b-b899-999e085ca150"
+      },
+      "squuid": "5f8d6c70-c7a2-42c0-a9b6-a05e81d4fcad",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Amberg",
+  "pseudoCompany": false,
+  "street": "Fleurystraße",
+  "name": "Oberpfalz TV Nord GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5caf598c-71e4-4202-9dfb-1fb813ccf584",
+  "controlDate": "2021-12-16T16:49:10.443Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "92224",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "OTV (Oberpfalz TV)",
+        "squuid": "5caf5955-3421-4a12-9977-deeadf466d4c"
+      },
+      "squuid": "5caf5a74-4bed-4d2e-ae29-da0b1b0907a4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.otv.de",
+        "squuid": "5f7ed27a-b245-4706-af6f-0596af2b45e3"
+      },
+      "squuid": "5f7ed2b4-1110-4055-acc0-75e088f8228d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 66.7,
+      "holder": {
+        "name": "Oberpfälzer Regional Tele GmbH",
+        "squuid": "5caf59be-0c85-478c-9f47-eb5ff2c0e123"
+      },
+      "squuid": "5caf5a9d-ea87-4516-9f4f-aed2885e0525",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Wirtschafts- und Kulturfernsehen WIKU-TV GmbH",
+        "squuid": "5caf59f6-a83f-4d54-8ce2-cd4fcdd20171"
+      },
+      "squuid": "5caf5aac-b6d0-460b-9134-aed568b169de",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Oberpfalz TV Nord Verwaltungsgesellschaft mbH",
+        "squuid": "5f7ed358-9d53-4953-8c29-020767e30803"
+      },
+      "squuid": "5f7ed39a-4690-46ca-a465-3561aea20509",
+      "state": "active"
+    }
+  ]
+}

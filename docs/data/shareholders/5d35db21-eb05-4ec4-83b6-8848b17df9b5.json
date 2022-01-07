@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": true,
+  "street": "Wilhelmstr.",
+  "name": "Bundesministerium der Finanzen/Referat Öffentlichkeitsarbeit",
+  "naturalPerson": false,
+  "squuid": "5d35db21-eb05-4ec4-83b6-8848b17df9b5",
+  "controlDate": "2020-06-22T12:09:34.300Z",
+  "streetNumber": "97",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bundesfinanzministerium.de",
+        "squuid": "5d35db03-f16e-497d-bc62-251050dffe5a"
+      },
+      "squuid": "5d35db3d-34f1-4a43-82a3-bdc2d76a48da",
+      "state": "active"
+    }
+  ]
+}

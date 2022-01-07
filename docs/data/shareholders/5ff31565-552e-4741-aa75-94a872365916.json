@@ -1,0 +1,77 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Medienhaus Bauer GmbH & Co. KG",
+        "squuid": "5be1a6b6-e95a-421a-a353-a27cde8b4377"
+      },
+      "squuid": "5ff315bb-89cb-4b22-8543-66664b3fff2a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Verlag Lensing-Wolff GmbH & Co. KG",
+        "squuid": "5be1a6b6-0e2b-4b2a-8b1f-59ef8c74ae48"
+      },
+      "squuid": "60e46d59-3b70-4e97-8bed-4f9dd3e1c608",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Westenhellweg",
+  "name": "JLW Beteiligungsgesellschaft OHG",
+  "naturalPerson": false,
+  "squuid": "5ff31565-552e-4741-aa75-94a872365916",
+  "controlDate": "2021-09-28T12:00:50.053Z",
+  "streetNumber": "86-88",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "44137",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Lensing-Wolff, Lambert",
+        "squuid": "5be1a6b6-b70c-4576-a912-05e7dabdff6c"
+      },
+      "squuid": "600162ce-585a-43b3-871b-e99d09966c0d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "LLW Verwaltungsgesellschaft mbH",
+        "squuid": "5ec4fbd9-0542-4628-bc14-54b5c307350d"
+      },
+      "squuid": "600162e8-9dff-4d65-8788-6c6fe47b88b2",
+      "state": "active"
+    }
+  ]
+}

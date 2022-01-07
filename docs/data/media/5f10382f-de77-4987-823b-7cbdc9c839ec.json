@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f10382f-de77-4987-823b-7cbdc9c839ec",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Betriebsgesellschaft Radio Wesel mbH & Co. KG",
+        "squuid": "5be1a6b6-6701-41f7-a384-bacd516bbd26"
+      },
+      "squuid": "5f103863-0fb9-4bd4-aeb7-0fe08fe37f09",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5f105b39-51aa-4e9f-becb-6bdab6694a64",
+      "state": "active"
+    }
+  ],
+  "name": "www.radiokw.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-22T15:02:42.334Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

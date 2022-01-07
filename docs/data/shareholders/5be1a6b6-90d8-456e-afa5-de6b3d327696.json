@@ -1,0 +1,93 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lokalradio Düsseldorf Betriebsgesellschaft mbH",
+        "squuid": "5f159d2f-335d-41a2-a5ba-a0e6b13a755a"
+      },
+      "squuid": "60521491-d1e9-4676-8f41-2b1f213b6b7d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Düsseldorf",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Zülpicher Straße",
+  "name": "Lokalradio Düsseldorf Betriebsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-90d8-456e-afa5-de6b3d327696",
+  "controlDate": "2021-11-24T17:28:03.894Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "40196",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Antenne Düsseldorf",
+        "squuid": "5be1a6b1-a322-4c79-a186-77185cbf858a"
+      },
+      "squuid": "5be1a6b9-cda3-4a22-b064-a88bdc841dc2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.antenneduesseldorf.de",
+        "squuid": "5f159c67-f051-4691-b168-0d58aa717792"
+      },
+      "squuid": "5f159cc9-be2a-4e8d-8675-50f4b6449781",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Holding der Landeshauptstadt Düsseldorf GmbH",
+        "squuid": "5be1a6b6-f351-497b-bc2b-4a8d2c95f02a"
+      },
+      "squuid": "5be1a6b7-9d64-4dfa-888f-fbece05505b9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Lokalfunk Düsseldorf Presse-Beteiligungsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-e417-41c6-9dcb-c14721ec2951"
+      },
+      "squuid": "5be1a6b7-c10a-405c-b1b9-eb617927168c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lokalradio Düsseldorf Betriebsgesellschaft mbH",
+        "squuid": "5f159d2f-335d-41a2-a5ba-a0e6b13a755a"
+      },
+      "squuid": "600fee44-2f9c-4bba-8469-8be5032b49a3",
+      "state": "active"
+    }
+  ]
+}

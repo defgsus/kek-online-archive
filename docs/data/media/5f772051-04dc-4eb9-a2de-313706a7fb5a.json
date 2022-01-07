@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f772051-04dc-4eb9-a2de-313706a7fb5a",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Allgäu-TV GmbH & Co. KG",
+        "squuid": "5cab6a19-b235-49e1-abfe-578e329004c0"
+      },
+      "squuid": "5f77208d-9bc2-4f55-9731-e646605bea3c",
+      "state": "active"
+    }
+  ],
+  "name": "www.allgäu.tv",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-11-23T12:09:09.316Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

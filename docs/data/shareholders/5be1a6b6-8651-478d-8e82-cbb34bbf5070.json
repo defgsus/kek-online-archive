@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Spadenteich 4-5",
+  "name": "CommonMedia GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8651-478d-8e82-cbb34bbf5070",
+  "controlDate": "2021-11-23T14:05:32.296Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20099",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.amicella.de",
+        "squuid": "5be1a6b1-797c-42cb-9011-f1a8f3ddd5c1"
+      },
+      "squuid": "5be1a6b9-003a-4a54-a002-6c731c4bfcee",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Eggebrecht, Patricia",
+        "squuid": "5be1a6b6-fed8-49d4-a5ce-9ae1d3b34c8b"
+      },
+      "squuid": "5be1a6b8-c0e7-42d9-9fd2-a1849d7926a5",
+      "state": "active"
+    }
+  ]
+}

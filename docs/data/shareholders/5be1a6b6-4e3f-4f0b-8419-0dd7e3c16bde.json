@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.6,
+      "held": {
+        "name": "Schneemenschen GmbH",
+        "squuid": "5be1a6b6-5d66-4484-b376-3d450201044d"
+      },
+      "squuid": "5be1a6b8-7fcc-48a1-b427-8669fd524345",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Red Beach Verwaltungs GmbH",
+        "squuid": "5f05c2cb-6af4-4c4f-9269-eb5e80788edb"
+      },
+      "squuid": "5f05c38a-9600-41f8-8797-413c0792f3c6",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Homburg",
+  "pseudoCompany": false,
+  "street": "Saarbrücker Straße",
+  "name": "Lagoon Media GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4e3f-4f0b-8419-0dd7e3c16bde",
+  "controlDate": "2022-01-07T14:01:42.155Z",
+  "streetNumber": "11a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "66424",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Pirro, Michael",
+        "squuid": "5be1a6b6-1e05-48ce-8e4f-c3664760a0a8"
+      },
+      "squuid": "5be1a6b8-8735-42cb-a6e5-6190ab75a221",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Red Beach Verwaltungs GmbH",
+        "squuid": "5f05c2cb-6af4-4c4f-9269-eb5e80788edb"
+      },
+      "squuid": "5f05c2e6-9c6e-4eeb-862b-da987aa31eb4",
+      "state": "active"
+    }
+  ]
+}

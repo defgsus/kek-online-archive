@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f9149c4-03a3-4d19-82a0-d2ca370ac15d",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "BCS Broadcast Sachsen GmbH & Co. KG",
+        "squuid": "5be1a6b6-f580-4b54-923b-11ca0a389907"
+      },
+      "squuid": "5f914ae3-8af1-4af5-bd7d-c2d488f50849",
+      "state": "active"
+    }
+  ],
+  "name": "www.hitradio-rtl.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-09T15:02:10.762Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

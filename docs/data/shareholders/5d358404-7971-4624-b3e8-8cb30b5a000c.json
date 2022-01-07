@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Kaiser-Wilhelm-Ring ",
+  "name": "DWDL.de GmbH",
+  "naturalPerson": false,
+  "squuid": "5d358404-7971-4624-b3e8-8cb30b5a000c",
+  "controlDate": "2021-12-03T15:04:29.043Z",
+  "streetNumber": "7-9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50672",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dwdl.de",
+        "squuid": "5d3583dd-8b7e-43b2-a84a-d0a7a85c2498"
+      },
+      "squuid": "5d358440-f9e4-4b54-994a-4dd96438d356",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Lückerath, Thomas",
+        "squuid": "5d3584c6-bb9c-4f1f-a484-d6c85dc374fc"
+      },
+      "squuid": "5d358500-ce11-48f7-9a1d-37c36af4135f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Spreng, Michael H.",
+        "squuid": "5d3584e6-af51-454b-8749-fd39bf01c764"
+      },
+      "squuid": "5d358512-e900-4567-b579-1f4a05503515",
+      "state": "active"
+    }
+  ]
+}

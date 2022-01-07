@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "DNI Foreign Holdings Ltd.",
+        "squuid": "5be1a6b6-9b81-4a93-89d4-133f3cdffaed"
+      },
+      "squuid": "5be1a6b7-e48e-4ff7-871a-db76fa7d080f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "DNI Global LLP",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6def-4cf2-b59f-a4f97d435e5b",
+  "controlDate": "2021-12-03T11:29:45.611Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.07.2017, Az.: KEK 926, und Bescheid der BLM vom 24.07.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "DNI Barbados Holdings 2 Srl.",
+        "squuid": "5be1a6b6-71c8-45d3-9a6e-9829e10ff57f"
+      },
+      "squuid": "5be1a6b7-3f0a-4670-bdc6-6825a50f5bc2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Discovery (Barbados) Holdings 3 Srl.",
+        "squuid": "5be1a6b6-68ec-4005-af40-ed5b7f55d717"
+      },
+      "squuid": "5be1a6b7-fedf-4ed5-80b9-251780c531ae",
+      "state": "active"
+    }
+  ]
+}

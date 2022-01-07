@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Fürth",
+  "pseudoCompany": false,
+  "street": "Badstraße",
+  "name": "TellVis Service GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5966-49cd-9765-6a731c5ad4a0",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "90762",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "World Call International Ltd.",
+        "squuid": "5be1a6b6-47d1-439c-9551-0e00c89f6165"
+      },
+      "squuid": "5be1a6b7-e86f-49ef-a70f-6e4b678fd173",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Noor, Farhia Abdullahi",
+        "squuid": "5be1a6b6-97ad-4906-85c3-b5e2d0c9d1b2"
+      },
+      "squuid": "5be1a6b7-d688-4218-be45-e7c1e6312aa5",
+      "state": "active"
+    }
+  ]
+}

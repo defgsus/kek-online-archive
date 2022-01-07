@@ -1,0 +1,97 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.1,
+      "held": {
+        "name": "Antenne Niedersachsen GmbH & Co. KG",
+        "squuid": "5be1a6b6-a997-45d6-8d9d-b0d0b50972f1"
+      },
+      "squuid": "5be1a6b7-099c-4683-8eee-acb0d3aa0c47",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 23.12,
+      "held": {
+        "name": "Mediengesellschaft Mittelstand Niedersachsen GmbH",
+        "squuid": "5be1a6b6-aa36-4fda-b5d5-42d08f3ab67e"
+      },
+      "squuid": "5be1a6b7-158b-4203-9bce-865eb70eb3b7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.23,
+      "held": {
+        "name": "Funkhaus Halle GmbH & Co. KG",
+        "squuid": "5be1a6b6-5fcf-45b5-9357-652833a2d4dc"
+      },
+      "squuid": "5f28021e-3aac-460c-8b3e-09474a7b5e66",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "August-Madsack-Str.",
+  "name": "Madsack Hörfunk GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4add-4b03-bec9-315127c38099",
+  "controlDate": "2021-11-22T11:38:32.846Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "30559",
+  "credits": "NLM; Antenne Niedersachsen GmbH & Co. KG",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 24.9,
+      "holder": {
+        "name": "AVE Gesellschaft für Hörfunkbeteiligungen mbH",
+        "squuid": "5be1a6b6-d3ab-4ac5-b3e4-c369a9a50248"
+      },
+      "squuid": "5be1a6b8-f69b-4b01-85a0-e574c80cf2d9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.1,
+      "holder": {
+        "name": "Madsack Venture GmbH",
+        "squuid": "5be1a6b6-4535-4926-a4a0-54c0126219b9"
+      },
+      "squuid": "5f32ab49-d2a5-41a1-9e93-ff91643f056e",
+      "state": "active"
+    }
+  ]
+}

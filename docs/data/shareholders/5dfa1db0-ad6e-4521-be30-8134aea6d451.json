@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "An der Hansalinie ",
+  "name": "Aschendorff Medien Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5dfa1db0-ad6e-4521-be30-8134aea6d451",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "48163",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Aschendorff Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c"
+      },
+      "squuid": "5e1de018-eafb-46b9-808e-6280ecdcd289",
+      "state": "active"
+    }
+  ]
+}

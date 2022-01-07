@@ -1,0 +1,89 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 8.33,
+      "held": {
+        "name": "FC Bayern München AG",
+        "squuid": "5be1a6b6-51d0-4b73-8507-381f417fa25a"
+      },
+      "squuid": "5be1a6b8-d558-442f-8d9e-312d182253f6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Allianz Asset Management GmbH",
+        "squuid": "5be1a6b6-7066-40f5-bff4-124d47c75af2"
+      },
+      "squuid": "5be1a6b8-15c4-4230-80b6-f61903eeaf7b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Königinstr.",
+  "name": "Allianz SE",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-cb16-4d1e-ba0f-87eecce1b902",
+  "controlDate": "2021-12-07T11:40:03.424Z",
+  "streetNumber": "28",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80802",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 6.39,
+      "holder": {
+        "name": "BlackRock, Inc.",
+        "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
+      },
+      "squuid": "5be1a6b8-8fd7-4bd8-9b98-e0cc20715657",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 88.76,
+      "holder": {
+        "name": "Streubesitz an der Allianz SE",
+        "squuid": "5be1a6b6-1b9d-481b-8f5a-105de688234c"
+      },
+      "squuid": "5be1a6b8-4bad-4f9f-abe0-0cf573562b72",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Eigenbesitz der Allianz SE",
+        "squuid": "5be1a6b6-9349-4ed8-878a-e93d09886688"
+      },
+      "squuid": "5be1a6b8-4f32-4110-9d43-59b101463f3a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.85,
+      "holder": {
+        "name": "DWS Investment GmbH",
+        "squuid": "5be1a6b6-c474-4fe8-87d9-642d012c049e"
+      },
+      "squuid": "5ef5cd0b-5253-4c6c-88db-0dac399afdb1",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Eichstätt",
+  "pseudoCompany": false,
+  "street": "Sollnau 2",
+  "name": "Willibaldverlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1583-482b-a5cb-c655fbcb0d49",
+  "controlDate": "2021-10-26T11:31:59.859Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85072",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kirchenzeitung für das Bistum Eichstätt",
+        "squuid": "5be1a6b1-7ff7-4e56-a07f-b30ba77d5e12"
+      },
+      "squuid": "5be1a6b9-efab-43e5-b708-120d2968b5d9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kirchenzeitung-eichstaett.de",
+        "squuid": "5be1a6b1-4153-461e-ae9b-bd26a863d61b"
+      },
+      "squuid": "5be1a6b9-8064-46b8-abc8-d9bb1c5b3139",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Diözese Eichstätt",
+        "squuid": "5be1a6b6-377e-431b-b19a-7c7ccbd83489"
+      },
+      "squuid": "5be1a6b8-d7dc-460e-ac25-440d63f6d5ff",
+      "state": "active"
+    }
+  ]
+}

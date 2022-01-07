@@ -1,0 +1,75 @@
+{
+  "state": "active",
+  "city": "Hersbruck",
+  "pseudoCompany": false,
+  "street": "Nürnberger Str.",
+  "name": "Medienverbund Nürnberger Land GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-36b8-4d7c-8ffa-bfde1f8d601b",
+  "controlDate": "2021-12-15T16:07:06.716Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "91217",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.n-land.de",
+        "squuid": "5be1a6b1-8a94-411a-9432-ec7fd4fa6d77"
+      },
+      "squuid": "5be1a6b9-7d87-4ef5-bfed-2d65ba718403",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Pfeiffer Verlag und Medienservice GmbH & Co. KG",
+        "squuid": "5be1a6b6-ef99-4634-836e-dfecf0d08f20"
+      },
+      "squuid": "5be1a6b8-6409-4fc8-9175-7ced380ce046",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Verlag Der Bote Hanns Bollmann GmbH & Co KG",
+        "squuid": "5be1a6b6-f4e2-41cc-bd22-3d15cf142528"
+      },
+      "squuid": "5be1a6b8-deaf-452f-ac34-e6fe2ff85b37",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Verlag Hans Fahner GmbH & Co KG",
+        "squuid": "5be1a6b6-1d03-4bcb-9e43-4bf5c5e6aadd"
+      },
+      "squuid": "5be1a6b8-d0e1-4f92-a488-c61260f4a8b5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Medienverbund Nürnberger Land GmbH",
+        "squuid": "5eff06e9-4e33-43b4-aa32-954e2c8d8db2"
+      },
+      "squuid": "5eff0711-8daf-404d-8b95-488b6ea0a9e3",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f3a811f-f14c-4587-b586-55b268d336f2",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL Hessen GmbH",
+        "squuid": "5f3a81c4-fd74-405b-94b6-d70c86a044e7"
+      },
+      "squuid": "5f3a81d8-1066-47fb-b217-ed6b9f981ba5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL interactive GmbH",
+        "squuid": "5be1a6b6-83ed-4c73-98a7-1ddc01209e8e"
+      },
+      "squuid": "60b89efa-f891-4da4-8652-18b0e429a31f",
+      "state": "active"
+    }
+  ],
+  "name": "www.rtl-hessen.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-04T11:22:39.081Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

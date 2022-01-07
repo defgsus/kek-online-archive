@@ -1,0 +1,72 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 9.8,
+      "held": {
+        "name": "Lokalradio Berchtesgadener Land Verwaltungs GmbH",
+        "squuid": "5be1a6b6-86b9-494c-a16c-f4bd3bb9b638"
+      },
+      "squuid": "5ca74615-03a6-439b-9a68-ec6a0fb3f0da",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Freilassing",
+  "pseudoCompany": false,
+  "street": "Teisenbergstr.",
+  "name": "Max Aicher GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5ca745c6-66e2-40b4-b287-313423622b76",
+  "controlDate": "2021-11-23T12:51:23.668Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "83395",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Verbundbau Mitterfelden GmbH",
+        "squuid": "5ca745e7-b333-4fe3-bdf4-8a44ed104a09"
+      },
+      "squuid": "5ca74632-49c7-4a14-8f63-3a122c0f1c39",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Max Aicher Umwelt GmbH",
+        "squuid": "6092af84-b0fc-43c0-bd93-9103ec01f75b"
+      },
+      "squuid": "6092afdc-2af1-4bad-acbd-bab0089e57a9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Aicher, Max",
+        "squuid": "5ca745ef-2a76-449e-8739-6a5995fa65f9"
+      },
+      "squuid": "6092affe-23aa-4bcf-8d51-2166d7c3d92a",
+      "state": "active"
+    }
+  ]
+}

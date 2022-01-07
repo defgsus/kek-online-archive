@@ -1,0 +1,71 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.76,
+      "held": {
+        "name": "RSL Radio Schwabenland Stuttgart GmbH & Co. KG",
+        "squuid": "5be1a6b6-55ad-4b9d-a6f2-ebeda816ca61"
+      },
+      "squuid": "5efcae5e-aae3-4297-b48e-5da63d148241",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "RhoDelta Verwaltungsgesellschaft mbH",
+        "squuid": "5fa03850-b2b1-4a33-9e2d-c5a1b14f0b89"
+      },
+      "squuid": "5ff471f7-fb0d-4187-a2be-a33a33bb49b5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Plieninger Str.",
+  "name": "Rolf Deyhle Holding GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5efcacf1-5ebf-49bc-96ad-cca1f45383e5",
+  "controlDate": "2021-12-03T10:30:11.970Z",
+  "streetNumber": "100",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70567",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Deyhle, Rolf",
+        "squuid": "5fa03870-1106-4691-ba90-cfadd68d92eb"
+      },
+      "squuid": "5fa0389d-8ddf-4190-979d-9a3599dca687",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "RhoDelta Verwaltungsgesellschaft mbH",
+        "squuid": "5fa03850-b2b1-4a33-9e2d-c5a1b14f0b89"
+      },
+      "squuid": "5fa038ab-49a8-4f50-8de7-462f50bfc7be",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Landschaftsverband Westfalen-Lippe",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-f327-4f48-828d-9ff002495327",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 17.63,
+      "held": {
+        "name": "NRW.Bank",
+        "squuid": "5be1a6b6-c52e-4309-8efc-5ef1740b465d"
+      },
+      "squuid": "5be1a6b7-6ff1-40f9-9737-67489b840f1c",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

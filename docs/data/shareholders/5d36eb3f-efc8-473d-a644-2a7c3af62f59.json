@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Potsdam",
+  "pseudoCompany": true,
+  "street": "Heinrich-Mann-Allee ",
+  "name": "Staatskanzlei des Landes Brandenburg ",
+  "naturalPerson": false,
+  "squuid": "5d36eb3f-efc8-473d-a644-2a7c3af62f59",
+  "controlDate": "2020-06-22T11:56:40.493Z",
+  "streetNumber": "107",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14473",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.brandenburg.de",
+        "squuid": "5d36eb1a-881a-4d5d-a2ee-759508ecb73a"
+      },
+      "squuid": "5d36eb70-3043-4fe7-aa38-30980fc84768",
+      "state": "active"
+    }
+  ]
+}

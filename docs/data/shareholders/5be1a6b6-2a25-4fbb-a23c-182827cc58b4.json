@@ -1,0 +1,106 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "CATO Verlag GmbH",
+        "squuid": "5be97d05-6cc9-49f7-aca1-9bfb2cecb386"
+      },
+      "squuid": "5be97e12-5803-40c8-a7d2-1a96df640395",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Hohenzollerndamm",
+  "name": "Junge Freiheit Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-2a25-4fbb-a23c-182827cc58b4",
+  "controlDate": "2021-04-30T12:45:21.934Z",
+  "streetNumber": "27a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10713",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Junge Freiheit",
+        "squuid": "5be1a6b1-30ae-4b60-bd92-b06406a072dd"
+      },
+      "squuid": "5be1a6b9-3c24-4c5c-9295-3338ecf55ccf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.jungefreiheit.de",
+        "squuid": "5be1a6b1-775d-4859-ac9b-18080ab64788"
+      },
+      "squuid": "5be1a6b9-e719-44c0-b3e8-14c84e09b3ec",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 96.7,
+      "holder": {
+        "name": "Junge Freiheit Treuhand GmbH Gesellschaft für Kapitalbeteiligungen",
+        "squuid": "5be1a6b6-0b5a-49ac-af4c-059dbb7b5a6b"
+      },
+      "squuid": "5be1a6b8-13de-4da1-bd64-f0fea46e49fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Nagels, Robert",
+        "squuid": "5be1a6b6-f2c4-4d44-b67b-cdffc218b4fb"
+      },
+      "squuid": "5be1a6b8-9838-4a3b-8d9c-957988b60259",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.7,
+      "holder": {
+        "name": "Stritzinger, Karl Holger",
+        "squuid": "5be1a6b6-1ac4-4cac-bfaa-c80af34781b0"
+      },
+      "squuid": "5be1a6b8-5b6a-4cfe-a1b0-466d59016fd7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.6,
+      "holder": {
+        "name": "weitere 16 Einzelpersonen mit Anteilen von jeweils unter 0,2 %",
+        "squuid": "5be1a6b6-d337-442f-a094-16a80b3836b1"
+      },
+      "squuid": "5be1a6b8-619a-48aa-a89e-ee3d7dbbd9b9",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Junge Freiheit Entwicklungs-GmbH",
+        "squuid": "5ebd0d9a-a47e-4667-9d62-3fa4a68aa872"
+      },
+      "squuid": "5ebd0dc7-7fbe-43ef-bed3-e2be3faa4d2c",
+      "state": "active"
+    }
+  ]
+}

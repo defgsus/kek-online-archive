@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Mattentwiete",
+  "name": "L.A.CH. SCHULZ Gesellschaft für Anzeigen, Werbung und Verlag mbH",
+  "naturalPerson": false,
+  "squuid": "5c10e97e-5f9f-460b-95c8-c7a206bd971e",
+  "controlDate": "2021-10-21T14:04:19.378Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20457",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Golf in Hamburg",
+        "squuid": "5c10e958-4868-4297-b6e0-041b4bdc8e48"
+      },
+      "squuid": "5c10e9e3-54a4-43fb-83cd-108289ff3de5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Witte, Michael",
+        "squuid": "5c10ea68-fbf0-4b96-96ea-b857640714cd"
+      },
+      "squuid": "5c10ead3-cda2-441b-a95e-2bc1ba7ae787",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Weise, Herbert",
+        "squuid": "5c10ea3e-a2cf-4661-ac43-4aab53663743"
+      },
+      "squuid": "5c10eafd-ae1f-4efc-ac46-d7a2c7496c77",
+      "state": "active"
+    }
+  ]
+}

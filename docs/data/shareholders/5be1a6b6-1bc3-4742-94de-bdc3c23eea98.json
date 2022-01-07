@@ -1,0 +1,124 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Antenne Sylt Verwaltung GmbH",
+        "squuid": "5f198356-27ac-44c4-8ab0-86bbbcdaa9bf"
+      },
+      "squuid": "5f1fe612-428e-4759-8423-2360aa9b89b1",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Sylt-Westerland",
+  "note": "Stand: 7/20",
+  "pseudoCompany": false,
+  "street": "Friedrichstraße",
+  "name": "Antenne Sylt GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1bc3-4742-94de-bdc3c23eea98",
+  "controlDate": "2021-11-23T17:02:47.045Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "25980",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Antenne Sylt",
+        "squuid": "5be1a6b1-60f4-4cf7-87fb-5501b0c260bc"
+      },
+      "squuid": "5be1a6b9-6f33-4544-85ff-6f75694f84ec",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.antenne-sylt.de",
+        "squuid": "5f1981a6-96da-44c7-9994-e95c35f4ac6c"
+      },
+      "squuid": "5f1981d6-98fb-473b-9f82-98582eeb32fb",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 32.967,
+      "holder": {
+        "name": "Syltertainment GmbH & Co. KG",
+        "squuid": "5be1a6b6-df23-4418-b8da-2241e10fe508"
+      },
+      "squuid": "5be1a6b8-22cb-4dfd-94c7-26c14c9a5a8b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.998,
+      "holder": {
+        "name": "MK Wirtschaftsdienst GmbH",
+        "squuid": "5be1a6b6-4de0-4af5-a3c5-20ff90dd6230"
+      },
+      "squuid": "5be1a6b8-e9e6-410a-bb01-e95325cd2bf5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kraus, Karl Martin",
+        "squuid": "5be1a6b6-eee6-4bc6-8a8c-7cbe0607efe5"
+      },
+      "squuid": "5be1a6b8-c29e-4f2e-add5-8065bb960531",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.025,
+      "holder": {
+        "name": "Klambt-Medien GmbH",
+        "squuid": "5be1a6b6-e419-4c61-b3b2-cba5acfc0e92"
+      },
+      "squuid": "5beace2f-e65a-435f-bb75-d138137290b4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "NiedersachsenRadio GmbH & Co. KG",
+        "squuid": "5be1a6b6-45a9-499c-9b56-add326f29bc4"
+      },
+      "squuid": "5e1db7ac-ca6e-46e3-91fc-609ade359131",
+      "state": "active",
+      "votingShares": 25.025
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Antenne Sylt Verwaltung GmbH",
+        "squuid": "5f198356-27ac-44c4-8ab0-86bbbcdaa9bf"
+      },
+      "squuid": "5f1984bc-75c7-40cf-839c-0235f04d0faf",
+      "state": "active"
+    }
+  ]
+}

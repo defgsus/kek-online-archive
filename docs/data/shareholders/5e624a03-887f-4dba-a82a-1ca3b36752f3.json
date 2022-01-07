@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Domstr.",
+  "name": "Penny-Markt GmbH",
+  "naturalPerson": false,
+  "squuid": "5e624a03-887f-4dba-a82a-1ca3b36752f3",
+  "controlDate": "2021-12-16T18:15:46.151Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50668",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.penny.de",
+        "squuid": "5e6249c1-087e-46d3-99be-1ef351800ee7"
+      },
+      "squuid": "5e624a36-34e6-4d61-ac9d-a2f77068f4fd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "REWE Deutscher Supermarkt AG & Co. KGaA",
+        "squuid": "5e624b0b-c792-400d-91f4-b7ac460c868c"
+      },
+      "squuid": "5e624b2f-7ab4-429e-9895-88b9b71dfd24",
+      "state": "active"
+    }
+  ]
+}

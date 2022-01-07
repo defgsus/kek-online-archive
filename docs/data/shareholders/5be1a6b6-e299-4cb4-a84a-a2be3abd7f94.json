@@ -1,0 +1,99 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Senner Verlag GmbH",
+        "squuid": "5be1a6b6-416b-4a39-8424-a143b2992b69"
+      },
+      "squuid": "5be1a6b8-177f-4d2f-a266-fdb44aafc9fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Stuttgarter Presse Funk GmbH",
+        "squuid": "5c98ed33-3de6-4a1d-b2fa-4f2782148a39"
+      },
+      "squuid": "5ef21a56-0d5c-4882-a944-3ca4b98e6830",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Nürtingen",
+  "pseudoCompany": false,
+  "street": "Carl-Benz- Str. 1",
+  "name": "Senner Medien GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-e299-4cb4-a84a-a2be3abd7f94",
+  "controlDate": "2021-11-04T16:27:17.866Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "72622",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "holder": {
+        "name": "Krichenbauer, Monika",
+        "squuid": "5be1a6b6-541d-40d5-8f4b-b48966755468"
+      },
+      "squuid": "5be1a6b8-8ea2-45b1-bbcf-6b7fd93d800c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 74.0,
+      "holder": {
+        "name": "Krichenbauer, Markus",
+        "squuid": "5be1a6b6-cf42-4d4c-9f25-a0a7ded4d608"
+      },
+      "squuid": "5be1a6b8-00cb-44da-8d7d-3e6d6b0cc1ca",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Senner-Druck Beteiligungs-GmbH",
+        "squuid": "5ee0f205-2e6d-4603-ac11-10c73f369e4a"
+      },
+      "squuid": "5ee0f21e-4020-4bcf-aa3f-43d641ae9708",
+      "state": "active"
+    }
+  ]
+}

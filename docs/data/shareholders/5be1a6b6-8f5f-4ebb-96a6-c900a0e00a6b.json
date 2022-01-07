@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Trostberg",
+  "pseudoCompany": false,
+  "street": "Gabelsbergerstr. 4",
+  "name": "Oberland-Presse GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8f5f-4ebb-96a6-c900a0e00a6b",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "83308",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Passauer Neue Presse GmbH",
+        "squuid": "5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
+      },
+      "squuid": "5be1a6b8-dcba-4a72-a486-ba3f94ce345d",
+      "state": "active"
+    }
+  ]
+}

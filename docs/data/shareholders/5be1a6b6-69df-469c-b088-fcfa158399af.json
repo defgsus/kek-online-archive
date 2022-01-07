@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Saarbrücken",
+  "pseudoCompany": false,
+  "street": "Gutenbergstraße",
+  "name": "Skyline Medien Saarland GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-69df-469c-b088-fcfa158399af",
+  "controlDate": "2021-11-30T17:24:54.590Z",
+  "streetNumber": "11-23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    }
+  ],
+  "zipcode": "66117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "bigFM Saarland",
+        "squuid": "5be1a6b1-7678-49a4-aaa0-be95ad9268ff"
+      },
+      "squuid": "5be1a6b9-ea6a-4f48-bb80-59938c7f6495",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bigfm.de/saarland",
+        "squuid": "5f1ed56c-fe05-4ca6-b0da-2751a23cfaed"
+      },
+      "squuid": "5f1ed5a0-c110-4b00-ba01-a414414413f3",
+      "state": "active"
+    }
+  ],
+  "credits": "LMS",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "bigFM PPG S.W. GmbH",
+        "squuid": "5be1a6b6-f0fc-45e0-ad27-cbefd73a4279"
+      },
+      "squuid": "5be1a6b7-8deb-4540-b937-e4cd6449af2b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Jugendradio Saarland Beteiligungs GmbH",
+        "squuid": "5be1a6b6-8f07-4121-b603-cdbc29dcf4fb"
+      },
+      "squuid": "5be1a6b7-64b6-42e2-ad35-deaf43f44335",
+      "state": "active"
+    }
+  ]
+}

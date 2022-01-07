@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Karlsruhe",
+  "pseudoCompany": false,
+  "street": "August-Schwall-Str.",
+  "name": "ka-news GmbH",
+  "naturalPerson": false,
+  "squuid": "5c51bfad-264e-44e6-8ca5-87e330e7d004",
+  "controlDate": "2021-12-10T10:41:45.291Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "76131",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ka-news.de",
+        "squuid": "5c51bf8e-66cf-4e5a-aefd-2cb315179a1e"
+      },
+      "squuid": "5c51c067-050b-488b-a923-0853fbc99c3c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Südkurier GmbH",
+        "squuid": "5be1a6b6-04f4-457e-bfa8-553d157046be"
+      },
+      "squuid": "5c51c0e0-ca0e-4aee-90c3-fb8f8824c05d",
+      "state": "active"
+    }
+  ]
+}

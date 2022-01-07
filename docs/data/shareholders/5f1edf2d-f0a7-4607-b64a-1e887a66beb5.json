@@ -1,0 +1,88 @@
+{
+  "state": "active",
+  "city": "Saarlouis",
+  "pseudoCompany": false,
+  "street": "Zeppelinstr.",
+  "name": "CityRadio Saarland GmbH",
+  "naturalPerson": false,
+  "squuid": "5f1edf2d-f0a7-4607-b64a-1e887a66beb5",
+  "controlDate": "2021-12-01T17:18:41.054Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "66740",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cityradio-saarland.de/cityradiohomburg",
+        "squuid": "5f1edeb8-5068-4218-8517-8a665161933e"
+      },
+      "squuid": "5f1edf4f-2020-40ff-866d-43932663c68f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cityradio-saarland.de/cityradioneunkirchen",
+        "squuid": "5f200a4e-ee91-4218-91b1-1316b237e90d"
+      },
+      "squuid": "5f200a87-8c7c-4cd2-86c3-d4c7bfe248a8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cityradio-saarland.de/cityradiosaarbruecken",
+        "squuid": "5f200b95-9bd9-4ae8-97dc-8ba4fe3a5acf"
+      },
+      "squuid": "5f200bf5-ca19-4372-a161-9a3f41484afc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cityradio-saarland.de/cityradiosaarlouis",
+        "squuid": "5f200dcc-4dd8-4529-ba4e-941c00989756"
+      },
+      "squuid": "5f200e07-cc69-42d8-9ba0-fd4f16d16a9f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cityradio-saarland.de/cityradiosanktwendel",
+        "squuid": "5f200e7e-e727-441f-a322-1a3d96999937"
+      },
+      "squuid": "5f200ea9-d32e-4113-8dca-3485e6d9950c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "Haubrich, Michael",
+        "squuid": "5be1a6b6-3403-4e31-801f-5cc47444c934"
+      },
+      "squuid": "5f1ee198-0bb9-4547-a22e-0e97a8963dc4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Haubrich, Silke",
+        "squuid": "61a7ab0a-091b-4a9f-9ef5-12bc803a0c94"
+      },
+      "squuid": "61a7ab3f-b006-4206-9dc4-af1e99d60345",
+      "state": "active"
+    }
+  ]
+}

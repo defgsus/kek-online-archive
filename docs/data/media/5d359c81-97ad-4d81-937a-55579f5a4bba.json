@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5d359c81-97ad-4d81-937a-55579f5a4bba",
+  "marketReach": 0.05320295485546925,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Die Presse Verlags-Gesellschaft mbH & Co KG",
+        "squuid": "5d359cbd-bfba-44e9-b7a4-d686e2523399"
+      },
+      "squuid": "5d359db2-4a23-4ab0-bf13-cc9af8ae8096",
+      "state": "active"
+    }
+  ],
+  "name": "www.diepresse.com",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-03T11:12:31.093Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

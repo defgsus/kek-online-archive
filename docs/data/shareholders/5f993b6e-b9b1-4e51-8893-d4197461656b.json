@@ -1,0 +1,38 @@
+{
+  "name": "FM Management GmbH",
+  "pseudoCompany": false,
+  "controlDate": "2021-01-21T15:55:58.778Z",
+  "squuid": "5f993b6e-b9b1-4e51-8893-d4197461656b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.38,
+      "held": {
+        "name": "airtango AG",
+        "squuid": "5c655920-a5da-47d4-a6cc-5755e49eb9f1"
+      },
+      "squuid": "5f993bcc-4859-491e-834b-2402bbaeffaa",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

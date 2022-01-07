@@ -1,0 +1,77 @@
+{
+  "state": "active",
+  "city": "Chemnitz",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Brückenstraße",
+  "name": "F.i.S.-Fernsehen in Sachsen GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-cbf4-47d2-9a60-33d8de97af4b",
+  "controlDate": "2022-01-04T16:37:47.883Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09111",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SACHSEN FERNSEHEN Chemnitz",
+        "squuid": "5be1a6b1-fb76-4943-877a-b9bbc0cfe866"
+      },
+      "squuid": "5be1a6b9-c9df-4877-9c76-894104f3f921",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "SACHSEN eins - Die besten deutschen Hits und die meisten Sachsen-Infos",
+        "squuid": "5fa26d7d-988c-4b49-85f3-450e1c555421"
+      },
+      "squuid": "5fa271cf-975b-47ed-974a-5ea314d339a6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "LEIPZIG eins",
+        "squuid": "5be1a6b1-d495-4735-8aec-9a535f46d2c3"
+      },
+      "squuid": "5fa27750-63c5-400b-88ee-129ea1375d17",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sachsen-fernsehen.de",
+        "squuid": "5f355603-a0ba-4c2e-91cc-577bff9cbccb"
+      },
+      "squuid": "607977ca-94c0-4551-9e88-35e9b50d860d",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "HAESWE GmbH",
+        "squuid": "5be1a6b6-a309-4585-b5b2-491d732594db"
+      },
+      "squuid": "60797836-91f4-4e27-b53d-fa2170c4dc5a",
+      "state": "active"
+    }
+  ]
+}

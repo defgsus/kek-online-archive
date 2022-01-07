@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Eckental",
+  "pseudoCompany": false,
+  "street": "Sendelbacher Straße",
+  "name": "amazing discoveries e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4254-42cb-a449-7aa419eb6bd9",
+  "otherMediaActivities": "amazing discoveries e.V. ist eine von Christen gegründete gemeinnützige Organisation. Die Vereinsmitglieder sind ausschließlich natürliche Personen.",
+  "streetNumber": "3a",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "90542",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "amazing discoveries TV",
+        "squuid": "5be1a6b1-749f-478e-a4b8-ae6ab907665a"
+      },
+      "squuid": "5be1a6b9-9a69-48db-88a8-13b4093dcbe5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.amazing-discoveries.org",
+        "squuid": "5f7725e1-7ad8-4bb9-9742-407ff1502ac0"
+      },
+      "squuid": "5f772616-eb58-4c56-800c-c872148857b3",
+      "state": "active"
+    }
+  ]
+}

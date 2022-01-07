@@ -1,0 +1,37 @@
+{
+  "name": "Familie Orthmann",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-29da-445b-81b9-c9e65304ec8a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Orthmann Holding AG",
+        "squuid": "5be1a6b6-406e-4cfa-bc5c-9d223805a6a2"
+      },
+      "squuid": "5be1a6b7-0278-4256-a7ae-53f723effbaa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "AURO GmbH",
+        "squuid": "5be1a6b6-83d2-45ed-bf94-880e36775626"
+      },
+      "squuid": "5be1a6b7-d4dd-4482-b7b4-2d280a527b77",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

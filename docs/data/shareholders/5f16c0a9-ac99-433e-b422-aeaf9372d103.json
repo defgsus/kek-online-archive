@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Herne mbH & Co. KG",
+        "squuid": "5be1a6b6-d4bf-48c0-a998-2cd684cd00cd"
+      },
+      "squuid": "5f16c104-ce4a-4406-84f2-82e116fd79c1",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Herne",
+  "pseudoCompany": false,
+  "street": "Berliner Platz",
+  "name": "Betriebsverwaltungsgesellschaft Radio Herne mbH",
+  "naturalPerson": false,
+  "squuid": "5f16c0a9-ac99-433e-b422-aeaf9372d103",
+  "controlDate": "2021-12-22T14:01:52.329Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "44623",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5ff5a959-a8d1-4150-afaf-9c3adc2ac4f2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Vermögensverwaltungsgesellschaft für Versorgung und Verkehr der Stadt Herne mbH (VVH)",
+        "squuid": "5be1a6b6-a8a1-4172-8d2b-34afd698ec3b"
+      },
+      "squuid": "5ff5a968-742b-4f83-80ba-e07c460a6992",
+      "state": "active"
+    }
+  ]
+}

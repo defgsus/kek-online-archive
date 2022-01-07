@@ -1,0 +1,43 @@
+{
+  "name": "Heilmann, Thomas",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-aac8-41ba-8502-630219d348e4",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.05,
+      "held": {
+        "name": "Radio Point of Sale GmbH",
+        "squuid": "5be1a6b6-df1d-414d-aff6-b0278c2fca89"
+      },
+      "squuid": "5be1a6b7-9644-44fd-8803-cbdcab0a210f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "MHH Medienholding Hamburg AG",
+        "squuid": "5be1a6b6-156f-455f-ba2a-6e3b6510ae1b"
+      },
+      "squuid": "5be1a6b8-944f-4797-bc27-afc28e0be02a",
+      "state": "active"
+    }
+  ],
+  "city": "Berlin",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Thomaskirchhof",
+  "name": "VICUS Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5d36ff71-2594-41c6-9ee1-cd217be0ecc8",
+  "controlDate": "2021-11-25T16:54:44.074Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "04109",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.auto.de",
+        "squuid": "5d36fedb-1514-430b-93d3-938bb35130d4"
+      },
+      "squuid": "5d37003d-84ba-4b7b-8a5b-8ef6e3578c6b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "VICUS GROUP AG",
+        "squuid": "5d370191-627d-4ed5-9792-a68a30919c94"
+      },
+      "squuid": "5d3701dd-12d4-42f4-bdf0-47e7a88ce620",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "BK Ventures GmbH",
+        "squuid": "5d3701bd-ab8c-4601-807e-88200aa50fc6"
+      },
+      "squuid": "5d3701f2-b844-41ce-a341-1f52edd581c9",
+      "state": "active"
+    }
+  ]
+}

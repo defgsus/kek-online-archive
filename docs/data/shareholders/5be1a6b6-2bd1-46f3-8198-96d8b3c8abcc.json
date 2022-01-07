@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Ludwigsburg",
+  "pseudoCompany": false,
+  "street": "Martin-Luther-Straße",
+  "name": "Classic Line Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2bd1-46f3-8198-96d8b3c8abcc",
+  "streetNumber": "57",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "71636",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "COMEDY FM",
+        "squuid": "5be1a6b1-1ca0-47ca-8143-1707a11983e9"
+      },
+      "squuid": "5be1a6b9-4233-44ef-af08-269f5811f9d2",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gönnenwein, Stefan",
+        "squuid": "5be1a6b6-d80b-49ca-b368-e65807987596"
+      },
+      "squuid": "5be1a6b7-41b0-46d5-aa1b-8e02a29488eb",
+      "state": "active"
+    }
+  ]
+}

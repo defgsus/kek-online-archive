@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 14.5,
+      "held": {
+        "name": "Deutsche Telekom AG",
+        "squuid": "5be1a6b6-24e3-48ff-a771-390feb41d44f"
+      },
+      "squuid": "5be1a6b8-35b7-4637-9d65-50a2ae77e0a5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.6,
+      "held": {
+        "name": "Commerzbank AG",
+        "squuid": "5be1a6b6-48e5-44c4-8b91-f6c13e0492a4"
+      },
+      "squuid": "5be1a6b8-95d0-4130-bab5-7d6f5f970a10",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "held": {
+        "name": "KfW Bankengruppe",
+        "squuid": "5be1a6b6-ffa3-48fa-950e-71b202a55d71"
+      },
+      "squuid": "5be1a6b8-05eb-4685-82cb-4ff4532dd71c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": true,
+  "name": "Bundesrepublik Deutschland",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-811d-465a-a564-99c66cf30704",
+  "controlDate": "2019-07-02T15:50:11.282Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "IJK"
+}

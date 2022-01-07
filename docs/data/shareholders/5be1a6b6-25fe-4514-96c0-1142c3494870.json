@@ -1,0 +1,75 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.6271,
+      "held": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "5be1a6b7-3032-4c58-92e0-d74fc0427302",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Darmstadt",
+  "pseudoCompany": false,
+  "street": "Holzhofallee",
+  "name": "SBB Rundfunkbeteiligungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-25fe-4514-96c0-1142c3494870",
+  "controlDate": "2021-12-07T12:39:03.755Z",
+  "streetNumber": "25-31",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "64295",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "bfb GmbH",
+        "squuid": "5ef9b6b7-583c-4865-8f51-6d25997fe9ab"
+      },
+      "squuid": "5ef9b6e8-cdcb-456b-a223-10dec692c6dd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "LAJ Beteiligungs GmbH",
+        "squuid": "5ef9b6d0-7208-4b8e-87cb-ffc091c8e45b"
+      },
+      "squuid": "5ef9b724-0189-426b-a889-514fa8570a85",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "PSR GmbH",
+        "squuid": "5ef9b6c2-3cfa-49b8-b125-01e65e3beae7"
+      },
+      "squuid": "5ef9b730-61e4-4984-8546-2b54544e9190",
+      "state": "active"
+    }
+  ]
+}

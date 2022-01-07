@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Kiel",
+  "pseudoCompany": false,
+  "street": "An der Halle",
+  "name": "Verlagskontor Schleswig-Holstein GmbH",
+  "naturalPerson": false,
+  "squuid": "611d1d55-b4a5-4b2d-bd0e-17223661231d",
+  "controlDate": "2021-08-18T14:51:37.312Z",
+  "streetNumber": "400",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "24143",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "lebensart im norden",
+        "squuid": "6017e8db-5458-4257-bfa2-3d11edaf489f"
+      },
+      "squuid": "611d1d8f-6225-418c-b0d4-72913f052de3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lebensart-sh.de",
+        "squuid": "611d1d75-e254-4cc8-97c8-9c5e9982dde3"
+      },
+      "squuid": "611d1e1e-0f90-4ee6-92f4-deef2405e0ae",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "falkemedia GmbH & Co KG",
+        "squuid": "5be1a6b6-9183-46c4-90cc-af28ea669864"
+      },
+      "squuid": "611d1f9d-a10b-44da-9851-ec8f9d0bb043",
+      "state": "active"
+    }
+  ]
+}

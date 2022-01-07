@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Schleswig",
+  "pseudoCompany": false,
+  "street": "Lerchenstr.",
+  "name": "Nissen, Marc",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-327d-4103-b335-a941042dca95",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "24837",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kalimbo",
+        "squuid": "5be1a6b1-7c86-4f6f-b4ba-218ce930f98b"
+      },
+      "squuid": "5be1a6b9-6424-4631-963b-ccde628640d9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kalimbo-spielt.de",
+        "squuid": "5f195794-d6d5-4b66-a511-0d1dacab92f9"
+      },
+      "squuid": "5f195820-92b3-4448-98ae-d6234220b329",
+      "state": "active"
+    }
+  ],
+  "credits": "Az: KEK 958"
+}

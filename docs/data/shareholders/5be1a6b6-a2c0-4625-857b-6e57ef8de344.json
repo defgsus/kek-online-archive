@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Dublin (EIR)",
+  "pseudoCompany": false,
+  "street": "Point Square",
+  "name": "Yahoo EMEA Ltd.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a2c0-4625-857b-6e57ef8de344",
+  "controlDate": "2021-11-25T15:06:46.653Z",
+  "streetNumber": "5-7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.aol.de",
+        "squuid": "5be1a6b1-3422-4a26-a0be-9563141c9513"
+      },
+      "squuid": "5be1a6b9-8104-400c-83cf-75834f1d9976",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.yahoo.com",
+        "squuid": "5d2c449a-5f8e-43c9-ae25-35ff4438a25d"
+      },
+      "squuid": "5d2c44c8-32a6-474d-ac83-3194b050e50f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verizon Communications Inc.",
+        "squuid": "5d2c48e1-fc0d-4fb5-bc41-1823e7a66a1e"
+      },
+      "squuid": "5d2c4903-2f45-4f80-974a-b55f8fd92d47",
+      "state": "active"
+    }
+  ]
+}

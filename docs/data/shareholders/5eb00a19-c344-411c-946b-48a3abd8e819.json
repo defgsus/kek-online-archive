@@ -1,0 +1,80 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Motor Presse Stuttgart GmbH & Co. KG",
+        "squuid": "5be1a6b6-99ba-4261-b3c0-411c299e72ae"
+      },
+      "squuid": "5eb00a4b-d511-4c58-9d2a-97024ab5b525",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Leuschnerstr.",
+  "name": "Motor Presse Stuttgart Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5eb00a19-c344-411c-946b-48a3abd8e819",
+  "controlDate": "2021-11-23T10:00:08.458Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70174",
+  "corporationName": "Motor Presse Stuttgart",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Dietrich-Troeltsch, Dr. Hermann",
+        "squuid": "5be1a6b6-af3e-4bb2-b793-fed309ea872e"
+      },
+      "squuid": "5eba7272-0fc0-40cb-ae2e-d8f8c682e693",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.1,
+      "holder": {
+        "name": "P + S Verwaltungsgesellschaft mbH",
+        "squuid": "5be1a6b6-8cbc-42a9-8413-c25fd82ddf1a"
+      },
+      "squuid": "5eba72a4-e1ac-4b1c-8338-0d35cda22fda",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 29.95,
+      "holder": {
+        "name": "Pietsch, Peter-Paul",
+        "squuid": "5be1a6b6-f2d8-4bca-bfb9-3b085b9ab5b0"
+      },
+      "squuid": "5eba72de-67e0-44e8-a78b-e8b98f21de21",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 29.95,
+      "holder": {
+        "name": "Scholten, Patricia",
+        "squuid": "5be1a6b6-6cb3-4d4f-9be3-c0f3317b240f"
+      },
+      "squuid": "5eba7303-f560-4567-a413-02664db95cba",
+      "state": "active"
+    }
+  ]
+}

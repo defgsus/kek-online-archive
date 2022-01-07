@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Kempten",
+  "pseudoCompany": false,
+  "street": "Lindauer Str.",
+  "name": "Baumann & Häuslinger GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7629-4a2b-ac21-410418220bc8",
+  "controlDate": "2021-11-23T11:50:56.109Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "87439",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "AllgäuHIT",
+        "squuid": "5be1a6b1-0812-48aa-9c75-bd945cb5f3cc"
+      },
+      "squuid": "5be1a6b9-ed05-4166-b461-0f61308b9863",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.allgaeuhit.de",
+        "squuid": "5f844cc2-f498-4ada-85f0-4b42b0284bb9"
+      },
+      "squuid": "5f844d1e-9279-461f-80f6-32db19c1d6b3",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Baumann, Markus",
+        "squuid": "5be1a6b6-2da7-40ef-bede-054859d65e05"
+      },
+      "squuid": "5be1a6b8-2779-452c-9a49-3d09dcbb1e2d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Häuslinger, Thomas",
+        "squuid": "5be1a6b6-b16f-4783-83e2-3ab588db0ed9"
+      },
+      "squuid": "5be1a6b8-987c-4de7-acc5-5f5debf68f58",
+      "state": "active"
+    }
+  ]
+}

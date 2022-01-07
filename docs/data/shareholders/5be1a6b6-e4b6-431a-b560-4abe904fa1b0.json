@@ -1,0 +1,39 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "1-2-3.tv GmbH",
+        "squuid": "5be1a6b6-b308-419c-8320-0944300cfe20"
+      },
+      "squuid": "5be1a6b7-63f8-4bf7-b660-75e603708958",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "123tv Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e4b6-431a-b560-4abe904fa1b0",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "credits": "Auskunft der 1-2-3.tv GmbH vom 08.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "123tv Holding GmbH",
+        "squuid": "5be1a6b6-560f-4705-889b-808fe6a81179"
+      },
+      "squuid": "5be1a6b8-f904-488b-8d1d-ba55e317f90d",
+      "state": "active"
+    }
+  ]
+}

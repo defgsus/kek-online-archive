@@ -1,0 +1,82 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Lokalradio Kreis Neuss GmbH & Co. KG",
+        "squuid": "5be1a6b6-d6ff-4a81-b8c0-cb16b7e7a0cf"
+      },
+      "squuid": "5be1a6b8-fdb4-4b4f-9efa-4b6748246cf4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lokalfunk Kreis Neuss Verwaltungs-GmbH",
+        "squuid": "5f16f1b9-1a6b-4e40-b2f4-32a4cff524a5"
+      },
+      "squuid": "5ff5c46d-645d-41eb-ab2c-dd84beee1899",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Neuss",
+  "pseudoCompany": false,
+  "street": "Moselstr.",
+  "name": "Lokalfunk Kreis Neuss GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-a6f1-45b2-95c7-d6f226766226",
+  "controlDate": "2021-12-15T17:08:45.577Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "41464",
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 92.0,
+      "holder": {
+        "name": "PFD Pressefunk GmbH",
+        "squuid": "5be1a6b6-761b-43ab-b113-3d2fb927889c"
+      },
+      "squuid": "5be1a6b8-1c2f-4699-9164-cca06cf4d3fb",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lokalfunk Kreis Neuss Verwaltungs-GmbH",
+        "squuid": "5f16f1b9-1a6b-4e40-b2f4-32a4cff524a5"
+      },
+      "squuid": "5f16f3a1-3a61-4c38-a956-7c56245ff887",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.0,
+      "holder": {
+        "name": "Westdeutsche Zeitung GmbH & Co KG",
+        "squuid": "5be1a6b6-415d-4a70-8991-2d894c374633"
+      },
+      "squuid": "5f16f3d0-6e98-4dd4-9276-1d78f92cf7cc",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "held": {
+        "name": "Druckerei und Verlag Hans Högel KG",
+        "squuid": "5be1a6b6-f496-4b01-9204-ae8cbb56a1c9"
+      },
+      "liabilitySum": 100.0,
+      "squuid": "5be1a6b7-047e-405b-ba15-5640d0c9269c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mindelheim",
+  "pseudoCompany": false,
+  "name": "Högel, Johannes",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-173c-4abc-b50e-2ceceebe534b",
+  "controlDate": "2019-06-14T10:38:45.769Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "credits": "IJK"
+}

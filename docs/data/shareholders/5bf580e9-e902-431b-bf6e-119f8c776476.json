@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "Friedrichstraße",
+  "name": "WAZ Finanzierungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5bf580e9-e902-431b-bf6e-119f8c776476",
+  "controlDate": "2019-07-10T14:02:06.410Z",
+  "streetNumber": "34-38",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "45128",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Mediengruppe GmbH & Co. KGaA",
+        "squuid": "5be1a6b6-6d6f-4b05-b3c4-8202f7c67653"
+      },
+      "squuid": "5bf58171-1cc4-4e3a-a813-6091ed049483",
+      "state": "active"
+    }
+  ]
+}

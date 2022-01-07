@@ -1,0 +1,32 @@
+{
+  "name": "Gemeinde Stemwede",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-a312-4981-9d15-746c2f74a92c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.63,
+      "held": {
+        "name": "Radio Minden-Lübbecke GmbH & Co. KG",
+        "squuid": "5be1a6b6-1d3f-41b8-adb3-87fcb17f51e2"
+      },
+      "squuid": "5be1a6b8-fee7-4efc-b847-6276bcbcdf31",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

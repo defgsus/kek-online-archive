@@ -1,0 +1,44 @@
+{
+  "name": "Schlager, Rudolf",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-91a6-480a-a9fe-d6ca080a1221",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 37.52,
+      "held": {
+        "name": "rkw Radio Königs Wusterhausen GmbH & Co. KG",
+        "squuid": "5be1a6b6-69e0-4daf-a710-83e0f0e54de7"
+      },
+      "squuid": "5be1a6b7-0252-4de6-b4ce-8301ca50ab18",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.36,
+      "held": {
+        "name": "rkw Radio Königs Wusterhausen Verwaltungs GmbH",
+        "squuid": "60b75905-73c5-4e38-81ff-e227ed1e321b"
+      },
+      "squuid": "60d06938-fe6d-4737-becb-2863c73279cb",
+      "state": "active"
+    }
+  ],
+  "city": "Meaux (F)",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

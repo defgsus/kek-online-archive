@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f33f276-2be6-4ceb-bc85-d9dae8b2cb24",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Lokal-Radio Cottbus GmbH",
+        "squuid": "5be1a6b6-9417-45d2-b1c0-971ab49e6394"
+      },
+      "squuid": "5f33f2a7-eabd-4238-ba80-cd6684089122",
+      "state": "active"
+    }
+  ],
+  "name": "www.radio-cottbus.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-20T15:21:02.863Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

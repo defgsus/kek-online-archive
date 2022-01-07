@@ -1,0 +1,108 @@
+{
+  "state": "active",
+  "city": "Oberhaching",
+  "pseudoCompany": false,
+  "street": "Grünwalder Weg",
+  "name": "SPIEGEL TV Geschichte und Wissen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-8981-44ba-940e-43e7e7159fa7",
+  "otherMediaActivities": "",
+  "controlDate": "2022-01-05T16:31:13.356Z",
+  "streetNumber": "28 d",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82041",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SPIEGEL Geschichte",
+        "squuid": "5be1a6b1-90a6-47fe-90d3-8dee78399b04"
+      },
+      "squuid": "5be1a6b9-c067-4d60-9200-88a9ea0b15ee",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "SPIEGEL TV Wissen",
+        "squuid": "5be1a6b1-f0be-4a6f-ad50-12a06cefa636"
+      },
+      "squuid": "5be1a6b9-86c0-4e71-825c-50461b7b058c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.spiegel-geschichte.tv",
+        "squuid": "5f1963f6-af63-4be6-9961-533d7b93206d"
+      },
+      "squuid": "5f19643f-1b21-41fd-8a18-8188b48bbde9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.spiegelwissen.tv",
+        "squuid": "5f196d9c-44d6-43f6-aab4-36c595beeac8"
+      },
+      "squuid": "5f196dd7-24b7-4076-9bf2-2870411383ba",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 13.10.2015, Az.: KEK 843, und Bescheid der MA HSH vom 22.10.2015",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 34.0,
+      "holder": {
+        "name": "SPIEGEL TV GmbH",
+        "squuid": "5be1a6b6-16c9-4c58-9037-a0a95a6e46d8"
+      },
+      "squuid": "5be1a6b7-92b5-4507-aa92-a84454b83bb4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 34.0,
+      "holder": {
+        "name": "Autentic GmbH",
+        "squuid": "5be1a6b6-ca3d-4f40-9acf-89ab4c8a18cf"
+      },
+      "squuid": "5be1a6b7-2ef6-4bfa-b900-7e3f1ae64ab8",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SPIEGEL TV Geschichte und Wissen Verwaltungs-GmbH",
+        "squuid": "5f1964f6-4e42-484d-924c-b6d0faead925"
+      },
+      "squuid": "5f19653d-10dc-4f0d-baf7-d62041cd91f7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 32.0,
+      "holder": {
+        "name": "Curiosity Inc.",
+        "squuid": "615aeb35-57f5-4517-a5d0-249be72f0e5b"
+      },
+      "squuid": "615aec86-a962-4bcb-b6cc-b8d268acf7da",
+      "state": "active"
+    }
+  ]
+}

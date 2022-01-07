@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Salzbrunner Straße",
+  "name": "Sinistra GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3f06-4f4f-9e51-53e8b7555d0f",
+  "streetNumber": "17",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "14193",
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Goldmann, Elisabeth",
+        "squuid": "5be1a6b6-6fad-48da-89cc-fedc3e9f24d8"
+      },
+      "squuid": "5be1a6b7-3697-4c80-a483-52033e918b6c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Vogler, Bärbel",
+        "squuid": "5be1a6b6-179a-4686-b248-f67a864b605b"
+      },
+      "squuid": "5be1a6b7-c530-475f-b965-afb738fc268c",
+      "state": "active"
+    }
+  ]
+}

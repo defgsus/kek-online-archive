@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Mittelweg 144",
+  "name": "news aktuell GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-30b2-40ee-b6d6-ee42532cd80b",
+  "controlDate": "2021-12-15T17:10:25.022Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20148",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.presseportal.de",
+        "squuid": "5be1a6b1-1c70-45b8-801f-12ab479876af"
+      },
+      "squuid": "5be1a6b9-8ed7-442d-85db-8418a4e1a0f3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.newsaktuell.de",
+        "squuid": "5be1a6b1-fbae-45c7-8b1a-fa1c47537195"
+      },
+      "squuid": "5be1a6b9-fc64-4abc-969c-6d9c48cd0c3a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "dpa Deutsche Presse Agentur GmbH",
+        "squuid": "5be1a6b6-d7c9-45c5-99de-2acb723d2e72"
+      },
+      "squuid": "5be1a6b8-4169-4f93-9aec-b01e8b7f99d0",
+      "state": "active"
+    }
+  ]
+}

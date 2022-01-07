@@ -1,0 +1,149 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Wollgrasweg 41",
+  "name": "Eugen Ulmer KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-66b7-48d1-bdeb-2d34f4e9118a",
+  "controlDate": "2021-10-18T12:41:05.685Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70599",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Obst und Garten",
+        "squuid": "5be1a6b1-4de0-4a50-aa58-dc913a7028a5"
+      },
+      "squuid": "5be1a6b9-c99a-4966-8523-215517318c33",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gartenpraxis",
+        "squuid": "5be1a6b1-6698-47de-8135-c2ce0f19863c"
+      },
+      "squuid": "5be1a6b9-7a63-44d1-885d-57b57db9430f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gartenpraxis.de",
+        "squuid": "5be1a6b1-ceb3-411a-b5be-5261de4315fe"
+      },
+      "squuid": "5be1a6b9-5bcc-4ac6-8bd4-8a14d4bdf240",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.obst-und-garten.de",
+        "squuid": "5c5c0304-460b-4490-b98b-1bdf11ed8d85"
+      },
+      "squuid": "5c5c031c-13b3-4d48-8252-15d20ae5f174",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Jagd in Baden-Württemberg",
+        "squuid": "5dfa30b1-32c2-4de0-bcb9-6557f76015b9"
+      },
+      "squuid": "5dfa30fb-0112-4aa2-a2ed-5a6d4966c717",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "#Ö",
+        "squuid": "603e44b9-a789-42cf-9175-4e262b60513a"
+      },
+      "squuid": "603e451f-4f64-453d-9d66-caba9678fc3c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.oekologisch-erfolgreich.de",
+        "squuid": "6101329e-f09f-4a30-bfc2-b61590c25668"
+      },
+      "squuid": "610132bd-2fa3-4c5e-8369-f56ef42bcfdd",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 66.6,
+      "holder": {
+        "name": "Ulmer, Gerhard",
+        "squuid": "5be1a6b6-1fdb-4b75-b42a-e64656d71ece"
+      },
+      "squuid": "5be1a6b8-0c8d-4757-889c-9e6346ee505e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.6,
+      "holder": {
+        "name": "Ulmer, Roland",
+        "squuid": "5be1a6b6-c2e3-461f-b2c3-4061c33204a2"
+      },
+      "squuid": "5be1a6b8-faeb-42c1-8a6b-70d9768405dc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.9,
+      "holder": {
+        "name": "Ulmer, Almut",
+        "squuid": "5be1a6b6-a37d-46b8-8a05-77da50d5d5b3"
+      },
+      "squuid": "5be1a6b8-3d94-4e0c-874b-fed7a32dd87d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.9,
+      "holder": {
+        "name": "Ulmer-Eilfort, Constanze",
+        "squuid": "5be1a6b6-0290-4db7-b7c0-28e66284fabc"
+      },
+      "squuid": "5be1a6b8-9326-464b-b2cc-7467b8d4f5d5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Roland Ulmer GmbH",
+        "squuid": "5ecb9c58-873f-4a5f-bc2f-90050b1b2e35"
+      },
+      "squuid": "5ecb9cc3-a3da-4728-a2a3-a99671db8b57",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Ulmer, Matthias",
+        "squuid": "5ecb9c82-43d2-412d-a2db-bdc4985479ce"
+      },
+      "squuid": "5ecb9cd3-6ce7-4879-835a-8d508c20d309",
+      "state": "active"
+    }
+  ]
+}

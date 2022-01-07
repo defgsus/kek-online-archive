@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f805bf3-7eed-4cf3-a047-17ca630f8d20",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "WeltN24 GmbH",
+        "squuid": "5be1a6b6-4dcb-4243-9296-0269946f3264"
+      },
+      "squuid": "5f805c3a-0a2c-44df-b9de-19411fa6a6d6",
+      "state": "active"
+    }
+  ],
+  "name": "www.welt.de/live/",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-07T14:03:11.881Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

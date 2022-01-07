@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Brühl",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-ddbe-4c7b-9628-839cd407d890",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.25,
+      "held": {
+        "name": "Radio Erft GmbH & Co. KG",
+        "squuid": "5be1a6b6-26f0-4203-9c63-c3255f841c81"
+      },
+      "squuid": "5be1a6b7-a3b6-42ef-8995-a762a3c76870",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

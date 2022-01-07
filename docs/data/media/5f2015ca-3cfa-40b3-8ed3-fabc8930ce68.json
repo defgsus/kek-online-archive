@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f2015ca-3cfa-40b3-8ed3-fabc8930ce68",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "radio B2 GmbH",
+        "squuid": "5be1a6b6-03f0-4d87-841b-249e957d36cc"
+      },
+      "squuid": "5f2015fa-3616-4dce-aae7-6a12582cc9de",
+      "state": "active"
+    }
+  ],
+  "name": "www.schlagerradiob2.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-05T11:55:17.455Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

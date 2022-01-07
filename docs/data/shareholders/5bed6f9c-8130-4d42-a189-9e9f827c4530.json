@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Garmischer Straße ",
+  "name": "Abendzeitung Digital GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5bed6f9c-8130-4d42-a189-9e9f827c4530",
+  "controlDate": "2021-01-15T13:42:32.064Z",
+  "streetNumber": "35",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81373",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.abendzeitung-muenchen.de",
+        "squuid": "5be1a6b1-c5fd-4539-80f4-9806019ce7b2"
+      },
+      "squuid": "5bed6fb6-6dd8-450c-9f4e-5438807ac54f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Abendzeitung München Verlags-GmbH",
+        "squuid": "5be1a6b6-cbfd-4471-b6a8-126aca7ee7c3"
+      },
+      "squuid": "5bed7042-b401-4a22-803a-5ee113c2ede1",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "AZ Digital Verwaltungs GmbH",
+        "squuid": "5eeb4723-4b0d-471f-9f46-0fabcd11dde8"
+      },
+      "squuid": "5eeb4752-b3ed-4dd5-a52c-e4848385654c",
+      "state": "active"
+    }
+  ]
+}

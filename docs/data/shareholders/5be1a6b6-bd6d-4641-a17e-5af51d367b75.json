@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Barmbeker Straße 2",
+  "name": "Content Fleet GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-bd6d-4641-a17e-5af51d367b75",
+  "controlDate": "2021-12-06T10:13:59.787Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22303",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.einfachtierisch.de",
+        "squuid": "5be1a6b1-2c42-4083-9ae5-779251e2454c"
+      },
+      "squuid": "5be1a6b9-4c0d-4f9a-b8d2-c67245b855ee",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Ströer Content Group GmbH",
+        "squuid": "5be1a6b6-710a-4e14-ad65-f50014a6c653"
+      },
+      "squuid": "5be1a6b8-d19f-4606-bd30-f3534ba72225",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Dunker, Michael",
+        "squuid": "60758867-df2c-4b5b-a2e9-f94789f18fba"
+      },
+      "squuid": "6075888c-da3d-48a9-b1a1-fbdbd436cff7",
+      "state": "active"
+    }
+  ]
+}

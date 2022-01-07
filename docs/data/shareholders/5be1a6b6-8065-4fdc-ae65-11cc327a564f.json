@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Lübbecke",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-8065-4fdc-ae65-11cc327a564f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.11,
+      "held": {
+        "name": "Radio Minden-Lübbecke GmbH & Co. KG",
+        "squuid": "5be1a6b6-1d3f-41b8-adb3-87fcb17f51e2"
+      },
+      "squuid": "5be1a6b8-8cf7-4312-bf25-ce0df04d708b",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

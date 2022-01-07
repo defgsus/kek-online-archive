@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Nürburg",
+  "pseudoCompany": false,
+  "street": "Nürburgring Boulevard",
+  "name": "VLN VV GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5fd4004a-fc02-4e89-adec-ab42e6e45b2f",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53520",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "VLN TV",
+        "squuid": "5fd40026-2c50-41cb-aa76-17f406356ea8"
+      },
+      "squuid": "5fd4041d-f071-4c38-b14a-2e201c5181be",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Capricorn Nürburgring Besitzgesellschaft mbH",
+        "squuid": "5fd400ca-643b-441b-aa09-0e9001bd03ad"
+      },
+      "squuid": "5fd404a5-1831-40ab-8034-8c0036a97d21",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Veranstaltergemeinschaft Langstreckenmeisterschaft Nürburgring (VLN) e.V. & Co. oHG",
+        "squuid": "5fd400fa-f697-4d5e-82de-bb5a6693a489"
+      },
+      "squuid": "5fd404b9-b2f7-4686-b057-ebe20af85ad7",
+      "state": "active"
+    }
+  ]
+}

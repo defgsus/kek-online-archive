@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Potsdam",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Gerlachstr.",
+  "name": "Babelsberg Hitradio GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1f71-4aaa-b1f0-9c59e219417f",
+  "controlDate": "2021-11-30T16:30:07.626Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "14480",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bheins",
+        "squuid": "5be1a6b1-8e33-4587-8c6a-8706f15384ab"
+      },
+      "squuid": "5be1a6b9-a538-41a2-905c-8612bc1ba34d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bheins.de",
+        "squuid": "5f35470a-d2b1-4603-ae34-ce78f814d09d"
+      },
+      "squuid": "5f35475c-7df8-4255-a5d2-5fb8e748d2b0",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Behrenwald, Hartmut",
+        "squuid": "5be1a6b6-7f1c-4dde-a571-7295ce086ff2"
+      },
+      "squuid": "5be1a6b8-23e6-4f91-9655-075e942e857b",
+      "state": "active"
+    }
+  ]
+}

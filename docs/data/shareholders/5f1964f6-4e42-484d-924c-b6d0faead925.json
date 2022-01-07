@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "SPIEGEL TV Geschichte und Wissen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8981-44ba-940e-43e7e7159fa7"
+      },
+      "squuid": "5f19653d-10dc-4f0d-baf7-d62041cd91f7",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Oberhaching",
+  "pseudoCompany": false,
+  "street": "Grünwalder Weg",
+  "name": "SPIEGEL TV Geschichte und Wissen Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5f1964f6-4e42-484d-924c-b6d0faead925",
+  "controlDate": "2022-01-05T16:28:07.629Z",
+  "streetNumber": "28d",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82041",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "SPIEGEL TV GmbH",
+        "squuid": "5be1a6b6-16c9-4c58-9037-a0a95a6e46d8"
+      },
+      "squuid": "5f1e9382-2ed1-47fc-b7ed-529363c4746c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Autentic GmbH",
+        "squuid": "5be1a6b6-ca3d-4f40-9acf-89ab4c8a18cf"
+      },
+      "squuid": "5f1e9394-7aac-47d1-a346-ba8c0fae2b53",
+      "state": "active"
+    }
+  ]
+}

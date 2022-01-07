@@ -1,0 +1,66 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Jenfelder Allee",
+  "name": "Sportdigital.TV Sende- und Produktions GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ec20-4ad4-85d5-8fd11eb94dc3",
+  "controlDate": "2022-01-06T10:39:26.178Z",
+  "streetNumber": "80",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22045",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SPORTDIGITAL FUSSBALL",
+        "squuid": "5be1a6b1-8e9b-4457-9dea-f2e0d521e71f"
+      },
+      "squuid": "5be1a6b9-5d57-485d-bc17-be6bb67bddd7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "EDGEsport",
+        "squuid": "5e6764b5-f32b-42f6-a271-00576a99127a"
+      },
+      "squuid": "5e67670c-aff3-48ff-ba53-5eb3a0e2680e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sportdigital.de",
+        "squuid": "5f184dff-d779-456b-8eff-5681ac5d027b"
+      },
+      "squuid": "5f184e56-8df0-4013-b935-1ded924aebda",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.04.2017, Az.: KEK 909, und Bescheid der MA HSH vom 13.04.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Sportainment Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-1453-4f65-9406-1767aef2e002"
+      },
+      "squuid": "5be1a6b7-1a36-4c1b-9c63-389883a53902",
+      "state": "active"
+    }
+  ]
+}

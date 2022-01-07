@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Kaufingerstraße",
+  "name": "Tele-München Fernseh-GmbH & Co. Produktionsgesellschaft",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4b78-467a-8436-9b364d088687",
+  "controlDate": "2020-07-07T09:18:25.892Z",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "80331",
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 11.01.2017",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Show Jupiter Verwaltungs GmbH",
+        "squuid": "5f043e35-69b1-4e73-b227-5612e10e3c05"
+      },
+      "squuid": "5f043e5b-4ecf-47d9-98f2-b983626b7ae6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "LEONINE Licensing AG",
+        "squuid": "5f058d68-5110-4bbe-99e8-e2804193570e"
+      },
+      "squuid": "5f0db636-aeb3-45c0-bdb2-ae8cf1748ee0",
+      "state": "active"
+    }
+  ]
+}

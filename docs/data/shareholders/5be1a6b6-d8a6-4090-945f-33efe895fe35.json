@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "Frankfurt am Main",
+  "pseudoCompany": false,
+  "street": "Mainzer Landstr.",
+  "name": "AR Media Service GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d8a6-4090-945f-33efe895fe35",
+  "otherMediaActivities": "Jennifer Lapidakis, alleinige Gesellschafterin der AR Media Service GmbH, ist mittelbar auch an der Veranstalterin der bundesweiten Fernsehspartenprogramme ANIXE HD Serie und ANIXE SD, der ANIXE HD Television GmbH & Co. KG, beteiligt: Jennifer Lapidakis hält sämtliche Anteile der geschäftsführenden Komplementär-GmbH, ihre Mutter Marion Lapidakis sämtliche Kommanditanteile der ANIXE HD Television GmbH & Co. KG.",
+  "controlDate": "2021-11-25T16:14:20.141Z",
+  "streetNumber": "49",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60329",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Aristo TV",
+        "squuid": "5be1a6b1-c28c-4822-ac12-91114fee9af6"
+      },
+      "squuid": "5be1a6b9-b5a6-4762-b03c-9667c26a0626",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Aristo HD",
+        "squuid": "5be1a6b1-be6a-4f32-bb0c-e02a2f641500"
+      },
+      "squuid": "5be1a6b9-aad6-4e6f-8733-6158f12f97e6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.aristo-tv.de",
+        "squuid": "5f3a7808-d0b5-4d63-9338-99e25a9e0ebd"
+      },
+      "squuid": "5f3a783a-758e-47b0-8bde-b8ce6aea4c1a",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 10.01.2017, Az.: KEK 896, und Bescheid der LPR Hessen vom 02.02.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Lapidakis, Marion",
+        "squuid": "5be1a6b6-c320-4be8-99ab-75d6285036ae"
+      },
+      "squuid": "5f3a79e9-9184-4be1-afe1-dbde630f5c57",
+      "state": "active"
+    }
+  ]
+}

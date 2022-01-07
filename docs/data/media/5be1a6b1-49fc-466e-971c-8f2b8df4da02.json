@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "5be1a6b1-49fc-466e-971c-8f2b8df4da02",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.ndr.de/nachrichten/info/infospezial/index.html",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Norddeutscher Rundfunk (NDR)",
+        "squuid": "5be1a6b6-f139-4f07-95d0-bf1060f47ff8"
+      },
+      "squuid": "5be1a6b9-537b-4da8-961b-9cd9609f0d30",
+      "state": "active"
+    }
+  ],
+  "name": "NDR Info Spezial",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": true,
+  "rfDirector": "Joachim Knuth",
+  "type": "radio",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "accessibilityEmail": "ndr@ndr.de"
+}

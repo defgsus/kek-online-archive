@@ -1,0 +1,111 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Wochenblatt Verlagsgruppe GmbH",
+        "squuid": "5be1a6b6-a09e-4fd9-a66f-bccb0bed1d13"
+      },
+      "squuid": "5ca5f398-412f-40a4-8348-cbd8e1e3e487",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Passau",
+  "pseudoCompany": false,
+  "street": "Medienstr.",
+  "name": "Optima Vermögensverwaltung GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5ca5f336-baa9-467b-bbbc-1fddd912d900",
+  "controlDate": "2021-12-07T17:26:11.726Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "94036",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Diekmann, Dr. Axel",
+        "squuid": "5be1a6b6-5a02-48ec-933d-8e72c1cc6d26"
+      },
+      "squuid": "5ca5f3c1-39a7-4c06-be4b-b08018431209",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Tucci-Diekmann, Simone",
+        "squuid": "5be1a6b6-9cdc-478d-82f0-0390a5924321"
+      },
+      "squuid": "5ca5f3cc-bc71-4a1a-aec9-2d52ddc08ae3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Diekmann, Alexander",
+        "squuid": "5be1a6b6-5010-4014-85dc-94b214593f6c"
+      },
+      "squuid": "5ca5f3db-1922-4ebb-9709-f72bc80535e1",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Optima Beteiligungs GmbH",
+        "squuid": "5f06d6b3-d22b-492e-9a68-29dbd5cff213"
+      },
+      "squuid": "5f06d6e3-14e2-4669-9587-a763c0f50c92",
+      "state": "active"
+    }
+  ]
+}

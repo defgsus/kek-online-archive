@@ -1,0 +1,80 @@
+{
+  "rfRepresentative": "Sabine Hoffmann",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Andreas Schütz",
+  "rfStartDate": "11.02.2000",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-a57d-45c0-b758-e02ae52174ce",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "http://www.alltv.ca/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)",
+        "squuid": "5be1a6b6-e9f0-4f2b-9954-f816166f000e"
+      },
+      "squuid": "5be1a6b9-cdbc-4280-bac3-635ca9030f2e",
+      "state": "active"
+    }
+  ],
+  "name": "All-TV",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+    "name": "Spartenprogramm (Information/Dokumentation)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Spartenprogramm, das die Öffentlichkeit, die Medien sowie Wissenschaft und Politik über einzelne Projekte des DLR und dessen Tätigkeit im Allgemeinen informiert.",
+  "rfLicenseUntil": "unbefristet",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "10.07.2008",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "accessibilityEmail": "auf koreanisch",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

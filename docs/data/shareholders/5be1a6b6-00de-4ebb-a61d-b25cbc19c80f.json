@@ -1,0 +1,31 @@
+{
+  "name": "FC Bayern München e.V.",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-00de-4ebb-a61d-b25cbc19c80f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "FC Bayern München AG",
+        "squuid": "5be1a6b6-51d0-4b73-8507-381f417fa25a"
+      },
+      "squuid": "5be1a6b8-94e8-4832-947b-80443b13a872",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

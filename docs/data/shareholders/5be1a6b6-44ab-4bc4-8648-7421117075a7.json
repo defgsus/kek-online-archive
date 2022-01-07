@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "Bielefeld",
+  "pseudoCompany": false,
+  "street": "Niehausweg",
+  "name": "NerdStar UG (haftungsbeschränkt)",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-44ab-4bc4-8648-7421117075a7",
+  "controlDate": "2021-12-15T16:36:48.470Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "33739",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "NerdStar",
+        "squuid": "5be1a6b1-12df-4501-92b0-263bff105465"
+      },
+      "squuid": "5be1a6b9-5743-4ae4-aa75-15b2c699e74f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nerdstar.de",
+        "squuid": "5f1179da-78b2-4dd1-a2b2-68d53c7fde97"
+      },
+      "squuid": "5f117a0c-a489-4927-b8d3-137e6df5def5",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 13.06.2017, Az.: KEK 917, und Bescheid der LfM vom 04.07.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Ludewig, Dirk",
+        "squuid": "5be1a6b6-97d7-4dd3-984e-4da1921cb79a"
+      },
+      "squuid": "5be1a6b8-8ef5-46a0-a33e-dc2c200e1879",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Menk, Marcel",
+        "squuid": "5be1a6b6-bfe8-42fb-8fc6-23b00cf84ae9"
+      },
+      "squuid": "5be1a6b8-58e5-454c-bb8b-c9d2e2be4c3e",
+      "state": "active"
+    }
+  ]
+}

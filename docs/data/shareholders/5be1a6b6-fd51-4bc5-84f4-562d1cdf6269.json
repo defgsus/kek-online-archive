@@ -1,0 +1,38 @@
+{
+  "name": "Streubesitz an der The Walt Disney Company",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-fd51-4bc5-84f4-562d1cdf6269",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 86.4,
+      "held": {
+        "name": "The Walt Disney Company",
+        "squuid": "5be1a6b6-2159-4e8a-8bcf-7a6b7af0e573"
+      },
+      "squuid": "5be1a6b7-59d7-46b6-99ba-6a964faacb04",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 13.03.2018; Az: KEK 956",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

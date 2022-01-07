@@ -1,0 +1,91 @@
+{
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Friedenstraße 41",
+  "name": "Rock Hard Verlags- und Handelsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6eca-4e7a-bbbf-cc539e3ec75a",
+  "controlDate": "2021-11-10T11:40:43.753Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "44139",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rock Hard",
+        "squuid": "5be1a6b1-fca5-4984-89ba-4770052ed2a7"
+      },
+      "squuid": "5be1a6b9-3f31-4629-af94-ae0ed7cb112b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rockhard.de",
+        "squuid": "5be1a6b1-7d74-4ba9-aa82-2ddd6e712218"
+      },
+      "squuid": "5be1a6b9-ccf9-4896-ab68-a3cbf5d6bd1c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 78.2,
+      "holder": {
+        "name": "Stratmann, Holger",
+        "squuid": "5be1a6b6-ab83-489e-9710-ccf9a1453e2f"
+      },
+      "squuid": "5be1a6b8-f1be-4891-b683-f901f5a7f3bb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.45,
+      "holder": {
+        "name": "Eigenbesitz der Rock Hard GmbH",
+        "squuid": "5be1a6b6-36ef-4619-8018-f5c9813a57df"
+      },
+      "squuid": "5be1a6b8-d85e-423e-b796-7ec2ea4665b6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.45,
+      "holder": {
+        "name": "Kuper, Thomas",
+        "squuid": "5be1a6b6-4b99-4516-9022-9472080979b1"
+      },
+      "squuid": "5be1a6b8-27e0-4078-8e92-13f879e77d49",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.45,
+      "holder": {
+        "name": "Rensen, Michael",
+        "squuid": "5be1a6b6-bc6e-41e5-a8c6-913a595707be"
+      },
+      "squuid": "5be1a6b8-19e4-43de-839c-2774698d70e0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.45,
+      "holder": {
+        "name": "Büchner, Stefan",
+        "squuid": "5be1a6b6-ee9e-48b1-8364-03c6de6643e3"
+      },
+      "squuid": "5be1a6b8-bd95-4bb5-80e3-2a193b49c612",
+      "state": "active"
+    }
+  ]
+}

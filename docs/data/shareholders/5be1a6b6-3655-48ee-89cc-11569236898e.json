@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Unterwerkstr. 9",
+  "name": "Badische Zeitschriften GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3655-48ee-89cc-11569236898e",
+  "controlDate": "2021-10-15T12:24:19.527Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "79115",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Regio Magazin",
+        "squuid": "5be1a6b1-1046-4d4f-93ae-dbe8f361d40e"
+      },
+      "squuid": "5be1a6b9-3b34-4ffc-a049-06eba7ba7c75",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Freiburg aktuell",
+        "squuid": "5be1a6b1-c3c4-481b-9f1a-fe5d36f150dc"
+      },
+      "squuid": "5be1a6b9-be7a-4414-8fab-acb23cc915d0",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BZ.medien GmbH & Co KG",
+        "squuid": "5be1a6b6-6f79-45c0-9070-3a78ba6dbc51"
+      },
+      "squuid": "5be1a6b8-db1c-4b30-a6e6-c491834c7cec",
+      "state": "active"
+    }
+  ]
+}

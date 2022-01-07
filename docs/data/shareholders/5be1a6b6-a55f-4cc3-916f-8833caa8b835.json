@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Infanteriestr.",
+  "name": "NG Media GmbH",
+  "naturalPerson": false,
+  "limitedPartnership": false,
+  "squuid": "5be1a6b6-a55f-4cc3-916f-8833caa8b835",
+  "controlDate": "2021-11-03T17:33:11.312Z",
+  "streetNumber": "11a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80797",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "National Geographic - Deutschland",
+        "squuid": "5be1a6b1-c1b6-4664-8173-448aae06777d"
+      },
+      "squuid": "5be1a6b9-e7d5-4324-85f8-280927a8edb0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "National Geographic Traveler",
+        "squuid": "5be1a6b1-179f-4343-b44f-3302e9a43115"
+      },
+      "squuid": "5be1a6b9-5c5c-4cba-9cda-eb22c710f94a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "National Geographic Special",
+        "squuid": "611a61a1-5f2e-4ffb-846e-2220fb011047"
+      },
+      "squuid": "611a6236-43e4-4ac0-9931-3e9f6392693c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "National Geographic History",
+        "squuid": "611a6255-cda9-4189-a82b-c32323daefe7"
+      },
+      "squuid": "611a62a9-8797-45df-9d99-ab44281504e9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "GeraNova Bruckmann Verlagshaus GmbH",
+        "squuid": "5be1a6b6-ea92-461d-834d-d5d6d281d6cf"
+      },
+      "squuid": "5be1a6b8-cc53-404d-9480-c94acc643521",
+      "state": "active"
+    }
+  ]
+}

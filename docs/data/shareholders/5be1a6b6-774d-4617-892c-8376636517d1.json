@@ -1,0 +1,98 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 47.19,
+      "held": {
+        "name": "Brune-Rieck-Beteiligungs-GmbH",
+        "squuid": "5be1a6b6-2a2f-48d5-83cd-a5096f340537"
+      },
+      "squuid": "5be1a6b7-80bb-4031-a33c-5e81726ae267",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Delmenhorster Verlagsgesellschaft mbH",
+        "squuid": "5ee89a9c-0a03-4230-89b6-a78e2ec3cb72"
+      },
+      "squuid": "5f0c4ab7-688b-4f0b-9084-ca2e29cceb28",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "RM Verwaltungs-GmbH",
+        "squuid": "61978125-5ec4-4779-9c2e-80df374d2488"
+      },
+      "squuid": "61a8b8bf-e4c9-435a-a6b6-1c8ca340452f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Delmenhorst",
+  "pseudoCompany": false,
+  "street": "Lange Str. 122",
+  "name": "Rieck Medien GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-774d-4617-892c-8376636517d1",
+  "controlDate": "2021-11-19T10:49:22.949Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "27749",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Dallmann, Frank",
+        "squuid": "5be1a6b6-ed0d-43a1-b668-7b5ee5378bb8"
+      },
+      "squuid": "5be1a6b8-042e-475d-90d4-0a3e97027189",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "RM Verwaltungs-GmbH",
+        "squuid": "61978125-5ec4-4779-9c2e-80df374d2488"
+      },
+      "squuid": "6197817b-4c5d-40d3-838a-624e25d6e475",
+      "state": "active"
+    }
+  ]
+}

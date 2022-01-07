@@ -1,0 +1,143 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "Gemeinschaft Digitaler Radio Programme GmbH",
+        "squuid": "5be1a6b6-dc24-47cf-9ec2-e3f9b61bc5d2"
+      },
+      "squuid": "5be1a6b7-6f6f-4acf-889d-76b103ed0896",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.692,
+      "held": {
+        "name": "Gemeinschaft Digitaler Radio Programme Beteiligungs-GmbH & Co. KG",
+        "squuid": "5f3e78f9-65e5-448e-9405-939dcc58f361"
+      },
+      "squuid": "5ff3337a-3a73-441c-89a2-c2a1c611c4ab",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bayreuth",
+  "note": "Stand: 10/2016",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Richard-Wagner-Straße",
+  "name": "Anbietergemeinschaft Radio Bayreuth GmbH & Co. Mainwelle KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-2e50-401c-b5ca-efb6ab7d9437",
+  "controlDate": "2021-03-16T10:57:37.171Z",
+  "streetNumber": "22",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "95444",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Mainwelle",
+        "squuid": "5be1a6b1-7182-4dc6-be6d-c64c1e05f5b4"
+      },
+      "squuid": "5be1a6b9-de48-4e8a-8b22-7df3da07114c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Galaxy Bayreuth",
+        "squuid": "5c6d29e6-8a47-4bb2-8543-8062269d7f79"
+      },
+      "squuid": "5c6d2ae7-20eb-4fcd-85c8-2f5a390f0cd7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mainwelle.de",
+        "squuid": "5f92d8bc-3320-4a28-848a-e33761867b12"
+      },
+      "squuid": "5f92d901-5da7-4677-95c4-0b853bb2b11d",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Dr. Fischer und Ellwanger KG Media GbR",
+        "squuid": "5be1a6b6-e6cf-491c-b4e7-9f3cb617f64a"
+      },
+      "squuid": "5be1a6b7-f5c6-4cef-8d01-4ce887501c7c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Neue Welle Oberfranken Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-5526-444b-86b3-9798293679fb"
+      },
+      "squuid": "5c7646c5-e5af-4655-92d9-d16466aab8bf",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Bayreuth GmbH",
+        "squuid": "5f92d9db-6207-40ae-a704-caab1c312e3a"
+      },
+      "squuid": "5f92da36-a0a9-4795-bd6a-84d1fca6d856",
+      "state": "active"
+    }
+  ]
+}

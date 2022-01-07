@@ -1,0 +1,75 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.46,
+      "held": {
+        "name": "nordclick GmbH & Co. KG",
+        "squuid": "6086baf0-c888-4996-a2e3-7ec0ff1c7b80"
+      },
+      "squuid": "6086beff-7916-4073-adf8-3da1b8f942c0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Rostock",
+  "pseudoCompany": false,
+  "street": "Richard-Wagner-Str. 1a",
+  "name": "Ostsee-Zeitung GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-04e2-4d51-8ef8-ee27d3fe7b73",
+  "controlDate": "2021-11-05T16:55:20.442Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "18055",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ostsee-Zeitung",
+        "squuid": "5be1a6b1-be46-4b84-9cb5-a53e4d13ed6d"
+      },
+      "squuid": "5be1a6b9-e664-4a56-9b3c-0af03a2a3f1f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ostsee-zeitung.de",
+        "squuid": "5be1a6b1-b679-45eb-99e8-8d969bd3c495"
+      },
+      "squuid": "5be1a6b9-b6ec-4048-a220-dfd0aee9e3e3",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Lübecker Nachrichten GmbH",
+        "squuid": "5be1a6b6-5f57-4d0e-8b37-abfb3fd9e0e9"
+      },
+      "squuid": "5be1a6b8-7617-40b1-9096-be36bf1be2b7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Ostsee-Zeitung Verwaltungs GmbH",
+        "squuid": "5ee2102d-af88-430b-917e-fe5574216623"
+      },
+      "squuid": "5ee21047-00df-4fe8-b554-afe8d22a779d",
+      "state": "active"
+    }
+  ]
+}

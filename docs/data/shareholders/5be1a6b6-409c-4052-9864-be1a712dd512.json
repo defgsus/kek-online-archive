@@ -1,0 +1,56 @@
+{
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": true,
+  "street": "Kurt-Schumacher-Straße",
+  "name": "Deutsche Welle (DW)",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-409c-4052-9864-be1a712dd512",
+  "controlDate": "2020-06-26T12:15:29.187Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53113",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "DW (Deutsche Welle)",
+        "squuid": "5be1a6b1-93bf-4589-9eef-7bb531e05f8a"
+      },
+      "squuid": "5be1a6b9-60f6-4d09-84b6-71f9d072cd3a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dw.com",
+        "squuid": "5c6c2df8-97a8-4150-84f8-806abdc9edeb"
+      },
+      "squuid": "5c6c2e26-c11b-487a-b053-9a187fbe4a00",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)",
+        "squuid": "5be1a6b6-c5dc-4a3d-ad7b-deaabd587214"
+      },
+      "squuid": "5be1a6b7-1797-49e5-a010-e86a405b4b9c",
+      "state": "active"
+    }
+  ]
+}

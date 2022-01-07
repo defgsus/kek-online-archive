@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Schwäbisch-Hall",
+  "pseudoCompany": false,
+  "street": "Stauffenbergstr.",
+  "name": "pVS - pro Verlag und Service GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-fc27-4647-85a0-19dbb590ff8b",
+  "controlDate": "2021-11-08T16:37:51.623Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "74523",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ProMagazin",
+        "squuid": "5be1a6b1-1cad-4f59-88eb-a2c4c84bd6a1"
+      },
+      "squuid": "5be1a6b9-0559-490f-8666-887306dd3f10",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pro-magazin.de",
+        "squuid": "5be1a6b1-f295-48a1-b5d2-1019dfe329e7"
+      },
+      "squuid": "5be1a6b9-0a6b-490f-a3f2-ba3fc5da73a1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Druck und Medien Heilbronn GmbH",
+        "squuid": "5be1a6b6-f5de-4429-80a9-9391441615c9"
+      },
+      "squuid": "5be1a6b8-6208-4b6d-8624-09ba39420f02",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "pVS - pro Verlag und Service Verwaltungs-GmbH",
+        "squuid": "5f02f8ad-1ce1-4c45-964c-704e03a1f42e"
+      },
+      "squuid": "5f02f8ca-1f78-4835-bb82-262fe0165409",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3a49e1-b365-4874-a2f9-86874231641a",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "ERF Medien e.V.",
+        "squuid": "5be1a6b6-b5b4-433c-ab30-4a4d7da48b8c"
+      },
+      "squuid": "5f3a4a15-424a-4487-955e-cb830137822a",
+      "state": "active"
+    }
+  ],
+  "name": "www.erf.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-06T12:46:00.459Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

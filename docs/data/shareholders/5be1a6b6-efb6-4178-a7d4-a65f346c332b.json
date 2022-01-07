@@ -1,0 +1,84 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Markets Inside Media GmbH",
+        "squuid": "5be1a6b6-258b-4b62-8145-d0c2b66627ed"
+      },
+      "squuid": "5be1a6b8-c4af-4f0a-b80c-72bfae0d42f1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Ariva.de AG",
+        "squuid": "5be1a6b6-bf1b-414a-9bf4-37d762aee328"
+      },
+      "squuid": "5d1a3ad4-4f36-405c-86b6-2fc9d66c7d92",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "ABC New Media AG",
+        "squuid": "5d356b67-0470-4bbe-9fc2-421d5cd1a60a"
+      },
+      "squuid": "5d356cbf-0508-47ff-83a8-04a37ac95f40",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Alte Jakobstraße 85",
+  "name": "Wallstreet:online AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-efb6-4178-a7d4-a65f346c332b",
+  "controlDate": "2021-11-25T16:16:31.541Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10179",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wallstreet-online.de",
+        "squuid": "5be1a6b1-5ec5-4745-8269-65556f7fd54b"
+      },
+      "squuid": "5be1a6b9-334a-46f4-84e4-bb99bc3aefad",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 72.5,
+      "holder": {
+        "name": "Kolbinger, André",
+        "squuid": "5be1a6b6-40e5-4a8e-a799-602961ce2e1b"
+      },
+      "squuid": "5be1a6b8-00a2-4201-b8bb-2525742d1e38",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 27.5,
+      "holder": {
+        "name": "Streubesitz an der Wallstreet:online AG",
+        "squuid": "5be1a6b6-62d7-4cfe-89d4-71efa24b5b46"
+      },
+      "squuid": "5be1a6b8-70e8-4398-8fb2-99a77c645e90",
+      "state": "active"
+    }
+  ]
+}

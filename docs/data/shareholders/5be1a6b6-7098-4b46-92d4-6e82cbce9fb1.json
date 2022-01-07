@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Falbenhennenstr. 17",
+  "name": "PV Projekt Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7098-4b46-92d4-6e82cbce9fb1",
+  "controlDate": "2021-10-28T09:39:57.842Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70180",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lift (Stuttgart)",
+        "squuid": "5be1a6b1-b8b8-4c77-a8d4-e1a406e50bb0"
+      },
+      "squuid": "5be1a6b9-1907-4131-94b9-022001ff7980",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lift-online.de",
+        "squuid": "5be1a6b1-4a7a-4f7b-b5f0-a847f9349656"
+      },
+      "squuid": "5be1a6b9-fcd7-4304-913b-fb580ba38543",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 95.0,
+      "holder": {
+        "name": "Stuttgarter Zeitung Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-ef3b-43ce-979a-eddf7669f94f"
+      },
+      "squuid": "5be1a6b8-8c02-4f2e-9c62-8d0dfc0fe297",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Eigenbesitz der PV Projekt Verlag GmbH",
+        "squuid": "5be1a6b6-f5e9-4d8c-838d-bea7c7d1ea60"
+      },
+      "squuid": "5be1a6b8-adb4-4fe8-bb38-88cf7a5c0930",
+      "state": "active"
+    }
+  ]
+}

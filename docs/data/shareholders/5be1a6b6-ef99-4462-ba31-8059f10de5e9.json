@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Stresemannstr. 163",
+  "name": "Cash.Print GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ef99-4462-ba31-8059f10de5e9",
+  "controlDate": "2021-12-01T16:28:59.445Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22769",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Cash",
+        "squuid": "5be1a6b1-12ef-4038-8d6f-93c82bd300b7"
+      },
+      "squuid": "5be1a6b9-3a77-409d-8aee-d3eb65ec5eab",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cash-online.de",
+        "squuid": "5be1a6b1-4b91-4150-b630-7f53b1075c4d"
+      },
+      "squuid": "5be1a6b9-c371-43dc-8f22-61ff4d8719bb",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Cash.Medien AG",
+        "squuid": "5be1a6b6-0330-43a4-8a16-b7e0a40bb0d1"
+      },
+      "squuid": "5be1a6b8-8b17-4d3e-b522-dd6e32d28b33",
+      "state": "active"
+    }
+  ]
+}

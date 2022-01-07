@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Kassel",
+  "pseudoCompany": false,
+  "street": "Opernstr.",
+  "name": "Freies Radio Kassel e. V.",
+  "naturalPerson": false,
+  "squuid": "5f3a58f5-e24c-4f74-8845-0378d4d488a0",
+  "controlDate": "2020-08-17T10:17:27.210Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "34117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.freies-radio-kassel.de",
+        "squuid": "5f3a58e0-05f0-4196-8167-3630baf2fda8"
+      },
+      "squuid": "5f3a591b-b827-4b17-b2ff-f12db8204fcf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Freies Radio Kassel",
+        "squuid": "5f62fda0-2842-41fa-a2ce-3723bfd55eee"
+      },
+      "squuid": "5f62ff66-3a44-4544-a51d-1a2616cd24a6",
+      "state": "active"
+    }
+  ]
+}

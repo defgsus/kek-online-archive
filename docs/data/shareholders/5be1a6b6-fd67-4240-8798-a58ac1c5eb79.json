@@ -1,0 +1,69 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.01,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Bochum mbH & Co. KG",
+        "squuid": "5be1a6b6-86ab-4b74-a5ef-1d657e8efae2"
+      },
+      "squuid": "5be1a6b7-2d9a-43fb-81b6-dc717a83c18d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Bochum GmbH",
+        "squuid": "5f105c35-32c8-4fc6-828d-01407d6e5ba0"
+      },
+      "squuid": "60015750-72f7-4cd6-a8cc-e07a017f0a80",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bochum",
+  "pseudoCompany": false,
+  "street": "Ostring ",
+  "name": "Stadtwerke Bochum Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fd67-4240-8798-a58ac1c5eb79",
+  "controlDate": "2021-12-21T15:48:34.700Z",
+  "streetNumber": "28",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "44787",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Stadt Bochum",
+        "squuid": "5f105e76-b84d-4e42-890d-7171fa8aa69d"
+      },
+      "squuid": "5f105ef9-f429-4825-9935-15643a6b55d4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 95.0,
+      "holder": {
+        "name": "Holding für Versorgung und Verkehr GmbH Bochum",
+        "squuid": "5f105f1c-aa56-444e-8d09-8fcf4ec1c5d6"
+      },
+      "squuid": "5f105f4f-8451-4a61-aa4b-cf67cc5b8265",
+      "state": "active"
+    }
+  ]
+}

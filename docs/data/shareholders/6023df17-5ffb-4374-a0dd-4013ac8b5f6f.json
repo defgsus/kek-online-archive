@@ -1,0 +1,113 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "bigFM PPG S.W. GmbH",
+        "squuid": "5be1a6b6-f0fc-45e0-ad27-cbefd73a4279"
+      },
+      "squuid": "6023df6f-242c-4bc6-87a6-d6c199fa6a3d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Dudenstr.",
+  "name": "Audiotainment Südwest GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6023df17-5ffb-4374-a0dd-4013ac8b5f6f",
+  "controlDate": "2021-11-30T16:59:04.276Z",
+  "streetNumber": "12-16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    }
+  ],
+  "zipcode": "68167",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.regenbogen.de",
+        "squuid": "5c54618d-1b74-4417-b924-cd2ea4067a12"
+      },
+      "squuid": "61d2fe08-f324-4ef8-ab18-3517762e8d77",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rpr1.de",
+        "squuid": "5c530b6b-50e1-4b40-bd3e-96ddd1e51671"
+      },
+      "squuid": "61d42003-20d8-47df-92b7-703ae5466fcd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Audiotainment Südwest Verwaltungs-GmbH",
+        "squuid": "6059f9d1-7500-4287-be63-5ed896c0498b"
+      },
+      "squuid": "6059f9f2-ca51-431e-9914-3c5c9b1838ba",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Rheinland-Pfälzische Rundfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-6bb7-4199-8b08-f060dbb3b080"
+      },
+      "squuid": "6059fa0a-d765-4a25-be9c-5d8a04253224",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.0,
+      "holder": {
+        "name": "Radio Regenbogen Hörfunk in Baden GmbH & Co. KG",
+        "squuid": "5be1a6b6-715e-45d7-b1a9-cbd5588640e3"
+      },
+      "squuid": "6059fa3b-46df-41a6-bd4f-8b1ea46edbca",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.0,
+      "holder": {
+        "name": "bigFM in Baden-Württemberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-0cb0-4656-a563-63f5d6610352"
+      },
+      "squuid": "6059fa4d-d45a-442c-b7e0-bef04505f513",
+      "state": "active"
+    }
+  ]
+}

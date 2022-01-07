@@ -1,0 +1,43 @@
+{
+  "name": "Heitmann, Wolfgang",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-cd4a-4282-8908-9919121a8d81",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "Autohaus Wolfsburg Heitmann GmbH & Co. KG",
+        "squuid": "5be1a6b6-f246-40a3-9347-672976bb8967"
+      },
+      "squuid": "5be1a6b8-0495-47cb-a166-4f6744ad3678",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Heitmann Geschäftsführungs-GmbH",
+        "squuid": "5f042ee7-55bd-4d54-aae9-54297776b22f"
+      },
+      "squuid": "5f0d8861-3a5e-45fa-a27f-0c7932d449d2",
+      "state": "active"
+    }
+  ],
+  "city": "Osloß",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

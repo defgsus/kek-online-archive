@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Lemgo",
+  "pseudoCompany": false,
+  "street": "Twete",
+  "name": "Strohmeier Medien Werbeagentur GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-de5b-4c55-9de3-7a505a1359be",
+  "controlDate": "2021-10-28T16:28:24.446Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "32657",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lippische Wochenschau - insider",
+        "squuid": "5be1a6b1-d560-47eb-af04-fe6622a6aa22"
+      },
+      "squuid": "5be1a6b9-1447-4eb7-863a-ab551c156851",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lippische-wochenschau.de",
+        "squuid": "5be1a6b1-4647-4a1a-b5e0-9505405da24b"
+      },
+      "squuid": "5be1a6b9-e348-47d3-8e7a-897ada8bc171",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Strohmeier, Inge",
+        "squuid": "5be1a6b6-bb25-4027-b722-9837eb6f38d1"
+      },
+      "squuid": "5be1a6b8-7370-4bd5-9325-c64fd71d86d8",
+      "state": "active"
+    }
+  ]
+}

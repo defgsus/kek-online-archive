@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Goseriede",
+  "name": "Sat.1 Norddeutschland GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ec1a-4819-97d4-b7b0a7c10ff1",
+  "controlDate": "2022-01-04T17:21:02.054Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "30159",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sat.1 Regional",
+        "squuid": "5d2f325f-ea0e-4a54-be7f-3ce0023ac9ef"
+      },
+      "squuid": "5d2f33e8-f844-4545-a88a-03ed59d9b6bc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sat1regional.de",
+        "squuid": "5f183314-0d92-4f60-9d6a-3ee3872722b0"
+      },
+      "squuid": "5f18334e-fe69-4fc5-ac56-82a5f65624cd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Seven.One Entertainment Group GmbH",
+        "squuid": "5be1a6b6-ee3d-454b-96df-68a8cdac19d3"
+      },
+      "squuid": "5fd34597-099d-4a81-8724-c57425ba72f8",
+      "state": "active"
+    }
+  ]
+}

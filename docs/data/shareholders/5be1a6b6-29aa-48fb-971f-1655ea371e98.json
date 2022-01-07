@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Zwickau",
+  "pseudoCompany": false,
+  "street": "Äußere Schneeberger Straße 6",
+  "name": "Advanco GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-29aa-48fb-971f-1655ea371e98",
+  "controlDate": "2021-12-09T13:22:19.124Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "08056",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hausgarten.net",
+        "squuid": "5be1a6b1-ea7c-4ba9-acac-f82f9dc19b2b"
+      },
+      "squuid": "5be1a6b9-0ad4-4f2a-b477-fd546922426c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Klitzsch, Marcel",
+        "squuid": "5be1a6b6-df94-4ba7-8fb3-7b545b09ffda"
+      },
+      "squuid": "5be1a6b8-4ebc-4db1-8c5f-4097849007e3",
+      "state": "active"
+    }
+  ]
+}

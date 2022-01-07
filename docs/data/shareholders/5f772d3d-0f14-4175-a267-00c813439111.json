@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "a.tv GmbH & Co. KG",
+        "squuid": "5cab5218-8ad0-4b1d-9b2f-1399a06cf0eb"
+      },
+      "squuid": "5f772d76-8d20-4791-a33c-2d9753c09a0c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Curt-Frenzel-Str.",
+  "name": "a.tv Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5f772d3d-0f14-4175-a267-00c813439111",
+  "controlDate": "2021-11-25T16:33:35.356Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86167",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.1,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5f8d814f-66db-4d9a-9be6-4c9d6f105283",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.6,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5f8d8170-2f41-4410-a939-fad31cb0af4a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 37.3,
+      "holder": {
+        "name": "Sankt Ulrich Verlag GmbH",
+        "squuid": "5be1a6b6-cac1-420a-b40c-87452e0ab6f4"
+      },
+      "squuid": "5f8d8181-c3b3-4afd-835d-c4634672c5e5",
+      "state": "active"
+    }
+  ]
+}

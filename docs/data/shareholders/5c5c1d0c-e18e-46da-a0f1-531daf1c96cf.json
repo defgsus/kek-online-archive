@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Strausberg",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Ernst-Thälmann-Straße",
+  "name": "Rätzel, Stephan",
+  "naturalPerson": true,
+  "co": "Film- und Fernsehproduktion Rätzel",
+  "squuid": "5c5c1d0c-e18e-46da-a0f1-531daf1c96cf",
+  "streetNumber": "25",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "15344",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Oderland.TV",
+        "squuid": "5c5c1d1b-6ed0-422c-aaf4-a68d5e3d1958"
+      },
+      "squuid": "5c5c29ff-6a98-4b8e-a955-7baa98b4c47f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Strausberg.TV",
+        "squuid": "5c5d62c9-8f35-4fb3-9b22-2bfa7d45bcf9"
+      },
+      "squuid": "5c5d64ae-2f7d-4f34-b583-6e9056046082",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.oderland.tv",
+        "squuid": "5f3651ff-ea23-4af7-9d82-5ad228fb6fed"
+      },
+      "squuid": "5f36522a-30c6-45d1-8245-3bc37ebcd88a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.strausberg.tv",
+        "squuid": "5f3651f3-1754-4b08-a5bf-a0461bb86de3"
+      },
+      "squuid": "5f365265-3f2e-466f-bac7-7fe724a99aaf",
+      "state": "active"
+    }
+  ]
+}

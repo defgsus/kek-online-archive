@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Ostfildern",
+  "pseudoCompany": false,
+  "street": "Marco-Polo-Str.",
+  "name": "MAIRDUMONT NETLETIX GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-3a64-4e2d-a3b5-07e7a24264a6",
+  "controlDate": "2021-12-01T14:34:49.572Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "73760",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.entertainweb.de",
+        "squuid": "5be1a6b1-e7e1-4b13-8352-b9afa413fd24"
+      },
+      "squuid": "5be1a6b9-e136-4a98-b0e0-c0fc3a763aed",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ströer Digital Media GmbH",
+        "squuid": "6082a587-b48b-442b-9810-bebb9f3452db"
+      },
+      "squuid": "6082a5a0-d6d3-4a12-81d9-d016155cb8e5",
+      "state": "active"
+    }
+  ]
+}

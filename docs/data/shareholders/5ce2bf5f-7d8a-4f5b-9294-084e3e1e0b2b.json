@@ -1,0 +1,32 @@
+{
+  "name": "Borussia Verein für Leibesübungen 1900 e.V.",
+  "pseudoCompany": false,
+  "controlDate": "2020-01-16T11:40:17.505Z",
+  "squuid": "5ce2bf5f-7d8a-4f5b-9294-084e3e1e0b2b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Borussia VfL 1900 Mönchengladbach GmbH",
+        "squuid": "5ce2bf02-7920-4780-821d-6cc864736c01"
+      },
+      "squuid": "5ce2c277-e5a3-4427-bf34-309ebac201ae",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

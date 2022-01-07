@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Amsterdam (NL)",
+  "pseudoCompany": false,
+  "street": "Stadhouderskade",
+  "name": "Netflix International B.V. ",
+  "naturalPerson": false,
+  "squuid": "5d2f26ee-a6e5-43a9-99ee-ed015f194a04",
+  "controlDate": "2021-12-15T16:38:08.102Z",
+  "streetNumber": "55",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "1072",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.netflix.com",
+        "squuid": "5d2f26d8-4309-4ed3-bca0-9432b8752a86"
+      },
+      "squuid": "5d2f270c-df8e-465f-a230-d083528c5a16",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Netflix Inc.",
+        "squuid": "5d2f29c8-7a35-4363-bf82-089c7a8c7200"
+      },
+      "squuid": "5d2f29f0-0843-48fa-8642-bf50bdf5dea4",
+      "state": "active"
+    }
+  ]
+}

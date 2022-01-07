@@ -1,0 +1,120 @@
+{
+  "matchedNames": [
+    "SWR / SR Fernsehen"
+  ],
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Silvia Geidner",
+  "rfStartDate": "05.04.1969",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-355c-4182-8759-1f2721ce656f",
+  "marketReach": 2.0,
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.swrfernsehen.de/index.html",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Südwestrundfunk (SWR)",
+        "squuid": "5be1a6b6-39c3-4007-b07c-6f84bcebd692"
+      },
+      "squuid": "5be1a6b9-7f4a-430c-8842-8a8c4c5522e5",
+      "state": "active"
+    }
+  ],
+  "name": "SWR Fernsehen",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": true,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "rfDirector": "Kai Gniffke",
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-063c-4208-94e1-5216fef7a724",
+    "name": "Vollprogramm",
+    "type": "program-category",
+    "state": "active"
+  },
+  "description": "Öffentlich-rechtliches  Vollprogramm für Baden-Württemberg und Rheinland-Pfalz mit Sendungen aus den Bereichen Information, Sport, Service, Kultur und Unterhaltung. Ein Drittel des Programms ist speziell auf die beiden Länder Baden-Württemberg und Rheinland-Pfalz zugeschnitten. Die anderen zwei Drittel sollen mit vielen Programmangeboten das gesamte Sendegebiet ansprechen.",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
+      "name": "Vodafone Kabel Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-4f77-4a73-90db-f4170510c758",
+      "name": "Media Broadcast GmbH / freenet TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-4dbe-45ef-ab98-fcd1599e57f0",
+        "name": "Terrestrik",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-ad9e-4670-b9d9-71ea6517791a",
+      "name": "Zattoo",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-2a80-4b57-9a14-77c549d0ed24",
+      "name": "Prime Video (Amazon Instant Video Germany GmbH)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "accessibilityEmail": "info@SWR.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

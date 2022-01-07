@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Limburg a. d. Lahn",
+  "pseudoCompany": false,
+  "street": "Im Dachsstück",
+  "name": "Genius GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9a7e-4151-96a4-0c423dde8313",
+  "controlDate": "2021-12-08T11:31:03.549Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65549",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "GeniusPlusTV",
+        "squuid": "5be1a6b1-9994-4589-9ec0-cfae134a4b0f"
+      },
+      "squuid": "5be1a6b9-a5cc-43cb-bb91-96484de0c520",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.genius.tv",
+        "squuid": "5f3bdaa8-3415-4e81-8f19-f091baff688d"
+      },
+      "squuid": "5f3bdaec-f125-4ccb-9ed1-f2e3db160c49",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft der Genius GmbH vom 30.11.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Repac, Petra Maria Renate",
+        "squuid": "5be1a6b6-bb40-40ba-b1fe-37c38c25332f"
+      },
+      "squuid": "5be1a6b8-dcfa-479d-8cae-0873ccfb2c63",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 45.54493712,
+      "held": {
+        "name": "Radio Paradiso GmbH & Co. KG",
+        "squuid": "5be1a6b6-f3bc-43d6-9d76-6f69bc5dec0d"
+      },
+      "squuid": "5be1a6b8-900a-48f5-9038-24f89db03be3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 93.9,
+      "held": {
+        "name": "Krankenhaus Bernau GmbH",
+        "squuid": "5cadc119-76dd-4225-81e3-fb787756f75d"
+      },
+      "squuid": "5f76e312-d4bd-4e26-8b89-3d0b186b9cd7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.43,
+      "held": {
+        "name": "Radio Paradiso Verwaltungs GmbH",
+        "squuid": "5f352e18-eaac-4abd-a6c4-a07784da5dd1"
+      },
+      "squuid": "608806a5-2b9d-41d4-86ce-6ee38f609d5c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Süntelstr.",
+  "name": "Immanuel Albertinen Diakonie gGmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0221-4080-8a2e-25063d28213e",
+  "controlDate": "2021-12-16T17:08:08.944Z",
+  "streetNumber": "11a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "22457",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Albertine Assor Stiftung",
+        "squuid": "5f352fb1-158b-4913-b31e-920addfb7984"
+      },
+      "squuid": "5f352fde-5eec-4145-b40e-7c7ef3d3693a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Evangelisch-Freikirchliche Gemeinde Berlin-Schöneberg K.d.ö.R.",
+        "squuid": "5cadc212-f49e-4383-a214-71d757ff0edf"
+      },
+      "squuid": "5f352fec-3d26-40be-a2c7-ecfedd66bae7",
+      "state": "active"
+    }
+  ]
+}

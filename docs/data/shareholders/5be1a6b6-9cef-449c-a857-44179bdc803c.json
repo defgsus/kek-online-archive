@@ -1,0 +1,90 @@
+{
+  "state": "active",
+  "city": "Lübeck",
+  "pseudoCompany": false,
+  "street": "Willy-Brandt-Allee",
+  "name": "Radio Lübeck Lokalfunk GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9cef-449c-a857-44179bdc803c",
+  "controlDate": "2021-12-22T15:29:42.942Z",
+  "streetNumber": "31b, media docks",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "23554",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Lübeck",
+        "squuid": "5be1a6b1-6746-408b-91b0-363b37b8cfa9"
+      },
+      "squuid": "5be1a6b9-5758-4fd7-9cef-be8a7adfc465",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioluebeck.de",
+        "squuid": "5f1ab22b-d43b-429e-b6f2-58583c16b090"
+      },
+      "squuid": "5f1ab258-a778-44f3-92b8-56f3c50e4b41",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "Fred Dohmen Medien GmbH",
+        "squuid": "5be1a6b6-3bd6-44af-9cb1-290a8291883d"
+      },
+      "squuid": "5be1a6b8-69e9-4b4a-8b83-c5c4fe0395e9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "moggimedia GmbH",
+        "squuid": "5be1a6b6-751d-40d8-aa23-f7e307b83696"
+      },
+      "squuid": "5be1a6b8-c937-4eab-ba4f-a0ee6a6fbfe3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Hawerkamp, Matthias",
+        "squuid": "5f1ab464-7c36-4f0f-92cd-40a0009fdf9e"
+      },
+      "squuid": "5f1ab4a2-9b42-45f0-8326-bfb736cb0e6d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Lübeck GmbH",
+        "squuid": "5f1ab44d-9f35-4103-80f3-5dee482eac8c"
+      },
+      "squuid": "5f1ab4de-2243-449a-8c54-82445dccb9f3",
+      "state": "active"
+    }
+  ]
+}

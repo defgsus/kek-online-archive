@@ -1,0 +1,130 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Antenne Thüringen GmbH & Co. KG",
+        "squuid": "5be1a6b6-5864-4d2d-abd2-19cfbc09b41b"
+      },
+      "squuid": "5be1a6b7-c399-4b7f-a889-cf0c8487f059",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Hitzeroth Druck + Medien Geschäftsführungs-GmbH",
+        "squuid": "5ee1f773-7680-4b1d-970e-dd6b5c2bdb82"
+      },
+      "squuid": "5fa125c0-2756-48dd-83e2-18cfdd50d8f0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Marburg",
+  "pseudoCompany": false,
+  "street": "Franz-Tuczek-Weg 1",
+  "name": "HITZEROTH Druck + Medien GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-767f-45eb-ac1b-f21476624449",
+  "controlDate": "2021-08-02T10:39:20.915Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "35039",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Oberhessische Presse",
+        "squuid": "5be1a6b1-ce40-4ba9-85c4-68807bac7071"
+      },
+      "squuid": "5be1a6b9-c020-4e06-9343-8d9ca3400c0b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.op-marburg.de",
+        "squuid": "5be1a6b1-662a-4fc4-87ac-5de67eeea138"
+      },
+      "squuid": "5be1a6b9-b521-4156-93a5-2858950859aa",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "mrlife - Lust auf Leben",
+        "squuid": "5c62950b-80d4-4d9c-9e7c-804bbe21de50"
+      },
+      "squuid": "5c629544-d8d3-482a-9eff-94f0ede25cc9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 53.0,
+      "holder": {
+        "name": "Hitzeroth, Dr. Luise",
+        "squuid": "5be1a6b6-0099-41c0-8ea5-ed5e5403e657"
+      },
+      "squuid": "5be1a6b7-a0e6-4e4c-befd-628facc88443",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hitzeroth Druck + Medien Geschäftsführungs-GmbH",
+        "squuid": "5ee1f773-7680-4b1d-970e-dd6b5c2bdb82"
+      },
+      "squuid": "5ee1f7c0-8466-44da-ba5a-b2b6b0acb2d5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.67,
+      "holder": {
+        "name": "Hitzeroth, Dr. Marion",
+        "squuid": "6107cad6-de11-4192-9b37-fe7d50e7d098"
+      },
+      "squuid": "6107cbba-62ae-40a4-9344-a010ced63945",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.67,
+      "holder": {
+        "name": "Hitzeroth, Dr. Monika",
+        "squuid": "6107cae9-19dc-4741-82e4-3538454d7c67"
+      },
+      "squuid": "6107cbd0-66f4-4fa7-bf28-654a6f4a4b58",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.67,
+      "holder": {
+        "name": "Hitzeroth, Manfred",
+        "squuid": "6107cac1-1f39-49cb-9690-72d13658236b"
+      },
+      "squuid": "6107cbe5-18f4-4041-9c82-d3d2709e05d1",
+      "state": "active"
+    }
+  ]
+}

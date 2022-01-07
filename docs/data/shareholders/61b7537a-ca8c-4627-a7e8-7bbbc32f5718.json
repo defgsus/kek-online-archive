@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Meerbusch",
+  "pseudoCompany": false,
+  "street": "Badener Weg",
+  "name": "LigaInsider GmbH",
+  "naturalPerson": false,
+  "squuid": "61b7537a-ca8c-4627-a7e8-7bbbc32f5718",
+  "controlDate": "2021-12-13T14:08:13.432Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40667",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ligainsider.de",
+        "squuid": "5c545f84-a81d-4921-8670-ba3668d21b21"
+      },
+      "squuid": "61b75395-fdcb-4f58-99fe-993e60c46ff5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 54.9,
+      "holder": {
+        "name": "Sommer, Dirk",
+        "squuid": "5c545f63-137e-42a0-87d1-61ad07037e62"
+      },
+      "squuid": "61b75462-f220-4fb5-bb25-59a2574c087b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.1,
+      "holder": {
+        "name": "Chaturvedi, Samir",
+        "squuid": "5c545f79-08ba-493a-859d-ec302cc77463"
+      },
+      "squuid": "61b7547b-4bd1-440d-b0de-0ecd4c934ae1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Kral, Sven",
+        "squuid": "61b75492-b138-411f-afe2-3c9184c42d2d"
+      },
+      "squuid": "61b754ac-850c-48b9-a845-d2ea01e5f61b",
+      "state": "active"
+    }
+  ]
+}

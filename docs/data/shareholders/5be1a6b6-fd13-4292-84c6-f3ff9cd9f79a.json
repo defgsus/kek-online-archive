@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Wetzlar",
+  "pseudoCompany": false,
+  "street": "Elsa-Brandström-Straße",
+  "name": "WD-Multimedia GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fd13-4292-84c6-f3ff9cd9f79a",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "35578",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "VRM Wetzlar GmbH",
+        "squuid": "5be1a6b6-dbe8-4cb4-b3d6-fa7bcfa62e45"
+      },
+      "squuid": "5be1a6b8-8691-4a21-8cf1-a4d33d297a32",
+      "state": "active"
+    }
+  ]
+}

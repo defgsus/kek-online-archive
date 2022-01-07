@@ -1,0 +1,106 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Arabellastr. 23",
+  "name": "Burda Hearst Publishing GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3496-4989-acc7-550ba289e334",
+  "controlDate": "2021-10-14T14:18:07.778Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81925",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Elle",
+        "squuid": "5be1a6b1-f2c8-4078-9b27-d5a4d92b47be"
+      },
+      "squuid": "5be1a6b9-9f23-4fbb-9f95-86791bf188f9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Elle Decoration",
+        "squuid": "5be1a6b1-98b8-4b42-b9e2-390db8b81a18"
+      },
+      "squuid": "5be1a6b9-3bfd-4636-9ab0-cc937abf9474",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Harper's Bazaar",
+        "squuid": "5be1a6b1-92b1-497d-8f60-45702266b887"
+      },
+      "squuid": "5be1a6b9-9839-4f9c-ac11-a4858eb073d0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.harpersbazaar.de",
+        "squuid": "5be1a6b1-6f43-4296-a9cd-b8796f43f0de"
+      },
+      "squuid": "5be1a6b9-9fe8-4b3e-96bc-8f3ff4b07f44",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.elle.de",
+        "squuid": "5be1a6b1-2318-40a0-8ab7-0dd3473fee6a"
+      },
+      "squuid": "5be1a6b9-460d-4584-8328-1299ddca8255",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.esquire.de",
+        "squuid": "5f293963-a40d-428f-b4e3-8412eb11a732"
+      },
+      "squuid": "5f293988-707a-4209-aae0-a672238e9801",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Esquire",
+        "squuid": "5f2939dc-5c07-4194-9299-7f754cfd7f2f"
+      },
+      "squuid": "5f293a29-0ddf-4cb2-b8f8-fd85fdfdc3d5",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Burda GmbH",
+        "squuid": "5be1a6b6-b032-4c21-b688-486e01ca11bd"
+      },
+      "squuid": "5be1a6b8-e599-4179-9cce-31639ddd3bf9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "International Publications Holding (IPH) B.V.",
+        "squuid": "5be1a6b6-b3a3-44ed-aa2a-79754d6fbe0c"
+      },
+      "squuid": "5be1a6b8-25b3-4e36-9189-157dc9056b5a",
+      "state": "active"
+    }
+  ]
+}

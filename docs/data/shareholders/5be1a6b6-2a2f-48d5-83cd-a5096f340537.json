@@ -1,0 +1,81 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Antenne Niedersachsen GmbH & Co. KG",
+        "squuid": "5be1a6b6-a997-45d6-8d9d-b0d0b50972f1"
+      },
+      "squuid": "5be1a6b7-59f0-4d9d-9825-f4673afefa3b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wilhelmshaven",
+  "pseudoCompany": false,
+  "street": "Parkstraße",
+  "name": "Brune-Rieck-Beteiligungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2a2f-48d5-83cd-a5096f340537",
+  "controlDate": "2021-11-19T10:44:56.020Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "26382",
+  "credits": "NLM; Antenne Niedersachsen GmbH & Co. KG",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 47.19,
+      "holder": {
+        "name": "Rieck Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-774d-4617-892c-8376636517d1"
+      },
+      "squuid": "5be1a6b7-80bb-4031-a33c-5e81726ae267",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.62,
+      "holder": {
+        "name": "Druckerei und Verlag H. Hofmann GmbH & Co KG",
+        "squuid": "5be1a6b6-4fcf-4f09-a04d-c5ef14d2019e"
+      },
+      "squuid": "5be1a6b7-c273-4f60-972d-ef4cdf73b4e7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 47.19,
+      "holder": {
+        "name": "Brune-Mettcker Druck- und Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-ccfa-4873-9d8a-77cd02974d4c"
+      },
+      "squuid": "5be1a6b7-1289-4103-b36b-e75dc15a6750",
+      "state": "active"
+    }
+  ]
+}

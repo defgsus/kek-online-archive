@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Leinfelden-Echterdingen",
+  "pseudoCompany": false,
+  "street": "Ernst-Mey-Str.",
+  "name": "Konradin Selection GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4d52-433a-9544-1dbbad63f3bd",
+  "controlDate": "2021-11-12T15:19:49.634Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70771",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "selection",
+        "squuid": "5be1a6b1-3032-404c-98a5-65edd0341ed3"
+      },
+      "squuid": "5be1a6b9-c786-4192-a80b-e8c02ea6da65",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Smokersclub",
+        "squuid": "5bf67d31-ec9b-4880-8793-2dceb5ec9ee6"
+      },
+      "squuid": "5bf67d77-3bd8-4a9f-8820-14d2ccccc225",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Weinwisser",
+        "squuid": "5bf67f5d-633c-4a76-b274-2836db648a8b"
+      },
+      "squuid": "5d149d7d-e9dd-4862-a1eb-7f8e38db3438",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Konradin Medien GmbH",
+        "squuid": "5be1a6b6-e8c3-42b7-a6e8-f7969d51a2b4"
+      },
+      "squuid": "5be1a6b8-045c-4581-9f22-3840096d1007",
+      "state": "active"
+    }
+  ]
+}

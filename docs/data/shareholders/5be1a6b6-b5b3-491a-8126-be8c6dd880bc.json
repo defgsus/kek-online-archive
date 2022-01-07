@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Gräfelfing",
+  "pseudoCompany": false,
+  "street": "Arnpeckstraße 9",
+  "name": "Comunio GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b5b3-491a-8126-be8c6dd880bc",
+  "controlDate": "2021-12-02T12:22:49.425Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82166",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.comunio.de",
+        "squuid": "5be1a6b1-1e91-43c0-93d1-6090625c5de3"
+      },
+      "squuid": "5be1a6b9-e4f9-420a-a4fd-561cf572780a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Loschek, Fabian",
+        "squuid": "5be1a6b6-0afd-44cc-ad51-bf18887c961c"
+      },
+      "squuid": "5be1a6b8-8656-45e6-b11e-f6575e347367",
+      "state": "active"
+    }
+  ]
+}

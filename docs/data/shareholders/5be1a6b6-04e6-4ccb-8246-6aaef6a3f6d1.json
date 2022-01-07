@@ -1,0 +1,27 @@
+{
+  "name": "Verwaltungs- und Privat-Bank AG",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-04e6-4ccb-8246-6aaef6a3f6d1",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "VP Fund Solutions (Liechtenstein) AG",
+        "squuid": "5be1a6b6-331e-4846-bf48-5131507d7270"
+      },
+      "squuid": "5be1a6b8-fd9e-444c-ba22-30d26219224a",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

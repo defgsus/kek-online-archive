@@ -1,0 +1,59 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Äußere Bayreuther Straße",
+  "name": "Radio 106,9 MHz Nürnberg GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4023-450b-909c-ab971d20cad7",
+  "controlDate": "2021-12-06T12:06:02.980Z",
+  "streetNumber": "76",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "90491",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Energy Nürnberg",
+        "squuid": "5be1a6b1-17ed-477d-8519-f495c87bf27a"
+      },
+      "squuid": "5be1a6b9-36ca-4f46-825d-9435d4c176b3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.energy.de/nuernberg",
+        "squuid": "5f901408-909a-46da-acdd-86c40b8a9508"
+      },
+      "squuid": "5f901483-a028-4850-88d7-aff25c136aac",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "NRJ Hörfunk Beteiligungs GmbH",
+        "squuid": "5be1a6b6-36c7-4893-9dd4-73765ce4a934"
+      },
+      "squuid": "5be1a6b7-7868-46d0-a64f-b030b8f491f5",
+      "state": "active"
+    }
+  ]
+}

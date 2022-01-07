@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Wiesbaden",
+  "pseudoCompany": true,
+  "street": "Georg-August-Zinn-Str.",
+  "name": "Land Hessen/Hessische Landesregierung",
+  "naturalPerson": false,
+  "squuid": "5d3199b2-10d3-4a32-82b7-ee2bccf7b490",
+  "controlDate": "2020-06-30T13:56:20.637Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65183",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hessen.de",
+        "squuid": "5d3199a4-db6f-4726-8c9e-747ba9626279"
+      },
+      "squuid": "5d319a21-1c9e-4d44-9604-0e8215827ed6",
+      "state": "active"
+    }
+  ]
+}

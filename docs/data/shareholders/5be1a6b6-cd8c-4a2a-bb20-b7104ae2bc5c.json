@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Rudi-Dutschke-Str. 23",
+  "name": "taz Verlags- und Vertriebsgesellschaft mbH Berlin",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-cd8c-4a2a-bb20-b7104ae2bc5c",
+  "controlDate": "2021-11-17T13:21:05.641Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10969",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "taz. die tageszeitung",
+        "squuid": "5be1a6b1-248b-4d6e-a379-62ca677463c4"
+      },
+      "squuid": "5be1a6b9-3b9a-4115-bca5-e54a9e46755a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.taz.de",
+        "squuid": "5be1a6b1-9f1e-4a17-8bad-f23e19d74d46"
+      },
+      "squuid": "5be1a6b9-a78e-4f8e-bb2d-15a03233e3b7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "taz FUTURZWEI",
+        "squuid": "5f1ae774-8e89-46d4-a099-8941eaf2d736"
+      },
+      "squuid": "5f1ae7ef-b828-4a3d-a7c2-78c8e0b9cdfa",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "taz, die tageszeitung Verlagsgenossenschaft e.G.",
+        "squuid": "5be1a6b6-e7e3-4b6c-8c2c-eb7c7d3110c5"
+      },
+      "squuid": "5be1a6b8-1ecb-4305-96a1-3d7238e9afa3",
+      "state": "active"
+    }
+  ]
+}

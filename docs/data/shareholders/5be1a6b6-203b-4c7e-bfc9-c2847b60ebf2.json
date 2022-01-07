@@ -1,0 +1,43 @@
+{
+  "name": "Steeger, Dirk",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-203b-4c7e-bfc9-c2847b60ebf2",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 17.5,
+      "held": {
+        "name": "Brandenburger Lokalradios GmbH",
+        "squuid": "5be1a6b6-1c0e-423e-aadb-97529aef14cf"
+      },
+      "squuid": "5be1a6b8-8222-43c6-8bdf-555c1e303fd0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.14,
+      "held": {
+        "name": "rkw Radio Königs Wusterhausen Verwaltungs GmbH",
+        "squuid": "60b75905-73c5-4e38-81ff-e227ed1e321b"
+      },
+      "squuid": "60d068b0-ec95-4c6d-875e-6285774731bf",
+      "state": "active"
+    }
+  ],
+  "city": "Berlin",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

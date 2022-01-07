@@ -1,0 +1,85 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Partner Medienservices GmbH",
+        "squuid": "5be1a6b6-c788-40a0-a780-ef630ad95031"
+      },
+      "squuid": "5be1a6b8-6928-4ab8-a31a-5b64a7f74f93",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MZV Moderner Zeitschriften-Vertrieb Verwaltungs-GmbH",
+        "squuid": "602d18d2-81e2-4eb1-a980-1bfbcaf4a637"
+      },
+      "squuid": "602d19a9-f58c-49b0-8da9-b69da3606ad0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Unterschleißheim",
+  "pseudoCompany": false,
+  "street": "Ohmstraße 1",
+  "name": "MZV Moderner Zeitschriften-Vertrieb GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d629-4694-9339-4f93a8f1274b",
+  "controlDate": "2021-09-27T15:51:59.614Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85716",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 42.1,
+      "holder": {
+        "name": "Funke MZV Holding GmbH",
+        "squuid": "5be1a6b6-ed22-4b06-9426-cd3ab7856bf7"
+      },
+      "squuid": "5be1a6b8-622f-48f9-8079-cbee0be86a95",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.8,
+      "holder": {
+        "name": "Imhoff, Michael",
+        "squuid": "5be1a6b6-58a8-4abb-a97f-23dcebee5138"
+      },
+      "squuid": "5be1a6b8-6192-489c-8ef7-fd4818713997",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 42.1,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "squuid": "5bfbdde0-522c-4a80-b2a6-2d1f2bf12546",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "MZV Moderner Zeitschriften-Vertrieb Verwaltungs-GmbH",
+        "squuid": "602d18d2-81e2-4eb1-a980-1bfbcaf4a637"
+      },
+      "squuid": "602d193a-ef1e-41e0-9f94-a4ca64c2cc10",
+      "state": "active"
+    }
+  ]
+}

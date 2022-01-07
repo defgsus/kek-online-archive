@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Theodor-Heuss-Straße",
+  "name": "Gevestor Financial Publishing Group",
+  "naturalPerson": false,
+  "squuid": "5d31b631-2870-4e64-9c5c-7c9b25c6152f",
+  "controlDate": "2021-12-08T11:49:01.291Z",
+  "streetNumber": "2-4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53177",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gevestor.de",
+        "squuid": "5d31b410-4ef2-4fda-a1d6-96b692506b67"
+      },
+      "squuid": "5d31b64e-b377-445f-b2ff-5b892ba12808",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "VNR Verlag für die Deutsche Wirtschaft AG",
+        "squuid": "5d31b41b-0218-4c65-8f83-7da0c2c7e949"
+      },
+      "squuid": "5d31b6fe-27eb-421e-9857-dc0c47b0e296",
+      "state": "active"
+    }
+  ]
+}

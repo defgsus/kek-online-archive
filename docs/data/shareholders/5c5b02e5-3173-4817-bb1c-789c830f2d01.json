@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "WVG Wärmeversorgungs GmbH",
+        "squuid": "5c5b02fd-b7c3-40a6-abaa-31829d75de0b"
+      },
+      "squuid": "5c5b0c81-d471-4684-8cc8-dabb38d979ce",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Cottbus",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Walter-Rathenau-Str.",
+  "name": "GEMAG Gebäudemanagement AG",
+  "naturalPerson": false,
+  "squuid": "5c5b02e5-3173-4817-bb1c-789c830f2d01",
+  "controlDate": "2021-12-13T13:37:56.487Z",
+  "streetNumber": "36",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "03044",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 63.25,
+      "holder": {
+        "name": "GWG „Stadt Cottbus“ e. G.",
+        "squuid": "5c5b0271-326a-4561-94a3-89c5f3a019e5"
+      },
+      "squuid": "5c5b0d15-5b08-4943-b890-cb7bcb705fdb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.375,
+      "holder": {
+        "name": "Hoffmann, Frank-Holger",
+        "squuid": "5c5b02ba-b216-4ec0-9e20-aabfc704fb62"
+      },
+      "squuid": "5c5b0d3f-b99a-4449-abd8-702bfbf8424e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.375,
+      "holder": {
+        "name": "Zepezauer, Thomas",
+        "squuid": "5c5b0294-3698-4c95-9504-1a5f5f71fbe6"
+      },
+      "squuid": "5c5b0d5a-d12c-40dc-b767-ba2a6947d32b",
+      "state": "active"
+    }
+  ]
+}

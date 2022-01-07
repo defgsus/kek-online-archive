@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Flensburg",
+  "pseudoCompany": false,
+  "street": "Schiffbrückstr. 8",
+  "name": "Flensborg Avis AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9f6d-4906-b135-0592ed9fcc8e",
+  "controlDate": "2021-10-15T10:20:34.681Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "24937",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Flensborg Avis",
+        "squuid": "5be1a6b1-54d1-454f-90b9-3e3adae50194"
+      },
+      "squuid": "5be1a6b9-0732-4e64-9def-1b984afac9ad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fla.de",
+        "squuid": "5be1a6b1-1419-434d-808e-a1595d2d91fc"
+      },
+      "squuid": "5be1a6b9-5cc3-4114-99ba-c92784b7ac70",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Streubesitz an der Flensborg Avis AG (ca. 700 Aktionäre)",
+        "squuid": "5be1a6b6-b373-4696-b30d-0bc4370a32fa"
+      },
+      "squuid": "5be1a6b8-d23c-4203-8e93-40e20fb5c39e",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Ottobrunn",
+  "pseudoCompany": false,
+  "street": "Alte Landstr. 21",
+  "name": "Off Road Verlag AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3dee-4bb8-8c19-75e487f89b7e",
+  "controlDate": "2021-11-05T14:59:23.598Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85521",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Off Road",
+        "squuid": "5be1a6b1-a8b4-4e8d-8b89-6aad9e061406"
+      },
+      "squuid": "5be1a6b9-0570-4f0a-9c1a-f004f98f8556",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "SUV Magazin",
+        "squuid": "5be1a6b1-dc31-46b5-acac-acb1293b9cbf"
+      },
+      "squuid": "5be1a6b9-523b-42bc-9054-4fb524e60425",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.off-road.de",
+        "squuid": "5be1a6b1-5ad6-48b4-820d-c6ac587ead22"
+      },
+      "squuid": "5be1a6b9-74f5-49b6-b6c9-eb928a0b72a9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.suv-magazin.de",
+        "squuid": "5be1a6b1-931d-44d4-a46a-b72cf2e9cf46"
+      },
+      "squuid": "5be1a6b9-8003-424d-b826-13a980d83dae",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Czerny, Cornelia",
+        "squuid": "5be1a6b6-990e-4cdd-9753-309ed960e5d6"
+      },
+      "squuid": "5be1a6b8-55bc-4d6e-862f-e118b371633c",
+      "state": "active"
+    }
+  ]
+}

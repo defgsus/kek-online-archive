@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Kempten",
+  "pseudoCompany": false,
+  "street": "Porschestraße 2",
+  "name": "AVA Agrar-Verlag Allgäu GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-354e-4cbc-9f6c-f6d0778d5038",
+  "controlDate": "2021-09-28T11:39:53.885Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "87437",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Die Allgäuerin",
+        "squuid": "5be1a6b1-35bb-446b-b8d3-c0ee76cc2e34"
+      },
+      "squuid": "5be1a6b9-ceb4-4e7a-89e3-8eb58b6df70c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Das schöne Allgäu",
+        "squuid": "5be1a6b1-a680-44da-b146-ce718603a5a2"
+      },
+      "squuid": "5be1a6b9-2645-485d-a62b-35428afe19b9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Landwirtschaftsverlag GmbH",
+        "squuid": "5be1a6b6-31a6-4cfa-a630-deb9d1047291"
+      },
+      "squuid": "5be1a6b8-6a8d-4b7a-89dc-e294d0b2b65c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Kiechle, Andrea",
+        "squuid": "5be1a6b6-adfb-4024-9521-ecd48d800ec3"
+      },
+      "squuid": "5be1a6b8-0b4a-4371-ba9b-7008937ba120",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.2,
+      "holder": {
+        "name": "Kühnle, Wolfgang",
+        "squuid": "5be1a6b6-be0e-4424-b80d-1a34d157c907"
+      },
+      "squuid": "5be1a6b8-302c-433a-bbc1-7bce8a0fee4e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.5,
+      "holder": {
+        "name": "Weixler, Annemarie",
+        "squuid": "5be1a6b6-cbe9-46f4-b884-1c742a62f7a7"
+      },
+      "squuid": "5be1a6b8-e05f-4ec5-a1f0-434be563c540",
+      "state": "active"
+    }
+  ]
+}

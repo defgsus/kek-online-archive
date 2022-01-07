@@ -1,0 +1,53 @@
+{
+  "name": "Eigenbesitz der Mediaset Espana S.A.",
+  "squuid": "6093bac8-2847-4dd3-ad97-45b00e4f53b2",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.4,
+      "held": {
+        "name": "Mediaset España Comunicación S.A.",
+        "squuid": "5f60a4de-6391-4dde-a327-cc0a77ddb0f8"
+      },
+      "squuid": "6093bb6b-6f15-4649-af3b-f5cb3aea03b1",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active"
+}

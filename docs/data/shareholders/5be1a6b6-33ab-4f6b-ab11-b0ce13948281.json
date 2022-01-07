@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Hunsrückstraße",
+  "name": "PietSmiet Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-33ab-4f6b-ab11-b0ce13948281",
+  "controlDate": "2020-01-27T13:37:02.254Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "50739",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Brammen, Dennis",
+        "squuid": "5be1a6b6-8540-4eea-8bc0-7a4e21b1ff37"
+      },
+      "squuid": "5be1a6b8-6bb2-4c1f-a3e5-6ed40234b4a0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Smits, Peter",
+        "squuid": "5be1a6b6-c202-42fd-b0a3-ba8aadcc52f0"
+      },
+      "squuid": "5be1a6b8-0fb1-4303-bceb-d7a9545c3113",
+      "state": "active"
+    }
+  ]
+}

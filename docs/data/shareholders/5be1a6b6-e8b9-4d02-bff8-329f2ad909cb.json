@@ -1,0 +1,93 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lokalfunk Wuppertal Beteiligungsgesellschaft mbH",
+        "squuid": "5f1036dd-792c-4d4c-958c-62e72ea1391d"
+      },
+      "squuid": "5ff5c7b1-10d3-438b-8b6f-ae336f30039d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wuppertal",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Moritzstr.",
+  "name": "Lokalfunk Wuppertal GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-e8b9-4d02-bff8-329f2ad909cb",
+  "controlDate": "2022-01-03T12:21:14.878Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "42115",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Wuppertal",
+        "squuid": "5be1a6b1-5def-4577-90d4-b0eeaba34b8b"
+      },
+      "squuid": "5be1a6b9-76a1-4da8-a511-9d1b07685f8f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiowuppertal.de",
+        "squuid": "5f103651-bbf1-4f65-8a60-79df5e367ff6"
+      },
+      "squuid": "5f10369a-7320-4273-908a-026ea3be9fbb",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "PFD Pressefunk GmbH",
+        "squuid": "5be1a6b6-761b-43ab-b113-3d2fb927889c"
+      },
+      "squuid": "5be1a6b8-98cf-481b-9651-d68ab9c0a67c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Stadt Wuppertal",
+        "squuid": "5be1a6b6-abf7-4971-8258-33a595c6a83c"
+      },
+      "squuid": "5be1a6b8-3e30-4139-beb3-016c9d36fe1b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lokalfunk Wuppertal Beteiligungsgesellschaft mbH",
+        "squuid": "5f1036dd-792c-4d4c-958c-62e72ea1391d"
+      },
+      "squuid": "5f103764-4792-4262-939c-2f14f59fef86",
+      "state": "active"
+    }
+  ]
+}

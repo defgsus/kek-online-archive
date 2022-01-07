@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Burkhard Dohmann, Peter Dohmann",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Diana Müller",
+  "rfFreePay": true,
+  "squuid": "5c52d7fa-1789-4cb5-beaa-645143772954",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.blabla.cafe/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "blabla.cafe GmbH & Co. KG",
+        "squuid": "5c52d755-7c2a-4c0f-89da-1507c879dd92"
+      },
+      "squuid": "5c52d95b-19ed-4a86-82a2-453e4ba6af55",
+      "state": "active"
+    }
+  ],
+  "name": "blabla.cafe",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Livestream-Angebot mit dem inhaltlichen Schwerpunkt auf Handarbeiten/Do-it-yourself (DIY), sozialen Projekten und dem Thema Selbständigkeit im Kreativbereich",
+  "rfLicenseUntil": "07.05.2022",
+  "rfLicensed": "08.05.2017",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "08.05.2017",
+  "accessibilityEmail": "info@blabla.cafe",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

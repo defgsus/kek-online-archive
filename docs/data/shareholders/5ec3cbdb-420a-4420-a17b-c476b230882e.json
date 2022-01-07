@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Zeitverlag Gerd Bucerius GmbH & Co KG",
+        "squuid": "5be1a6b6-dd6a-41c7-81ed-4225dceddcfb"
+      },
+      "squuid": "5ec3cbfb-00d6-4e36-b5a3-3eeac1d13dde",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Speersort",
+  "name": "tempus Zeitverlag Geschäftsführungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5ec3cbdb-420a-4420-a17b-c476b230882e",
+  "controlDate": "2021-10-04T13:30:17.746Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20095",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "DvH Medien GmbH",
+        "squuid": "5be1a6b6-5ed8-4639-a346-1c7f7b26f35a"
+      },
+      "squuid": "5ec3cc68-df7a-4532-8599-4344b313e527",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Georg von Holtzbrinck GmbH & Co. Zeitverlag Beteiligungsgesellschaft",
+        "squuid": "5be1a6b6-cf74-4eb3-a52d-d6f0fbe8601b"
+      },
+      "squuid": "5ec3cc7c-3902-4c6e-a7af-de4f03f84df1",
+      "state": "active"
+    }
+  ]
+}

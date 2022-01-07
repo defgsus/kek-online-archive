@@ -1,0 +1,32 @@
+{
+  "name": "ARTE France",
+  "pseudoCompany": false,
+  "controlDate": "2020-01-15T14:36:55.590Z",
+  "squuid": "5be1a6b6-6387-4760-8413-f6bc532547e3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "ARTE G.E.I.E.",
+        "squuid": "5be1a6b6-69a8-446f-89af-0d92b3ee87d5"
+      },
+      "squuid": "5be1a6b7-80e0-4401-b54c-78ac1c49ccfd",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

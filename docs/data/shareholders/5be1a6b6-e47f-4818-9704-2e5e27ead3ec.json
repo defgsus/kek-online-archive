@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Bei den Mühren",
+  "name": "Territory Content to Results GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e47f-4818-9704-2e5e27ead3ec",
+  "controlDate": "2021-10-27T15:17:02.406Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20457",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Laviva",
+        "squuid": "5be1a6b1-62f0-4977-a615-ea6561dc2c42"
+      },
+      "squuid": "5be1a6b9-7b48-4208-90b7-23c49afcbca2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.laviva.com",
+        "squuid": "5be1a6b1-7709-4f51-8052-89bccf2ff215"
+      },
+      "squuid": "5be1a6b9-5a9e-4d22-9157-3731fb3bc226",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gruner + Jahr GmbH",
+        "squuid": "5be1a6b6-6647-418f-be7f-faee8268574e"
+      },
+      "squuid": "5be1a6b8-3107-4364-9afe-8737086a0f52",
+      "state": "active"
+    }
+  ]
+}

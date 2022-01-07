@@ -1,0 +1,73 @@
+{
+  "state": "active",
+  "city": "Mainz",
+  "pseudoCompany": true,
+  "street": "ZDF-Straße",
+  "name": "Gemeinschaftsprojekt von ARD, ZDF, ORF und SRG SSR",
+  "naturalPerson": false,
+  "co": "",
+  "squuid": "5be1a6b6-3ed4-4c8b-aca0-323860d4df9a",
+  "placeOfBusiness": "Mainz",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "55100",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "3sat",
+        "squuid": "5be1a6b1-4df2-4cb9-aebc-397d6635011b"
+      },
+      "squuid": "5be1a6b9-326d-4124-a209-02ccbb6ff01f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)",
+        "squuid": "5be1a6b6-c5dc-4a3d-ad7b-deaabd587214"
+      },
+      "squuid": "5be1a6b7-f8be-460e-9eb1-23f485832eab",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Zweites Deutsches Fernsehen (ZDF) Anstalt des öffentlichen Rechts",
+        "squuid": "5be1a6b6-7ee8-46a7-b584-31f00742b7a2"
+      },
+      "squuid": "5be1a6b7-a4e1-4516-8e75-a990fdfdbae9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Österreichischer Rundfunk (ORF)",
+        "squuid": "5be1a6b6-55ed-4312-a135-160c1e51305f"
+      },
+      "squuid": "5be1a6b7-1e2c-4786-b0bf-eddd8168b2dd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schweizerische Radio- und Fernsehgesellschaft (SRG SSR)",
+        "squuid": "5be1a6b6-342e-4560-a581-62deed27ede1"
+      },
+      "squuid": "5be1a6b7-da65-462d-a00f-e76ef74e8f8b",
+      "state": "active"
+    }
+  ]
+}

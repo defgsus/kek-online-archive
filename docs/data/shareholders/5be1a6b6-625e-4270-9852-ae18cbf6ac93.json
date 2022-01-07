@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "pseudoCompany": false,
+  "street": "Leipziger Platz",
+  "name": "Radio Russkij Berlin RRB GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-625e-4270-9852-ae18cbf6ac93",
+  "controlDate": "2021-12-20T16:32:33.013Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Russkij Berlin 97,2 FM",
+        "squuid": "5be1a6b1-0884-4f4e-940e-fc4fff5a2265"
+      },
+      "squuid": "5be1a6b9-a876-403b-8ff1-7300e5f9ea19",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-rb.de",
+        "squuid": "5f35260c-da63-4d9c-a9ab-73d6b1c87bcc"
+      },
+      "squuid": "5f35264b-20be-4742-b293-f014e5e258ad",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.5,
+      "holder": {
+        "name": "PMM Private Media Management GmbH",
+        "squuid": "5be1a6b6-d03b-4ddc-b2d8-ad84e164f978"
+      },
+      "squuid": "5be1a6b7-bd28-428b-9873-2a8344286974",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.5,
+      "holder": {
+        "name": "Baltmedia AG",
+        "squuid": "5be1a6b6-62c7-4273-8959-eb222e6abdc5"
+      },
+      "squuid": "5be1a6b7-9c20-4fbf-9514-4c25e6b23d49",
+      "state": "active"
+    }
+  ]
+}

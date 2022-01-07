@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "Rüttenscheider Straße ",
+  "name": "H-P GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d30770b-ac16-420c-b523-2ef036d4ed78",
+  "controlDate": "2021-04-21T15:32:15.817Z",
+  "streetNumber": "199",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "45131",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Holthoff-Pförtner, Dr. Stephan",
+        "squuid": "5be1a6b6-d503-4ba1-b38e-cf66c73a9a31"
+      },
+      "squuid": "5d3077bb-a117-4fc6-9d08-741662b38aaf",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "HH-P Beteiligungenservice Verwaltungs-GmbH",
+        "squuid": "5eba84e0-e265-4978-ac08-2763b3cca5a2"
+      },
+      "squuid": "5f072c23-3ee4-4671-bf06-df1ce8c6c479",
+      "state": "active"
+    }
+  ]
+}

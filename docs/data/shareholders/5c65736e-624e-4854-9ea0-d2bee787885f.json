@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Konstanz",
+  "pseudoCompany": false,
+  "street": "Am Seerhein ",
+  "name": "akzent-Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5c65736e-624e-4854-9ea0-d2bee787885f",
+  "controlDate": "2021-11-23T11:06:44.511Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "78467",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "akzent",
+        "squuid": "5c657314-83b1-47ed-ad25-5603dee6f0bf"
+      },
+      "squuid": "5c6573c5-9621-40c3-9007-fad0ce9a1cef",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.akzent-magazin.de",
+        "squuid": "5e33fada-949b-4557-b5e1-570c38a10c59"
+      },
+      "squuid": "5e33fb25-5b80-4d54-9aba-1d84ecbbc683",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5c65740e-f202-4c8f-949f-3524dcf36123",
+      "state": "active"
+    }
+  ]
+}

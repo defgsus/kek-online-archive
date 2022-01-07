@@ -1,0 +1,82 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Radio Siegen Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-2881-47fa-9aff-4183c88398dd"
+      },
+      "squuid": "5be1a6b7-85be-4d8d-bf43-89c08703b13b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Siegen Betriebsgesellschaft-Verwaltungs-GmbH",
+        "squuid": "5f1816c7-3cf8-43f1-ad26-0b2d49f5f545"
+      },
+      "squuid": "5ff6e3d8-74db-491f-bc7b-c26faa1f015b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Siegen",
+  "pseudoCompany": false,
+  "street": "Obergraben ",
+  "name": "Lokalfunk Siegen Beteiligungsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-8f90-42fc-9b85-291e5f15af94",
+  "controlDate": "2022-01-03T11:00:00.020Z",
+  "streetNumber": "39",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "57072",
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 71.0,
+      "holder": {
+        "name": "Siegener Zeitung Vorländer + Rothmaler GmbH & Co. KG",
+        "squuid": "5be1a6b6-1839-4b80-a72a-59fc952c45c5"
+      },
+      "squuid": "5be1a6b8-f3d3-4768-9d7c-f77c7bb0ca7e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 29.0,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5be1a6b8-1e13-4dd1-aa36-87159a74e91a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lokalfunk Siegen Beteiligungsgesellschaft-Verwaltungs-GmbH",
+        "squuid": "5f181709-e7c1-44f8-abcc-0fc8f5576dff"
+      },
+      "squuid": "5f1818b2-f98b-47b6-8c86-61ce708872ed",
+      "state": "active"
+    }
+  ]
+}

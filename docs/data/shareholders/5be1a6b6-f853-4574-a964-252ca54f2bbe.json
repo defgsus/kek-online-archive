@@ -1,0 +1,33 @@
+{
+  "state": "active",
+  "city": "Dillenburg",
+  "pseudoCompany": false,
+  "street": "Rathausstr. 1",
+  "name": "Druck- und Verlagshaus E. Weidenbach GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-f853-4574-a964-252ca54f2bbe",
+  "controlDate": "2020-05-19T13:46:52.308Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "35683",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "VRM Wetzlar GmbH",
+        "squuid": "5be1a6b6-dbe8-4cb4-b3d6-fa7bcfa62e45"
+      },
+      "squuid": "5be1a6b8-89f0-40ab-9bca-530062a9856f",
+      "state": "active"
+    }
+  ]
+}

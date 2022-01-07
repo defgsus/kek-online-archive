@@ -1,0 +1,38 @@
+{
+  "name": "Matsushita Electronic Industrial Co. Ltd.",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-1ac3-4a28-aa2e-d0a59bf26b97",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Matsushita Electronic Industrial (MEI) Holding, Inc.",
+        "squuid": "5be1a6b6-3778-45b4-b9e5-3fa98a5f2439"
+      },
+      "squuid": "5be1a6b7-0bb9-4074-9fc1-1ad3cd1a2d69",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MHI Investment Corp.",
+        "squuid": "5be1a6b6-593c-4815-8006-465757749bfa"
+      },
+      "squuid": "5be1a6b7-b887-4d90-a8dc-71b5235a0402",
+      "state": "active"
+    }
+  ],
+  "city": "Japan",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

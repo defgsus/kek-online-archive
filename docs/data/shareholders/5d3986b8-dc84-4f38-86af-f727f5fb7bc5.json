@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Sennebogen Maschinenfabrik GmbH",
+        "squuid": "5d39863b-6136-4842-8352-3cfe9c1b9aa0"
+      },
+      "squuid": "5d398702-0f2a-403c-afd6-f40368d0fdae",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Straubing",
+  "pseudoCompany": false,
+  "street": "Hebbelstr.",
+  "name": "Sennebogen Erich Holding GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d3986b8-dc84-4f38-86af-f727f5fb7bc5",
+  "controlDate": "2021-03-11T17:27:51.580Z",
+  "streetNumber": "30",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "94315",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Sennebogen, Erich",
+        "squuid": "5d398781-9fa3-448a-ae1b-5d5288a45b1a"
+      },
+      "squuid": "5d3987ae-3f90-42fe-93d7-f3c54f477212",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Sennebogen, Walter",
+        "squuid": "5d398792-9ebd-430d-85f2-519d6453a7d7"
+      },
+      "squuid": "5d3987ba-55c6-4927-849f-f7211659674d",
+      "state": "active"
+    }
+  ]
+}

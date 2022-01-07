@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5c6c2daa-d260-4fd7-bb4e-d321aa0bef63",
+  "marketReach": 0.509609333305851,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Westdeutscher Rundfunk (WDR)",
+        "squuid": "5be1a6b6-be05-415a-a519-205618bb23bf"
+      },
+      "squuid": "5c6c2dbc-c4a4-47d1-b4d2-d21a6c8b2edf",
+      "state": "active"
+    }
+  ],
+  "name": "www1.wdr.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-07T13:21:19.637Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

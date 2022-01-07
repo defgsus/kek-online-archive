@@ -1,0 +1,39 @@
+{
+  "name": "Capitol Holding GmbH",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schlötterer, Bernd",
+        "squuid": "5be1a6b6-1b3d-44b3-9351-669aa43dc09e"
+      },
+      "squuid": "5fe1cb55-8857-4541-853f-e12f442128ff",
+      "state": "active"
+    }
+  ],
+  "squuid": "5fe1cadd-dd62-4233-a370-8e5fe2297db8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Palatin Media Film- & Fernseh GmbH",
+        "squuid": "5fe1c929-3790-414a-a30a-35cc7d6bbcdd"
+      },
+      "squuid": "5fe1cb13-0a5f-45e6-8475-1b0d9a01d7a2",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

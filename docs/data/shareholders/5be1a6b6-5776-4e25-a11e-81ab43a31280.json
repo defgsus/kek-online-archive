@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Hultschiner Straße",
+  "name": "Süddeutsche Zeitung Digitale Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5776-4e25-a11e-81ab43a31280",
+  "controlDate": "2021-11-16T14:20:51.665Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81677",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sueddeutsche.de",
+        "squuid": "5be1a6b1-317c-44ce-8355-6e5de7d0e448"
+      },
+      "squuid": "5be1a6b9-ee04-475d-acb9-806d95d6560e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Süddeutscher Verlag GmbH",
+        "squuid": "5be1a6b6-e8a9-4e8f-b96c-e04e65dc55ed"
+      },
+      "squuid": "5be1a6b8-8768-4f6b-87d1-2bc5c7fcc63f",
+      "state": "active"
+    }
+  ]
+}

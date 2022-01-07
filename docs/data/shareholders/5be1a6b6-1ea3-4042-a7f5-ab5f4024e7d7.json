@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Leuschnerstraße",
+  "name": "Motor Presse TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1ea3-4042-a7f5-ab5f4024e7d7",
+  "otherMediaActivities": "Die Motor Presse Stuttgart GmbH & Co. KG ist ein auf Special-Interest-Themen spezialisierter Zeitschriftenverlag, der weltweit rund 120 Zeitschriften (u. a. zu den Themenfeldern Automobil, Motorrad, Luftfahrt, Lifestyle und Sport) publiziert.\r\n\r\nJörg Schütte ist außerdem an den Veranstaltern der bundesweiten privaten Fernsehspartenprogramme BonGusto, Collection und Marco Polo beteiligt.",
+  "controlDate": "2021-11-25T16:41:46.920Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70174",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "auto motor und sport channel",
+        "squuid": "5be1a6b1-b237-4ddc-956f-92ec08fb4011"
+      },
+      "squuid": "5be1a6b9-6096-49b3-a9e9-7154c2d24761",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.auto-motor-und-sport.tv",
+        "squuid": "5f3bd161-fbdd-4898-98f1-a32102c00094"
+      },
+      "squuid": "5f3bd1cb-2525-4486-8ded-ec4b58c74736",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 13.06.2017, Az.: KEK 922, und Bescheid der LFK vom 26.06.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Schütte, Jörg",
+        "squuid": "5be1a6b6-884e-4c49-83ab-18ecc01e91c5"
+      },
+      "squuid": "5be1a6b7-e1ac-4c8b-98f8-5ea4b28ce9e6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Motor Presse Stuttgart GmbH & Co. KG",
+        "squuid": "5be1a6b6-99ba-4261-b3c0-411c299e72ae"
+      },
+      "squuid": "5be1a6b7-46f5-490a-acba-08879e49a601",
+      "state": "active"
+    }
+  ]
+}

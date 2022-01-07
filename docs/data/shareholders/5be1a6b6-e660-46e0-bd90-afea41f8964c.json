@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Lüneburg",
+  "pseudoCompany": false,
+  "street": "Wallstr.",
+  "name": "DOCMAtische Gesellschaft Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e660-46e0-bd90-afea41f8964c",
+  "controlDate": "2021-10-14T09:38:33.905Z",
+  "streetNumber": "28",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "21335",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "DOCMA Photoshop & Lightroom",
+        "squuid": "5be1a6b1-9273-4c40-a181-219b85713865"
+      },
+      "squuid": "5be1a6b9-804f-4ac9-9fbf-2e54714c881e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.docma.info",
+        "squuid": "5be1a6b1-0b72-4240-8526-345d3dbaaf20"
+      },
+      "squuid": "5be1a6b9-57d5-4b8b-92b0-8a4d7e4fa5b1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Künne, Ina",
+        "squuid": "5be1a6b6-c4d3-4eb3-a718-e6167a56e702"
+      },
+      "squuid": "5be1a6b8-c7e6-4478-94b3-b20f3f99dd65",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "Künne, Christoph",
+        "squuid": "5be1a6b6-482e-472e-9012-b3aaa293804e"
+      },
+      "squuid": "5be1a6b8-3922-4647-832f-a629b2c89649",
+      "state": "active"
+    }
+  ]
+}

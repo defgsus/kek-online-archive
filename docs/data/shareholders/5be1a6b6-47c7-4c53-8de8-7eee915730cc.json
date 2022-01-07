@@ -1,0 +1,104 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "Funkhaus Nürnberg Studiobetriebs-GmbH",
+        "squuid": "5be1a6b6-01da-4c86-8564-5246716290f4"
+      },
+      "squuid": "5ce55f96-020e-43fa-bc38-49eec7c88b8b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Nürnberg",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Neuwieder Straße",
+  "name": "Radio Gong Nürnberg Programmanbieter GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-47c7-4c53-8de8-7eee915730cc",
+  "controlDate": "2021-11-22T15:40:50.854Z",
+  "streetNumber": "16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "90411",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Gong 97,1 Nürnberg",
+        "squuid": "5be1a6b1-141b-42ab-b7de-d28d6671bddf"
+      },
+      "squuid": "5be1a6b9-0fc9-41a0-8667-2611ffdae665",
+      "state": "active"
+    }
+  ],
+  "credits": "Website der BLM, Abruf am 08.03.2012",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5be1a6b8-efaf-46f4-a5e8-634a328431ec",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Gong Nürnberg Programmanbieter Verwaltungs-GmbH",
+        "squuid": "5f8effa4-f3c3-49b3-aaed-d83bb49827fc"
+      },
+      "squuid": "605481ad-401e-4f9e-8ed0-aa2172acd022",
+      "state": "active"
+    }
+  ]
+}

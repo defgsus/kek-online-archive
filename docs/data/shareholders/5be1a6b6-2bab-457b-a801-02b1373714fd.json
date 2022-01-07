@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Potsdam",
+  "note": "Lokalpartner von BB RADIO Niederlausitz, BB RADIO Nord/Ost und BB RADIO Oderland.",
+  "pseudoCompany": false,
+  "street": "Wetzlarer Str.",
+  "name": "BB RADIO Lokalwellen Brandenburg GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2bab-457b-a801-02b1373714fd",
+  "streetNumber": "44",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "14482",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "BB Radio",
+        "squuid": "5be1a6b1-d159-4f1b-bc29-d9d901c5ac3d"
+      },
+      "squuid": "5c7570ab-6dc0-4392-9efd-9e6500d41ae4",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BB RADIO Länderwelle Berlin/Brandenburg GmbH & Co. KG",
+        "squuid": "5be1a6b6-9140-47b8-9534-b06634d69537"
+      },
+      "squuid": "5be1a6b7-202a-4be3-bd6e-1c62c032b3e3",
+      "state": "active"
+    }
+  ]
+}

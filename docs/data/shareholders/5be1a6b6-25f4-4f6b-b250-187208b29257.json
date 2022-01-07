@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Hermannstraße",
+  "name": "Studio Dortmund GmbH für Fernsehen und Film",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-25f4-4f6b-b250-187208b29257",
+  "streetNumber": "75",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "44263",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "WestCom Media Holding GmbH",
+        "squuid": "5be1a6b6-3b19-4c90-8313-532b79b964fc"
+      },
+      "squuid": "5be1a6b7-e5c3-4c8f-98f6-59160cd7ba26",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "P-Media Management GmbH",
+        "squuid": "5be1a6b6-df9c-4271-8905-a2ede486a63c"
+      },
+      "squuid": "5be1a6b7-9e81-4d48-b70a-ab994110ed6d",
+      "state": "active"
+    }
+  ]
+}

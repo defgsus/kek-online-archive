@@ -1,0 +1,111 @@
+{
+  "state": "active",
+  "city": "Eningen unter Achalm",
+  "pseudoCompany": false,
+  "street": "Pfullinger Straße",
+  "name": "Klarner Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5d31b7cf-4501-49b7-aa68-f9b43897b7a1",
+  "controlDate": "2021-12-01T15:52:42.824Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "72800",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "RTF.1",
+        "squuid": "5d2c7142-e0da-4a8b-9b8b-bf0147a9dcd5"
+      },
+      "squuid": "5d357918-12cd-4ba3-be7c-aafd8e947180",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "RIK Reutlingen",
+        "squuid": "5d35776e-c99b-4974-bff7-c1582442b702"
+      },
+      "squuid": "5d357a4e-75cc-4601-bb33-cc5d937ac86f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "BWeins",
+        "squuid": "5d41928b-123a-4265-aeb4-e1e5b482dd10"
+      },
+      "squuid": "5d419553-a8ad-4da5-8f97-13af4cf394ac",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rtf1.de",
+        "squuid": "5f3d187a-5d9e-4a01-8524-b2fb954a34f9"
+      },
+      "squuid": "5f3d1903-4cf0-4efc-8182-b4493c7daeb7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bweins.de",
+        "squuid": "5f3d1fcd-1184-4f8e-880d-8285490a2f14"
+      },
+      "squuid": "5f3d2006-e1ad-40ea-ba87-8f9aa74bfd4c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.prometheus-tv.de",
+        "squuid": "5f3d209b-ac49-46af-b498-c5554fa0ac19"
+      },
+      "squuid": "5f3d20c7-9747-4dee-ac04-303fdb0d2d86",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.studiolive.tv",
+        "squuid": "61d42bda-4262-4be2-9409-830a1b2107b5"
+      },
+      "squuid": "61d42bf8-4471-4751-b146-7cfffdaaa7cd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.literaturfernsehen.de",
+        "squuid": "61d42c44-f0cf-49bc-bebe-fbcf1f6e688c"
+      },
+      "squuid": "61d42c65-075c-49c8-9a37-cdf736706a3d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Klarner, Stefan",
+        "squuid": "5d357999-891d-4440-96cd-a310a8c64961"
+      },
+      "squuid": "5d3579f6-3c89-4a21-8f53-5b1df6876e09",
+      "state": "active"
+    }
+  ]
+}

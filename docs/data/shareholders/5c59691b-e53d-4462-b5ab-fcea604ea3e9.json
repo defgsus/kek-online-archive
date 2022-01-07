@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Elsterwerda",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Lange Straße",
+  "name": "Brandhorst, Jürgen",
+  "naturalPerson": true,
+  "squuid": "5c59691b-e53d-4462-b5ab-fcea604ea3e9",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "04910",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Elbe-Elster-Fernsehen EEF",
+        "squuid": "5c5962a4-5412-47ac-b574-36e77d54e900"
+      },
+      "squuid": "5c596938-c7cf-47f6-bee1-f53eb3cd98c7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ee-fernsehen.de",
+        "squuid": "5f2174f5-5e71-4cf4-9e51-7c1d4017e696"
+      },
+      "squuid": "5f217618-0401-4c75-94a5-66b382669284",
+      "state": "active"
+    }
+  ]
+}

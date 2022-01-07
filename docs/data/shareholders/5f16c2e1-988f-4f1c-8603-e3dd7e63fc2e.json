@@ -1,0 +1,42 @@
+{
+  "name": "Stadt Herne",
+  "pseudoCompany": true,
+  "squuid": "5f16c2e1-988f-4f1c-8603-e3dd7e63fc2e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Vermögensverwaltungsgesellschaft für Versorgung und Verkehr der Stadt Herne mbH (VVH)",
+        "squuid": "5be1a6b6-a8a1-4172-8d2b-34afd698ec3b"
+      },
+      "squuid": "5f16c332-f837-4785-b6dd-a633d386c670",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 27.8,
+      "held": {
+        "name": "Energie- und Wasserversorgung Mittleres Ruhrgebiet GmbH",
+        "squuid": "5f16c2fd-51a4-4932-9239-3cccfc04da8d"
+      },
+      "squuid": "5ff5aa87-c463-46a1-9a51-ab1c1eb0babd",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

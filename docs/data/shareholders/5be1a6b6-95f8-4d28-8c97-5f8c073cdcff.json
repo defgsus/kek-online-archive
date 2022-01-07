@@ -1,0 +1,56 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "SCM Verlagsgruppe GmbH",
+        "squuid": "5be1a6b6-ba47-4973-a828-1dff6a251e76"
+      },
+      "squuid": "5be1a6b8-98f3-4c79-968a-967f8c65a6d1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "SCM Bundes-Verlag gGmbH",
+        "squuid": "5be1a6b6-a2fe-4479-b23b-6d8116d10ee1"
+      },
+      "squuid": "5f184b6a-94f3-4f7a-a4b7-e3f7e16ecf10",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Witten",
+  "pseudoCompany": false,
+  "name": "Stiftung Christliche Medien, gemeinnützige kirchliche Stiftung privaten Rechts",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-95f8-4d28-8c97-5f8c073cdcff",
+  "controlDate": "2019-12-16T13:22:16.031Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "credits": "IJK"
+}

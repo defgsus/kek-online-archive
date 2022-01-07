@@ -1,0 +1,112 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Alpin FM Verwaltungs GmbH",
+        "squuid": "5f8450ca-3550-47c4-a0ac-a05c9e0c159a"
+      },
+      "squuid": "60f67fb8-b13a-45f5-a68b-d1f78cdfe1b8",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Rosenheim",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Hafnerstr.",
+  "name": "Alpin FM GmbH & Co. KG ",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d135d04-96c3-4f58-9108-97216d41f6ba",
+  "controlDate": "2021-11-23T12:21:38.133Z",
+  "streetNumber": "5-13",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "83022",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Alpin FM",
+        "squuid": "5d135bd4-5abc-40d5-81f9-6f77dcf2933d"
+      },
+      "squuid": "5d135d16-ff95-4875-873f-02f3fddc1187",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.alpin.fm",
+        "squuid": "5f844ef4-f531-45f6-8116-41dc83b178fa"
+      },
+      "squuid": "5f844fa2-28c2-45f4-9d27-b618ae44716c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Radio Berchtesgadener Land & Chiemgau GmbH",
+        "squuid": "5be1a6b6-9c7b-46c8-a4ef-36952eb2d3d9"
+      },
+      "squuid": "5d135d5d-28bd-468a-ae59-b496cf6faaa3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Radio Alpenwelle Programmanbieter GmbH",
+        "squuid": "5be1a6b6-5348-4fb4-9a9c-c74fea5b6161"
+      },
+      "squuid": "5d135d77-a8ed-4508-a0fb-facfe8ddf999",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Radio Oberland Programmanbieter GmbH & Co. Vermarktungs KG",
+        "squuid": "5be1a6b6-513b-41b3-b4ce-5481486054a7"
+      },
+      "squuid": "5d135d8a-316e-4f08-9b92-9a62803f8835",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Funkhaus Rosenheim GmbH & Co. KG",
+        "squuid": "5be1a6b6-040f-4b3c-a4ef-629758453272"
+      },
+      "squuid": "5d136181-0eb7-4154-b92b-e8fe4018dc1a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Alpin FM Verwaltungs GmbH",
+        "squuid": "5f8450ca-3550-47c4-a0ac-a05c9e0c159a"
+      },
+      "squuid": "60ec1690-1c25-470b-9054-fc92836ddfa2",
+      "state": "active"
+    }
+  ]
+}

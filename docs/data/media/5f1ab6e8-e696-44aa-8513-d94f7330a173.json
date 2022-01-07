@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f1ab6e8-e696-44aa-8513-d94f7330a173",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Point of Sale GmbH",
+        "squuid": "5be1a6b6-df1d-414d-aff6-b0278c2fca89"
+      },
+      "squuid": "5f1ab71a-4c0c-4f37-9786-57edc5fffd13",
+      "state": "active"
+    }
+  ],
+  "name": "www.radio-pos.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-20T16:19:41.552Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

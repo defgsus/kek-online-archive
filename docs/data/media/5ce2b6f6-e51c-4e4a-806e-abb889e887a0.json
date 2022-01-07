@@ -1,0 +1,75 @@
+{
+  "rfRepresentative": "Fernando Carro de Prada, Rudi Völler",
+  "state": "active",
+  "sharesInfo": "KEK 986",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Frank Dittgens",
+  "rfStartDate": "01.07.2018",
+  "rfFreePay": true,
+  "squuid": "5ce2b6f6-e51c-4e4a-806e-abb889e887a0",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.bayer04.de/de-de",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bayer 04 Leverkusen Fußball GmbH",
+        "squuid": "5ce2b6cd-0048-42ec-84c8-9007d892cba0"
+      },
+      "squuid": "5ce2b922-51d6-4eb0-adfa-8f734fa8ced9",
+      "state": "active"
+    }
+  ],
+  "name": "Bayer 04-TV",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Spartenprogramm mit Live-Übertragungen von Trainings und Testspielen des Fußball-Bundesligisten sowie Hintergrundberichten über verschiedene Streaming-Plattformen im Internet (u. a. www.bayer.04.de, Facebook, YouTube)",
+  "rfLicenseUntil": "12.02.2029",
+  "rfLicensed": "13.02.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "13.02.2019",
+  "accessibilityEmail": "info@bayer04.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

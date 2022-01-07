@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "pseudoCompany": false,
+  "street": "Kunz-Buntschuh-Straße ",
+  "name": "Epoch Times Europe GmbH",
+  "naturalPerson": false,
+  "squuid": "5d357fe5-1eaa-44a0-9777-cb9d386190aa",
+  "controlDate": "2021-12-06T12:44:52.594Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14193",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.epochtimes.de",
+        "squuid": "5d357fb1-3bb7-4716-8a99-e79e8500171d"
+      },
+      "squuid": "5d358013-2ca4-4b37-bdf2-c6c0815f0835",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Epoch Times Inc.",
+        "squuid": "5d358265-e99d-4ac7-852c-d9973c7e9974"
+      },
+      "squuid": "5d358281-b3f5-4c25-90ae-4536dbf0b2ed",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": true,
+  "street": "Römerberg",
+  "name": "Stadt Frankfurt am Main/Der Magistrat",
+  "naturalPerson": false,
+  "squuid": "5d31c85a-207e-41b6-9c47-8f40aac90a9b",
+  "controlDate": "2020-06-29T13:24:10.886Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60311",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.frankfurt.de",
+        "squuid": "5d31c848-efb9-4098-b211-c39dcd8f9942"
+      },
+      "squuid": "5d31c878-9e0e-4cf6-8a4b-bc8ff72956c5",
+      "state": "active"
+    }
+  ]
+}

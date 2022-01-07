@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Vimeo Inc.",
+        "squuid": "5d2c660a-9a5b-4347-a1c2-d5e304465b02"
+      },
+      "squuid": "5d2c68b2-dc39-4842-a1ef-04c8169057fa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Dotdash Inc.",
+        "squuid": "5d371061-230b-4051-80d7-d5664062b263"
+      },
+      "squuid": "5d3710b2-3a85-42ea-8f94-8b59d5b8cf58",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "New York (US)",
+  "pseudoCompany": false,
+  "name": "IAC InterActiveCorp. ",
+  "naturalPerson": false,
+  "squuid": "5d2c6899-0b71-4a04-b974-f95ea6702015",
+  "controlDate": "2021-12-03T13:30:41.354Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 42.5,
+      "holder": {
+        "name": "Diller, Barry",
+        "squuid": "5d2c6b7c-b7ac-4131-adb6-651194665902"
+      },
+      "squuid": "5d2c6bb4-d621-4095-ad41-39ac7d627593",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 57.5,
+      "holder": {
+        "name": "Streubesitz an der IAC",
+        "squuid": "5d2c6b8e-5303-4bdd-81e8-c6ac8769e9d6"
+      },
+      "squuid": "5d2c6bd0-49e9-47dd-9a89-1973975dcfc9",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f15a9eb-086a-48bd-aa00-14cd63dc849c",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Betriebsgesellschaft Radio Essen mbH & Co. KG",
+        "squuid": "5be1a6b6-86d0-4d01-be90-868b00db343f"
+      },
+      "squuid": "5f15aa6a-cd9e-4e3f-8ae0-4d50396a0d5f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5f15aa75-efd5-40f0-b74b-128afbac1f83",
+      "state": "active"
+    }
+  ],
+  "name": "www.radioessen.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-22T11:33:43.454Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

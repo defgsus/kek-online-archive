@@ -1,0 +1,47 @@
+{
+  "state": "active",
+  "city": "Dresden",
+  "note": "Vorstandsvorsitzender: Dr. Sigurd Goldbogen",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Riesaer Straße",
+  "name": "Radio-Initiative Dresden e. V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d942-402e-b5d0-a37ed84e5111",
+  "streetNumber": "32",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01127",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "coloRadio",
+        "squuid": "5be1a6b1-93db-43a0-aa21-99231a0f1a6e"
+      },
+      "squuid": "5be1a6b9-4ff3-4d10-a6fd-2fd94ae371b8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.coloradio.org",
+        "squuid": "5f8ef1a0-f3ab-4248-9502-42ca087263e4"
+      },
+      "squuid": "5f8ef1db-2a11-4fbb-a895-3e57212f20f6",
+      "state": "active"
+    }
+  ],
+  "credits": "Schreiben der SLM vom 31.01.2013"
+}

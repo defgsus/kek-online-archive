@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "GSB Betriebs- und Beteiligungs GmbH.",
+        "squuid": "5d398848-4bc9-413f-be06-5d25873e5c4b"
+      },
+      "squuid": "5d39892e-055a-4c9f-96a1-9afcb86e085d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Unter den Linden ",
+  "name": "Stoffel Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "5d39890e-bcdd-48b1-85cd-454a4ecdbe29",
+  "controlDate": "2021-03-11T17:28:32.162Z",
+  "streetNumber": "78",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.9,
+      "holder": {
+        "name": "Stoffel, Ludwig",
+        "squuid": "5d3989bc-d0df-4349-9493-d506a99b52ab"
+      },
+      "squuid": "5d3989f3-d750-4495-8af4-fc8c56fbee40",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.1,
+      "holder": {
+        "name": "Stoffel, Manfred",
+        "squuid": "5d3989b1-f7db-4e63-82ac-cb88ed9b62af"
+      },
+      "squuid": "5d398a00-c053-4f58-813d-6f2227dfd4bf",
+      "state": "active"
+    }
+  ]
+}

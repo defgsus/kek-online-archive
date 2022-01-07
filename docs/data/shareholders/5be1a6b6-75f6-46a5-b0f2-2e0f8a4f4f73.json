@@ -1,0 +1,142 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "Gemeinschaft Digitaler Radio Programme GmbH",
+        "squuid": "5be1a6b6-dc24-47cf-9ec2-e3f9b61bc5d2"
+      },
+      "squuid": "5d10c899-59ef-4485-9f77-4d77c2db8235",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.692,
+      "held": {
+        "name": "Gemeinschaft Digitaler Radio Programme Beteiligungs-GmbH & Co. KG",
+        "squuid": "5f3e78f9-65e5-448e-9405-939dcc58f361"
+      },
+      "squuid": "5ff3338b-30e4-4c71-a715-c325986786e4",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kulmbach",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "E.-C.-Baumann- Straße",
+  "name": "Radio Plassenburg Studiobetriebs- und Werbegesellschaft mbH & Co. Hörfunksender KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-75f6-46a5-b0f2-2e0f8a4f4f73",
+  "controlDate": "2021-12-20T16:15:16.831Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "95326",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Plassenburg",
+        "squuid": "5be1a6b1-c8ef-4258-b058-7e4d22ae28d9"
+      },
+      "squuid": "5be1a6b9-9e21-4a98-9578-8e24927fed72",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Galaxy Kulmbach",
+        "squuid": "5be1a6b1-8623-43f7-9bc6-0e8d3b04d481"
+      },
+      "squuid": "5be1a6b9-851a-4995-9a12-0bfb367fa122",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-plassenburg.de",
+        "squuid": "5f92e55a-30f3-4a2e-96ff-d10a7b34464b"
+      },
+      "squuid": "5f92e594-b8e4-4807-a1b8-1e067d78854c",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Neue Welle Oberfranken Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-5526-444b-86b3-9798293679fb"
+      },
+      "squuid": "5c53168b-3941-4cc4-b9e4-31bd8f9c0357",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "MGO Anbietergesellschaft Radio GmbH",
+        "squuid": "5c890b34-a1a7-4429-9808-ffdd94e5c22d"
+      },
+      "squuid": "5cd2cbf0-1075-4844-8e35-937531c6a9f3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Plassenburg Studiobetriebs- und Werbegesellschaft mbH",
+        "squuid": "5f92e6fb-0f9b-46b4-a79d-fc4c660967d8"
+      },
+      "squuid": "5f92e73b-79f4-4392-ada1-5a4ec5ea3ada",
+      "state": "active"
+    }
+  ]
+}

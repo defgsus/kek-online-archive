@@ -1,0 +1,74 @@
+{
+  "name": "Girardet, Dr. Michael",
+  "pseudoCompany": false,
+  "squuid": "5eb94798-d360-4c18-9901-3dc5f6e8f277",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Girardet Verlag KG",
+        "squuid": "5be1a6b6-ff67-4dcc-b8b6-874d94ac176f"
+      },
+      "squuid": "5eb947f0-2a8d-419c-b862-db6cc6c02825",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 56.02,
+      "held": {
+        "name": "Girardet Verlag Verwaltungs GmbH",
+        "squuid": "5eb947b5-5d43-4e8b-ba4f-0bec3c04b52c"
+      },
+      "squuid": "6050dfd6-fa20-466a-b8bf-0e4bc2255095",
+      "state": "active"
+    }
+  ],
+  "city": "Düsseldorf",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

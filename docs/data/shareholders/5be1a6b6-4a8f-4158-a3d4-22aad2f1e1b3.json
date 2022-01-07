@@ -1,0 +1,103 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Bielefeld Betriebs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5eeb7c61-5c9a-433f-8235-daca331846ce"
+      },
+      "squuid": "5ef1cf90-7ab5-404a-a993-a59ca9b8beb1",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bielefeld",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Niedernstraße",
+  "name": "Radio Bielefeld Betriebsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4a8f-4158-a3d4-22aad2f1e1b3",
+  "controlDate": "2021-12-21T15:16:33.818Z",
+  "streetNumber": "21 - 27",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "33602",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Bielefeld",
+        "squuid": "5be1a6b1-429e-41a6-8be4-dc4ebfa0a4ab"
+      },
+      "squuid": "5be1a6b9-54c6-438a-a88a-5f40148aed57",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiobielefeld.de",
+        "squuid": "5eeb7b6b-030b-49e2-ad13-82ebd3cfccd4"
+      },
+      "squuid": "5eeb7c15-38dd-4e9f-afef-3a65a0d7d295",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 71.25,
+      "holder": {
+        "name": "Zeitungsverlag Neue Westfälische GmbH & Co. KG",
+        "squuid": "5be1a6b6-2567-447c-b4a0-60f7702714c2"
+      },
+      "squuid": "5be1a6b7-4685-4b76-a033-f3d755e9818f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Stadt Bielefeld",
+        "squuid": "5be1a6b6-83b2-4f27-b3c8-57138a9bb47a"
+      },
+      "squuid": "5be1a6b7-039f-40ef-bdd4-a50f16ebed07",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Bielefeld Betriebs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5eeb7c61-5c9a-433f-8235-daca331846ce"
+      },
+      "squuid": "5eeb7cdd-a0eb-4167-8e3c-16394ddbb5ec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.75,
+      "holder": {
+        "name": "Westfalen-Blatt Vereinigte Zeitungsverlage GmbH & Co. KG",
+        "squuid": "5e1dbf05-b346-426d-a4eb-cfe11f1b031f"
+      },
+      "squuid": "5eeb7cf7-3752-492d-9ec8-8362bcb96bfa",
+      "state": "active"
+    }
+  ]
+}

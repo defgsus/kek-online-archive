@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Hadermanns Weg",
+  "name": "Bellevue Media GmbH",
+  "naturalPerson": false,
+  "squuid": "60193f39-82df-4579-808a-a5cc48925cd1",
+  "controlDate": "2021-11-26T15:40:25.096Z",
+  "streetNumber": "51",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22459",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bellevue",
+        "squuid": "5be1a6b1-05a7-4a0c-aa29-cf23f1f6d9fb"
+      },
+      "squuid": "60193f58-6469-4cc9-b33f-08bbc04e7055",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bellevue.de",
+        "squuid": "5be1a6b1-dcd4-43f5-bee4-d810dac02343"
+      },
+      "squuid": "60193f8e-3a72-4ad2-82e9-61ea49a20385",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Haller, Claus-Peter",
+        "squuid": "601940e0-b4f2-4d1f-9e23-93d6597dbdf5"
+      },
+      "squuid": "60194101-45e2-496d-a22d-50a5bd802d8f",
+      "state": "active"
+    }
+  ]
+}

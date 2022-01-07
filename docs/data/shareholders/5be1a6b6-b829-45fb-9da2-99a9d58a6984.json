@@ -1,0 +1,33 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Benrather Straße",
+  "name": "EGGERT GROUP GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-b829-45fb-9da2-99a9d58a6984",
+  "streetNumber": "18-20",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "40212",
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 14.01.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Eggert, Sven",
+        "squuid": "5be1a6b6-6415-4e68-857d-a2c0b79c23c1"
+      },
+      "squuid": "5be1a6b7-7585-46b1-a912-0e797ff0e315",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "state": "active",
+  "city": "Mainz",
+  "pseudoCompany": false,
+  "street": "Erich-Dombrowski-Straße 2",
+  "name": "Gesellschaft für kirchliche Publizistik Mainz mbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9882-48d4-bf8d-72b03e4a45a5",
+  "controlDate": "2021-09-30T11:13:39.070Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "55127",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bonifatiusbote",
+        "squuid": "5be1a6b1-08b8-426e-95c4-6afda36b7c0b"
+      },
+      "squuid": "5be1a6b9-d6c9-4a4d-8a26-3e11b6c3b2cc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Glaube und Leben",
+        "squuid": "5be1a6b1-2549-456f-9ad9-df67538cea79"
+      },
+      "squuid": "5be1a6b9-0a8b-465a-88c2-a490010a1ad1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Der Sonntag (Limburg)",
+        "squuid": "5be1a6b1-70ff-41db-bbbd-109c32fbecb2"
+      },
+      "squuid": "5be1a6b9-f991-4476-91d6-40294f2bbebd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kirchenzeitung.de",
+        "squuid": "5be1a6b1-f963-435f-a2d9-3fbe7e6d59c6"
+      },
+      "squuid": "5be1a6b9-c3cd-4447-8f03-5088b5cdfa17",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Bistum Mainz",
+        "squuid": "5be1a6b6-fd55-4eee-b0a9-11281e111fcd"
+      },
+      "squuid": "5be1a6b8-2e57-4076-9f8d-799572cd83d7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Bistum Fulda",
+        "squuid": "5be1a6b6-265f-4434-a8d0-e0402f3c1575"
+      },
+      "squuid": "5be1a6b8-a2cd-4d3b-8413-513742566997",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Bistum Limburg",
+        "squuid": "5be1a6b6-be7c-4d09-9aa9-2e4775950b71"
+      },
+      "squuid": "5be1a6b8-44cd-49b4-85e6-d0a957bc871a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Verwaltungsgesellschaft für kirchliche Publizistik Mainz mbH",
+        "squuid": "5ebbc697-5d69-43e8-9862-4c4174c7516b"
+      },
+      "squuid": "5ebbc6c6-4af9-4dcd-ba47-2ae29bbd91cb",
+      "state": "active"
+    }
+  ]
+}

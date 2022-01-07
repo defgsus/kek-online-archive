@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Kulmbach",
+  "pseudoCompany": false,
+  "street": "E.-C.-Baumann-Straße",
+  "name": "Baumann GmbH + Co KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-17a0-447f-a12a-e437f7b031a0",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "95326",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 78.1,
+      "holder": {
+        "name": "Mediengruppe Oberfranken GmbH & Co. KG",
+        "squuid": "5be1a6b6-77ea-4cc0-b206-105ee3aec7f8"
+      },
+      "squuid": "5be1a6b7-52cb-4374-8bef-184952cac732",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 21.9,
+      "holder": {
+        "name": "Uhlemann, Monika",
+        "squuid": "5be1a6b6-f9fb-4420-b510-21fc0f03b788"
+      },
+      "squuid": "5be1a6b7-82e0-4996-af72-f52ade40ad57",
+      "state": "active"
+    }
+  ]
+}

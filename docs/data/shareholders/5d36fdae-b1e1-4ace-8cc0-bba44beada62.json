@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": true,
+  "street": "Werderscher Markt ",
+  "name": "Auswärtiges Amt/Internetredaktion",
+  "naturalPerson": false,
+  "squuid": "5d36fdae-b1e1-4ace-8cc0-bba44beada62",
+  "controlDate": "2020-06-18T13:05:31.186Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.auswaertiges-amt.de",
+        "squuid": "5d36fd51-8d1e-4012-8faa-ece5887f06d2"
+      },
+      "squuid": "5d36fdca-2d0f-4be7-a81c-5d123b68dbaa",
+      "state": "active"
+    }
+  ]
+}

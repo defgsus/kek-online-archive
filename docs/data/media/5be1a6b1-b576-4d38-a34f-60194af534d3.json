@@ -1,0 +1,79 @@
+{
+  "rfRepresentative": "Wilke Stroman",
+  "state": "active",
+  "rfShoppingChannel": true,
+  "rfParentalAdvisor": "Daniel Blum",
+  "rfStartDate": "2017",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-b576-4d38-a34f-60194af534d3",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SH Telekommunikation Deutschland GmbH",
+        "squuid": "5be1a6b6-5592-4cc6-b996-943552673828"
+      },
+      "squuid": "5be1a6b9-d0fd-4dae-a5de-97d8197619c1",
+      "state": "active"
+    }
+  ],
+  "name": "Sparhandy.TV 2",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-6b1a-4de6-924f-727ccb20e81b",
+    "name": "Teleshopping",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Teleshopping-Kanal, über den Mobilfunkverträge aller Netzbetreiber vermittelt sowei mobile Endgeräte und Zubehör verkauft werden.",
+  "rfLicenseUntil": "07.06.2027",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "08.06.2017",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "08.06.2017",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

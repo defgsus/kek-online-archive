@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Balderschwang",
+  "pseudoCompany": false,
+  "street": "Dorf",
+  "name": "Internationale Christliche Rundfunkgemeinschaft (ICR) e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-48df-4a08-8beb-1b5540eae2fa",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "87538",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Horeb",
+        "squuid": "5be1a6b1-4f7f-4d8b-a4f2-a52b0764dd6b"
+      },
+      "squuid": "5be1a6b9-5240-43b6-b1e0-395715676878",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Horeb München",
+        "squuid": "5be1a6b1-c1a0-430b-818e-84ee980f470e"
+      },
+      "squuid": "5be1a6b9-8c0a-4466-8c32-4f3dced152f3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.horeb.org",
+        "squuid": "5f92cef1-57dd-4d92-844c-3be5f1d28310"
+      },
+      "squuid": "5f92cf41-36bf-4397-ad5a-eb68712c5ca2",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM"
+}

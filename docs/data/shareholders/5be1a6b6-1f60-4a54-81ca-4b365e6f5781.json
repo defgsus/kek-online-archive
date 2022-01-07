@@ -1,0 +1,84 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 34.0,
+      "held": {
+        "name": "Sächsische Lokalrundfunk-Dienstleistungsprogramm GmbH & Co. Studiobetriebs-KG",
+        "squuid": "5be1a6b6-a548-4307-a76f-9bbb9d92208c"
+      },
+      "squuid": "5be1a6b7-f6ed-40aa-8ba6-0441ca3b0eb2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leipzig",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Friedrich-List-Platz",
+  "name": "Studio Leipzig Rundfunkprogramm GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1f60-4a54-81ca-4b365e6f5781",
+  "controlDate": "2021-06-14T11:37:42.732Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04103",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Leipzig",
+        "squuid": "5be1a6b1-bb6e-4dc1-97ad-18d59a035edb"
+      },
+      "squuid": "5be1a6b9-f084-4e76-8084-37d86555e4a8",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Verlag für die Frau GmbH",
+        "squuid": "5be1a6b6-73e9-4253-b01c-6c3a76ee24f4"
+      },
+      "squuid": "5be1a6b7-6a65-4f59-9ad4-cae02eb1367d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "MTS Mediengesellschaft Telefonbuchverlag Sachsen GmbH",
+        "squuid": "5be1a6b6-22d6-49d6-bc4c-a469bf390acf"
+      },
+      "squuid": "5be1a6b7-7101-4411-b996-4aa308aeee4d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Sächsische Lokalrundfunk-Dienstleistungsprogramm Verwaltungs-GmbH",
+        "squuid": "5f8d8b78-3fa9-4357-b86f-258845799605"
+      },
+      "squuid": "60c73f83-856a-4b82-bd59-6156f96b36cb",
+      "state": "active"
+    }
+  ]
+}

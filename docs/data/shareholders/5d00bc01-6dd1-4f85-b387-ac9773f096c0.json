@@ -1,0 +1,114 @@
+{
+  "state": "active",
+  "city": "Cuxhaven",
+  "pseudoCompany": false,
+  "street": "Johannes-Gutenberg-Straße",
+  "name": "Mediagruppe Nord GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d00bc01-6dd1-4f85-b387-ac9773f096c0",
+  "controlDate": "2021-11-19T13:13:24.525Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "27472",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Zeitungsgruppe Nord Gruppe B (Nds/Hamburg) (MVM)",
+        "squuid": "5cffa831-cca7-4aa2-b4cf-b889d0dff308"
+      },
+      "squuid": "5d00bc2a-d3b6-463e-ab24-e6e31ffa21bd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 14.29,
+      "holder": {
+        "name": "A. Beig Druckerei und Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-46b5-4cc2-9c62-b061ede0c40a"
+      },
+      "squuid": "5d00bd04-f98c-476b-a8fb-46a61fec0142",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.29,
+      "holder": {
+        "name": "Bremervörder Zeitung Verlagsgesellschaft Borgardt GmbH & Co KG",
+        "squuid": "5be1a6b6-864d-4119-b576-cfd654d4ca81"
+      },
+      "squuid": "5d00bd63-5ef1-4553-862c-0ed025f580af",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.29,
+      "holder": {
+        "name": "Bergedorfer Buchdruckerei von Ed. Wagner GmbH",
+        "squuid": "5be1a6b6-e4ec-4619-99c0-c64e390c2d9a"
+      },
+      "squuid": "5d00bd7d-eb83-4165-8b31-ef04fe030fec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.29,
+      "holder": {
+        "name": "Cuxhaven-Niederelbe Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-0305-4c47-ae46-3873acf5172c"
+      },
+      "squuid": "5d00bd95-cfbd-4e2e-b4a7-b0339f15ebac",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.29,
+      "holder": {
+        "name": "Zeitungsverlag Krause GmbH & Co KG",
+        "squuid": "5be1a6b6-027c-471b-81f3-cc55a0d0c141"
+      },
+      "squuid": "5d00bdb8-5425-4c05-8365-848c1d20b11d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.29,
+      "holder": {
+        "name": "sh:z Schleswig-Holsteinischer Zeitungsverlag GmbH & Co KG",
+        "squuid": "5be1a6b6-5d33-48ab-a772-58018e1c1510"
+      },
+      "squuid": "5d00bdce-8064-47ff-ac2c-d6bc7fe07747",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.29,
+      "holder": {
+        "name": "OM-Mediengruppe KG",
+        "squuid": "5be1a6b6-56b3-4bcb-a277-35106b48b3d0"
+      },
+      "squuid": "5d00bde7-1a72-421f-9dd6-6657d6d26be1",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Mediagruppe Nord Verwaltungsgesellschaft mbH",
+        "squuid": "5ea81805-dba7-4670-869f-a77d8ba894d7"
+      },
+      "squuid": "5ea8182f-d501-4bba-a9e4-5763edd6a40b",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f917259-bc26-4c1e-b171-10215954524f",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Norddeutscher Rundfunk (NDR)",
+        "squuid": "5be1a6b6-f139-4f07-95d0-bf1060f47ff8"
+      },
+      "squuid": "5f917775-ba9f-4f16-aa0d-a8be5aa307e3",
+      "state": "active"
+    }
+  ],
+  "name": "www.ndr.de/wellenord",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-15T16:21:56.256Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lippischer Rundfunk Verwaltungs GmbH",
+        "squuid": "5f16e094-9099-4bd2-9574-a7b746b4bf2d"
+      },
+      "squuid": "5ff5ba17-d373-4e43-a2f8-54457eb5bda3",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Detmold",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Ohmstraße",
+  "name": "Lippischer Rundfunk GmbH & Co. KG",
+  "naturalPerson": false,
+  "co": "Lippische Landes-Zeitung",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4b3f-4f25-8ecd-85ec1650f50b",
+  "controlDate": "2021-12-22T15:25:12.272Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "32758",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Lippe",
+        "squuid": "5be1a6b1-ddf9-4dd8-a6e0-3fa6adbdd2f2"
+      },
+      "squuid": "5be1a6b9-c592-4047-9202-62f1436775d3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiolippe.de",
+        "squuid": "5f16dfc9-fba1-4354-9c5e-f9b197d2d37f"
+      },
+      "squuid": "5f16e047-9e7a-497b-b48c-c59ae85fa1ea",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 4.8,
+      "holder": {
+        "name": "Zeitungsverlag Neue Westfälische GmbH & Co. KG",
+        "squuid": "5be1a6b6-2567-447c-b4a0-60f7702714c2"
+      },
+      "squuid": "5be1a6b8-e779-4d44-bf8f-abaef030e27f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Kreis Lippe",
+        "squuid": "5be1a6b6-d0c5-41e7-af67-dae1e6720299"
+      },
+      "squuid": "5be1a6b8-97f3-4552-b1a6-2cf388a5fb03",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lippischer Rundfunk Verwaltungs GmbH",
+        "squuid": "5f16e094-9099-4bd2-9574-a7b746b4bf2d"
+      },
+      "squuid": "5f16e0cf-a947-4a40-95d5-f5454c93a794",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 70.2,
+      "holder": {
+        "name": "Giesdorf Media GmbH & Co. KG",
+        "squuid": "5de7b362-2aa0-4c59-b620-204896867ca8"
+      },
+      "squuid": "5f16e152-7ea5-4d88-a3bf-f83d6a9f3a8e",
+      "state": "active"
+    }
+  ]
+}

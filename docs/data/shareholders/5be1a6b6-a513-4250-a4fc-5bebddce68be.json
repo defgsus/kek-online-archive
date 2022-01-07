@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Karl-Liebknecht-Str. 29",
+  "name": "PMB Presse- und Medienhaus Berlin GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a513-4250-a4fc-5bebddce68be",
+  "controlDate": "2019-05-09T14:45:25.555Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "10178",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DuMont Regionalmedienholding GmbH & Co KG",
+        "squuid": "5be1a6b6-ef0d-457b-8db1-fea99e30f23e"
+      },
+      "squuid": "5be1a6b7-1686-4c24-9643-be37691b4bbd",
+      "state": "active"
+    }
+  ]
+}

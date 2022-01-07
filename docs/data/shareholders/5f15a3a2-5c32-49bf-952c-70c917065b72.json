@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Emscher-Lippe mbH & Co. KG",
+        "squuid": "5be1a6b6-c41f-48b1-8173-2a38f8701aaa"
+      },
+      "squuid": "5f15a46e-6796-4bef-ab62-16b7dfcb53fc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gelsenkirchen",
+  "pseudoCompany": false,
+  "street": "Hochstr.",
+  "name": "Betriebsverwaltungsgesellschaft Radio Emscher-Lippe mbH",
+  "naturalPerson": false,
+  "squuid": "5f15a3a2-5c32-49bf-952c-70c917065b72",
+  "controlDate": "2021-12-21T17:23:06.413Z",
+  "streetNumber": "30",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "45894",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5ff5a0e8-67e6-4570-a6ca-2d7404bc580d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.0,
+      "holder": {
+        "name": "Stadtwerke Gelsenkirchen GmbH",
+        "squuid": "5be1a6b6-5b08-4a73-b9f3-df7a6123502b"
+      },
+      "squuid": "5ff5a0f8-cc85-4a70-9528-4f420d8bc5c0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.0,
+      "holder": {
+        "name": "Stadt Bottrop",
+        "squuid": "5be1a6b6-3e98-4329-9eda-77fd0cd12996"
+      },
+      "squuid": "5ff5a105-a609-4c88-a10b-cf4c37a93775",
+      "state": "active"
+    }
+  ]
+}

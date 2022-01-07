@@ -1,0 +1,30 @@
+{
+  "name": "Stadt Hamm",
+  "squuid": "5f104df3-6a07-49f7-9c8e-d7dbb660c3d1",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Stadtwerke Hamm GmbH",
+        "squuid": "5be1a6b6-8ba5-44fc-8005-8020be3bcc39"
+      },
+      "squuid": "5ff6e7a3-85ae-4235-b717-6134a1c03b35",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active"
+}

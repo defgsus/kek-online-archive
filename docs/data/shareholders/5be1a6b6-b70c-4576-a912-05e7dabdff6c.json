@@ -1,0 +1,72 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Verlag Lambert Lensing GmbH",
+        "squuid": "5be1a6b6-98e4-4e9d-8891-ad44917886f7"
+      },
+      "squuid": "5be1a6b8-2172-4bef-9964-8a0baf0af07c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Ruhr-Nachrichten Verlag & Co. KG",
+        "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793"
+      },
+      "squuid": "5ec4fc08-9dfc-49bc-bca8-3b46be0d1206",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "LLW Verwaltungsgesellschaft mbH",
+        "squuid": "5ec4fbd9-0542-4628-bc14-54b5c307350d"
+      },
+      "squuid": "5ef1d1e6-1f88-490d-8153-783cbd1a3918",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "JLW Beteiligungsgesellschaft OHG",
+        "squuid": "5ff31565-552e-4741-aa75-94a872365916"
+      },
+      "squuid": "600162ce-585a-43b3-871b-e99d09966c0d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Herdecke",
+  "pseudoCompany": false,
+  "name": "Lensing-Wolff, Lambert",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-b70c-4576-a912-05e7dabdff6c",
+  "controlDate": "2019-06-21T13:14:17.251Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "credits": "IJK"
+}

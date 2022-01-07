@@ -1,0 +1,149 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 16.02,
+      "held": {
+        "name": "Lokalfunk für den Kreis Borken GmbH & Co. KG",
+        "squuid": "5be1a6b6-4527-4ef2-9ab7-0f9cd59a6f29"
+      },
+      "squuid": "5be1a6b7-0da3-4aff-8e8b-67bfdc7f1590",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.4,
+      "held": {
+        "name": "Pressefunk Nordrhein-Westfalen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8c11-4526-af08-275ec93dea8b"
+      },
+      "squuid": "5be1a6b7-4d00-4565-bf10-ecacf9ec6107",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "Westline GmbH & Co. KG",
+        "squuid": "5c58145a-6a69-4c41-92ae-214f1f921e86"
+      },
+      "squuid": "5c58185f-4a16-460a-ae50-060acb83bb67",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Mergelsberg Beteiligungs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5eb95890-b9c0-445e-b62a-83d91b21a981"
+      },
+      "squuid": "5ef1c030-2ee5-4135-bd4b-eed20ca5d367",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "J. Mergelsberg Vertriebs-GmbH",
+        "squuid": "5eb958ad-b048-4484-b8b1-c63ffc6bdeb9"
+      },
+      "squuid": "5ef1c1c8-182e-4827-9205-bef06a097cfe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.02,
+      "held": {
+        "name": "Lokalfunk Betriebsgesellschaft für den Kreis Borken mbH",
+        "squuid": "5f118afc-d5a0-4761-9da5-833f45c9344e"
+      },
+      "squuid": "6001606c-cfe8-42c5-b81d-11134e1b67b6",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Borken",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "J. Mergelsberg GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-430f-441d-b020-109fe5c45968",
+  "controlDate": "2021-12-01T13:19:24.414Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "46325",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Borkener Zeitung",
+        "squuid": "5be1a6b1-b7ce-4f31-af64-2ce0f73c9694"
+      },
+      "squuid": "5be1a6b9-eab9-49ce-a221-7407eb9bbc88",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.borkenerzeitung.de",
+        "squuid": "5be1a6b1-84a8-4f22-aa77-0370a6913484"
+      },
+      "squuid": "5be1a6b9-044a-4611-ac37-4c535ece0c0c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Mergelsberg Beteiligungs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5eb95890-b9c0-445e-b62a-83d91b21a981"
+      },
+      "squuid": "5eb958d8-2312-48c1-b7c0-7c711c1b9e48",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "J. Mergelsberg Vertriebs-GmbH",
+        "squuid": "5eb958ad-b048-4484-b8b1-c63ffc6bdeb9"
+      },
+      "squuid": "5eb958ee-c693-4b98-86ab-a59f4bbe3abb",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schmidt, Stephan",
+        "squuid": "5ef1c213-5728-405f-8ebc-09ce1bcf2402"
+      },
+      "squuid": "5ef1c231-27d1-42d1-a558-381732458207",
+      "state": "active"
+    }
+  ]
+}

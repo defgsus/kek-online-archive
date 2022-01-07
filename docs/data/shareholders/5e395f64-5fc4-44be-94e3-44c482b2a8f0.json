@@ -1,0 +1,49 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Samarion SE",
+        "squuid": "5be1a6b6-3839-43da-8e48-bc1c6ada6216"
+      },
+      "squuid": "5e396039-89b9-4966-949d-3e6f361e7ff8",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "blockescence plc.",
+  "naturalPerson": false,
+  "squuid": "5e395f64-5fc4-44be-94e3-44c482b2a8f0",
+  "controlDate": "2021-12-01T13:48:12.037Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.19,
+      "holder": {
+        "name": "Bodhivas GmbH",
+        "squuid": "5e395f83-0dab-41fd-8b1b-d8558235b468"
+      },
+      "squuid": "5e55357a-e3d0-456e-bd03-ac1912d6dbac",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.81,
+      "holder": {
+        "name": "Streubesitz an der blockescence plc.",
+        "squuid": "5e395fc2-4e75-4932-9e0f-6f64534629f5"
+      },
+      "squuid": "5e5535a3-4f2c-43e7-a93d-a02d35ffde26",
+      "state": "active"
+    }
+  ]
+}

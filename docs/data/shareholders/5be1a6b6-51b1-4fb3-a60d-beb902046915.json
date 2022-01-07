@@ -1,0 +1,83 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "RADIO BOB Verwaltung GmbH",
+        "squuid": "5f3552dc-5c10-42a1-aba5-0cc69a12ef91"
+      },
+      "squuid": "5f3a495e-e5cb-4187-9933-f856933aba17",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kassel",
+  "note": "Stand: 4/2016",
+  "pseudoCompany": false,
+  "street": "Friedrich-Ebert-Str.",
+  "name": "RADIO BOB GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-51b1-4fb3-a60d-beb902046915",
+  "controlDate": "2021-12-21T15:27:04.049Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "34117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio BOB!",
+        "squuid": "5be1a6b1-7ddb-4e4e-a0d0-181fa3365c5b"
+      },
+      "squuid": "5be1a6b9-ed6a-4453-8c82-3b517c157066",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiobob.de",
+        "squuid": "5f1aaa6a-fbc6-4925-9392-3e1b157088b9"
+      },
+      "squuid": "5f355193-bd24-440b-8547-1afbf1818d50",
+      "state": "active"
+    }
+  ],
+  "credits": "LPR Hessen",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "REGIOCAST GmbH & Co. KG",
+        "squuid": "5be1a6b6-44d3-4fcc-8739-a1cd06ab21d3"
+      },
+      "squuid": "5be1a6b7-3a8d-4f18-a409-307aa4339922",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "RADIO BOB Verwaltung GmbH",
+        "squuid": "5f3552dc-5c10-42a1-aba5-0cc69a12ef91"
+      },
+      "squuid": "5f355402-f550-43cd-8473-8d560c79ec90",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f9187da-600c-4521-845e-423b8bc6d722",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "LFS Landesfunk Sachsen GmbH",
+        "squuid": "5be1a6b6-b740-46cb-9e6b-2bde3d68f29c"
+      },
+      "squuid": "5f91888f-08d9-458d-a158-8500977274b7",
+      "state": "active"
+    }
+  ],
+  "name": "www.rsa-sachsen.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-04T10:43:47.448Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

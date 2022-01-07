@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Leutkirch",
+  "pseudoCompany": false,
+  "name": "Schwäbische Zeitung Lokalverlag Leutkirch GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-39d3-448f-b372-ca1da576ba8d",
+  "controlDate": "2021-11-11T15:14:55.971Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "88299",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwäbische Zeitung (Ausgabe Leutkirch)",
+        "squuid": "5be1a6b1-169b-44ff-9657-36070b5b6a51"
+      },
+      "squuid": "5be1a6b9-7704-47e5-b99e-2bb003aa7dc8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-c17e-4e16-8792-033fecbf0539",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbische Zeitung Lokalverlag Leutkirch Verwaltungs-GmbH",
+        "squuid": "5ee9c887-4ee9-4708-8f7b-cab814870ce0"
+      },
+      "squuid": "5ee9c8b7-bf8c-4e62-8146-963f3d7562aa",
+      "state": "active"
+    }
+  ]
+}

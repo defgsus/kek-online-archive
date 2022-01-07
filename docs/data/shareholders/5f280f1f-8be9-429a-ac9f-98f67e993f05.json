@@ -1,0 +1,94 @@
+{
+  "state": "active",
+  "city": "Hettstedt",
+  "pseudoCompany": false,
+  "street": "Fichtestr.",
+  "name": "PUNKTum-Fernseh-GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5f280f1f-8be9-429a-ac9f-98f67e993f05",
+  "controlDate": "2021-12-20T14:53:33.028Z",
+  "streetNumber": "28b",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "06333",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.punktum-fernsehen.de",
+        "squuid": "5f280e44-055a-46da-833e-ff0a28f0ccd7"
+      },
+      "squuid": "5f280f41-095c-4f79-8884-d9062fac1233",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Punktum Fernsehbeteiligungsgesellschaft mbH",
+        "squuid": "5d020ab0-c830-47c4-84bc-703f3325e579"
+      },
+      "squuid": "5f281000-1e56-4f9f-99b6-f755552286a7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 27.0,
+      "holder": {
+        "name": "Haiasch, Ralf",
+        "squuid": "5d020c2f-7088-4c10-9bc6-86636ab86f02"
+      },
+      "squuid": "5f28101d-afb0-4d87-b05a-81e38b425eb8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Fuhlert, Dirk",
+        "squuid": "5d020c17-0cf5-4477-8990-7b13ece8ac19"
+      },
+      "squuid": "5f28102c-6945-43ce-8fee-a0f9092ec79e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Marienberg, Steffen",
+        "squuid": "5d020c43-2c3f-4276-b780-53ee178b4a84"
+      },
+      "squuid": "5f281070-5e6f-4396-9457-38081d42ee92",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Becker, Jürgen",
+        "squuid": "5d020c06-bb89-4a09-b7ea-6bdfee319e4e"
+      },
+      "squuid": "5f2810c6-4d53-4815-b541-58d7a8ff4f76",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Alex, Sven",
+        "squuid": "5d020bf5-5575-4bf2-a770-0aab1e9d2167"
+      },
+      "squuid": "5f2810e9-384c-40ec-8cda-1babfdd22497",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Aachener Straße ",
+  "name": "imfernsehen GmbH & Co. KG ",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d35727e-be61-4b4d-a518-f675dde9221b",
+  "controlDate": "2021-12-07T11:52:08.052Z",
+  "streetNumber": "364-370",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50933",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fernsehserien.de",
+        "squuid": "5d357277-062d-4aeb-b890-6b1a4bff4409"
+      },
+      "squuid": "5d3572ab-c800-4572-b11f-0777c2466e39",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Grief, Armin",
+        "squuid": "5d357347-8cc2-4fae-84d1-6fc73a8a4890"
+      },
+      "squuid": "5d357388-d47a-46bb-8748-9e6792152bb6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Harperath, Henning",
+        "squuid": "5d35735b-59cc-41a7-9ddd-3da34a0aca78"
+      },
+      "squuid": "5d357396-0560-4ff2-808e-b5027ea46fb9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Schönfeldt, Ralf",
+        "squuid": "5d35736a-a9ac-4818-8298-f66b132df9db"
+      },
+      "squuid": "5d3573a4-46e2-4a66-b472-c60f40896f69",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "imfernsehen Verwaltungsgesellschaft mbH",
+        "squuid": "5ef9d83f-5185-466e-9080-74ae4199ec13"
+      },
+      "squuid": "5ef9d867-6e9e-45fd-a9fd-e3c119370455",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Enkmann, Klaus",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-1e89-4387-8953-ceaad30fdb13",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Schulte & Enkmann Medien-Service GmbH",
+        "squuid": "5be1a6b6-5f91-41c6-b5ca-62e6a5d49961"
+      },
+      "squuid": "5be1a6b7-68c7-4fec-8df5-a12f6a2406b0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.5,
+      "held": {
+        "name": "Brandenburger Lokalradios GmbH",
+        "squuid": "5be1a6b6-1c0e-423e-aadb-97529aef14cf"
+      },
+      "squuid": "5be1a6b8-8e48-4573-8168-aab3c20ac1e7",
+      "state": "active"
+    }
+  ],
+  "city": "Berlin",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

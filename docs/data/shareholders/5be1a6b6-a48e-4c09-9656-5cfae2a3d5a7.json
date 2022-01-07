@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Schifferstadt",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr. 70",
+  "name": "Geier-Druck-Verlag KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-a48e-4c09-9656-5cfae2a3d5a7",
+  "controlDate": "2021-11-10T16:53:10.851Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "67105",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schifferstadter Tagblatt",
+        "squuid": "5be1a6b1-0d83-414a-8911-507adf992c29"
+      },
+      "squuid": "5be1a6b9-a79c-410b-b1d4-eaf5a5065a4e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schifferstadter-tagblatt.de",
+        "squuid": "5be1a6b1-bacb-49ba-a508-faa095209a2d"
+      },
+      "squuid": "5be1a6b9-61e6-4e82-8bfb-8b8671b6e998",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Geier, Barbara",
+        "squuid": "5be1a6b6-c693-4ce6-a0df-9ec7698d654a"
+      },
+      "squuid": "5be1a6b8-3d0a-4098-98d9-e023614aeced",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Geier, Susanne",
+        "squuid": "5ee9b7e4-092a-4a26-952f-96c5320b137b"
+      },
+      "squuid": "5ee9b7fe-ce57-45b8-b15f-b724334d5ffe",
+      "state": "active"
+    }
+  ]
+}

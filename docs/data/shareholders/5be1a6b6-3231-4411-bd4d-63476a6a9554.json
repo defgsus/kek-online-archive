@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 14.78,
+      "held": {
+        "name": "Borussia Dortmund GmbH & Co KGaA",
+        "squuid": "5be1a6b6-626e-467e-a2f1-6a83955a1fbd"
+      },
+      "squuid": "5be1a6b8-ff65-4da5-b477-23f9f4ee7e76",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "Rellinghauser Straße",
+  "name": "Evonik Industries AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3231-4411-bd4d-63476a6a9554",
+  "controlDate": "2021-12-01T15:45:13.338Z",
+  "streetNumber": "1-11",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "45128",
+  "credits": "Az: KEK 944",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 35.7,
+      "holder": {
+        "name": "Streubesitz an der Evonik Industries AG",
+        "squuid": "5be1a6b6-85c6-49c7-9e94-8c7b4ce1328f"
+      },
+      "squuid": "5be1a6b8-e8b0-41ec-9862-693fe1fc943c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 64.3,
+      "holder": {
+        "name": "RAG-Stiftung",
+        "squuid": "5be1a6b6-2c13-469b-a7f8-b3e40b20dc3a"
+      },
+      "squuid": "5be1a6b8-0471-4ff0-a55b-7bf17ceae824",
+      "state": "active"
+    }
+  ]
+}

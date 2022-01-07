@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Odelzhausen",
+  "pseudoCompany": false,
+  "street": "Lukkaer Str. 2a",
+  "name": "Paar-Anzeiger Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4edb-4cf0-9281-db11d1ee1349",
+  "controlDate": "2019-12-09T16:14:35.013Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "85235",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Presse-Druck- und Verlags-GmbH",
+        "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
+      },
+      "squuid": "5be1a6b8-fad7-47cc-9dbb-100c0298373b",
+      "state": "active"
+    }
+  ]
+}

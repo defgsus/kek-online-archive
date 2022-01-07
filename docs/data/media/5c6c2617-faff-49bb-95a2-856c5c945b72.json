@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5c6c2617-faff-49bb-95a2-856c5c945b72",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Zweites Deutsches Fernsehen (ZDF) Anstalt des öffentlichen Rechts",
+        "squuid": "5be1a6b6-7ee8-46a7-b584-31f00742b7a2"
+      },
+      "squuid": "5c6c262f-08f5-444b-9722-3f0d3b3381f4",
+      "state": "active"
+    }
+  ],
+  "name": "www.zdfsport.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-07-19T09:46:56.277Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

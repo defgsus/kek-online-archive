@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Cloppenburg",
+  "pseudoCompany": false,
+  "street": "Lange Str. ",
+  "name": "Hermann Imsiecke Druck und Verlag GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-3572-4b1f-a2fb-5bff896c6301",
+  "controlDate": "2020-06-09T11:33:13.073Z",
+  "streetNumber": "9-11",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "49661",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Imsiecke, Jan",
+        "squuid": "5be1a6b6-acae-4198-891c-5ba659016651"
+      },
+      "squuid": "5be1a6b8-120c-4567-b9bb-3b87fe0402e9",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "H. J. Imsiecke Beteiligungs GmbH",
+        "squuid": "5f15727d-eef1-42a3-a21c-1d7e0a9705ef"
+      },
+      "squuid": "5f1572a1-7007-446a-bfdf-da8e92023ab6",
+      "state": "active"
+    }
+  ]
+}

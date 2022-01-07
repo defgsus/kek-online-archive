@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Kreuzbergstraße 30",
+  "name": "Producto AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c57d-4372-9cd7-0b091f1b6930",
+  "controlDate": "2022-01-06T15:33:41.669Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10965",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.testberichte.de",
+        "squuid": "5be1a6b1-ea46-46be-bc08-a7750aed2af0"
+      },
+      "squuid": "5be1a6b9-1a38-48ab-b8a1-e9d2ae99cc75",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 83.3,
+      "holder": {
+        "name": "Gröhn, Holger",
+        "squuid": "5be1a6b6-0584-41a5-b2a8-589f7d4ac576"
+      },
+      "squuid": "5be1a6b8-411f-4f98-af53-223dd2f7945c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.7,
+      "holder": {
+        "name": "Freiherr von Seckendorff-Aberdar",
+        "squuid": "5be1a6b6-7357-40da-8773-c71220e3231c"
+      },
+      "squuid": "5be1a6b8-2485-4488-8a40-b6664e246fbc",
+      "state": "active"
+    }
+  ]
+}

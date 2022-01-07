@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Hamburger Straße",
+  "name": "ctv coptic television gGmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-daf9-4fd8-82e9-f11992d9f8f1",
+  "streetNumber": "200",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "22083",
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 01.12.2015",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verein Koptische Gemeinde e.V.",
+        "squuid": "5be1a6b6-ccb2-408e-9227-d8650ebab6d6"
+      },
+      "squuid": "5be1a6b7-befb-4652-829d-15231028908e",
+      "state": "active"
+    }
+  ]
+}

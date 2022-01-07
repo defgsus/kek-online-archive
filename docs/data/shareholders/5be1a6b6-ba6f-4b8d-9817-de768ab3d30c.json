@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Picassoplatz",
+  "name": "n-tv Nachrichtenfernsehen GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ba6f-4b8d-9817-de768ab3d30c",
+  "controlDate": "2021-12-15T16:11:40.276Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50679",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "n-tv",
+        "squuid": "5be1a6b1-3b86-487c-801b-af265f762093"
+      },
+      "squuid": "5be1a6b9-36d2-4f80-a1af-7f4f40fd28fb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.n-tv.de",
+        "squuid": "5be1a6b1-8ebc-4564-86a9-40bd6466c098"
+      },
+      "squuid": "5be1a6b9-b2b3-4520-b730-c3a4b2b1a711",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RTL Television GmbH",
+        "squuid": "5be1a6b6-7542-41b4-ab53-17975a930698"
+      },
+      "squuid": "5be1a6b7-346f-4bb4-a95a-cbbea992117c",
+      "state": "active"
+    }
+  ]
+}

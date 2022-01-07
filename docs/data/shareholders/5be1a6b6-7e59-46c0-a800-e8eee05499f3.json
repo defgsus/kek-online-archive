@@ -1,0 +1,87 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Große Elbstraße 59",
+  "name": "TV Spielfilm Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7e59-46c0-a800-e8eee05499f3",
+  "controlDate": "2021-11-17T15:50:36.490Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22710",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Cinema",
+        "squuid": "5be1a6b1-917e-4edf-9891-e7eccec0bc33"
+      },
+      "squuid": "5be1a6b9-e84f-4f2f-b79d-ccb0880740d3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TV Spielfilm",
+        "squuid": "5be1a6b1-d258-4335-bfa7-ab01f870214f"
+      },
+      "squuid": "5be1a6b9-bbd0-4ec2-b04f-d354b699a418",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TV Schlau",
+        "squuid": "5be1a6b1-a8ae-43a2-b2a4-36a676c0a66d"
+      },
+      "squuid": "5be1a6b9-afc0-42ce-9375-8790e9f4fee0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TV Today",
+        "squuid": "5be1a6b1-7511-437d-8641-57ae0ab02b28"
+      },
+      "squuid": "5be1a6b9-4808-4b01-8e34-e732a9919a59",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvspielfilm.de",
+        "squuid": "5be1a6b1-ddfc-4c5a-9d4e-8e87d0cfa33a"
+      },
+      "squuid": "5be1a6b9-7249-4194-a4fc-ce9396c8ed25",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvtoday.de",
+        "squuid": "5be1a6b1-d0b4-4aa8-b0cc-6b323a91a31d"
+      },
+      "squuid": "5be1a6b9-8d97-4602-bfa3-de0d5af77108",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "squuid": "5be1a6b8-744e-49bf-8a0f-2694aef693c2",
+      "state": "active"
+    }
+  ]
+}

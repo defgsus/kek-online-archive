@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Greifswald",
+  "pseudoCompany": false,
+  "street": "Walther-Rathenau-Str.",
+  "name": "Katapult MV GmbH",
+  "naturalPerson": false,
+  "squuid": "60e5a633-8131-4be6-960b-b4637032a7d3",
+  "controlDate": "2021-10-26T09:58:10.274Z",
+  "streetNumber": "49a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "17489",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.katapult-mv.de",
+        "squuid": "60e5a493-4c3d-41f4-8efd-10e72f856b5c"
+      },
+      "squuid": "60e5a651-22a0-4ada-a679-28945f0ab45a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Katapult-Magazin gGmbH",
+        "squuid": "5be99659-93f8-4ea6-a68a-384c07e6b9b7"
+      },
+      "squuid": "60e5a6c6-217b-4421-9f1d-b4ba1c4fb450",
+      "state": "active"
+    }
+  ]
+}

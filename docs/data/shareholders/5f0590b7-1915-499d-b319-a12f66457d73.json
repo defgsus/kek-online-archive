@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Averhoffstr.",
+  "name": "Testsieger.de GmbH",
+  "naturalPerson": false,
+  "squuid": "5f0590b7-1915-499d-b319-a12f66457d73",
+  "controlDate": "2022-01-06T15:36:07.361Z",
+  "streetNumber": "3b",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22085",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.testsieger.de",
+        "squuid": "5f0590ab-8fbf-4faa-a4a3-a76967b4f2ca"
+      },
+      "squuid": "5f05919b-0752-4fa1-a181-96f23ed7ca06",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "CHECK24 Vergleichsportal GmbH",
+        "squuid": "5f05927c-cd52-45da-8e94-7482276d4bae"
+      },
+      "squuid": "5f0592d0-3921-4c4b-99fc-99ee6c5734f4",
+      "state": "active"
+    }
+  ]
+}

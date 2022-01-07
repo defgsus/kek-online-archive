@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3d209b-ac49-46af-b498-c5554fa0ac19",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Klarner Medien GmbH",
+        "squuid": "5d31b7cf-4501-49b7-aa68-f9b43897b7a1"
+      },
+      "squuid": "5f3d20c7-9747-4dee-ac04-303fdb0d2d86",
+      "state": "active"
+    }
+  ],
+  "name": "www.prometheus-tv.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-17T11:19:53.474Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

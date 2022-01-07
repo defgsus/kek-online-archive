@@ -1,0 +1,105 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Druckhaus Gratzfeld GmbH",
+        "squuid": "5ebbf2cd-d81b-4c3b-b1d5-2dea81c4febb"
+      },
+      "squuid": "5ebbf3ea-db46-4385-a1c5-5779e42fe9af",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Butzbach",
+  "pseudoCompany": false,
+  "street": "Langgasse 16",
+  "name": "Butzbacher Zeitung Druckhaus Gratzfeld GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-28ba-4c9b-9c8d-8d3fc8854872",
+  "controlDate": "2021-12-01T15:19:44.026Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "35510",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Butzbacher Zeitung",
+        "squuid": "5be1a6b1-f9b7-408f-8987-cff1c5527805"
+      },
+      "squuid": "5be1a6b9-41ed-4c56-9ba5-8eb4aebc8d23",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.butzbacher-zeitung.de",
+        "squuid": "5be1a6b1-cdb4-4bd3-9de1-ba354d603261"
+      },
+      "squuid": "5be1a6b9-defa-4c13-a4fd-c8e95bc92d75",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 46.2,
+      "holder": {
+        "name": "Gratzfeld, Christel",
+        "squuid": "5be1a6b6-7584-44ae-825f-eb4c0fae12f2"
+      },
+      "squuid": "5be1a6b8-e775-45b4-9c1e-18ad1c188d49",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 46.2,
+      "holder": {
+        "name": "Gratzfeld, Wilfried",
+        "squuid": "5be1a6b6-f058-4098-bd29-4651681e5f75"
+      },
+      "squuid": "5be1a6b8-27e0-40e1-916f-ed9c288b994e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.8,
+      "holder": {
+        "name": "Gratzfeld, Anette",
+        "squuid": "5be1a6b6-8de6-461a-af47-318cb17058a3"
+      },
+      "squuid": "5be1a6b8-e771-47cc-8624-185bf2cb4a07",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.8,
+      "holder": {
+        "name": "Gratzfeld, Volker",
+        "squuid": "5be1a6b6-bb0f-4c5c-9d0c-55f01cd2b9f1"
+      },
+      "squuid": "5be1a6b8-795c-496b-a642-1f24a1008a8e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Druckhaus Gratzfeld GmbH",
+        "squuid": "5ebbf2cd-d81b-4c3b-b1d5-2dea81c4febb"
+      },
+      "squuid": "5ebbf2e9-4537-40d9-a61f-6f9663ee92b7",
+      "state": "active"
+    }
+  ]
+}

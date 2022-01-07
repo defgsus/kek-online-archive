@@ -1,0 +1,109 @@
+{
+  "state": "active",
+  "note": "Seit 1.1.1994 Körperschaft des öffentlichen Rechts für den bundesweiten Hörfunk. \r\nMitglieder: die Landesrundfunkanstalten der ARD und das ZDF. \r\nSitz: Köln und Berlin. \r\nDie Körperschaft ist staatsvertraglich verpflichtet, eng mit ihren Mitgliedern zusammenzuarbeiten, bis hin zur Koproduktion von Programmen und zur Übernahme von Wort- und Musikbeiträgen (Quelle: www.ard.de).",
+  "pseudoCompany": false,
+  "name": "Deutschlandradio",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b79e-4073-8c22-4cb113659ff5",
+  "controlDate": "2020-06-26T10:51:39.581Z",
+  "placeOfBusiness": "Köln und Berlin",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Deutschlandfunk Kultur",
+        "squuid": "5be1a6b1-6795-4afd-b881-dc3c6112bc64"
+      },
+      "squuid": "5be1a6b9-e29e-477a-aed8-54caac3fb1ac",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Deutschlandfunk",
+        "squuid": "5be1a6b1-bfa3-4562-a807-bcb7b3a310c7"
+      },
+      "squuid": "5be1a6b9-a7d9-44ab-9176-7ddbba97bd2e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Deutschlandfunk Nova",
+        "squuid": "5be1a6b1-5d15-4857-80ac-76562ba31f76"
+      },
+      "squuid": "5be1a6b9-c6c1-4c4a-9ecd-06cd789e816c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deutschlandradio.de",
+        "squuid": "5c6c2e50-ecff-46b1-b859-503c09fd94c5"
+      },
+      "squuid": "5c6c2e77-3d8f-47fb-b5b5-a0dcccd00213",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deutschlandfunk.de",
+        "squuid": "5d35a1be-cf15-4b0f-a6c4-5ee6c77fd209"
+      },
+      "squuid": "5d35a210-25c8-498e-855c-eb990d21517c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deutschlandfunkkultur.de",
+        "squuid": "5f900a17-93d0-4186-929a-c213c0319f16"
+      },
+      "squuid": "5f900a73-4d24-47c0-bd7b-0f72e6f25762",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deutschlandfunknova.de",
+        "squuid": "5f900ad7-c433-4758-a88d-ff05c7ef4d52"
+      },
+      "squuid": "5f900b0a-d92b-4be2-9080-8ea0ebbfeec6",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)",
+        "squuid": "5be1a6b6-c5dc-4a3d-ad7b-deaabd587214"
+      },
+      "squuid": "5be1a6b8-57bf-4e0c-ad08-2c1c5fd58d8d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Zweites Deutsches Fernsehen (ZDF) Anstalt des öffentlichen Rechts",
+        "squuid": "5be1a6b6-7ee8-46a7-b584-31f00742b7a2"
+      },
+      "squuid": "5be1a6b8-68f3-4aea-8dfe-31a53d79c5f3",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Aschauer Straße",
+  "name": "Springer Fachmedien München GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6094-4054-9cf9-a01fca2f5286",
+  "controlDate": "2021-12-01T14:31:52.996Z",
+  "streetNumber": "30",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81549",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Trucker",
+        "squuid": "5be1a6b1-343a-42df-82a7-19e704a6f828"
+      },
+      "squuid": "5be1a6b9-8177-4224-9eea-e25e9eeb3775",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.trucker.de",
+        "squuid": "5be1a6b1-fc97-4975-b5e4-d50c9509afe4"
+      },
+      "squuid": "5be1a6b9-444a-4783-b751-f287ada7d68d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Busfahrer",
+        "squuid": "5be1a6b1-b60c-4c9e-a6ef-996b3f1535a8"
+      },
+      "squuid": "5be1a6b9-034a-4856-8235-2d1615f807b3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.busfahrermagazin.de",
+        "squuid": "5be1a6b1-3ff2-4708-9571-0c2efb521e35"
+      },
+      "squuid": "5be1a6b9-e532-47be-9d9f-efbb5c141feb",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Springer Nature Three GmbH",
+        "squuid": "5be1a6b6-f2a9-45b1-bd71-232ceffa4fb4"
+      },
+      "squuid": "5be1a6b8-e466-4def-9f0e-f9ef0a14b35c",
+      "state": "active"
+    }
+  ]
+}

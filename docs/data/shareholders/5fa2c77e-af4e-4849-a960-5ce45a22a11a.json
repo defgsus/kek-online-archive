@@ -1,0 +1,33 @@
+{
+  "name": "Simon, Timo",
+  "pseudoCompany": false,
+  "squuid": "5fa2c77e-af4e-4849-a960-5ce45a22a11a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "S-R GmbH",
+        "squuid": "5fa031e0-2ae8-47d2-8468-b78e60c50818"
+      },
+      "squuid": "5fa2c7d0-709a-4355-8099-bef4dbd060d5",
+      "state": "active"
+    }
+  ],
+  "city": "Tholey",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

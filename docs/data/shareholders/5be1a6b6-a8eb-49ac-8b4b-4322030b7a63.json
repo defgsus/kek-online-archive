@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Nidda",
+  "pseudoCompany": false,
+  "street": "Zeppelinstr. 11",
+  "name": "Verlag Wetterau und Vogelsberg GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a8eb-49ac-8b4b-4322030b7a63",
+  "controlDate": "2021-11-03T14:00:26.771Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "63667",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kreis-Anzeiger",
+        "squuid": "5be1a6b1-9096-4df3-921b-3f2102a69836"
+      },
+      "squuid": "5be1a6b9-d40d-4a14-b0f7-c10f565e0397",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kreis-anzeiger.de",
+        "squuid": "5be1a6b1-c514-44a7-b5a7-699eceba4331"
+      },
+      "squuid": "6182944f-3b31-48d9-94d6-425e3a8cd8da",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mittelhessische Druck- und Verlagshaus GmbH & Co KG",
+        "squuid": "5be1a6b6-f5fa-42a0-9e08-3357bfdc4167"
+      },
+      "squuid": "618295eb-13e5-4b5c-a30e-dd7a9d698470",
+      "state": "active"
+    }
+  ]
+}

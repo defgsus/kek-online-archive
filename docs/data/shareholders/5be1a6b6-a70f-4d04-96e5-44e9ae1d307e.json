@@ -1,0 +1,31 @@
+{
+  "name": "Liberty Interactive Corporation",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-a70f-4d04-96e5-44e9ae1d307e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Liberty Interactive LLC",
+        "squuid": "5be1a6b6-15d0-4f64-a724-5cb65b249913"
+      },
+      "squuid": "5be1a6b8-2295-47cc-a2f0-d829ffae2367",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

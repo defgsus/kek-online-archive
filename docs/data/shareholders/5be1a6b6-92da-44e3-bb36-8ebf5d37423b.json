@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Oberursel",
+  "pseudoCompany": false,
+  "street": "An der Krebsmühle",
+  "name": "Publik-Forum Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-92da-44e3-bb36-8ebf5d37423b",
+  "controlDate": "2021-11-08T16:48:34.169Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "61440",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Publik-Forum",
+        "squuid": "5be1a6b1-8780-4e41-8aa1-aa2fa3efce49"
+      },
+      "squuid": "5be1a6b9-de7c-4724-ada1-52227abaa48c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.publik-forum.de",
+        "squuid": "5be1a6b1-da84-45dc-83f7-ee25798aea3c"
+      },
+      "squuid": "5be1a6b9-58c2-47df-baa9-9802271d393a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "Leserinitiative Publik e.V.",
+        "squuid": "5be1a6b6-8308-486b-acfd-2d373fc55864"
+      },
+      "squuid": "5be1a6b8-4061-406e-ae61-22e6821cf245",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Copray, Norbert",
+        "squuid": "5be1a6b6-ed3c-4d63-9905-028eebc0327c"
+      },
+      "squuid": "5be1a6b8-9f62-43c2-acc2-6999cfa86bb8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Schwabe, Alexander",
+        "squuid": "5be1a6b6-2116-4567-a84d-816a3a3b5720"
+      },
+      "squuid": "5be1a6b8-96b5-4630-9a54-21202391631a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Bähr, Richard",
+        "squuid": "5be1a6b6-5e19-4eee-b539-fe6f00b638ed"
+      },
+      "squuid": "5be1a6b8-060d-4950-9111-d942eafe306a",
+      "state": "active"
+    }
+  ]
+}

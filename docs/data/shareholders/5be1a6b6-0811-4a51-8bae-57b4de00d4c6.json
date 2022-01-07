@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Kopernikusplatz",
+  "name": "Rundfunk Aktionsgemeinschaft demokratischer Initiativen und Organisationen e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0811-4a51-8bae-57b4de00d4c6",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "90459",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Z",
+        "squuid": "5be1a6b1-980a-4ba7-bbbd-7b9d154600e5"
+      },
+      "squuid": "5be1a6b9-37f9-41c8-ba47-5b15c044b9b5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-z.net",
+        "squuid": "5f96bfce-1826-480d-91ce-3e1ddec50053"
+      },
+      "squuid": "5f96c09c-9238-44ea-9a95-c35585fd1dd6",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM"
+}

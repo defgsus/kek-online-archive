@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Torstr. 6",
+  "name": "Verlag 8. Mai GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0a3a-4b2b-b7fa-4a11cd611cb7",
+  "controlDate": "2021-10-26T09:38:19.036Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10119",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Junge Welt",
+        "squuid": "5be1a6b1-4f06-4377-9b16-714fb0435e80"
+      },
+      "squuid": "5be1a6b9-7b8e-4e87-87f0-22b5f8d4df96",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.jungewelt.de",
+        "squuid": "5be1a6b1-7913-4a92-8ec9-4969b8de3736"
+      },
+      "squuid": "5be1a6b9-74d6-422c-b43d-1c321cc350e4",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 4.4,
+      "holder": {
+        "name": "Koschmieder, Dietmar",
+        "squuid": "5be1a6b6-9dfc-4e25-ab21-864867277cc2"
+      },
+      "squuid": "5be1a6b8-6e7d-401d-87d9-090c4f27054c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 95.6,
+      "holder": {
+        "name": "Linke Presse Verlags-, Förderungs- und Beteiligungsgenossenschaft junge Welt e.G.",
+        "squuid": "5be1a6b6-12f8-4db9-ad6c-13d93d9fb1d7"
+      },
+      "squuid": "5be1a6b8-3c0c-423d-8db4-06f92292173e",
+      "state": "active"
+    }
+  ]
+}

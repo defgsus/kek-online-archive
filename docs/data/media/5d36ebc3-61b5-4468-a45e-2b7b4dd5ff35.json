@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5d36ebc3-61b5-4468-a45e-2b7b4dd5ff35",
+  "marketReach": 0.12356350234238508,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bundeszentrale für politische Bildung ",
+        "squuid": "5d36ec5f-11f9-47d2-ab2c-5d89c2811d3f"
+      },
+      "squuid": "5d36ec88-548e-46f0-8b55-a9aefb466891",
+      "state": "active"
+    }
+  ],
+  "name": "www.bpb.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-01T13:25:44.693Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

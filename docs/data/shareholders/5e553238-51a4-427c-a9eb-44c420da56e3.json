@@ -1,0 +1,66 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Thalkirchner Straße",
+  "name": "MV Sendebetriebsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5e553238-51a4-427c-a9eb-44c420da56e3",
+  "controlDate": "2021-12-06T12:26:48.171Z",
+  "streetNumber": "56",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80337",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "EO.TV",
+        "squuid": "5be1a6b1-9db8-4458-aab4-388e95318fd0"
+      },
+      "squuid": "5e553272-78a0-4596-93c9-a319941bcbe9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.eotv.de",
+        "squuid": "5f7b3239-eabe-4e01-9bf6-5d34c770f936"
+      },
+      "squuid": "5f7b3303-5105-4a48-915f-51fc0cb1a434",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "MV International GmbH",
+        "squuid": "5be1a6b6-300c-4395-8394-74d9429ada7e"
+      },
+      "squuid": "5e5532f8-eb46-428e-97ae-31f6ac0b293f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "SEH E-Sport Beteiligungs GmbH",
+        "squuid": "6155a4a3-60f5-4c89-bea5-88dc77364530"
+      },
+      "squuid": "6155a54d-7f0b-4eed-b9fe-169c3cbb2037",
+      "state": "active"
+    }
+  ]
+}

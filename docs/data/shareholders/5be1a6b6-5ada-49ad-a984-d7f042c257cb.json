@@ -1,0 +1,51 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Delius Klasing + Co KG",
+        "squuid": "5be1a6b6-90f8-49d4-b9b6-6c9e3b428484"
+      },
+      "squuid": "5be1a6b8-ce16-43ec-b2a1-25db9b0a6bfc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "name": "Ferdinand und Ludwig Delius GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5ada-49ad-a984-d7f042c257cb",
+  "controlDate": "2021-10-14T14:56:06.021Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Delius, Ferdinand",
+        "squuid": "5be1a6b6-3c8d-4b60-86e7-953c3a6dcc19"
+      },
+      "squuid": "5be1a6b8-4f08-4e43-a0f1-92ee468a986b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Delius, Ludwig",
+        "squuid": "5be1a6b6-49ff-47bc-b5ed-6eec6a5e1fc3"
+      },
+      "squuid": "5be1a6b8-b152-4588-8bb4-c275cdb01f55",
+      "state": "active"
+    }
+  ]
+}

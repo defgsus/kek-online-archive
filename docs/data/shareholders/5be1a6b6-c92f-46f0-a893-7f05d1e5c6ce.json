@@ -1,0 +1,100 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Erich-Zeigner-Allee ",
+  "name": "BEBE Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c92f-46f0-a893-7f05d1e5c6ce",
+  "controlDate": "2021-12-02T17:16:09.191Z",
+  "streetNumber": "69-73",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04229",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "detektor.fm Wort",
+        "squuid": "5be1a6b1-0268-412a-b230-bd516dd4205e"
+      },
+      "squuid": "5be1a6b9-2bb2-4df5-b1ee-a8179dbfd455",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.detektor.fm",
+        "squuid": "5f8ef228-4316-41db-9ef9-f767bd25b4b9"
+      },
+      "squuid": "5f8ef27a-6082-40d3-84d8-648732413b55",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.04,
+      "holder": {
+        "name": "Bollert, Christian",
+        "squuid": "5be1a6b6-9885-4199-9856-73f00ac91560"
+      },
+      "squuid": "5be1a6b8-1989-4f10-ac6c-88692c38d327",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.98,
+      "holder": {
+        "name": "Eifrig, Matthias",
+        "squuid": "5be1a6b6-22aa-4354-a06a-1c388ac849a8"
+      },
+      "squuid": "5be1a6b8-bc8c-4029-973a-afa117011c51",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.59,
+      "holder": {
+        "name": "Schenk, Gregor",
+        "squuid": "5be1a6b6-2b26-4870-ab67-d1bc00c9dbd8"
+      },
+      "squuid": "5be1a6b8-a0db-41e1-a658-4ca3c40915bb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.37,
+      "holder": {
+        "name": "piqd GmbH",
+        "squuid": "5e53d8cd-9b5b-4cb7-adcb-964011ba4457"
+      },
+      "squuid": "5e53d8f2-fadc-4801-a56e-6c3ef926c4e8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Nießen, Claudius",
+        "squuid": "5e53d8bc-f3b2-40e6-98c0-769557f4c85b"
+      },
+      "squuid": "5e53d8ff-ff82-4c82-98ba-4cd4ac881689",
+      "state": "active"
+    }
+  ]
+}

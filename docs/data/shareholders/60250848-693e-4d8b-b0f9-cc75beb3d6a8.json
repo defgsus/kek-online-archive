@@ -1,0 +1,68 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "SIGNAL IDUNA Allgemeine Versicherung AG",
+        "squuid": "5be1a6b6-b8b5-45a0-b4d8-4665ab2b5ba7"
+      },
+      "squuid": "60250888-8035-4d08-84ac-1d5c508127a4",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Joseph-Scherer-Str.",
+  "name": "SIGNAL IDUNA Holding AG",
+  "naturalPerson": false,
+  "squuid": "60250848-693e-4d8b-b0f9-cc75beb3d6a8",
+  "controlDate": "2021-12-01T15:45:56.061Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "44139",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "SIGNAL IDUNA Lebensversicherung a. G.",
+        "squuid": "60420ebe-9209-448c-99a1-081c5856ecee"
+      },
+      "squuid": "60420fbd-633b-4315-a778-c7057f8b5829",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 46.93,
+      "holder": {
+        "name": "SIGNAL IDUNA Unfallversicherung a. G.",
+        "squuid": "60420eda-1252-43de-9b4b-caf77c59edae"
+      },
+      "squuid": "60421008-effb-44fe-a24d-f83b93ff915f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.07,
+      "holder": {
+        "name": "SIGNAL IDUNA Krankenversicherung a. G.",
+        "squuid": "60420efa-02ed-4cf0-868d-f04e6ab60a92"
+      },
+      "squuid": "6042102f-0ac5-41b4-b8bc-5ab588a8b315",
+      "state": "active"
+    }
+  ]
+}

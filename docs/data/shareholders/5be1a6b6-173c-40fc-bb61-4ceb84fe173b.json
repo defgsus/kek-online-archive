@@ -1,0 +1,76 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "note": "Stand: 1/2017",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Thomasgasse",
+  "name": "Radiowelle Zwickau GmbH & Co. Betriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-173c-40fc-bb61-4ceb84fe173b",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04109",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ENERGY Zwickau – Hit Music Only!",
+        "squuid": "5be1a6b1-a544-45cb-82fe-8518a7f4e7b9"
+      },
+      "squuid": "5be1a6b9-9a6c-4256-be12-92afa7b1145f",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 28.41,
+      "holder": {
+        "name": "Radio Elbwelle Dresden GmbH & Co. KG",
+        "squuid": "5be1a6b6-1716-4a3a-b7d2-c04bed51280b"
+      },
+      "squuid": "5be1a6b7-90b0-41e4-ba43-192ad3afbf41",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 28.41,
+      "holder": {
+        "name": "7010 Radio Leipzig GmbH & Co. Betriebs KG",
+        "squuid": "5be1a6b6-3b95-4bf5-a5c0-75a8fb6ffce9"
+      },
+      "squuid": "5be1a6b7-d7a9-4eb7-a77e-025fcda6a853",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.77,
+      "holder": {
+        "name": "Netzwerk Programmanbietergesellschaft mbH Sachsen & Co. Betriebs KG",
+        "squuid": "5be1a6b6-181c-4a7c-bbd4-0e8d172c83a3"
+      },
+      "squuid": "5be1a6b7-8229-472f-b971-89172e2f2130",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 28.41,
+      "holder": {
+        "name": "CIB Beteiligungs GmbH",
+        "squuid": "5be1a6b6-c35a-4143-bcd5-fd91e5941b24"
+      },
+      "squuid": "5be1a6b7-f5c5-48e1-b530-f5991b35edc8",
+      "state": "active"
+    }
+  ]
+}

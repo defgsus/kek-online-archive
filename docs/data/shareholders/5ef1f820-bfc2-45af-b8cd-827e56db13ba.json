@@ -1,0 +1,87 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.87,
+      "held": {
+        "name": "Rundfunkbeteiligungs- und Betriebsgesellschaft Blauen mbH",
+        "squuid": "5c8912a2-774b-46c5-b429-a0590234b175"
+      },
+      "squuid": "5ef1fa06-470e-42df-9459-b0369d783b66",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Munzinger Str.",
+  "name": "Service-GmbH Bau-Ausbau",
+  "naturalPerson": false,
+  "squuid": "5ef1f820-bfc2-45af-b8cd-827e56db13ba",
+  "controlDate": "2022-01-03T14:13:29.055Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "79111",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Eigenbesitz der Service-GmbH Bau-Ausbau",
+        "squuid": "5f9aa04f-1023-44c2-981b-fc11297ea734"
+      },
+      "squuid": "5f9aa0b9-c02d-445d-afe3-08ac451dcb0b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Holzbau Baden e.V.",
+        "squuid": "5f9aa068-e2b5-41c6-b950-f17b7c8d96cd"
+      },
+      "squuid": "5f9aa0dc-55b7-474a-b336-a0a7f48c8de7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Fachverband Ausbau und Fassade Baden e.V.",
+        "squuid": "5f9aa095-c716-477b-8061-25af12b02782"
+      },
+      "squuid": "5f9aa0eb-abb5-45ad-adca-2d99d97ba204",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Sparkasse Jena-Saale-Holzland",
+  "pseudoCompany": false,
+  "squuid": "5f7c8211-ab4a-4934-9c3b-ccaf5bbc6587",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.0,
+      "held": {
+        "name": "TV Produktions- und Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5f33d91d-3be0-4b69-824c-de04ace62c59"
+      },
+      "squuid": "5f7c82b7-6ff8-4793-b80b-fb4d365a3cec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.0,
+      "held": {
+        "name": "TV Produktions- und Betriebsverwaltungs-GmbH",
+        "squuid": "5f33d935-9fb2-4832-84cd-9a36180205d8"
+      },
+      "squuid": "5f7c8768-5554-44fe-8d58-681b4654515c",
+      "state": "active"
+    }
+  ],
+  "city": "Jena",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

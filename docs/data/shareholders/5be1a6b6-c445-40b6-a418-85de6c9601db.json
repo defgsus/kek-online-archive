@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Eschborn",
+  "pseudoCompany": false,
+  "street": "Mergenthaler Allee",
+  "name": "Tichys Einblick GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c445-40b6-a418-85de6c9601db",
+  "controlDate": "2021-11-17T13:46:53.341Z",
+  "streetNumber": "10-12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65760",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tichyseinblick.de",
+        "squuid": "5be1a6b1-3d96-4c3d-ab8e-219b37d13b4f"
+      },
+      "squuid": "5be1a6b9-4b04-41ba-93cf-7e0f836590ca",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "Finanzen Verlag GmbH",
+        "squuid": "5be1a6b6-0a46-48fe-8ace-40d46f69490a"
+      },
+      "squuid": "5be1a6b8-9762-4711-a0cd-7192076b15d8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 78.8,
+      "holder": {
+        "name": "Tichy, Roland Friedrich",
+        "squuid": "5be1a6b6-4d72-4fcc-bd3c-a53e84c122c9"
+      },
+      "squuid": "5be1a6b8-7a1b-4fe4-a25d-8acf175ad9fb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.7,
+      "holder": {
+        "name": "Grunert, Sofie",
+        "squuid": "5be1a6b6-25b7-4ef2-bfd7-bdcfce303ba0"
+      },
+      "squuid": "5be1a6b8-9403-4521-a1cd-47885370302b",
+      "state": "active"
+    }
+  ]
+}

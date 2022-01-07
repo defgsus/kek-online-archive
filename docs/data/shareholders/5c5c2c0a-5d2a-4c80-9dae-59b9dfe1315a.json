@@ -1,0 +1,81 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "EB-Kreativ-Service GmbH",
+        "squuid": "5c5c2bdf-388c-4e49-8a51-17ae20ed1a92"
+      },
+      "squuid": "5c5c304b-c0e7-4c01-8b78-baef7fcaf0f1",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Eberswalde",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Eisenbahnstr.",
+  "name": "Eberswalder Blitz Werbe & Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5c5c2c0a-5d2a-4c80-9dae-59b9dfe1315a",
+  "controlDate": "2021-12-15T17:38:58.328Z",
+  "streetNumber": "102",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "16225",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.odf-tv.de",
+        "squuid": "5f365328-125f-4e8d-b4de-6fa393beb1db"
+      },
+      "squuid": "5f365375-5a73-4380-ab06-0500d2f65072",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 62.6,
+      "holder": {
+        "name": "Hanisch, Gundula",
+        "squuid": "5c5c2c82-7852-4abc-aed8-0cd32c9d3e1f"
+      },
+      "squuid": "5c5c30a3-d8b0-4d7e-a986-1bd3bf4c3fb8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Express Medien Vertrieb GmbH",
+        "squuid": "5c5c2c9d-e524-4f2a-b80b-e844279b6af2"
+      },
+      "squuid": "5c5c30d2-8607-4eb3-9df0-102b55d29371",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.4,
+      "holder": {
+        "name": "Eigenbesitz der Eberswalder Blitz Werbe & Verlags GmbH",
+        "squuid": "5f365499-1356-46bf-96a3-ec505f6aa604"
+      },
+      "squuid": "5f3654c3-6809-43da-88e6-2cdd67ca6272",
+      "state": "active"
+    }
+  ]
+}

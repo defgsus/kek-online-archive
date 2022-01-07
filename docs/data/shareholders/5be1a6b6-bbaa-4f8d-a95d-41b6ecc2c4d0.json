@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Rheinfelden",
+  "pseudoCompany": false,
+  "street": "Römerstr. 90",
+  "name": "Media Group Medweth GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-bbaa-4f8d-a95d-41b6ecc2c4d0",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "79168",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Media Group Medweth AG",
+        "squuid": "5be1a6b6-7f15-41a3-99f8-e3e807e0922a"
+      },
+      "squuid": "5be1a6b8-7698-4793-ab31-a2be38503b3d",
+      "state": "active"
+    }
+  ]
+}

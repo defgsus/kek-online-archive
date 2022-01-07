@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Weberstraße",
+  "name": "bcs.marketing UG (haftungsbeschränkt)",
+  "naturalPerson": false,
+  "squuid": "5d3578a1-0965-46e5-9879-8e93a3e92b7d",
+  "controlDate": "2021-12-06T13:38:46.850Z",
+  "streetNumber": "57",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53113",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.experto.de",
+        "squuid": "5d357867-908a-4d33-a56d-27c17c2b503c"
+      },
+      "squuid": "5d3578d9-d1d0-4d03-91ee-5fe230aba8cc",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Strack, Burkhard",
+        "squuid": "5d35798b-9088-4279-992c-a6fba78c0e1e"
+      },
+      "squuid": "5d3579d7-d168-4de1-af61-2b7b6aa540b1",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Wohnungsgenossenschaft Carl Zeiss eG",
+  "pseudoCompany": false,
+  "squuid": "5f7c8256-f455-4956-8701-61c0042cf374",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "held": {
+        "name": "TV Produktions- und Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5f33d91d-3be0-4b69-824c-de04ace62c59"
+      },
+      "squuid": "5f7c82f8-40f0-49eb-bcd8-89a36ce0e55b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "held": {
+        "name": "TV Produktions- und Betriebsverwaltungs-GmbH",
+        "squuid": "5f33d935-9fb2-4832-84cd-9a36180205d8"
+      },
+      "squuid": "5f7c871e-2d40-4e7c-baea-f7c748bba86e",
+      "state": "active"
+    }
+  ],
+  "city": "Jena",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

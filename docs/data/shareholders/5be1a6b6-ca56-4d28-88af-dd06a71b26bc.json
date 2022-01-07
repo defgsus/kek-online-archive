@@ -1,0 +1,112 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.92,
+      "held": {
+        "name": "Baden TV GmbH",
+        "squuid": "5d35c713-a955-4d81-a4b4-86acf2ac33a0"
+      },
+      "squuid": "5d35cd98-ba5a-45b2-b0e3-1021257a5181",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Pforzheim",
+  "pseudoCompany": false,
+  "street": "Poststr. 5",
+  "name": "J. Esslinger GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-ca56-4d28-88af-dd06a71b26bc",
+  "controlDate": "2021-11-08T15:33:42.350Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "75172",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Pforzheimer Zeitung",
+        "squuid": "5be1a6b1-8eca-4ee5-8b95-030b8becb1e6"
+      },
+      "squuid": "5be1a6b9-cbeb-4ffb-bbab-df14529e37a2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pz-news.de",
+        "squuid": "5be1a6b1-df3a-4f16-9737-d15656f21e85"
+      },
+      "squuid": "5be1a6b9-45ac-4bc9-80dd-e8b35638dff2",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "PZ Media GmbH & Co KG",
+        "squuid": "5be1a6b6-70a5-476e-bc57-f86c7340f944"
+      },
+      "squuid": "5be1a6b8-db21-45d2-befb-94ec2165bd73",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.5,
+      "holder": {
+        "name": "Jablonski, Ingrid",
+        "squuid": "5be1a6b6-0975-4064-8c7f-1f70d39a69da"
+      },
+      "squuid": "5be1a6b8-f46a-4352-a67d-dac15eb316cf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.5,
+      "holder": {
+        "name": "Kiefer, Klaus",
+        "squuid": "5be1a6b6-754e-40d9-a945-f1179b8e8bdb"
+      },
+      "squuid": "5be1a6b8-1169-486f-aac5-5f65fe692b88",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Esslinger-Kiefer, Albert",
+        "squuid": "5be1a6b6-1bb8-4d06-a4ed-8fbb1b66ba29"
+      },
+      "squuid": "5ee22294-502b-49e3-96e2-85b494fb0e7d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Esslinger Verwaltungs-GmbH",
+        "squuid": "5ee22275-d214-4ff9-8be0-bab4166f3ed7"
+      },
+      "squuid": "5ee222a8-7664-4ca1-a7b6-ae55962c977a",
+      "state": "active"
+    }
+  ]
+}

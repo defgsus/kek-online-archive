@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "Stand: 1/2018",
+  "pseudoCompany": false,
+  "street": "Kurfürstendamm",
+  "name": "RTL Lux GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5d9a-465c-b167-4947a4ccf92d",
+  "streetNumber": "207 - 208",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "10719",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "RTL Lux",
+        "squuid": "5be1a6b1-3c95-4c80-ac4d-0818854f11b7"
+      },
+      "squuid": "5be1a6b9-931e-46e0-92c1-765c9267666c",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RTL Radio Deutschland GmbH",
+        "squuid": "5be1a6b6-fa80-4709-a830-dea042b7476d"
+      },
+      "squuid": "5be1a6b8-c868-4828-a02f-5f520d3e49b5",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Feldstraße",
+  "name": "Byte.FM GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a4b8-426b-9edf-50a05d44a143",
+  "controlDate": "2021-12-01T16:18:42.492Z",
+  "streetNumber": "66",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "20359",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Byte.FM",
+        "squuid": "5be1a6b1-fbde-4410-b2fe-8c2446966cc4"
+      },
+      "squuid": "5be1a6b9-1bf3-4204-afe0-394820cf68fc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.byte.fm",
+        "squuid": "5f198add-f444-441d-9769-74c54b72c7a3"
+      },
+      "squuid": "5f198b12-48ff-4ffd-8ff1-d5baaf7f9d0b",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Schnell, Ruben Jonas",
+        "squuid": "5be1a6b6-992e-47bb-9176-4037fd52b847"
+      },
+      "squuid": "5be1a6b7-d914-4bb6-9a73-ef9f90dca73f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Pilz, Günter",
+        "squuid": "5be1a6b6-e72c-46cc-af9e-20e70d661cf5"
+      },
+      "squuid": "5be1a6b7-f183-421b-a5ce-cd95a668ec33",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Pilz, Dr. Klaus",
+        "squuid": "5be1a6b6-fb90-4e9d-a5e8-9ee74340ed6d"
+      },
+      "squuid": "5be1a6b7-c015-4d55-8ef0-7a250f4b1752",
+      "state": "active"
+    }
+  ]
+}

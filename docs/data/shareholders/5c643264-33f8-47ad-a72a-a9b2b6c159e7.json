@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Rosenheim",
+  "pseudoCompany": false,
+  "street": "Rathausstr.",
+  "name": "Crisp Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5c643264-33f8-47ad-a72a-a9b2b6c159e7",
+  "controlDate": "2021-11-10T11:47:44.265Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "83022",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rosenheimerin",
+        "squuid": "5c642f68-1536-4dee-8377-3785a5980e0c"
+      },
+      "squuid": "5c64327a-8093-4bc2-9155-75d05899a98f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Chiemgauerin",
+        "squuid": "5c642f8a-e6f7-471d-94fd-b67959177ef7"
+      },
+      "squuid": "5c6432ae-acfa-4d32-9ca4-1e1eef2d1313",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "WWZ Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-af92-4839-96f4-2d8d9e234c83"
+      },
+      "squuid": "5c6432f6-5c93-4cb0-b304-0aa882769362",
+      "state": "active"
+    }
+  ]
+}

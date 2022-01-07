@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f196f06-1a4c-45be-a46a-7f930d8d9ddd",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Sylt 1 GmbH & Co. KG",
+        "squuid": "5e1f2e80-3a21-4983-b7a5-2d60f8a794cf"
+      },
+      "squuid": "5f196f81-09d0-4f5f-8724-98324f5f87ac",
+      "state": "active"
+    }
+  ],
+  "name": "www.sylt1.tv",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-06T14:59:21.826Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

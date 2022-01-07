@@ -1,0 +1,45 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "DNI Netherlands Holdings 1",
+        "squuid": "5be1a6b6-b090-435a-a5f8-a5e22a08b997"
+      },
+      "squuid": "5be1a6b8-e1f8-4312-a054-7ea9fa3bbf65",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Discovery Luxembourg Holdings 1 S.A.R.L.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ed7a-4b5c-83ab-745682f19f14",
+  "controlDate": "2021-12-03T11:30:48.524Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.07.2017, Az.: KEK 926, und Bescheid der BLM vom 24.07.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Discovery Luxembourg Holdings 2 S.A.R.L.",
+        "squuid": "5be1a6b6-7035-481a-b487-81aaba8452c0"
+      },
+      "squuid": "5be1a6b8-6b9c-435c-9b2e-c6eb819c6db7",
+      "state": "active"
+    }
+  ]
+}

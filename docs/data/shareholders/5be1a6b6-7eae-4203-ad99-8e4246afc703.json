@@ -1,0 +1,49 @@
+{
+  "name": "Hausner, Johann",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-7eae-4203-ad99-8e4246afc703",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Radio B 94 GbR",
+        "squuid": "5be1a6b6-abeb-4129-a867-28a4ce0286a9"
+      },
+      "squuid": "5be1a6b7-a4b0-45dd-a7c3-b6c2e02d49c3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.64,
+      "held": {
+        "name": "Inn-Salzach-Welle GmbH",
+        "squuid": "5be1a6b6-0551-4c05-8a64-0f79f20b7890"
+      },
+      "squuid": "5cc04ff7-777f-476e-9bec-9cf8b2e9ec0a",
+      "state": "active"
+    }
+  ],
+  "city": "Burgkirchen",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

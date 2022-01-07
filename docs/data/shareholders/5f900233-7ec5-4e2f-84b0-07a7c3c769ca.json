@@ -1,0 +1,30 @@
+{
+  "name": "Eigenbesitz der Radio Citywelle Chemnitz GmbH",
+  "squuid": "5f900233-7ec5-4e2f-84b0-07a7c3c769ca",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "held": {
+        "name": "Radio Citywelle Chemnitz GmbH",
+        "squuid": "5f8d9f48-f906-47d7-9549-09e76cbc252b"
+      },
+      "squuid": "5f900259-9171-42ad-bf13-8083c257d433",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "state": "active"
+}

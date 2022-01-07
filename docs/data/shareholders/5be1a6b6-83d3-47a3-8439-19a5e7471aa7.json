@@ -1,0 +1,99 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "TV Oberfranken GmbH & Co. KG",
+        "squuid": "5be1a6b6-24fd-46f1-a071-75daf7870e61"
+      },
+      "squuid": "5be1a6b8-ef97-4437-8e75-d1afe7f5bc7c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Finanztreff GmbH",
+        "squuid": "5c47426b-7513-4efc-aeac-73ea254f112e"
+      },
+      "squuid": "5c474364-c4bc-4b00-8c00-2cf42f145e37",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "TV Oberfranken Geschäftsführungs GmbH",
+        "squuid": "5f80392d-6f14-4fac-8824-7c5beda5ccc6"
+      },
+      "squuid": "5f8d74af-b7a0-4eb9-9581-885ca3cd2609",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kulmbach",
+  "pseudoCompany": false,
+  "street": "Am Eulenhof 14",
+  "name": "Börsenmedien AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-83d3-47a3-8439-19a5e7471aa7",
+  "controlDate": "2021-09-28T12:19:53.851Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "95326",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Der Aktionär",
+        "squuid": "5be1a6b1-1fce-47ab-9725-72ffbd77f36c"
+      },
+      "squuid": "5be1a6b9-101a-4d56-a5cf-f7ec473dd932",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deraktionaer.de",
+        "squuid": "5be1a6b1-5b09-4750-b9ed-2c26b2a75b30"
+      },
+      "squuid": "5be1a6b9-e405-42f3-8220-79f970312abc",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 96.15,
+      "holder": {
+        "name": "Förtsch, Bernd",
+        "squuid": "5be1a6b6-2db7-4801-90ab-1b7079668251"
+      },
+      "squuid": "5be1a6b8-a83b-47d7-b7fd-77f1e66410c2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.85,
+      "holder": {
+        "name": "Förtsch, Michaela",
+        "squuid": "5cb87d06-36d0-43ae-bd3b-b4f8cb4dd0e6"
+      },
+      "squuid": "5cb87d27-47d1-4732-bf96-d3b45b21f3fe",
+      "state": "active"
+    }
+  ]
+}

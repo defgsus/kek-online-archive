@@ -1,0 +1,32 @@
+{
+  "name": "Kreis Wesel",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-7607-4ea5-8b0a-2c5a667bd275",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.09,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Wesel mbH & Co. KG",
+        "squuid": "5be1a6b6-6701-41f7-a384-bacd516bbd26"
+      },
+      "squuid": "5be1a6b7-9ffd-4b6f-a052-61eb1c133a80",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

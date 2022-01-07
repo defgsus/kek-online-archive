@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f116f75-f858-4b25-ac22-132953f39c89",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Borussia VfL 1900 Mönchengladbach GmbH",
+        "squuid": "5ce2bf02-7920-4780-821d-6cc864736c01"
+      },
+      "squuid": "5f116fa4-823e-413d-85d7-dfcc238fc593",
+      "state": "active"
+    }
+  ],
+  "name": "www.tv.borussia.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-01T13:21:32.454Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

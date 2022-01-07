@@ -1,0 +1,93 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lahrer Anzeiger Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-a8e2-484b-aad5-b2810e16e882"
+      },
+      "squuid": "5be1a6b8-e7ca-49b9-89e8-4929207d2f8e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Offenburg",
+  "pseudoCompany": false,
+  "street": "Marlener Str. 9",
+  "name": "Reiff Verlag GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-3278-4c05-9688-8d598bffe272",
+  "controlDate": "2021-11-05T15:19:26.426Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "77656",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bo.de",
+        "squuid": "5be1a6b1-ee5e-4394-8a82-c334101796f5"
+      },
+      "squuid": "5be1a6b9-65d7-4e52-8974-d1848dce626d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Offenburger Tageblatt",
+        "squuid": "5be1a6b1-32bb-45c8-b3e9-c3373828e8ae"
+      },
+      "squuid": "5be1a6b9-7056-4e69-8286-4a73386fcaa0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kehler Zeitung",
+        "squuid": "5be1a6b1-1868-46ef-bde1-e07f4a98d1d6"
+      },
+      "squuid": "5be1a6b9-1b54-49e6-b463-1d1950ffe2e9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mittelbadische Presse (MVM)",
+        "squuid": "5cff92f1-75f6-49b0-9b69-89d309d72f00"
+      },
+      "squuid": "5e1da1ac-9d2f-41ba-ada4-87f9aa102e79",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "A. Reiff & Cie. GmbH & Co. KG",
+        "squuid": "5be1a6b6-3544-4546-8b8c-5420e439f6e5"
+      },
+      "squuid": "5be1a6b8-21a2-430b-8c7f-31f7038a7a3d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwarzwaldverlag GmbH",
+        "squuid": "5eaae72d-7956-46c0-9270-0f4afc1710f2"
+      },
+      "squuid": "5eaae74d-b522-4c6f-a7a1-4eb5c2c38cc8",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Böhm, Thomas",
+  "pseudoCompany": false,
+  "squuid": "5f202209-5655-4669-88bb-14e5a4290db6",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 42.0,
+      "held": {
+        "name": "Juni Media GmbH & Co. KG",
+        "squuid": "5c656f42-f403-44c4-91f9-6053f63841e0"
+      },
+      "squuid": "5f2022bc-3dd3-4ffb-8380-80d79c7442a6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Medienbeteiligungsgesellschaft Schwerin mbH",
+        "squuid": "5f202f31-56d6-4703-9fa5-1d0ab3cbc938"
+      },
+      "squuid": "5f203025-8090-4b4f-b711-5fbe94fac7da",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Juni Media Verwaltungsgesellschaft mbH",
+        "squuid": "5c656fc9-d864-4d2c-b903-b20230bc1a71"
+      },
+      "squuid": "5f228683-6a26-49a4-91bb-176a981a1c78",
+      "state": "active"
+    }
+  ],
+  "city": "Rostock",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

@@ -1,0 +1,64 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Medienverbund Nürnberger Land GmbH & Co KG",
+        "squuid": "5be1a6b6-36b8-4d7c-8ffa-bfde1f8d601b"
+      },
+      "squuid": "5eff0711-8daf-404d-8b95-488b6ea0a9e3",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hersbruck",
+  "pseudoCompany": false,
+  "street": "Nürnberger Str.",
+  "name": "Medienverbund Nürnberger Land GmbH",
+  "naturalPerson": false,
+  "squuid": "5eff06e9-4e33-43b4-aa32-954e2c8d8db2",
+  "controlDate": "2021-12-15T16:08:36.748Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "91217",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Verlag Hans Fahner GmbH & Co KG",
+        "squuid": "5be1a6b6-1d03-4bcb-9e43-4bf5c5e6aadd"
+      },
+      "squuid": "5eff07ae-7d43-49b4-9736-668e568fced5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Verlag Der Bote Hanns Bollmann GmbH & Co KG",
+        "squuid": "5be1a6b6-f4e2-41cc-bd22-3d15cf142528"
+      },
+      "squuid": "5eff07b9-9b79-4f11-a2c8-41d5e8437420",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Pfeiffer Verlag und Medienservice GmbH & Co. KG",
+        "squuid": "5be1a6b6-ef99-4634-836e-dfecf0d08f20"
+      },
+      "squuid": "5eff07c5-7693-4823-a6a2-27b50069588a",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Grevesmühlen",
+  "pseudoCompany": false,
+  "street": "Kirchplatz",
+  "name": "Verein für Jugendeinrichtungen NWM e.V.",
+  "naturalPerson": false,
+  "squuid": "5f4631bb-48e2-4006-a2d7-b9d67adb414d",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "23936",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Grevesmühlen TV",
+        "squuid": "5f462d4c-ea64-4ea4-9b6a-b66bad1c5b62"
+      },
+      "squuid": "5f463238-3314-481e-b68c-b2a185392ba7",
+      "state": "active"
+    }
+  ]
+}

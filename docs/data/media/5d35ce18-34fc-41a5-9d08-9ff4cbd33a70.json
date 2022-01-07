@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5d35ce18-34fc-41a5-9d08-9ff4cbd33a70",
+  "marketReach": 0.053491317898596326,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Borussia Dortmund GmbH & Co KGaA",
+        "squuid": "5be1a6b6-626e-467e-a2f1-6a83955a1fbd"
+      },
+      "squuid": "5d35ce5a-1a33-4557-942c-32786afbacab",
+      "state": "active"
+    }
+  ],
+  "name": "www.bvb.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-01T15:41:31.283Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

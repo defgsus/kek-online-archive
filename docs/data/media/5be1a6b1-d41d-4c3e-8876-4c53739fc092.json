@@ -1,0 +1,94 @@
+{
+  "matchedNames": [
+    "Sky 1+1 HD"
+  ],
+  "rfRepresentative": "Dr. Holger Enßlin, Colin Jones, Devish Raj",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Sandra Singer",
+  "rfStartDate": "22.09.2017",
+  "rfFreePay": false,
+  "squuid": "5be1a6b1-d41d-4c3e-8876-4c53739fc092",
+  "marketReach": 0.0,
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.sky.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Sky Deutschland Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-e031-4e07-9571-aaad6a3c2478"
+      },
+      "squuid": "5be1a6b9-15a1-4bf1-8317-0e885cf5b76b",
+      "state": "active"
+    }
+  ],
+  "name": "Sky One +1",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Unterhaltungsprogramm mit fiktionalen Serien, Unterhaltungsshows und jüngeren Serienklassikern der letzten 10 bis 15 Jahre (zeitlich um eine Stunde versetzte Ausstrahlung des Programms Sky One)",
+  "rfLicenseUntil": "unbefristet",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "22.12.2010",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
+      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-ce0c-4e5b-bbaa-a10b26b17532",
+      "name": "Sky (S) (veraltet)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

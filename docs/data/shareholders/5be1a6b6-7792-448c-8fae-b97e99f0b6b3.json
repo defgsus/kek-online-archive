@@ -1,0 +1,103 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lokalfunk Remscheid-Solingen Betriebsgesellschaft mbH",
+        "squuid": "5f181066-8eaa-43ba-b644-da791aa030f4"
+      },
+      "squuid": "609174cf-0ed7-482b-b4df-be79b537ae0f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Solingen",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Mummstraße",
+  "name": "Lokalfunk Remscheid-Solingen Betriebsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7792-448c-8fae-b97e99f0b6b3",
+  "controlDate": "2021-12-29T16:50:23.614Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "42651",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio RSG",
+        "squuid": "5be1a6b1-891c-4cf1-a3e6-e333d807786e"
+      },
+      "squuid": "5be1a6b9-b3be-4637-8635-6e88de68a965",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiorsg.de",
+        "squuid": "5f181036-4502-41f6-822f-d52cee509837"
+      },
+      "squuid": "5f1810af-a6ff-4f93-9404-2445787392aa",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Lokalfunk Remscheid-Solingen Presse-Beteiligungsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-c2ec-4eb9-8c24-ef8451f7f62c"
+      },
+      "squuid": "5be1a6b7-2b90-41e4-a73a-23af2a620ddb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.7,
+      "holder": {
+        "name": "Stadt Remscheid",
+        "squuid": "5be1a6b6-530e-4134-a449-5f7f8de306f9"
+      },
+      "squuid": "5be1a6b7-f394-4a6f-978b-d98c65834e1b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.3,
+      "holder": {
+        "name": "Stadt Solingen",
+        "squuid": "5be1a6b6-13d6-40e5-94f3-ca7fb63935df"
+      },
+      "squuid": "5be1a6b7-eb3b-4ae3-bccb-662114777b3b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lokalfunk Remscheid-Solingen Betriebsgesellschaft mbH",
+        "squuid": "5f181066-8eaa-43ba-b644-da791aa030f4"
+      },
+      "squuid": "5f18110c-5d52-4f17-be2e-3480e1708898",
+      "state": "active"
+    }
+  ]
+}

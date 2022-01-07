@@ -1,0 +1,73 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "Stand: 12/2021",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Grunewaldstraße",
+  "name": "KISS FM Radio GmbH & Co. KG",
+  "naturalPerson": false,
+  "co": "medienzentrum Berlin",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-0ccc-4bcb-bfac-59dbc7e5a376",
+  "controlDate": "2021-12-10T12:57:40.955Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "12165",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "KISS FM",
+        "squuid": "5be1a6b1-91e4-402a-a26c-adc195cbda51"
+      },
+      "squuid": "5be1a6b9-d3b5-40a4-84c2-2fc7d0267d01",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kissfm.de",
+        "squuid": "5f353c54-d88d-4009-a1eb-857339fcabc9"
+      },
+      "squuid": "5f353c8c-2f97-4be7-bf4c-019e9f28324a",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Frank Otto Medienbeteiligungsgesellschaft mbH & Co. KG (FOM)",
+        "squuid": "5be1a6b6-ca51-4678-bab9-f3c88c906e5e"
+      },
+      "squuid": "5be1a6b7-9bb2-4130-aa80-d8d8c047fd72",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "KISS FM Radio Geschäftsführungs GmbH",
+        "squuid": "5f353d41-1f96-4240-85dc-0b2dc2ec0259"
+      },
+      "squuid": "5f353d79-d1d3-4764-84f7-4b0c773d7060",
+      "state": "active"
+    }
+  ]
+}

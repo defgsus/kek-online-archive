@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Cottbus",
+  "pseudoCompany": false,
+  "street": "Straße der Jugend 54",
+  "name": "Lausitzer VerlagsService GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a845-483a-a347-207126b58b58",
+  "controlDate": "2021-10-27T14:07:31.022Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "03050",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lr-online.de",
+        "squuid": "5be1a6b1-c722-47ef-a794-92dfea955adf"
+      },
+      "squuid": "5be1a6b9-f27a-45f1-a540-2ac5eec34a70",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fupa.net/region/brandenburg",
+        "squuid": "61542882-8d35-4ed7-a05f-b8d0b9897f54"
+      },
+      "squuid": "615428b2-43c9-4d60-b164-cdd5933c8d2a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "LR Medienverlag GmbH",
+        "squuid": "5be1a6b6-9618-436a-86d4-98c0dbaae5cd"
+      },
+      "squuid": "5be1a6b8-0cd1-445c-8c0a-3d4dea7728fc",
+      "state": "active"
+    }
+  ]
+}

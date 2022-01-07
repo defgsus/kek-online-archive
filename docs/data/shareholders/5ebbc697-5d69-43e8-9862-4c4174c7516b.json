@@ -1,0 +1,64 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Gesellschaft für kirchliche Publizistik Mainz mbH & Co KG",
+        "squuid": "5be1a6b6-9882-48d4-bf8d-72b03e4a45a5"
+      },
+      "squuid": "5ebbc6c6-4af9-4dcd-ba47-2ae29bbd91cb",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mainz",
+  "pseudoCompany": false,
+  "street": "Erich-Dombrowski-Str.",
+  "name": "Verwaltungsgesellschaft für kirchliche Publizistik Mainz mbH",
+  "naturalPerson": false,
+  "squuid": "5ebbc697-5d69-43e8-9862-4c4174c7516b",
+  "controlDate": "2021-09-30T11:14:51.557Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "55127",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Bistum Mainz",
+        "squuid": "5be1a6b6-fd55-4eee-b0a9-11281e111fcd"
+      },
+      "squuid": "5ebbc7a7-3075-439d-87f5-a612919b8ce7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Bistum Limburg",
+        "squuid": "5be1a6b6-be7c-4d09-9aa9-2e4775950b71"
+      },
+      "squuid": "5ebbc7bb-c1e2-4150-9b69-ad47b81b6258",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Bistum Fulda",
+        "squuid": "5be1a6b6-265f-4434-a8d0-e0402f3c1575"
+      },
+      "squuid": "5ebbc7ce-f70f-4d69-b8ef-8b260d4b31f7",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Konrad-Adenauer-Allee",
+  "name": "Auge & Ohr GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8a12-470e-91e8-43ecd82e0e64",
+  "controlDate": "2022-01-05T15:41:49.624Z",
+  "streetNumber": "51",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86150",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Smart Radio",
+        "squuid": "5be1a6b1-9b13-4bce-a00f-127bb140bb0b"
+      },
+      "squuid": "5be1a6b9-0da4-4880-86e6-5fbfb63d8c86",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.smartradio.de",
+        "squuid": "5f96d46e-59ab-4b7a-9542-0c5a769f01c2"
+      },
+      "squuid": "5f96d4a4-0574-45b4-8993-93e62de4d8fa",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Melcer, Daniel",
+        "squuid": "5be1a6b6-605e-47fe-8272-035063439127"
+      },
+      "squuid": "5be1a6b7-faec-4016-919c-7a002dcb6fc0",
+      "state": "active"
+    }
+  ]
+}

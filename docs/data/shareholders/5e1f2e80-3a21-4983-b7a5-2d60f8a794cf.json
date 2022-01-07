@@ -1,0 +1,88 @@
+{
+  "state": "active",
+  "city": "Sylt OT Tinnum",
+  "pseudoCompany": false,
+  "street": "Alte Dorfstr.",
+  "name": "Sylt 1 GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5e1f2e80-3a21-4983-b7a5-2d60f8a794cf",
+  "controlDate": "2022-01-06T15:02:35.701Z",
+  "streetNumber": "25",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sylt 1",
+        "squuid": "5d2f34c5-1432-48bc-95fc-dbe8acdf85eb"
+      },
+      "squuid": "5e28492a-12b4-4316-aa82-4f63e5192329",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sylt1.tv",
+        "squuid": "5f196f06-1a4c-45be-a46a-7f930d8d9ddd"
+      },
+      "squuid": "5f196f81-09d0-4f5f-8724-98324f5f87ac",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Sylt 1 Verwaltungsgesellschaft mbH",
+        "squuid": "5f1970fd-afc7-4ff6-b5aa-0881edcfd309"
+      },
+      "squuid": "5f1971a8-2358-40fb-837c-47d53ba446ea",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Holst, Heike",
+        "squuid": "5f19710f-300a-4281-8a80-fddb3ca70490"
+      },
+      "squuid": "5f1971b6-9207-4471-90db-c11c70b1f4e1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Link, Axel",
+        "squuid": "5f19711a-9341-465f-8696-1bc29fa634a7"
+      },
+      "squuid": "5f1971c5-fed0-4af5-8214-3da5776da6ab",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Knörrer GmbH",
+        "squuid": "5f197128-f788-4c1e-b89b-a824841088fa"
+      },
+      "squuid": "5f1971d2-421c-448e-86a5-9a8c8c2f60fb",
+      "state": "active"
+    }
+  ]
+}

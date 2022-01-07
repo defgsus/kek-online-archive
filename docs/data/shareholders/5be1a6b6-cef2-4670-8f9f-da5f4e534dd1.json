@@ -1,0 +1,27 @@
+{
+  "name": "Land Nordrhein-Westfalen",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-cef2-4670-8f9f-da5f4e534dd1",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 64.74,
+      "held": {
+        "name": "NRW.Bank",
+        "squuid": "5be1a6b6-c52e-4309-8efc-5ef1740b465d"
+      },
+      "squuid": "5be1a6b7-d98f-4eb0-9371-3c2d140bb88e",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

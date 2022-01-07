@@ -1,0 +1,33 @@
+{
+  "name": "Verein Oberlinhaus",
+  "pseudoCompany": false,
+  "squuid": "5cadc031-46f1-4cfd-8241-c03a5825ba75",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Hörpunkt im Oberlinhaus GmbH",
+        "squuid": "5f056134-0378-41d7-b76e-1263eea223e3"
+      },
+      "squuid": "5f3533bf-d845-4c28-84af-32384f889f3b",
+      "state": "active"
+    }
+  ],
+  "city": "Potsdam",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

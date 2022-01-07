@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "Ismaning",
+  "pseudoCompany": false,
+  "street": "Reichenbachstraße",
+  "name": "Romance TV GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-658c-4241-a43f-5e61332526c2",
+  "otherMediaActivities": "Die Mainstream Media AG veranstaltet die Pay-TV-Programme Heimatkanal und GoldStar TV.",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85737",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Romance TV",
+        "squuid": "5be1a6b1-01cb-4500-863b-bba65b23ceb5"
+      },
+      "squuid": "5be1a6b9-9b07-48a2-bc42-6e0de58b1e83",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.romance-tv.de",
+        "squuid": "61b20d50-b569-49d4-94b9-686d1339e04e"
+      },
+      "squuid": "61b20d72-7bc7-47a1-acc6-3c868bb1aac1",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 21.11.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 71.43,
+      "holder": {
+        "name": "drei.eins Beteiligungs GmbH",
+        "squuid": "5be1a6b6-3b87-452d-9d07-c1cf927d830d"
+      },
+      "squuid": "5be1a6b7-28ed-4279-943c-6b51f9c1f1a0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 28.57,
+      "holder": {
+        "name": "Merkur Thorhauer GmbH & Co. KG",
+        "squuid": "5be1a6b6-80f4-40a1-9801-590a31d82c7b"
+      },
+      "squuid": "5be1a6b7-20d0-4958-9986-c70477bacdb2",
+      "state": "active"
+    }
+  ]
+}

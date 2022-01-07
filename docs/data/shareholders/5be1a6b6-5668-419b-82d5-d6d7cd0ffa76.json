@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Grünwald",
+  "pseudoCompany": false,
+  "street": "Bavariafilmplatz",
+  "name": "Hollywood Cinema.tv GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5668-419b-82d5-d6d7cd0ffa76",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82031",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "3D The Channel",
+        "squuid": "5be1a6b1-bc65-4fd5-9b40-bd8c03b9a08f"
+      },
+      "squuid": "5be1a6b9-d8a9-40d5-bddf-06925bd70e2e",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 11.01.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Deutsch, Marco",
+        "squuid": "5be1a6b6-de81-43c9-bf56-b2bbf679e5be"
+      },
+      "squuid": "5be1a6b7-8454-44e8-a3dc-db7118660a17",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "state": "active",
+  "city": "Wiesbaden",
+  "pseudoCompany": false,
+  "street": "Taunusstrasse 52",
+  "name": "Cicero Kommunikation GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9dc0-449d-bf17-b975608fb590",
+  "controlDate": "2021-11-18T10:44:48.256Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65183",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "VivArt (Mainz)",
+        "squuid": "5be1a6b1-3306-42cb-bb04-90c6fd83c68b"
+      },
+      "squuid": "5be1a6b9-39dc-4f71-9f62-ecfe6d3a5be1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "VivArt (Wiesbaden)",
+        "squuid": "5be1a6b1-0468-49f2-868a-d8937e91a76a"
+      },
+      "squuid": "5be1a6b9-f7c1-479a-b834-76f275f626f6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "VivArt (Frankfurt)",
+        "squuid": "5be1a6b1-6383-48c7-a602-4f56d05a906c"
+      },
+      "squuid": "5be1a6b9-5070-407a-81f7-57fe1b8507cf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.vivart.de",
+        "squuid": "5be1a6b1-85d4-4f26-8a70-6d2446facbae"
+      },
+      "squuid": "5be1a6b9-43f9-4f54-8165-85f6a353d3c4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "VivArt (Limburg)",
+        "squuid": "5c4064fc-1ae6-44f1-b865-65313ad6d1a5"
+      },
+      "squuid": "5c4065b6-35b3-434e-958e-5eaa3e2cfc45",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 76.0,
+      "holder": {
+        "name": "Becker, Dirk Michael",
+        "squuid": "5be1a6b6-5adc-4753-9791-9f2f7797a3b4"
+      },
+      "squuid": "5be1a6b8-30e2-4270-b032-86eda455d0a7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "Becker, Miriam",
+        "squuid": "5be1a6b6-83b5-437c-be80-4e2141185ffe"
+      },
+      "squuid": "5be1a6b8-0b46-4e67-8b80-ddfa7ac2d0e1",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Fürstenrieder Str.",
+  "name": "alpha-media Werbegesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5f7dc4d3-8930-4134-9dd5-1a91d3b3f60d",
+  "controlDate": "2020-10-16T10:03:29.505Z",
+  "streetNumber": "265",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "81377",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 38.0,
+      "holder": {
+        "name": "Keller, Patrick Kornelius",
+        "squuid": "5be1a6b6-6bf9-4017-9a1f-0efea46a1ffd"
+      },
+      "squuid": "5f896ede-0bd7-41aa-81fd-c050d36a5217",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 37.0,
+      "holder": {
+        "name": "Keller-Pauli, Nicola Katharina",
+        "squuid": "5be1a6b6-0e6a-4cb3-b043-47a879d10371"
+      },
+      "squuid": "5f896eed-a59a-42d0-8ed8-93db82c05a7f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Erbengemeinschaft Ludwig Keller, Bernd Andreas Keller, Kjerstin Therese Keller, Maria-Christina Pschorr",
+        "squuid": "5f896fa4-d5f8-4b0d-b6f7-96e711474cf9"
+      },
+      "squuid": "5f896fe3-e773-4565-b7dd-c3179dfa198d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Fuks, Evi",
+        "squuid": "5f896f59-0fcf-4fbb-915c-6cd231084f47"
+      },
+      "squuid": "5f896fef-86ad-407d-8068-8ee61a28b4c6",
+      "state": "active"
+    }
+  ]
+}

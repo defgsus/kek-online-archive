@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Neue Berliner Rundfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-ee21-4ea7-9631-c9da6be49cc1"
+      },
+      "squuid": "5ef07f03-765f-45bb-906c-5275419ec8a6",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Grunewaldstr.",
+  "name": "Neue Berliner Rundfunk Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5ef07ed6-6a63-47d4-abcf-795eeeb4b49b",
+  "controlDate": "2021-01-11T13:35:15.608Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "12165",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.13,
+      "holder": {
+        "name": "Märkisches Medienhaus GmbH & Co KG",
+        "squuid": "5be1a6b6-77a9-41c7-a6e8-f04daa097183"
+      },
+      "squuid": "5f02dfe0-a450-4e57-b885-6eefb90d857c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.87,
+      "holder": {
+        "name": "Radio-Information Audio-Service Zwei GmbH",
+        "squuid": "5be1a6b6-0980-44bd-87ee-606ba9e9f625"
+      },
+      "squuid": "5f02e022-23fd-4a61-8447-0e21aef74ae7",
+      "state": "active"
+    }
+  ]
+}

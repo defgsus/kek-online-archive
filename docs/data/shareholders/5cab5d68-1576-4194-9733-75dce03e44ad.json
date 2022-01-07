@@ -1,0 +1,131 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "TV Bayern GmbH Bayerische Lokal-Fernsehprogramm Gesellschaft",
+        "squuid": "5be1a6b6-515a-406b-b899-999e085ca150"
+      },
+      "squuid": "5f8d6cd2-24a7-4e61-83b1-8df1aea90580",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "TVA Ostbayern Fernsehprogrammgesellschaft Verwaltungs GmbH",
+        "squuid": "5f80490c-f70d-4775-a6c6-c388791b3f4f"
+      },
+      "squuid": "5f8d7c01-6a23-4e5e-b18b-8bd7d1268bf4",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Regensburg",
+  "pseudoCompany": false,
+  "street": "Hermann Köhl Straße",
+  "name": "TVA Ostbayern Fernsehprogrammgesellschaft mbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5cab5d68-1576-4194-9733-75dce03e44ad",
+  "controlDate": "2022-01-07T10:22:51.033Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "93049",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "TVA Ostbayern",
+        "squuid": "5cab5cda-0f3d-4791-ba9c-b8c81fe7fe2a"
+      },
+      "squuid": "5cab5da4-bf15-4ae4-b0d2-8f131064af47",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvaktuell.com",
+        "squuid": "5f8047f0-9479-4f29-a6b8-7bfe5afc7c8f"
+      },
+      "squuid": "5f804854-c66a-4cff-b368-d23bc69d9576",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 31.69,
+      "holder": {
+        "name": "Neue Welle - Antenne Regensburg Hörfunk- und Fernsehprogramm GmbH",
+        "squuid": "5be1a6b6-afab-484d-ae80-c6129274e6dc"
+      },
+      "squuid": "5cab61c8-76bc-42ee-9fc0-b30bdde64c9c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.69,
+      "holder": {
+        "name": "Verlag Tages-Anzeiger GmbH",
+        "squuid": "5be1a6b6-48e8-424e-98c2-ff6184ef0d6b"
+      },
+      "squuid": "5cab61e2-9fa0-45d9-aeb1-1ea91b817dc1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.77,
+      "holder": {
+        "name": "AWN Regional TV Programm und Werbe GmbH",
+        "squuid": "5cab6219-c10c-456a-8e12-f3133b34536d"
+      },
+      "squuid": "5cab6236-cd76-42f6-8b32-1713373ac895",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.77,
+      "holder": {
+        "name": "Niederbayern TV Programm- und Werbe-GmbH & Co. KG",
+        "squuid": "5cab626e-4766-4537-95c3-64d96fef1fb4"
+      },
+      "squuid": "5cab628c-aa6f-4e68-8476-b3e71d6abf69",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.08,
+      "holder": {
+        "name": "Heribert Wühr Verlag für noch unbekannte Literatur",
+        "squuid": "5be1a6b6-16d8-494f-adbb-1cecd005fdbc"
+      },
+      "squuid": "5cab62ad-df92-4b8d-83b9-7f9d358910f6",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "TVA Ostbayern Fernsehprogrammgesellschaft Verwaltungs GmbH",
+        "squuid": "5f80490c-f70d-4775-a6c6-c388791b3f4f"
+      },
+      "squuid": "5f804958-ed93-443f-86e2-8286c5607a6e",
+      "state": "active"
+    }
+  ]
+}

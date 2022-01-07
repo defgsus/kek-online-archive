@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Wilhelmsaue",
+  "name": "aaroon media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-bea0-43cc-a8ec-212afc96cfc3",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "10715",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "place2be",
+        "squuid": "5be1a6b1-a541-48da-b16b-04aa9e1ec8d1"
+      },
+      "squuid": "5be1a6b9-fc63-4ada-a504-dee5875e9860",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schürger, Ulrich",
+        "squuid": "5be1a6b6-3c42-4771-a877-d47946a968d0"
+      },
+      "squuid": "5be1a6b7-fe18-43ed-b410-4c7151ecfbe9",
+      "state": "active"
+    }
+  ]
+}

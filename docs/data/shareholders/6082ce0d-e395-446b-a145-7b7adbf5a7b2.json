@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Osterode",
+  "pseudoCompany": false,
+  "street": "Gipsmühlenweg",
+  "name": "Funke Harz Kurier GmbH",
+  "naturalPerson": false,
+  "squuid": "6082ce0d-e395-446b-a145-7b7adbf5a7b2",
+  "controlDate": "2021-10-22T14:01:42.756Z",
+  "streetNumber": "2-4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "37520",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.harzkurier.de",
+        "squuid": "5be1a6b1-9c4d-4cf6-8a4d-08c0be39b822"
+      },
+      "squuid": "6082ce20-b2f1-47ed-a2a6-21a46f5029e3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Harz-Kurier",
+        "squuid": "5be1a6b1-b928-42f3-a8e5-89471e580771"
+      },
+      "squuid": "6082cf09-5fc5-4cbd-ac65-60d6f89541ae",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Medien Niedersachsen GmbH",
+        "squuid": "5be1a6b6-09ab-484b-9101-6d223b5a7c82"
+      },
+      "squuid": "6082cec0-4855-4d07-9aa5-178eb821ea37",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Münsingen",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr. 1",
+  "name": "Verlag Baader GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8787-49b3-87d8-f88204594755",
+  "controlDate": "2021-01-18T13:11:29.985Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "72525",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Alb Bote (Münsingen)",
+        "squuid": "5be1a6b1-b33e-4465-8f34-4fc43aa4a107"
+      },
+      "squuid": "5be1a6b9-d2c5-4d10-890c-f70ca1d1d855",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Neue Pressegesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-9a6a-4235-a5d2-f080b726ddef"
+      },
+      "squuid": "5be1a6b8-c79b-4b8f-bfdb-590a29c693e4",
+      "state": "active"
+    }
+  ]
+}

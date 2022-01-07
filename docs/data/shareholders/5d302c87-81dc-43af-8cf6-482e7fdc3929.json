@@ -1,0 +1,29 @@
+{
+  "name": "Streubesitz an der Fraport AG",
+  "squuid": "5d302c87-81dc-43af-8cf6-482e7fdc3929",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 32.09,
+      "held": {
+        "name": "Fraport AG",
+        "squuid": "5d30270b-4a67-4bc0-83ea-e8fd643870b2"
+      },
+      "squuid": "5d302caa-855b-45c5-918c-e115b2ef625b",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active"
+}

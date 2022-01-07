@@ -1,0 +1,41 @@
+{
+  "name": "Anteilseigner mit Anteilen von jeweils unter 5%",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-d934-4405-a5fd-68be068689a6",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 16.3,
+      "held": {
+        "name": "AUCTUS IV Co-Investment GmbH & Co. KG",
+        "squuid": "5be1a6b6-a91a-422d-bf80-ddef1cbf3990"
+      },
+      "squuid": "5be1a6b8-8551-473f-827d-44309948f03a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.87,
+      "held": {
+        "name": "AUCTUS IV GmbH & Co. KG",
+        "squuid": "5be1a6b6-04ac-4f65-b721-969885524a81"
+      },
+      "squuid": "5be1a6b8-b5b7-4366-8fb1-6c6f26700edb",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,77 @@
+{
+  "state": "active",
+  "city": "Riesa",
+  "pseudoCompany": false,
+  "street": "Bahnhofstraße",
+  "name": "SAXN-Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8322-4e4b-a3d3-25c0ea4162c4",
+  "controlDate": "2022-01-03T16:03:54.424Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01587",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Riesa TV",
+        "squuid": "5be1a6b1-04a5-47de-b7ce-088fe183c71e"
+      },
+      "squuid": "5be1a6b9-30a1-4808-b422-c52d0774d281",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.riesa-tv.de",
+        "squuid": "5f7f017d-45ad-4ee0-b5b8-d8ea37d9ce3c"
+      },
+      "squuid": "5f7f01db-8a5d-498f-9bda-987843a21792",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Tschirner, Uwe",
+        "squuid": "5be1a6b6-ce4f-4c86-894e-f4df618c1269"
+      },
+      "squuid": "5e4faeba-953b-4fa1-836f-55f79ee8c21a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Branig, Marco",
+        "squuid": "5be1a6b6-aee9-4411-be64-b5bac3f699ba"
+      },
+      "squuid": "5e4faec6-c6e7-4129-8ea3-4d543fb739e9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Stritzl, Thomas",
+        "squuid": "5f7f02fd-60ea-4d28-a944-5866442c51c8"
+      },
+      "squuid": "5f85683b-fdc2-4333-baf2-093bfa8cddd0",
+      "state": "active"
+    }
+  ]
+}

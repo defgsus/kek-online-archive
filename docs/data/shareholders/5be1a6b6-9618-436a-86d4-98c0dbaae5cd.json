@@ -1,0 +1,79 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 34.8,
+      "held": {
+        "name": "Lokal-Radio Cottbus GmbH",
+        "squuid": "5be1a6b6-9417-45d2-b1c0-971ab49e6394"
+      },
+      "squuid": "5be1a6b7-89a1-4d7f-8a57-a5c13708afdf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lausitzer VerlagsService GmbH",
+        "squuid": "5be1a6b6-a845-483a-a347-207126b58b58"
+      },
+      "squuid": "5be1a6b8-0cd1-445c-8c0a-3d4dea7728fc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Cottbus",
+  "pseudoCompany": false,
+  "street": "Straße der Jugend 54",
+  "name": "LR Medienverlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9618-436a-86d4-98c0dbaae5cd",
+  "controlDate": "2021-10-27T14:07:40.422Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "03050",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lausitzer Rundschau",
+        "squuid": "5be1a6b1-a515-4d7b-89d3-365992b0f535"
+      },
+      "squuid": "5be1a6b9-1001-484a-909e-1424f3f510cf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lr-online.de",
+        "squuid": "5be1a6b1-c722-47ef-a794-92dfea955adf"
+      },
+      "squuid": "5be1a6b9-fc2b-4828-bcbd-026ed6842fcb",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Märkisches Medienhaus GmbH & Co KG",
+        "squuid": "5be1a6b6-77a9-41c7-a6e8-f04daa097183"
+      },
+      "squuid": "5be1a6b7-86bd-4212-b98c-84f8d8da33c2",
+      "state": "active"
+    }
+  ]
+}

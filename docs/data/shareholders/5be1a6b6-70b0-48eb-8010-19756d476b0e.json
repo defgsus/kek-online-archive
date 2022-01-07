@@ -1,0 +1,95 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "held": {
+        "name": "Radio Prima 1 GmbH",
+        "squuid": "5be1a6b6-d78c-411f-9783-e6f90267aae0"
+      },
+      "squuid": "5be1a6b7-5a2e-4bc4-b67f-f20af2908a00",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.0,
+      "held": {
+        "name": "Allgäu-TV GmbH & Co. KG",
+        "squuid": "5cab6a19-b235-49e1-abfe-578e329004c0"
+      },
+      "squuid": "5cab6ba7-0a7f-46af-8489-6cf398d9dac4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.0,
+      "held": {
+        "name": "Allgäu-TV Beteiligungs- und Verwaltungs GmbH",
+        "squuid": "5f7721ce-3b10-4b61-bd97-b6e5b9ee8fdd"
+      },
+      "squuid": "5f896054-8143-4348-889b-e03e7a474521",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Memmingen",
+  "pseudoCompany": false,
+  "street": "Donaustr.",
+  "name": "RT.15 GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-70b0-48eb-8010-19756d476b0e",
+  "controlDate": "2021-11-23T12:13:49.635Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "87700",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 54.4,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5cab6ca6-37ec-4b6d-a28c-b33f1db12823",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.8,
+      "holder": {
+        "name": "Druckerei und Verlag Hans Högel KG",
+        "squuid": "5be1a6b6-f496-4b01-9204-ae8cbb56a1c9"
+      },
+      "squuid": "5cab6cc1-08d1-41ab-ace0-a3367eff792b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 27.8,
+      "holder": {
+        "name": "Allgäuer Zeitungsverlag GmbH",
+        "squuid": "5be1a6b6-9e2f-4de5-839b-a9064817ea96"
+      },
+      "squuid": "5cab6cd3-3d29-41f1-9569-64dd730ed395",
+      "state": "active"
+    }
+  ]
+}

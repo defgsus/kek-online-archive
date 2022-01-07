@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Pickhuben",
+  "name": "mareverlag GmbH & Co. oHG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-520d-431b-9b0a-e4145b4e8cf8",
+  "controlDate": "2021-10-29T13:29:55.532Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20457",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "mare",
+        "squuid": "5be1a6b1-6dc5-4cde-a5b9-1613eb926e8d"
+      },
+      "squuid": "5be1a6b9-5068-4caa-a696-d8bb095514d0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mare.de",
+        "squuid": "5be1a6b1-71ad-4f63-8f3f-adb126c7366e"
+      },
+      "squuid": "5be1a6b9-6432-4198-a8b8-0f9a406bdde9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Dreiviertel Verlag GmbH",
+        "squuid": "5be1a6b6-7729-4c55-aad6-150063dcb375"
+      },
+      "squuid": "5be1a6b8-24c3-40b0-93c4-0d59265f10bb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Gelpke, Nikolaus",
+        "squuid": "5be1a6b6-d9ab-497c-83d8-21cd05478666"
+      },
+      "squuid": "5be1a6b8-abf2-4e4c-97e7-c895283cea88",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Kyritz",
+  "pseudoCompany": false,
+  "street": "Parkweg",
+  "name": "OSP Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d8e8-453e-9e9b-ecc707464093",
+  "controlDate": "2021-10-27T09:10:55.799Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "16866",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Land Zauber",
+        "squuid": "5be1a6b1-5d70-4178-a142-5f9fb6d6572d"
+      },
+      "squuid": "5be1a6b9-80c6-47be-ac73-e0856da9e5e3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.landzauber.de",
+        "squuid": "5be1a6b1-70b1-41eb-912a-e841fd02f4f4"
+      },
+      "squuid": "5be1a6b9-eb81-4697-a3a3-1b780dbfbefb",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bucher, Holger",
+        "squuid": "5be1a6b6-f993-44e0-83d9-deb246ddcabf"
+      },
+      "squuid": "5be1a6b8-6469-4c69-9e45-88fac81b73ab",
+      "state": "active"
+    }
+  ]
+}

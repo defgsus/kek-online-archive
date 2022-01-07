@@ -1,0 +1,77 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Stolberger Str.",
+  "name": "YOL Bildungs- und Medienwerk mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-516f-4b6f-aad0-60399ea2eefe",
+  "controlDate": "2021-07-09T10:30:25.658Z",
+  "streetNumber": "317",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50933",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "YOL TV",
+        "squuid": "5be1a6b1-8ceb-453d-b036-b92f359b5142"
+      },
+      "squuid": "5be1a6b9-ada5-47e4-8ef3-43cc74356abc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.yoltv.eu",
+        "squuid": "5f159314-2aea-4ff7-9b66-3eb6cfc04ed8"
+      },
+      "squuid": "5f15933f-17c1-464c-a616-853681ef04bb",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.10.2016, Az.: KEK 887, und Bescheid der LfM vom 27.10.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Aydin, Veli",
+        "squuid": "5be1a6b6-0a8c-4f91-ba7f-c64c5defe58e"
+      },
+      "squuid": "5be1a6b8-3622-4395-8cfc-2f4b5dfca3ca",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Öz, Özgür",
+        "squuid": "5be1a6b6-70b9-4068-814c-58f8485aac31"
+      },
+      "squuid": "5be1a6b8-566e-4f8e-9511-b9340dca5288",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Mat, Hüsein",
+        "squuid": "5be1a6b6-17c7-43c0-bb8e-fb5a27bbcbb9"
+      },
+      "squuid": "5be1a6b8-873e-444f-9ea2-9ffc25eedbf7",
+      "state": "active"
+    }
+  ]
+}

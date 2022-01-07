@@ -1,0 +1,49 @@
+{
+  "state": "active",
+  "onlineAsOfDateIVW": "05/20",
+  "squuid": "5f05d30e-e6af-49a6-804d-cabe90040132",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL interactive GmbH",
+        "squuid": "5be1a6b6-83ed-4c73-98a7-1ddc01209e8e"
+      },
+      "squuid": "5f05d3a1-6215-4e84-95a3-ec386f87b543",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL Television GmbH",
+        "squuid": "5be1a6b6-7542-41b4-ab53-17975a930698"
+      },
+      "squuid": "60b8a22c-41fb-4c9d-9bcf-57deeacf0cb6",
+      "state": "active"
+    }
+  ],
+  "name": "www.nitro-tv.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-15T17:16:06.042Z",
+  "onlineIVWPI": 316000,
+  "onlineAsOfDateAGOF": "05/20",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "onlineVisitsIVW": 135000,
+  "onlineAGOF": 70000
+}

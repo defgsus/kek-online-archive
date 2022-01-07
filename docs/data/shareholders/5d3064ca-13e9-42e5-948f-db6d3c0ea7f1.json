@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Graz (A)",
+  "pseudoCompany": false,
+  "street": "Rechbauerstraße",
+  "name": "Landwirt.com GmbH  marketplace for agriculture ",
+  "naturalPerson": false,
+  "squuid": "5d3064ca-13e9-42e5-948f-db6d3c0ea7f1",
+  "controlDate": "2021-12-13T13:28:12.218Z",
+  "streetNumber": "4 1/4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "8010",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.landwirt.com",
+        "squuid": "5d3064bb-1b0b-4685-8b66-f220c0ca0c06"
+      },
+      "squuid": "5d30652b-2c36-4e69-98c2-0f073c7dc56d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BMag. Dvorak-Stocker Beteiligungs GmbH",
+        "squuid": "5d3064e2-ffb9-4f34-b0a0-d8ab25ad91b3"
+      },
+      "squuid": "5d30658c-58b9-4ef5-87c6-e871919c0683",
+      "state": "active"
+    }
+  ]
+}

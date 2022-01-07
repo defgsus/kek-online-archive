@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Hultschiner Straße ",
+  "name": "Verlag Werben & Verkaufen GmbH",
+  "naturalPerson": false,
+  "squuid": "5c506e26-4d95-4b27-9e24-d2b7d0d28440",
+  "controlDate": "2021-07-06T15:35:32.167Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81677",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wuv.de",
+        "squuid": "5c506df4-2f11-4029-8add-262cebcb0491"
+      },
+      "squuid": "5c506ea8-d781-4258-ae27-c06d5f9b0f5d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ebner Media Group GmbH & Co KG",
+        "squuid": "5be1a6b6-84e9-4f17-a677-1e326d5da9f2"
+      },
+      "squuid": "60e478bc-58a3-4a68-b8ae-5cfa2c948c10",
+      "state": "active"
+    }
+  ]
+}

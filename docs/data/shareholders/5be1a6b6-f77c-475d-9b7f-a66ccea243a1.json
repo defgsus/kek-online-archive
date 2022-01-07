@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Alt-Lietzow",
+  "name": "RtvD Video- und Filmproduktions GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f77c-475d-9b7f-a66ccea243a1",
+  "otherMediaActivities": "Der geschäftsführende Gesellschafter Peter Tietzki hält zudem 100 % an der RTV Broadcast & Content Management GmbH, der Veranstalterin der russischsprachigen Pay-TV-Programme Nasch Kinomir, Telebom, Teledom und OstWest. \r\n\r\nInter TV Ltd. Verfügt über einen Rechtebestand an russischen Filmen und betreibt damit weltweiten Rechtehandel.",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10587",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Detski Mir",
+        "squuid": "5be1a6b1-b10d-48c1-9933-4014c199e1cd"
+      },
+      "squuid": "5be1a6b9-f7b6-424a-8865-7c912fd215eb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Nasche Ljubimoe Kino",
+        "squuid": "5be1a6b1-1392-41fb-b24f-564d07d36792"
+      },
+      "squuid": "5be1a6b9-1763-4469-ad53-f667692e4591",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Teleclub",
+        "squuid": "5be1a6b1-7b37-4b5e-ba5a-5347215537c3"
+      },
+      "squuid": "5be1a6b9-48e6-48d6-bae3-461207c9c010",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 03.01.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.26,
+      "holder": {
+        "name": "Tietzki, Peter",
+        "squuid": "5be1a6b6-f00b-4658-98b8-19203ab6fe44"
+      },
+      "squuid": "5be1a6b7-08a8-4b3e-996a-e01152fc9fdb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 48.74,
+      "holder": {
+        "name": "Inter TV Ltd.",
+        "squuid": "5be1a6b6-8cdb-4337-9dfc-8012974a5f7f"
+      },
+      "squuid": "5be1a6b7-017c-4dd6-a20a-96abbf420568",
+      "state": "active"
+    }
+  ]
+}

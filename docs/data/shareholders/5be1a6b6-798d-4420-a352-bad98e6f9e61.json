@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "note": "Keine Gesellschafterliste im Handelsregister hinterlegt",
+  "pseudoCompany": false,
+  "street": "Auf'm Tetelberg",
+  "name": "Verlagsanstalt Handwerk GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-798d-4420-a352-bad98e6f9e61",
+  "controlDate": "2021-09-30T15:25:25.348Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40221",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Deutsches Handwerksblatt",
+        "squuid": "5be1a6b1-b1db-4b50-ace1-9cd2a0513fce"
+      },
+      "squuid": "5be1a6b9-e140-4981-9036-047190887759",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.handwerksblatt.de",
+        "squuid": "5be1a6b1-2813-4603-b02d-cfcda9e9b1c4"
+      },
+      "squuid": "5be1a6b9-5f57-4cac-b2d3-8872179db3ef",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

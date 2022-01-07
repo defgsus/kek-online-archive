@@ -1,0 +1,103 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lokalfunk Krefeld-Viersen Beteiligungsgesellschaft mbH",
+        "squuid": "5f0f0ec5-c993-441f-94d1-996faf6c8b41"
+      },
+      "squuid": "5ff5bc9b-e6d4-4660-af44-335159f22c6c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Krefeld",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Rheinstr.",
+  "name": "Lokalfunk Krefeld-Viersen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9fa4-4094-842a-06d50f2d23d3",
+  "controlDate": "2022-01-07T13:53:18.635Z",
+  "streetNumber": "76",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "47799",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Welle Niederrhein",
+        "squuid": "5be1a6b1-c8db-4c50-9469-02e1c6a32b3e"
+      },
+      "squuid": "5be1a6b9-66d9-4b97-bc7d-1bbc4b0ca7e4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.welleniederrhein.de",
+        "squuid": "5f0f0d78-b51a-4953-8269-4225ef5ccb5f"
+      },
+      "squuid": "5f0f0dc0-4e77-4f40-9069-6781134b0884",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 85.5,
+      "holder": {
+        "name": "Pressefunk Krefeld-Viersen GmbH & Co. KG",
+        "squuid": "5be1a6b6-1002-4156-9d96-cecad91421c0"
+      },
+      "squuid": "5be1a6b7-73f1-4c09-9ce4-6783aa9ed6e3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Stadt Willich",
+        "squuid": "5be1a6b6-e854-4f3a-bfb4-9ddaaf2e5ece"
+      },
+      "squuid": "5be1a6b7-8733-4694-a892-0f533d365daa",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lokalfunk Krefeld-Viersen Beteiligungsgesellschaft mbH",
+        "squuid": "5f0f0ec5-c993-441f-94d1-996faf6c8b41"
+      },
+      "squuid": "5f0f0f96-4ee7-4f2b-937c-82eb0d6b8aa6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "GGK Grundstücksgesellschaft der Stadt Krefeld mbH & Co. KG",
+        "squuid": "5f0f0fff-6b7d-47d0-823a-dc9eb5be6496"
+      },
+      "squuid": "5f0f1033-f94d-4f56-9b42-6f12cbf61a4d",
+      "state": "active"
+    }
+  ]
+}

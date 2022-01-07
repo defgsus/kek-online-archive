@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f3d2ab3-de5a-4d7f-8cbf-1d85dc1b5ef9",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "ANTENNE RADIO GmbH & Co. KG",
+        "squuid": "5be1a6b6-d66b-47be-bf76-e515dd9367d8"
+      },
+      "squuid": "5f3d2afe-578c-4f99-a64c-f8b6bc69e7b6",
+      "state": "active"
+    }
+  ],
+  "name": "www.antenne1.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-11-24T17:23:30.672Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

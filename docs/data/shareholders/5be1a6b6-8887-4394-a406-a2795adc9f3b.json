@@ -1,0 +1,31 @@
+{
+  "name": "Streubesitz an der Discovery, Inc.",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-8887-4394-a406-a2795adc9f3b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.2,
+      "held": {
+        "name": "Discovery, Inc.",
+        "squuid": "5be1a6b6-fde0-477e-bfdd-f31e32676b3b"
+      },
+      "squuid": "5be1a6b7-9045-4f7a-be5e-725afce175f7",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

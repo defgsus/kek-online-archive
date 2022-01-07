@@ -1,0 +1,79 @@
+{
+  "rfRepresentative": "Damerius, Rainer; Bertrams, Bianca",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "07.01.2006",
+  "squuid": "5cb48a17-fb29-4be2-90e1-ba3681541ad5",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "accessibilityUrl": "https://ohrfunk.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Medien-Initiative blinder und sehbehinderter  Menschen in Deutschland e.V. (MIBS) ",
+        "squuid": "5cb48a3b-e831-4bb5-8108-7decb50d3fed"
+      },
+      "squuid": "5cb48c03-0ed4-4e95-861d-e0a1814c0c51",
+      "state": "active"
+    }
+  ],
+  "name": "OHRFUNK.de ",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Nichtkommerzielles Hörfunkprogramm",
+  "rfLicenseUntil": "16.01.2021",
+  "rfLicensed": "16.01.2014",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
+      "name": "Vodafone Kabel Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-ec5e-4d1d-aeab-25f09a97bf67",
+      "name": "Tele Columbus AG",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "17.01.2014",
+  "rfAddress": "Ilbeshäuer Weg 18, 13435 Berlin",
+  "accessibilityEmail": "info@ohrfunk.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

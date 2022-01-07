@@ -1,0 +1,46 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "5be1a6b1-546b-4fd7-8a6f-4ab930495668",
+  "organization": {
+    "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+    "name": "LMS",
+    "type": "organization",
+    "fullName": "Landesmedienanstalt Saarland"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Merzig 105.1 UG (haftungsbeschränkt)",
+        "squuid": "5be1a6b6-37bb-4f8c-8d12-d4c08b71f492"
+      },
+      "squuid": "5be1a6b9-4278-49f8-999d-1bf706b09a2c",
+      "state": "active"
+    }
+  ],
+  "name": "Radio Merzig 105.1",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+    "name": "Sendebetrieb eingestellt",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+    "name": "LMS",
+    "type": "organization",
+    "fullName": "Landesmedienanstalt Saarland"
+  },
+  "description": "Internetradio",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

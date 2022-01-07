@@ -1,0 +1,102 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Hellweg-Radio Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-813a-45d8-9edf-a4f4a31319a3"
+      },
+      "squuid": "5be1a6b7-dffa-4d0f-be18-9f76d4418387",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Hellweg Radio Betriebs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5f0f1515-4238-4d61-8058-42b44c8d01b6"
+      },
+      "squuid": "5ff5b528-0e63-4686-bf3c-252a526ed865",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Hellweg Presseholding Verwaltungsgesellschaft mbH",
+        "squuid": "5f0f1699-4910-491d-9ecb-65316700d34d"
+      },
+      "squuid": "61b21231-a5c9-42e1-bf0a-3eb5112a8920",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Lippstadt",
+  "pseudoCompany": false,
+  "street": "Hansastr.",
+  "name": "Hellweg Presseholding GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-2fa3-4e68-a696-c5b3480667b2",
+  "controlDate": "2021-12-09T14:25:33.499Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "59557",
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "W. Jahn Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-f256-4817-aa51-ee51e2713500"
+      },
+      "squuid": "5be1a6b8-2c7c-4b4f-87fd-50819549aed6",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hellweg Presseholding Verwaltungsgesellschaft mbH",
+        "squuid": "5f0f1699-4910-491d-9ecb-65316700d34d"
+      },
+      "squuid": "5f0f16c6-b7ed-4fc4-91cb-696f326f1ea5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5f0f16e5-1a0c-4b94-ad32-ee7e3efad0ef",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Laumanns Verwaltungs GmbH",
+        "squuid": "5be1a6b6-b890-4cb5-bcd1-8bf4073a1fd6"
+      },
+      "squuid": "5f0f1716-2165-47fd-ac1d-c724ea1bbf3a",
+      "state": "active"
+    }
+  ]
+}

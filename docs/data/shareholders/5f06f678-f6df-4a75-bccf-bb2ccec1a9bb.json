@@ -1,0 +1,41 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Straubing Tigers GmbH & Co. KG",
+        "squuid": "5d382b46-6762-4913-82a0-0d0fe24409d9"
+      },
+      "squuid": "5f06f6da-2cac-498e-b44c-787eb45b7d51",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Straubing",
+  "pseudoCompany": false,
+  "name": "Straubing Tigers Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f06f678-f6df-4a75-bccf-bb2ccec1a9bb",
+  "controlDate": "2021-03-11T17:26:49.099Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Straubing Tigers GmbH & Co. KG",
+        "squuid": "5d382b46-6762-4913-82a0-0d0fe24409d9"
+      },
+      "squuid": "5f06f7cd-e4e8-4ec6-b02a-aeea950e6c84",
+      "state": "active"
+    }
+  ]
+}

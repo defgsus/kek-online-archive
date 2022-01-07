@@ -1,0 +1,27 @@
+{
+  "name": "Streubesitz an der CBS Corp.",
+  "pseudoCompany": true,
+  "controlDate": "2019-07-26T12:08:33.142Z",
+  "squuid": "5d3aecf9-8259-4dca-abe1-56d7feaea40c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.2,
+      "held": {
+        "name": "CBS Corp.",
+        "squuid": "5d35cbc3-4352-473e-a9b6-97835377d88b"
+      },
+      "squuid": "5d3aed27-8fb0-46ce-a893-81c65133ec7b",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

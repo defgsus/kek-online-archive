@@ -1,0 +1,77 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Universitätsstraße",
+  "name": "herFunk GmbH",
+  "naturalPerson": false,
+  "squuid": "60643af2-2747-40e0-b1d5-73ffdd5f5d4c",
+  "controlDate": "2021-12-15T10:28:24.255Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04109",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "FEMOTION RADIO",
+        "squuid": "60643a2f-eda3-4a47-9a18-8f747b541dd2"
+      },
+      "squuid": "60643b2e-469c-4a27-ac0b-d5a3a75a6acc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.femotion.de",
+        "squuid": "611a25b5-10c7-476d-be51-ba09a17684b0"
+      },
+      "squuid": "611a25d6-a4ba-45d9-949f-97f507a28280",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "teutocast GmbH",
+        "squuid": "61b9c316-ae13-4190-8bf5-fe49d6e92110"
+      },
+      "squuid": "61bb3af6-2747-4c81-a593-52ddafe61dfa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "GS Beteiligungs- und Vermögensverwaltungs GmbH",
+        "squuid": "61bb3b60-f508-431e-a149-98fc19da480f"
+      },
+      "squuid": "61bb3c5f-49e0-47d3-af33-4a76d0b7d65c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Waffles Lau Industries UG",
+        "squuid": "61bb3b81-6033-4334-8d0b-9542c6d80d70"
+      },
+      "squuid": "61bb3c73-12c8-4c88-ad8b-1cdb6ea66a8e",
+      "state": "active"
+    }
+  ]
+}

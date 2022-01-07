@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Heusenstamm",
+  "pseudoCompany": false,
+  "street": "Kantstrasse",
+  "name": "GERMAN PICTURES (TM) Film & TV Produktion e.K.",
+  "naturalPerson": true,
+  "squuid": "5d078c65-65b2-4469-bbec-c7251a025cc8",
+  "controlDate": "2021-12-16T13:54:19.396Z",
+  "streetNumber": "36",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "63150",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "OF-TV",
+        "squuid": "5c6c07c4-e547-44cf-9daa-422f3585f6ed"
+      },
+      "squuid": "5d078c99-f2f2-44b7-8977-f1e1bed593da",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.of-tv.de",
+        "squuid": "5f3a90fd-1706-425d-9f01-ad3f430ad386"
+      },
+      "squuid": "5f3a913a-195b-4668-bb14-d84d96b16573",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Jaschek, Torsten",
+        "squuid": "5f3a91f1-6032-4f27-bbc0-94093038bb01"
+      },
+      "squuid": "5f3a921f-b914-46cb-9aad-a9b9e745b2ad",
+      "state": "active"
+    }
+  ]
+}

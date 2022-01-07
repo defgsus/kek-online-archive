@@ -1,0 +1,57 @@
+{
+  "state": "active",
+  "city": "Duisburg",
+  "pseudoCompany": false,
+  "street": "Jordingstraße",
+  "name": "Kanal Avrupa Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-21e2-4c16-827c-2529a242bf26",
+  "controlDate": "2021-05-03T11:29:52.715Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "47119",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kanal Avrupa",
+        "squuid": "5be1a6b1-a420-4479-a492-e67703de994d"
+      },
+      "squuid": "5be1a6b9-38b7-42b7-aebf-285fd83a0385",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kanalavrupa.tv",
+        "squuid": "5f117199-8cd1-4286-9aa7-6a72350a5ee4"
+      },
+      "squuid": "5f1171d0-1df5-45ea-bd1f-8b0a04e5e550",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 07.10.2014, Az.: KEK 787",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Akbas, Mesut",
+        "squuid": "5be1a6b6-4835-43d5-b742-2e43b66e24cb"
+      },
+      "squuid": "5be1a6b7-951c-4fb1-a4ba-56102eb83d72",
+      "state": "active"
+    }
+  ]
+}

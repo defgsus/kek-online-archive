@@ -1,0 +1,32 @@
+{
+  "name": "Streubesitz an der Allianz SE",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-1b9d-481b-8f5a-105de688234c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 88.76,
+      "held": {
+        "name": "Allianz SE",
+        "squuid": "5be1a6b6-cb16-4d1e-ba0f-87eecce1b902"
+      },
+      "squuid": "5be1a6b8-4bad-4f9f-abe0-0cf573562b72",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

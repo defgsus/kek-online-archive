@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f92b583-4e77-441b-a559-5549a4a30798",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Fantasy GmbH",
+        "squuid": "5ce6b8e4-e971-4d1d-91fc-441cf0028a58"
+      },
+      "squuid": "5f92b6b5-5b9d-4895-926b-49ed6409eafd",
+      "state": "active"
+    }
+  ],
+  "name": "www.fantasy.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-07T11:19:12.289Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

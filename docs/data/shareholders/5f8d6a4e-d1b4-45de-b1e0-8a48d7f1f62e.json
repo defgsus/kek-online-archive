@@ -1,0 +1,30 @@
+{
+  "name": "Erbengemeinschaft Marcus Bach und Martina Freifrau von Waldenfels",
+  "squuid": "5f8d6a4e-d1b4-45de-b1e0-8a48d7f1f62e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Scherdel Verwaltungs-GmbH",
+        "squuid": "5f803cae-e868-490d-ba93-cce2060d08f1"
+      },
+      "squuid": "5f8d6a95-9bae-4620-ba20-5d40fb1ba670",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active"
+}

@@ -1,0 +1,93 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Misburger Str. 119",
+  "name": "Paragon Verlagsgesellschaft mbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-393d-4485-895c-241cebf05c26",
+  "controlDate": "2021-11-09T10:30:11.080Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30625",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Reitsport-Magazin",
+        "squuid": "5be1a6b1-f66a-4581-bcd2-97e3d160678e"
+      },
+      "squuid": "5be1a6b9-b9bf-43bc-8d91-0ea0c3b4e646",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.reitsport-magazin.net",
+        "squuid": "5be1a6b1-5ba4-4934-8655-eb4f9a538fcb"
+      },
+      "squuid": "5be1a6b9-137d-4f2c-a5f9-b351ec751a94",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Duesmann, Alexandra",
+        "squuid": "5be1a6b6-e988-48a9-aeb4-3f59c4b3c4a8"
+      },
+      "squuid": "5be1a6b8-a5d1-478a-8b48-dd10767fc570",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Wanke, Andreas",
+        "squuid": "5be1a6b6-ecff-48d8-8dde-d003751c9b6b"
+      },
+      "squuid": "5be1a6b8-4586-4d8f-8f57-7f13e6314089",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Kugler, Robert-Alexander",
+        "squuid": "5be1a6b6-c07d-4f13-a31c-b227b885ad27"
+      },
+      "squuid": "5be1a6b8-c959-4681-8819-e06eceead566",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Wanke, Alexander",
+        "squuid": "5be1a6b6-006f-4e79-ba61-b9e6a92ca762"
+      },
+      "squuid": "5be1a6b8-71b9-4118-a7f8-40eaa4f1fc8b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "pen point GmbH",
+        "squuid": "5f0315d3-1d3f-4c75-9f37-2c14ae18c571"
+      },
+      "squuid": "5f0315f0-4915-43ec-b4ec-0c0d2455f203",
+      "state": "active"
+    }
+  ]
+}

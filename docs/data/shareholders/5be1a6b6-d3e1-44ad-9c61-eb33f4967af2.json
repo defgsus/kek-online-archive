@@ -1,0 +1,97 @@
+{
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Neunlindenstraße 35",
+  "name": "chilli Freiburg GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d3e1-44ad-9c61-eb33f4967af2",
+  "controlDate": "2021-12-01T16:55:52.422Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "79106",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "chilli - Das Freiburger Stadtmagazin",
+        "squuid": "5be1a6b1-2adc-486f-bad7-8366de3d3918"
+      },
+      "squuid": "5be1a6b9-a80b-4d31-bf61-ef4afe9fd722",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.chilli-freiburg.de",
+        "squuid": "5be1a6b1-892d-41f3-81fe-8497bb44a2e5"
+      },
+      "squuid": "5be1a6b9-61cd-40a6-a003-f076c61ad1a8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lust auf Regio",
+        "squuid": "5c52f13c-9731-4b65-83d1-b6b11c2a1e05"
+      },
+      "squuid": "5c52f1af-8ef4-4574-994a-60d530b810f3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "B. Zettis findefuchs",
+        "squuid": "5ccc2987-8f7b-4811-81f5-8e2dd39b82b8"
+      },
+      "squuid": "5ccc29ff-2cb2-4e3f-997d-f132dde6a195",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "bib business im Breisgau",
+        "squuid": "5ccc2f21-7cae-42ea-9026-defc317f9778"
+      },
+      "squuid": "5ccc2f7a-b6bb-476a-a6db-4465553fb2dd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "f79",
+        "squuid": "5ccc2fbd-ae93-4f1a-817b-a3d00907c28c"
+      },
+      "squuid": "5ccc3032-117c-4886-91ab-c01b291875b9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "BZ.medien GmbH & Co KG",
+        "squuid": "5be1a6b6-6f79-45c0-9070-3a78ba6dbc51"
+      },
+      "squuid": "5be1a6b8-9ae5-450a-8633-dc7b96bbc08a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Moser, Michaela",
+        "squuid": "5be1a6b6-2229-49f7-b5d8-433f44172088"
+      },
+      "squuid": "5be1a6b8-94f7-4e02-9300-5bd3d84ab2b2",
+      "state": "active"
+    }
+  ]
+}

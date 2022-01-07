@@ -1,0 +1,105 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Passauer Straße",
+  "name": "New JazzRadio GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1cd1-49f9-8ffa-5fa27102b85c",
+  "controlDate": "2021-12-10T09:46:32.573Z",
+  "streetNumber": "8 - 9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "10789",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "JazzRadio 106.8 (Berlin)",
+        "squuid": "5be1a6b1-fab6-4bbc-8b0f-af6ab26b0379"
+      },
+      "squuid": "5be1a6b9-3d97-4930-bbc3-f80a30c803fd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "JazzRadio 105,6",
+        "squuid": "5c66857f-193e-496f-a6b3-15f146811ce4"
+      },
+      "squuid": "5c6685be-6e0e-4586-bc67-df47f5f0f650",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.jazzradio.net",
+        "squuid": "5f35403c-9093-4a70-a732-ecbf894671b3"
+      },
+      "squuid": "5f354069-4caa-40fe-8b6a-5c1c5a70b0bf",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Allitt, Julian",
+        "squuid": "5be1a6b6-6c17-412d-989f-6afafbcf76cc"
+      },
+      "squuid": "5be1a6b7-df59-4107-b24e-5f4fc3ea9a33",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Abdulla, Mekki Mahmoud",
+        "squuid": "5be1a6b6-2954-46ed-a776-282067e2373e"
+      },
+      "squuid": "5be1a6b7-ef25-457f-9003-e8d7828c44bb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Wachs, Prof. Dr. Friedrich-Carl",
+        "squuid": "5be1a6b6-6484-4a90-98d3-3f8aaab0f8a5"
+      },
+      "squuid": "5be1a6b7-e3cd-45a0-8bfc-81e992d41879",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Fujairah Media FZ LLC",
+        "squuid": "5be1a6b6-6b95-4100-a1da-7e82942030f8"
+      },
+      "squuid": "5be1a6b7-b8d1-4acd-945e-096ebe619795",
+      "state": "active"
+    }
+  ]
+}

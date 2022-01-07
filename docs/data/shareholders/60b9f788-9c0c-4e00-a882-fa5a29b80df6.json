@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Sehnde",
+  "pseudoCompany": false,
+  "street": "Große Kampstr.",
+  "name": "Mediatainment Publishing Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "60b9f788-9c0c-4e00-a882-fa5a29b80df6",
+  "controlDate": "2021-12-10T12:39:36.435Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "31319",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kinoundco.de",
+        "squuid": "5c51adfc-4437-436c-b31e-095624e8a87b"
+      },
+      "squuid": "60b9f801-0325-45fc-a005-4e89a66ec8c5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Rüter, Christine",
+        "squuid": "60b9f8e1-4b40-4f97-9028-97994cf9f35c"
+      },
+      "squuid": "60b9f913-63a0-41ad-90e5-c6603c51824a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Lakomy, Sharon",
+        "squuid": "60b9f8f0-e0f9-4158-a476-4281b6eeee44"
+      },
+      "squuid": "60b9f921-5a19-420a-ada8-1951c4fe58e8",
+      "state": "active"
+    }
+  ]
+}

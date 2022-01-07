@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Balingen",
+  "pseudoCompany": false,
+  "street": "Tegernaustr.",
+  "name": "#imländle GmbH",
+  "naturalPerson": false,
+  "squuid": "5f3d1aa0-2d96-49dc-97e5-967fcf830227",
+  "controlDate": "2021-12-09T16:02:46.004Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "72336",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.imlaendle.de",
+        "squuid": "5f3bdebf-50d1-4030-9011-d4c3bf803306"
+      },
+      "squuid": "5f3d1aea-6d13-47ef-9c29-7dafac62d7d7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 36.0,
+      "holder": {
+        "name": "Nann, Petra",
+        "squuid": "5f3d1e3b-b4ca-4c04-a20d-043f7031f08d"
+      },
+      "squuid": "5f3d1e74-6e51-462f-ba5e-f28573a54bb2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 27.0,
+      "holder": {
+        "name": "Türke, Frank",
+        "squuid": "5f3d1e46-eeff-4736-b26e-06bbb3df8b59"
+      },
+      "squuid": "5f3d1e90-1b10-4286-bb8a-8c255556624f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 27.0,
+      "holder": {
+        "name": "Setzer, Ralph",
+        "squuid": "5f3d1e54-1426-4274-b24e-0d1b5b902887"
+      },
+      "squuid": "5f3d1e9b-891c-4ffa-a129-de81aae14678",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Druck- und Verlagshaus Hermann Daniel GmbH & Co KG Betriebsgesellschaft",
+        "squuid": "5be1a6b6-3fe1-4a5e-978d-c5d57e719297"
+      },
+      "squuid": "5f3d1eb5-6278-4b1a-b6df-f7d06547b895",
+      "state": "active"
+    }
+  ]
+}

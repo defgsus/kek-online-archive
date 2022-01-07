@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Rheine",
+  "pseudoCompany": true,
+  "squuid": "5f1045b0-3aee-4c67-88b0-25953fa04376",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Stadtwerke Rheine GmbH",
+        "squuid": "5be1a6b6-047e-46b8-95c8-66ae3db08147"
+      },
+      "squuid": "5f1045d8-9a4b-4b5c-aa52-ae60abf80333",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

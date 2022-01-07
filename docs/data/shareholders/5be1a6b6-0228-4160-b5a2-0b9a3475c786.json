@@ -1,0 +1,99 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "c/o Kulturzentrum LOLA, Lohbrügger Landstraße ",
+  "name": "Anbietergemeinschaft Hamburger Lokalradio e.V.",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-0228-4160-b5a2-0b9a3475c786",
+  "controlDate": "2021-12-09T12:51:48.757Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "21031",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hamburger Lokalradio",
+        "squuid": "5be1a6b1-d89b-4bda-b9c6-b35bbb9cbd32"
+      },
+      "squuid": "5be1a6b9-8a51-4f85-87b1-2dcabbad08a2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hamburger-lokalradio.net",
+        "squuid": "5f1aa6c7-f54a-4774-87ed-a1b4f752e290"
+      },
+      "squuid": "5f1aa6f2-a68b-49df-81db-cab4e3840c91",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kulturradio e.V.",
+        "squuid": "5be1a6b6-82b0-4119-b0e3-99fbf121b79a"
+      },
+      "squuid": "5be1a6b7-2350-416b-82f2-d625152b7da0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Swinging Hamburg e.V.",
+        "squuid": "5be1a6b6-fe71-4119-b1e8-34fa9db6dde6"
+      },
+      "squuid": "5be1a6b7-e123-41fc-9e91-f734217a6b5d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Stiftung Sammlung Rolf Italiaander/Hans Spegg-Museum Rade",
+        "squuid": "5be1a6b6-4012-49f4-a473-8d40c9d4a694"
+      },
+      "squuid": "5be1a6b7-5834-4417-8cc1-9d00dbc45d12",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Kommunales Radio e.V.",
+        "squuid": "5be1a6b6-c8f2-4a6b-acb1-0c8131596c71"
+      },
+      "squuid": "5be1a6b7-ab4f-4994-a7ad-c293ea311b71",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Lola e.V.",
+        "squuid": "5be1a6b6-dacf-4338-a81c-25ce71c9df01"
+      },
+      "squuid": "5be1a6b7-e3ca-465c-9b51-d9cc73db7d2d",
+      "state": "active"
+    }
+  ]
+}

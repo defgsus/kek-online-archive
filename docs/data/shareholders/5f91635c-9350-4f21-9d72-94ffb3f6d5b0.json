@@ -1,0 +1,32 @@
+{
+  "name": "Freistaat Bayern (Fiskus)",
+  "pseudoCompany": true,
+  "squuid": "5f91635c-9350-4f21-9d72-94ffb3f6d5b0",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Lora Programm- Anbieter Gesellschaft mbH",
+        "squuid": "5be1a6b6-9b97-49b5-8284-cc7be59405de"
+      },
+      "squuid": "6091144c-1e69-45b0-907c-746b25173040",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,58 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.85,
+      "held": {
+        "name": "Allianz SE",
+        "squuid": "5be1a6b6-cb16-4d1e-ba0f-87eecce1b902"
+      },
+      "squuid": "5ef5cd0b-5253-4c6c-88db-0dac399afdb1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.92,
+      "held": {
+        "name": "Ströer SE & Co KG aA",
+        "squuid": "5be1a6b6-597a-4f10-8361-53f199954657"
+      },
+      "squuid": "61a90067-e047-47ec-91d6-1c87ca8bdb5e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Frankfurt am Main",
+  "pseudoCompany": false,
+  "street": "Mainzer Landstr.",
+  "name": "DWS Investment GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c474-4fe8-87d9-642d012c049e",
+  "controlDate": "2021-12-07T11:40:11.595Z",
+  "streetNumber": "178-190",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60327",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DWS Beteiligungs GmbH",
+        "squuid": "5efaedaf-47bf-4056-a1ef-77a33e63fff0"
+      },
+      "squuid": "5efaedcf-1dc0-498a-a969-9fc9af0fcc39",
+      "state": "active"
+    }
+  ]
+}

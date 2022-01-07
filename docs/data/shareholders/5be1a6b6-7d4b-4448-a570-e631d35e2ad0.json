@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Laichingen",
+  "pseudoCompany": false,
+  "name": "Schwäbische Zeitung Laichingen GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-7d4b-4448-a570-e631d35e2ad0",
+  "controlDate": "2021-11-11T15:09:44.163Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "89150",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwäbische Zeitung (Ausgabe Laichingen)",
+        "squuid": "5be1a6b1-b80d-4d8b-8a9a-11a1efc22e4e"
+      },
+      "squuid": "5be1a6b9-4233-425e-84fa-56b041b23469",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-6f32-4d6a-a746-d2341d46e3b3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbische Zeitung Laichingen Verwaltungs-GmbH",
+        "squuid": "5ee9c65d-108a-4c30-b422-bbc411ce5f4f"
+      },
+      "squuid": "5ee9c683-7961-4853-af97-a47034edf85c",
+      "state": "active"
+    }
+  ]
+}

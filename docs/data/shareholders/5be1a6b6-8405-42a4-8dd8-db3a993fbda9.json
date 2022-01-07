@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Mörikestr. 67",
+  "name": "Family Home Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8405-42a4-8dd8-db3a993fbda9",
+  "controlDate": "2021-10-15T09:02:02.318Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70199",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Family Home",
+        "squuid": "5be1a6b1-bb3d-4b23-aec1-68fa9c3fff41"
+      },
+      "squuid": "5be1a6b9-8f8b-4efe-a4d7-947fd5734abe",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hurra-wir-bauen.de",
+        "squuid": "5be1a6b1-72a1-437c-aae0-51986e648e6a"
+      },
+      "squuid": "5be1a6b9-a29b-47bb-8d1a-bb677cfc2afb",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ferrari, Bettina",
+        "squuid": "5be1a6b6-38f5-4886-a488-650ab1decfb2"
+      },
+      "squuid": "5be1a6b8-08c1-4e98-9d25-78a9260ee54a",
+      "state": "active"
+    }
+  ]
+}

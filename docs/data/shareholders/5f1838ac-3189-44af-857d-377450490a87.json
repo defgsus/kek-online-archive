@@ -1,0 +1,26 @@
+{
+  "name": "Landkreis Emsland",
+  "pseudoCompany": false,
+  "squuid": "5f1838ac-3189-44af-857d-377450490a87",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Emsland GmbH",
+        "squuid": "5f183709-5091-4549-859e-754174a1af4e"
+      },
+      "squuid": "5f1838d3-9059-44b7-af4b-bc50b7943462",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

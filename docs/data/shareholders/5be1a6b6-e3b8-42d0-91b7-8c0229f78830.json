@@ -1,0 +1,70 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Potsdamer Straße",
+  "name": "Power Radio GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e3b8-42d0-91b7-8c0229f78830",
+  "controlDate": "2021-12-17T09:47:14.145Z",
+  "streetNumber": "131",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10783",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Power Radio",
+        "squuid": "5be1a6b1-fb4c-4bee-b611-079d1e3529ee"
+      },
+      "squuid": "5be1a6b9-397c-4163-874c-97a972441a13",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.power-radio.de",
+        "squuid": "5f33f032-8ea3-49c0-96fc-5218350430f1"
+      },
+      "squuid": "5f33f058-952f-401b-bb13-93e3144bfe8c",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Dibelius, Andrea",
+        "squuid": "5be1a6b6-84e3-4c7c-a672-3cad01ebb000"
+      },
+      "squuid": "5be1a6b7-3289-4d30-912c-38c9883d72a0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Thimme-Schmidt GbR",
+        "squuid": "5be1a6b6-8dde-4c06-b3b9-aab28b13e701"
+      },
+      "squuid": "5be1a6b7-5505-4501-8d5e-3020f6bd85b0",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Linienstraße",
+  "name": "Sozialverband VdK Deutschland e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ca48-4fd3-9489-5da62d90180e",
+  "controlDate": "2020-06-17T13:02:17.994Z",
+  "streetNumber": "131",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10115",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "VdK-Zeitung",
+        "squuid": "5be1a6b1-d5da-4479-b461-41ab690b6b05"
+      },
+      "squuid": "5be1a6b9-e17e-4b59-9ad7-6ae649da3f46",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

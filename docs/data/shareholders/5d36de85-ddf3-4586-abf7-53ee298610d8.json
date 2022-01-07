@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Bremen",
+  "pseudoCompany": false,
+  "street": "Faulenstraße",
+  "name": "WFB Wirtschaftsförderung Bremen GmbH/Abteilung bremen.online",
+  "naturalPerson": false,
+  "squuid": "5d36de85-ddf3-4586-abf7-53ee298610d8",
+  "controlDate": "2021-12-01T13:34:10.632Z",
+  "streetNumber": "67",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "28195",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bremen.de",
+        "squuid": "5d36de5a-6662-4831-9154-9f7698fa037d"
+      },
+      "squuid": "5d36dec4-e694-4357-9a39-84b93156aa5d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 92.27,
+      "holder": {
+        "name": "Freie Hansestadt Bremen (Land) ",
+        "squuid": "5d36e101-e649-4395-8d40-ef2bc7570526"
+      },
+      "squuid": "5d36e12a-172c-48cc-a6af-8856880ff646",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.95,
+      "holder": {
+        "name": "Stadtgemeinde Bremen",
+        "squuid": "5d36e0e6-7c8c-47f3-9cd9-081319a0c826"
+      },
+      "squuid": "5d36e141-bfd9-41c9-84b0-7cf9fd9ba327",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.78,
+      "holder": {
+        "name": "Stadt Bremerhaven",
+        "squuid": "5d36e0d1-95c2-4284-a3f1-1b85988827d1"
+      },
+      "squuid": "5d36e154-c8a1-493b-a386-df71d4ad7736",
+      "state": "active"
+    }
+  ]
+}

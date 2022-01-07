@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Hammerbrookstraße 93",
+  "name": "Impulse Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9531-49d4-ac7d-3c53b786933e",
+  "controlDate": "2021-10-25T13:51:10.733Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20097",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "impulse",
+        "squuid": "5be1a6b1-b7d4-4108-a3aa-87934ff6c767"
+      },
+      "squuid": "5be1a6b9-cf0b-4fc2-a228-48ccbd96f2e1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.impulse.de",
+        "squuid": "5be1a6b1-8e1f-4a42-9974-de185c2a9dd6"
+      },
+      "squuid": "5be1a6b9-e4e8-4d39-9478-506b61889779",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Förster, Nikolaus",
+        "squuid": "5be1a6b6-15dc-4f70-8ab3-7952894afd05"
+      },
+      "squuid": "5be1a6b8-c6b4-4f2b-90b6-5406a2deb2a9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Möhrle, Christian",
+        "squuid": "5be1a6b6-3847-487d-82e2-9bfad0a7da52"
+      },
+      "squuid": "5be1a6b8-4db9-4ba1-a481-66461fe47038",
+      "state": "active"
+    }
+  ]
+}

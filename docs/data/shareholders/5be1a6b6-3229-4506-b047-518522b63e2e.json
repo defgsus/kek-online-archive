@@ -1,0 +1,32 @@
+{
+  "name": "Haubrich, Hartmut",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-3229-4506-b047-518522b63e2e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.67,
+      "held": {
+        "name": "Haubrich Zentrale GmbH & Co. KG",
+        "squuid": "5be1a6b6-6cea-49b4-9681-3a7e8586569e"
+      },
+      "squuid": "5be1a6b8-e8a8-462a-8d37-d60b837cf4ed",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

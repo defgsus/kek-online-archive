@@ -1,0 +1,83 @@
+{
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "Dorotheenstraße 26a",
+  "name": "Heimspiel Medien GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-e8d7-496a-9478-2af67aa65220",
+  "controlDate": "2022-01-05T16:57:23.468Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "48145",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.weltfussball.de",
+        "squuid": "5be1a6b1-e16a-48d4-a763-bce1d320e1fc"
+      },
+      "squuid": "5be1a6b9-8419-4ac5-8930-2042363b153a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sport.de",
+        "squuid": "5be1a6b1-d75a-4423-a396-5e2537b83fd4"
+      },
+      "squuid": "5be1a6b9-9d1a-4392-ad0b-95313ec1dc5f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Dertmann, Jens",
+        "squuid": "5be1a6b6-15b7-4b29-938a-141fe0209ee7"
+      },
+      "squuid": "5be1a6b8-2a98-42ab-815b-505f2b3d945e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Hoelzel, Philip",
+        "squuid": "5be1a6b6-63ef-499b-b897-eaf1ed9ce063"
+      },
+      "squuid": "5be1a6b8-c892-4edd-b38b-9601701d8c8a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Klimenta, Saban",
+        "squuid": "5be1a6b6-3e74-4c94-ab85-e7b57d3ca31e"
+      },
+      "squuid": "5be1a6b8-3930-4dbf-aa2c-29523e1e72e9",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "MD Verwaltungs- und Beteiligungsgesellschaft mbH",
+        "squuid": "5f045b56-1eac-4b03-b927-526080ebfaac"
+      },
+      "squuid": "5f045b74-e0f9-43ba-b164-9178640da3fe",
+      "state": "active"
+    }
+  ]
+}

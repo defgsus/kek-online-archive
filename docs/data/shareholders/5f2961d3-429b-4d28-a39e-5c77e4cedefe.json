@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "REGOLD GmbH & Co. KG",
+        "squuid": "5be1a6b6-4151-41d1-929f-42d596caad4f"
+      },
+      "squuid": "5f2961f3-2a4a-43c0-b013-cc0707ba9810",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Thomasgasse",
+  "name": "REGOLD Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f2961d3-429b-4d28-a39e-5c77e4cedefe",
+  "controlDate": "2021-12-13T13:20:52.386Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "04109",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "REGOLD GmbH & Co. KG",
+        "squuid": "5be1a6b6-4151-41d1-929f-42d596caad4f"
+      },
+      "squuid": "5fa2ce75-1dcd-4cd0-8fdd-ee2abc0b1480",
+      "state": "active"
+    }
+  ]
+}

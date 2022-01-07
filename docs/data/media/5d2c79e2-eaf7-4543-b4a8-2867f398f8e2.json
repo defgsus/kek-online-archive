@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5d2c79e2-eaf7-4543-b4a8-2867f398f8e2",
+  "marketReach": 0.45200884409727937,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Techniker Krankenkasse (K.d.ö.R.)",
+        "squuid": "5d2c79f7-6a0f-4d97-a636-2e1baf2ce2f0"
+      },
+      "squuid": "5d2c7a15-37e1-40ff-b5a1-bb2f1307d8cb",
+      "state": "active"
+    }
+  ],
+  "name": "www.tk.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-06T16:05:30.536Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

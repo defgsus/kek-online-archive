@@ -1,0 +1,66 @@
+{
+  "rfRepresentative": "André Bräutigam",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "2019",
+  "rfFreePay": true,
+  "squuid": "5d0b75ac-63b0-45a2-875b-30125fd598c8",
+  "organization": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "accessibilityUrl": "https://www.radio-oberlausitz-international.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bräutigam, André",
+        "squuid": "5d0b7584-312c-4d21-88f4-3eb1e80c9a5c"
+      },
+      "squuid": "5d0b76a8-e096-43f0-9758-0fcaf9406dd8",
+      "state": "active"
+    }
+  ],
+  "name": "Radio Oberlausitz International",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-063c-4208-94e1-5216fef7a724",
+    "name": "Vollprogramm",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "description": "- ausschließliche Verbreitung über Internet, Livestream über URL: www.youtube.com/channel/UCE0IDDMZv5cmYS-AlN-C1Ow\n- lokales Fernsehinformationsprogramm mit dem Schwerpunkt lokaler Berichterstattung aus der Region Oberlausitz",
+  "rfLicenseUntil": "31.05.2029",
+  "rfLicensed": "14.06.2019",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.06.2019",
+  "accessibilityEmail": "post@radio-oberlausitz.com"
+}

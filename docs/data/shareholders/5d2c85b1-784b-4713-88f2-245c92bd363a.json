@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "London (GB)",
+  "pseudoCompany": false,
+  "name": "Guardian News & Media Ltd.",
+  "naturalPerson": false,
+  "squuid": "5d2c85b1-784b-4713-88f2-245c92bd363a",
+  "controlDate": "2022-01-06T15:58:46.073Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.theguardian.com",
+        "squuid": "5d2c8591-56ce-4cff-970d-0e617df63ce4"
+      },
+      "squuid": "5d2c85f2-c85f-4371-a794-fb61dff58122",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Scott Trust Ltd. (Stiftung)",
+        "squuid": "5d2c85cf-15c2-4dd4-ab96-831b1e2ee7ae"
+      },
+      "squuid": "5d2c866c-8c0a-449b-ab1e-cfbe0891bedf",
+      "state": "active"
+    }
+  ]
+}

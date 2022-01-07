@@ -1,0 +1,33 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Alte Jakobstr.",
+  "name": "Berliner Newsroom GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3a96-4515-bc7a-d480600d9517",
+  "controlDate": "2020-05-12T10:36:36.559Z",
+  "streetNumber": "105",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "10969",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Newsroom Holding GmbH & Co KG",
+        "squuid": "5be1a6b6-dea3-41e0-846f-2f8029ee5d79"
+      },
+      "squuid": "5be1a6b8-9625-4d84-b698-1386ff9f8977",
+      "state": "active"
+    }
+  ]
+}

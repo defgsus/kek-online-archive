@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Speersort 1",
+  "name": "Zeit Online GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-547b-49b7-8252-0c93219905df",
+  "controlDate": "2021-10-04T13:21:09.998Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20095",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.zeit.de",
+        "squuid": "5be1a6b1-f69f-487a-a35f-7650b87c5eb2"
+      },
+      "squuid": "5be1a6b9-25d7-4179-902e-d758e29b8fc7",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zeitverlag Gerd Bucerius GmbH & Co KG",
+        "squuid": "5be1a6b6-dd6a-41c7-81ed-4225dceddcfb"
+      },
+      "squuid": "5be1a6b8-2490-4510-96da-66883f4f3eb9",
+      "state": "active"
+    }
+  ]
+}

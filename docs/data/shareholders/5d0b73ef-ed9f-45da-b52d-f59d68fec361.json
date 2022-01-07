@@ -1,0 +1,77 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Bernhard-Göring-Straße",
+  "name": "Mitteldeutsche Online Medien Ltd.",
+  "naturalPerson": false,
+  "squuid": "5d0b73ef-ed9f-45da-b52d-f59d68fec361",
+  "controlDate": "2021-12-13T13:10:55.656Z",
+  "streetNumber": "152",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04277",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Leipziger Internet Zeitung - www.l-iz.de",
+        "squuid": "5d0b72bb-109c-410f-b199-6019707abcf4"
+      },
+      "squuid": "5d0b741a-93de-4b9a-b75f-181d0f83017e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.l-iz.de",
+        "squuid": "5f7da5c1-406a-48b6-a09e-2dcaa2d4e857"
+      },
+      "squuid": "5f7da67a-1a55-483c-b284-b586310a437b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Julke, Ralf",
+        "squuid": "5e4f975e-28fa-4871-a6ae-18710aa75a99"
+      },
+      "squuid": "5e4f9789-98df-460c-b0a7-6390f12eaad2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Kulow, Patrick",
+        "squuid": "5e4f976c-4c0b-44df-a1ce-b97805957d5d"
+      },
+      "squuid": "5e4f9793-3db4-4dda-b2a4-30fbd2454992",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Dobschütz, Robert",
+        "squuid": "5e4f977a-f2cf-44cf-8948-966dcfa5af3f"
+      },
+      "squuid": "5e4f979d-86e6-479f-aeb4-d02f21278621",
+      "state": "active"
+    }
+  ]
+}

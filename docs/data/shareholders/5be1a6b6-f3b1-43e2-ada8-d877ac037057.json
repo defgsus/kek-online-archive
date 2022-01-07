@@ -1,0 +1,148 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "note": "",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Markgrafenstraße",
+  "name": "METROPOL FM GmbH",
+  "naturalPerson": false,
+  "limitedPartnership": false,
+  "squuid": "5be1a6b6-f3b1-43e2-ada8-d877ac037057",
+  "controlDate": "2021-12-13T17:16:29.446Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+      "name": "brema",
+      "type": "organization",
+      "fullName": "Bremische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "10969",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "METROPOL FM (Bremen)",
+        "squuid": "5be1a6b1-cddd-4a06-9463-b835b5ce52f0"
+      },
+      "squuid": "5be1a6b9-cb59-4547-bb4f-3f8673c908c7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "METROPOL FM (Berlin)",
+        "squuid": "5be1a6b1-4d3c-45ab-bac1-f1164b48c30d"
+      },
+      "squuid": "5be1a6b9-7dee-448a-b4f2-ea11a9313aca",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radyo Metropol FM - Rhein Neckar",
+        "squuid": "5c73d142-da8c-414d-b4b5-2c0b7f8981fb"
+      },
+      "squuid": "5c73d21f-435c-49f2-9546-53c02eb7f468",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radyo Metropol - Koblenz",
+        "squuid": "5c73d235-8a4b-4101-8103-d0af3dbbe292"
+      },
+      "squuid": "5c73d2ae-4c2b-4667-8c16-f2223d9efd8f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radyo Metropol - Rhein Main",
+        "squuid": "5c73d2d5-5ade-40f3-a0ae-49fb9d0308a0"
+      },
+      "squuid": "5c73d352-4b4f-4151-97dd-c3694bba6f24",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "METROPOL FM (bundesweit)",
+        "squuid": "5d47fae9-2413-4363-b9e7-d1c75325cb9a"
+      },
+      "squuid": "5d47fc28-fcdf-400b-b7d1-8c7af545a2aa",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "METROPOL FM ",
+        "squuid": "5e5e0f9b-9822-48fc-9f54-fb54a0c6d09c"
+      },
+      "squuid": "5e5e1003-9644-4325-a105-ec8537b99025",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.metropolfm.de",
+        "squuid": "5f1ec2c0-6ed0-4cbf-ab46-b244426d1977"
+      },
+      "squuid": "5f1ec2ea-e7bc-499b-85b2-b482197f5238",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "METROPOL FM (Hessen)",
+        "squuid": "5f2be88e-3164-40f6-ace4-91698958095e"
+      },
+      "squuid": "5f2be9ae-8893-46c9-ba45-ae23b61b91b3",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "MOIRA Rundfunk GmbH",
+        "squuid": "5be1a6b6-cb90-4250-ad44-4516a6493f9a"
+      },
+      "squuid": "5be1a6b7-b1da-4e16-81bc-83fe78bbf58c",
+      "state": "active"
+    }
+  ]
+}

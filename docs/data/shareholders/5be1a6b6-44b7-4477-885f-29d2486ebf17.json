@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Beckum",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-44b7-4477-885f-29d2486ebf17",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.29,
+      "held": {
+        "name": "Radio Warendorf Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-d275-4aa8-9d53-91baa912ca07"
+      },
+      "squuid": "5be1a6b8-ee93-45ba-be3e-215f15ed41e5",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

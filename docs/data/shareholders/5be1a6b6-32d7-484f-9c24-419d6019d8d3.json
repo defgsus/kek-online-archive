@@ -1,0 +1,33 @@
+{
+  "state": "active",
+  "city": "Eggenfelden",
+  "pseudoCompany": false,
+  "street": "Rathausplatz",
+  "name": "Rottaler-Presse-GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-32d7-484f-9c24-419d6019d8d3",
+  "controlDate": "2020-01-07T15:25:43.013Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "84307",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Passauer Neue Presse GmbH",
+        "squuid": "5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
+      },
+      "squuid": "5be1a6b8-293a-4d2b-8a93-5bb2d9d25267",
+      "state": "active"
+    }
+  ]
+}

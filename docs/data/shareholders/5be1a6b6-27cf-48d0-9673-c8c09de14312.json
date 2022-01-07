@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Adlerstraße",
+  "name": "Radio Dreyeckland Betriebsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-27cf-48d0-9673-c8c09de14312",
+  "controlDate": "2022-01-03T13:25:37.264Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "79098",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Dreyeckland",
+        "squuid": "5be1a6b1-9a6d-428c-8676-bfc2007ee5df"
+      },
+      "squuid": "5be1a6b9-5a03-43ee-ac10-9bcca18cfa1d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rdl.de",
+        "squuid": "5f92a25c-4540-4772-9cb6-a7654973a0c9"
+      },
+      "squuid": "5f92a2ad-779d-4fc7-85df-744945140e4f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.0,
+      "holder": {
+        "name": "Freundeskreis Radio Dreyeckland e.V.",
+        "squuid": "5f92adf0-56e6-4afb-afaf-5e76e845d131"
+      },
+      "squuid": "5f92ae81-27c6-4cdc-a248-a8de3124d7f8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Freunde eines Freien Gesellschaftsfunks im Dreyeckland e.V.",
+        "squuid": "5f92ae23-0f72-4dc9-b42a-8da5ad125ebc"
+      },
+      "squuid": "5f92ae8d-83a1-48c4-b6c3-17d28d4ea7e4",
+      "state": "active"
+    }
+  ]
+}

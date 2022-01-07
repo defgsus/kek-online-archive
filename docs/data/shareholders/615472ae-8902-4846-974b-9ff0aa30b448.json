@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Sommerfelder Weg",
+  "name": "FPM Sportmanagement UG (haftungsbeschränkt)",
+  "naturalPerson": false,
+  "squuid": "615472ae-8902-4846-974b-9ff0aa30b448",
+  "controlDate": "2021-09-29T14:06:29.503Z",
+  "streetNumber": "110",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "04329",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fupa.net/region/sachsen",
+        "squuid": "61547296-066d-4fce-8855-110ea053c72e"
+      },
+      "squuid": "615472cc-a77a-44a3-b73d-b1ead9e19980",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Herzberg, Holger",
+        "squuid": "61547352-9f8e-4d26-ab9c-d54476805381"
+      },
+      "squuid": "61547366-b34b-43f8-959c-2b79911939bd",
+      "state": "active"
+    }
+  ]
+}

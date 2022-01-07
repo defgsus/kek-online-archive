@@ -1,0 +1,91 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.6,
+      "held": {
+        "name": "Pressefunk Nordrhein-Westfalen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8c11-4526-af08-275ec93dea8b"
+      },
+      "squuid": "5be1a6b7-539e-4389-adf8-63b80ccc156d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Iserlohn ",
+  "pseudoCompany": false,
+  "street": "Theodor-Heuss-Ring 4-6",
+  "name": "ZEITUNGSVERLAG ISERLOHN Iserlohner Kreisanzeiger und Zeitung (IKZ) Wichelhoven Verlags-GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-333d-4e0c-b3e0-b4ef242a0663",
+  "controlDate": "2021-10-25T14:04:51.874Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "58636",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Iserlohner Kreisanzeiger und Zeitung",
+        "squuid": "5be1a6b1-bff8-4d08-a6c5-4b1c0d0754b4"
+      },
+      "squuid": "5be1a6b9-d81a-4480-9a4b-b0327246d7da",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ikz-online.de",
+        "squuid": "5be1a6b1-94bd-4cb8-adf4-1c077d2fdb7b"
+      },
+      "squuid": "5be1a6b9-34b6-4bc0-a522-9da68ddafa50",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 24.8,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5be1a6b8-7ecc-4347-b53d-56b6ad294509",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.2,
+      "holder": {
+        "name": "MFS-Holding GmbH",
+        "squuid": "5be1a6b6-9b6b-4afc-a511-ecba36539dc2"
+      },
+      "squuid": "5be1a6b8-1f53-470c-96c0-c6e30f9ef9a5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Wichelhoven Verwaltungsgesellschaft mbH",
+        "squuid": "5ecfbabe-2bb0-4e3d-bdb0-ca54ad30af05"
+      },
+      "squuid": "5ecfbaf2-d84e-4547-8923-500be546b0e0",
+      "state": "active"
+    }
+  ]
+}

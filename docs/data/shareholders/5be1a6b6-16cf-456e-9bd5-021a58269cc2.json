@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Sindelfingen",
+  "pseudoCompany": false,
+  "street": "Böblinger Str. 68",
+  "name": "Sportverlag Schmidt & Dreisilker GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-16cf-456e-9bd5-021a58269cc2",
+  "controlDate": "2021-10-04T10:01:32.327Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "71065",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "DHZ Deutsche Hockey Zeitung",
+        "squuid": "5be1a6b1-f2d9-4b6e-815a-44bdb1060d59"
+      },
+      "squuid": "5be1a6b9-579b-4ce5-a91f-090bc95c2e42",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hockey-zeitung.de",
+        "squuid": "5be1a6b1-ab84-4024-b706-74daa46042d5"
+      },
+      "squuid": "5be1a6b9-560b-4f87-a7db-c853837ee88b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "rudersport",
+        "squuid": "615ad0aa-0a1f-463d-b1f1-a9ba6a59f90f"
+      },
+      "squuid": "615ad0da-c6f4-4271-a733-78cde5a84e20",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Röhm GmbH & Co. KG",
+        "squuid": "5be1a6b6-97c7-494a-8421-72685c45853e"
+      },
+      "squuid": "5be1a6b8-e11a-4b56-9b5b-dd27047b5d29",
+      "state": "active"
+    }
+  ]
+}

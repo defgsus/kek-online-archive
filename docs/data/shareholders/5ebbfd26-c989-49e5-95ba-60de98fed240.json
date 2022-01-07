@@ -1,0 +1,67 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Heise Beteiligung GmbH & Co. KG",
+        "squuid": "5be1a6b6-72b5-4b80-90aa-d86a471f3a3e"
+      },
+      "squuid": "5ebbfd3d-1640-400f-ad75-993ec242219c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Karl-Wiechert-Allee",
+  "name": "Heise Beteiligung Geschäftsführungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5ebbfd26-c989-49e5-95ba-60de98fed240",
+  "controlDate": "2021-10-25T14:13:18.215Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "30625",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heise Beteiligung GmbH & Co. KG",
+        "squuid": "5be1a6b6-72b5-4b80-90aa-d86a471f3a3e"
+      },
+      "squuid": "5f0c2aac-3856-4463-bafb-eab6193d9710",
+      "state": "active"
+    }
+  ]
+}

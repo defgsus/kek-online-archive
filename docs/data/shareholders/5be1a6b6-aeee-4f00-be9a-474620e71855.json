@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Lindau",
+  "pseudoCompany": false,
+  "name": "Schwäbische Zeitung Lindau GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-aeee-4f00-be9a-474620e71855",
+  "controlDate": "2021-10-28T09:45:06.518Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "88131",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lindauer Zeitung",
+        "squuid": "5be1a6b1-5eae-428e-8b2f-28dcc8c3a504"
+      },
+      "squuid": "5be1a6b9-6f95-44d3-8599-ab16f1064f51",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-4a76-4c50-bcc0-7a18fc3a03b7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbische Zeitung Lindau Verwaltungs-GmbH",
+        "squuid": "5eda2e2a-8a1f-48a6-8fad-48eeba34771a"
+      },
+      "squuid": "5eda2e51-5f4d-43b1-a7f2-f31e1e85b0e2",
+      "state": "active"
+    }
+  ]
+}

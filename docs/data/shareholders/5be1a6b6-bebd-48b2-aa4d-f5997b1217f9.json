@@ -1,0 +1,74 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Curt-Frenzel-Straße",
+  "name": "HITRADIO RT1 Augsburg GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-bebd-48b2-aa4d-f5997b1217f9",
+  "controlDate": "2022-01-04T10:58:33.956Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86167",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio KÖ",
+        "squuid": "5be1a6b1-cb37-4570-b4f3-bc72ea6af779"
+      },
+      "squuid": "5be1a6b9-e90e-4694-92fa-73c93dc4a3ae",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "hitradio rt1 Augsburg",
+        "squuid": "5be1a6b1-bc43-4af3-a92e-314debd2ecff"
+      },
+      "squuid": "5be1a6b9-120e-4f2b-a6ef-05c3415b4a73",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.imsueden.de/hitradio-rt1",
+        "squuid": "5f905785-551f-4678-b441-1e68907888e7"
+      },
+      "squuid": "5f9057cd-0990-4cb5-b54b-2d675701b9da",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5be1a6b7-a527-45e1-84c0-99d8d437b289",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "rfRepresentative": "Charles Smethurst",
+  "state": "active",
+  "rfShoppingChannel": true,
+  "rfStartDate": "13.08.2013",
+  "rfFreePay": true,
+  "squuid": "5be1a6b1-5c52-40a3-865d-4b2f9b774948",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "ML-TV Conzept GmbH",
+        "squuid": "5be1a6b6-7018-47fa-8036-dbd5c9c2a280"
+      },
+      "squuid": "5be1a6b9-9990-483f-88d1-3f186a430090",
+      "state": "active"
+    }
+  ],
+  "name": "MyManou",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-6b1a-4de6-924f-727ccb20e81b",
+    "name": "Teleshopping",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Teleshoppingangebot für die Kernzielgruppe Frauen. Präsentiert werden u. a. Kleidung und Accessoires aus der eigenen Modemarke.",
+  "rfLicenseUntil": "15.08.2021",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "09.08.2013",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-a0a1-4251-9c3a-feb4abfd58cc",
+      "name": "NetCologne",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-4f77-4a73-90db-f4170510c758",
+      "name": "Media Broadcast GmbH / freenet TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-4dbe-45ef-ab98-fcd1599e57f0",
+        "name": "Terrestrik",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ]
+}

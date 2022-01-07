@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Speersort",
+  "name": "THMMS MidCo GmbH",
+  "naturalPerson": false,
+  "squuid": "5c51cf21-f371-4b98-b002-c9670bc78efe",
+  "controlDate": "2020-06-22T10:28:51.971Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "20095",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "THMMS Holding GmbH",
+        "squuid": "5c51d038-49f5-45b9-89e1-29d8cd4262ae"
+      },
+      "squuid": "5c51d052-e385-4f97-bcc2-a2ccd3df9c18",
+      "state": "active"
+    }
+  ]
+}

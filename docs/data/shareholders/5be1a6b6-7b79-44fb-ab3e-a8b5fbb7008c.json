@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Wilhelm-Mauser-Str",
+  "name": "HiFi.de GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7b79-44fb-ab3e-a8b5fbb7008c",
+  "controlDate": "2021-12-09T14:51:37.602Z",
+  "streetNumber": "14-16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50827",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hifi.de",
+        "squuid": "5be1a6b1-030c-4bc3-8c1a-aa973bbe0824"
+      },
+      "squuid": "5be1a6b9-eb2a-4585-a9a1-1aab916d7c41",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Korthaus, Andreas",
+        "squuid": "5be1a6b6-8111-4c2d-8bea-a754f26091fe"
+      },
+      "squuid": "5be1a6b8-7347-4327-8a3c-7a875d3b1a5a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "AK Verwaltungsgesellschaft mbH",
+        "squuid": "5be1a6b6-c043-460b-ac24-930202a44bc7"
+      },
+      "squuid": "5be1a6b8-5b94-4d04-800e-6ded4ce4027e",
+      "state": "active"
+    }
+  ]
+}

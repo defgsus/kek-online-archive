@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Prinzenstr.",
+  "name": "Einbock GmbH",
+  "naturalPerson": false,
+  "squuid": "5d318d6b-b29a-4118-b8eb-f43d90262544",
+  "controlDate": "2021-12-10T10:36:32.587Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30159",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.juraforum.de",
+        "squuid": "5d318d78-1a33-4a93-be72-2706b590cf4d"
+      },
+      "squuid": "5d318d93-8564-4276-8f24-2d55e015aa66",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Einbock, Sebastian",
+        "squuid": "5d318e0f-b1b1-40d9-8391-28440023f41e"
+      },
+      "squuid": "5d318e33-350f-4661-8607-57259374ea4a",
+      "state": "active"
+    }
+  ]
+}

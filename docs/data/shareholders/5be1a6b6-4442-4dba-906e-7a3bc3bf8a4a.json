@@ -1,0 +1,103 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lokalradio Münster Betriebsgesellschaft mbH",
+        "squuid": "5eeb7483-36ec-4dc1-9e46-dbfa01a986fc"
+      },
+      "squuid": "5ef1c5af-4389-405d-8568-844426447d90",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Münster",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Nevinghoff",
+  "name": "Lokalradio Münster Betriebsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4442-4dba-906e-7a3bc3bf8a4a",
+  "controlDate": "2021-11-24T17:33:53.566Z",
+  "streetNumber": "14/16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "48147",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Antenne Münster",
+        "squuid": "5be1a6b1-68a1-44dd-b52d-2dec66b16a7a"
+      },
+      "squuid": "5be1a6b9-6bc7-4af4-8d5a-bc7898e67646",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.antennemuenster.de",
+        "squuid": "5eeb74f0-7302-4d6c-b01a-16849c601d0c"
+      },
+      "squuid": "5eeb7517-3a33-4c4a-9ff6-fe1a565e7e49",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 48.55,
+      "holder": {
+        "name": "Aschendorff Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c"
+      },
+      "squuid": "5be1a6b8-b53b-4628-97ab-a3ab7283b5d2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Stadtwerke Münster GmbH",
+        "squuid": "5be1a6b6-2170-4ff1-837c-ec9255c936b4"
+      },
+      "squuid": "5be1a6b8-b0ef-41b1-971b-33f2d475f04a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lokalradio Münster Betriebsgesellschaft mbH",
+        "squuid": "5eeb7483-36ec-4dc1-9e46-dbfa01a986fc"
+      },
+      "squuid": "5eeb75e7-dae9-4fc1-8411-d56190c83f5a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.45,
+      "holder": {
+        "name": "MZ Medien Holding GmbH & Co KG",
+        "squuid": "5be1a6b6-47af-4662-8ef2-4d3604b8743e"
+      },
+      "squuid": "5eeb7601-c3e9-4e42-ba4f-908526e06b86",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "state": "active",
+  "onlineAsOfDateIVW": "5/20",
+  "squuid": "5c545b89-1c6c-4e11-acaf-dec754aa1bf0",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Delta Medien Service GmbH",
+        "squuid": "5be1a6b6-d017-4954-9c87-4d3b59a26a35"
+      },
+      "squuid": "5c545bda-1f59-4663-8816-5d992a87c259",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "5c545da1-f9cb-4992-b88f-44030ae58481",
+      "state": "active"
+    }
+  ],
+  "name": "www.echo24.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-03T15:13:58.755Z",
+  "onlineIVWPI": 2960000,
+  "onlineAsOfDateAGOF": "5/20",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "onlineVisitsIVW": 2135000,
+  "onlineAGOF": 410000
+}

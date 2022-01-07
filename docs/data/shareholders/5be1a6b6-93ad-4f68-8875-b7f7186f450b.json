@@ -1,0 +1,87 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.37,
+      "held": {
+        "name": "Rheinland-Pfälzische Rundfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-6bb7-4199-8b08-f060dbb3b080"
+      },
+      "squuid": "5be1a6b7-517c-431b-99d8-cdc55ba4755a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Koblenz",
+  "pseudoCompany": false,
+  "street": "Mittelrheinstr.",
+  "name": "Mittelrhein LastMileGmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-93ad-4f68-8875-b7f7186f450b",
+  "controlDate": "2022-01-04T10:31:57.470Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    }
+  ],
+  "zipcode": "56072",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Mittelrhein-Verlag GmbH",
+        "squuid": "5be1a6b6-7572-4bdd-903c-7c673951897c"
+      },
+      "squuid": "5ef468dc-2623-4723-a573-b837339614b7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Twer, Walterpeter",
+        "squuid": "5be1a6b6-8c64-4686-97f8-72e368394458"
+      },
+      "squuid": "5ef468ee-b702-4643-8ea8-fc2dd3a1fb4e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Theisen, Dr. Olaf",
+        "squuid": "5be1a6b6-6989-4102-a4f4-c4b26a7fd865"
+      },
+      "squuid": "5ef4690e-5093-4a7c-bb08-86e3392a65ad",
+      "state": "active"
+    }
+  ]
+}

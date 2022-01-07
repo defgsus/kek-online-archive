@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Zweibrücken",
+  "pseudoCompany": false,
+  "street": "Prager Ring 4-12",
+  "name": "Schneemenschen GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5d66-4484-b376-3d450201044d",
+  "controlDate": "2022-01-07T13:59:04.261Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "66482",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wellness.info",
+        "squuid": "5be1a6b1-5873-4bf8-971f-a19a606f791c"
+      },
+      "squuid": "5be1a6b9-d7c9-49e1-8186-025a30979fb1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.4,
+      "holder": {
+        "name": "aroa GmbH",
+        "squuid": "5be1a6b6-6764-4994-bbb6-d2242e0c4240"
+      },
+      "squuid": "5be1a6b8-13cb-47ba-b1fd-e81c7a52ea42",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.6,
+      "holder": {
+        "name": "Lagoon Media GmbH & Co. KG",
+        "squuid": "5be1a6b6-4e3f-4f0b-8419-0dd7e3c16bde"
+      },
+      "squuid": "5be1a6b8-7fcc-48a1-b427-8669fd524345",
+      "state": "active"
+    }
+  ]
+}

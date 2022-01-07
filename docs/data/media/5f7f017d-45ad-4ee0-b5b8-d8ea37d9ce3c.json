@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f7f017d-45ad-4ee0-b5b8-d8ea37d9ce3c",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SAXN-Media GmbH",
+        "squuid": "5be1a6b6-8322-4e4b-a3d3-25c0ea4162c4"
+      },
+      "squuid": "5f7f01db-8a5d-498f-9bda-987843a21792",
+      "state": "active"
+    }
+  ],
+  "name": "www.riesa-tv.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-03T16:02:54.279Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

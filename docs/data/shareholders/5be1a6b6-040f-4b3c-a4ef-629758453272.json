@@ -1,0 +1,130 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Alpin FM GmbH & Co. KG ",
+        "squuid": "5d135d04-96c3-4f58-9108-97216d41f6ba"
+      },
+      "squuid": "5d136181-0eb7-4154-b92b-e8fe4018dc1a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Charivari Rosenheim Programmanbieter Verwaltungs GmbH",
+        "squuid": "5f8462c2-62c5-4dd1-a750-e55777b11145"
+      },
+      "squuid": "5f896693-30c3-4d1b-8e11-63857b54d091",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Rosenheim",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Hafnerstraße",
+  "name": "Funkhaus Rosenheim GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-040f-4b3c-a4ef-629758453272",
+  "controlDate": "2021-12-20T15:15:15.630Z",
+  "streetNumber": "5 - 7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "83022",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Charivari Rosenheim",
+        "squuid": "5be1a6b1-1792-4efd-9d49-2886e9df98ab"
+      },
+      "squuid": "5be1a6b9-7747-4406-a256-6ed21619c1d5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Galaxy Rosenheim",
+        "squuid": "5be1a6b1-4240-4afa-a916-753db78dc673"
+      },
+      "squuid": "5be1a6b9-9e5a-4a9b-bdcc-8705b43a57ca",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Galaxy Rosenheim",
+        "squuid": "5c77e773-aa28-4d28-9b8a-57edc6de3d1b"
+      },
+      "squuid": "5c77e849-8987-460a-84bd-e5450fb6d5a4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-galaxy.com",
+        "squuid": "5f902ba4-ff4a-4b75-a8af-8d86641c8703"
+      },
+      "squuid": "5f902bed-5776-4bdc-b4bf-7711dbce1f99",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-charivari.de",
+        "squuid": "5f92987b-caa1-446e-9e44-73550f0e56db"
+      },
+      "squuid": "5f9298ae-640c-4582-b537-1e0e2d2105d5",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.9,
+      "holder": {
+        "name": "WWZ Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-af92-4839-96f4-2d8d9e234c83"
+      },
+      "squuid": "5be1a6b7-c445-4bc3-b127-65d43a97e238",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.1,
+      "holder": {
+        "name": "Rosenheimer Anbietergemeinschaft für Rundfunk- u. Fernsehprogramm GbR",
+        "squuid": "5be1a6b6-4c5b-4041-ade1-062580802a48"
+      },
+      "squuid": "5be1a6b7-b2ea-4553-9413-1ba9c9b0f94b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Charivari Rosenheim Programmanbieter Verwaltungs GmbH",
+        "squuid": "5f8462c2-62c5-4dd1-a750-e55777b11145"
+      },
+      "squuid": "5f846321-b8bc-46e7-b17f-c532674f6863",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "5ebd1df8-30af-472b-86b6-671fb2eb7716",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dresden",
+  "pseudoCompany": false,
+  "street": "Ostra-Allee",
+  "name": "DDV Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5ebd1bf7-19f4-4a29-9383-5e0156acc5b7",
+  "controlDate": "2021-11-16T14:15:13.752Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01067",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "5ec2486a-d6b3-46d2-afe2-f7ead86b1121",
+      "state": "active"
+    }
+  ]
+}

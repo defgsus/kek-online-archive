@@ -1,0 +1,98 @@
+{
+  "state": "active",
+  "city": "Offenburg",
+  "note": "Stand: 2/2018",
+  "pseudoCompany": false,
+  "street": "Marlener Str",
+  "name": "Private Rundfunkgesellschaft Ortenau GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1f96-4d28-a5a3-d1f1d87fa3f2",
+  "controlDate": "2021-12-09T15:00:25.191Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "77656",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "HITRADIO OHR",
+        "squuid": "5be1a6b1-cd37-4494-b364-0b9902bd1a7e"
+      },
+      "squuid": "5be1a6b9-6c92-4c68-89c4-a312f85a7f59",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwarzwaldradio",
+        "squuid": "5be1a6b1-0902-4748-9419-1390f25e38cf"
+      },
+      "squuid": "5be1a6b9-ef6c-4af1-ba7d-a67d704ce79f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schwarzwaldradio.com",
+        "squuid": "5f3d232d-79bd-449e-a328-fb0c369791f9"
+      },
+      "squuid": "5f3d247e-19f1-4c98-8d27-9b4947663531",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hitradio-ohr.de",
+        "squuid": "5f3e5f84-df2c-4d68-b7ed-88ad7e715556"
+      },
+      "squuid": "5f3e5fb4-fc11-4d43-a7b4-8899ead709bf",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 95.0,
+      "holder": {
+        "name": "A. Reiff & Cie. GmbH & Co. KG",
+        "squuid": "5be1a6b6-3544-4546-8b8c-5420e439f6e5"
+      },
+      "squuid": "5be1a6b7-aa47-493a-b23f-e2017cf88ab2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Geschäftsführungsgesellschaft Private Rundfunkgesellschaft Ortenau mbH",
+        "squuid": "5be1a6b6-b0ce-401b-9ce3-366ed70b422a"
+      },
+      "squuid": "5be1a6b7-5ee7-4856-beb4-560ab41e2d2a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Knoll, Markus",
+        "squuid": "608163e3-ccee-4ccc-a3a0-2546fde91330"
+      },
+      "squuid": "6081641c-d295-4cba-904b-22ef0239fd31",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Hochsauerlandkreis mbH & Co. KG",
+        "squuid": "5be1a6b6-df29-4c59-9e1c-de49c415bfab"
+      },
+      "squuid": "5f16d15c-8d0c-40c5-9f87-a3cd2b9cc29a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Meschede",
+  "pseudoCompany": false,
+  "street": "Steinstr.",
+  "name": "Betriebsverwaltungsgesellschaft Radio Hochsauerlandkreis mbH",
+  "naturalPerson": false,
+  "squuid": "5f16d067-4798-4a9e-a003-a69f6f99fbb5",
+  "controlDate": "2022-01-03T10:41:46.380Z",
+  "streetNumber": "32",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "59872",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5ff5ab97-9504-467d-b2b1-cc7fa0220d98",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Hochsauerlandkreis",
+        "squuid": "5be1a6b6-0b03-48a1-9fcc-c9ea6853df59"
+      },
+      "squuid": "5ff5aba4-760d-477a-b20d-68061e9d10cc",
+      "state": "active"
+    }
+  ]
+}

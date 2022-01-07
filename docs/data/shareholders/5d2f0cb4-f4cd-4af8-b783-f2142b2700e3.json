@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": true,
+  "street": "Floriansmühlstr.",
+  "name": "Bayerischer Rundfunk (BR) / Programmbereich Planung und Entwicklung ARD-alpha",
+  "naturalPerson": false,
+  "squuid": "5d2f0cb4-f4cd-4af8-b783-f2142b2700e3",
+  "controlDate": "2020-07-06T09:47:45.463Z",
+  "streetNumber": "60",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80939",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.planet-wissen.de",
+        "squuid": "5d2f0bcc-fcfa-4e75-aa7e-612a53aaadf9"
+      },
+      "squuid": "5d2f0ccd-208e-49ea-869e-0a7243d1391f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.br.de/fernsehen/ard-alpha/",
+        "squuid": "5f7ae2ac-c9a2-4d26-ab9a-c753dceb248b"
+      },
+      "squuid": "5f7ae315-9773-4762-8759-5e5a83efcd80",
+      "state": "active"
+    }
+  ]
+}

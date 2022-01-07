@@ -1,0 +1,93 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Uckermark - TV Beteiligungs GmbH",
+        "squuid": "5c5d82bc-b737-4a6a-921c-e2d1b7e2f750"
+      },
+      "squuid": "5c5d889b-724e-475e-b15b-6dd7e2b931c6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Uckermark - TV Verwaltungs GmbH",
+        "squuid": "5f2031e5-20a9-4d7a-a3bf-530289ac2597"
+      },
+      "squuid": "5f76fcff-8350-4cba-bfac-d60a10b7203b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Uckermark - TV GmbH & Co. KG",
+        "squuid": "5c5d81e0-9378-4c50-a5b3-51d0baf12fcf"
+      },
+      "squuid": "61518759-caa1-48e2-bc5b-1baaef428914",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Buckower Chaussee",
+  "name": "Nordkurier TV und Studio GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5c5d8479-0913-4dd0-af8b-b2425336454f",
+  "controlDate": "2022-01-07T11:37:22.222Z",
+  "streetNumber": "134",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "12277",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nordkurier Mediengruppe GmbH & Co. KG",
+        "squuid": "5c5d84a7-817a-4570-9af9-316a4cc95449"
+      },
+      "squuid": "5d441818-9a4d-48b4-add0-d4ccc10ecef8",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Nordkurier TV und Studio Verwaltungs GmbH",
+        "squuid": "5f897963-2946-44cb-8eac-663b250e1881"
+      },
+      "squuid": "5f89798a-1a84-4f7f-8e9a-2cf059ae4929",
+      "state": "active"
+    }
+  ]
+}

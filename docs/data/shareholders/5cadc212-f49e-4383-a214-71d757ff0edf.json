@@ -1,0 +1,54 @@
+{
+  "name": "Evangelisch-Freikirchliche Gemeinde Berlin-Schöneberg K.d.ö.R.",
+  "pseudoCompany": false,
+  "squuid": "5cadc212-f49e-4383-a214-71d757ff0edf",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.363390539,
+      "held": {
+        "name": "Radio Paradiso GmbH & Co. KG",
+        "squuid": "5be1a6b6-f3bc-43d6-9d76-6f69bc5dec0d"
+      },
+      "squuid": "5cadcac1-87d7-40fe-b1c7-881be78feb67",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Immanuel Albertinen Diakonie gGmbH",
+        "squuid": "5be1a6b6-0221-4080-8a2e-25063d28213e"
+      },
+      "squuid": "5f352fec-3d26-40be-a2c7-ecfedd66bae7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.84,
+      "held": {
+        "name": "Radio Paradiso Verwaltungs GmbH",
+        "squuid": "5f352e18-eaac-4abd-a6c4-a07784da5dd1"
+      },
+      "squuid": "5f76f25c-29e4-446e-b980-852225ce4fd3",
+      "state": "active"
+    }
+  ],
+  "city": "Berlin",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

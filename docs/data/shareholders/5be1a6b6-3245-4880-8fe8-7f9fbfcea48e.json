@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.6,
+      "held": {
+        "name": "United Telco Ltd.",
+        "squuid": "5be1a6b6-2f00-40f0-bb76-9d2de61af0d4"
+      },
+      "squuid": "5be1a6b7-40c5-4cb2-979b-9e2e0b9068dc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "NBC Television Investment B.V",
+        "squuid": "5be1a6b6-f04a-4939-9a77-e3638f467d51"
+      },
+      "squuid": "5be1a6b7-3f23-415d-9d6c-dc2790d9e588",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "New York/USA",
+  "pseudoCompany": false,
+  "name": "NBCP Holdings, Inc.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3245-4880-8fe8-7f9fbfcea48e",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "NBC Studios, Inc.",
+        "squuid": "5be1a6b6-c937-4ef6-a3df-91d6da1d91fb"
+      },
+      "squuid": "5be1a6b7-c37c-438b-9226-c7a5f43e2c80",
+      "state": "active"
+    }
+  ]
+}

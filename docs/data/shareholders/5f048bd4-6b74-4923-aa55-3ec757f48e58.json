@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Friedeburg",
+  "pseudoCompany": false,
+  "street": "Bauernstücke",
+  "name": "Friesischer Rundfunk GmbH",
+  "naturalPerson": false,
+  "squuid": "5f048bd4-6b74-4923-aa55-3ec757f48e58",
+  "controlDate": "2021-12-07T15:42:18.778Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "26446",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.frf24.de",
+        "squuid": "5f048b65-9b03-4e8d-9951-9fab3c54a240"
+      },
+      "squuid": "5f048bf0-2f64-4d35-8bec-8eb6a0443553",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Sünkenberg, Karl-Heinz",
+        "squuid": "5f048db7-707b-4443-a0ff-2145841ac982"
+      },
+      "squuid": "5f048dfc-e8d2-4115-9f12-7d5c25a3696f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 42.5,
+      "holder": {
+        "name": "Müller, Michaela",
+        "squuid": "5f048dc3-b716-421e-9093-df2fb4af477b"
+      },
+      "squuid": "5f048e12-7a5d-4f4d-8f44-e594da6fb7e8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.5,
+      "holder": {
+        "name": "Frerichs, Jessica",
+        "squuid": "5f048ddb-5cc0-4f5c-93fa-b62101a6b598"
+      },
+      "squuid": "5f048e21-4508-4497-9764-1ddab5766684",
+      "state": "active"
+    }
+  ]
+}

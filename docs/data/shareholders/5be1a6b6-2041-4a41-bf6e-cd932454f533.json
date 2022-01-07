@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Wastelbauerstr.",
+  "name": "HIT FM MEDIA GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2041-4a41-bf6e-cd932454f533",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "81247",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "89 HIT FM",
+        "squuid": "5be1a6b1-6770-4922-8f47-45cea9b5feaa"
+      },
+      "squuid": "5be1a6b9-b8dc-44ee-ba29-becdca8c7236",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "89 HIT FM Ltd.",
+        "squuid": "5be1a6b6-9cb2-4232-8966-d7a46040c715"
+      },
+      "squuid": "5be1a6b8-e00d-4e39-abc1-43b933de538e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.5,
+      "holder": {
+        "name": "Herrlinger, Jürgen",
+        "squuid": "5be1a6b6-c5ce-49d9-a576-680e11334ad6"
+      },
+      "squuid": "5be1a6b8-0666-4a0b-b55a-1fc3ce25f997",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.5,
+      "holder": {
+        "name": "VP- GLOBAL RADIO & TV UG",
+        "squuid": "5be1a6b6-484d-4dbe-a6ed-d393054ecfdb"
+      },
+      "squuid": "5be1a6b8-230a-40ef-a3d5-48246d3fc4f4",
+      "state": "active"
+    }
+  ]
+}

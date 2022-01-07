@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Fürth",
+  "pseudoCompany": false,
+  "street": "Theresienstraße",
+  "name": "Steckenpferd Enterprises UG (haftungsbeschränkt)",
+  "naturalPerson": false,
+  "squuid": "5d35beb2-dd5f-4267-b78c-a1dec5e5a850",
+  "controlDate": "2021-12-02T16:55:14.567Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "90762",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.der-postillon.com",
+        "squuid": "5d35beab-3e19-4f55-b6ac-2cc01739a5a1"
+      },
+      "squuid": "5d35bee0-b973-4fe8-9fc1-dba8484fadc7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Sichermann, Stefan",
+        "squuid": "5d35bf4e-129e-49b4-998f-6372ba23887b"
+      },
+      "squuid": "5d35bf68-9d5e-411d-9d9b-80e21c0bcd83",
+      "state": "active"
+    }
+  ]
+}

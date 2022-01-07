@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Hoyerswerda",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Schulstraße ",
+  "name": "Anbietergemeinschaft Elsterwelle",
+  "naturalPerson": false,
+  "squuid": "5c541d1e-db85-4ea6-b7bc-2901b9d6556e",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "02977",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio LAUSITZWELLE",
+        "squuid": "5c502a03-88f2-426c-a4c1-b3bcf45ae2fa"
+      },
+      "squuid": "5c541d40-62d8-4902-969a-2ee8d1636d22",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "SGS Rundfunkgesellschaft mbH",
+        "squuid": "5be1a6b6-d37e-4bc1-afed-a58e7e365862"
+      },
+      "squuid": "5c779240-2f9d-4e19-ad74-e4bf4088df29",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schreiber, Hans-Christian",
+        "squuid": "5c7792c1-bbcc-442f-8bbc-c1d25f422302"
+      },
+      "squuid": "5c7792f3-1d1d-4b8e-b718-cd2aabb697b5",
+      "state": "active"
+    }
+  ]
+}

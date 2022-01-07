@@ -1,0 +1,43 @@
+{
+  "name": "Vogele, Markus",
+  "pseudoCompany": false,
+  "squuid": "5d133fa6-6155-430e-95a0-df75f9ffa36b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "Pro FM Media GmbH & Co. KG",
+        "squuid": "5be1a6b6-e00e-4054-b5fa-829e9fd143f3"
+      },
+      "squuid": "5d133fcb-915a-499b-9cd7-2a28cdf5430a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "Pro FM Media Verwaltungs-GmbH",
+        "squuid": "5f9198f2-e952-4591-9cf6-59352984ecd2"
+      },
+      "squuid": "5f995fd5-6445-41b3-8bbf-87fcab6e496a",
+      "state": "active"
+    }
+  ],
+  "city": "Augsburg",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

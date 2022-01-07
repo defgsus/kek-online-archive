@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Bruxelles/Brussel (B)",
+  "pseudoCompany": true,
+  "street": "Rue de la Loi/Wetstraat ",
+  "name": "Europäische Kommission",
+  "naturalPerson": false,
+  "squuid": "5d357dfd-5d37-43f3-a86f-a04463923cb8",
+  "controlDate": "2020-06-29T11:21:32.568Z",
+  "streetNumber": "170",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "1049",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.europa.eu",
+        "squuid": "5d357df0-ec5b-49a9-bd9d-8ed8d07a3c58"
+      },
+      "squuid": "5d357e19-a9ed-4a02-b3c9-5408991a5e0c",
+      "state": "active"
+    }
+  ]
+}

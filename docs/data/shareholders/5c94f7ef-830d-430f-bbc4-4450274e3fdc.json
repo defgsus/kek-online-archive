@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "street": "Hermannstr.",
+  "name": "MEDIASCHOOL BAYERN Anbieterverein Nürnberg e.V.",
+  "squuid": "5c94f7ef-830d-430f-bbc4-4450274e3fdc",
+  "controlDate": "2021-12-13T16:28:34.039Z",
+  "streetNumber": "33",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "90439",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "afk max",
+        "squuid": "5c94f50f-4320-4c46-b099-22c80c630c2c"
+      },
+      "squuid": "5c94f84e-5fc0-4b44-a40a-4f7d65340aec",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.maxneo.de",
+        "squuid": "5f844be2-8212-4881-a135-c24fcb2c57fa"
+      },
+      "squuid": "5f844c42-b512-46bc-86fe-a6c7655a0072",
+      "state": "active"
+    }
+  ]
+}

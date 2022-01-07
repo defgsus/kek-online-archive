@@ -1,0 +1,120 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.88,
+      "held": {
+        "name": "Bayern Tele GmbH Fernsehproduktion bayerischer Zeitschriftenverlage",
+        "squuid": "5be1a6b6-9681-4a25-8626-a0e2626bec4a"
+      },
+      "squuid": "5d14c045-5468-4912-9ea6-8f4214d11686",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Holzmann Verlag GmbH",
+        "squuid": "5ec3aa85-5d39-4602-b0e7-e35cd6252a11"
+      },
+      "squuid": "5ec3ac1d-6667-4eb6-a670-166822af21af",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bad Wörishofen",
+  "pseudoCompany": false,
+  "street": "Gewerbestr. 2",
+  "name": "Holzmann Medien GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-5e72-4a25-89b4-8eba7a00d090",
+  "controlDate": "2021-09-30T15:20:59.877Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86816",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "handwerk magazin",
+        "squuid": "5be1a6b1-a538-49e4-bd2a-00cf45e82335"
+      },
+      "squuid": "5be1a6b9-b97a-434f-84d9-0e31b15ff118",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Deutsche Handwerks Zeitung",
+        "squuid": "5be1a6b1-e634-464d-9e6c-180c0cd560c3"
+      },
+      "squuid": "5be1a6b9-8057-4891-a192-7323d9b4f35f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deutsche-handwerks-zeitung.de",
+        "squuid": "5be1a6b1-5d69-47e5-b95c-b6df65914a90"
+      },
+      "squuid": "5be1a6b9-ebbe-40a3-a240-65e7c28bda15",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.handwerk-magazin.de",
+        "squuid": "5be1a6b1-a586-4c26-860b-2fb5bbb07bba"
+      },
+      "squuid": "5be1a6b9-9164-4e6c-9819-659a287d2604",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Holzmann Verlag GmbH",
+        "squuid": "5ec3aa85-5d39-4602-b0e7-e35cd6252a11"
+      },
+      "squuid": "5ec3ab10-c5b5-4269-a4dd-4259c3b15a96",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Al-Bahrani, Nadia",
+        "squuid": "5ec3aaad-b163-4f9a-828b-f1c9b2b63522"
+      },
+      "squuid": "5ec3ab1f-0677-4bf1-979f-176bc2342d65",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Holzmann, Alexander",
+        "squuid": "5ec3aad0-ed79-4490-a347-afaf5e3612b5"
+      },
+      "squuid": "5ec3ab31-2d86-488d-8488-f5eb6bdc6400",
+      "state": "active"
+    }
+  ]
+}

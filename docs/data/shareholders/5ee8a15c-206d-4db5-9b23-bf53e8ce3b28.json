@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Dom Buchhandlung GmbH",
+        "squuid": "5be1a6b6-6f18-497d-9634-96c8f0ddca80"
+      },
+      "squuid": "5ee8a174-49eb-4969-9735-68a631014652",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Osnabrück",
+  "pseudoCompany": false,
+  "street": "Schillerstr.",
+  "name": "Dom-Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5ee8a15c-206d-4db5-9b23-bf53e8ce3b28",
+  "controlDate": "2021-11-24T15:59:43.050Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "49074",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bischöflicher Stuhl zu Osnabrück",
+        "squuid": "5f0c1d4d-8cc8-4775-886c-3b507b3b4c32"
+      },
+      "squuid": "5f0c1d69-db66-4d7e-894a-717311c03477",
+      "state": "active"
+    }
+  ]
+}

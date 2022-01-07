@@ -1,0 +1,49 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.43,
+      "held": {
+        "name": "Borussia Dortmund GmbH & Co KGaA",
+        "squuid": "5be1a6b6-626e-467e-a2f1-6a83955a1fbd"
+      },
+      "squuid": "5be1a6b8-f9de-4ec0-8577-4dc11c422cf0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Joseph-Scherer-Str.",
+  "name": "SIGNAL IDUNA Allgemeine Versicherung AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b8b5-45a0-b4d8-4665ab2b5ba7",
+  "controlDate": "2021-12-01T15:45:48.767Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "44139",
+  "credits": "Az: KEK 944",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "SIGNAL IDUNA Holding AG",
+        "squuid": "60250848-693e-4d8b-b0f9-cc75beb3d6a8"
+      },
+      "squuid": "60250888-8035-4d08-84ac-1d5c508127a4",
+      "state": "active"
+    }
+  ]
+}

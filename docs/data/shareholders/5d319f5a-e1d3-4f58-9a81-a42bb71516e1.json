@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Haufe-Lexware GmbH & Co. KG",
+        "squuid": "5d319d4d-907f-43ca-9d4e-609f2bf047d6"
+      },
+      "squuid": "5d319f75-07db-441d-bcf8-16a22f564c9f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Haufe-Lexware Verwaltungs GmbH",
+        "squuid": "5efb38aa-e8f4-4dfa-aea9-1f67b61e1ddc"
+      },
+      "squuid": "5efb3a0b-39f0-445f-ab4f-5fd753eab113",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Munzinger Straße ",
+  "name": "Haufe Group SE",
+  "naturalPerson": false,
+  "squuid": "5d319f5a-e1d3-4f58-9a81-a42bb71516e1",
+  "controlDate": "2021-12-09T13:09:24.143Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "79111",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rudolf Haufe Verlag GmbH & Co. KG",
+        "squuid": "5d31a016-b4cb-48d3-8813-60c9515408da"
+      },
+      "squuid": "5d31a035-dd81-4d14-ae3e-f3f81e5f886a",
+      "state": "active"
+    }
+  ]
+}

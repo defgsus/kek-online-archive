@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "onlineAsOfDateIVW": "5/20",
+  "squuid": "5c581d15-773c-44c6-85cb-5314f03d1165",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Quotenmeter GmbH",
+        "squuid": "5c581d22-538c-4e9b-823f-8be1910b0444"
+      },
+      "squuid": "5c581d85-c751-4519-955a-67cb245c523b",
+      "state": "active"
+    }
+  ],
+  "name": "www.quotenmeter.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-20T15:01:52.128Z",
+  "onlineIVWPI": 773000,
+  "onlineAsOfDateAGOF": "5/20",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "onlineVisitsIVW": 380000,
+  "onlineAGOF": 170000
+}

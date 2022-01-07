@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Oldenburg",
+  "pseudoCompany": false,
+  "street": "Peterstr. 28-34",
+  "name": "KB Mediengesellschaft mbH & Co KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4be2-4566-aa0d-ba2f24c249ae",
+  "otherMediaActivities": "Holding",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "25121",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Nordwest-Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-6d98-47de-ac59-bdd22da3974d"
+      },
+      "squuid": "5be1a6b8-a801-45db-a154-5a59219bf643",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 13.33,
+      "holder": {
+        "name": "Köser, Hartwig",
+        "squuid": "5be1a6b6-95cd-4849-b936-2f0dae1cf744"
+      },
+      "squuid": "5be1a6b8-9c7d-404c-8148-79d3d3acefce",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Bothmer, Stephan Graf von",
+        "squuid": "5be1a6b6-c8c5-46ff-aa1c-31e6830bf87e"
+      },
+      "squuid": "5be1a6b8-0426-4fa4-9b80-b8916eae538a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 13.33,
+      "holder": {
+        "name": "Hager, Inga",
+        "squuid": "5be1a6b6-2fed-46f9-a963-3e3ddfa1b502"
+      },
+      "squuid": "5be1a6b8-4771-4bb5-b9bf-7c4a601c1d48",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 13.33,
+      "holder": {
+        "name": "Köser, Fritz-Hermann",
+        "squuid": "5be1a6b6-1dc6-4222-adcd-18209fac8869"
+      },
+      "squuid": "5be1a6b8-130a-453c-baf0-7dcb6adf2c52",
+      "state": "active"
+    }
+  ]
+}

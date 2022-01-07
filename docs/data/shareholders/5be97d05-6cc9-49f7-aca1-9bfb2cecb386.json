@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Fasanenstraße",
+  "name": "CATO Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be97d05-6cc9-49f7-aca1-9bfb2cecb386",
+  "controlDate": "2021-02-11T17:05:45.538Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10623",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "CATO ",
+        "squuid": "5be97c71-2ccf-4d99-8d6f-c1c388548003"
+      },
+      "squuid": "5be97d1a-054c-4f21-b665-697c12ae80cb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cato-magazin.de",
+        "squuid": "6130a489-d437-413e-8275-daf32d3dc815"
+      },
+      "squuid": "6130a4a9-71bd-403b-8eb1-d7a179e8de27",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Junge Freiheit Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-2a25-4fbb-a23c-182827cc58b4"
+      },
+      "squuid": "5be97e12-5803-40c8-a7d2-1a96df640395",
+      "state": "active"
+    }
+  ]
+}

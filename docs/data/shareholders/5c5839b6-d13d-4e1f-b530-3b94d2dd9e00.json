@@ -1,0 +1,46 @@
+{
+  "state": "active",
+  "city": "Torgau",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Zinnaer Straße ",
+  "name": "Wegler, René",
+  "naturalPerson": true,
+  "co": "Torgau-TV",
+  "squuid": "5c5839b6-d13d-4e1f-b530-3b94d2dd9e00",
+  "streetNumber": "1A",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04860",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Torgau-TV",
+        "squuid": "5c5839a6-c243-4c5f-ab86-be7403933d7d"
+      },
+      "squuid": "5c583a45-61bc-4a73-9622-d66c0d18fe5d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.torgau-tv.de",
+        "squuid": "5f7f26bd-8d95-4c75-925f-e8ceac91181a"
+      },
+      "squuid": "5f7f26e7-6909-43f6-bf72-04294c10dcf5",
+      "state": "active"
+    }
+  ]
+}

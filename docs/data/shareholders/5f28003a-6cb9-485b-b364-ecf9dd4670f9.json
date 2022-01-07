@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Funkhaus Halle GmbH & Co. KG",
+        "squuid": "5be1a6b6-5fcf-45b5-9357-652833a2d4dc"
+      },
+      "squuid": "5f280149-f0dd-4583-9825-e9590e2812f4",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Halle (Saale)",
+  "pseudoCompany": false,
+  "street": "Große Ulrichstr.",
+  "name": "Funkhaus Halle Komplementär-GmbH",
+  "naturalPerson": false,
+  "squuid": "5f28003a-6cb9-485b-b364-ecf9dd4670f9",
+  "controlDate": "2021-11-22T11:35:01.418Z",
+  "streetNumber": "60d",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    }
+  ],
+  "zipcode": "06108",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funkhaus Halle GmbH & Co. KG",
+        "squuid": "5be1a6b6-5fcf-45b5-9357-652833a2d4dc"
+      },
+      "squuid": "5f32afdc-3aa7-44c2-8e6b-1b31d8f7287b",
+      "state": "active"
+    }
+  ]
+}

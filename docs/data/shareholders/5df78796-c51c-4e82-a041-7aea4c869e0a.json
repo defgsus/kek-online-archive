@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Handwerkstr.",
+  "name": "Euro Transport Media Verlags- und Veranstaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5df78796-c51c-4e82-a041-7aea4c869e0a",
+  "controlDate": "2021-10-15T09:47:25.555Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "70565",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Fernfahrer",
+        "squuid": "5df787a4-2fe7-4669-9841-803b9a741201"
+      },
+      "squuid": "5df7880f-f83f-4e13-975b-88aaf6d5fe19",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Motor Presse Stuttgart GmbH & Co. KG",
+        "squuid": "5be1a6b6-99ba-4261-b3c0-411c299e72ae"
+      },
+      "squuid": "5df78875-b975-4060-be56-ecd0d863e871",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "VF Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-10be-4dea-a767-192602f5894b"
+      },
+      "squuid": "5df78890-9d0c-4e7d-b8de-da17fa27c4aa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "DEKRA SE",
+        "squuid": "5df788a3-8043-4b30-b8fe-d4ad89e63493"
+      },
+      "squuid": "5df788c0-31ca-4ab6-a70c-ee26aea66f05",
+      "state": "active"
+    }
+  ]
+}

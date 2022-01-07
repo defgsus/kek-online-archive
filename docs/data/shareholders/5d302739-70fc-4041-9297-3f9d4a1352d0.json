@@ -1,0 +1,32 @@
+{
+  "name": "DZ Bank AG",
+  "pseudoCompany": false,
+  "controlDate": "2021-12-06T10:22:06.305Z",
+  "squuid": "5d302739-70fc-4041-9297-3f9d4a1352d0",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Freunde der Eintracht Frankfurt AG",
+        "squuid": "5d3026a6-513d-4806-af22-41994926142c"
+      },
+      "squuid": "5d3029bb-4a31-4bdc-a00b-69a01cebd4da",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

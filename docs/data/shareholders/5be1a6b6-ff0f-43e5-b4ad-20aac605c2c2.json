@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Bayreuth",
+  "pseudoCompany": false,
+  "street": "Maximilianstr. 60",
+  "name": "Bayreuther Tagblatt Lorenz Ellwanger Druckerei und Verlagsgesellschaft KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ff0f-43e5-b4ad-20aac605c2c2",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "95444",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 47.7,
+      "holder": {
+        "name": "Ellwanger, Marianne",
+        "squuid": "5be1a6b6-0268-436f-8d1e-87bbb7a51c4d"
+      },
+      "squuid": "5be1a6b8-dd0c-439a-8a90-eca7371ed1c0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 52.3,
+      "holder": {
+        "name": "Klautke, Veronika",
+        "squuid": "5be1a6b6-d14d-4838-a560-bd4067ba82ef"
+      },
+      "squuid": "5be1a6b8-32b1-4b64-a411-d83532c976e9",
+      "state": "active"
+    }
+  ]
+}

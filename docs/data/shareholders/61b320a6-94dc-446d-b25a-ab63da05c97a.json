@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Riesstr.",
+  "name": "GfD Gesundheit für Deutschland GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "61b320a6-94dc-446d-b25a-ab63da05c97a",
+  "controlDate": "2021-12-10T09:43:42.451Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80992",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gesund.de",
+        "squuid": "61b32068-d8a5-44f9-a391-a566d30b58b2"
+      },
+      "squuid": "61b32107-7868-4cda-a411-a57076d776c5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "GfD Beteiligungsverwaltungs GmbH",
+        "squuid": "61b320e6-0700-40ae-8fa3-b141f94b53ca"
+      },
+      "squuid": "61b321c5-851a-42ae-b43f-16fb1a7c5b8a",
+      "state": "active"
+    }
+  ]
+}

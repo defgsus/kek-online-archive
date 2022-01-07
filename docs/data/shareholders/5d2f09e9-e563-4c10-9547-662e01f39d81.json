@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Wolhusen (CH)",
+  "pseudoCompany": false,
+  "street": "Bergboden",
+  "name": "my PocketPC GmbH",
+  "naturalPerson": false,
+  "squuid": "5d2f09e9-e563-4c10-9547-662e01f39d81",
+  "controlDate": "2021-12-17T09:43:52.994Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "6110",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pocketpc.ch",
+        "squuid": "5d2f0998-fdad-4c03-931c-77655996aa1f"
+      },
+      "squuid": "5d2f0a33-fb30-416a-a139-ff11d191260f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Jeanrenaud, Dr. Yves",
+        "squuid": "5d2f0a15-4481-4022-ad0c-48f52fa78d0c"
+      },
+      "squuid": "5d2f0a99-c1ab-49ad-b5f3-b1b398be820e",
+      "state": "active"
+    }
+  ]
+}

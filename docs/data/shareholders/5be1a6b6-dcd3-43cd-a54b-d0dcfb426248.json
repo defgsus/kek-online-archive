@@ -1,0 +1,85 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "C. Bösendahl GmbH & Co KG",
+        "squuid": "5be1a6b6-acf0-4fd6-be71-53b996b6faed"
+      },
+      "squuid": "5be1a6b8-14e6-4880-90b6-75d2e8ba27ab",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Stadthagen",
+  "pseudoCompany": false,
+  "street": "Vornhäger Straße 44",
+  "name": "Schaumburger Nachrichten Verlagsgesellschaft mbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-dcd3-43cd-a54b-d0dcfb426248",
+  "controlDate": "2021-11-10T16:47:32.537Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "31655",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schaumburger Nachrichten",
+        "squuid": "5be1a6b1-186c-49ef-8d8d-d9877ca6ca8e"
+      },
+      "squuid": "5be1a6b9-f899-4bd2-b361-fc7dc6fbde9d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sn-online.de",
+        "squuid": "5be1a6b1-d81b-40dc-9c19-71742c343443"
+      },
+      "squuid": "5be1a6b9-2bc7-4291-9483-cfb9983a8107",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "5be1a6b8-4516-4b4e-9131-5ac5fc61790e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "C. Bösendahl GmbH & Co KG",
+        "squuid": "5be1a6b6-acf0-4fd6-be71-53b996b6faed"
+      },
+      "squuid": "5be1a6b8-d947-4a8a-b01c-cd2af69aa5eb",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Beteiligungsgesellschaft Neue Zeitung mbH",
+        "squuid": "5eb02870-289d-4471-8385-b88dcb2e5770"
+      },
+      "squuid": "5ee35987-fcc1-41ab-b141-319b6a700626",
+      "state": "active"
+    }
+  ]
+}

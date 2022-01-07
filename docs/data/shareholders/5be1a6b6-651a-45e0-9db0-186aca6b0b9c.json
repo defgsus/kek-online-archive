@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Krumbach",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Druckerei und Verlag Karl Ziegler GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-651a-45e0-9db0-186aca6b0b9c",
+  "controlDate": "2021-11-01T14:29:12.787Z",
+  "streetNumber": "48/50",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86381",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mittelschwäbische Nachrichten",
+        "squuid": "5be1a6b1-cb16-4422-93de-8a7139c9ca38"
+      },
+      "squuid": "5be1a6b9-6cd9-44f9-a603-2006e3e2f65e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ziegler, Hans-Peter",
+        "squuid": "5be1a6b6-a5b5-412d-8dbc-b135c8dd438a"
+      },
+      "squuid": "5be1a6b8-89d1-447a-930c-873bfecaef58",
+      "state": "active"
+    }
+  ]
+}

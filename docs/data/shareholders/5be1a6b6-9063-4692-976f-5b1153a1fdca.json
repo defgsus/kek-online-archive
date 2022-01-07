@@ -1,0 +1,90 @@
+{
+  "state": "active",
+  "city": "Fulda",
+  "pseudoCompany": false,
+  "street": "Frankfurter Str. 8",
+  "name": "Verlag Parzeller GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9063-4692-976f-5b1153a1fdca",
+  "controlDate": "2021-10-15T14:47:06.676Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "36043",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schlitzer Bote",
+        "squuid": "5be1a6b1-c924-4178-8532-fc9ef86b0348"
+      },
+      "squuid": "5be1a6b9-9f7c-4711-9a65-5af5828323ad",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Fuldaer Zeitung",
+        "squuid": "5be1a6b1-87d2-49c4-85da-4edd14a67f08"
+      },
+      "squuid": "5be1a6b9-885f-49ba-90c5-e4950e5ac913",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hünfelder Zeitung",
+        "squuid": "5be1a6b1-f0ec-40be-bd03-ad9d687bb04c"
+      },
+      "squuid": "5be1a6b9-c80a-4481-bcdf-fedc57d0460a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kinzigtal Nachrichten",
+        "squuid": "5be1a6b1-2cf0-4349-a546-4432cad3e07c"
+      },
+      "squuid": "5be1a6b9-cf97-43d6-a0ff-3a20a9a4432d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fuldaerzeitung.de",
+        "squuid": "5be1a6b1-1132-48b7-a255-a6580fb76d6d"
+      },
+      "squuid": "5be1a6b9-cd39-4da0-9ecf-120f45bb8e19",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Parzeller & Co KG vormals Fuldaer Actiendruckerei KG",
+        "squuid": "5be1a6b6-2de4-47f0-a027-0764d8812869"
+      },
+      "squuid": "5be1a6b8-c037-4dd5-9d67-279f5575ebf2",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Parco GmbH",
+        "squuid": "5ecb8ba5-25da-4682-b3f6-24a1145af16b"
+      },
+      "squuid": "5ecb8bc4-a3a8-4369-b8bd-906e3d10b8b3",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "rfRepresentative": "Susanne Aigner-Drews, Roanne Weekes",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Klaus Jahn",
+  "rfStartDate": "04.08.2017",
+  "rfFreePay": false,
+  "squuid": "5be1a6b1-43dd-4120-a315-e7e8ea331234",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.eurosport.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Discovery Communications Deutschland GmbH & Co. KG",
+        "squuid": "5be1a6b6-ee49-4a3b-a184-2f0cbe7dffcf"
+      },
+      "squuid": "5be1a6b9-27ae-46bb-b2bd-39b9769bd732",
+      "state": "active"
+    }
+  ],
+  "name": "Eurosport2 HD Xtra",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Eurosport2 HD Xtra wird als Simulcast von Eurosport2 über den Eurosport Player im Internet sowie im Eurosport-Paket von HD+ ausgestrahlt. Abweichend werden an den Spieltagen der Fußball Bundesliga Live-Übertragungen und entsprechende Vor- und Nachberichterstattung gezeigt.",
+  "rfLicenseUntil": "unbefristet",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "rfLicensed": "24.07.2017",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-4a91-45e5-b9ed-2abbf093d6de",
+      "name": "HD Plus GmbH / HD+",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "accessibilityEmail": "hello@eurosport.com",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

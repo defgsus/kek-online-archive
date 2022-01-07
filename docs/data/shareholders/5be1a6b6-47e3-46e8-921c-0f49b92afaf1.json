@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "Luxemburg",
+  "pseudoCompany": false,
+  "name": "Mini Movie International Channel S.à.r.l.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-47e3-46e8-921c-0f49b92afaf1",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 26.06.2012",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.65,
+      "holder": {
+        "name": "MMW Minimovie World Limited",
+        "squuid": "5be1a6b6-65ae-4e1d-bd45-bdbb9fbd4d8a"
+      },
+      "squuid": "5be1a6b7-21d8-495e-a94d-e3416ca098ec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.35,
+      "holder": {
+        "name": "Lesnevskaya, Iren",
+        "squuid": "5be1a6b6-466b-40d2-9758-28993f5eb1ac"
+      },
+      "squuid": "5be1a6b7-449b-4143-a94f-4ac85ad5ebea",
+      "state": "active"
+    }
+  ]
+}

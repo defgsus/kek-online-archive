@@ -1,0 +1,35 @@
+{
+  "name": "Freistaat Thüringen",
+  "squuid": "5d302d42-feb2-492d-ae32-3b180d2793f3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.05,
+      "held": {
+        "name": "Landesbank Hessen-Thüringen Girozentrale (Helaba)",
+        "squuid": "5be1a6b6-04aa-4c68-94d6-5d60fa510eed"
+      },
+      "squuid": "5d302e70-d089-4b56-879d-b75c2c447c97",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "state": "active"
+}

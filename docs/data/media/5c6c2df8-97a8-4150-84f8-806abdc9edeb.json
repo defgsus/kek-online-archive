@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5c6c2df8-97a8-4150-84f8-806abdc9edeb",
+  "marketReach": 0.1270959475661062,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Deutsche Welle (DW)",
+        "squuid": "5be1a6b6-409c-4052-9864-be1a712dd512"
+      },
+      "squuid": "5c6c2e26-c11b-487a-b053-9a187fbe4a00",
+      "state": "active"
+    }
+  ],
+  "name": "www.dw.com",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-03T14:35:14.795Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

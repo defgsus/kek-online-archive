@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Unterföhring",
+  "note": "(vormals ProSiebenSat.1 Dritte Verwaltungsgesellschaft mbH)",
+  "pseudoCompany": false,
+  "street": "Medienallee",
+  "name": "P7S1 Erste SBS Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5295-4060-9fc1-e12c7da23c20",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "85774",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ProSiebenSat.1 Media SE",
+        "squuid": "5be1a6b6-c403-468d-8ebc-b75baf6ebe76"
+      },
+      "squuid": "5be1a6b7-44e9-4672-ab53-799d204e9a87",
+      "state": "active"
+    }
+  ]
+}

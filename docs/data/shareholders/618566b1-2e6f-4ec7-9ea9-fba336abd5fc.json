@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Detmold",
+  "pseudoCompany": false,
+  "street": "Ohmstr.",
+  "name": "Lippisches Medienhaus Giesdorf GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "618566b1-2e6f-4ec7-9ea9-fba336abd5fc",
+  "controlDate": "2021-11-05T17:17:32.810Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "32758",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ostwestfälische Wirtschaft",
+        "squuid": "618565d9-2e4c-4050-bcd3-281138e533db"
+      },
+      "squuid": "618566db-32f4-4654-9c2e-f41b62076143",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Giesdorf Media GmbH & Co. KG",
+        "squuid": "5de7b362-2aa0-4c59-b620-204896867ca8"
+      },
+      "squuid": "618567a6-b379-4da7-8ba3-df780456de66",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lippisches Medienhaus Verwaltungs GmbH",
+        "squuid": "618566c6-42d8-4fdb-badb-0ec371d05d4a"
+      },
+      "squuid": "618567de-2825-49d9-a76d-6d5f74f09cbb",
+      "state": "active"
+    }
+  ]
+}

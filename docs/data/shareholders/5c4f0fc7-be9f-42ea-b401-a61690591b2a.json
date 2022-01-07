@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "August-Madsack-Str.",
+  "name": "Sportbuzzer GmbH",
+  "naturalPerson": false,
+  "squuid": "5c4f0fc7-be9f-42ea-b401-a61690591b2a",
+  "controlDate": "2022-01-06T10:22:38.514Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30559",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sportbuzzer.de",
+        "squuid": "5c4f0fbc-f9aa-4011-b29a-d042cca95e0c"
+      },
+      "squuid": "5c4f101d-04aa-43da-b196-2bdc207f6b0a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "5c4f10ff-6a8c-49f8-a83c-74ea17d97188",
+      "state": "active"
+    }
+  ]
+}

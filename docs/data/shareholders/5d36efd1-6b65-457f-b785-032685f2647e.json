@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Zürich (CH)",
+  "pseudoCompany": false,
+  "street": "Dufourstr.",
+  "name": "Ringier AG",
+  "naturalPerson": false,
+  "squuid": "5d36efd1-6b65-457f-b785-032685f2647e",
+  "controlDate": "2021-11-30T17:36:05.416Z",
+  "placeOfBusiness": "Zofingen (CH)",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "8008",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blick.ch",
+        "squuid": "5d36efc5-d48b-498c-b9bc-bbd3bc19b19b"
+      },
+      "squuid": "5d36f006-7249-45ee-a00e-0d4aa8f55fe6",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Familie Ringier (Michael Ringier, Annette Ringier, Evelyn Lingg-Ringier)",
+        "squuid": "5d36f936-498c-4607-bca3-4a2d55cdcabe"
+      },
+      "squuid": "5d36f96c-caf8-42fc-8cbb-b654addfa2c7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Walder, Marc",
+        "squuid": "5d36f945-6e12-41d8-97c5-981258aa528e"
+      },
+      "squuid": "5d36f978-386d-42a6-99fc-ba7fcffbef16",
+      "state": "active"
+    }
+  ]
+}

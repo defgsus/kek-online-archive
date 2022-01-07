@@ -1,0 +1,98 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Curt Frenzel Straße",
+  "name": "a.tv GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5cab5218-8ad0-4b1d-9b2f-1399a06cf0eb",
+  "controlDate": "2021-11-25T16:33:21.557Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86167",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "augsburg.tv",
+        "squuid": "5be1a6b1-a45e-4304-9381-74f1ba3d48ba"
+      },
+      "squuid": "5cab523d-1f1e-466a-968f-943ba2a22346",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.augsburg.tv",
+        "squuid": "5f772bbc-add6-48f3-8c11-2ed03f929af7"
+      },
+      "squuid": "5f772c0f-8a3d-448d-8508-d94fab909be1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.imsueden.de/a-tv",
+        "squuid": "61d42a03-accb-4eeb-a218-a68527f310fb"
+      },
+      "squuid": "61d42a68-0210-4b05-b17a-549ad83d22c3",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.1,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5cab5343-4c59-449f-9242-6e8ac3427e5a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 37.3,
+      "holder": {
+        "name": "Sankt Ulrich Verlag GmbH",
+        "squuid": "5be1a6b6-cac1-420a-b40c-87452e0ab6f4"
+      },
+      "squuid": "5cab5356-1fb4-4141-813f-c94646d74cfe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.6,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5cab536b-b40d-4c22-ba57-1e36b659d57d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "a.tv Verwaltungs-GmbH",
+        "squuid": "5f772d3d-0f14-4175-a267-00c813439111"
+      },
+      "squuid": "5f772d76-8d20-4791-a33c-2d9753c09a0c",
+      "state": "active"
+    }
+  ]
+}

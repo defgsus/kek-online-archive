@@ -1,0 +1,30 @@
+{
+  "name": "Stadt Münster",
+  "squuid": "5eeb75ba-f432-418f-9e78-4cb3d71d1af8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Stadtwerke Münster GmbH",
+        "squuid": "5be1a6b6-2170-4ff1-837c-ec9255c936b4"
+      },
+      "squuid": "5eeb7622-8abb-44f8-aa9a-2a4b9321aa98",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active"
+}

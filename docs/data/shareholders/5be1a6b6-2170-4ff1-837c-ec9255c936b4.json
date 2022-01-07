@@ -1,0 +1,45 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Lokalradio Münster Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-4442-4dba-906e-7a3bc3bf8a4a"
+      },
+      "squuid": "5be1a6b8-b0ef-41b1-971b-33f2d475f04a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Stadtwerke Münster GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2170-4ff1-837c-ec9255c936b4",
+  "controlDate": "2021-11-24T17:35:37.718Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Münster",
+        "squuid": "5eeb75ba-f432-418f-9e78-4cb3d71d1af8"
+      },
+      "squuid": "5eeb7622-8abb-44f8-aa9a-2a4b9321aa98",
+      "state": "active"
+    }
+  ]
+}

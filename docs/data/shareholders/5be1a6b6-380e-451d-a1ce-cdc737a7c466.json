@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Weinheim",
+  "pseudoCompany": false,
+  "street": "Werderstr. 10",
+  "name": "Julius Beltz GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-380e-451d-a1ce-cdc737a7c466",
+  "controlDate": "2021-11-08T16:44:39.840Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "69469",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Psychologie heute",
+        "squuid": "5be1a6b1-437f-45a3-8787-80a6107b037f"
+      },
+      "squuid": "5be1a6b9-0b80-45b6-ac6a-bb289d046b8f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.psychologie-heute.de",
+        "squuid": "5be1a6b1-338a-44d6-a6e9-31afd0748c38"
+      },
+      "squuid": "5be1a6b9-3157-4188-a5f4-4ce1fda8f2a7",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Beltz-Rübelmann Holding GmbH & Co KG",
+        "squuid": "5be1a6b6-c5da-45b5-8a4f-227135013f73"
+      },
+      "squuid": "5be1a6b8-fe91-4717-a1c2-5f9d6f81a368",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Julius Beltz Beteiligungs-GmbH",
+        "squuid": "5ee8cea9-0481-42d7-b471-416f75672923"
+      },
+      "squuid": "5ee8cec2-2f9f-4923-b98a-de3e792dde32",
+      "state": "active"
+    }
+  ]
+}

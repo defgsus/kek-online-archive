@@ -1,0 +1,48 @@
+{
+  "name": "Rotermund, Reuben",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-2407-467f-bd2c-acca19a20a34",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Rotermund Holding AG",
+        "squuid": "5be1a6b6-477d-43ae-b212-f1aec98183e6"
+      },
+      "squuid": "5be1a6b7-2359-406f-9519-3f1535e9d50c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Ulrich Rotermund Verwaltungsgesellschaft mbH",
+        "squuid": "5be1a6b6-01ae-4aaa-bd9a-abeb47dd198c"
+      },
+      "squuid": "5be1a6b7-b611-405f-8c80-45d63d92885a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "BR Holding GmbH",
+        "squuid": "5be1a6b6-b9df-44d1-83f4-1ade874ba033"
+      },
+      "squuid": "5be1a6b7-7eaf-445d-ac22-d5fc96fe97ce",
+      "state": "active"
+    }
+  ],
+  "city": "Meggen, Schweiz",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

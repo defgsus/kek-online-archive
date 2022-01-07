@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Wien (A)",
+  "pseudoCompany": false,
+  "street": "Untere Donaustr.",
+  "name": "UNIQA Versicherungen AG",
+  "naturalPerson": false,
+  "squuid": "5d306ad9-7d50-40a7-a24f-45484ce0583e",
+  "controlDate": "2020-07-01T13:44:17.027Z",
+  "streetNumber": "21",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "1029",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.0,
+      "holder": {
+        "name": "UNIQA Insurance Group AG",
+        "squuid": "5d307e48-a3af-43d8-9c2e-2edf351ea28a"
+      },
+      "squuid": "5d307e8a-ca3c-4d82-a04b-246fdefa44f7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Raiffeisen-Invest-Gesellschaft mbH",
+        "squuid": "5d307e60-7b7e-471c-b0bd-69e8314e0702"
+      },
+      "squuid": "5d307e9c-94c5-4012-9506-d8a8a086bbc4",
+      "state": "active"
+    }
+  ]
+}

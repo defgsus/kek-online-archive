@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Dieselstr.",
+  "name": "Deutscher Ärzte-Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5c4f147e-d45c-42ba-bd03-7b980b4246f8",
+  "controlDate": "2021-11-23T10:01:20.967Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50859",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.aerzteblatt.de",
+        "squuid": "5c4f139c-023b-4758-8c1b-179f208529a6"
+      },
+      "squuid": "5c4f163c-6711-4bc8-9d06-e80bda82976f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kassenärztliche Bundesvereinigung KdöR",
+        "squuid": "5c4f15bf-4215-4628-b7b6-e7ef126bdd03"
+      },
+      "squuid": "5c4f16be-c28e-4fd1-b872-18b824ab49ba",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Arbeitsgemeinschaft der Deutschen Ärztekammern (Bundesärztekammer)",
+        "squuid": "5c4f15df-f477-462a-9372-ec1494abbbe8"
+      },
+      "squuid": "5c4f16d1-255f-4763-8ae9-97c13801fd20",
+      "state": "active"
+    }
+  ]
+}

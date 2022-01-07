@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Sonneberg",
+  "pseudoCompany": false,
+  "street": "Cuno-Hoffmeister-Str.",
+  "name": "SRF - Südthüringer Regionalfernsehen GmbH",
+  "naturalPerson": false,
+  "squuid": "5f33d494-490d-44b9-96df-fbd29247a8fc",
+  "controlDate": "2022-01-06T11:49:53.700Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "96515",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.srf-online.de",
+        "squuid": "5f33d436-b7d9-4650-ac12-2888c2f610a9"
+      },
+      "squuid": "5f33d4cc-f6c3-48e7-be13-019fdb0d0ea0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Pasztori, Jörg",
+        "squuid": "5f33d578-120f-4a97-8de4-c597ac2e811d"
+      },
+      "squuid": "5f33d5d4-3cc8-4ccd-9165-9f04793a6eb4",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Siegburg",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-ad42-4489-9f47-1f73c0eabcd8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.5,
+      "held": {
+        "name": "Radio Bonn/Rhein-Sieg GmbH & Co. KG",
+        "squuid": "5be1a6b6-cedf-42cf-96c2-9455aebbb02f"
+      },
+      "squuid": "5be1a6b7-3c7b-4a53-a266-672b6f6331cc",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

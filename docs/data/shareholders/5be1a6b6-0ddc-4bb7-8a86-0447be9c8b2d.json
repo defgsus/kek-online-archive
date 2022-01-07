@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Rostock",
+  "pseudoCompany": false,
+  "street": "Friedrich-Straße",
+  "name": "Kulturnetzwerk e. V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0ddc-4bb7-8a86-0447be9c8b2d",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "18057",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio LOHRO",
+        "squuid": "5be1a6b1-a6e9-44f2-9313-5b1ade912de9"
+      },
+      "squuid": "5be1a6b9-7a6a-4bc1-9c0c-8ffdefa20293",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lohro.de",
+        "squuid": "5f2014b4-ff17-4515-93d9-dd2d92fbcd9c"
+      },
+      "squuid": "5f2014df-9abd-4bf1-aa19-0a98ad3a6bc8",
+      "state": "active"
+    }
+  ],
+  "credits": "Schreiben der MMV vom 02.05.2011"
+}

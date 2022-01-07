@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Rosenheim",
+  "pseudoCompany": false,
+  "street": "Dr.-Steinbeißer-Str.",
+  "name": "boerse.de Finanzportal AG",
+  "naturalPerson": false,
+  "squuid": "5c506b73-5b83-4786-a709-6a8e055685d8",
+  "controlDate": "2021-11-30T17:58:31.613Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "83026",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.boerse.de",
+        "squuid": "5c506b3f-8cbe-49d1-9914-e8102e5db4af"
+      },
+      "squuid": "5c506c2c-0df6-4670-97ee-a31e22a93f69",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Müller, Thomas",
+        "squuid": "5be1a6b6-8d72-448d-9ddf-74a618fa2490"
+      },
+      "squuid": "5c506d04-eead-4e5a-806e-4dc591cdd557",
+      "state": "active"
+    }
+  ]
+}

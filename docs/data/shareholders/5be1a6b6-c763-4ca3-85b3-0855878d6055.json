@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Arabella Str. 23",
+  "name": "freundin Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c763-4ca3-85b3-0855878d6055",
+  "controlDate": "2021-10-15T13:46:41.386Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81925",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Freundin",
+        "squuid": "5be1a6b1-4053-4775-b08a-399583f0e2dd"
+      },
+      "squuid": "5be1a6b9-71ba-4e5a-8bbf-8058fc66b6f4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.freundin.de",
+        "squuid": "5be1a6b1-d0ed-47b9-b9ef-3644db19dca7"
+      },
+      "squuid": "5be1a6b9-d89b-49bc-8e2b-218fa8c3a30b",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "squuid": "5be1a6b8-cecd-43a7-8fda-6a4a8c706d8d",
+      "state": "active"
+    }
+  ]
+}

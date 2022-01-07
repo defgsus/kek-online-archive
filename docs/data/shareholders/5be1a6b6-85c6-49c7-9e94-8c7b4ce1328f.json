@@ -1,0 +1,32 @@
+{
+  "name": "Streubesitz an der Evonik Industries AG",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-85c6-49c7-9e94-8c7b4ce1328f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 35.7,
+      "held": {
+        "name": "Evonik Industries AG",
+        "squuid": "5be1a6b6-3231-4411-bd4d-63476a6a9554"
+      },
+      "squuid": "5be1a6b8-e8b0-41ec-9862-693fe1fc943c",
+      "state": "active"
+    }
+  ],
+  "credits": "Az: KEK 944",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

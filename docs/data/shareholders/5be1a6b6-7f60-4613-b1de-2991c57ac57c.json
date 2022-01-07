@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Platz der Republik",
+  "name": "Deutscher Bundestag/Redaktion \"Das Parlament\"",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7f60-4613-b1de-2991c57ac57c",
+  "controlDate": "2020-05-15T11:38:07.604Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "11011",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Das Parlament",
+        "squuid": "5be1a6b1-4f74-45c7-9562-e2de83e7cb18"
+      },
+      "squuid": "5be1a6b9-5e31-4392-9efc-74d7008c8c3a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.das-parlament.de",
+        "squuid": "5be1a6b1-f66d-4672-833e-a54747fe2347"
+      },
+      "squuid": "5be1a6b9-9295-4c72-8a95-ca3f1c4e4d06",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK"
+}

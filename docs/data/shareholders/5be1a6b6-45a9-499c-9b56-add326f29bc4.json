@@ -1,0 +1,111 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.167,
+      "held": {
+        "name": "NiedersachsenRock 21 GmbH & Co. KG",
+        "squuid": "5be1a6b6-d018-4147-bd70-c13114845f19"
+      },
+      "squuid": "5be1a6b7-3366-48a4-9b25-93936845e9c9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Antenne Sylt GmbH & Co. KG",
+        "squuid": "5be1a6b6-1bc3-4742-94de-bdc3c23eea98"
+      },
+      "squuid": "5e1db7ac-ca6e-46e3-91fc-609ade359131",
+      "state": "active",
+      "votingShares": 25.025
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.17,
+      "held": {
+        "name": "NiedersachsenRock21 Beteiligungs GmbH",
+        "squuid": "5efb0c4f-a0b8-450a-8e27-0eb6a666d272"
+      },
+      "squuid": "5f0d9e54-55e6-4d37-8b60-e476b1a071f3",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hannover",
+  "note": "KEK 1072",
+  "pseudoCompany": false,
+  "street": "Karl-Wiechert-Allee",
+  "name": "NiedersachsenRadio GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-45a9-499c-9b56-add326f29bc4",
+  "controlDate": "2021-12-20T17:08:28.560Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "30625",
+  "credits": "Beschluss der KEK vom 11.04.2017, Az.: KEK 893, und Bescheid der NLM vom 18.04.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Heise Beteiligung GmbH & Co. KG",
+        "squuid": "5be1a6b6-72b5-4b80-90aa-d86a471f3a3e"
+      },
+      "squuid": "5be1a6b7-1334-4cee-b822-a4608eb36f55",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "NiedersachsenRadio Beteiligung GmbH",
+        "squuid": "5efb0e0e-8653-4232-8528-55f983e244bd"
+      },
+      "squuid": "5efb0e32-f505-4527-baea-c3a7497f55ce",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "HannoverRadio GmbH",
+        "squuid": "5be1a6b6-8e11-4adc-84c9-e5ed5de483f5"
+      },
+      "squuid": "5f0d9cf1-3086-4b3a-9b99-b0fba307294b",
+      "state": "active"
+    }
+  ]
+}

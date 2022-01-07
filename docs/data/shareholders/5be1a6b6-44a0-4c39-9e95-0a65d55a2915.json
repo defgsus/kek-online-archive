@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Schanzenstr.",
+  "name": "RWG Redaktionswerft GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-44a0-4c39-9e95-0a65d55a2915",
+  "controlDate": "2021-11-12T14:46:05.609Z",
+  "streetNumber": "70",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20357",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "screen Magazin",
+        "squuid": "5be1a6b1-a2ce-454e-96f7-52f56a4cdcd4"
+      },
+      "squuid": "5be1a6b9-42e5-4ef2-8dd2-a721989301eb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.screen-magazin.de",
+        "squuid": "5be1a6b1-d0a0-4232-845d-04442d91bb0a"
+      },
+      "squuid": "5be1a6b9-6df9-434d-ae36-bfe0e224cf84",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "de Buhr, Jens",
+        "squuid": "5be1a6b6-c769-4a3a-9511-c2cd06585090"
+      },
+      "squuid": "5be1a6b8-ab37-4f45-85a6-6d8ee21ab409",
+      "state": "active"
+    }
+  ]
+}

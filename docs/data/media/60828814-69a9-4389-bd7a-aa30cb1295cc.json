@@ -1,0 +1,79 @@
+{
+  "rfRepresentative": "Dr. Christoph Schneider, Roger Menz",
+  "state": "active",
+  "sharesInfo": "KEK 1092",
+  "rfShoppingChannel": false,
+  "rfFreePay": false,
+  "squuid": "60828814-69a9-4389-bd7a-aa30cb1295cc",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.amazon.de/kontaktformular",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Amazon Digital Germany GmbH",
+        "squuid": "60828790-7193-4eea-bec9-33460114b234"
+      },
+      "squuid": "60828ba6-b79c-4517-ba97-ed48dfa4ca25",
+      "state": "active"
+    }
+  ],
+  "name": "Prime Video Live (Arbeitstitel)",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Übertragung von Live-Sportereignissen als Teil des Streaming-Angebots Amazon Prime Video",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "06.04.2021",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "06.04.2021",
+  "accessibilityEmail": "impressum@amazon.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

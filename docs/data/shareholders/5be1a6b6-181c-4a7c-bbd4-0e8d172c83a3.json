@@ -1,0 +1,133 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Sächsisches Gemeinschaftsprogramm GmbH & Co. KG",
+        "squuid": "5be1a6b6-1eb4-45d8-931a-789e8b934ea5"
+      },
+      "squuid": "5be1a6b7-7a1f-4a0e-8440-41242c41d0a9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.77,
+      "held": {
+        "name": "Radiowelle Zwickau GmbH & Co. Betriebs KG",
+        "squuid": "5be1a6b6-173c-40fc-bb61-4ceb84fe173b"
+      },
+      "squuid": "5be1a6b7-8229-472f-b971-89172e2f2130",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lausitzer Rundfunkbetreibergesellschaft mbH",
+        "squuid": "5be1a6b6-6bbe-4119-8f82-178c66156f17"
+      },
+      "squuid": "5be1a6b7-efb7-4fa5-8638-5105d9fe5a64",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Sächsisches Gemeinschaftsprogramm Geschäftsführungs GmbH",
+        "squuid": "5f8d842b-1398-4b2e-91c6-d7b0c55775e2"
+      },
+      "squuid": "5f9006b5-62ba-4eba-a066-2fa1c6e7cf64",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leipzig",
+  "note": "Mantelprogrammveranstalter ENERGY Sachsen (Energy Leipzig, Energy Dresden, Energy Chemnitz, Energy Zwickau, Energy Lausitz)",
+  "pseudoCompany": false,
+  "street": "Thomasgasse",
+  "name": "Netzwerk Programmanbietergesellschaft mbH Sachsen & Co. Betriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-181c-4a7c-bbd4-0e8d172c83a3",
+  "controlDate": "2021-11-25T15:47:08.107Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04109",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ENERGY Sachsen",
+        "squuid": "5e392392-5647-4eb5-92f3-51d05f84abad"
+      },
+      "squuid": "5e3924cb-30e7-43e3-8813-732b323b8e01",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.energy.de/sachsen",
+        "squuid": "5f901279-2b2a-4ba2-b83c-61ba1e1508bc"
+      },
+      "squuid": "5f9013ab-d7c2-4887-9d04-145fb33506eb",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM (Stand: 5/2017)",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Radio Citywelle Chemnitz GmbH & Co. Betriebs KG",
+        "squuid": "5be1a6b6-85f0-4c08-9f0f-deebb770dc69"
+      },
+      "squuid": "5be1a6b8-240a-4217-93bd-eb23075223d1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Radio Elbwelle Dresden GmbH & Co. KG",
+        "squuid": "5be1a6b6-1716-4a3a-b7d2-c04bed51280b"
+      },
+      "squuid": "5be1a6b8-4fc7-46d9-b533-093ed5d3280f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "7010 Radio Leipzig GmbH & Co. Betriebs KG",
+        "squuid": "5be1a6b6-3b95-4bf5-a5c0-75a8fb6ffce9"
+      },
+      "squuid": "5be1a6b8-a3ee-42a2-ab06-efa3e1da18bc",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Netzwerk Programmanbietergesellschaft mbH Sachsen",
+        "squuid": "5f8d93f0-036d-45d6-94aa-4dda55bccb1e"
+      },
+      "squuid": "619fb0a3-e270-4b25-8be6-4f0895bb0fb5",
+      "state": "active"
+    }
+  ]
+}

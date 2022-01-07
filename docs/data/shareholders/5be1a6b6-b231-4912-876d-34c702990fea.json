@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Würzburg",
+  "pseudoCompany": false,
+  "street": "Dominikanerplatz 8",
+  "name": "Verlag Johann Wilhelm Naumann GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b231-4912-876d-34c702990fea",
+  "controlDate": "2019-05-20T14:13:30.673Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "97070",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Johann-Wilhelm-Naumann-Stiftung",
+        "squuid": "5be1a6b6-273f-4100-92e1-b578999f45d4"
+      },
+      "squuid": "5be1a6b8-9af5-47f7-afb9-862236448f1a",
+      "state": "active"
+    }
+  ]
+}

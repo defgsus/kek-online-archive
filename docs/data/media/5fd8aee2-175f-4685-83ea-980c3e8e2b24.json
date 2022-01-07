@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Oliver Jollet, Raffaele Annecchino, Thomas Goller, Dr. Mark Specht, Till Weidemüller",
+  "state": "active",
+  "sharesInfo": "KEK 1064",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Christine Diemert",
+  "rfStartDate": "2020",
+  "rfFreePay": true,
+  "squuid": "5fd8aee2-175f-4685-83ea-980c3e8e2b24",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Pluto TV Europe GmbH",
+        "squuid": "5fd8af14-4a38-46be-846e-a4c3b4b5878b"
+      },
+      "squuid": "5fd8b6a5-dbbd-4e33-be77-f8c5c75df4af",
+      "state": "active"
+    }
+  ],
+  "name": "Pluto TV",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Streaming-Angebot, das aus Programmbeiträgen einer Vielzahl thematisch sortierter, linear gesendeter „Channels“ besteht",
+  "rfLicenseUntil": "21.10.2030",
+  "rfLicensed": "22.10.2020",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "22.10.2020",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

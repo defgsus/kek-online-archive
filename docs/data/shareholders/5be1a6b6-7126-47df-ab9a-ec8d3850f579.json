@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Joseph-Schumpeter-Allee 33",
+  "name": "Chefkoch GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7126-47df-ab9a-ec8d3850f579",
+  "controlDate": "2021-10-14T15:13:56.775Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53227",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.chefkoch.de",
+        "squuid": "5be1a6b1-b6b9-4323-9f70-7e95be20b5c2"
+      },
+      "squuid": "5be1a6b9-7be1-436a-b382-dc0b6ff6f798",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.essen-und-trinken.de",
+        "squuid": "5be1a6b1-2d3e-49f0-a81e-dcf6b0aec7f6"
+      },
+      "squuid": "6081a262-1b08-4c8f-a693-13ea03d99904",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gruner + Jahr GmbH",
+        "squuid": "5be1a6b6-6647-418f-be7f-faee8268574e"
+      },
+      "squuid": "5be1a6b8-68f2-4fc1-a476-d03fa20b1a1b",
+      "state": "active"
+    }
+  ]
+}

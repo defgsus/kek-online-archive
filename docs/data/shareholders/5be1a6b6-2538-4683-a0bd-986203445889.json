@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "city": "Fürth",
+  "pseudoCompany": false,
+  "street": "Karolinenstraße",
+  "name": "Radio Starlet Programm- und Werbegesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2538-4683-a0bd-986203445889",
+  "streetNumber": "32",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "90763",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Truck Radio",
+        "squuid": "5be1a6b1-65e4-403d-9fa4-bb7d341a26c8"
+      },
+      "squuid": "5be1a6b9-bcde-42d3-9fba-69df8fe351b9",
+      "state": "active"
+    }
+  ],
+  "credits": "Website der BLM, Abruf am 25.01.2011 sowie Website der LFK, Abruf am 04.03.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 97.0,
+      "holder": {
+        "name": "Meister, Michael",
+        "squuid": "5be1a6b6-8d01-4a57-acae-3384ac553e87"
+      },
+      "squuid": "5be1a6b7-d871-4dc6-a3db-681dc39ada12",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Kappler, Gerald",
+        "squuid": "5be1a6b6-c4ba-4be9-abeb-d0625ace2b33"
+      },
+      "squuid": "5be1a6b7-d42d-492a-a0dc-fc26ce4b870d",
+      "state": "active"
+    }
+  ]
+}

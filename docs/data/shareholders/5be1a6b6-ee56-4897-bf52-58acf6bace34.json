@@ -1,0 +1,86 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Lietzenburger Str. ",
+  "name": "RTV Broadcast & Content Management GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ee56-4897-bf52-58acf6bace34",
+  "otherMediaActivities": "Peter Tietzki hält auch 51,26 % an der RtvD Video- und Filmproduktions GmbH, welche die russischsprachigen Pay-TV-Unterhaltungsspartenprogramme Nasche Ljubimoe Kino, Detski Mir und Teleclub veranstaltet.",
+  "controlDate": "2021-12-16T16:46:59.195Z",
+  "streetNumber": "75",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10719",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Nasch Kinomir",
+        "squuid": "5be1a6b1-ef4a-4fc9-b5f6-c43c241f2206"
+      },
+      "squuid": "5be1a6b9-3f0e-4ff8-bb93-723ea00e168f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Telebom",
+        "squuid": "5be1a6b1-4b93-4992-8e2c-0c327e2b2cf6"
+      },
+      "squuid": "5be1a6b9-9f5b-4107-89ca-9986656e0e49",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Teledom",
+        "squuid": "5be1a6b1-4c27-4fda-b70f-034b0b121c76"
+      },
+      "squuid": "5be1a6b9-4728-45e8-a089-dab1fd64c134",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "OstWest",
+        "squuid": "5be1a6b1-f6a6-4686-ac88-adb17f10b639"
+      },
+      "squuid": "5be1a6b9-3055-4b40-91fd-c0533fad16dc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ostwest.tv",
+        "squuid": "5f33ed3f-4af2-43a9-a34b-d4a4365b7a73"
+      },
+      "squuid": "5f33ed67-7229-4fcd-83d0-38b22fd2160e",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 03.01.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Tietzki, Peter",
+        "squuid": "5be1a6b6-f00b-4658-98b8-19203ab6fe44"
+      },
+      "squuid": "5be1a6b8-06e0-4793-9fec-075dfbcf9ff0",
+      "state": "active"
+    }
+  ]
+}

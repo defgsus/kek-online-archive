@@ -1,0 +1,75 @@
+{
+  "rfRepresentative": "Bulke, Alfred ",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "01.07.1998",
+  "rfFreePay": true,
+  "squuid": "5c5c18e6-4034-4992-aaaa-e2364a355dab",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "accessibilityUrl": "https://www.neissewelleguben.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Video & TV GmbH Kurt Bulke",
+        "squuid": "5c5c186e-c694-4363-b0ee-fe1428b125b7"
+      },
+      "squuid": "5c5c1a7d-3043-4e9a-b91c-1dd648ff67b2",
+      "state": "active"
+    }
+  ],
+  "name": "NWG - Neiße Welle Guben",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+    "name": "Spartenprogramm (Information/Dokumentation)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Brandenburger Lokal-TV-Programm",
+  "rfLicenseUntil": "31.07.2025",
+  "rfLicensed": "12.07.2018",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d7a7-4bd8-a6c4-89a1eb1c79a0",
+      "name": "Lokale Kabelnetze (veraltet)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.08.2018",
+  "rfAddress": "Platanenstraße 1, 03172 Guben",
+  "accessibilityEmail": "neisse-welle-guben@t-online.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Pulsnitz",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Bischofswerdaer Straße",
+  "name": "Hietzschold, Peter",
+  "naturalPerson": true,
+  "co": "Text & Grafik-Service",
+  "squuid": "5c57e770-dc14-46c5-a577-a8abb75958d7",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01896",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Regionale Kabelzeitung",
+        "squuid": "5c57e753-d96f-491a-9e48-82bb4b669f72"
+      },
+      "squuid": "5c57e785-c685-4ce4-8825-f80d2db40235",
+      "state": "active"
+    }
+  ]
+}

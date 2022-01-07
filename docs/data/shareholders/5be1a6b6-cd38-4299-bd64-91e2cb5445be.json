@@ -1,0 +1,101 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.09,
+      "held": {
+        "name": "Lokalfunk für den Kreis Borken GmbH & Co. KG",
+        "squuid": "5be1a6b6-4527-4ef2-9ab7-0f9cd59a6f29"
+      },
+      "squuid": "5be1a6b7-2d29-4ebb-9224-954fcfa6f340",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.6,
+      "held": {
+        "name": "Pressefunk Nordrhein-Westfalen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8c11-4526-af08-275ec93dea8b"
+      },
+      "squuid": "5be1a6b7-4c62-4c32-8072-ea04e903669a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.08,
+      "held": {
+        "name": "Lokalfunk Betriebsgesellschaft für den Kreis Borken mbH",
+        "squuid": "5f118afc-d5a0-4761-9da5-833f45c9344e"
+      },
+      "squuid": "60016007-6af3-47bb-ad5c-eedf00932430",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bocholt",
+  "pseudoCompany": false,
+  "street": "Europaplatz 24-28",
+  "name": "Temming Verlag KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-cd38-4299-bd64-91e2cb5445be",
+  "controlDate": "2021-11-26T15:28:46.013Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "46399",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bocholter-Borkener Volksblatt",
+        "squuid": "5be1a6b1-a2ba-49e7-97df-2b41e4903c63"
+      },
+      "squuid": "5be1a6b9-b981-4f8e-b5b7-61162807c6ab",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bbv-net.de",
+        "squuid": "5be1a6b1-99d4-4927-8418-26bcb63a91e8"
+      },
+      "squuid": "5be1a6b9-e0f2-4f9b-9446-0d235e10b288",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mannheims, Josef",
+        "squuid": "5be1a6b6-cd9a-48d4-8516-ea84bb649a7f"
+      },
+      "squuid": "5be1a6b7-d858-4dd1-9b28-0b87c9f4e7f7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Terheyden, Jörg",
+        "squuid": "5eb95652-e24e-4d58-bec3-225c9a014450"
+      },
+      "squuid": "5eb95672-6a19-4362-a3db-99280bf38646",
+      "state": "active"
+    }
+  ]
+}

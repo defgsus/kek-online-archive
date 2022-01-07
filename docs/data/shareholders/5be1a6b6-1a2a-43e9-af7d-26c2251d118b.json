@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.1,
+      "held": {
+        "name": "Wichern-Verlag GmbH",
+        "squuid": "5be1a6b6-deac-497e-b5ab-9f4f2b07c638"
+      },
+      "squuid": "5be1a6b8-cf88-4584-8f70-7d262deba6fe",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Blumenstr. 76",
+  "name": "Evangelische Verlagsanstalt GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1a2a-43e9-af7d-26c2251d118b",
+  "controlDate": "2021-10-04T10:45:59.755Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "04155",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 74.0,
+      "holder": {
+        "name": "Gemeinschaftswerk der Evangelischen Publizistik (GEP) gGmbH",
+        "squuid": "5be1a6b6-5f90-43ff-832e-ada85f759d11"
+      },
+      "squuid": "5df0c0d7-0a43-4368-9f27-b77063262b3e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "holder": {
+        "name": "Evangelische Kirche in Mitteldeutschland (EKM)",
+        "squuid": "6040d566-4eee-463a-b555-d24f6cdd4e42"
+      },
+      "squuid": "6040d5a8-dc31-4674-9a6d-f11e5f5aaa19",
+      "state": "active"
+    }
+  ]
+}

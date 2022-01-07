@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Freiberg",
+  "pseudoCompany": false,
+  "street": "Goldbachweg",
+  "name": "FutureGrooveMedia GbR",
+  "naturalPerson": false,
+  "squuid": "5e380262-d109-49d1-b609-dc1b7de7f4fd",
+  "controlDate": "2021-04-21T15:49:51.672Z",
+  "streetNumber": "31",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09599",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "VMD.TV",
+        "squuid": "5e380005-d64a-488e-8b55-006d52529304"
+      },
+      "squuid": "5e3802a1-774c-46f0-8a45-856173a7ad8a",
+      "state": "active"
+    }
+  ]
+}

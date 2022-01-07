@@ -1,0 +1,89 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Nymphenburger Straße",
+  "name": "MuP Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7e47-42d5-9c5e-e4e7ee2b7196",
+  "controlDate": "2021-10-15T10:07:49.107Z",
+  "streetNumber": "20b",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80335",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Skipper Bootshandel",
+        "squuid": "5be1a6b1-e735-4c46-ade1-f384b39adebc"
+      },
+      "squuid": "5be1a6b9-5471-44cc-a25a-54730f0849c0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.skipper-bootshandel.de",
+        "squuid": "5be1a6b1-3553-4a57-b72b-4e74707b0853"
+      },
+      "squuid": "5be1a6b9-173f-4964-95e4-fc8787a3fd34",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rute & Rolle",
+        "squuid": "5be1a6b1-3caf-406c-ae89-fddaf919294f"
+      },
+      "squuid": "5be1a6b9-8c58-465b-9e1b-565522571ea5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ruteundrolle.de",
+        "squuid": "5be1a6b1-047a-44d8-9ff4-64494989f883"
+      },
+      "squuid": "5be1a6b9-7220-4f0b-b508-ba72da8fb4b6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Fisch & Fliege",
+        "squuid": "5be1a6b1-0c1c-4c54-83f3-129a499dc5cc"
+      },
+      "squuid": "5be1a6b9-c9c1-409b-9c66-d7756ecef52c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Mattes, Christoph",
+        "squuid": "5be1a6b6-fce3-41d1-b60b-20df9c0b140f"
+      },
+      "squuid": "5be1a6b8-44a8-4d96-b1eb-fa0d05a53ea0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Neumann, Christel",
+        "squuid": "5be1a6b6-a348-411e-a496-0325a9152bb3"
+      },
+      "squuid": "5be1a6b8-c363-489f-bbec-3805b0eef763",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "DK Medien Verwaltungs- und Beteiligungsgesellschaft mbH",
+        "squuid": "5ebe84cc-3400-4ae3-ba80-429d87c7a0e5"
+      },
+      "squuid": "5ebe8583-a60f-4cea-bd1f-5a002f05ab69",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Delmenhorst",
+  "pseudoCompany": false,
+  "street": "Lange Straße 122",
+  "name": "DK Medien GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-18f9-48d6-a1e6-34a9205f316a",
+  "controlDate": "2021-09-28T12:16:36.846Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "27749",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Delmenhorster Kreisblatt",
+        "squuid": "5be1a6b1-9dd9-41fb-95d5-3e541786c142"
+      },
+      "squuid": "5be1a6b9-cf96-47ba-89dd-50bc374a7720",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.noz.de/delmenhorster-kreisblatt",
+        "squuid": "5be1a6b1-2d9b-4b88-b3dc-9e50a6983a50"
+      },
+      "squuid": "5be1a6b9-30be-48fc-b749-08f79c2ddfca",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "L.V. Fromm Verwaltungsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-247b-40f5-80f1-0a66263980d0"
+      },
+      "squuid": "5be1a6b8-8b14-44ca-b8b7-d593c98b8575",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Meinders & Elstermann GmbH & Co KG",
+        "squuid": "5be1a6b6-3ed7-4849-8e3f-a61d5cad7d36"
+      },
+      "squuid": "5be1a6b8-39e9-4676-b28d-3b4fca672b06",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "DK Medien Verwaltungs- und Beteiligungsgesellschaft mbH",
+        "squuid": "5ebe84cc-3400-4ae3-ba80-429d87c7a0e5"
+      },
+      "squuid": "5ebe84f8-0aa4-4a34-a57e-458b9d00fcdd",
+      "state": "active"
+    }
+  ]
+}

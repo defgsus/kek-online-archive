@@ -1,0 +1,126 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MAZ-Regionalverlag Brandenburg GmbH",
+        "squuid": "5be1a6b6-80ec-4e2a-85a8-a8b9d01d5066"
+      },
+      "squuid": "5be1a6b8-e65c-479e-a327-63d69d10e0c3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MAZ-Regionalverlag Dahmeland-Fläming GmbH",
+        "squuid": "5be1a6b6-19a7-473e-a18f-a532a8b30c7e"
+      },
+      "squuid": "5be1a6b8-1aa4-4f50-84f3-fc9482cc9283",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MAZ-Regionalverlag Prignitz-Ruppin GmbH",
+        "squuid": "5be1a6b6-ad3c-4c85-bfed-7ddbe7ad0dca"
+      },
+      "squuid": "5be1a6b8-4fdc-416b-b52b-52250defd78a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MAZ-Regionalverlag Havelland GmbH",
+        "squuid": "5be1a6b6-b005-487a-a74c-57a6f4ebd327"
+      },
+      "squuid": "5be1a6b8-611f-46bc-ac05-1aad2cc0965c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Potsdam",
+  "pseudoCompany": false,
+  "street": "Friedrich-Engels-Str. 24",
+  "name": "Märkische Verlags- und Druck-Gesellschaft mbH Potsdam",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8cd1-46d4-85d9-5e8bbee063fe",
+  "controlDate": "2021-11-03T15:15:36.086Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "14473",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Märkische Allgemeine (Ausgabe Potsdam)",
+        "squuid": "5be1a6b1-39db-44bf-a167-f26fd67a9c54"
+      },
+      "squuid": "5be1a6b9-2d21-40fb-b826-7ebc5924c9d7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Märkische Allgemeine (Ausgaben Teltow-Fläming/Dahme-Spreewald)",
+        "squuid": "5be1a6b1-77e6-4127-9d82-5cfb45ac1176"
+      },
+      "squuid": "5be1a6b9-f626-4e45-aa41-5b0a3ecc92c3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Märkische Allgemeine (Ausgaben Brandenburg, Potsdam-Mittelmark, Havelland)",
+        "squuid": "5be1a6b1-fcaa-4ad7-a984-fc277cbfb8cc"
+      },
+      "squuid": "5be1a6b9-e899-469d-b50a-131c706cee6b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.maz-online.de",
+        "squuid": "5be1a6b1-37df-42fd-a911-1cbd4cc4d530"
+      },
+      "squuid": "5be1a6b9-835a-4893-b833-167cae665381",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Märkische Allgemeine (Ausgaben Oranienburg, Gransee, Nauen, Prignitz, Ostprignitz-Ruppin)",
+        "squuid": "5be1a6b1-199e-4d14-a7c6-30281e3f280e"
+      },
+      "squuid": "5be1a6b9-4936-4d2f-84f0-70958a0fb1f5",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Brandenburgische Medienbeteiligungs GmbH",
+        "squuid": "5be1a6b6-402b-41e6-aef7-76583d4c85b6"
+      },
+      "squuid": "5be1a6b8-01cc-43e6-a5d8-0ba74abf9c3e",
+      "state": "active"
+    }
+  ]
+}

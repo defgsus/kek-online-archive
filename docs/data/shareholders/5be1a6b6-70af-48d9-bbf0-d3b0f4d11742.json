@@ -1,0 +1,42 @@
+{
+  "name": "Kruedener, Moritz Freiherr von",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-70af-48d9-bbf0-d3b0f4d11742",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "Autentic GmbH",
+        "squuid": "5be1a6b6-ca3d-4f40-9acf-89ab4c8a18cf"
+      },
+      "squuid": "5be1a6b7-3f8e-4922-8751-1bc2437afd00",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "Beta Film GmbH",
+        "squuid": "5be1a6b6-dcd1-45cc-8903-9c1d3d04def1"
+      },
+      "squuid": "5f196bc6-7a29-4b45-b6af-aefd64299ad9",
+      "state": "active"
+    }
+  ],
+  "city": "Ruhpolding",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

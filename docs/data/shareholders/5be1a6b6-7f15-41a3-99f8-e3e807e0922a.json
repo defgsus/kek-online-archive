@@ -1,0 +1,72 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Media Group Medweth GmbH",
+        "squuid": "5be1a6b6-bbaa-4f8d-a95d-41b6ecc2c4d0"
+      },
+      "squuid": "5be1a6b8-7698-4793-ab31-a2be38503b3d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Vision Media GmbH",
+        "squuid": "5be1a6b6-3fed-4f0c-9a0f-03088ccb3648"
+      },
+      "squuid": "5be1a6b8-907b-4400-8f2a-2d9af2f9a5f8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Family Media GmbH & Co KG",
+        "squuid": "5be1a6b6-8de4-44ec-8532-df8da9c66179"
+      },
+      "squuid": "5c0a6054-ee1c-4e79-a4af-94e618e12448",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Basel (CH)",
+  "pseudoCompany": false,
+  "name": "Media Group Medweth AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7f15-41a3-99f8-e3e807e0922a",
+  "controlDate": "2020-06-17T13:06:23.969Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Medweth, Michael",
+        "squuid": "5be1a6b6-9628-40a0-bebc-024869d22c67"
+      },
+      "squuid": "5be1a6b8-46bd-4a51-95ca-c41ee435322c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Medweth, Christian",
+        "squuid": "5be1a6b6-ad20-429b-b1bb-4668e9e0d143"
+      },
+      "squuid": "5be1a6b8-70a4-4336-9e10-ac9f7931a425",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Burg Schwarzenstein GmbH & Co. KG",
+        "squuid": "5be1a6b6-b8a8-401d-b86c-7cd4fa678516"
+      },
+      "squuid": "5f1aa23b-b08d-4900-a5de-f3e8afbb1d7b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Johannisberge",
+  "pseudoCompany": false,
+  "street": "Rosengasse ",
+  "name": "Burg Schwarzenstein Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5f1aa17b-0a12-489a-b610-1ab363bb8e19",
+  "controlDate": "2021-12-07T14:59:21.874Z",
+  "streetNumber": "32",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "65366",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "GVG Verwaltungs-GmbH & Co. KG",
+        "squuid": "5be1a6b6-6138-4e70-a529-1a139c3cfa8f"
+      },
+      "squuid": "5f75de5d-3a00-49ad-93de-ebf12d79bf1a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Teigelkamp, Michael",
+        "squuid": "5f75de24-0932-454d-94d2-d298b68e922f"
+      },
+      "squuid": "5f75de96-9b43-4be9-b4cc-69adf53ec06c",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Großbeerenstraße",
+  "name": "SASA Digital Ventures GmbH",
+  "naturalPerson": false,
+  "squuid": "5d248894-94c2-4798-8842-deffdd9ff553",
+  "controlDate": "2022-01-06T16:16:18.234Z",
+  "streetNumber": "58",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10965",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.top10berlin.de",
+        "squuid": "5c5316c4-cdfb-40e9-8811-f542fd79bd60"
+      },
+      "squuid": "5d2488a4-30bb-404b-bd86-5b7bbf587298",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "YoCaLa Your Career Lane GmbH",
+        "squuid": "5d2489c1-c069-4bb2-b7de-54db51f63617"
+      },
+      "squuid": "5d2489e1-a78f-454c-b0b4-2b062f585505",
+      "state": "active"
+    }
+  ]
+}

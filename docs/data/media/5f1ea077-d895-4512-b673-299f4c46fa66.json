@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "5f1ea077-d895-4512-b673-299f4c46fa66",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio TEDDY GmbH & Co. KG",
+        "squuid": "5be1a6b6-d1b6-4b42-b474-290b5f4298c9"
+      },
+      "squuid": "5f1ea0b2-3012-4e4f-bd84-eb8387cff7e8",
+      "state": "active"
+    }
+  ],
+  "name": "www.radioteddy.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-03T11:01:29.440Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

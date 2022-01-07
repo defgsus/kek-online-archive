@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Carlsplatz",
+  "name": "Falstaff Deutschland GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5ba4-4327-8027-b721e152d9b4",
+  "controlDate": "2021-10-15T08:51:50.494Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40213",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "falstaff",
+        "squuid": "5be1a6b1-977f-4e75-b07b-519f8574e0a1"
+      },
+      "squuid": "5be1a6b9-36ba-4184-aaae-995742a116de",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.falstaff.de",
+        "squuid": "5be1a6b1-ec3e-454e-bc18-7fef034a7aee"
+      },
+      "squuid": "5be1a6b9-4b77-49c5-a307-57d92ce563aa",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Falstaff Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-4506-478a-8419-4d7545595f6d"
+      },
+      "squuid": "5be1a6b8-4181-4888-b416-2f08bc6f3aa5",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Ruhr24 GmbH & Co. KG",
+        "squuid": "5c5c4a82-8897-442c-a194-c9e656c2a047"
+      },
+      "squuid": "5f032d08-d05e-4b51-acf2-745c1363c2f2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Mönchenwordt",
+  "name": "Ruhr24 Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5f032ce9-7acd-43dd-9212-f63c50fa600f",
+  "controlDate": "2022-01-04T12:06:29.722Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "44137",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Ruhr-Nachrichten Verlag & Co. KG",
+        "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793"
+      },
+      "squuid": "5f032d6d-f590-4f70-bd7f-57fabc9df6e5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Zeitungsverlag Unna GmbH & Co KG",
+        "squuid": "5be1a6b6-cca4-4e6b-918b-dc69a860cd06"
+      },
+      "squuid": "5f032d76-a390-4d57-b9f0-9862c09d4c63",
+      "state": "active"
+    }
+  ]
+}

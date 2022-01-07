@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Plauen",
+  "pseudoCompany": false,
+  "street": "Martin-Luther-Straße 50",
+  "name": "Vogtland-Anzeiger GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5e37-485b-bebe-b799dd854330",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "08525",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "HUP AG",
+        "squuid": "5be1a6b6-ff1d-4a08-abc9-7e12cf6fb8eb"
+      },
+      "squuid": "5be1a6b8-2f70-41b3-aac4-6870d296e859",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 65.0,
+      "holder": {
+        "name": "Hub, Wilfried",
+        "squuid": "5be1a6b6-7377-498a-8e90-a7946c5b3264"
+      },
+      "squuid": "5be1a6b8-b49f-455d-883f-d82ef194a754",
+      "state": "active"
+    }
+  ]
+}

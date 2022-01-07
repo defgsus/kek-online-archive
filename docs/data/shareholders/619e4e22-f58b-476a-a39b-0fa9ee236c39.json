@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Im Mediapark",
+  "name": "Radio ENERGY NRW GmbH",
+  "naturalPerson": false,
+  "squuid": "619e4e22-f58b-476a-a39b-0fa9ee236c39",
+  "controlDate": "2021-11-24T14:38:10.844Z",
+  "streetNumber": "4a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50670",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.energy.de/nrw",
+        "squuid": "619e4dae-d032-407c-a717-0e6b4c68849a"
+      },
+      "squuid": "619e4e3e-5ce3-4cf7-9662-6d76890c57c7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Radio NRJ GmbH",
+        "squuid": "5be1a6b6-fbf8-4b3a-b83b-552f26cc61a6"
+      },
+      "squuid": "619e4eed-6c38-4172-9571-19f20ccf6b96",
+      "state": "active"
+    }
+  ]
+}

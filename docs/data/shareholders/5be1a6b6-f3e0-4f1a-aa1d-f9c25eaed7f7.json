@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Brückenstraße",
+  "name": "Freies Radio Rhein-Neckar e.V.",
+  "naturalPerson": false,
+  "co": "Alte Feuerwache",
+  "squuid": "5be1a6b6-f3e0-4f1a-aa1d-f9c25eaed7f7",
+  "streetNumber": "2 - 4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "68167",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "bermuda.funk",
+        "squuid": "5be1a6b1-6a11-405d-9a9a-4ce922d89628"
+      },
+      "squuid": "5be1a6b9-07f4-4562-9b22-154e560ca82d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bermudafunk.org",
+        "squuid": "5f3e8307-bcce-4d78-b97c-ce105f9ce1a4"
+      },
+      "squuid": "5f3e8333-9305-4ced-a63d-cfb821d88571",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Paul-Lincke-Ufer 42",
+  "name": "Tip Berlin Media Group GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1833-4087-91be-d030f3078caf",
+  "controlDate": "2021-11-17T14:13:30.675Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10999",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Tip Berlinmagazin",
+        "squuid": "5be1a6b1-f6f1-4591-b9e8-0bfbfa60577c"
+      },
+      "squuid": "5be1a6b9-10f1-43c2-8327-732975a7d752",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tip-berlin.de",
+        "squuid": "5be1a6b1-719e-4cf9-b38e-970a315ac6d0"
+      },
+      "squuid": "5be1a6b9-d6be-4676-8587-eef5c01fb1f4",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Rischke, Robert",
+        "squuid": "5be1a6b6-f8cb-4009-9552-d3322af1aa54"
+      },
+      "squuid": "5be1a6b8-9f6b-4429-b890-d930af0160bf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Roth, Joram",
+        "squuid": "5c3f19ca-eef2-40c4-983f-a7e75e4872ad"
+      },
+      "squuid": "5c3f19ef-594f-4617-b91c-a0c6b83986af",
+      "state": "active"
+    }
+  ]
+}

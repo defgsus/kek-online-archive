@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Meiningen",
+  "pseudoCompany": false,
+  "street": "Neu-Ulmer-Str. 8a",
+  "name": "Meininger Mediengesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-aaa1-40ae-8cac-3414f7c6c6d2",
+  "controlDate": "2021-10-29T15:28:28.632Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "98617",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Meininger Tageblatt",
+        "squuid": "5be1a6b1-224f-49a9-a65f-9c81e2f25a07"
+      },
+      "squuid": "5be1a6b9-3691-4a36-826f-065c209a11d2",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Suhler Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-8f0e-479f-9854-3193606b8fe0"
+      },
+      "squuid": "5be1a6b8-0fec-45f5-bd8a-c439362939da",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "WPV Gesellschaft für Werbung, Presse und Vertrieb mbH",
+        "squuid": "5be1a6b6-066f-451c-b247-87acd547bf32"
+      },
+      "squuid": "5be1a6b8-021b-4029-8428-3378e60584bf",
+      "state": "active"
+    }
+  ]
+}

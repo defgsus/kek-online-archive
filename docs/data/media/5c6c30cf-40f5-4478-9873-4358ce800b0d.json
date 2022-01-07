@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "squuid": "5c6c30cf-40f5-4478-9873-4358ce800b0d",
+  "marketReach": 0.06033993660437366,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)",
+        "squuid": "5be1a6b6-c5dc-4a3d-ad7b-deaabd587214"
+      },
+      "squuid": "5c6c30e8-77d4-4624-83b3-c7bce0b4cda2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Zweites Deutsches Fernsehen (ZDF) Anstalt des öffentlichen Rechts",
+        "squuid": "5be1a6b6-7ee8-46a7-b584-31f00742b7a2"
+      },
+      "squuid": "5c6c30fd-4a49-45af-8dfc-90b83b5fe5ee",
+      "state": "active"
+    }
+  ],
+  "name": "www.kika.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-10T12:36:39.147Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

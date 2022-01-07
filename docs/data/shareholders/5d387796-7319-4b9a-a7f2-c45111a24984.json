@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Krefeld",
+  "pseudoCompany": false,
+  "street": "Fegeteschstraße",
+  "name": "Schulz Holding GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5d387796-7319-4b9a-a7f2-c45111a24984",
+  "controlDate": "2020-01-16T15:53:11.729Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "47809",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schulz Beteiligungsverwaltungs GmbH & Co.KG",
+        "squuid": "5d38787e-e60a-47ca-a63c-ec1cf7e4baae"
+      },
+      "squuid": "5d3878a0-2df7-4411-bf7b-ac5565974d4b",
+      "state": "active"
+    }
+  ]
+}

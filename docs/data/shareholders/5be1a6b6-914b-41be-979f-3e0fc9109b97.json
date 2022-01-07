@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Wiesbaden",
+  "pseudoCompany": false,
+  "street": "Hagenauer Str. 1a",
+  "name": "Q.met GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-914b-41be-979f-3e0fc9109b97",
+  "controlDate": "2022-01-07T14:24:26.949Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65203",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wetter.net",
+        "squuid": "5be1a6b1-a8b5-4f6c-a4aa-1292db5f0900"
+      },
+      "squuid": "5be1a6b9-f89a-4eb4-a962-ca0a207f8c05",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gabler, Norman",
+        "squuid": "5be1a6b6-2c30-4fe2-acc2-484a2ce84246"
+      },
+      "squuid": "5be1a6b8-c4ab-4b27-b74e-40a60e30d01b",
+      "state": "active"
+    }
+  ]
+}

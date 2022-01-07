@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Lauf",
+  "pseudoCompany": false,
+  "street": "Am Brücklein",
+  "name": "AREF Arbeitsgemeinschaft Rundfunk Evangelischer Freikirchen",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8abc-4580-80e3-bca0d9881dc1",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "91207",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "AREF",
+        "squuid": "5be1a6b1-66d3-4f73-8db7-51d2669d75cd"
+      },
+      "squuid": "5be1a6b9-52b1-43bc-9105-344c5736c6b0",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM"
+}

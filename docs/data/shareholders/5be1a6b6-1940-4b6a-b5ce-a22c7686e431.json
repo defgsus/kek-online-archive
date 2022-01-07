@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "Karlsruhe",
+  "pseudoCompany": false,
+  "street": "Am Schloss Gottesaue",
+  "name": "Hochschule für Musik Karlsruhe",
+  "naturalPerson": false,
+  "co": "Institut für Musikjournalismus",
+  "squuid": "5be1a6b6-1940-4b6a-b5ce-a22c7686e431",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "76131",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Junger Kulturkanal",
+        "squuid": "5be1a6b1-f3c2-4198-9385-bd801c290d35"
+      },
+      "squuid": "5be1a6b9-dc85-4f7b-8c15-acfc93240a1f",
+      "state": "active"
+    }
+  ]
+}

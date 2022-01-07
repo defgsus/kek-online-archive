@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "London (GB)",
+  "pseudoCompany": false,
+  "street": "Derry Street",
+  "name": "Associated Newspapers Ltd.",
+  "naturalPerson": false,
+  "squuid": "5d36d1f9-5421-4e1d-b56c-96d486696941",
+  "controlDate": "2021-12-02T13:28:20.129Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dailymail.co.uk",
+        "squuid": "5d36d0e8-d184-40d9-8223-48a76ea09fd6"
+      },
+      "squuid": "5d36d21c-0234-4b35-970d-21a1c1050a11",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Daily Mail and General Trust plc (DMGT)",
+        "squuid": "5d36d5c7-74d8-4ef2-9f1f-c922c72f1257"
+      },
+      "squuid": "5d36d5ee-774a-4fde-bcaa-6ebdf35ce0c5",
+      "state": "active"
+    }
+  ]
+}

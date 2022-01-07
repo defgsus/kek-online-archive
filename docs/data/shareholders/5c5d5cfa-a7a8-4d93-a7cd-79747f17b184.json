@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Hörlitz",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Klettwitzer Strasse",
+  "name": "Sodeik, René",
+  "naturalPerson": true,
+  "squuid": "5c5d5cfa-a7a8-4d93-a7cd-79747f17b184",
+  "streetNumber": "26 A",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "01968 ",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Spreewald Fernsehen – SWF",
+        "squuid": "5c5d5d3f-dedd-44dd-b064-0ba58ccc8288"
+      },
+      "squuid": "5c5d5e87-c87c-4126-87ec-f7a2b4a96a61",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.spreewaldfernsehen.de",
+        "squuid": "5f3662ff-eb9b-46ea-a4a5-0d6c4e86aec9"
+      },
+      "squuid": "5f366333-ec49-435c-98a1-eb6175904370",
+      "state": "active"
+    }
+  ]
+}

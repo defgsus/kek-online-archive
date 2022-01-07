@@ -1,0 +1,147 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "brand eins Verlag Verwaltungs GmbH",
+        "squuid": "5be1a6b6-95fd-41a6-871f-f7bd844c1842"
+      },
+      "squuid": "5be1a6b8-e1ce-421b-bf1c-0d656eafbd60",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "brand eins Verlag GmbH & Co OHG",
+        "squuid": "5be1a6b6-5e05-4409-a2fc-995e76397c13"
+      },
+      "squuid": "5be1a6b8-76f6-4071-86ad-e6fb483d6627",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "brand eins Redaktion GmbH & Co KG",
+        "squuid": "5be1a6b6-fad6-45b7-a32e-9ec201d63dc2"
+      },
+      "squuid": "5be1a6b8-6def-449e-8f9d-db568f5369bf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "brand eins Wissen GmbH & Co KG",
+        "squuid": "5be1a6b6-14cf-4916-980a-f55885f726c1"
+      },
+      "squuid": "5be1a6b8-6c8a-4033-956d-a50202324978",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Speersort 1",
+  "name": "brand eins Medien AG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-31ae-4fe7-a6f5-a614806fbd04",
+  "controlDate": "2021-12-01T13:29:21.272Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "20095",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "brand eins",
+        "squuid": "5be1a6b1-5df3-4553-8abb-bf081038c8ca"
+      },
+      "squuid": "5c4ecc36-cb35-44ba-a266-8ab17c866ac8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.brandeins.de",
+        "squuid": "5be1a6b1-23c5-4f4b-b38e-e3125864e67c"
+      },
+      "squuid": "5c4ecc84-1908-4c45-8d1a-072b8dc217f0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "brand eins /thema",
+        "squuid": "61261be5-736e-4998-9d7b-046a8a771333"
+      },
+      "squuid": "61261d0a-c26e-423e-a0f3-bc147c3e9686",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "edition brand eins",
+        "squuid": "61261d6e-e487-4f4a-b727-f3b7979a3760"
+      },
+      "squuid": "61261da3-29e8-458a-81c4-c348bab26e3b",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 43.0,
+      "holder": {
+        "name": "Werner, Götz",
+        "squuid": "5be1a6b6-aa73-46f3-9f96-2aaa84f66462"
+      },
+      "squuid": "5be1a6b8-d4ba-4228-9ed8-f8eec869bd54",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 9.0,
+      "holder": {
+        "name": "Fischer, Gabriele",
+        "squuid": "5be1a6b6-78b7-4cb5-9e35-2001417d1e33"
+      },
+      "squuid": "5be1a6b8-d5af-42ae-8dda-8a7ea31ba9ac",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.4,
+      "holder": {
+        "name": "CTP Shipping GmbH",
+        "squuid": "5be1a6b6-691f-4626-96d6-143326863500"
+      },
+      "squuid": "5be1a6b8-ba07-42f6-9def-9b86ae74fab9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.8,
+      "holder": {
+        "name": "Streubesitz an der brand eins Medien AG",
+        "squuid": "5be1a6b6-28a6-459d-a5cc-efbffca9a0b8"
+      },
+      "squuid": "5be1a6b8-dbf0-47b7-a1f6-49b8d5510aff",
+      "state": "active"
+    }
+  ]
+}

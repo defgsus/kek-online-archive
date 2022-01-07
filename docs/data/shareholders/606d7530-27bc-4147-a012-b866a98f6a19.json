@@ -1,0 +1,71 @@
+{
+  "name": "BidCo SAS",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 62.84,
+      "holder": {
+        "name": "Show TopCo S.C.A.",
+        "squuid": "5e393c53-dd59-4de8-b2f0-f7b8b47a0d13"
+      },
+      "squuid": "606d784a-9b3f-4328-852e-b8cc7c8cea74",
+      "state": "active",
+      "votingShares": 49.44
+    },
+    {
+      "type": "own",
+      "capitalShares": 37.16,
+      "holder": {
+        "name": "TopCo SAS",
+        "squuid": "606d7b41-7e18-436f-86d2-83d006109689"
+      },
+      "squuid": "606d7c0d-161b-41cd-93a0-72a0e4ce5d9e",
+      "state": "active",
+      "votingShares": 50.56
+    }
+  ],
+  "squuid": "606d7530-27bc-4147-a012-b866a98f6a19",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 23.26,
+      "held": {
+        "name": "SHOW Holding S.C.A.",
+        "squuid": "606c643e-3b1d-4708-8ecb-bf88b284fb28"
+      },
+      "squuid": "606d759a-feef-48f0-bcfc-89df0335d526",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "held": {
+        "name": "Mediawan S.A.",
+        "squuid": "606d7d8b-a95a-4677-bb27-4bbf93760494"
+      },
+      "squuid": "606d7e38-5825-4836-a7d5-7ea08be72a77",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

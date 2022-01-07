@@ -1,0 +1,49 @@
+{
+  "name": "Filter, Joachim",
+  "pseudoCompany": false,
+  "squuid": "5f1aa0f1-88e1-4346-87da-fe3359e94ba7",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "GVG Verwaltungs-GmbH & Co. KG",
+        "squuid": "5be1a6b6-6138-4e70-a529-1a139c3cfa8f"
+      },
+      "squuid": "5f1aa11d-29f8-420c-b0a7-419549d1f3b1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "GVG GmbH",
+        "squuid": "5f1a9f68-83a2-408d-9620-c1999729396e"
+      },
+      "squuid": "6061d6f2-e646-45da-b757-0d850775c112",
+      "state": "active"
+    }
+  ],
+  "city": "Wiesbaden",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

@@ -1,0 +1,47 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "note": "Vorstandsvorsitzender: Lutz Grunert",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Paul-Gruner-Straße",
+  "name": "Radio-Verein Leipzig e. V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d929-4d5c-806b-27fcbc534095",
+  "streetNumber": "62",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04107",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Blau",
+        "squuid": "5be1a6b1-a095-4117-a161-2cdffd358479"
+      },
+      "squuid": "5be1a6b9-e0a1-4fad-8f8e-0c4d1e104774",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioblau.de",
+        "squuid": "5f929448-c79c-48c9-967e-448125f968df"
+      },
+      "squuid": "5f92947f-b10d-4b48-b738-a8588531797d",
+      "state": "active"
+    }
+  ],
+  "credits": "Schreiben der SLM vom 31.01.2013"
+}

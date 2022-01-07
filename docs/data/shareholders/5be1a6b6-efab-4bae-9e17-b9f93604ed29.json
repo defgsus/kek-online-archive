@@ -1,0 +1,56 @@
+{
+  "state": "active",
+  "city": "Prenzlau",
+  "pseudoCompany": false,
+  "street": "Grabowstraße",
+  "name": "Uckermark Kurier GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-efab-4bae-9e17-b9f93604ed29",
+  "otherMediaActivities": "Regionalverlag der Nordkurier Mediengruppe",
+  "controlDate": "2021-11-04T14:42:42.802Z",
+  "streetNumber": "15a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "17291",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Uckermark Kurier",
+        "squuid": "5be1a6b1-ac74-4fbb-8cf2-e614edd5f7f5"
+      },
+      "squuid": "5be1a6b9-17ca-491d-9875-9426e17ff574",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nordkurier Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-2919-4398-9b38-8299ccaf8b7d"
+      },
+      "squuid": "5be1a6b8-e557-47e3-ad9d-65867bf70fcc",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Uckermark Kurier Verwaltungs GmbH",
+        "squuid": "5ee0ebe1-4092-4ba5-a531-ee868253decf"
+      },
+      "squuid": "5ee0ebfb-d479-4c07-a367-ac800df3035f",
+      "state": "active"
+    }
+  ]
+}

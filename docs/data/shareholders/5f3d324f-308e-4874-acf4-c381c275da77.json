@@ -1,0 +1,32 @@
+{
+  "name": "Eigenbesitz der RNB Radio Neckarburg GmbH",
+  "pseudoCompany": true,
+  "squuid": "5f3d324f-308e-4874-acf4-c381c275da77",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "held": {
+        "name": "RNB Radio Neckarburg GmbH",
+        "squuid": "5be1a6b6-bcd4-4862-8a1f-3e03ad0ed1e0"
+      },
+      "squuid": "5f3d3289-6398-4ec4-b7dd-187a215f2d20",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

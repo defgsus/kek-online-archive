@@ -1,0 +1,74 @@
+{
+  "state": "active",
+  "city": "Ansbach",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Schalkhäuser Landstraße",
+  "name": "Frequenzgemeinschaft Region 8 GbR",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0913-4d40-a567-e0f2833038f6",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "91522",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Galaxy Ansbach",
+        "squuid": "5be1a6b1-f641-4a35-8b05-db0d5ce3806f"
+      },
+      "squuid": "5be1a6b9-9e58-42a9-8a8c-4fab82e6d82b",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Frequenzgemeinschaft Region 8 GbR",
+        "squuid": "5be1a6b6-4567-4e73-8b88-ae229e313e52"
+      },
+      "squuid": "5be1a6b7-f1ec-4c42-8c0c-a4a479fe7b3b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Heinrich Delp GmbH",
+        "squuid": "5be1a6b6-8648-48ef-80fd-95a81989ad79"
+      },
+      "squuid": "5be1a6b7-9103-4cab-a117-d405bb63cba6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Henne, Walter L.",
+        "squuid": "5be1a6b6-5e7b-480a-b6d0-d837b97acafc"
+      },
+      "squuid": "5be1a6b7-ff9b-4e3c-97e5-52f42e5c0f8f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Schneider Druck GmbH",
+        "squuid": "5be1a6b6-e7d8-4693-9ad7-5c09151a0888"
+      },
+      "squuid": "5be1a6b7-26e7-4229-a80a-e2e0b98bb6e1",
+      "state": "active"
+    }
+  ]
+}

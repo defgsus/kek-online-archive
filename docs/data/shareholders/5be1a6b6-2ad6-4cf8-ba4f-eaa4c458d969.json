@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Kaufinger Straße",
+  "name": "HK Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2ad6-4cf8-ba4f-eaa4c458d969",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "80331",
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 11.01.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 92.88,
+      "holder": {
+        "name": "HK Vermögensverwaltungs GmbH",
+        "squuid": "5be1a6b6-5e45-4a82-b07c-363b4c927775"
+      },
+      "squuid": "5be1a6b7-dbce-4e1f-8448-42d298627914",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.12,
+      "holder": {
+        "name": "EBC Vermögensverwaltungs GmbH",
+        "squuid": "5be1a6b6-26b2-422b-b49e-e003c7d97637"
+      },
+      "squuid": "5be1a6b7-99f5-4716-bfd2-5750e74d16c9",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Brühl",
+  "pseudoCompany": false,
+  "street": "Kölnstr. 7",
+  "name": "inside-intermedia digital GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0299-4dde-b1d9-f24d73aa6443",
+  "controlDate": "2021-12-09T16:07:38.142Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50321",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.inside-handy.de",
+        "squuid": "5be1a6b1-95d3-47e1-94c7-ecfcbfeadb76"
+      },
+      "squuid": "5be1a6b9-acf7-4b60-93b7-9c6004a62125",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Freynick, Jan",
+        "squuid": "5be1a6b6-1e47-488e-96d6-21d68131cbc4"
+      },
+      "squuid": "5be1a6b8-d5d9-489e-9a5a-243a5dbfb69f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schulze, Sven",
+        "squuid": "5be1a6b6-2861-4287-bb51-18b192618903"
+      },
+      "squuid": "5be1a6b8-fbd2-4cd6-8612-b1c4e32c1dbe",
+      "state": "active"
+    }
+  ]
+}

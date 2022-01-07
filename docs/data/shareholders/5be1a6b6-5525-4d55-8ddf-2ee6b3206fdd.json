@@ -1,0 +1,97 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Heinrichstraße",
+  "name": "Rocket Beans Entertainment GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5525-4d55-8ddf-2ee6b3206fdd",
+  "controlDate": "2022-01-03T16:21:53.390Z",
+  "streetNumber": "9 - 11",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22769",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "rocketbeans.tv",
+        "squuid": "5be1a6b1-d85d-4e1c-82fa-2e608fa817f4"
+      },
+      "squuid": "5be1a6b9-6826-435f-94f0-32d85f3fa6b5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rocketbeans.tv",
+        "squuid": "5f1960b9-2d15-4350-9623-4995b9d5baa7"
+      },
+      "squuid": "5f1960e5-09be-4f21-9a37-853d112e93fc",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 12.12.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Krätschmer, Simon",
+        "squuid": "5be1a6b6-37ed-4626-bd1e-2544d263a908"
+      },
+      "squuid": "5be1a6b8-b81a-4de0-b56b-008bc6ac0196",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Budiman, Daniel",
+        "squuid": "5be1a6b6-d4db-4323-8767-76b57600bc3e"
+      },
+      "squuid": "5be1a6b8-b307-4c1e-b98c-69b4b60d46ae",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Gardé, Etienne",
+        "squuid": "5be1a6b6-e8e5-45fa-b129-623b9fab1690"
+      },
+      "squuid": "5be1a6b8-569c-4e08-af72-7734199017b7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Bomhoff, Nils",
+        "squuid": "5be1a6b6-02e9-4bbf-9484-673def47bce4"
+      },
+      "squuid": "5be1a6b8-c73d-4815-8c3e-a11f95fd8f5b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Riesenbuhei Entertainment GmbH",
+        "squuid": "5be1a6b6-5450-4125-9159-c95ea5cae0f4"
+      },
+      "squuid": "5be1a6b8-c733-483d-9e38-c0a70ec97fa2",
+      "state": "active"
+    }
+  ]
+}

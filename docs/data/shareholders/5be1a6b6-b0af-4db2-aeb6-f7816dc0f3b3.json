@@ -1,0 +1,40 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "RTL Group Verwaltungs und Holding GmbH",
+        "squuid": "5be1a6b6-9888-4896-a695-ca7af68ea639"
+      },
+      "squuid": "5be1a6b7-1d25-47db-a7d8-00bbdb6106c5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Luxemburg",
+  "pseudoCompany": false,
+  "name": "CLT-UFA Holding S.A.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b0af-4db2-aeb6-f7816dc0f3b3",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RTL Group S.A.",
+        "squuid": "5be1a6b6-7474-4c9a-a706-95e39a65b236"
+      },
+      "squuid": "5be1a6b7-0005-4202-af3a-27671e381e82",
+      "state": "active"
+    }
+  ]
+}

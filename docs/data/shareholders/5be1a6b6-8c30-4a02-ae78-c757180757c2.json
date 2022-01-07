@@ -1,0 +1,84 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.0,
+      "held": {
+        "name": "VRM Mittelhessen GmbH & Co KG",
+        "squuid": "5be1a6b6-9c81-4e27-8fd5-9a2ac9fddbdb"
+      },
+      "squuid": "5be1a6b8-d44e-4709-98b4-6bc6da96d9e9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.363,
+      "held": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "5d038b0d-82d6-4181-83f9-d755fb7134b7",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wetzlar",
+  "pseudoCompany": false,
+  "name": "Schnitzler Verlags- und Kinne Beteiligungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8c30-4a02-ae78-c757180757c2",
+  "controlDate": "2021-12-07T11:58:06.828Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "35578",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Kinne, Karina",
+        "squuid": "5be1a6b6-ba4d-4fd0-a1c6-a136973356df"
+      },
+      "squuid": "5be1a6b8-0683-4ba3-affb-a3acd7b52478",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Bardi, Andreas",
+        "squuid": "5be1a6b6-b907-429b-a234-afd83ab59c78"
+      },
+      "squuid": "5be1a6b8-2839-4d0e-a22c-0ea0b84d8643",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Kinne, Beatrice",
+        "squuid": "5be1a6b6-5bf8-4878-ac75-e09c0d81fd85"
+      },
+      "squuid": "5be1a6b8-cd0c-4d9c-bf1e-3271e695b35b",
+      "state": "active"
+    }
+  ]
+}

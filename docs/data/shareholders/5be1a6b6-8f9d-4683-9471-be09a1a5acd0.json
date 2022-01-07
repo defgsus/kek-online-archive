@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Erkelenzdamm",
+  "name": "Juwelo Deutschland GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8f9d-4683-9471-be09a1a5acd0",
+  "streetNumber": "59/61",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10999",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Juwelo",
+        "squuid": "5be1a6b1-6f0d-4398-9585-cd87d7740f05"
+      },
+      "squuid": "5be1a6b9-c56a-4be2-a438-e046ff8a1cd8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "elumeo SE",
+        "squuid": "5c52e0ae-6d87-40ce-a121-d08c917021fa"
+      },
+      "squuid": "5c52e3a2-746b-47f2-a4cf-3cb8ada193f7",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Hofgartenstraße",
+  "name": "Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.",
+  "naturalPerson": false,
+  "squuid": "5d2f3b46-07ee-4be2-b64c-a4d8ff4feace",
+  "controlDate": "2021-12-14T16:48:33.557Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80539",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mpg.de",
+        "squuid": "5d2f3b3e-a81d-48ac-a871-251abb05f60a"
+      },
+      "squuid": "5d2f3b62-3e7d-4401-8468-1522794ce403",
+      "state": "active"
+    }
+  ]
+}

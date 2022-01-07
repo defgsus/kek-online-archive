@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Altenburg",
+  "pseudoCompany": false,
+  "street": "Amtsgasse",
+  "name": "GML Mediengesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5f77242e-6499-46a8-b152-e5067976285d",
+  "controlDate": "2021-11-23T13:31:50.651Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "04600",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.altenburg.tv",
+        "squuid": "5f7723d0-5c1e-459c-9985-db3062ac501d"
+      },
+      "squuid": "5f772450-9cdd-4069-b017-728a652241cf",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Langer, Mike",
+        "squuid": "5f7724c3-2c9f-40bd-b4ec-31b46cd3d7ce"
+      },
+      "squuid": "5f7724e3-1e17-437b-a1c3-ccce661cc1b5",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Land Hessen",
+  "squuid": "5d302b7f-5f09-44c2-8327-fb71584ab610",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 31.31,
+      "held": {
+        "name": "Fraport AG",
+        "squuid": "5d30270b-4a67-4bc0-83ea-e8fd643870b2"
+      },
+      "squuid": "5d302bf4-f61e-48ea-b0a6-585a2bfbd03b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.1,
+      "held": {
+        "name": "Landesbank Hessen-Thüringen Girozentrale (Helaba)",
+        "squuid": "5be1a6b6-04aa-4c68-94d6-5d60fa510eed"
+      },
+      "squuid": "5d302e59-3c42-467a-b9ff-97712a712a7b",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "state": "active"
+}

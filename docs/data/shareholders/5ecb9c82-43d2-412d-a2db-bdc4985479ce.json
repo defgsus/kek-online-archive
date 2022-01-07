@@ -1,0 +1,38 @@
+{
+  "name": "Ulmer, Matthias",
+  "pseudoCompany": false,
+  "squuid": "5ecb9c82-43d2-412d-a2db-bdc4985479ce",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Eugen Ulmer KG",
+        "squuid": "5be1a6b6-66b7-48d1-bdeb-2d34f4e9118a"
+      },
+      "squuid": "5ecb9cd3-6ce7-4879-835a-8d508c20d309",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Roland Ulmer GmbH",
+        "squuid": "5ecb9c58-873f-4a5f-bc2f-90050b1b2e35"
+      },
+      "squuid": "5ecb9dd1-850b-45ba-a332-f38f773a07d3",
+      "state": "active"
+    }
+  ],
+  "city": "Stuttgart",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

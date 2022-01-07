@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f105a2e-8b7e-4cc0-8792-6456bff072a0",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5f105a6e-4fe2-4e04-b969-ce2a02bf9c28",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Betriebsgesellschaft Radio Bochum mbH & Co. KG",
+        "squuid": "5be1a6b6-86ab-4b74-a5ef-1d657e8efae2"
+      },
+      "squuid": "5f105a7b-3ab7-4b00-90c4-1adfa586d233",
+      "state": "active"
+    }
+  ],
+  "name": "www.radiobochum.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-21T15:45:09.170Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

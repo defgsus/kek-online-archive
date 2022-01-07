@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Dresden",
+  "pseudoCompany": false,
+  "street": "Bautzner Str. 22",
+  "name": "SAX Stadtmagazin UG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f7a2-4d90-8a49-6360a82f2e3c",
+  "controlDate": "2021-11-10T14:38:01.518Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "01088",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sax - Das Dresdner Stadtmagazin",
+        "squuid": "5be1a6b1-b3b2-4de5-b553-ed21baa970aa"
+      },
+      "squuid": "5be1a6b9-cbd9-43d2-ad84-ba5042548e69",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cybersax.de",
+        "squuid": "5be1a6b1-283c-4b3d-9363-7afc14d1a9df"
+      },
+      "squuid": "5be1a6b9-7909-4f9c-a4a9-b5491ec530e5",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Stuhrberg, Uwe",
+        "squuid": "5be1a6b6-d5b5-439b-a347-1535622b3b18"
+      },
+      "squuid": "5be1a6b8-740f-4575-a45d-e67a5c0516cd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Eichler, Andreas",
+        "squuid": "5be1a6b6-ce6c-49a9-ae0c-1823c7edc858"
+      },
+      "squuid": "5be1a6b8-6eb4-4012-9a96-06c670e9c703",
+      "state": "active"
+    }
+  ]
+}

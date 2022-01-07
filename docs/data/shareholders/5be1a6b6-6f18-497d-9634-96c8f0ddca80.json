@@ -1,0 +1,60 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "held": {
+        "name": "Antenne Niedersachsen GmbH & Co. KG",
+        "squuid": "5be1a6b6-a997-45d6-8d9d-b0d0b50972f1"
+      },
+      "squuid": "5be1a6b7-838a-4e24-97a8-6f4c25c728e9",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Osnabrück",
+  "pseudoCompany": false,
+  "street": "Domhof",
+  "name": "Dom Buchhandlung GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6f18-497d-9634-96c8f0ddca80",
+  "controlDate": "2021-11-24T15:59:38.296Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "49074",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Dom-Medien GmbH",
+        "squuid": "5ee8a15c-206d-4db5-9b23-bf53e8ce3b28"
+      },
+      "squuid": "5ee8a174-49eb-4969-9735-68a631014652",
+      "state": "active"
+    }
+  ]
+}

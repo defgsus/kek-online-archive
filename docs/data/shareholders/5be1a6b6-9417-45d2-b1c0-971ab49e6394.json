@@ -1,0 +1,79 @@
+{
+  "state": "active",
+  "city": "Cottbus",
+  "note": "Sender gehört zum Radio Group Netzwerk; Stand: 1/2018",
+  "pseudoCompany": false,
+  "street": "Schloßkirchplatz",
+  "name": "Lokal-Radio Cottbus GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9417-45d2-b1c0-971ab49e6394",
+  "controlDate": "2021-12-20T15:22:28.664Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "03046",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Cottbus 94.5",
+        "squuid": "5be1a6b1-d9f7-415b-8dc0-bfb7ac216dae"
+      },
+      "squuid": "5be1a6b9-2fe1-4517-9fee-9d0130514e57",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-cottbus.de",
+        "squuid": "5f33f276-2be6-4ceb-bc85-d9dae8b2cb24"
+      },
+      "squuid": "5f33f2a7-eabd-4238-ba80-cd6684089122",
+      "state": "active"
+    }
+  ],
+  "credits": "mabb",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "Schwenk, Stephan",
+        "squuid": "5be1a6b6-fb21-4b9a-9e14-d7e66a4720bb"
+      },
+      "squuid": "5be1a6b7-4e0f-45fe-b91f-5787a5ff3f31",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 34.8,
+      "holder": {
+        "name": "LR Medienverlag GmbH",
+        "squuid": "5be1a6b6-9618-436a-86d4-98c0dbaae5cd"
+      },
+      "squuid": "5be1a6b7-89a1-4d7f-8a57-a5c13708afdf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.2,
+      "holder": {
+        "name": "Union Druck und Zeitungsverlag GmbH",
+        "squuid": "5be1a6b6-86c1-497f-b329-762e91bfc6b8"
+      },
+      "squuid": "5be1a6b7-eb63-4c8c-b4d0-2274255e7ed6",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.47,
+      "held": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-524a-4711-84c2-482e81119c47",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.7,
+      "held": {
+        "name": "OZ Verlagsbeteiligungs GmbH",
+        "squuid": "5f3d3adc-d7be-46c4-b661-e4234b2dd179"
+      },
+      "squuid": "5ff43712-86fc-403d-a431-98c135381918",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wangen",
+  "pseudoCompany": false,
+  "street": "Im Kellhof 13",
+  "name": "J. Walchner Vermögensverwaltung KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-6443-4a8e-aead-f3188de25537",
+  "controlDate": "2021-11-12T13:53:26.465Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "88239",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Allinger, Alexandar Nenad",
+        "squuid": "5be1a6b6-fbdc-4670-ae3e-c2e764f819fc"
+      },
+      "squuid": "5be1a6b8-b13a-491f-896e-c4b598d3e17b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Walchner, Dr. Martin",
+        "squuid": "5be1a6b6-863f-408d-8a22-cba8854c0285"
+      },
+      "squuid": "5ebbadfe-bd5a-465a-95d7-e87a675cdaaa",
+      "state": "active"
+    }
+  ]
+}

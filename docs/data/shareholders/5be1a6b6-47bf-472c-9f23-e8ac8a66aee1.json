@@ -1,0 +1,77 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Marcel-Breuer-Straße",
+  "name": "TV Bayern Programmgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-47bf-472c-9f23-e8ac8a66aee1",
+  "controlDate": "2022-01-07T10:31:08.258Z",
+  "streetNumber": "18-20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "80807",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "TV Bayern Live",
+        "squuid": "5be1a6b1-39c8-4aaa-9993-116e18c3e3a9"
+      },
+      "squuid": "5be1a6b9-4634-43b2-a0fc-8300423366a6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvbayernlive.de",
+        "squuid": "5f7f27a6-f433-4a2f-a8fc-4f7f79e460c2"
+      },
+      "squuid": "5f7f27ef-4c3d-4707-b384-045116fb205a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5be1a6b8-f85f-4ec8-bcd6-ef2486907199",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "München Live TV Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-528c-4d6f-a94d-5b2d81a28258"
+      },
+      "squuid": "5be1a6b8-3397-4280-b17f-89e3afdb4768",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "TV Bayern GmbH Bayerische Lokal-Fernsehprogramm Gesellschaft",
+        "squuid": "5be1a6b6-515a-406b-b899-999e085ca150"
+      },
+      "squuid": "5be1a6b8-5a8e-4acf-b367-2e0a17bbc75b",
+      "state": "active"
+    }
+  ]
+}

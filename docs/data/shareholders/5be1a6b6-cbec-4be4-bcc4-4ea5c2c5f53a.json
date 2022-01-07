@@ -1,0 +1,39 @@
+{
+  "name": "PrimaCom Management GmbH",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "PrimaCom AG",
+        "squuid": "5be1a6b6-4c85-4d13-81d0-3b018c41c351"
+      },
+      "squuid": "5be1a6b7-4b56-4a79-a5e9-b95eec84e097",
+      "state": "active"
+    }
+  ],
+  "squuid": "5be1a6b6-cbec-4be4-bcc4-4ea5c2c5f53a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Decimus Beteiligungs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5be1a6b6-2a7f-4031-a050-92f87708aa80"
+      },
+      "squuid": "5be1a6b7-41a5-42ee-a8a9-d5a0daba97d9",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

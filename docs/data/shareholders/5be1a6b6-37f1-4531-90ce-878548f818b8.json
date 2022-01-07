@@ -1,0 +1,120 @@
+{
+  "state": "active",
+  "city": "Oberhausen",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Essener Str.",
+  "name": "Betriebsgesellschaft Radio Mülheim/Oberhausen mbH & Co. KG",
+  "naturalPerson": false,
+  "co": "Westfunk  GmbH & Co. KG",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-37f1-4531-90ce-878548f818b8",
+  "controlDate": "2021-12-22T15:49:22.490Z",
+  "streetNumber": "99",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "46047",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "92.9 Radio Mülheim",
+        "squuid": "5be1a6b1-12fe-4ebe-b79a-2f9f88b134fa"
+      },
+      "squuid": "5be1a6b9-16a9-47c7-9d9d-ec54652cc5a3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "106.2 Radio Oberhausen",
+        "squuid": "5be1a6b1-d818-4108-baa4-dbf092186947"
+      },
+      "squuid": "5be1a6b9-66a3-4a9f-a224-074f54ab8901",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiomuelheim.de",
+        "squuid": "5f180721-c778-4b3c-951b-02450756713f"
+      },
+      "squuid": "5f1807b3-00bb-499d-a529-4beedc2addb6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiooberhausen.de",
+        "squuid": "5f18072f-ee41-4f74-b002-90d3ac5ef66e"
+      },
+      "squuid": "5f1807f8-1a0c-43e7-899b-f1cc7966687f",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Zeitungsverlag Niederrhein GmbH & Co. Essen KG",
+        "squuid": "5be1a6b6-82b1-496e-8b3c-f72246503b7e"
+      },
+      "squuid": "5be1a6b8-b2bb-4bf6-a108-8292eeba077e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.04,
+      "holder": {
+        "name": "Beteiligungsholding Mülheim an der Ruhr GmbH",
+        "squuid": "5be1a6b6-32c1-449b-a86c-c620e020c54b"
+      },
+      "squuid": "5be1a6b8-5eec-4471-b81f-4b73afc5ac16",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.04,
+      "holder": {
+        "name": "Stadt Oberhausen",
+        "squuid": "5be1a6b6-16b1-4820-b4dc-9356537798d2"
+      },
+      "squuid": "5be1a6b8-fb33-484a-978e-71c7cb347719",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.92,
+      "holder": {
+        "name": "MFS-Holding GmbH",
+        "squuid": "5be1a6b6-9b6b-4afc-a511-ecba36539dc2"
+      },
+      "squuid": "5c408a0a-85ac-41a2-8066-ee42967e43d1",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Mülheim/Oberhausen mbH",
+        "squuid": "5f180762-de46-470c-81fd-8194ea35a869"
+      },
+      "squuid": "5f180893-0b88-4def-a438-61acca095e3a",
+      "state": "active"
+    }
+  ]
+}

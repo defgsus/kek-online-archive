@@ -1,0 +1,73 @@
+{
+  "state": "active",
+  "city": "Aichach",
+  "pseudoCompany": false,
+  "street": "Oberbernbacher Weg 7",
+  "name": "Mayer & Söhne Druck- und Mediengruppe GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-b8b9-4716-9d86-62dc0bebb7f5",
+  "controlDate": "2021-11-23T10:07:54.161Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86551",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Aichacher Zeitung",
+        "squuid": "5be1a6b1-c0b6-4015-ba4c-f072d5504a34"
+      },
+      "squuid": "5be1a6b9-4735-4274-a43b-d6d896d5d0e8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.aichacher-zeitung.de",
+        "squuid": "5be1a6b1-c18e-48c3-a946-630ebd421279"
+      },
+      "squuid": "5be1a6b9-41e4-40e8-b940-9dd5f201ae81",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 97.0,
+      "holder": {
+        "name": "Sixta, Thomas",
+        "squuid": "5be1a6b6-a101-4b65-af00-fa2519b61e52"
+      },
+      "squuid": "5be1a6b8-9a16-4c1e-a54c-53a4de4a30e7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Sixta, Hildegard",
+        "squuid": "5be1a6b6-eec4-4c66-89c2-e4456f5042e0"
+      },
+      "squuid": "5be1a6b8-635f-4bda-93e6-f89a55937470",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Mayer & Söhne Verwaltung GmbH",
+        "squuid": "5eb01416-a4b6-4764-b230-a7a58776a500"
+      },
+      "squuid": "5eb01443-312c-45a1-9cdc-a36719a91165",
+      "state": "active"
+    }
+  ]
+}

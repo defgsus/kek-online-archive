@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "61d42952-2159-4a2f-9d13-d2da0b477ee0",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "rt1.digital broadcast GmbH",
+        "squuid": "5be1a6b6-6486-4a28-9d02-2b02f103cc2f"
+      },
+      "squuid": "61d4296e-049a-49d3-8096-ca37cdee37b8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Seefunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-e07a-4f54-9c05-2913d392c12a"
+      },
+      "squuid": "61d4297e-3081-4662-8552-45667df134ba",
+      "state": "active"
+    }
+  ],
+  "name": "www.imsueden.de/das-neue-radio-seefunk",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-04T11:02:53.813Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

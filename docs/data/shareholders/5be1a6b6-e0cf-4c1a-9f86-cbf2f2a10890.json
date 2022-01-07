@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Torgau",
+  "pseudoCompany": false,
+  "street": "Elbstr. 1",
+  "name": "Globus-Druck GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e0cf-4c1a-9f86-cbf2f2a10890",
+  "controlDate": "2020-01-10T14:14:04.917Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "04860",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Röhm GmbH & Co. KG",
+        "squuid": "5be1a6b6-97c7-494a-8421-72685c45853e"
+      },
+      "squuid": "5be1a6b8-4dd6-4b83-99bb-42a611d7e13d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kittler, Benno",
+        "squuid": "5be1a6b6-bed4-42e7-838b-472359b7c8b3"
+      },
+      "squuid": "5be1a6b8-4815-432e-b49a-bcde6b171557",
+      "state": "active"
+    }
+  ]
+}

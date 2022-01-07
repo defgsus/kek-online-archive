@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Industriestr. 16",
+  "name": "Bauer Do-it-yourself KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1975-46f4-9232-d80ad26d849d",
+  "controlDate": "2021-03-25T15:39:12.722Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50735",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Selbst ist der Mann",
+        "squuid": "5be1a6b1-63d4-4079-b418-2117e8d4dc4b"
+      },
+      "squuid": "5be1a6b9-c0c3-4560-81c1-04cad1b2efea",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "5be1a6b8-677f-4986-9060-99da8ca5365c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bauer Komplementär KG",
+        "squuid": "5eaffda5-a775-4f8a-9124-c01ded28585e"
+      },
+      "squuid": "5ee9d72b-ed3e-42f8-9ec0-06fcfb1f77f4",
+      "state": "active"
+    }
+  ]
+}

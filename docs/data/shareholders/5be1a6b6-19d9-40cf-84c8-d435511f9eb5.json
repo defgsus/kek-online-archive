@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Großbeerenstraße",
+  "name": "WM Broadcasting GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-19d9-40cf-84c8-d435511f9eb5",
+  "otherMediaActivities": "Die Werner Media Group GmbH veröffentlicht Periodika in russischer und deutscher Sprache und bezeichnet sich als Marktführer für russischsprachige Zeitungen und Zeitschriften in Deutschland und Westeuropa.",
+  "streetNumber": "186 - 192",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "12277",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Europa Center TV",
+        "squuid": "5be1a6b1-2757-419a-a484-6c3e7b8a2238"
+      },
+      "squuid": "5be1a6b9-5d80-48a8-bbb1-76068177babd",
+      "state": "active"
+    }
+  ],
+  "credits": "Bescheid der mabb vom 04.02.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Werner Media Group GmbH",
+        "squuid": "5be1a6b6-2225-4a7b-abb2-e8c0da6c1852"
+      },
+      "squuid": "5be1a6b8-7af7-4315-9546-ff5ab501c2db",
+      "state": "active"
+    }
+  ]
+}

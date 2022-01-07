@@ -1,0 +1,32 @@
+{
+  "name": "Swinging Hamburg e.V.",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-fe71-4119-b1e8-34fa9db6dde6",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Anbietergemeinschaft Hamburger Lokalradio e.V.",
+        "squuid": "5be1a6b6-0228-4160-b5a2-0b9a3475c786"
+      },
+      "squuid": "5be1a6b7-e123-41fc-9e91-f734217a6b5d",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

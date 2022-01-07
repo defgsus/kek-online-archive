@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Ingolstadt",
+  "pseudoCompany": false,
+  "street": "Ziegelbräustr. ",
+  "name": "L.SU.TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-29b8-4ad7-9fdf-7d702b92fb24",
+  "controlDate": "2021-12-13T13:31:02.368Z",
+  "placeOfBusiness": "",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85049",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Latizón TV",
+        "squuid": "5be1a6b1-ca8b-4069-b148-a25c08d7d703"
+      },
+      "squuid": "5be1a6b9-129f-46c2-91d9-93ace59694aa",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.latizon.de",
+        "squuid": "5f7d9eb0-24aa-4b69-9a42-87aa901c9eee"
+      },
+      "squuid": "5f7d9ede-eb3c-42d2-8004-9f8cbd1e1050",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 29.11.2016",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Pittrof, Ursula",
+        "squuid": "5be1a6b6-ce77-4e35-b237-78faf751b3fd"
+      },
+      "squuid": "5be1a6b7-0dff-4b15-a000-439f01b128fc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Pittrof, Stefan",
+        "squuid": "5be1a6b6-9547-438c-9e1c-d8eda0d7eab1"
+      },
+      "squuid": "5be1a6b7-4d55-4b8d-a65d-81ff598665a9",
+      "state": "active"
+    }
+  ]
+}

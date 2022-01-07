@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Duisburg mbH & Co. KG",
+        "squuid": "5be1a6b6-a4f3-449c-9626-c30adb5a975c"
+      },
+      "squuid": "5be1a6b8-cf13-4eb3-96e8-3fa105bda21a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Duisburg mbH",
+        "squuid": "5f159799-b4cd-4963-8a0f-ed5e3a027163"
+      },
+      "squuid": "5ff59f30-1ac1-4628-bdfc-8b07fc37a2fd",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Duisburg",
+  "pseudoCompany": false,
+  "street": "Bungertstr.",
+  "name": "Duisburger Versorgungs- und Verkehrsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-b99e-430e-8cd0-d72d20fa211e",
+  "controlDate": "2021-12-21T17:09:42.317Z",
+  "streetNumber": "27",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "47053",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Duisburg",
+        "squuid": "5be1a6b6-ccb0-4998-b93b-a892a9bf3e85"
+      },
+      "squuid": "5be1a6b8-c796-43bb-8817-a2f8f0eed2f8",
+      "state": "active"
+    }
+  ]
+}

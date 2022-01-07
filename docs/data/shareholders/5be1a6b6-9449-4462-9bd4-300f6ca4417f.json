@@ -1,0 +1,85 @@
+{
+  "state": "active",
+  "city": "Grünhain-Beierfeld OT Beierfeld",
+  "pseudoCompany": false,
+  "street": "August-Bebel-Straße",
+  "name": "KabelJournal GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9449-4462-9bd4-300f6ca4417f",
+  "controlDate": "2021-12-10T10:50:34.914Z",
+  "streetNumber": "86",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "08344",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "KabelJournal Erzgebirge",
+        "squuid": "5be1a6b1-060d-45f4-83d2-9c16347bfd82"
+      },
+      "squuid": "5be1a6b9-4764-4d6f-ae0c-4c07c017e988",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "KabelJournal Chemnitzer Land",
+        "squuid": "5d0b5f9d-bfc1-4e76-82bc-efdb411ff953"
+      },
+      "squuid": "5d0b6086-4d15-41fa-bcc2-50850c1a6ef2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "KabelJournal Flöha-TV",
+        "squuid": "5d0b60b1-fb64-4f27-94d1-0cfc656aac7e"
+      },
+      "squuid": "5d0b6122-fa46-4051-bfdb-b0591db0f4e8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kabeljournal.de",
+        "squuid": "5f7d7f33-7c69-4a55-94d0-0d5d860306d2"
+      },
+      "squuid": "5f7d7f76-2a6c-4b11-8144-cdb345283020",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "JES Invest GmbH",
+        "squuid": "5e4fa49e-e973-4f93-be8e-e95d83e7a90c"
+      },
+      "squuid": "5e4fa4c7-c522-4304-8e4b-2e99b1142be0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Lötzsch, Heiko",
+        "squuid": "5be1a6b6-4907-4d3b-9527-00910dc24e6c"
+      },
+      "squuid": "5e4fa4d7-c1ad-4c5a-a611-40ceec928820",
+      "state": "active"
+    }
+  ]
+}

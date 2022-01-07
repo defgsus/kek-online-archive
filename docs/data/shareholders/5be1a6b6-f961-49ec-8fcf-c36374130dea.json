@@ -1,0 +1,75 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Wenderoth GmbH & Co KG",
+        "squuid": "5be1a6b6-02f9-4c3c-bcd7-bc0823545469"
+      },
+      "squuid": "5be1a6b8-832e-466d-aa3a-3f8ec8faadef",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "held": {
+        "name": "Wenderoth Verwaltungs-GmbH",
+        "squuid": "5eb944d8-1a51-44ba-b178-dffde64641e6"
+      },
+      "squuid": "61095c70-b7f4-4ac1-a145-60bf02c17754",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Jüchen",
+  "pseudoCompany": false,
+  "name": "Wenderoth-Alt, Irene",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-f961-49ec-8fcf-c36374130dea",
+  "controlDate": "2019-06-21T11:50:45.907Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "credits": "IJK"
+}

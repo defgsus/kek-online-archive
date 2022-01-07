@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Laumanns Verwaltungs GmbH",
+        "squuid": "5be1a6b6-b890-4cb5-bcd1-8bf4073a1fd6"
+      },
+      "squuid": "5be1a6b8-677f-4b00-8036-5fdd606de805",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Lippstadt",
+  "pseudoCompany": false,
+  "street": "Lilienstr.",
+  "name": "C. Jos. Laumanns oHG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-aa81-402b-901d-15a881b20d04",
+  "controlDate": "2021-09-30T10:26:36.217Z",
+  "streetNumber": "17",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "59557",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Barnstorf-Laumanns, Christoph",
+        "squuid": "5be1a6b6-7b77-4c8f-83b3-0b58fc33790f"
+      },
+      "squuid": "5be1a6b8-8fdc-40a3-8c5e-80e60951cf3f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Laumanns, Carl Michael",
+        "squuid": "5be1a6b6-41dd-437a-a07a-218288c681af"
+      },
+      "squuid": "5be1a6b8-eac4-41b7-b9f4-341170012c20",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Laumanns, Dr. Reinhard",
+        "squuid": "5be1a6b6-8ead-4979-82b6-ff785321ca9a"
+      },
+      "squuid": "5be1a6b8-ac80-4d84-8d9e-94d4dae139ee",
+      "state": "active"
+    }
+  ]
+}

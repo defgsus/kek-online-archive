@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Arabellastraße",
+  "name": "tv.gusto GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-86d5-4066-87a1-30843d22dd9b",
+  "otherMediaActivities": "Die Burda-Gruppe zählt zu den führenden Verlagshäusern in Deutschland. Zum Themenbereich Essen gibt sie u. a. die Titel „Meine Familie & ich“, „Lisa Kochen & Backen“ und „ARD Buffet“ heraus. Im Bereich der Programmzeitschriften ist die Burda-Gruppe mit den Titeln „TV Spielfilm“, „TV Today“ und „TV Schlau“ vertreten. Die Burda GmbH ist an der Veranstalterin von RTL II beteiligt (1,1 %). Des Weiteren hält die Burda-Gruppe direkte und indirekte Beteiligungen an landesweiten, regionalen und lokalen Hörfunk- und Fernsehsendern. \r\n\r\nJörg Schütte als Mitgesellschafter ist zudem an den Veranstaltern der bundesweiten privaten Fernsehspartenprogramme Collection, auto motor und sport channel sowie Marco Polo beteiligt.",
+  "controlDate": "2021-12-01T13:10:51.591Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81925",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "BonGusto",
+        "squuid": "5be1a6b1-e0d7-4d93-ad23-f845d3046b19"
+      },
+      "squuid": "5be1a6b9-550c-4b67-8887-7c47d17c93fd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bongusto.de",
+        "squuid": "5f116362-b081-45c9-836b-840dad2e40ba"
+      },
+      "squuid": "5f1163a8-f475-4c1e-b915-9032752ec8f5",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 13.06.2017, Az.: KEK 919, und Bescheid der LfM vom 11.07.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 16.5,
+      "holder": {
+        "name": "Schütte, Jörg",
+        "squuid": "5be1a6b6-884e-4c49-83ab-18ecc01e91c5"
+      },
+      "squuid": "5be1a6b7-887a-421a-a3e5-cfff397beb40",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 83.5,
+      "holder": {
+        "name": "Burda Studios Pictures GmbH",
+        "squuid": "5be1a6b6-4c91-4595-bb0c-8cbcd2ded565"
+      },
+      "squuid": "5be1a6b7-eab6-483e-8766-8abd82316e6b",
+      "state": "active"
+    }
+  ]
+}

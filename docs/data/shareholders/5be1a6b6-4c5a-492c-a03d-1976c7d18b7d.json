@@ -1,0 +1,94 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Euskirchen GmbH",
+        "squuid": "5f15a8a8-8b51-4164-9d09-5ebbe2348b42"
+      },
+      "squuid": "5ff6dcae-711c-4785-9b7d-6f49a5e7dea5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Euskirchen",
+  "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
+  "pseudoCompany": false,
+  "street": "Rheinstr.",
+  "name": "Radio Euskirchen GmbH & Co. KG",
+  "naturalPerson": false,
+  "co": "HSG Hörfunk Service GmbH",
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-4c5a-492c-a03d-1976c7d18b7d",
+  "controlDate": "2021-12-22T11:40:12.283Z",
+  "streetNumber": "55",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "53879",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Euskirchen",
+        "squuid": "5be1a6b1-33f2-4e40-a349-a1514d864298"
+      },
+      "squuid": "5be1a6b9-2d46-45ef-80ce-9e12746bb195",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioeuskirchen.de",
+        "squuid": "5f15a89a-04c1-49fd-94e3-4ce9102211a7"
+      },
+      "squuid": "5f15a8e6-c564-473f-baa3-2d3215e9f0c9",
+      "state": "active"
+    }
+  ],
+  "credits": "LfM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Kreis Euskirchen",
+        "squuid": "5be1a6b6-b7f5-4fa3-8cfc-76027e4c189c"
+      },
+      "squuid": "5be1a6b7-e95a-4a41-b22b-d6a14efc6343",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "DuMont Mediatainment GmbH & Co. KG",
+        "squuid": "5be1a6b6-40fa-4f5d-b8d7-34e7e5c1f0f2"
+      },
+      "squuid": "5c419324-e542-47f6-bd93-9d8d9e77f9a0",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Euskirchen GmbH",
+        "squuid": "5f15a8a8-8b51-4164-9d09-5ebbe2348b42"
+      },
+      "squuid": "5f15a96b-a235-450f-97d9-c472f40ccef0",
+      "state": "active"
+    }
+  ]
+}

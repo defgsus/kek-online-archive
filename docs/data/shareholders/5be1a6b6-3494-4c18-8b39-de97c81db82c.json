@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 99.0,
+      "held": {
+        "name": "Constant Ventures  II  B.V.",
+        "squuid": "5be1a6b6-3e97-499f-98e4-ce2b50137208"
+      },
+      "squuid": "5be1a6b7-0639-45c6-a3e6-3ea9214c7235",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Constant Ventures III B.V.",
+        "squuid": "5be1a6b6-b821-4319-88d9-fd43f71440e4"
+      },
+      "squuid": "5be1a6b7-ed23-47c3-be27-16a30c5f9f69",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Amsterdam",
+  "pseudoCompany": false,
+  "name": "Constant Ventures  B.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3494-4c18-8b39-de97c81db82c",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Familie Vermeulen",
+        "squuid": "5be1a6b6-3fc5-47fc-830d-8c1090716b58"
+      },
+      "squuid": "5be1a6b7-2d4a-40ea-ba1d-8c026d179f2c",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "C. Bösendahl GmbH & Co KG",
+        "squuid": "5be1a6b6-acf0-4fd6-be71-53b996b6faed"
+      },
+      "squuid": "5ee35755-9984-421f-9fe4-3eb0a315b810",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bückeburg",
+  "pseudoCompany": false,
+  "street": "Lange Str.",
+  "name": "Gebrüder Niemeyer GmbH",
+  "naturalPerson": false,
+  "squuid": "5ee3573b-f622-45cd-9ca0-f297b1829af5",
+  "controlDate": "2021-11-10T14:47:02.294Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "31675",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Niemeyer, Günther",
+        "squuid": "5be1a6b6-1845-45be-a23b-d332feb0356b"
+      },
+      "squuid": "5ee357e0-e4e3-4915-a263-9207df44c646",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Niemeyer, Hans",
+        "squuid": "5be1a6b6-9b50-481b-befb-dd898304b7d2"
+      },
+      "squuid": "5ee357ed-30da-4a55-9475-44970ad15567",
+      "state": "active"
+    }
+  ]
+}

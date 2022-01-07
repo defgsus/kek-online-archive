@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Paderborn",
+  "pseudoCompany": false,
+  "street": "Karl-Schurz-Str. 26",
+  "name": "Bonifatius GmbH, Druck-Buch-Verlag",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ae99-470e-965e-778c31b69da1",
+  "controlDate": "2021-09-29T15:03:30.969Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "33100",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "der dom",
+        "squuid": "5be1a6b1-8514-4d46-b09d-582a06b0d6ab"
+      },
+      "squuid": "5be1a6b9-6f47-4762-a6c8-90516fae9509",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.derdom.de",
+        "squuid": "5be1a6b1-2317-48bb-acd6-2bcccf69ac9e"
+      },
+      "squuid": "5be1a6b9-f2c8-4e07-b0a9-d0be33b5172c",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Franz-von-Sales-Stiftung",
+        "squuid": "5be1a6b6-b6c7-4bed-9d20-8bc1e0e7c110"
+      },
+      "squuid": "5be1a6b8-d0d3-4116-80a0-42b841324add",
+      "state": "active"
+    }
+  ]
+}

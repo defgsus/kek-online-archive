@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Alexanderstraße",
+  "name": "AC Distribution & Marketing GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e548-48bd-b116-69b952cbd535",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10178",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Shop24Direct",
+        "squuid": "5be1a6b1-9f50-4a88-b527-00661359aa7e"
+      },
+      "squuid": "5be1a6b9-f71b-4dff-b628-b134b32f4d9d",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft der artcom media GmbH vom 15.12.2015",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "artcom-Gesellschaft für Kommunikation mbH",
+        "squuid": "5be1a6b6-80ea-42e6-b051-805e132a47ad"
+      },
+      "squuid": "5be1a6b8-0eac-4cf1-8d78-e9b55990f346",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "state": "active",
+  "city": "Osnabrück",
+  "pseudoCompany": false,
+  "street": "Jürgensort",
+  "name": "teutoRADIO Osnabrück GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-99cf-4c38-a8e6-afc06ac033d4",
+  "controlDate": "2021-12-29T16:30:27.507Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "49074",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Osnabrück",
+        "squuid": "5be1a6b1-380a-498e-9134-68a97b2b116e"
+      },
+      "squuid": "5be1a6b9-e58b-4a21-94ac-aaeda8dfb11a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioosnabrueck.de",
+        "squuid": "5ee77711-592f-40f6-af0b-c2a8f7609033"
+      },
+      "squuid": "5ee7778a-3713-493d-bf2c-ba0b44361034",
+      "state": "active"
+    }
+  ],
+  "credits": "NLM; teutoRADIO Osnabrück GmbH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.996,
+      "holder": {
+        "name": "teutoMedia GmbH",
+        "squuid": "5be1a6b6-b4de-4032-b19b-d08c06f4f12c"
+      },
+      "squuid": "5be1a6b8-f21e-44bb-9531-2dff791be569",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.996,
+      "holder": {
+        "name": "Kannenberg GmbH",
+        "squuid": "5be1a6b6-a9de-48fa-acba-b8c047876dc4"
+      },
+      "squuid": "5be1a6b8-83b0-4303-af4b-4083df33258e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.008,
+      "holder": {
+        "name": "NANO-COMP electronic GmbH",
+        "squuid": "5be1a6b6-c8f4-4f4a-bb6f-159238eaffc1"
+      },
+      "squuid": "5be1a6b8-9902-4320-ad17-91e1f9772341",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Martin-Hoffmann-Str.",
+  "name": "Finanztreff GmbH",
+  "naturalPerson": false,
+  "squuid": "5c47426b-7513-4efc-aeac-73ea254f112e",
+  "controlDate": "2021-12-07T14:14:48.710Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "12435",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.finanztreff.de",
+        "squuid": "5be1a6b1-9ae8-48f2-975d-52bcc09fc163"
+      },
+      "squuid": "5c474280-cae0-4658-95fa-5366d9c675ff",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Börsenmedien AG",
+        "squuid": "5be1a6b6-83d3-47a3-8439-19a5e7471aa7"
+      },
+      "squuid": "5c474364-c4bc-4b00-8c00-2cf42f145e37",
+      "state": "active"
+    }
+  ]
+}

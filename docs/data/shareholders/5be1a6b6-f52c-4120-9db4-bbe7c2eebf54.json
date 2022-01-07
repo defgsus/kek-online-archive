@@ -1,0 +1,80 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 94.9,
+      "held": {
+        "name": "Herder Verwaltungs GmbH",
+        "squuid": "5be1a6b6-eefc-4149-bfb2-f65492d96389"
+      },
+      "squuid": "5be1a6b8-b552-4615-a57d-39c5a8a29c46",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.355364976,
+      "held": {
+        "name": "Radio Paradiso GmbH & Co. KG",
+        "squuid": "5be1a6b6-f3bc-43d6-9d76-6f69bc5dec0d"
+      },
+      "squuid": "5cadcb05-4ad1-4118-b80e-98abb2e07b3a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Hermann-Herder-Str.",
+  "name": "BHMH GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f52c-4120-9db4-bbe7c2eebf54",
+  "controlDate": "2021-10-26T11:55:23.001Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "79104",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 14.59,
+      "holder": {
+        "name": "Bartholomä Herder Stiftung",
+        "squuid": "5be1a6b6-111d-4bf8-a387-a3b26c859961"
+      },
+      "squuid": "5be1a6b8-c4fa-4618-b156-412c3f0150f8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 48.0,
+      "holder": {
+        "name": "Hermann Josef Romano Herder Familienstiftung",
+        "squuid": "5be1a6b6-b692-429c-8287-d3ae6e929aaa"
+      },
+      "squuid": "5be1a6b8-9753-46ee-9081-347fe9cc493d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 37.41,
+      "holder": {
+        "name": "Andrä Herderer Förderstiftung",
+        "squuid": "5be1a6b6-00fb-451d-bbba-f5502d377725"
+      },
+      "squuid": "5be1a6b8-ea37-4d30-beb3-ddeb868d6c16",
+      "state": "active"
+    }
+  ]
+}

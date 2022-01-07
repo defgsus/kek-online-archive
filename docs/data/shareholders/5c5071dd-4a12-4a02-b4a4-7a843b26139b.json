@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Schwäbisch Gmünd",
+  "pseudoCompany": false,
+  "street": "Goethestraße",
+  "name": "Eberle Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "5c5071dd-4a12-4a02-b4a4-7a843b26139b",
+  "controlDate": "2021-11-25T17:15:07.295Z",
+  "streetNumber": "115",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "73525",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.babyclub.de",
+        "squuid": "5c507157-d294-4e21-bf82-f88537eff693"
+      },
+      "squuid": "5c50724e-4a3a-4a6b-afab-c7a858d3e92f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 52.5,
+      "holder": {
+        "name": "Eberle, Bernd",
+        "squuid": "5c5071f3-de1e-4db0-81c1-2061fc21c5dd"
+      },
+      "squuid": "5c5072a9-0c51-4df1-84aa-d15534d300b7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 47.5,
+      "holder": {
+        "name": "Eberle, Jochen",
+        "squuid": "5c5071fd-952c-4a93-8808-bfe742335d60"
+      },
+      "squuid": "5c5072bb-70c6-43ce-8d73-84e6b55a185f",
+      "state": "active"
+    }
+  ]
+}

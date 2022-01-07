@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Harvestehuder Weg ",
+  "name": "Intosite GmbH",
+  "naturalPerson": false,
+  "squuid": "5be43338-765d-4c2b-b630-3a7077fb8dd5",
+  "controlDate": "2021-12-07T11:46:09.685Z",
+  "streetNumber": "41",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20149",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kitchengirls.de",
+        "squuid": "5be432b7-773f-44df-a18d-0de69ade8490"
+      },
+      "squuid": "5be43350-4509-4906-b915-b6288dfaef12",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kuechengoetter.de",
+        "squuid": "5be1a6b1-e945-4fee-a6bf-cb7554cfda0e"
+      },
+      "squuid": "5e32f11f-cb54-40e8-be38-96b02883eac2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.feetastic.de",
+        "squuid": "5be1a6b1-9b6a-4d92-ae25-b4d2dd927c96"
+      },
+      "squuid": "5e32f2c0-2304-4dd7-8558-d8fb0df3bfc7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ganske Media Group GmbH",
+        "squuid": "5be4349f-b557-40ba-bded-caeca828e151"
+      },
+      "squuid": "5be434c5-3a56-4eaf-99dc-a88848306d16",
+      "state": "active"
+    }
+  ]
+}

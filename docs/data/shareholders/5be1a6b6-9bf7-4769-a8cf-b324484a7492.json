@@ -1,0 +1,31 @@
+{
+  "name": "Größere Zahl natürlicher Personen als Vereinsmitglieder bzw. Fördermitglieder",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-9bf7-4769-a8cf-b324484a7492",
+  "owns": [
+    {
+      "type": "own",
+      "held": {
+        "name": "Pink Channel e.V.",
+        "squuid": "5be1a6b6-0c69-4134-a129-9960ab7b0d95"
+      },
+      "squuid": "5be1a6b7-f9cd-488d-8de5-a4036330ca4e",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,108 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.13,
+      "held": {
+        "name": "Rheinland-Pfälzische Rundfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-6bb7-4199-8b08-f060dbb3b080"
+      },
+      "squuid": "5be1a6b7-aa81-4434-acfd-632ab8d760d9",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Pirmasens",
+  "pseudoCompany": false,
+  "street": "Schachenstr. 1",
+  "name": "Adolf Deil GmbH & Co KG Druckerei und Verlag der Pirmasenser Zeitung",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-0e6b-4771-afeb-2c8560fba822",
+  "controlDate": "2021-11-08T16:56:33.566Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "LMK",
+      "type": "organization",
+      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    }
+  ],
+  "zipcode": "66954",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "PZ Pirmasenser Zeitung",
+        "squuid": "5be1a6b1-3f57-40a4-b881-481e8bb3ec13"
+      },
+      "squuid": "5be1a6b9-74b7-4078-9423-4d20cf73f981",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "PZ Pirmasenser Zeitung am Sonntag",
+        "squuid": "5be1a6b1-d9de-4cb2-b3c9-06e5177aab20"
+      },
+      "squuid": "5be1a6b9-a881-4f59-ab9c-19106c95eead",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pirmasenser-zeitung.de",
+        "squuid": "5be1a6b1-76b8-4699-8a14-9e1ee7243f7e"
+      },
+      "squuid": "5be1a6b9-72ae-4422-a59c-2e5abaea0874",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Tukan Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-563d-44f0-b036-0dad76057ce8"
+      },
+      "squuid": "5be1a6b8-74d9-4ac5-bf5c-de5adb718d61",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Pirmasenser Zeitung Verwaltungs-GmbH",
+        "squuid": "5ec3c73e-0a98-4966-a84c-0a92c508001c"
+      },
+      "squuid": "5ec3c75a-a0b7-4540-a963-aff372220c98",
+      "state": "active"
+    }
+  ]
+}

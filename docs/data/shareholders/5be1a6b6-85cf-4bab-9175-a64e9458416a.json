@@ -1,0 +1,90 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.55,
+      "held": {
+        "name": "VMG Verlags- und Mediengesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-8215-496e-b818-996bab0502af"
+      },
+      "squuid": "5be1a6b7-11ab-4201-b187-7cf4b401cd35",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Salzwedel",
+  "note": "Stand: 7/2020",
+  "pseudoCompany": false,
+  "name": "AZ Logistik GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-85cf-4bab-9175-a64e9458416a",
+  "controlDate": "2022-01-03T16:39:11.256Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "credits": "SLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "C. Beckers Buchdruckerei GmbH & Co KG",
+        "squuid": "5be1a6b6-b85f-4fa7-be44-2553622027eb"
+      },
+      "squuid": "5be1a6b8-0ac1-4b4a-8978-181bd38000e5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Beckers Beteiligungsgesellschaft mbH",
+        "squuid": "5eb13558-e39e-4e88-a6e6-8d1da7c573f2"
+      },
+      "squuid": "5f043d6b-8b32-48a4-8db6-0ca17a967468",
+      "state": "active"
+    }
+  ]
+}

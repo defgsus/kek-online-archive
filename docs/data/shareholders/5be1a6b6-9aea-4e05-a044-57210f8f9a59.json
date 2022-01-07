@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Holzminden",
+  "pseudoCompany": false,
+  "street": "Zeppelinstr. 10",
+  "name": "Druck- und Verlagshaus Hüpke & Sohn Weserland-Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-9aea-4e05-a044-57210f8f9a59",
+  "controlDate": "2021-11-16T16:57:49.658Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "37603",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Täglicher Anzeiger",
+        "squuid": "5be1a6b1-ad44-45fb-aa60-0c970af712d2"
+      },
+      "squuid": "5be1a6b9-0743-4662-84b1-e43de21de510",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tah.de",
+        "squuid": "5be1a6b1-e0cc-4bc4-828c-8df944a287ff"
+      },
+      "squuid": "5be1a6b9-401d-429d-a48b-9bfb77ae4202",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hüpke & Sohn Verwaltungs-GmbH & Co KG",
+        "squuid": "5be1a6b6-be85-4b8e-98f1-b7af8912eed4"
+      },
+      "squuid": "5be1a6b8-8f77-4163-b463-15281c004fa0",
+      "state": "active"
+    }
+  ]
+}

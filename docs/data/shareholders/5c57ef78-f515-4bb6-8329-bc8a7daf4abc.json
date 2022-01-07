@@ -1,0 +1,46 @@
+{
+  "state": "active",
+  "city": "Borna",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Brauhausstraße",
+  "name": "Lein, Mirko",
+  "naturalPerson": true,
+  "co": "Regio TV Borna",
+  "squuid": "5c57ef78-f515-4bb6-8329-bc8a7daf4abc",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04552",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Regio TV",
+        "squuid": "5c57ef68-c421-4c03-afa1-f37a7c85d535"
+      },
+      "squuid": "5c57f048-ebb3-417f-83f0-36ab3a7a3efd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.regiotv-borna.de",
+        "squuid": "5f7ef9f8-0324-49a0-9583-e0d1bebd406a"
+      },
+      "squuid": "5f7efa25-0a2c-4509-af13-9e11a1943f3c",
+      "state": "active"
+    }
+  ]
+}

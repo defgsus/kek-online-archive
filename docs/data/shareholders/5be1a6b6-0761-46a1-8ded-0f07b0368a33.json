@@ -1,0 +1,96 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Axel-Springer-Platz 1",
+  "name": "Axel Springer Auto-Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0761-46a1-8ded-0f07b0368a33",
+  "controlDate": "2021-01-19T16:14:44.822Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20350",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bike Bild",
+        "squuid": "5be1a6b1-5422-4dd9-aa57-b93cdee1c024"
+      },
+      "squuid": "5be1a6b9-17a3-4420-b7eb-35b78a8f5117",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Auto Bild",
+        "squuid": "5be1a6b1-bfc2-4ba0-aa89-43c232dc1721"
+      },
+      "squuid": "5be1a6b9-55e5-4da1-bddd-9f22829fb1e4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Auto Bild sportscars",
+        "squuid": "5be1a6b1-23c8-4f44-9afd-31a0f1287412"
+      },
+      "squuid": "5be1a6b9-68be-4765-bcd2-f2b83ab09868",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Auto Bild allrad",
+        "squuid": "5be1a6b1-95c5-4738-ae61-66d79871a57b"
+      },
+      "squuid": "5be1a6b9-0901-4b3f-851a-6f4ed20741f9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Auto Bild Klassik",
+        "squuid": "5be1a6b1-3d2b-4a6e-8733-fb72dd33326e"
+      },
+      "squuid": "5be1a6b9-4e3c-48ba-9145-a8a49af8eefe",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Auto Bild Reisemobil",
+        "squuid": "5be1a6b1-2125-4f20-8ff8-10ff6defb007"
+      },
+      "squuid": "5be1a6b9-9807-4343-97f5-ec30c4933742",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bike-bild.de",
+        "squuid": "5c5ab264-06e2-4cb4-99c9-7d6037acf71d"
+      },
+      "squuid": "5c5ab28f-da97-4fcd-a2ea-513ee82d26af",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Axel Springer SE",
+        "squuid": "5be1a6b6-5c1b-48b1-ad15-85241452bf42"
+      },
+      "squuid": "5be1a6b8-743f-4e89-bd3f-df1b458884bb",
+      "state": "active"
+    }
+  ]
+}

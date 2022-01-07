@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Potsdam",
+  "pseudoCompany": false,
+  "street": "Platz der Einheit 14",
+  "name": "Potsdamer Zeitungsverlagsgesellschaft mbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-8510-4beb-9eed-3216a050ae74",
+  "controlDate": "2021-11-08T16:27:26.594Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14467",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Potsdamer Neueste Nachrichten",
+        "squuid": "5be1a6b1-dcac-4d8a-b8b5-716222367825"
+      },
+      "squuid": "5be1a6b9-5f13-4d7b-823f-3e76d0e6e726",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pnn.de",
+        "squuid": "5be1a6b1-4303-40f9-9322-60e236834775"
+      },
+      "squuid": "5be1a6b9-8869-4679-a74a-bc76b8227efd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Wirtschaft",
+        "squuid": "5c653152-9799-437d-aa8f-759708cab0e2"
+      },
+      "squuid": "5c6531ce-93ea-47ca-a2f9-c0cf6dc17899",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "GMZ Gesellschaft für Medien-, Druck- und Zeitungsverlagsbeteiligungen mbH & Co KG",
+        "squuid": "5be1a6b6-97f7-41f1-b6ed-5894b19d4b11"
+      },
+      "squuid": "5be1a6b8-5c80-4355-9bc0-38c851ecaa99",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Potsdamer Zeitungsverlagsgesellschaft Verwaltungs GmbH",
+        "squuid": "5ee229be-2863-4b6b-990c-060f877bf7ba"
+      },
+      "squuid": "5ee229e5-1a75-43ad-98b1-abd89730a330",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "The Hearst Family Trust",
+  "squuid": "5ce27341-2dac-4d89-83be-c2f643b5f2c9",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "The Hearst Corporation",
+        "squuid": "5be1a6b6-e70f-4ab1-a969-243af661dabd"
+      },
+      "squuid": "5ce27468-5236-474a-a8df-9a0c34702503",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active"
+}

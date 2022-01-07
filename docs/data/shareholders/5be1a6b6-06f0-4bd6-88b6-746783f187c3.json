@@ -1,0 +1,118 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "sunshine live Geschäftsführungs-GmbH",
+        "squuid": "5f201945-1ae7-4be0-a0da-35adf69aad99"
+      },
+      "squuid": "5ff47ddf-9265-4aca-b190-2c92994db83a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mannheim",
+  "note": "Stand: 12/2021",
+  "pseudoCompany": false,
+  "street": "Hafenstrasse",
+  "name": "sunshine live GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-06f0-4bd6-88b6-746783f187c3",
+  "controlDate": "2022-01-06T13:23:14.458Z",
+  "streetNumber": "49",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "68159",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "sunshine live",
+        "squuid": "5be1a6b1-65e2-437c-924d-7d37b7b97c32"
+      },
+      "squuid": "5be1a6b9-194c-4228-8b1b-49c821c54f9f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sunshine-live.de",
+        "squuid": "5f2016da-aaf3-4b6a-8f7b-05812624d899"
+      },
+      "squuid": "5f2017e4-8498-4e46-8f07-33796e10f69d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "sunshine live (Mecklenburg-Vorpommern)",
+        "squuid": "60db24f3-2353-4bb0-9e09-5010757e05fd"
+      },
+      "squuid": "60db268c-9145-4d0f-a490-a22ea2647cd9",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 2.85,
+      "holder": {
+        "name": "Radio NRJ GmbH",
+        "squuid": "5be1a6b6-fbf8-4b3a-b83b-552f26cc61a6"
+      },
+      "squuid": "5be1a6b7-cbcf-4c8f-ae26-85f21fa96f5c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.8,
+      "holder": {
+        "name": "Rhein-Neckar-Zeitung GmbH",
+        "squuid": "5be1a6b6-abc5-4caa-92fa-76172af7e845"
+      },
+      "squuid": "5be1a6b7-8d7e-4f74-9ae3-09a0f5eb3e27",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 93.35,
+      "holder": {
+        "name": "K.F. Schimper Verlag GmbH",
+        "squuid": "5be1a6b6-7c4f-4ea8-9bd3-b8c4fa2baf43"
+      },
+      "squuid": "5be1a6b7-f9f3-4fec-b178-8cb513abac0c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "sunshine live Geschäftsführungs-GmbH",
+        "squuid": "5f201945-1ae7-4be0-a0da-35adf69aad99"
+      },
+      "squuid": "5f20198d-d487-4443-9f7e-961e8d2ebc6d",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Otto-Fleck-Schneise ",
+  "name": "DFB GmbH",
+  "naturalPerson": false,
+  "squuid": "5d31c674-80d6-4b8a-ba51-f352ebd73b76",
+  "controlDate": "2021-12-02T17:45:00.481Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60528",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fussball.de",
+        "squuid": "5d31c65a-78c3-4c1c-885e-843a0eae8e7d"
+      },
+      "squuid": "5d31c6b3-4e90-4da0-a863-427ad0684ab0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dfbnet.org",
+        "squuid": "5d35a05a-c7a1-4230-b5b9-23be0de64508"
+      },
+      "squuid": "5d35a140-5f1c-45e8-a671-fca4d5e4c4ed",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Deutscher Fußball-Bund (DFB) e.V.",
+        "squuid": "5d30178b-69e3-471d-ab8f-dc54fd7d0d7f"
+      },
+      "squuid": "5d31c743-45bd-4232-839f-78e5b589c84b",
+      "state": "active"
+    }
+  ]
+}

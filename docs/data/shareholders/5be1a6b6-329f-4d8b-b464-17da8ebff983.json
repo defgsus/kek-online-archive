@@ -1,0 +1,83 @@
+{
+  "state": "active",
+  "city": "Hürth",
+  "pseudoCompany": false,
+  "street": "Hans-Böckler-Str.",
+  "name": "Volks.TV Verwaltung GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-329f-4d8b-b464-17da8ebff983",
+  "otherMediaActivities": "Die Infobonn Holding GmbH ist auch mittelbar in Höhe von 51 % an der DFA Regional TV Baden-Württemberg GmbH beteiligt, die 37 % an der bw.family.tv GmbH & Co. KG hält. Die bw.family.tv GmbH & Co. KG veranstaltet das landesweite Programm bw family.tv. \r\n\r\nDie Karl Rauch Verlag GmbH & Co. KG verlegt die Werke von Antoine de Saint-Exupéry (u. a. „Der Kleine Prinz“) und ist unter anderem im Bereich der Tiefdrucktechnik tätig.\r\n\r\nDie Airtime Media Group GmbH ist ein Gemeinschaftsunternehmen mehrerer landesweit lizenzierter Fernsehveranstalter.",
+  "streetNumber": "163",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50354",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Volks.TV",
+        "squuid": "5be1a6b1-ae3f-45a4-a6b0-f683f8e45095"
+      },
+      "squuid": "5be1a6b9-9910-45f7-97a0-83237e05d4f2",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.10.2016, Az.: KEK 881",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 37.5,
+      "holder": {
+        "name": "Infobonn Holding GmbH",
+        "squuid": "5be1a6b6-c855-429c-8ae9-5b86a4951da2"
+      },
+      "squuid": "5be1a6b8-0d61-4e6a-8919-526d6249736e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "TT-Studios Medienberatungs- und -beteiligungs GmbH",
+        "squuid": "5be1a6b6-abe9-4524-a248-3a981d3da421"
+      },
+      "squuid": "5be1a6b8-e8c0-4ef1-b819-9b258b2caa2b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.5,
+      "holder": {
+        "name": "InterScience GmbH",
+        "squuid": "5be1a6b6-2fd1-4186-8882-5121870b95c0"
+      },
+      "squuid": "5be1a6b8-16dc-4b40-a1b7-f3fb680297ad",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.5,
+      "holder": {
+        "name": "Airtime Media Group GmbH",
+        "squuid": "5be1a6b6-3212-4346-a4e1-ae91bd56acdf"
+      },
+      "squuid": "5be1a6b8-dc04-455e-bfc2-6f98712df89e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 37.5,
+      "holder": {
+        "name": "Karl Rauch Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-6aeb-49a6-8afb-207596e10dcd"
+      },
+      "squuid": "5be1a6b8-7487-4b5f-8692-f30be896e8a7",
+      "state": "active"
+    }
+  ]
+}

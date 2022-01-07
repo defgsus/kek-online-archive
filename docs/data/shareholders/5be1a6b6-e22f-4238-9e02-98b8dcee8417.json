@@ -1,0 +1,90 @@
+{
+  "state": "active",
+  "city": "Garching",
+  "pseudoCompany": false,
+  "street": "Parkring",
+  "name": "BLR Dienstleistungsgesellschaft für Bayerische Lokal-Radioprogramme mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-e22f-4238-9e02-98b8dcee8417",
+  "controlDate": "2021-11-30T17:44:55.542Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "85748",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "BLR",
+        "squuid": "5be1a6b1-211e-4412-99e2-bb90efdd74d0"
+      },
+      "squuid": "5be1a6b9-cd5b-45db-83c7-14674be986a0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blr.de",
+        "squuid": "5f8ee669-8e3b-4f56-92bf-31c5608f9444"
+      },
+      "squuid": "5f8ee6b1-31d6-4d04-a203-ce6c62b7fe29",
+      "state": "active"
+    }
+  ],
+  "credits": "Website der BLM, Abruf am 08.03.2012",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 36.0,
+      "holder": {
+        "name": "Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Radio 2000 KG",
+        "squuid": "5be1a6b6-cc99-4fd3-96f9-d2ef9847c76f"
+      },
+      "squuid": "5be1a6b7-11c7-4e96-bd83-fed9d6de90d9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 32.0,
+      "holder": {
+        "name": "RSG Rundfunk Service GmbH",
+        "squuid": "5be1a6b6-1f1d-464c-ad85-465abc77cf7a"
+      },
+      "squuid": "5be1a6b7-2075-4129-9d7f-d0a5640e868a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 32.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "5be1a6b7-80b8-4c66-b15e-34584d7d6f7f",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "BLR Dienstleistungsgesellschaft für Bayerische Lokal- Radioprogramme Verwaltungsgesellschaft mbH",
+        "squuid": "5f8ee729-73ea-4d65-9931-a88827eabd91"
+      },
+      "squuid": "5f8ee78a-cbe3-4068-b3f6-0a2a078f5d3e",
+      "state": "active"
+    }
+  ]
+}

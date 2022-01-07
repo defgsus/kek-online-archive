@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Heidelberg",
+  "pseudoCompany": false,
+  "street": "Neugasse 2",
+  "name": "Neckartal Printmedien GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9be4-444a-b12b-21f5d1bac065",
+  "controlDate": "2021-10-14T11:08:33.065Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "69117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Eberbacher Zeitung",
+        "squuid": "5be1a6b1-577d-4bb0-9324-d45bce84fe26"
+      },
+      "squuid": "5be1a6b9-cfe7-4955-8b61-eb73f99d2712",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rhein-Neckar-Zeitung GmbH",
+        "squuid": "5be1a6b6-abc5-4caa-92fa-76172af7e845"
+      },
+      "squuid": "5be1a6b8-b735-44f5-a99f-ed2d373c1684",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Neckartal Printmedien Verwaltungs GmbH",
+        "squuid": "5ec50de8-1609-4d78-baff-58d44236cf2c"
+      },
+      "squuid": "5ec50e00-4532-4df2-b561-486822d01389",
+      "state": "active"
+    }
+  ]
+}

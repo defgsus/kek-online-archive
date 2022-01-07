@@ -1,0 +1,89 @@
+{
+  "state": "active",
+  "city": "Duisburg",
+  "pseudoCompany": false,
+  "street": "Auf der Höhe",
+  "name": "STUDIO 47 Stadtfernsehen Duisburg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5f182683-2152-48c7-aec2-45e8b7e21e2f",
+  "controlDate": "2021-11-17T16:32:38.184Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "47059",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.studio47.de",
+        "squuid": "5f18267c-9c0e-46bd-b5c5-469a41497eef"
+      },
+      "squuid": "5f1826cb-ce8b-4b2f-84e7-c81488891e15",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Studio 47",
+        "squuid": "5f919abb-ae64-4928-9b2d-78a87a4c061d"
+      },
+      "squuid": "5f919c2f-04a3-490e-a638-f5f07da6a183",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "STUDIO 47 Stadtfernsehen Duisburg Verwaltungs GmbH",
+        "squuid": "5f18269e-0f11-4223-8efd-e0bd51736757"
+      },
+      "squuid": "5f1827f7-ae7a-4dd2-bfc3-df4cefbb4a72",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.15,
+      "holder": {
+        "name": "Devigne, Sascha",
+        "squuid": "5f1827b4-adb2-47fe-9de8-eb5811fb42e4"
+      },
+      "squuid": "5f18281d-e0ad-46d8-8f52-27a85e9a586c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.85,
+      "holder": {
+        "name": "Zeiler, Jörg",
+        "squuid": "5f1827c3-7c7e-4dbe-9126-69203df23592"
+      },
+      "squuid": "5f18283f-dd66-4152-bc55-aa10319313b5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schardt, Jürgen",
+        "squuid": "5f1827cf-2afe-482a-8a44-6bf6db715160"
+      },
+      "squuid": "5f182859-e3c4-40af-ad8e-8cba627e04d5",
+      "state": "active"
+    }
+  ]
+}

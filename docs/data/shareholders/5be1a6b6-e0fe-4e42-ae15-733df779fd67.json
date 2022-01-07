@@ -1,0 +1,79 @@
+{
+  "state": "active",
+  "city": "München",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Schneemannstraße",
+  "name": "Radio 2Day Rundfunkveranstaltungsges. mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-e0fe-4e42-ae15-733df779fd67",
+  "controlDate": "2021-12-21T13:34:03.839Z",
+  "streetNumber": "25",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "81369",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio 2Day",
+        "squuid": "5be1a6b1-b24d-4654-a9a1-b8ef52ab6be9"
+      },
+      "squuid": "5be1a6b9-92b3-4a69-b956-b1d0f2c15407",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio2day.de",
+        "squuid": "5f918b05-c488-4709-962e-7e88b4fa4517"
+      },
+      "squuid": "5f918b43-8fd9-4f83-b0b2-38dd0afec25b",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 59.0,
+      "holder": {
+        "name": "Bertelshofer, Peter",
+        "squuid": "5be1a6b6-7f3b-4e22-ae18-9d43ff31a8bb"
+      },
+      "squuid": "5be1a6b7-dd34-44fc-91cb-64b667a43271",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Bertelshofer, Nicole",
+        "squuid": "5be1a6b6-3e3d-418c-9dc6-e240fae54bc6"
+      },
+      "squuid": "5be1a6b7-8ea4-4a63-b094-73f5c5fa8759",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 21.0,
+      "holder": {
+        "name": "Bertelshofer, Alexander",
+        "squuid": "5be1a6b6-db57-4cfd-80c8-24b50acadcbd"
+      },
+      "squuid": "5be1a6b7-b44e-42c6-9cde-d43c6ee13fc5",
+      "state": "active"
+    }
+  ]
+}

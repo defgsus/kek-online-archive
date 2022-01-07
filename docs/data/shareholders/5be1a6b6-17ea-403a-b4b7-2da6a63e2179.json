@@ -1,0 +1,92 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Hamburg 1 Fernsehen Beteiligungs GmbH",
+        "squuid": "5efdbdcf-cde4-464f-9f82-305b01ace598"
+      },
+      "squuid": "5f04294d-217f-4ef2-af06-dbafb2938dce",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Rothenbaumchaussee",
+  "name": "Kommanditgesellschaft Hamburg 1 Fernsehen Beteiligungs GmbH & Co.",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-17ea-403a-b4b7-2da6a63e2179",
+  "controlDate": "2021-12-09T12:38:34.294Z",
+  "streetNumber": "80 c",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "20148",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hamburg 1",
+        "squuid": "5be1a6b1-2654-426c-8f23-79d80a71f26e"
+      },
+      "squuid": "5be1a6b9-8c15-430a-a8fa-3c0f4e4aafe8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hamburg1.de",
+        "squuid": "5efdb8fa-d2ee-4d99-b41c-4f9f23bb5d5e"
+      },
+      "squuid": "5efdbc88-c709-4eb0-b5a3-bf9d7ac27d29",
+      "state": "active"
+    }
+  ],
+  "credits": "MA HSH 6/2018",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Otto, Frank",
+        "squuid": "5be1a6b6-59b9-4b3c-9d55-d95dc00dc25b"
+      },
+      "squuid": "5be1a6b7-f025-4f31-9815-32208ac8e45c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Michel Medien Beteiligungs GmbH",
+        "squuid": "5be1a6b6-6b60-43f9-b4bc-bc40b7d0e0b1"
+      },
+      "squuid": "5be1a6b7-a755-4c7d-a067-f13bc4a4808f",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hamburg 1 Fernsehen Beteiligungs GmbH",
+        "squuid": "5efdbdcf-cde4-464f-9f82-305b01ace598"
+      },
+      "squuid": "5efdbe00-2bf0-4aac-8f74-a0e5a177dbed",
+      "state": "active"
+    }
+  ]
+}

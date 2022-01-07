@@ -1,0 +1,59 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "blabla.cafe GmbH & Co. KG",
+        "squuid": "5c52d755-7c2a-4c0f-89da-1507c879dd92"
+      },
+      "squuid": "6023e5d5-bfbc-4b83-85bd-5b0b630d700a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Schloßstr.",
+  "name": "blabla.cafe Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f116204-f992-4fdf-882e-b9382f422eba",
+  "controlDate": "2021-11-30T17:32:27.486Z",
+  "streetNumber": "13",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "44357",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Dohmann, Burkhard",
+        "squuid": "5c52d78e-8ef2-403c-9e74-b406d843bfce"
+      },
+      "squuid": "60421509-4f73-4c40-aa5c-447819a508a3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Dohmann, Peter",
+        "squuid": "5c52d770-803c-4e89-a72a-2a205ba4efb9"
+      },
+      "squuid": "60421539-1e10-46ac-8b5e-f53cfbcee3e8",
+      "state": "active"
+    }
+  ]
+}

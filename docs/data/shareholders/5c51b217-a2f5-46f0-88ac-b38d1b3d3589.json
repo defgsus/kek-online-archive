@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Kohlhöfen",
+  "name": "Echte Mamas GmbH",
+  "naturalPerson": false,
+  "squuid": "5c51b217-a2f5-46f0-88ac-b38d1b3d3589",
+  "controlDate": "2021-12-03T15:17:01.529Z",
+  "streetNumber": "27",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20355",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.echtemamas.de",
+        "squuid": "5c51b22f-0e63-4238-9775-f80dc255ca06"
+      },
+      "squuid": "5c51b3f1-d53d-4580-a20a-6789829963f7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Urbainczyk, Sara",
+        "squuid": "5c51b2df-6466-4e99-b3ed-a93ad420a233"
+      },
+      "squuid": "5c51b45e-ee8a-4e0e-878a-543199bab852",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Scheithauer, Marion",
+        "squuid": "5c51b2ee-baac-4792-b5ba-5486d0780f5b"
+      },
+      "squuid": "5c51b46f-f664-411e-88d8-5371bd4f9f7b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "MiLuWi Beteiligungs GmbH",
+        "squuid": "5c51b315-3159-423e-bd20-fa5339b87cf6"
+      },
+      "squuid": "5c51b47d-bfa2-4364-ad54-0daed765d443",
+      "state": "active"
+    }
+  ]
+}

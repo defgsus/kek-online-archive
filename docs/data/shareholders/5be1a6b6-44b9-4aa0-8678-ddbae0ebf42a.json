@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Buxtehude",
+  "pseudoCompany": false,
+  "street": "Hauptstr. 14",
+  "name": "Reise + Preise Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-44b9-4aa0-8678-ddbae0ebf42a",
+  "controlDate": "2021-11-08T17:20:13.604Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "21614",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Reise und Preise",
+        "squuid": "5be1a6b1-8cd1-4654-8c89-5b1a9d850f07"
+      },
+      "squuid": "5be1a6b9-13fd-4d69-8ea3-c2e1b86cf9d7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.reise-preise.de",
+        "squuid": "5be1a6b1-d87a-4b6a-8049-7eebcff7c3a4"
+      },
+      "squuid": "5be1a6b9-e2b7-40f0-ac52-a964dad3ae00",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kühn, Oliver",
+        "squuid": "5be1a6b6-2b64-49b6-8dd9-9f4fe1b677f2"
+      },
+      "squuid": "5be1a6b8-0d19-46d2-ba22-32855ee2a8eb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kühn, Torsten",
+        "squuid": "5be1a6b6-e6f7-4a5b-98f2-3cfda9c24437"
+      },
+      "squuid": "5be1a6b8-d76c-439f-949a-70b0466173a8",
+      "state": "active"
+    }
+  ]
+}

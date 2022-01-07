@@ -1,0 +1,74 @@
+{
+  "rfRepresentative": "Dieter Gläßer, Manfred Redl",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "RA Jan Müller",
+  "rfStartDate": "Juli 2014",
+  "rfFreePay": true,
+  "squuid": "5c4af215-908c-475e-b81f-256f011ef873",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "http://www.bafo.de/appBadmintonsportTV/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Badminton Fördergemeinschaft Oberbayern e. V.",
+        "squuid": "5c4af1fd-3cee-4af5-99f7-b004e0f35b85"
+      },
+      "squuid": "5c4af3b7-7dbf-483f-b249-9e42289d4a7c",
+      "state": "active"
+    }
+  ],
+  "name": "Badmintonsport Television",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Livestream-Angebot mit Live-Übertragungen und Berichterstattung von Badmintonsort",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "30.07.2018",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "30.07.2018",
+  "accessibilityEmail": "info@badmintonsport.tv",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

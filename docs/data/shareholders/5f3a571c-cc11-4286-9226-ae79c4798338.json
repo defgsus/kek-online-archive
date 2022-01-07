@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Eschwege",
+  "pseudoCompany": false,
+  "street": "Mangelgasse ",
+  "name": "Rundfunk Meissner e. V. RFM",
+  "naturalPerson": false,
+  "squuid": "5f3a571c-cc11-4286-9226-ae79c4798338",
+  "controlDate": "2020-08-17T10:09:29.067Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "37269",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rundfunk-meissner.org",
+        "squuid": "5f3a5704-0876-487e-a501-d1b8e57eb412"
+      },
+      "squuid": "5f3a5744-a91f-4b25-9727-46158006b7ec",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "RundFunk Meissner",
+        "squuid": "5f6300c6-fc5b-453c-9991-a8c80607bc25"
+      },
+      "squuid": "5f6301d8-bafc-4824-b8b1-96ef07d941a9",
+      "state": "active"
+    }
+  ]
+}

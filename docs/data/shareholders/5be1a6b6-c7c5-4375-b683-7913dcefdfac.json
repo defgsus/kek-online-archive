@@ -1,0 +1,27 @@
+{
+  "name": "UniCredit Bank AG",
+  "pseudoCompany": false,
+  "squuid": "5be1a6b6-c7c5-4375-b683-7913dcefdfac",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 8.94,
+      "held": {
+        "name": "Beate Uhse AG",
+        "squuid": "5be1a6b6-1b64-483b-a440-076e552d2058"
+      },
+      "squuid": "5be1a6b7-e5f0-4921-824a-56f18ce04512",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

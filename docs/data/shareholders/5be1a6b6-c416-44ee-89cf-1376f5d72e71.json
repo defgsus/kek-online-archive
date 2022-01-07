@@ -1,0 +1,77 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Alfred-Nobel-Str.",
+  "name": "MEGA Radio Bayern GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-c416-44ee-89cf-1376f5d72e71",
+  "controlDate": "2021-12-13T16:51:26.727Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86156",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mega Radio Bayern",
+        "squuid": "5be1a6b1-693a-4952-a18a-40f8944b2a70"
+      },
+      "squuid": "5be1a6b9-d60f-4a97-9263-d9c8a5286877",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mega Radio 80s (BLM)",
+        "squuid": "5be1a6b1-ce54-424d-ae21-670f5ab72f93"
+      },
+      "squuid": "5be1a6b9-b70c-4ce3-ac9a-d7f673e9e506",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.megaradiomix.de",
+        "squuid": "5f916b02-5700-42e6-b82d-576ac613d0fe"
+      },
+      "squuid": "5f916b36-0a07-4181-b122-78a03e43f686",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 97.5,
+      "holder": {
+        "name": "Peter Valentino Medien GmbH",
+        "squuid": "5be1a6b6-cf54-4147-94f0-03a023d0fe47"
+      },
+      "squuid": "5be1a6b8-fc1b-4055-8e89-16fabfa96c1f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.5,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5be1a6b8-cb1b-404b-af35-50d77d96452d",
+      "state": "active"
+    }
+  ]
+}

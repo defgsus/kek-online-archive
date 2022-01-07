@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "Aalen",
+  "note": "Stand: 12/2021",
+  "pseudoCompany": false,
+  "street": "Südlicher Stadtgraben",
+  "name": "Lokalradio Ostwürttemberg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-9649-4d0b-807c-a566dc68dff2",
+  "controlDate": "2022-01-03T11:18:51.367Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "73430",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Ton Ostwürttemberg",
+        "squuid": "5be1a6b1-4105-49da-aae8-4b571c789e16"
+      },
+      "squuid": "5be1a6b9-d43f-4246-b73b-d64de1fed7ef",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioton.de",
+        "squuid": "5f3e6197-7b6d-49ad-8398-9afe70f023cd"
+      },
+      "squuid": "5f3e63e5-ee4e-42d6-9189-f21476d0a412",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Radio TON-Regional Hörfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-0d7b-4370-af24-f6e3d1f182f7"
+      },
+      "squuid": "5be1a6b7-edd1-4b56-bbb4-925b2057a837",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio TON - Regional Hörfunk Verwaltungs-GmbH",
+        "squuid": "5ef20ebc-67af-4f78-92a2-fd1a90028ca4"
+      },
+      "squuid": "5f3e648b-da6f-4f95-a72a-c73cba0ca687",
+      "state": "active"
+    }
+  ]
+}

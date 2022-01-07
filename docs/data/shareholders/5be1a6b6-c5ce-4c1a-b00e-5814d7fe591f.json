@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Freidrichshafen",
+  "pseudoCompany": false,
+  "name": "Schwäbische Zeitung Friedrichshafen GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-c5ce-4c1a-b00e-5814d7fe591f",
+  "controlDate": "2021-11-11T14:43:01.710Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "88045",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwäbische Zeitung (Ausgabe Friedrichshafen)",
+        "squuid": "5be1a6b1-8c0e-4b5f-be25-299db983f53d"
+      },
+      "squuid": "5be1a6b9-5c0a-4f8d-81e1-ec98f93a1b85",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwäbische Zeitung (Ausgabe Markdorf)",
+        "squuid": "5be1a6b1-74b9-4c5d-9f77-feb9c5090200"
+      },
+      "squuid": "5e16ffe9-b669-4fa4-8e96-bcde24af0714",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-da16-4c6d-835a-242e8267fb6c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwäbische Zeitung Friedrichshafen Verwaltungs-GmbH",
+        "squuid": "5ee9c179-700c-4264-b460-c4abb8d2226b"
+      },
+      "squuid": "5ee9c1ec-8a23-47e4-9dfe-08df84dd73a0",
+      "state": "active"
+    }
+  ]
+}

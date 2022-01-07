@@ -1,0 +1,94 @@
+{
+  "state": "active",
+  "city": "Unterföhring",
+  "pseudoCompany": false,
+  "street": "Medienallee",
+  "name": "Seven.One Pay TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4ab3-4caa-9262-f26badcfdda4",
+  "otherMediaActivities": "",
+  "controlDate": "2021-12-10T10:47:08.119Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85774",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "kabel eins CLASSICS",
+        "squuid": "5be1a6b1-2909-46a8-9794-96ad85c70fe1"
+      },
+      "squuid": "5be1a6b9-23ff-4dec-9f8b-6578fc533612",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "SAT.1 emotions",
+        "squuid": "5be1a6b1-c3ae-4663-8d39-a39cbeffb068"
+      },
+      "squuid": "5be1a6b9-9e29-4745-9574-dc97da4796b2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "ProSieben FUN",
+        "squuid": "5be1a6b1-57ee-41c3-9a89-444b1a648218"
+      },
+      "squuid": "5be1a6b9-d275-449d-98bd-bc31422ba7e9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sat1emotions.de",
+        "squuid": "5f33e18e-741b-44fa-8e0b-ab78d1690a4f"
+      },
+      "squuid": "5f33e1bb-942b-408e-887f-da0d05de5b42",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.prosiebenfun.de",
+        "squuid": "5f33e676-797f-4732-b9ac-72d9c6ed58cf"
+      },
+      "squuid": "5f33e6c7-5cf1-472b-933e-0000ea6cc939",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kabeleinsclassics.de",
+        "squuid": "5f7d7c56-3e54-421e-96ed-d9a96aa533d4"
+      },
+      "squuid": "5f7d7d28-eb11-4def-b58f-929b2b4f6cad",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 05.12.2017, Az.: KEK 937",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Seven.One Entertainment Group GmbH",
+        "squuid": "5be1a6b6-ee3d-454b-96df-68a8cdac19d3"
+      },
+      "squuid": "5be1a6b7-31e2-4c61-a30f-8fee860b7043",
+      "state": "active"
+    }
+  ]
+}

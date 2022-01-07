@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Theodor-Heuss-Anlage ",
+  "name": "dejure.org Rechtsinformationssysteme GmbH",
+  "naturalPerson": false,
+  "squuid": "5d35c1c1-0096-4a61-8387-06b2cfb783bd",
+  "controlDate": "2021-12-02T16:25:46.656Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "68165",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dejure.org",
+        "squuid": "5d35c1b8-c4a6-4f07-adbb-7e108a31fc70"
+      },
+      "squuid": "5d35c1ef-7755-4634-b5e9-9e9c08f313f5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "García, Oliver",
+        "squuid": "5d35c2dc-8fd6-4be1-a035-6f61dce5746e"
+      },
+      "squuid": "5d35c319-18d8-479f-9ae5-f665d1594716",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Schulze-Hagen, Dr. Alfons",
+        "squuid": "5d35c2f2-b91c-4caa-b530-d5d28d9b9905"
+      },
+      "squuid": "5d35c329-13ee-49d1-a266-da82660a1510",
+      "state": "active"
+    }
+  ]
+}

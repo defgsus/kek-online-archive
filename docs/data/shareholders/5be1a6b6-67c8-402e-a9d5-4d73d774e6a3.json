@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Hermann Herder-Str. 4",
+  "name": "Verlag Herder GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-67c8-402e-a9d5-4d73d774e6a3",
+  "controlDate": "2021-10-26T11:54:57.097Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "79104",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "kizz. Das Elternmagazin",
+        "squuid": "5be1a6b1-fcc8-4bfc-8359-a514f055b2ce"
+      },
+      "squuid": "5be1a6b9-7e91-49ae-a748-acb35fc0862a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Christ in der Gegenwart",
+        "squuid": "5be1a6b1-aa85-41c0-870a-366dc1540a6a"
+      },
+      "squuid": "5be1a6b9-9c13-45e5-add1-2597a2ed14ab",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "einfach leben",
+        "squuid": "5be1a6b1-415c-46ad-a54c-17e0fa9eccb7"
+      },
+      "squuid": "5be1a6b9-a441-4896-bf58-e8828742a976",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gemeinsam Glauben mit dem Papst",
+        "squuid": "5be1a6b1-9976-4cb5-9d0b-9aafbc73508b"
+      },
+      "squuid": "5be1a6b9-c3c7-4d49-9a84-5bcc3c39443f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Herder GmbH",
+        "squuid": "5be1a6b6-5976-4b14-acd4-9473568f4fa1"
+      },
+      "squuid": "5be1a6b8-1066-4c9b-9a04-906762118e5d",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": true,
+  "street": "Franz-Josef-Strauß-Ring ",
+  "name": "Bayerische Staatskanzlei",
+  "naturalPerson": false,
+  "squuid": "5d36fc0d-b7c7-4162-a808-1b17bc6f47d4",
+  "controlDate": "2020-06-19T13:27:01.596Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80539",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bayern.de",
+        "squuid": "5d36fbf8-c7bb-493f-8e1b-f92cce6b8d74"
+      },
+      "squuid": "5d36fc2c-a0cb-453c-9ea5-64f7f94f6f72",
+      "state": "active"
+    }
+  ]
+}

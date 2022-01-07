@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Philippstraße",
+  "name": "dreiheit GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-97ee-4ccc-80a5-c659211c7434",
+  "streetNumber": "30",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "50823",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Jäger, Marc Robert",
+        "squuid": "5be1a6b6-16d3-4f01-a3a0-98be0a0f6ff6"
+      },
+      "squuid": "5be1a6b7-d8fd-48ef-8788-36a2c2dc7ee2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Meyer-Ricks, Robin Dennis Alexander",
+        "squuid": "5be1a6b6-2a2c-482c-bd54-daefc5d5a4bd"
+      },
+      "squuid": "5be1a6b7-52ab-4f80-bc47-c079f984a1fa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Meyer-Ricks, Tim",
+        "squuid": "5be1a6b6-1d41-4a23-a3a5-8c39ce029c65"
+      },
+      "squuid": "5be1a6b7-9bcc-4f1d-84d6-9f3dce78c477",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Staubach, Joaquin Aparicio y",
+        "squuid": "5be1a6b6-3754-4e36-9d00-fbd1cfff57db"
+      },
+      "squuid": "5be1a6b7-6f4c-4c6f-bfef-dd4f9b0551fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Schosser, Susanne",
+        "squuid": "5be1a6b6-7591-44a7-9b3e-c99843aa78d6"
+      },
+      "squuid": "5be1a6b7-d69c-4f23-b7bf-fdc2cd3b6836",
+      "state": "active"
+    }
+  ]
+}

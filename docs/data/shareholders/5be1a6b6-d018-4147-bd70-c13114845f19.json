@@ -1,0 +1,139 @@
+{
+  "state": "active",
+  "city": "Garbsen",
+  "note": "KEK 1072",
+  "pseudoCompany": false,
+  "street": "Robert-Hesse-Straße",
+  "name": "NiedersachsenRock 21 GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d018-4147-bd70-c13114845f19",
+  "controlDate": "2021-12-20T17:05:08.894Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "zipcode": "30827",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "RADIO 21",
+        "squuid": "5be1a6b1-fc65-40f7-bf42-dfaaba0351b9"
+      },
+      "squuid": "5be1a6b9-3c7e-4663-8e7f-3a366d71d328",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "RADIO 21 TV",
+        "squuid": "5be1a6b1-8838-4182-b7c2-fd65bcf672bd"
+      },
+      "squuid": "5be1a6b9-be3e-48bf-8d94-28ad518d9f9f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio21.de",
+        "squuid": "5c360990-b43b-4ff1-bf99-639509b0c2e1"
+      },
+      "squuid": "5c360a59-4c40-46bd-975d-9917f54f914e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio 21 - NRWs bester ROCK'N POP",
+        "squuid": "6194bded-3475-44d7-86b4-b441d5198dee"
+      },
+      "squuid": "6194c91d-0916-4022-815c-30328ea81a47",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio21.de/nrw",
+        "squuid": "619e5503-999f-4c78-a66d-15ebb7a8e4aa"
+      },
+      "squuid": "619e5548-4870-44f7-93e3-b5968384cf63",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.04.2017, Az.: KEK 893, und Bescheid der NLM vom 18.04.2017",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 9.833,
+      "holder": {
+        "name": "RTL Radio Deutschland GmbH",
+        "squuid": "5be1a6b6-fa80-4709-a830-dea042b7476d"
+      },
+      "squuid": "5be1a6b7-0c0d-41e6-af25-cc5c2dc5435e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Funk & Fernsehen Nordwestdeutschland GmbH & Co. KG",
+        "squuid": "5be1a6b6-6d31-40f9-81d9-39e930c9b6cb"
+      },
+      "squuid": "5be1a6b7-5f33-4d51-84eb-4fb6fe3b861d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Antenne Niedersachsen GmbH & Co. KG",
+        "squuid": "5be1a6b6-a997-45d6-8d9d-b0d0b50972f1"
+      },
+      "squuid": "5be1a6b7-5175-4d99-926a-85d9cfaa0d42",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.167,
+      "holder": {
+        "name": "NiedersachsenRadio GmbH & Co. KG",
+        "squuid": "5be1a6b6-45a9-499c-9b56-add326f29bc4"
+      },
+      "squuid": "5be1a6b7-3366-48a4-9b25-93936845e9c9",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "NiedersachsenRock21 Beteiligungs GmbH",
+        "squuid": "5efb0c4f-a0b8-450a-8e27-0eb6a666d272"
+      },
+      "squuid": "5efb0c82-f4eb-4baa-8ce6-1047b0003376",
+      "state": "active"
+    }
+  ]
+}

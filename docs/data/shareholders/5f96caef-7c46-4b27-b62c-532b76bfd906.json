@@ -1,0 +1,90 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "RSA Radio GmbH & Co. KG",
+        "squuid": "5be1a6b6-7545-4838-8317-b3d9812ff6f1"
+      },
+      "squuid": "5f96cb82-e20b-44a6-8d84-db5ace82fd17",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kempten",
+  "pseudoCompany": false,
+  "street": "Heisinger Str.",
+  "name": "RSA Radio Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5f96caef-7c46-4b27-b62c-532b76bfd906",
+  "controlDate": "2022-01-04T10:42:22.950Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "87437",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "rta.media GmbH",
+        "squuid": "5be1a6b6-835d-4817-ab25-5f64286c4824"
+      },
+      "squuid": "6053817d-c4d3-4b44-88a6-6e6453ae30d8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Sankt Ulrich Verlag GmbH",
+        "squuid": "5be1a6b6-cac1-420a-b40c-87452e0ab6f4"
+      },
+      "squuid": "6053818b-722e-4603-92fb-a51ca91d0c2e",
+      "state": "active"
+    }
+  ]
+}

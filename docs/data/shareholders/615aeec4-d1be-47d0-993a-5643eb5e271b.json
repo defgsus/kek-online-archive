@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Ludwigshafen",
+  "pseudoCompany": false,
+  "street": "Amtsstr.",
+  "name": "SÜWE Vertriebs- und Dienstleistungs-Gesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "615aeec4-d1be-47d0-993a-5643eb5e271b",
+  "controlDate": "2021-10-04T12:17:02.269Z",
+  "streetNumber": "5-11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "67059",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.meier-online.de",
+        "squuid": "5be1a6b1-3233-4c80-85e2-ffbf53dc95a0"
+      },
+      "squuid": "615aef89-856e-4429-aade-8f223c2f1c9d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Meier - Taste of Culture",
+        "squuid": "615af011-2568-4bb0-93e7-8fad4c90638e"
+      },
+      "squuid": "615af059-b734-48b6-982a-303b0c065118",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenblatt-reporter.de",
+        "squuid": "615af080-5307-4dde-a317-50dae344acbc"
+      },
+      "squuid": "615af0a5-06e1-4638-9dc9-7392f4baaa6b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SÜWE Vertriebs- und Dienstleistungs-GmbH Beteiligungsgesellschaft",
+        "squuid": "615aeee5-13b2-44cb-8cd4-24203a28a453"
+      },
+      "squuid": "615af123-d606-4a91-98e1-86891df931c3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Medien Union GmbH Ludwigshafen",
+        "squuid": "5be1a6b6-c7c8-4983-84f6-ada451aec436"
+      },
+      "squuid": "615af132-6bf1-41cf-97d3-dce89383825f",
+      "state": "active"
+    }
+  ]
+}

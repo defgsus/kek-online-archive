@@ -1,0 +1,46 @@
+{
+  "state": "active",
+  "city": "Meißen",
+  "note": "Vorstandsvorsitzender: Matthias Heigl",
+  "pseudoCompany": false,
+  "street": "Hahnemannsplatz",
+  "name": "Interessengemeinschaft tv Meissen e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0c5a-4be6-ab9e-60d96fb2aa2c",
+  "streetNumber": "12 a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01662",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "tvM Meissen Fernsehen",
+        "squuid": "5be1a6b1-814f-4767-969a-c9653682ec50"
+      },
+      "squuid": "5be1a6b9-1c39-4186-8d90-a96d0bd84f4a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.meissen-fernsehen.de",
+        "squuid": "5f8051ef-44ca-4282-8920-c4915641ae73"
+      },
+      "squuid": "5f80521e-3916-477b-a53e-fff4a84f947f",
+      "state": "active"
+    }
+  ],
+  "credits": "SLM"
+}

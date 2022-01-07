@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Kleinmachnow-Dreilinden",
+  "pseudoCompany": false,
+  "street": "Marktplatz",
+  "name": "mobile.de GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f9c1-4217-b872-dd66c65928e2",
+  "controlDate": "2021-12-13T17:29:56.709Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14532",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mobile.de",
+        "squuid": "5be1a6b1-0f29-454f-bbe0-c171cc0be95e"
+      },
+      "squuid": "5be1a6b9-926a-4ca1-834b-8ec0a7e26d98",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.motor-talk.de",
+        "squuid": "5be1a6b1-bb51-41b3-9eca-07ca264354df"
+      },
+      "squuid": "5be1a6b9-3dca-4a76-9d2c-9271b12f719f",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "eBay International AG",
+        "squuid": "5be1a6b6-7c0b-48f9-a266-4eafdb443c57"
+      },
+      "squuid": "5be1a6b8-7783-4842-aa86-42e186120e62",
+      "state": "active"
+    }
+  ]
+}

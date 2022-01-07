@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Axel-Springer-Platz 1",
+  "name": "Axel Springer Sport Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6551-4f7d-a937-5f4aea5c1e28",
+  "controlDate": "2021-11-15T11:44:51.642Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20350",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sport Bild",
+        "squuid": "5be1a6b1-43e4-4d19-8f28-f1103a8a9ad6"
+      },
+      "squuid": "5be1a6b9-1ef9-4b6e-912f-83a9367f4a75",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Axel Springer SE",
+        "squuid": "5be1a6b6-5c1b-48b1-ad15-85241452bf42"
+      },
+      "squuid": "5be1a6b8-53f3-49d5-bf1b-6994e89a43ea",
+      "state": "active"
+    }
+  ]
+}

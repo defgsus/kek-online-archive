@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Sierichstraße",
+  "name": "SOUNDTRACKFM GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1c56-4e69-9cd0-851db4815cc5",
+  "streetNumber": "110",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "22299",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "soundtrackfm",
+        "squuid": "5be1a6b1-f401-43c7-ab40-f1b415431f93"
+      },
+      "squuid": "5be1a6b9-ecc3-4ece-826e-e9ca1e3ff096",
+      "state": "active"
+    }
+  ],
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 16.05.2011",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "soundtrackfm Management GmbH",
+        "squuid": "5be1a6b6-8913-453a-bc1d-85275dfccf9e"
+      },
+      "squuid": "5be1a6b7-28d9-4552-8df8-0bc3f5b4bc4a",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Ursulaplatz 1",
+  "name": "J.P. Bachem Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-908c-4e4c-8e89-2c3cfe69100d",
+  "controlDate": "2021-10-26T11:49:10.459Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50668",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kirchenzeitung für das Erzbistum Köln",
+        "squuid": "5be1a6b1-cd13-400f-acd9-a2e36e9ad939"
+      },
+      "squuid": "5be1a6b9-d6dd-4b47-8051-e0d54ad49157",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kirchenzeitung-koeln.de",
+        "squuid": "5be1a6b1-aa4e-4fff-b864-6f3722631b2a"
+      },
+      "squuid": "5be1a6b9-9dcb-4458-91f3-cee2df1c971e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "J. P. Bachem Beteiligungsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-f7e3-4621-ad43-6e61153fa0d0"
+      },
+      "squuid": "5be1a6b8-45d4-475a-a7ce-73e9e9f90a47",
+      "state": "active"
+    }
+  ]
+}

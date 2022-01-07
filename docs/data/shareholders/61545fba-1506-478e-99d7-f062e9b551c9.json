@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Meiningen",
+  "pseudoCompany": false,
+  "street": "Maßfelder Weg",
+  "name": "Sportlight - Böhm & Hofmann GbR",
+  "naturalPerson": false,
+  "squuid": "61545fba-1506-478e-99d7-f062e9b551c9",
+  "controlDate": "2021-09-29T12:46:26.594Z",
+  "streetNumber": "1c",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "98617",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fupa.net/region/thueringen",
+        "squuid": "61545f6b-a464-4df4-8683-2996aa98f478"
+      },
+      "squuid": "61545fd9-4539-49f3-b69f-4fb3fd8df874",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Böhm, Felix",
+        "squuid": "61546005-2716-4b22-8b23-cf563140d16b"
+      },
+      "squuid": "61546060-240a-44be-a03b-2a390b437eeb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Hofmann, André",
+        "squuid": "61546015-4137-4510-a23f-54a6f251e86c"
+      },
+      "squuid": "6154606c-3bf8-4f4f-ad03-cf3ba93b681a",
+      "state": "active"
+    }
+  ]
+}

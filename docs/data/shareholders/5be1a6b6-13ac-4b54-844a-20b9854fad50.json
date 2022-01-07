@@ -1,0 +1,63 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Neue Zürcher Zeitung AG",
+        "squuid": "5be1a6b6-f7f2-42f2-8bb3-b077a678cfa3"
+      },
+      "squuid": "5be1a6b7-0e38-4d66-b765-723680d59a9c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Zürich (CH)",
+  "pseudoCompany": false,
+  "street": "Falkenstr. ",
+  "name": "AG für die Neue Zürcher Zeitung/NZZ-Mediengruppe",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-13ac-4b54-844a-20b9854fad50",
+  "controlDate": "2021-12-15T17:31:54.145Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "8021",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 2.62,
+      "holder": {
+        "name": "Eigenbesitz der AG für die Neue Zürcher Zeitung",
+        "squuid": "5d2f2180-1856-4b2d-8453-f26217f43daa"
+      },
+      "squuid": "5d2f224d-3adc-4c0d-bc39-5003ced40e05",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.72,
+      "holder": {
+        "name": "Geschäftsleitung und Verwaltungsrat der AG für die Neue Zürcher Zeitung",
+        "squuid": "5d2f21b5-2bd9-4d0e-ab9f-4265a34d35f0"
+      },
+      "squuid": "5d2f226b-bb05-4a3b-801a-4cb8431db494",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 94.66,
+      "holder": {
+        "name": "Streubesitz an der AG für die Neue Zürcher Zeitung (2808 Aktionäre mit Anteilen von jeweils maximal 1 %)",
+        "squuid": "5d2f21ee-ee75-4fad-bae8-65abbd7e189e"
+      },
+      "squuid": "5d2f227f-d4ae-41cd-a48b-023e008a89c1",
+      "state": "active"
+    }
+  ]
+}

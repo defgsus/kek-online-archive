@@ -1,0 +1,43 @@
+{
+  "name": "Wälischmiller, Maria",
+  "pseudoCompany": false,
+  "squuid": "5e2ef824-ca19-43d1-a78f-027a426c316d",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Wälischmiller Grundbesitz GmbH & Co. KG",
+        "squuid": "5e2ef80a-38c4-4839-b77e-fa2e61cc73f9"
+      },
+      "squuid": "5e2ef965-249f-4ecf-905a-5acda1d32a27",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Wälischmiller Verwaltungs GmbH",
+        "squuid": "5e2ef842-fe91-4dec-8f04-438ba409dc32"
+      },
+      "squuid": "5e2efa8a-374a-484c-b4ed-66e0794f94ce",
+      "state": "active"
+    }
+  ],
+  "city": "Dingolfing",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

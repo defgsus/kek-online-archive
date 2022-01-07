@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Esplanade",
+  "name": "Videociety GmbH",
+  "naturalPerson": false,
+  "squuid": "61b770f8-ef8f-4965-95eb-4d7ad246123c",
+  "controlDate": "2021-12-13T16:13:39.666Z",
+  "streetNumber": "38",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20354",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.maxdome.de",
+        "squuid": "5d30486b-2288-414c-a2e3-2ca4faff7354"
+      },
+      "squuid": "61b7710d-bc55-49a1-a980-e1b76448362b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Splendid Medien AG",
+        "squuid": "61b771ca-d7c8-4b3b-80a1-130c8e07f58b"
+      },
+      "squuid": "61b771e4-d56a-4481-90f8-f83feeab76b0",
+      "state": "active"
+    }
+  ]
+}

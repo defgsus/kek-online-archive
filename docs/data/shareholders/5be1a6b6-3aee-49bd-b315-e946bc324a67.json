@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Donauwörth",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Reichsstr.",
+  "name": "HITRADIO RT1 Nordschwaben OHG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3aee-49bd-b315-e946bc324a67",
+  "controlDate": "2022-01-04T10:59:16.675Z",
+  "streetNumber": "49",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86609",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "hitradio rt1 Nordschwaben ",
+        "squuid": "5be1a6b1-973f-44fc-83bf-e9d5eeddd872"
+      },
+      "squuid": "5be1a6b9-ebaf-4279-9a8a-f2fe0fe56e35",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.imsueden.de/hitradio-rt1",
+        "squuid": "5f905785-551f-4678-b441-1e68907888e7"
+      },
+      "squuid": "5f9057da-834d-4d31-9b02-06dfe334daec",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 37.0,
+      "holder": {
+        "name": "Sankt Ulrich Verlag GmbH",
+        "squuid": "5be1a6b6-cac1-420a-b40c-87452e0ab6f4"
+      },
+      "squuid": "5be1a6b8-9ec7-4fd3-8bc6-d0db2650016d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 63.0,
+      "holder": {
+        "name": "rt1.media group GmbH",
+        "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815"
+      },
+      "squuid": "5be1a6b8-9c46-4b84-84ce-9634d84c357b",
+      "state": "active"
+    }
+  ]
+}

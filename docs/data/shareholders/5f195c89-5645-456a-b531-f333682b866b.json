@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Norderstedt",
+  "pseudoCompany": false,
+  "street": "Heidbergstr.",
+  "name": "on air new media GmbH",
+  "naturalPerson": false,
+  "squuid": "5f195c89-5645-456a-b531-f333682b866b",
+  "controlDate": "2021-12-15T17:18:33.369Z",
+  "streetNumber": "101-111",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22846",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.noa4.de",
+        "squuid": "5f195bd4-a5fe-4012-ba92-c734f03ee091"
+      },
+      "squuid": "5f195c9b-422b-4be6-bc0b-14aa26cfd605",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Neumann, Ulrik",
+        "squuid": "5f195f91-b1d8-4ef1-9bbe-dc05563a7642"
+      },
+      "squuid": "5f195fd1-d7e4-4013-90be-76674119c5e8",
+      "state": "active"
+    }
+  ]
+}

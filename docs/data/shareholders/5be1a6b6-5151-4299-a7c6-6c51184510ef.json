@@ -1,0 +1,59 @@
+{
+  "state": "active",
+  "city": "München",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Leopoldstr.",
+  "name": "Radio 93,3 MHz München GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-5151-4299-a7c6-6c51184510ef",
+  "controlDate": "2021-12-06T12:04:50.667Z",
+  "streetNumber": "158",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "80804",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Energy  München",
+        "squuid": "5be1a6b1-9913-4487-aa91-069be27ac066"
+      },
+      "squuid": "5be1a6b9-89d1-4d74-8041-18d6a30d98f4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.energy.de/muenchen",
+        "squuid": "5f900d2a-76d6-4b38-9754-301eff23866b"
+      },
+      "squuid": "5f900db9-06a7-4411-8b8d-925d164b8c07",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "NRJ Hörfunk Beteiligungs GmbH",
+        "squuid": "5be1a6b6-36c7-4893-9dd4-73765ce4a934"
+      },
+      "squuid": "5be1a6b7-9b39-4e18-9aa5-2fb79bdd43da",
+      "state": "active"
+    }
+  ]
+}

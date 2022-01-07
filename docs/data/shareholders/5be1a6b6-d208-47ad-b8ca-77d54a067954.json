@@ -1,0 +1,84 @@
+{
+  "state": "active",
+  "city": "Bochum",
+  "pseudoCompany": false,
+  "street": "Industriestr. 34",
+  "name": "Schürmann + Klagges GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-d208-47ad-b8ca-77d54a067954",
+  "controlDate": "2021-10-28T09:53:27.366Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "44894",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lion",
+        "squuid": "5be1a6b1-112d-4491-a938-be11719d4062"
+      },
+      "squuid": "5be1a6b9-186f-4dc5-8bb8-4e1db3e528eb",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 16.75,
+      "holder": {
+        "name": "Röhrig, Tobias",
+        "squuid": "5be1a6b6-891a-42f6-a2a0-dfd33f9dba81"
+      },
+      "squuid": "5be1a6b8-1a60-4cd3-ae9c-64430c75ea5c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.5,
+      "holder": {
+        "name": "Röhrig, Kai-Uwe",
+        "squuid": "5be1a6b6-e272-44a3-ba2e-0c67222b1152"
+      },
+      "squuid": "5be1a6b8-ad46-48c2-a78a-2823cf352e7e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.5,
+      "holder": {
+        "name": "Röhrig, Susanne",
+        "squuid": "5be1a6b6-5a26-4ef4-abc3-171d2b112b0e"
+      },
+      "squuid": "5be1a6b8-a2f1-4de8-8318-a340b302def6",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Märkischer Verlag GmbH",
+        "squuid": "5eda32f5-ad97-4991-b9c2-dccf27163245"
+      },
+      "squuid": "5eda330b-4d6f-44d9-b897-94a5ce6ae46a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.25,
+      "holder": {
+        "name": "Wedding, Rafael",
+        "squuid": "60be19a2-fff9-47ce-b68f-ad50935c5089"
+      },
+      "squuid": "60be19ca-0616-4406-bd3d-51ff4ac65b15",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Hof",
+  "pseudoCompany": false,
+  "street": "Kreuzsteinstraße",
+  "name": "extra radio Rundfunkprogramm GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1f45-422c-9390-75197848d1aa",
+  "controlDate": "2021-12-06T13:40:38.463Z",
+  "streetNumber": "2 - 6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "95028",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "extra Radio",
+        "squuid": "5be1a6b1-8c05-46f5-b0b2-711ea90a58fc"
+      },
+      "squuid": "5be1a6b9-c0b6-445a-8435-e38caca38a78",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.extra-radio.de",
+        "squuid": "5f8efb97-6e94-4e0f-9233-d848a17470c3"
+      },
+      "squuid": "5f8efbdd-f22b-4703-ad00-228c9c44842f",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Prokscha, Irmgard",
+        "squuid": "5be1a6b6-3301-45d3-9384-852b6ccbb92b"
+      },
+      "squuid": "5be1a6b7-99cb-4a3d-8b6d-8a8bf1be5de2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Prokscha, Sabine",
+        "squuid": "607972ed-d441-45ad-8d29-de2f7443ce79"
+      },
+      "squuid": "6079730e-5920-43b4-ad66-bbfd8654306f",
+      "state": "active"
+    }
+  ]
+}

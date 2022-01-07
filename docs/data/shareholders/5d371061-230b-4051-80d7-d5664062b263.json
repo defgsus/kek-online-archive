@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "New York (US)",
+  "pseudoCompany": false,
+  "name": "Dotdash Inc.",
+  "naturalPerson": false,
+  "squuid": "5d371061-230b-4051-80d7-d5664062b263",
+  "controlDate": "2021-12-03T13:30:33.782Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dotdash.com",
+        "squuid": "5d370e4c-823f-4182-9227-b775031d6564"
+      },
+      "squuid": "5d37107b-c104-45eb-a4cd-8a71d2c7761a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "IAC InterActiveCorp. ",
+        "squuid": "5d2c6899-0b71-4a04-b974-f95ea6702015"
+      },
+      "squuid": "5d3710b2-3a85-42ea-8f94-8b59d5b8cf58",
+      "state": "active"
+    }
+  ]
+}

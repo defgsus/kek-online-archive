@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Essen",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-58a1-4c17-815d-c4f3a3ab47bd",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Essener Versorgungs- und Verkehrsgesellschaft mbH (EVV)",
+        "squuid": "5be1a6b6-7c18-4096-9548-90b196f5d305"
+      },
+      "squuid": "5be1a6b8-f4e0-45b1-9352-41d1fadf6b1c",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

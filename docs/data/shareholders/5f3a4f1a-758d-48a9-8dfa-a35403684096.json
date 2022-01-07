@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Taunustor",
+  "name": "JOKE FM Radio Broadcast GmbH",
+  "naturalPerson": false,
+  "squuid": "5f3a4f1a-758d-48a9-8dfa-a35403684096",
+  "controlDate": "2021-12-10T10:20:36.641Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60310",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.jokefm.de",
+        "squuid": "5f3a4e54-5264-44bd-979e-395539c16e2c"
+      },
+      "squuid": "5f3a4f46-810b-4352-9fcb-aec52a759bc6",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nugget Pictures S. à. r. L.",
+        "squuid": "5f3a5024-b176-46b3-8f05-fa3602282904"
+      },
+      "squuid": "5f3a5058-74ca-4a69-bb91-f53840ee7bd8",
+      "state": "active"
+    }
+  ]
+}

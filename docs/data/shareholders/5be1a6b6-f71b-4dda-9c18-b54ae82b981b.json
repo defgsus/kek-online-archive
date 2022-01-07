@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Mannheim",
+  "note": "Stand: 1/2017",
+  "pseudoCompany": false,
+  "street": "Dudenstraße",
+  "name": "LRM LokalRadio Mannheim GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-f71b-4dda-9c18-b54ae82b981b",
+  "streetNumber": "12 - 26",
+  "organizations": [
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "68167",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Regenbogen 2",
+        "squuid": "5be1a6b1-59f0-4a74-893e-57e588483f7d"
+      },
+      "squuid": "5be1a6b9-a28d-4666-b9db-60add0674117",
+      "state": "active"
+    }
+  ],
+  "credits": "LFK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Radio Regenbogen Hörfunk in Baden GmbH & Co. KG",
+        "squuid": "5be1a6b6-715e-45d7-b1a9-cbd5588640e3"
+      },
+      "squuid": "5be1a6b8-d47d-448f-ac37-a53a0d951633",
+      "state": "active"
+    }
+  ]
+}

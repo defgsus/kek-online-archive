@@ -1,0 +1,33 @@
+{
+  "name": "Eigenbesitz der TV Bayern GmbH Bayerische Lokal-Fernsehprogramm Gesellschaft",
+  "pseudoCompany": true,
+  "controlDate": "2020-10-20T11:32:37.277Z",
+  "squuid": "5f8d6f4f-d87d-4b43-8828-87497a537d77",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "TV Bayern GmbH Bayerische Lokal-Fernsehprogramm Gesellschaft",
+        "squuid": "5be1a6b6-515a-406b-b899-999e085ca150"
+      },
+      "squuid": "5f8d6f9f-0ba9-4fd7-bb59-225fd768a63a",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

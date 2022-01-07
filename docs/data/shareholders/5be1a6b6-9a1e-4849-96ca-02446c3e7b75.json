@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Bergneustadt",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-9a1e-4849-96ca-02446c3e7b75",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.9,
+      "held": {
+        "name": "Radio Berg GmbH & Co. KG",
+        "squuid": "5be1a6b6-7164-45a6-b867-324087fd69eb"
+      },
+      "squuid": "5be1a6b7-f7b4-4ead-be56-41af4ba630d1",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

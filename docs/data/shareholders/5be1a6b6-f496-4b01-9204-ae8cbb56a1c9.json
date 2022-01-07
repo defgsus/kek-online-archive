@@ -1,0 +1,100 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Radio Prima 1 GmbH",
+        "squuid": "5be1a6b6-d78c-411f-9783-e6f90267aae0"
+      },
+      "squuid": "5be1a6b7-db5b-40ce-84bf-fa00dcc05512",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.9,
+      "held": {
+        "name": "HITRADIO RT1 Südschwaben GmbH",
+        "squuid": "5be1a6b6-7179-4d1e-a276-e0773c9d9084"
+      },
+      "squuid": "5be1a6b7-7741-4ef2-80b7-e7debe224b20",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.8,
+      "held": {
+        "name": "RT.15 GmbH",
+        "squuid": "5be1a6b6-70b0-48eb-8010-19756d476b0e"
+      },
+      "squuid": "5cab6cc1-08d1-41ab-ace0-a3367eff792b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mindelheim",
+  "pseudoCompany": false,
+  "street": "Maximilianstraße",
+  "name": "Druckerei und Verlag Hans Högel KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-f496-4b01-9204-ae8cbb56a1c9",
+  "controlDate": "2021-11-01T13:16:46.535Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "87719",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mindelheimer Zeitung",
+        "squuid": "5be1a6b1-51c9-4c7f-a4ef-ee2fe3423ea0"
+      },
+      "squuid": "5be1a6b9-df69-4af3-a051-4fa6807ee2b0",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Högel, Johannes",
+        "squuid": "5be1a6b6-173c-4abc-b50e-2ceceebe534b"
+      },
+      "liabilitySum": 100.0,
+      "squuid": "5be1a6b7-047e-405b-ba15-5640d0c9269c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "Högel, Hans",
+        "squuid": "5c8a288d-0f20-42f7-8cf0-d7c6443f2fa2"
+      },
+      "squuid": "5c8a28ef-9758-47af-8f1d-99970cf33747",
+      "state": "active"
+    }
+  ]
+}

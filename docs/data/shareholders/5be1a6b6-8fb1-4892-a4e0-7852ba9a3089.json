@@ -1,0 +1,91 @@
+{
+  "state": "active",
+  "city": "Eschborn",
+  "pseudoCompany": false,
+  "street": "Carl-Mannich-Straße",
+  "name": "Avoxa - Mediengruppe Deutscher Apotheker GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-8fb1-4892-a4e0-7852ba9a3089",
+  "controlDate": "2021-11-25T15:54:17.656Z",
+  "streetNumber": "26",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65760",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.aponet.de",
+        "squuid": "5be1a6b1-7dde-4b32-99e3-48811a296269"
+      },
+      "squuid": "5be1a6b9-51af-4b61-a0b0-9cfd5f98b88e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pharmazeutische-zeitung.de",
+        "squuid": "5c5446eb-05cf-43c3-8dbb-9e57daa4e673"
+      },
+      "squuid": "5c544749-5aa1-4e27-9a7b-20678ba0d3db",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Neue Apotheken Illustrierte",
+        "squuid": "6183cc9f-4a7c-40f9-a1cf-0b4e8e900667"
+      },
+      "squuid": "6183ccfb-849d-4fe2-b093-5a5b28782b0e",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Benkert, Thomas",
+        "squuid": "5be1a6b6-3f05-4217-aa70-f4ab69473dfe"
+      },
+      "squuid": "5be1a6b8-419c-4ea2-85a8-f2c8ccb5b5dd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Fink, Stefan",
+        "squuid": "5be1a6b6-f7fa-4c31-adc6-8648b3d69536"
+      },
+      "squuid": "5be1a6b8-383f-4e00-82ae-0e2870988228",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Hubmann, Hans-Peter",
+        "squuid": "5be1a6b6-4f5f-4306-84f0-205dd636e13d"
+      },
+      "squuid": "5be1a6b8-4ad1-435d-a509-38259c7bd92f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Belgardt, Christian",
+        "squuid": "5be1a6b6-c978-410a-976c-ead3b0cfb483"
+      },
+      "squuid": "5be1a6b8-41b6-46ab-8772-c7c602fa8515",
+      "state": "active"
+    }
+  ]
+}

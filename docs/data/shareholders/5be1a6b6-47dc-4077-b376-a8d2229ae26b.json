@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Straßenbahnring 18",
+  "name": "RTL Nord GmbH",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-47dc-4077-b376-a8d2229ae26b",
+  "controlDate": "2022-01-04T11:33:54.960Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+      "name": "brema",
+      "type": "organization",
+      "fullName": "Bremische Landesmedienanstalt"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "20251",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "RTL Nord Bremen",
+        "squuid": "5c93742f-3c0e-4a4b-a3eb-4172fb9ac119"
+      },
+      "squuid": "5c937a41-8119-4632-be36-6947342c5443",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "RTL Regional",
+        "squuid": "5d2f2ca9-c6a1-41a7-a158-cf2fe565e121"
+      },
+      "squuid": "5d2f3156-072c-4c78-93af-cba5ce04a785",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rtlnord.de/hamburg-schleswig-holstein",
+        "squuid": "5f183142-04d0-4b4d-a512-51b1e665907d"
+      },
+      "squuid": "5f1831c4-fc67-4f48-a481-0e1fb4768e53",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rtlnord.de/niedersachsen-bremen",
+        "squuid": "5f18311b-8c81-48f4-a841-e85a67a2ee0a"
+      },
+      "squuid": "5f183202-b747-463f-bb75-84540bdc2243",
+      "state": "active"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 11.11.2014, Az.: KEK 782",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RTL Television GmbH",
+        "squuid": "5be1a6b6-7542-41b4-ab53-17975a930698"
+      },
+      "squuid": "5be1a6b7-8a96-48bc-b903-05801c783940",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Aktionär TV GmbH",
+        "squuid": "5be1a6b6-7af7-4ca4-b521-a5ddf4ee1a16"
+      },
+      "squuid": "5be1a6b7-f10d-4f5b-8d90-694c98782500",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 96.15,
+      "held": {
+        "name": "Börsenmedien AG",
+        "squuid": "5be1a6b6-83d3-47a3-8439-19a5e7471aa7"
+      },
+      "squuid": "5be1a6b8-a83b-47d7-b7fd-77f1e66410c2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kulmbach",
+  "pseudoCompany": false,
+  "name": "Förtsch, Bernd",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-2db7-4801-90ab-1b7079668251",
+  "controlDate": "2019-05-17T13:09:22.319Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "credits": "IJK"
+}

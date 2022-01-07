@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "city": "Darmstadt",
+  "pseudoCompany": false,
+  "street": "Steubenplatz",
+  "name": "RadaR e.V. - Radio Darmstadt",
+  "naturalPerson": false,
+  "squuid": "5f3a51d3-e693-4d52-8a5b-19fd0efc31e0",
+  "controlDate": "2020-08-17T09:47:39.087Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "64293",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiodarmstadt.de",
+        "squuid": "5f3a5177-2e21-4448-954e-27ccc0e4ac62"
+      },
+      "squuid": "5f3a51f9-b9ca-493e-a267-4d6c9afff1c3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Darmstadt",
+        "squuid": "5f646392-8a89-4658-b414-7f1fe142fa9a"
+      },
+      "squuid": "5f64662c-1160-4249-857c-93b52651bc9d",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f16d033-88ec-44a5-9070-081a71ddf9b3",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "5f16d09a-f680-478f-9108-ffa16576895f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Betriebsgesellschaft Radio Hochsauerlandkreis mbH & Co. KG",
+        "squuid": "5be1a6b6-df29-4c59-9e1c-de49c415bfab"
+      },
+      "squuid": "5f16d0a6-9641-4db4-a4b8-de0d675ee577",
+      "state": "active"
+    }
+  ],
+  "name": "www.radiosauerland.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-03T10:39:41.430Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

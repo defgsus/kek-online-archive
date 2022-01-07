@@ -1,0 +1,70 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Sylt 1 GmbH & Co. KG",
+        "squuid": "5e1f2e80-3a21-4983-b7a5-2d60f8a794cf"
+      },
+      "squuid": "5f1971a8-2358-40fb-837c-47d53ba446ea",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Sylt OT Tinnum",
+  "pseudoCompany": false,
+  "street": "Alte Dorfstr.",
+  "name": "Sylt 1 Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5f1970fd-afc7-4ff6-b5aa-0881edcfd309",
+  "controlDate": "2022-01-06T15:02:27.844Z",
+  "streetNumber": "25",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "25980",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Knörrer GmbH",
+        "squuid": "5f197128-f788-4c1e-b89b-a824841088fa"
+      },
+      "squuid": "5f1febcb-7db2-47c7-a2be-ee75e6f6ae04",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Link, Axel",
+        "squuid": "5f19711a-9341-465f-8696-1bc29fa634a7"
+      },
+      "squuid": "5f1febde-ad2e-4256-96f8-74ccc8fafcc9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Holst, Heike",
+        "squuid": "5f19710f-300a-4281-8a80-fddb3ca70490"
+      },
+      "squuid": "5f1febed-aa9f-4014-81c3-57d03539bcab",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Ostfildern",
+  "pseudoCompany": false,
+  "street": "Zeppelinstr. 29",
+  "name": "J. Fink Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-ed4f-49ba-8aae-2970856491d2",
+  "controlDate": "2021-10-29T14:00:54.644Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "73760",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mein Eigenheim Wohnen & Leben",
+        "squuid": "5be1a6b1-07d5-4066-bee4-db610d9810d3"
+      },
+      "squuid": "5be1a6b9-4c9b-4a7e-87e3-21e2d09c014c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mein-eigenheim.de",
+        "squuid": "5be1a6b1-09a7-4c64-be73-fc3b6a44dde6"
+      },
+      "squuid": "5be1a6b9-00cf-42c2-bcc6-8a32a5b6aae7",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stein, Dr. Frieder",
+        "squuid": "5be1a6b6-8518-4d28-992d-b2bf332b5dc4"
+      },
+      "squuid": "5be1a6b8-1cf8-4e3c-b259-d317bc53c659",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Stein Consult GmbH",
+        "squuid": "5ede0b18-f7ae-44d6-bde2-8f1300580d6e"
+      },
+      "squuid": "5ede0b37-1d63-481c-aae6-a531f579e141",
+      "state": "active"
+    }
+  ]
+}

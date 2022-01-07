@@ -1,0 +1,103 @@
+{
+  "state": "active",
+  "city": "Burgstädt",
+  "pseudoCompany": false,
+  "street": "Chemnitzer Straße",
+  "name": "RG Regional-TV GmbH",
+  "naturalPerson": false,
+  "squuid": "5d0b66e7-7659-45a4-8744-7192b5dadaa6",
+  "controlDate": "2022-01-03T15:49:55.016Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "09217",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Burgstädter Kabelzeitung",
+        "squuid": "5be1a6b1-297c-4714-82cd-abd92a33f772"
+      },
+      "squuid": "5d0b671b-8c72-4c9c-bd9f-9e109c67fe77",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Infokanal Ottendorf-Okrilla",
+        "squuid": "5d023b26-fc82-4bd0-b5fe-acf49d6838c5"
+      },
+      "squuid": "5d0b6802-914f-4a91-89a6-cc2569045e09",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kabelzeitung Adelsberg",
+        "squuid": "5d0b6841-b3dd-4af3-8477-db07125be70f"
+      },
+      "squuid": "5d0b68b3-65fc-4be6-8f48-e3a2d53c6f41",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lunzenauer Kabelzeitung",
+        "squuid": "5d0b68e2-4215-4cc4-965a-9b5659cbd55b"
+      },
+      "squuid": "5d0b6a30-8960-4936-bdd7-8587c9bb4e0f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Peniger Kabelzeitung",
+        "squuid": "5d0b6a5d-48c1-4925-9d26-b0b313ece201"
+      },
+      "squuid": "5d0b6de6-9d8a-46bd-8a09-e181be0b9f79",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rg-tv.de",
+        "squuid": "5f7af9aa-79f5-41bb-b201-d43d0355963b"
+      },
+      "squuid": "5f7afa45-f944-4b62-8a18-85de43588be9",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 88.0,
+      "holder": {
+        "name": "Wünsch, Ute",
+        "squuid": "5be1a6b6-458d-4055-bd2b-ad718365a03b"
+      },
+      "squuid": "5e4fae7b-964a-44bf-9d7a-3d643177acd2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.0,
+      "holder": {
+        "name": "Glaß, Axel",
+        "squuid": "5be1a6b6-ff6a-457a-9500-e283d8c3bab1"
+      },
+      "squuid": "5e4fae86-0254-4b36-bdd3-69394e4b2855",
+      "state": "active"
+    }
+  ]
+}

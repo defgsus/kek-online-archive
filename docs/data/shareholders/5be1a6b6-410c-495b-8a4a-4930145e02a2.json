@@ -1,0 +1,50 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Liberty Global Europe, Inc.",
+        "squuid": "5be1a6b6-3c47-4fd3-8a47-96aaaebd5d73"
+      },
+      "squuid": "5be1a6b7-2b62-4296-85ad-705ecb7b8457",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Wilmington, USA",
+  "pseudoCompany": false,
+  "name": "Europe Acquisition, Inc.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-410c-495b-8a4a-4930145e02a2",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "holder": {
+        "name": "United Internet Holding, Inc.",
+        "squuid": "5be1a6b6-8559-4541-9f20-d3c065d8b28c"
+      },
+      "squuid": "5be1a6b7-0afc-4b61-8bb0-c13e60cf75e1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 99.5,
+      "holder": {
+        "name": "United Global Com, Inc. (UGC, Inc.)",
+        "squuid": "5be1a6b6-1a11-4577-8950-6a8a15eb74ff"
+      },
+      "squuid": "5be1a6b7-c5b6-4374-9849-6f1f2c6de043",
+      "state": "active"
+    }
+  ]
+}

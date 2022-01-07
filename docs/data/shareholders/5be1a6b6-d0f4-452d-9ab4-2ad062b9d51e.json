@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Türkenstraße",
+  "name": "equi8 Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-d0f4-452d-9ab4-2ad062b9d51e",
+  "streetNumber": "95",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "80799",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.2,
+      "holder": {
+        "name": "Borgetto, Paul",
+        "squuid": "5be1a6b6-70d7-4053-82ef-ef80e0b478f9"
+      },
+      "squuid": "5be1a6b7-7d3e-4b81-be88-9cef46f4ee00",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.2,
+      "holder": {
+        "name": "Eichenauer, Dr. Heinrich",
+        "squuid": "5be1a6b6-7818-4c7f-8d80-4a16b38d8b55"
+      },
+      "squuid": "5be1a6b7-238f-4745-a652-7f0ebd379628",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.0,
+      "holder": {
+        "name": "Nadzeika, Frank",
+        "squuid": "5be1a6b6-ee87-41f3-a40c-00765b1c4605"
+      },
+      "squuid": "5be1a6b7-63b0-4fd9-8ed5-9ff5e52d4f9d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.0,
+      "holder": {
+        "name": "Proventis GmbH",
+        "squuid": "5be1a6b6-2667-437e-b65e-f868dd77f51f"
+      },
+      "squuid": "5be1a6b7-85e6-4180-aec6-db4b4fe4e962",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.6,
+      "holder": {
+        "name": "Lumpp, Dittmar",
+        "squuid": "5be1a6b6-01b1-47dd-9efc-4430cb0829cf"
+      },
+      "squuid": "5be1a6b7-7cf5-446d-a6dc-fb3e579e22d7",
+      "state": "active"
+    }
+  ]
+}

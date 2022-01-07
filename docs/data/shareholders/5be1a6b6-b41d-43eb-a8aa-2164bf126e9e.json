@@ -1,0 +1,51 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.9375,
+      "held": {
+        "name": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG",
+        "squuid": "5be1a6b6-6ff9-4786-82e0-aa8770604520"
+      },
+      "liabilitySum": 6.0,
+      "squuid": "5be1a6b7-2cc2-4bfd-aa5f-8e55311f334b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.0,
+      "held": {
+        "name": "Rudolf Augstein GmbH",
+        "squuid": "5be1a6b6-08ec-45e9-8c5f-fc0df1ca7efc"
+      },
+      "squuid": "5be1a6b7-6632-48c6-ba57-0a317cc16d06",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Tutzing",
+  "pseudoCompany": false,
+  "name": "Augstein, Maria Sabine",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-b41d-43eb-a8aa-2164bf126e9e",
+  "controlDate": "2019-05-17T15:31:17.157Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "IJK"
+}

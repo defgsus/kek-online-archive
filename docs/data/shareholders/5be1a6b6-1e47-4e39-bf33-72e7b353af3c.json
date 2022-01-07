@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "Ludwig-Wolker-Straße",
+  "name": "fotoforum-Verlag e. K.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-1e47-4e39-bf33-72e7b353af3c",
+  "controlDate": "2021-10-15T11:21:02.455Z",
+  "streetNumber": "37",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "48157",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "fotoforum Fotografie & Präsentation",
+        "squuid": "5be1a6b1-80cc-4538-8b5b-f095e3fed3e2"
+      },
+      "squuid": "5be1a6b9-dc38-4002-9e99-cefad868a000",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fotoforum.de",
+        "squuid": "5be1a6b1-6cd4-4df1-b369-1ebb76cbcf5d"
+      },
+      "squuid": "5be1a6b9-64ae-4b24-8f77-4ef65a57fb94",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Breutmann, Martin",
+        "squuid": "5be1a6b6-bcdc-4144-99af-c56ecc5862b9"
+      },
+      "squuid": "5be1a6b8-f37e-4b3e-bc42-8416aeaf855a",
+      "state": "active"
+    }
+  ]
+}

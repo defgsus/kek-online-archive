@@ -1,0 +1,42 @@
+{
+  "name": "Stadt Oberhausen",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-16b1-4820-b4dc-9356537798d2",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.04,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Mülheim/Oberhausen mbH & Co. KG",
+        "squuid": "5be1a6b6-37f1-4531-90ce-878548f818b8"
+      },
+      "squuid": "5be1a6b8-fb33-484a-978e-71c7cb347719",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.6,
+      "held": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Mülheim/Oberhausen mbH",
+        "squuid": "5f180762-de46-470c-81fd-8194ea35a869"
+      },
+      "squuid": "5ff5acdb-eeb8-4d38-bd8c-19715c2af35f",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

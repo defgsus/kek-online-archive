@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Dassel",
+  "pseudoCompany": false,
+  "street": "Am Burgberg",
+  "name": "EnStyle GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-afe3-4cc8-97e1-981706c8f73b",
+  "otherMediaActivities": "Die EnStyle GmbH gehört zur PEARL-Gruppe und ist als Werbeagentur vor allem für die PEARL-Kataloge sowie die Radio- und TV-Werbung für PEARL zuständig.",
+  "controlDate": "2021-12-16T18:10:22.284Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "37586",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "pearl.tv",
+        "squuid": "5be1a6b1-8369-4bd6-8386-ef2acd9e6277"
+      },
+      "squuid": "5be1a6b9-3e1e-4dcf-b69f-91b094a74b62",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pearl.de/tv",
+        "squuid": "5f3bdbb0-3b4c-4d6f-986f-c1d1b622b545"
+      },
+      "squuid": "5f3bdc7e-a8fb-4a20-906b-798292b29cac",
+      "state": "active"
+    }
+  ],
+  "credits": "Bescheid der LFK vom 16.02.2012",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Sichler, Dr. Michael",
+        "squuid": "5be1a6b6-6a75-4fde-bbbb-0e942fcfc491"
+      },
+      "squuid": "5be1a6b8-0bea-4a26-833e-29173ac59bce",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Ludwig, Daniel",
+        "squuid": "5be1a6b6-631e-4d4d-abfe-74e8a94c3c09"
+      },
+      "squuid": "5be1a6b8-fa94-41bc-b4fb-e86110561c7f",
+      "state": "active"
+    }
+  ]
+}

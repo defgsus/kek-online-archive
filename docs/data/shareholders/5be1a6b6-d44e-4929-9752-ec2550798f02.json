@@ -1,0 +1,32 @@
+{
+  "name": "Stadt Erftstadt",
+  "pseudoCompany": true,
+  "squuid": "5be1a6b6-d44e-4929-9752-ec2550798f02",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.25,
+      "held": {
+        "name": "Radio Erft GmbH & Co. KG",
+        "squuid": "5be1a6b6-26f0-4203-9c63-c3255f841c81"
+      },
+      "squuid": "5be1a6b7-c4cf-4e27-9fad-47158c9e87db",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

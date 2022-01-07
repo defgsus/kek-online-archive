@@ -1,0 +1,33 @@
+{
+  "name": "Vogel, Peter",
+  "pseudoCompany": false,
+  "squuid": "5f3d044f-714a-4e95-ab38-b7a0d9a6e32a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "NIBEG Treuhandgesellschaft mbH Steuerberatungsgesellschaft",
+        "squuid": "5f047412-33d1-4eb2-8501-a79496105071"
+      },
+      "squuid": "5f3d0495-e2c7-4e71-bfb9-487af2616753",
+      "state": "active"
+    }
+  ],
+  "city": "Marklohe",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

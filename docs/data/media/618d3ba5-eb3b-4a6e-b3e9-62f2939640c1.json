@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "618d3ba5-eb3b-4a6e-b3e9-62f2939640c1",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Schwäbisches Tagblatt GmbH",
+        "squuid": "5be1a6b6-73b8-42f0-a5e3-941f9d130ff4"
+      },
+      "squuid": "618d3bcd-8a07-4b67-a067-148a48ef3a41",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NPG Digital GmbH",
+        "squuid": "5be1a6b6-32e0-4347-b17f-dcdba478c0a5"
+      },
+      "squuid": "618d3bd9-8276-42d7-ae1e-1215537de163",
+      "state": "active"
+    }
+  ],
+  "name": "www.neckar-chronik.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-11-11T15:50:13.423Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

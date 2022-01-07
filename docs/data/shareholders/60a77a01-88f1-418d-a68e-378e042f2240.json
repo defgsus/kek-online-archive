@@ -1,0 +1,32 @@
+{
+  "name": "Eigenbesitz der Radio Regenbogen Programmanbieter gGmbH",
+  "pseudoCompany": true,
+  "squuid": "60a77a01-88f1-418d-a68e-378e042f2240",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 23.0,
+      "held": {
+        "name": "Radio Regenbogen Programmanbieter gGmbH",
+        "squuid": "5be1a6b6-9578-44dc-8400-61e526137e1f"
+      },
+      "squuid": "60a77a6a-72a8-46ae-a7bd-32083cd0731a",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

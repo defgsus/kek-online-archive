@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Antenne NRW Verwaltungs GmbH",
+        "squuid": "618d063b-33cb-447d-99b9-988e5e617d97"
+      },
+      "squuid": "618d0870-fb97-4e22-bdef-c228366a9e19",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Königsalle ",
+  "name": "Antenne NRW GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "618d061b-b42a-42a2-8bdb-b956f64723f6",
+  "controlDate": "2021-11-11T12:05:36.908Z",
+  "streetNumber": "60 F",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40212",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.antenne.nrw",
+        "squuid": "618d065d-0ca8-48d0-aaf5-7e279bc50107"
+      },
+      "squuid": "618d06ee-e94d-4134-838c-80ffb56e8c35",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Antenne Bayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-5d70-4275-a2da-4ea50ee1b6af"
+      },
+      "squuid": "618d07af-40ff-485e-a5f0-40b0dac16d8f",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Antenne NRW Verwaltungs GmbH",
+        "squuid": "618d063b-33cb-447d-99b9-988e5e617d97"
+      },
+      "squuid": "618d07c4-5408-49e1-8c2e-fd71cae758d3",
+      "state": "active"
+    }
+  ]
+}

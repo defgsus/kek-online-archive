@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Straßenbahnring ",
+  "name": "Gehalt.de GmbH",
+  "naturalPerson": false,
+  "squuid": "5d31bc0c-a6ce-46f5-b11a-86a59e2df62a",
+  "controlDate": "2021-12-08T11:17:54.680Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20251",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gehalt.de",
+        "squuid": "5d31bc03-5b22-4318-9f2b-a9b76c9c3090"
+      },
+      "squuid": "5d31bc28-beb9-4f81-b80d-7bb822233971",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "StepStone Continental Europe GmbH ",
+        "squuid": "5d31bdec-40cd-4be7-937c-3487a4c62e83"
+      },
+      "squuid": "5d31be17-b66e-4a78-aef0-0a2609151ae3",
+      "state": "active"
+    }
+  ]
+}

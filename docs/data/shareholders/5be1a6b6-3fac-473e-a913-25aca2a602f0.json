@@ -1,0 +1,68 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Otto-Lindenmeyer-Straße",
+  "name": "DRA Digital Radio Augsburg GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-3fac-473e-a913-25aca2a602f0",
+  "controlDate": "2021-12-20T15:09:16.013Z",
+  "streetNumber": "28",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "86153",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Augsburg",
+        "squuid": "5be1a6b1-f5e5-4daf-bb48-7bc327213b43"
+      },
+      "squuid": "5be1a6b9-1622-40cd-aaef-3a53fe5a3fb2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioaugsburg.de",
+        "squuid": "5f919756-d8ca-4aa9-acec-9c6fa93f6d12"
+      },
+      "squuid": "5f919784-9dbb-4ea4-a00c-ffb4d5bf69d6",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Sankt Ulrich Verlag GmbH",
+        "squuid": "5be1a6b6-cac1-420a-b40c-87452e0ab6f4"
+      },
+      "squuid": "5be1a6b7-3b21-44c6-b337-c402341a053b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "Pro FM Media GmbH & Co. KG",
+        "squuid": "5be1a6b6-e00e-4054-b5fa-829e9fd143f3"
+      },
+      "squuid": "5be1a6b7-c775-45d2-9424-a9247b4b8ed5",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Meßberg 1",
+  "name": "Bauer Living KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-bf32-4c7a-9367-838b8d08786b",
+  "controlDate": "2021-03-25T15:51:56.941Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20067",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kochen & Genießen",
+        "squuid": "5be1a6b1-7e33-4d30-a360-df114030c28a"
+      },
+      "squuid": "5be1a6b9-5ae0-462d-949f-b1286b51ada4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Tina Koch- & Back-Ideen",
+        "squuid": "5be1a6b1-a3a0-4a0f-950c-1a258aacf394"
+      },
+      "squuid": "5be1a6b9-80e3-413d-a1f1-6e823a1e9394",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rezepte pur",
+        "squuid": "5be1a6b1-944f-4602-8662-92b03e136ebf"
+      },
+      "squuid": "5be1a6b9-b491-4c7c-a2aa-a91a70d451b1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lecker",
+        "squuid": "5be1a6b1-4038-4e25-9a53-47cfb9f26706"
+      },
+      "squuid": "5be1a6b9-7a5e-4188-9ec1-634486018b13",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Wohnidee",
+        "squuid": "5be1a6b1-27cc-4959-9d77-112ba98ce636"
+      },
+      "squuid": "5be1a6b9-747c-4b70-a97c-7cc6b7a4e626",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Laura wohnen kreativ",
+        "squuid": "5be1a6b1-39a7-4a71-9a05-4bcec07e3efd"
+      },
+      "squuid": "5be1a6b9-78d5-4b5f-9533-02095ae42761",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mein Lieblingsrezept",
+        "squuid": "5be1a6b1-fd1c-459b-bdd0-41ea58de0197"
+      },
+      "squuid": "5be1a6b9-cc08-4bd9-8bd6-be2a7800bf06",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Good Food",
+        "squuid": "5e30628d-cfa9-49a9-a921-87d01eea28a3"
+      },
+      "squuid": "5e3062e7-50ec-4744-9e1d-5bc3c0e67cf8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gourmet Traveller",
+        "squuid": "5e316183-e487-4cff-8bcb-4d0180740a8e"
+      },
+      "squuid": "5e31624c-677a-4d17-9291-2198b4d9cb49",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Good Health",
+        "squuid": "5be1a6b1-ed48-4cb3-9b76-de1e5ce918fc"
+      },
+      "squuid": "5e396cad-68cd-44cc-910b-771208412460",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Welt der Wunder",
+        "squuid": "5be1a6b1-ddb8-4071-b358-13d18f80b4d5"
+      },
+      "squuid": "5e396ce2-0063-43c3-94ae-21260d2e1224",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Welt der Wunder kompakt",
+        "squuid": "5be1a6b1-e0d1-4c4f-9c24-8a481a3c5e38"
+      },
+      "squuid": "5e396cfd-aea5-4988-b31a-5ad36eee7148",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "happinez",
+        "squuid": "5be1a6b1-8413-448b-83c5-58b5c0f7cc18"
+      },
+      "squuid": "605cb406-3a2c-45c0-85dc-928be61a93a8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heinrich Bauer Verlag KG",
+        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
+      },
+      "squuid": "5be1a6b8-6032-4fb5-ae76-96693ebeb657",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bauer Komplementär KG",
+        "squuid": "5eaffda5-a775-4f8a-9124-c01ded28585e"
+      },
+      "squuid": "5ecbc905-1db6-4311-862e-e94df51007e8",
+      "state": "active"
+    }
+  ]
+}

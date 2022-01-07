@@ -1,0 +1,151 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Gemeinschaft Digitaler Radio Programme GmbH",
+        "squuid": "5be1a6b6-dc24-47cf-9ec2-e3f9b61bc5d2"
+      },
+      "squuid": "5be1a6b7-c8f6-440d-9296-c158acb243c0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.692,
+      "held": {
+        "name": "Gemeinschaft Digitaler Radio Programme Beteiligungs-GmbH & Co. KG",
+        "squuid": "5f3e78f9-65e5-448e-9405-939dcc58f361"
+      },
+      "squuid": "5ff3329a-bd12-4700-b8b6-5053ca3abd40",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bamberg",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Gutenbergstraße",
+  "name": "Bamberger Rundfunk GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-75b9-465a-90a9-1dabdfe31855",
+  "controlDate": "2021-12-07T17:02:46.717Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "96050",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Bamberg",
+        "squuid": "5be1a6b1-23da-4d7f-ad30-a9f721a595bd"
+      },
+      "squuid": "5be1a6b9-b9a4-4b6c-8db0-9e204a14be2c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Galaxy Bamberg",
+        "squuid": "5be1a6b1-52cb-4e27-b631-9c196b40ca10"
+      },
+      "squuid": "5be1a6b9-8480-4aae-b652-1bd6cf8a68d8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.galaxy-oberfranken.de",
+        "squuid": "5f902349-03de-453e-b71f-17c69c0169cb"
+      },
+      "squuid": "5f902395-3c8d-4deb-a1f3-696a8f465c34",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-bamberg.de",
+        "squuid": "5f929152-b373-4bd2-a695-debfdb828c0b"
+      },
+      "squuid": "5f9291fb-173c-4adf-a34d-9d8878600502",
+      "state": "active"
+    }
+  ],
+  "credits": "BLM",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Neue Welle Oberfranken Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-5526-444b-86b3-9798293679fb"
+      },
+      "squuid": "5be1a6b7-96e8-4e81-86df-96a704c351da",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "MGO Anbietergesellschaft Radio GmbH",
+        "squuid": "5c890b34-a1a7-4429-9808-ffdd94e5c22d"
+      },
+      "squuid": "5c890c9b-b484-4615-952b-dd553e5202ef",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bamberger Rundfunk Verwaltungs-GmbH",
+        "squuid": "5f902453-07a6-4733-afd6-079f0727e945"
+      },
+      "squuid": "60509f50-c179-403f-be46-9bd7bd809a6a",
+      "state": "active"
+    }
+  ]
+}

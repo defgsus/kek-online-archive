@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Theodor-Heuss-Ring",
+  "name": "ACV Verlags- und Wirtschaftsdienst GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-187a-45a8-90b5-262217c4bb28",
+  "controlDate": "2021-01-15T14:11:58.418Z",
+  "streetNumber": "19-21",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50668",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ACV Profil",
+        "squuid": "5be1a6b1-2c07-4f52-8cb7-39f4e231ee35"
+      },
+      "squuid": "5be1a6b9-03c4-4893-8e2a-4107af2be1af",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.acv.de/der-acv/mitgliedermagazin",
+        "squuid": "610bf2d3-e7e5-4a63-b5f5-f766cdcae120"
+      },
+      "squuid": "610bf2f1-e6cb-45eb-9223-b11cea1804a8",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ACV Automobil-Club Verkehr e.V.",
+        "squuid": "5be1a6b6-620f-41cd-9dc9-f51c5b9f58ba"
+      },
+      "squuid": "5be1a6b8-46c1-4efc-b6e8-d543fa1d74ad",
+      "state": "active"
+    }
+  ]
+}

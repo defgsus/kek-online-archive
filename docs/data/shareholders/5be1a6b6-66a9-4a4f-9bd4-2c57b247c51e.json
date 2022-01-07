@@ -1,0 +1,51 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.0,
+      "held": {
+        "name": "VRM GmbH & Co KG",
+        "squuid": "5be1a6b6-17dc-47b0-87cc-2b1436e1a864"
+      },
+      "squuid": "5be1a6b8-42ff-4006-b12b-7a398d36f392",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "bfb GmbH",
+        "squuid": "5ef9b6b7-583c-4865-8f51-6d25997fe9ab"
+      },
+      "squuid": "5f02e8fb-4a45-451b-9045-67a0aeba7365",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Darmstadt",
+  "pseudoCompany": false,
+  "name": "Bach, Hans-Peter",
+  "naturalPerson": true,
+  "squuid": "5be1a6b6-66a9-4a4f-9bd4-2c57b247c51e",
+  "controlDate": "2019-04-30T12:00:05.111Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "credits": "IJK"
+}

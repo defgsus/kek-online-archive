@@ -1,0 +1,67 @@
+{
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Westfalendamm",
+  "name": "WestCom Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4f2a-4dd7-b23b-ff08ebd893e5",
+  "controlDate": "2022-01-04T17:18:20.544Z",
+  "streetNumber": "87",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "44141",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sat1nrw.de",
+        "squuid": "5f105480-74b3-4652-bfdb-1b38f54ba4b8"
+      },
+      "squuid": "5f1054c6-3872-4935-a765-144fbe87fb17",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sat.1 NRW",
+        "squuid": "5f91984c-f43a-4b66-95cf-ed1c33e74507"
+      },
+      "squuid": "5f919920-0e8e-4966-b7e4-730b9d96aabb",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.8,
+      "holder": {
+        "name": "WestCom Media Holding GmbH",
+        "squuid": "5be1a6b6-3b19-4c90-8313-532b79b964fc"
+      },
+      "squuid": "5be1a6b8-c95e-45d1-b8ee-1b8f8178e5bf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.2,
+      "holder": {
+        "name": "Pohl, Peter R.",
+        "squuid": "5be1a6b6-65d9-4e58-90e6-f908351723b1"
+      },
+      "squuid": "5f1055ba-4740-4972-9a0b-8e5cc6d37932",
+      "state": "active"
+    }
+  ]
+}

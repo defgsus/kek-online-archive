@@ -1,0 +1,99 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Schlesische Str. 29",
+  "name": "ahead Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-0f66-49ec-a1ca-738832055bec",
+  "controlDate": "2021-10-15T10:18:18.321Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10997",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "flair",
+        "squuid": "5be1a6b1-3c76-4483-9bb7-3e1ae6246fc5"
+      },
+      "squuid": "5be1a6b9-aa25-44b1-be7a-2d235cde03bc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "H.O.M.E. Deutschland",
+        "squuid": "5be1a6b1-f390-4bf8-988c-f63b310207c3"
+      },
+      "squuid": "5be1a6b9-3549-4c28-aba4-27bc0c7a37fc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.flair-modemagazin.com",
+        "squuid": "5be1a6b1-0b14-4429-8ce0-07fc8a4473d2"
+      },
+      "squuid": "5be1a6b9-3d26-4e02-af1c-88a2e8253823",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.home-mag.com",
+        "squuid": "5be1a6b1-636d-4a5f-b04e-86909d9fe202"
+      },
+      "squuid": "5be1a6b9-2884-4838-89b8-83a115f0d142",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Rischke, Robert",
+        "squuid": "5be1a6b6-f8cb-4009-9552-d3322af1aa54"
+      },
+      "squuid": "5be1a6b8-fa26-4b05-a080-10b3d42f63ad",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 54.0,
+      "holder": {
+        "name": "Geringer, Alexander",
+        "squuid": "5be1a6b6-bb9d-4cf9-8bda-975c16b3c5e7"
+      },
+      "squuid": "5be1a6b8-704b-423c-879b-46aa86e3e8db",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.0,
+      "holder": {
+        "name": "Machhörndl, Thomas",
+        "squuid": "5be1a6b6-8a20-4f4a-8061-f378368f0661"
+      },
+      "squuid": "5be1a6b8-2436-47bd-b16f-74642e566627",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.0,
+      "holder": {
+        "name": "Treichl-Stürgkh, Desiree",
+        "squuid": "5be1a6b6-651e-4101-b7c9-18d705230d2b"
+      },
+      "squuid": "5be1a6b8-c6bf-4284-adc2-cade1f32ed2c",
+      "state": "active"
+    }
+  ]
+}

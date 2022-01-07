@@ -1,0 +1,29 @@
+{
+  "name": "Streubesitz an der Adidas AG",
+  "squuid": "605b28ab-d1af-4d18-b6f5-8bed54b919e0",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Adidas AG",
+        "squuid": "5be1a6b6-154f-4ba1-b24a-29984d9e1c38"
+      },
+      "squuid": "605b28e4-f0e9-4f27-92d5-02e7bc163f17",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active"
+}

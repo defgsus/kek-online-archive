@@ -1,0 +1,80 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 99.04,
+      "held": {
+        "name": "DWS Beteiligungs GmbH",
+        "squuid": "5efaedaf-47bf-4056-a1ef-77a33e63fff0"
+      },
+      "squuid": "5f02dd9e-e74b-4db0-afee-8783bd2dadbc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Mainzer Landstr.",
+  "name": "DWS Group GmbH & Co. KGaA",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5f02dd2f-a75c-4b4f-8bfb-340dd621327e",
+  "controlDate": "2021-12-07T11:41:30.170Z",
+  "streetNumber": "11-17",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60329",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 79.49,
+      "holder": {
+        "name": "DB Beteiligungs-Holding GmbH",
+        "squuid": "5f0dbdcc-4002-4401-aa50-f03bdc26d1a6"
+      },
+      "squuid": "5f0dbe3f-3c35-402b-a9f8-90c8828c01c4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Nippon Life Insurance Company",
+        "squuid": "5f0dbdf6-9b4a-4b14-9d0d-1f595c54e0ef"
+      },
+      "squuid": "5f0dbe4c-9968-4012-885a-00c2f440b907",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.51,
+      "holder": {
+        "name": "Streubesitz an der DWS Group GmbH & Co. KG aA",
+        "squuid": "5f0dbe77-c7a9-4afd-bed7-3b12d5e49acc"
+      },
+      "squuid": "5f0dbe9c-b98b-4189-ae5a-e4b64da25f58",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "DWS Management GmbH",
+        "squuid": "5f1156b1-f5bd-4e71-a905-e9232b56c1d7"
+      },
+      "squuid": "5f1156ed-4b34-4b0d-8a82-c75823fce27c",
+      "state": "active"
+    }
+  ]
+}

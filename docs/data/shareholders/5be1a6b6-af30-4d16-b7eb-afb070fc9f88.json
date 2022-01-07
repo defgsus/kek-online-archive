@@ -1,0 +1,69 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "Transfermarkt GmbH & Co KG",
+        "squuid": "5be1a6b6-e50d-423a-bf4d-ed907211e84c"
+      },
+      "squuid": "5be1a6b8-6202-4883-a391-8751377bf45e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "Transfermarkt Verwaltungs GmbH",
+        "squuid": "5f059c15-7f0b-46a8-b827-84b0a532a129"
+      },
+      "squuid": "5f059ccf-6f18-4735-a392-9f33782901b4",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Axel-Springer-Straße 65",
+  "name": "Bild GmbH ",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-af30-4d16-b7eb-afb070fc9f88",
+  "controlDate": "2022-01-06T16:50:26.249Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10888",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bild Live",
+        "squuid": "5fd4660e-ae04-4b3b-a72b-aefb105620db"
+      },
+      "squuid": "5fd469b1-0e7c-46d2-8d0f-22419a75c788",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Axel Springer SE",
+        "squuid": "5be1a6b6-5c1b-48b1-ad15-85241452bf42"
+      },
+      "squuid": "5be1a6b8-ee8e-4a0f-b951-905521a991e4",
+      "state": "active"
+    }
+  ]
+}

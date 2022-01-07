@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Aachen",
+  "pseudoCompany": false,
+  "street": "Ritterstr.",
+  "name": "VWB Media Service Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4a82-48ca-bfb7-aaff783072ab",
+  "controlDate": "2021-10-22T13:29:05.329Z",
+  "streetNumber": "21",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "52072",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Handwerkswirtschaft",
+        "squuid": "5be1a6b1-3e1b-4611-ad6a-27cbdfaf1e13"
+      },
+      "squuid": "5be1a6b9-6484-4656-a015-d9922c2852ab",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Handwerkskammer Aachen",
+        "squuid": "5be1a6b6-2706-4ad6-bc2c-84e20ed22f59"
+      },
+      "squuid": "5be1a6b8-7184-457a-b4d3-8b0e9c60c99b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Hartmann, Christoph",
+        "squuid": "5be1a6b6-d195-431e-9cc4-e2d7b2a0db86"
+      },
+      "squuid": "5be1a6b8-d20a-4d59-aaeb-ff38860431ad",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Fister-Hartmann, Caroline",
+        "squuid": "5be1a6b6-2e12-4db5-bd73-93b51f56648c"
+      },
+      "squuid": "5be1a6b8-54ef-4a75-814b-edd1e6c47589",
+      "state": "active"
+    }
+  ]
+}

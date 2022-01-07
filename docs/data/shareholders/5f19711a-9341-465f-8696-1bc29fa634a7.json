@@ -1,0 +1,43 @@
+{
+  "name": "Link, Axel",
+  "pseudoCompany": false,
+  "squuid": "5f19711a-9341-465f-8696-1bc29fa634a7",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Sylt 1 GmbH & Co. KG",
+        "squuid": "5e1f2e80-3a21-4983-b7a5-2d60f8a794cf"
+      },
+      "squuid": "5f1971c5-fed0-4af5-8214-3da5776da6ab",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Sylt 1 Verwaltungsgesellschaft mbH",
+        "squuid": "5f1970fd-afc7-4ff6-b5aa-0881edcfd309"
+      },
+      "squuid": "5f1febde-ad2e-4256-96f8-74ccc8fafcc9",
+      "state": "active"
+    }
+  ],
+  "city": "Köln",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": true
+}

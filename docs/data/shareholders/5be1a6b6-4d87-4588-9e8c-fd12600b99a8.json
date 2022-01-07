@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Karlsruhe",
+  "pseudoCompany": false,
+  "street": "Fritz-Erler-Str.",
+  "name": "Badenia Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-4d87-4588-9e8c-fd12600b99a8",
+  "controlDate": "2021-10-26T12:15:23.690Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "76133",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Konradsblatt",
+        "squuid": "5be1a6b1-8059-4992-a500-5d9f74bac969"
+      },
+      "squuid": "5be1a6b9-c3ac-4fab-9ea5-e401d4285c72",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.konradsblatt-online.de",
+        "squuid": "5be1a6b1-8b25-43c4-8b45-29d2488e8e39"
+      },
+      "squuid": "5be1a6b9-4674-48a6-9df8-61af5211594a",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Erzbischöflicher Stuhl Freiburg",
+        "squuid": "5be1a6b6-0785-4948-897f-5f9c3cef9e8e"
+      },
+      "squuid": "5be1a6b8-3ef3-4946-83b5-f589c30382c4",
+      "state": "active"
+    }
+  ]
+}

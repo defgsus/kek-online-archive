@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "5d2df2b9-5452-49f0-bd12-4e3b43e3f21d",
+  "marketReach": 0.4375186084252613,
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Checkout Charlie GmbH",
+        "squuid": "5d2df2c5-8330-4a2c-b0bd-d89e069d378c"
+      },
+      "squuid": "5d2df307-3bb4-4dd9-813b-0b3c4a084e81",
+      "state": "active"
+    }
+  ],
+  "name": "www.sparwelt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-05T16:25:51.860Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

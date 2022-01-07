@@ -1,0 +1,112 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "Funkhaus Regensburg GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-d53d-429c-b17b-21d935c65e5b"
+      },
+      "squuid": "5be1a6b7-8648-4c9b-a962-eabb79ee584c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.69,
+      "held": {
+        "name": "TVA Ostbayern Fernsehprogrammgesellschaft mbH & Co. Studiobetriebs KG",
+        "squuid": "5cab5d68-1576-4194-9733-75dce03e44ad"
+      },
+      "squuid": "5cab61c8-76bc-42ee-9fc0-b30bdde64c9c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "Funkhaus Regensburg GmbH",
+        "squuid": "5f902dc1-8fee-40ae-88c5-9abb0e9cc356"
+      },
+      "squuid": "5fac0615-b56b-4472-b587-4cb0b6f0ef19",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Regensburg",
+  "note": "Beteiligung an Radio Charivari Regensburg: 33,34%",
+  "supplierConsortium": false,
+  "pseudoCompany": false,
+  "street": "Lilienthalstr.",
+  "name": "Neue Welle - Antenne Regensburg Hörfunk- und Fernsehprogramm GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-afab-484d-ae80-c6129274e6dc",
+  "controlDate": "2021-12-01T16:42:59.376Z",
+  "streetNumber": "3c",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "93049",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Charivari Regensburg",
+        "squuid": "5be1a6b1-f175-4f93-8bf4-9b1213aa1aaf"
+      },
+      "squuid": "5c7fb0c8-f81a-430e-a7a4-881d45cc47f5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG",
+        "squuid": "5efef438-7c82-454e-beb9-493d1f5ec407"
+      },
+      "squuid": "5f804ab7-eb90-4b64-ba4d-cdedb3be7512",
+      "state": "active"
+    }
+  ]
+}

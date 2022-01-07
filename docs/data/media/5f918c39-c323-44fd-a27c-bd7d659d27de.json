@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "5f918c39-c323-44fd-a27c-bd7d659d27de",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Aktuelle Welle Region 8 Programm- und Werbe GmbH",
+        "squuid": "5c6d77d0-ab5e-4ab7-ba44-af7c18891eda"
+      },
+      "squuid": "5f918c97-62e7-4b3a-877c-db7c6f8ba672",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Frequenzgemeinschaft Region 8 GbR",
+        "squuid": "5be1a6b6-4567-4e73-8b88-ae229e313e52"
+      },
+      "squuid": "61c1e2c9-b7ea-4ad4-97f6-9fea3aff22e4",
+      "state": "active"
+    }
+  ],
+  "name": "www.radio8.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2021-12-21T14:18:19.251Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

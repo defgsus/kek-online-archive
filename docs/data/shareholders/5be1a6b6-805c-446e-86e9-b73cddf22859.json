@@ -1,0 +1,81 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "held": {
+        "name": "Radio Aktuelle Welle GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-f68d-49c4-8ee5-4264e52fbef5"
+      },
+      "squuid": "5be1a6b7-d824-4186-9894-6d481d22ec70",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "held": {
+        "name": "Radio Aktuelle Welle Verwaltungs GmbH",
+        "squuid": "5f919e94-9676-4009-8036-fc8fb920c5af"
+      },
+      "squuid": "5fa515d9-46d7-46a3-9e0a-29dc90e7e2b3",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Straubing",
+  "pseudoCompany": false,
+  "street": "Ludwigsplatz",
+  "name": "Radio AWN Straubing GmbH & Co. Hörfunk KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-805c-446e-86e9-b73cddf22859",
+  "controlDate": "2021-12-21T14:59:47.410Z",
+  "streetNumber": "30",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "94315",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Aktuelle Welle Westliches Niederbayern Programm und Werbe GmbH",
+        "squuid": "5be1a6b6-15b3-4228-8660-7f53ca3bcca4"
+      },
+      "squuid": "5be1a6b7-85dc-4bdc-be9f-662a65f772de",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Wälischmiller Druck & Verlags GmbH",
+        "squuid": "5be1a6b6-6621-4ea5-bf72-a04134984acb"
+      },
+      "squuid": "5cee4156-ffb0-448e-817e-0fd2a514ad13",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio AWN Straubing GmbH",
+        "squuid": "5f919fb9-c3bb-4526-a5c1-6f90f951858b"
+      },
+      "squuid": "5f91a00b-3dab-4596-a86c-a8aa60b50082",
+      "state": "active"
+    }
+  ]
+}

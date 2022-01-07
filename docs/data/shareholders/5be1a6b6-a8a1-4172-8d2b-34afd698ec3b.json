@@ -1,0 +1,69 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 9.14,
+      "held": {
+        "name": "Betriebsgesellschaft Radio Herne mbH & Co. KG",
+        "squuid": "5be1a6b6-d4bf-48c0-a998-2cd684cd00cd"
+      },
+      "squuid": "5be1a6b8-6332-4ed2-a58d-504f4a731098",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Betriebsverwaltungsgesellschaft Radio Herne mbH",
+        "squuid": "5f16c0a9-ac99-433e-b422-aeaf9372d103"
+      },
+      "squuid": "5ff5a968-742b-4f83-80ba-e07c460a6992",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Herne",
+  "pseudoCompany": false,
+  "street": "Grenzweg",
+  "name": "Vermögensverwaltungsgesellschaft für Versorgung und Verkehr der Stadt Herne mbH (VVH)",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a8a1-4172-8d2b-34afd698ec3b",
+  "controlDate": "2021-12-22T14:02:08.860Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "44623",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Stadt Herne",
+        "squuid": "5f16c2e1-988f-4f1c-8603-e3dd7e63fc2e"
+      },
+      "squuid": "5f16c332-f837-4785-b6dd-a633d386c670",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 99.0,
+      "holder": {
+        "name": "Energie- und Wasserversorgung Mittleres Ruhrgebiet GmbH",
+        "squuid": "5f16c2fd-51a4-4932-9239-3cccfc04da8d"
+      },
+      "squuid": "5f16c33f-207a-4c0c-86d9-a9a7953606b8",
+      "state": "active"
+    }
+  ]
+}

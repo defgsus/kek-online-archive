@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "street": "Engertstraße",
+  "name": "Sportradio Deutschland GmbH",
+  "naturalPerson": false,
+  "squuid": "600abdf3-bf8f-4289-92cd-02d7e02d1b38",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04177",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sportradio Deutschland",
+        "squuid": "600abf3c-60a8-4385-aa93-b088ade50a6f"
+      },
+      "squuid": "600abfe0-f312-4814-bfbf-29c81f73d9d1",
+      "state": "active"
+    }
+  ]
+}

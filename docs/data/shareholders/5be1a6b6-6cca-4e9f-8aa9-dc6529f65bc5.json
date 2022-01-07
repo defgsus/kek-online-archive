@@ -1,0 +1,75 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Sat.1 Bayern GmbH",
+        "squuid": "5be1a6b6-8c9c-42d1-b7f0-9e708d37c69f"
+      },
+      "squuid": "5be1a6b7-2fee-49f3-a6d6-003c1348b1a2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Privatfernsehen in Bayern GmbH & Co. KG",
+        "squuid": "60bf33b6-7016-47d2-9689-cc8d5fd4a211"
+      },
+      "squuid": "60bf3a0d-5dde-4a67-a2c1-41cae762fb70",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Privatfernsehen in Bayern Verwaltungs-GmbH",
+        "squuid": "60bf33f1-d3f1-46a9-b894-e9d883037faf"
+      },
+      "squuid": "60bf3e7f-9e1c-4d2d-9b8b-0de267a1411d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Unterföhring",
+  "pseudoCompany": false,
+  "street": "Medienallee",
+  "name": "tv weiss-blau Rundfunkprogrammanbieter GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-6cca-4e9f-8aa9-dc6529f65bc5",
+  "controlDate": "2022-01-04T17:13:29.488Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "zipcode": "85774",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Seven.One Entertainment Group GmbH",
+        "squuid": "5be1a6b6-ee3d-454b-96df-68a8cdac19d3"
+      },
+      "squuid": "60bf422d-2351-4bd2-a8ab-e15f2f2c2bb7",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Naststraße",
+  "name": "Regio TV Stuttgart GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5d42caf7-0022-4587-bddb-9a42a391a3cf",
+  "controlDate": "2022-01-03T15:29:33.938Z",
+  "streetNumber": "25",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    }
+  ],
+  "zipcode": "70376",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Regio TV Stuttgart",
+        "squuid": "5d2c70e3-d914-4ba3-8f55-b510319f9cb0"
+      },
+      "squuid": "5d42cb13-727c-4582-b55b-81e3ef797b55",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.regio-tv.de/regio-tv-stuttgart",
+        "squuid": "5f3d169d-d3f6-48eb-8560-1dbc43bf2f1e"
+      },
+      "squuid": "5f3d16ce-fa10-4475-9c19-5e89f4016320",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Regional-TV Lizenz GmbH",
+        "squuid": "5f3d174f-40dd-4974-b384-71fca3680f8c"
+      },
+      "squuid": "5f3d1780-8330-4deb-a4af-f4b3c1a4c8b0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5f3d178f-828a-4283-8d32-068a87929846",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.1,
+      "held": {
+        "name": "Pressefunk Nordrhein-Westfalen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8c11-4526-af08-275ec93dea8b"
+      },
+      "squuid": "5be1a6b7-3f54-42c6-8c4d-07439bf839a1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.27,
+      "held": {
+        "name": "AUDIO MEDIA SERVICE Produktionsgesellschaft mbH & Co. KG",
+        "squuid": "5eeb7b89-1d1d-486f-b21f-09fd3bc32248"
+      },
+      "squuid": "5eeb7e49-30ef-404f-b29f-7c456f2a577c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "OWL-Digital GmbH & Co. KG",
+        "squuid": "6086b017-2ec8-4344-a998-4bc0af8d8e9a"
+      },
+      "squuid": "6086b13b-dd7d-40ae-8753-8e1ff0838cdc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Detmold",
+  "pseudoCompany": false,
+  "street": "Ohmstraße",
+  "name": "Lippischer Zeitungsverlag Giesdorf GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-c908-47e7-a5ec-492916452d3f",
+  "controlDate": "2021-10-28T10:04:32.880Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "32758",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Lippische Landes-Zeitung",
+        "squuid": "5be1a6b1-0f3d-4ab5-bff3-c8b5711b42af"
+      },
+      "squuid": "5be1a6b9-69b3-4254-ae4c-b053e11e9e98",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lz.de",
+        "squuid": "5be1a6b1-a221-4105-8dac-2a684ad2a610"
+      },
+      "squuid": "5be1a6b9-098e-4cfc-8de6-c32a86b9b3b9",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Giesdorf Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-fb43-4e63-9777-3026b838d87b"
+      },
+      "squuid": "5be1a6b8-fc8a-452e-8635-571bc25d683c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lippischer Zeitungsverlag GmbH",
+        "squuid": "5ed105a2-1a3c-419b-8191-af0352dc9fef"
+      },
+      "squuid": "5ed105c1-f2b2-48be-8d92-7c099854cd80",
+      "state": "active"
+    }
+  ]
+}

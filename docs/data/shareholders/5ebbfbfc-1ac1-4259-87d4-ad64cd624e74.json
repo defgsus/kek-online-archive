@@ -1,0 +1,49 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Heise Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-dea3-4150-8ba6-7e255764afee"
+      },
+      "squuid": "5ebbfc17-e418-4516-9f84-5a9be9c43ab4",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Karl-Wiechert-Allee",
+  "name": "Heise Medien Geschäftsführungs GmbH",
+  "naturalPerson": false,
+  "squuid": "5ebbfbfc-1ac1-4259-87d4-ad64cd624e74",
+  "controlDate": "2021-10-25T14:08:45.248Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30625",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Heise Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-dea3-4150-8ba6-7e255764afee"
+      },
+      "squuid": "5ebcfcee-4c64-4f73-8321-bfc0bc232e34",
+      "state": "active"
+    }
+  ]
+}

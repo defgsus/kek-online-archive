@@ -1,0 +1,106 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.41,
+      "held": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-620a-4353-a6fa-64d3209c5fea",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.95,
+      "held": {
+        "name": "OZ Verlagsbeteiligungs GmbH",
+        "squuid": "5f3d3adc-d7be-46c4-b661-e4234b2dd179"
+      },
+      "squuid": "5ff436bc-d883-4fe7-8cee-4bfecf691f87",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Riedlingen",
+  "pseudoCompany": false,
+  "street": "Haldenstr. 6",
+  "name": "Ulrich'sche Buchdruckerei und Verlag GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-8f6c-4f1f-89de-457741369f4d",
+  "controlDate": "2021-11-11T15:21:25.291Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    }
+  ],
+  "zipcode": "88499",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schwäbische Zeitung (Ausgabe Riedlingen)",
+        "squuid": "5be1a6b1-4a9d-4d70-b2a3-abfa7c546c30"
+      },
+      "squuid": "5be1a6b9-4366-4fbe-a14f-bbd383e7fb95",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "5be1a6b8-fda2-4b0a-a088-e484896a09ba",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "UBV Verwaltungs-GmbH",
+        "squuid": "5ebbafbb-a826-4637-83ac-a6d65967b0df"
+      },
+      "squuid": "5ebbafe2-2757-4c50-9fea-4aa27a52f463",
+      "state": "active"
+    }
+  ]
+}

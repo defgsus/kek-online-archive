@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Mühlenkamp",
+  "name": "radio.de GmbH",
+  "naturalPerson": false,
+  "squuid": "5d2f052c-f1a8-4cdb-9094-8dc779145056",
+  "controlDate": "2021-12-20T17:00:05.969Z",
+  "streetNumber": "59",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22303",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio.de",
+        "squuid": "5d2f04f3-80d1-4da9-a053-e6416459b72a"
+      },
+      "squuid": "5d2f05c9-e20a-4ebf-b409-748cba4ff82c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "5d2f0674-704d-4a66-bbbd-396782960349",
+      "state": "active"
+    }
+  ]
+}

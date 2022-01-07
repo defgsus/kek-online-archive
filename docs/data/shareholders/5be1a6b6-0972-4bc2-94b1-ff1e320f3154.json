@@ -1,0 +1,62 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.25,
+      "held": {
+        "name": "Giesdorf Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-fb43-4e63-9777-3026b838d87b"
+      },
+      "squuid": "5be1a6b8-33e0-46ca-bc86-031dd8b4b3bb",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Detmold",
+  "pseudoCompany": false,
+  "street": "Alter Postweg",
+  "name": "Familiengesellschaft Rolf Giesdorf KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-0972-4bc2-94b1-ff1e320f3154",
+  "controlDate": "2021-10-28T10:10:18.945Z",
+  "streetNumber": "35",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "32756",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Giesdorf, Max",
+        "squuid": "5be1a6b6-0732-4f52-be06-9641e18378b2"
+      },
+      "squuid": "5be1a6b8-a609-4be2-a837-379e43b9516c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Giesdorf, Rolf",
+        "squuid": "5ed107f3-72ed-4de7-9606-9dbf57a6d3b4"
+      },
+      "squuid": "5ed1080e-1cd1-4997-803e-62c250ca2889",
+      "state": "active"
+    }
+  ]
+}

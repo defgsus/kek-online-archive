@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Breslauer Str.",
+  "name": "rtv media group GmbH ",
+  "naturalPerson": false,
+  "squuid": "5c505c49-41f4-4e8b-be9e-9bd6c0615357",
+  "controlDate": "2022-01-04T11:51:07.186Z",
+  "streetNumber": "300",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "90471",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rtv.de",
+        "squuid": "5c505c27-ee82-4cb6-8d7f-9072104fe7cd"
+      },
+      "squuid": "5c505e04-34cb-4c78-8bd4-5d88b529290a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvtv.de",
+        "squuid": "5c530a3a-2ea9-4aad-91b7-0a30ccdc2e09"
+      },
+      "squuid": "5c530ab2-9c09-4ee9-af41-82235cc79096",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gesund-vital.de",
+        "squuid": "611cdaab-bc1e-432b-aea4-ecde64a88010"
+      },
+      "squuid": "611cdac9-cb5d-4d23-8fe6-8f9aaf5ec4a0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "rewards arvato services GmbH",
+        "squuid": "5c505c94-289e-44bc-bfcf-14af4392ba13"
+      },
+      "squuid": "5c505e65-0ded-4de3-919b-e57c794ba385",
+      "state": "active"
+    }
+  ]
+}

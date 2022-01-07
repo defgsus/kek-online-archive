@@ -1,0 +1,70 @@
+{
+  "state": "active",
+  "city": "Bad Neustadt a. d. Saale",
+  "pseudoCompany": false,
+  "street": "Industriestr.",
+  "name": "Rhön Med-Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-34e1-407c-92e9-da1d1fd0e17e",
+  "controlDate": "2021-06-02T09:23:50.225Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "97616",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rhön- und Streubote",
+        "squuid": "5be1a6b1-eb9c-47d2-acef-cc9fb2976a3d"
+      },
+      "squuid": "5be1a6b9-89d9-457e-a555-4140d6233f5c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rhön- und Saalepost",
+        "squuid": "5be1a6b1-11a1-4b45-af71-ffda747c6b85"
+      },
+      "squuid": "5be1a6b9-32cf-41c3-9d6b-1a85635d2cfb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rhoenundsaalepost.de",
+        "squuid": "5be1a6b1-3e51-46ca-9d93-930e9639212e"
+      },
+      "squuid": "5be1a6b9-a308-4fe0-bb87-c50dca051679",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rhoenundstreubote.de",
+        "squuid": "5be1a6b1-c028-4550-b0cd-ef0158082f79"
+      },
+      "squuid": "5be1a6b9-3bf1-405d-a653-50e9212fc1f1",
+      "state": "active"
+    }
+  ],
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Med Holding AG",
+        "squuid": "5be1a6b6-65f0-43fe-aafd-8f11d73ae6ad"
+      },
+      "squuid": "5be1a6b8-a1b3-4848-9ddc-b54afa38bb86",
+      "state": "active"
+    }
+  ]
+}

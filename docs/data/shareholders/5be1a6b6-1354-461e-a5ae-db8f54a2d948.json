@@ -1,0 +1,77 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.5,
+      "held": {
+        "name": "WEGA Support GmbH",
+        "squuid": "5be1a6b6-e650-4c70-9fc2-158b86c1dd7e"
+      },
+      "squuid": "5be1a6b8-45ff-440b-a5b6-0d046d2307ca",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "AK Cloppenburg Verwaltungs GmbH",
+        "squuid": "5f070016-bd05-47b1-a9c8-7208a3ffa1e7"
+      },
+      "squuid": "5f07011e-f1a3-49cd-a154-cf1c54e1d85b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Garrel",
+  "pseudoCompany": false,
+  "street": "Schubertstr.",
+  "name": "AKC Vermögensverwaltung GmbH & Co KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "5be1a6b6-1354-461e-a5ae-db8f54a2d948",
+  "controlDate": "2021-03-24T16:30:57.518Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "49681",
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kläne, Carola",
+        "squuid": "5be1a6b6-a412-4698-9b81-bca314706ba2"
+      },
+      "squuid": "5be1a6b8-e65d-410d-b4ec-d9e6593277fc",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kläne, Aloys",
+        "squuid": "5f06fffc-b062-48a5-99bd-07ff0c184e2e"
+      },
+      "squuid": "5f070069-fb98-481c-8f6b-44c34e84cbc0",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "AK Cloppenburg Verwaltungs GmbH",
+        "squuid": "5f070016-bd05-47b1-a9c8-7208a3ffa1e7"
+      },
+      "squuid": "5f070075-feab-4768-8e21-d71985a62e85",
+      "state": "active"
+    }
+  ]
+}
