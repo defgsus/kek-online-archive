@@ -1,0 +1,26 @@
+name: Clock
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: pull kek data
+        run: |
+          curl https://medienvielfaltsmonitor.de/api/v1/media/ > docs/data/media.json
+          curl https://medienvielfaltsmonitor.de/api/v1/shareholders/ > docs/data/shareholders.json
+      - name: git config user
+        run: |
+          curl -s -u ${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }} https://api.github.com/users/${GITHUB_ACTOR} > ${GITHUB_ACTOR}.json
+          git config user.email "$(cat ${GITHUB_ACTOR}.json | jq -r .email)"
+          git config user.name "$(cat ${GITHUB_ACTOR}.json | jq  -r .name)"
+      - name: commit changes
+        run: |
+          git add docs/data
+          git commit -m `date -Iseconds` || true
+      - name: push changes
+        run: |
+          git push
