@@ -16,7 +16,7 @@ jobs:
       - name: pull kek data
         run: |
           pip install -r requirements.txt
-          python src/kek.py
+          python update.py
       - name: git config user
         run: |
           curl -s -u ${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }} https://api.github.com/users/${GITHUB_ACTOR} > ${GITHUB_ACTOR}.json
