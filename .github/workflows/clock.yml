@@ -1,7 +1,8 @@
 name: Scraper
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # run on the same day as the changes were made
+    - cron: '0 23 * * *'
 
 jobs:
   main:
