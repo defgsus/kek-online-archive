@@ -2,8 +2,9 @@ import os
 import sys
 import json
 import fnmatch
+import itertools
 from pathlib import Path
-from typing import Optional, List, Generator, Tuple, Dict, Union
+from typing import Optional, List, Generator, Tuple, Dict, Union, Set
 
 import requests
 
@@ -89,15 +90,18 @@ class Kek:
         return self._holders
 
     def _get_object_dict(self, url: str, filename: str) -> Dict[str, "KekObject"]:
-        squuid_date_mapping = dict()
+        squuid_object_mapping = dict()
         caching = self.caching
+        # in "upgrade" mode we load the previous media.json / shareholder.json
+        #   and compare each object. If there is any change then download
+        #   the single object file again.
         if caching == "upgrade":
             caching = False
             cache_filename = self.DOWNLOAD_DIR / f"{filename}.json"
             if cache_filename.exists():
                 previous_object_list = json.loads(cache_filename.read_text())
-                squuid_date_mapping = {
-                    e["squuid"]: e.get("controlDate")
+                squuid_object_mapping = {
+                    e["squuid"]: e
                     for e in previous_object_list
                 }
 
@@ -109,8 +113,7 @@ class Kek:
             caching = self.caching
             if caching == "upgrade":
                 caching = True
-                if squuid_date_mapping.get(e["squuid"]) \
-                        and squuid_date_mapping[e["squuid"]] != e.get("controlDate"):
+                if squuid_object_mapping.get(e["squuid"]) != e:
                     caching = False
 
             data = self._download(
@@ -121,35 +124,6 @@ class Kek:
             ret_dict[e["squuid"]] = KekObject(self, data)
 
         return ret_dict
-
-    def to_igraph(self):
-        import igraph
-        graph = igraph.Graph(directed=True)
-        v_map = dict()
-        edges = []
-        edge_attrs = {"weight": [], "type": []}
-        for holder in self.holders.values():
-            v_map[holder["squuid"]] = graph.add_vertex(
-                holder["name"], type="owner"
-            )
-            for sub, share in holder.owns:
-                if not v_map.get(sub["squuid"]):
-                    v_map[sub["squuid"]] = graph.add_vertex(sub["name"], type="owner")
-
-                edges.append((holder["name"], sub["name"]))
-                edge_attrs["weight"].append(max(1, share))
-                edge_attrs["type"].append("owns")
-
-            for sub in holder.operates:
-                if not v_map.get(sub["squuid"]):
-                    v_map[sub["squuid"]] = graph.add_vertex(sub["name"], type="media")
-
-                edges.append((holder["name"], sub["name"]))
-                edge_attrs["weight"].append(100)
-                edge_attrs["type"].append("operates")
-
-        graph.add_edges(edges, edge_attrs)
-        return graph
 
     def _download(
             self,
@@ -191,11 +165,60 @@ class Kek:
             kwargs["file"] = sys.stderr
             print(*args, **kwargs)
 
+    def to_igraph(self):
+        import igraph
+
+        graph = igraph.Graph(directed=True)
+
+        for entry in sorted(
+                itertools.chain(self.holders.values(), self.medias.values()),
+                key=lambda h: h["name"].lstrip().lower()
+        ):
+            owned_medias = entry.all_owned_medias()
+
+            graph.add_vertex(
+                entry["squuid"],
+                type=entry["type"] if entry.is_media() else "shareholder",
+                state=entry["state"],
+                label=(
+                    (entry["name"].strip() or "-")
+                    # avoid " in names because visjs can not handle them
+                    .replace('"', "'")
+                ),
+                num_medias=len(owned_medias),
+                num_medias_weighted=f"{sum(m[1] for m in owned_medias):.4f}"
+            )
+
+        edge_set = set()
+        edges = []
+        edge_attrs = {"weight": [], "type": []}
+
+        for holder in sorted(self.holders.values(), key=lambda h: h["name"].lstrip().lower()):
+
+            for sub, share in sorted(holder.owns, key=lambda s: s[0]["name"]):
+                edge = (holder["squuid"], sub["squuid"])
+                if edge not in edge_set:
+                    edge_set.add(edge)
+                    edges.append(edge)
+                    edge_attrs["weight"].append(max(1, share))
+                    edge_attrs["type"].append("owns")
+
+            for sub in sorted(holder.operates, key=lambda s: s["name"]):
+                edge = (holder["squuid"], sub["squuid"])
+                if edge not in edge_set:
+                    edge_set.add(edge)
+                    edges.append(edge)
+                    edge_attrs["weight"].append(100)
+                    edge_attrs["type"].append("operates")
+
+        graph.add_edges(edges, edge_attrs)
+        return graph
+
 
 class KekObject(dict):
 
     def __init__(self, kek: Kek, data: dict):
-        # take the invalidated data on schema errors
+        # take the "invalid" data on schema errors
         #   e.g. for shareholders/5f02e1b5-ec52-455e-a186-0ad6bd8d6b61
         if not data.get("squuid") and data.get("errors"):
             data = data["value"]
@@ -215,14 +238,13 @@ class KekObject(dict):
         return self.get("fullName") or self["name"]
 
     def is_media(self) -> bool:
-        return "operatedBy" in self
+        return "type" in self
 
     @property
     def operators(self) -> List["KekObject"]:
         if "operatedBy" not in self:
             return []
         return [
-            #KekObject(self._kek, o)
             self._kek.get(o["holder"]["squuid"])
             for o in self["operatedBy"]
         ]
@@ -253,6 +275,31 @@ class KekObject(dict):
             (self._kek.get(o["held"]["squuid"]), o.get("capitalShares", 0))
             for o in self["owns"]
         ]
+
+    def all_owned_medias(self) -> List[Tuple["KekObject", float]]:
+        if self.is_media():
+            return []
+
+        medias = []
+        visited = set()
+        self._all_owned_medias(medias, visited, 1.)
+        return medias
+
+    def _all_owned_medias(
+            self,
+            medias: List[Tuple["KekObject", float]],
+            visited: Set["KekObject"],
+            top_share: float,
+    ):
+        for media in self.operates:
+            if media.is_media() and media not in visited:
+                medias.append((media, top_share))
+                visited.add(media)
+
+        for own, share in self.owns:
+            if own not in visited:
+                visited.add(own)
+                own._all_owned_medias(medias, visited, top_share * share / 100.)
 
     def top_owners(self):
         if self.is_media():
@@ -320,11 +367,4 @@ class KekObject(dict):
             else:
                 next_prefix = "├─"
             b.dump_tree(direction=direction, prefix=prefix + next_prefix, prefix2=prefix2, file=file, _cache=_cache)
-
-
-if __name__ == "__main__":
-
-    kek = Kek(verbose=True, caching="upgrade")
-    print(len(kek.medias), "medias")
-    print(len(kek.holders), "shareholders")
 
