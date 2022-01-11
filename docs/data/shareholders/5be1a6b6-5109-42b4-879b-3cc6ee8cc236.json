@@ -1,42 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Burchardstraße 11",
   "name": "Bauer German Premium GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-5109-42b4-879b-3cc6ee8cc236",
-  "controlDate": "2021-02-15T15:36:03.943Z",
+  "controlDate": "2022-01-11T16:34:34.679Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "20095",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Cosmopolitan",
-        "squuid": "5be1a6b1-9ee5-4d8d-a50f-88e5db9136c5"
-      },
-      "squuid": "5be1a6b9-bed8-4a8c-8486-d80e2336227f",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Heinrich Bauer Verlag KG",
-        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
-      },
-      "squuid": "5be1a6b8-6ccf-4a9b-b731-5d896428acaa",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

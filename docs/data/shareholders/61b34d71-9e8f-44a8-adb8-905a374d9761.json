@@ -1,7 +1,4 @@
 {
-  "name": "AMC International Productions B. V.",
-  "pseudoCompany": false,
-  "squuid": "61b34d71-9e8f-44a8-adb8-905a374d9761",
   "owns": [
     {
       "type": "own",
@@ -14,7 +11,13 @@
       "state": "active"
     }
   ],
+  "state": "active",
   "city": "Amsterdam (NL)",
+  "pseudoCompany": false,
+  "name": "AMC International Productions B. V.",
+  "naturalPerson": false,
+  "squuid": "61b34d71-9e8f-44a8-adb8-905a374d9761",
+  "controlDate": "2022-01-11T16:18:51.918Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -26,7 +29,5 @@
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "state": "active",
-  "naturalPerson": false
+  ]
 }

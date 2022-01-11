@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-18d3-4575-9316-acd28f43f22d",
-  "controlDate": "2021-11-19T15:52:49.178Z",
+  "controlDate": "2022-01-11T13:33:42.453Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50,17 +50,6 @@
   ],
   "credits": "IJK",
   "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 51.0,
-      "holder": {
-        "name": "Gruner + Jahr GmbH",
-        "squuid": "5be1a6b6-6647-418f-be7f-faee8268574e"
-      },
-      "liabilitySum": 51.0,
-      "squuid": "5be1a6b8-0200-4d52-a549-5829b8e21e31",
-      "state": "active"
-    },
     {
       "type": "own",
       "capitalShares": 25.0,
@@ -105,6 +94,16 @@
       "squuid": "5dc03b62-bfdd-4031-88e1-3a81ccc25892",
       "state": "active",
       "votingShares": 0.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Gruner + Jahr Deutschland GmbH",
+        "squuid": "61dd83e4-35a5-4db5-b2e9-a7ffb22f26fc"
+      },
+      "squuid": "61dd871d-137d-4844-b4e1-717c3fcdb2ed",
+      "state": "active"
     }
   ]
 }

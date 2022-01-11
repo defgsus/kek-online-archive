@@ -1,6 +1,50 @@
 {
-  "name": "BidCo SAS",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 23.26,
+      "held": {
+        "name": "SHOW Holding S.C.A.",
+        "squuid": "606c643e-3b1d-4708-8ecb-bf88b284fb28"
+      },
+      "squuid": "606d759a-feef-48f0-bcfc-89df0335d526",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "held": {
+        "name": "Mediawan S.A.",
+        "squuid": "606d7d8b-a95a-4677-bb27-4bbf93760494"
+      },
+      "squuid": "606d7e38-5825-4836-a7d5-7ea08be72a77",
+      "state": "active"
+    }
+  ],
+  "state": "active",
   "pseudoCompany": false,
+  "name": "BidCo SAS",
+  "naturalPerson": false,
+  "squuid": "606d7530-27bc-4147-a012-b866a98f6a19",
+  "controlDate": "2022-01-11T16:57:31.872Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
   "ownedBy": [
     {
       "type": "own",
@@ -24,48 +68,5 @@
       "state": "active",
       "votingShares": 50.56
     }
-  ],
-  "squuid": "606d7530-27bc-4147-a012-b866a98f6a19",
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 23.26,
-      "held": {
-        "name": "SHOW Holding S.C.A.",
-        "squuid": "606c643e-3b1d-4708-8ecb-bf88b284fb28"
-      },
-      "squuid": "606d759a-feef-48f0-bcfc-89df0335d526",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 55.0,
-      "held": {
-        "name": "Mediawan S.A.",
-        "squuid": "606d7d8b-a95a-4677-bb27-4bbf93760494"
-      },
-      "squuid": "606d7e38-5825-4836-a7d5-7ea08be72a77",
-      "state": "active"
-    }
-  ],
-  "organizations": [
-    {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
-    }
-  ],
-  "state": "active",
-  "naturalPerson": false
+  ]
 }

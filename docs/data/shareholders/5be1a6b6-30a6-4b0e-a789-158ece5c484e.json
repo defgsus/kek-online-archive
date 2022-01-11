@@ -17,8 +17,9 @@
   "street": "Pettenkoferstr.",
   "name": "Bon Venture III GmbH & Co KG",
   "naturalPerson": false,
+  "limitedPartnership": true,
   "squuid": "5be1a6b6-30a6-4b0e-a789-158ece5c484e",
-  "controlDate": "2020-05-20T13:23:32.837Z",
+  "controlDate": "2022-01-11T17:04:43.912Z",
   "streetNumber": "37",
   "organizations": [
     {
@@ -178,6 +179,17 @@
         "squuid": "5be1a6b6-e650-4c70-9fc2-158b86c1dd7e"
       },
       "squuid": "5be1a6b8-17f8-4dd6-bb58-99813ceffd3e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "BonVenture Komplementär GmbH",
+        "squuid": "61ddb911-4f62-4f93-9644-4247e1d6f304"
+      },
+      "squuid": "61ddb9cf-08c8-4d99-b5f8-890a1a696543",
       "state": "active"
     }
   ]
