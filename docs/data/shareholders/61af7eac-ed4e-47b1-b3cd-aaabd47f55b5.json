@@ -1,6 +1,4 @@
 {
-  "name": "Dimensional Holdings Inc.",
-  "squuid": "61af7eac-ed4e-47b1-b3cd-aaabd47f55b5",
   "owns": [
     {
       "type": "own",
@@ -13,12 +11,18 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Wilmington (US)",
+  "pseudoCompany": false,
+  "name": "Dimensional Holdings Inc.",
+  "naturalPerson": false,
+  "squuid": "61af7eac-ed4e-47b1-b3cd-aaabd47f55b5",
+  "controlDate": "2022-01-12T11:46:19.285Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "state": "active"
+  ]
 }

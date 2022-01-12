@@ -3,7 +3,7 @@
   "state": "active",
   "rfShoppingChannel": false,
   "rfParentalAdvisor": "Sandra Singer",
-  "rfStartDate": "08.08.2013",
+  "rfStartDate": "09.09.2021",
   "rfFreePay": false,
   "squuid": "5be1a6b1-9782-4864-91e5-afb256988cb8",
   "organization": {
@@ -24,19 +24,19 @@
       "state": "active"
     }
   ],
-  "name": "Sky Fanzone",
+  "name": "Sky Documentaries",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
-    "name": "Sendebetrieb eingestellt",
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
   "type": "tv",
   "rfCategory": {
-    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
-    "name": "Spartenprogramm (Sport)",
+    "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+    "name": "Spartenprogramm (Information/Dokumentation)",
     "type": "program-category",
     "state": "active"
   },
@@ -46,7 +46,7 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "description": "Multiples Livesport-Programm, das die gleichzeitige Ansicht mehrerer Sportereignisse auf einem Bildschirm (Mosaik-Ansicht) ermöglicht.",
+  "description": "Spartenprogramm Dokumentation",
   "rfLicenseUntil": "unbefristet",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -55,6 +55,19 @@
     "state": "active"
   },
   "rfLicensed": "13.03.2015",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
+        "name": "Programmplattform",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
   "accessibilityEmail": "impressum@sky.de",
   "languages": [
     {

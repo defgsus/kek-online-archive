@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "FOCUS Online Group GmbH",
-        "squuid": "5be1a6b6-8d52-4f03-8cf4-f017f535f744"
-      },
-      "squuid": "5be1a6b8-87c0-4d72-aa77-0eb52f65523c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "St.-Martin-Str.",
@@ -22,23 +10,12 @@
   "streetNumber": "66",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "81541",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Burda Digital GmbH",
-        "squuid": "5be1a6b6-760e-40db-8c2e-337fee1c39d4"
-      },
-      "squuid": "5be1a6b8-4e3e-4f48-be1a-c80b582d165a",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
