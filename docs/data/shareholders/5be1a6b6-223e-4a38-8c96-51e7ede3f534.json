@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 33.0,
-      "held": {
-        "name": "gamigo AG",
-        "squuid": "5be1a6b6-55c7-411b-9b3b-109da24406b3"
-      },
-      "squuid": "5be1a6b8-f161-478b-b8ac-f87ef73409c5",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Unterföhring",
   "pseudoCompany": false,
   "street": "Medienallee ",
@@ -22,23 +10,12 @@
   "streetNumber": "6",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "85774",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Seven.One Entertainment Group GmbH",
-        "squuid": "5be1a6b6-ee3d-454b-96df-68a8cdac19d3"
-      },
-      "squuid": "60bf2c49-e1b9-411a-9f6c-7a872a9873b5",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

@@ -1,12 +1,28 @@
 {
   "name": "Stiftung Deutscher Sport",
   "squuid": "61d6c54c-b60d-43de-8699-afe74ee883de",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 84.62,
+      "held": {
+        "name": "DOSB New Media GmbH",
+        "squuid": "5be1a6b6-f478-4a19-833e-ff699c12fe30"
+      },
+      "squuid": "61d6c576-06ac-4b94-b5f6-d21fa4478a9a",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "state": "active"

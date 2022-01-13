@@ -1,7 +1,4 @@
 {
-  "name": "JP Morgan Chase Bank",
-  "pseudoCompany": false,
-  "squuid": "5be1a6b6-fe95-4faf-bdbe-ff1925c962a8",
   "owns": [
     {
       "type": "own",
@@ -14,14 +11,18 @@
       "state": "active"
     }
   ],
+  "state": "active",
   "city": "New York/USA",
+  "pseudoCompany": false,
+  "name": "JP Morgan Chase Bank",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-fe95-4faf-bdbe-ff1925c962a8",
+  "controlDate": "2022-01-13T10:15:45.997Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "state": "active",
-  "naturalPerson": false
+  ]
 }
