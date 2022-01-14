@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "yeebase media GmbH",
-        "squuid": "5be1a6b6-8485-43fe-a1f4-837f118a6eeb"
-      },
-      "squuid": "5be1a6b8-eee2-49e7-90b5-c522820d9ae6",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Hannover",
   "pseudoCompany": false,
   "street": "Kriegerstr.",
@@ -22,53 +10,12 @@
   "streetNumber": "40",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "30161",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 33.33,
-      "holder": {
-        "name": "Lenz, Andreas",
-        "squuid": "5be1a6b6-53a9-47f4-9f8d-207a0b1d412c"
-      },
-      "squuid": "5be1a6b8-68fe-4d96-8583-102c0ee56966",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 33.33,
-      "holder": {
-        "name": "Christe, Jan",
-        "squuid": "5be1a6b6-0854-4a46-8b2f-14ab84562e90"
-      },
-      "squuid": "5be1a6b8-ea14-4427-9b3a-ace3a11e2c5b",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 21.56,
-      "holder": {
-        "name": "Eigenbesitz der TR3X GmbH",
-        "squuid": "6193dc1b-5bf4-40f1-b5e4-58e0d1745676"
-      },
-      "squuid": "6193dca0-cbd8-453b-b53f-c0ee26478116",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 11.77,
-      "holder": {
-        "name": "BA Invest UG (haftungsbeschränkt)",
-        "squuid": "6193dc58-720c-442c-87e3-e61c2354961e"
-      },
-      "squuid": "6193dcbd-fd02-4ac6-803f-b5c4ae6b1399",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

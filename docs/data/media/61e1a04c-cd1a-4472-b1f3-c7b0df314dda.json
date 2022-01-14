@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "61e1a04c-cd1a-4472-b1f3-c7b0df314dda",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke Digital GmbH",
+        "squuid": "5be1a6b6-7e9f-4303-9e08-72753c2153a3"
+      },
+      "squuid": "61e1a067-f22a-4d6d-8d51-e2b1ce8d3403",
+      "state": "active"
+    }
+  ],
+  "name": "www.gesundheit.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-14T16:09:56.723Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

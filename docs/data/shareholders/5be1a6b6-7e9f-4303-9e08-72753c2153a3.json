@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "gofeminin.de GmbH",
+        "squuid": "5be1a6b6-a498-4047-94d5-f4ae00325ce1"
+      },
+      "squuid": "61e186f7-886d-4c96-85da-8afe7f97b015",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Berlin",
   "pseudoCompany": false,
@@ -131,6 +143,33 @@
         "squuid": "5be1a6b1-dd8a-447c-b09f-a958661b6a2a"
       },
       "squuid": "61b34fcc-79fb-44b9-a171-e59cf38fb4bb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.werstreamt.es",
+        "squuid": "61e19e77-8729-4a1b-8faa-9ea0ca7b3939"
+      },
+      "squuid": "61e19e94-f104-450a-87b0-fcd057293f85",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gesundheit.de",
+        "squuid": "61e1a04c-cd1a-4472-b1f3-c7b0df314dda"
+      },
+      "squuid": "61e1a067-f22a-4d6d-8d51-e2b1ce8d3403",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.9monate.de",
+        "squuid": "61e1a09f-6ef0-4bf4-a611-df4230bb4e52"
+      },
+      "squuid": "61e1a0bf-aca8-4b7f-8158-2e256f81a944",
       "state": "active"
     }
   ],

@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 78.4,
-      "held": {
-        "name": "auFeminin S.A.",
-        "squuid": "5be1a6b6-2af7-46ce-9849-659e2ed265aa"
-      },
-      "squuid": "5be1a6b8-7e8d-4da3-a4fe-80734ea5cfa7",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Boulogne, Frankreich",
   "pseudoCompany": false,
   "name": "Télévision Francaise S.A. (TF1)",
@@ -20,42 +8,11 @@
   "controlDate": "2020-01-20T13:34:47.888Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "credits": "Auskunft der Eurosport Media GmbH vom 03.06.2014",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 41.6,
-      "holder": {
-        "name": "Bouygues Groupe",
-        "squuid": "5be1a6b6-39c5-4c84-8280-0a103971a53e"
-      },
-      "squuid": "5be1a6b7-99cb-43b7-91f2-9c4f5a9d8eac",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 1.5,
-      "holder": {
-        "name": "Société Générale",
-        "squuid": "5be1a6b6-d9aa-40d2-a3a4-ac54136202f6"
-      },
-      "squuid": "5be1a6b7-5610-4a08-af6d-03a755f66d0f",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 56.9,
-      "holder": {
-        "name": "Streubesitz an der Télévision Francaise S.A. (TF1)",
-        "squuid": "5be1a6b6-3bd8-4e66-b2ad-4f5dcbf99ad8"
-      },
-      "squuid": "5be1a6b7-5a7c-4c21-86ad-bcdfedfa75b2",
-      "state": "active"
-    }
-  ]
+  "credits": "Auskunft der Eurosport Media GmbH vom 03.06.2014"
 }
