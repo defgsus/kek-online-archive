@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "61e57ded-8143-4cfd-8e91-077b471d3f74",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Einstieg GmbH",
+        "squuid": "61e57df9-416c-46f8-b68e-4537c3ad0c15"
+      },
+      "squuid": "61e57e19-2792-47c3-80b4-496bd981468d",
+      "state": "active"
+    }
+  ],
+  "name": "www.einstieg.com",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-17T14:32:36.260Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Karlsruhe",
+  "pseudoCompany": false,
+  "street": "Bismarckstr.",
+  "name": "b-wise GmbH",
+  "naturalPerson": false,
+  "squuid": "61e55297-0279-498f-964a-ead0658aba28",
+  "controlDate": "2022-01-17T11:28:44.846Z",
+  "streetNumber": "21",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "76133",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.business-wissen.de",
+        "squuid": "61e55289-aa16-47d0-9e57-f54ef5db9ebf"
+      },
+      "squuid": "61e552bd-19f3-415f-a549-9899f3a18a2d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Fleig, Dr. Jürgen",
+        "squuid": "61e5537f-7448-47b3-9b18-88b7034f0d8b"
+      },
+      "squuid": "61e553a6-5885-41f3-80c6-de2b23194fcc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Wallmeier, Werner",
+        "squuid": "61e55391-a387-4056-b67c-768c7badef80"
+      },
+      "squuid": "61e553be-f54f-446f-9853-243e935a0b9c",
+      "state": "active"
+    }
+  ]
+}

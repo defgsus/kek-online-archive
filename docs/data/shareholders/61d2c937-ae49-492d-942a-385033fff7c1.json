@@ -1,12 +1,29 @@
 {
   "name": "Nawrath, Dr. Axel",
   "squuid": "61d2c937-ae49-492d-942a-385033fff7c1",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "AN Vermögensbeteiligungs-Verwaltungs-Beratungsgesellschaft mbH",
+        "squuid": "61bb7474-45a6-40b4-bd32-080a82968278"
+      },
+      "squuid": "61d2c95c-c5b7-4135-8db2-fc4aef0b74dd",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
   "state": "active"

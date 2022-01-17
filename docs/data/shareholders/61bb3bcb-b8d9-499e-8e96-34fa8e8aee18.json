@@ -1,12 +1,29 @@
 {
   "name": "masqueradio GmbH",
   "squuid": "61bb3bcb-b8d9-499e-8e96-34fa8e8aee18",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "teutocast GmbH",
+        "squuid": "61b9c316-ae13-4190-8bf5-fe49d6e92110"
+      },
+      "squuid": "61e152ff-6b44-4131-90c4-0ec003c7b26a",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active"

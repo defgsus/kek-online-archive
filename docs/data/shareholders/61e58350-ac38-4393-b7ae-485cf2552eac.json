@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Innsbruck (A)",
+  "pseudoCompany": false,
+  "street": "Karl-Kapfererstr.",
+  "name": "Kompass-Karten GmbH",
+  "naturalPerson": false,
+  "squuid": "61e58350-ac38-4393-b7ae-485cf2552eac",
+  "controlDate": "2022-01-17T14:56:35.942Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "6020",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kompass.de",
+        "squuid": "61e5831d-a4ed-416f-b356-d67314867e48"
+      },
+      "squuid": "61e5836f-4f90-4bfe-b1d4-55dd59d0c1fb",
+      "state": "active"
+    }
+  ]
+}

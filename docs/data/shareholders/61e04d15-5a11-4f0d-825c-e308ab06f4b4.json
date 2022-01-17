@@ -1,12 +1,30 @@
 {
   "name": "Reissmüller Verwaltungs GmbH",
   "squuid": "61e04d15-5a11-4f0d-825c-e308ab06f4b4",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Reissmüller Familienstiftung GmbH & Co. KG",
+        "squuid": "5be1a6b6-15bc-403b-8385-939fbe4a353f"
+      },
+      "squuid": "61e04d35-6eea-445c-953f-804b9dcfde5e",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "state": "active"

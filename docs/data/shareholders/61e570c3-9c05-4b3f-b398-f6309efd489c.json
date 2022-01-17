@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Münster",
+  "pseudoCompany": false,
+  "street": "Bült",
+  "name": "Internet@Venture Gesellschaft für Neue Medien mbH",
+  "naturalPerson": false,
+  "squuid": "61e570c3-9c05-4b3f-b398-f6309efd489c",
+  "controlDate": "2022-01-17T13:38:07.593Z",
+  "streetNumber": "13a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "48143",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.it-times.de",
+        "squuid": "61e570e0-1197-4b50-b7b9-6b93f7f1d8a1"
+      },
+      "squuid": "61e57107-9472-4f38-8cc7-1f8aa9bcd002",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Münsch, Reinhard",
+        "squuid": "61e571a5-f3cc-456f-a3d3-e72e8c4cf84a"
+      },
+      "squuid": "61e571ca-5509-429a-b526-c813b9b34b3c",
+      "state": "active"
+    }
+  ]
+}

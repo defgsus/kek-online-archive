@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Haar",
+  "pseudoCompany": false,
+  "street": "Hans-Pinsel-Str.",
+  "name": "Auto News Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "61e5498e-0476-42f1-be77-2448534f53f9",
+  "controlDate": "2022-01-17T10:50:11.439Z",
+  "streetNumber": "9b",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85540",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.de.motor1.com",
+        "squuid": "61e54958-b39c-4b90-8bbe-d97bda54ad6b"
+      },
+      "squuid": "61e549bb-4a4f-4d25-8714-7c08534cc7cd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Motorsport Network LLC.",
+        "squuid": "5d2f3f36-deb2-4dad-b80c-b55a93a50aec"
+      },
+      "squuid": "61e54ab0-e8aa-48ae-b890-cf98af495da2",
+      "state": "active"
+    }
+  ]
+}

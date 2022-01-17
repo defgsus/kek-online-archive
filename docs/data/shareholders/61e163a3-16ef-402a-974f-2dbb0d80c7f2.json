@@ -1,12 +1,30 @@
 {
   "name": "Verlag \"Die Abendzeitung\" Verwaltungs-GmbH",
   "squuid": "61e163a3-16ef-402a-974f-2dbb0d80c7f2",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Verlag \"Die Abendzeitung \" Gesellschaft mit beschränkter Haftung & Co. Kommanditgesellschaft",
+        "squuid": "5be1a6b6-a41b-4c0e-942d-1ebee8a6f1f1"
+      },
+      "squuid": "61e166f6-1e24-4939-9dff-747c2be10646",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "state": "active"

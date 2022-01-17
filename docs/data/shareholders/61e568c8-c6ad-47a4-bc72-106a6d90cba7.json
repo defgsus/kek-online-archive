@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Achterwehr",
+  "pseudoCompany": false,
+  "street": "Achtern Diek",
+  "name": "Schall & Tillmanns GbR",
+  "naturalPerson": false,
+  "squuid": "61e568c8-c6ad-47a4-bc72-106a6d90cba7",
+  "controlDate": "2022-01-17T13:09:11.720Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "24239",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dailydose.de",
+        "squuid": "61e568d8-4fbc-42ca-ad27-b01e22faf63f"
+      },
+      "squuid": "61e569e2-d27a-4eb2-81b6-9ac63737dd13",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schall, Jürgen",
+        "squuid": "61e5699d-462e-4115-bb97-a9baaf9f9415"
+      },
+      "squuid": "61e56a6a-b097-4c4d-b50a-50ca5da5ffbf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Tillmanns, Christian",
+        "squuid": "61e569b3-bda9-4f71-b4bc-8c3b797e6ddb"
+      },
+      "squuid": "61e56a75-50ec-443b-aa71-3c4113501f84",
+      "state": "active"
+    }
+  ]
+}

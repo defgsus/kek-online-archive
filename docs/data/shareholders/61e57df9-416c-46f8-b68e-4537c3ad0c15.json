@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Köhlstr.",
+  "name": "Einstieg GmbH",
+  "naturalPerson": false,
+  "squuid": "61e57df9-416c-46f8-b68e-4537c3ad0c15",
+  "controlDate": "2022-01-17T14:35:42.355Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50827",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.einstieg.com",
+        "squuid": "61e57ded-8143-4cfd-8e91-077b471d3f74"
+      },
+      "squuid": "61e57e19-2792-47c3-80b4-496bd981468d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rundfunk Media Rundfunkprogramm und Werbegesellschaft mbH",
+        "squuid": "5cb74fa7-8e8b-4a3f-bc30-d06972918709"
+      },
+      "squuid": "61e57f3f-d993-416b-8a4d-ac74d44910bf",
+      "state": "active"
+    }
+  ]
+}

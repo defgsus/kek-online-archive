@@ -13,23 +13,12 @@
   },
   "accessibilityUrl": "https://www.sky.de/",
   "rfStatewide": true,
-  "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Sky Deutschland Fernsehen GmbH & Co. KG",
-        "squuid": "5be1a6b6-e031-4e07-9571-aaad6a3c2478"
-      },
-      "squuid": "5be1a6b9-c45d-4f81-8bee-d07169b90a12",
-      "state": "active"
-    }
-  ],
   "name": "Sky Comedy",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
-    "name": "Sendebetrieb eingestellt",
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -55,6 +44,19 @@
     "state": "active"
   },
   "rfLicensed": "18.11.2015",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
+        "name": "Programmplattform",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
   "rfLicenseFrom": "18.11.2015",
   "accessibilityEmail": "impressum@sky.de",
   "languages": [

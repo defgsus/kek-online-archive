@@ -2,12 +2,29 @@
   "name": "Vestische Straßenbahngesellschaft mbH",
   "pseudoCompany": false,
   "squuid": "5be1a6b6-75c9-4c21-b1ca-d8afd33047c6",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Recklinghäuser Lokalfunk Betriebsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-1260-4110-960e-6ce9b8844aea"
+      },
+      "squuid": "61d2e476-4482-4685-b5ee-1ecb22d1b1e5",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
   "state": "active",

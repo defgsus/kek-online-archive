@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "61e56086-426b-4446-bee7-e20deedde6a6",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "FVW Medien GmbH",
+        "squuid": "61e560a4-792c-41af-8b63-2673ac7ce903"
+      },
+      "squuid": "61e560c0-e249-4805-a92e-64c88173daa5",
+      "state": "active"
+    }
+  ],
+  "name": "www.fvw.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-17T12:27:25.888Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

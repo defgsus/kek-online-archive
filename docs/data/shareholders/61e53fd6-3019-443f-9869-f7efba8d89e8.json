@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Uster (CH)",
+  "pseudoCompany": false,
+  "street": "Industriepark",
+  "name": "Red Bulletin Schweiz AG",
+  "naturalPerson": false,
+  "squuid": "61e53fd6-3019-443f-9869-f7efba8d89e8",
+  "controlDate": "2022-01-17T10:08:39.221Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "8610",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.speedweek.com",
+        "squuid": "61e53fb0-a975-4bc9-b3af-2c9a95d810fa"
+      },
+      "squuid": "61e5400a-2964-4206-aa84-b7c4a39e2e49",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Red Bull Media House GmbH",
+        "squuid": "5be1a6b6-34f5-424d-8db5-27a7125e7b17"
+      },
+      "squuid": "61e54069-c2b5-4244-b7b3-506aca7f425d",
+      "state": "active"
+    }
+  ]
+}

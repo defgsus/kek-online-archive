@@ -1,12 +1,29 @@
 {
   "name": "von Wietzlow, Nils",
   "squuid": "61e040d9-524f-41f7-804a-b61c32157605",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Print Beteiligungs GmbH",
+        "squuid": "60d48e41-8212-4f19-b5d8-9b6e145dd1e2"
+      },
+      "squuid": "61e04118-d6df-48fb-82a6-739cb5e4f581",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "state": "active"
