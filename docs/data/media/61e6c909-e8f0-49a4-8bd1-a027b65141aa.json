@@ -1,0 +1,84 @@
+{
+  "rfRepresentative": "Mustafa Bursa, Mehmet Koca, Mehmet Nureddin Yagci, Aslihan Ören",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Alaaddin Köse",
+  "rfFreePay": true,
+  "squuid": "61e6c909-e8f0-49a4-8bd1-a027b65141aa",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.tgrteu.com/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "IHA GmbH",
+        "squuid": "61e6c893-bf6d-4103-8f05-96b644017fd1"
+      },
+      "squuid": "61e6cbf6-fa49-414b-8a22-1386c661fe5a",
+      "state": "active"
+    }
+  ],
+  "name": "TGRT EU",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+    "name": "LPR Hessen",
+    "type": "organization",
+    "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "description": "türkischsprachiges Programm mit Gesundheits- und Wirtschaftssendungen, Dokumentarfilmen, Auslandssendungen, türkischen Filmen und Serien, Livesendungen, Kinderprogramm, Nachrichten",
+  "rfLicenseUntil": "30.11.2026",
+  "rfLicensed": "01.12.2021",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.12.2021",
+  "accessibilityEmail": " info@tgrteu.com",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-5f26-4c8a-8dbe-f0997863285f",
+      "name": "Türkisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

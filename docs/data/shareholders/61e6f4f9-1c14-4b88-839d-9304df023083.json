@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Scharnhorststr.",
+  "name": "DS Media GmbH",
+  "naturalPerson": false,
+  "squuid": "61e6f4f9-1c14-4b88-839d-9304df023083",
+  "controlDate": "2022-01-18T17:13:18.997Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50733",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deutsche-startups.de",
+        "squuid": "61e6f4e4-2fd8-413e-8c26-2bf789415899"
+      },
+      "squuid": "61e6f516-b9d7-4da4-9e3e-dbfd23fac243",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Holtzbrinck Ventures GmbH & Co. KG",
+        "squuid": "5be1a6b6-98ae-4453-aa59-28bcb0b06b44"
+      },
+      "squuid": "61e6f74b-14be-45a4-b813-5dc24359b0ed",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.7,
+      "holder": {
+        "name": "Voßkötter, Stefan",
+        "squuid": "61e6f78a-3271-4bfd-8ffd-19ea34f0f21a"
+      },
+      "squuid": "61e6f7b1-6074-47f4-a4c2-8ba13789a892",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.8,
+      "holder": {
+        "name": "Hüsing, Alexander",
+        "squuid": "61e6f770-9849-4e03-8c87-8459b510f0ed"
+      },
+      "squuid": "61e6f7c2-9b68-4c78-b3a3-4b14cf2af768",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 52.5,
+      "holder": {
+        "name": "European Founders Fund GmbH",
+        "squuid": "61e6f799-5753-443a-a115-898ceb2d3114"
+      },
+      "squuid": "61e6f7e2-d999-44cd-ad84-a0837852a08c",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "name": "Deutsche Börse AG",
+  "naturalPerson": false,
+  "squuid": "61e6ef3f-1098-499a-b061-6327eb545487",
+  "controlDate": "2022-01-18T16:55:22.052Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.boerse-frankfurt.de",
+        "squuid": "61e6ef1c-3ebc-4634-8514-47a331b435a6"
+      },
+      "squuid": "61e6ef50-82c4-4419-90e4-e063eca1c85a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 3.08,
+      "holder": {
+        "name": "DWS Investment GmbH",
+        "squuid": "5be1a6b6-c474-4fe8-87d9-642d012c049e"
+      },
+      "squuid": "61e6f367-b5b5-4a68-af61-2f19d452a4a6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 77.62,
+      "holder": {
+        "name": "Streubesitz an der Deutschen Börse AG",
+        "squuid": "61e6f26a-3b03-4a99-a713-498e9b5ec32b"
+      },
+      "squuid": "61e6f393-5c8d-4f9c-bcd8-4124a1429c77",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.5,
+      "holder": {
+        "name": "Eigenbesitz der Deutschen Börse AG",
+        "squuid": "61e6f255-0fbe-44ea-93ab-5e5063b103ab"
+      },
+      "squuid": "61e6f3ab-0567-4a62-971c-5b9f6d6dbc1e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.59,
+      "holder": {
+        "name": "BlackRock, Inc.",
+        "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
+      },
+      "squuid": "61e6f3be-468d-44fd-9638-e0da72f8c3a6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.11,
+      "holder": {
+        "name": "FIL Ltd.",
+        "squuid": "5d2de1e9-343a-4337-b3cd-275fd002750a"
+      },
+      "squuid": "61e6f3d8-c7e5-43ad-a0c0-ae46b415501b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.02,
+      "holder": {
+        "name": "Flossbach von Storch AG",
+        "squuid": "5be1a6b6-4618-4c7b-aa9c-0a77b0211f54"
+      },
+      "squuid": "61e6f3f1-d7ae-4dc2-b7e6-9a33e81378bf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.08,
+      "holder": {
+        "name": "Massachusetts Financial Services Company",
+        "squuid": "5be1a6b6-ab6d-48ec-9d29-2b63f7ab2964"
+      },
+      "squuid": "61e6f406-9408-4306-9162-d9fca6684be8",
+      "state": "active"
+    }
+  ]
+}

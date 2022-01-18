@@ -19,12 +19,22 @@
       },
       "squuid": "5be1a6b7-22fc-4981-964d-351ac5d3f3d5",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Magallanes, Inc.",
+        "squuid": "61e6ba5c-742a-4550-8617-0e4771eabde5"
+      },
+      "squuid": "61e6bb37-ab78-48dd-8036-4f367457c49e",
+      "state": "active"
     }
   ],
   "state": "active",
-  "note": "Stand: 05/2021",
+  "note": "vormals Discovery, Inc.",
   "pseudoCompany": false,
-  "name": "Discovery, Inc.",
+  "name": "Warner Bros. Discovery, Inc.",
   "naturalPerson": false,
   "squuid": "5be1a6b6-fde0-477e-bfdd-f31e32676b3b",
   "otherMediaActivities": "Die Discovery, Inc. bezeichnet sich als weltweit führendes Medien- und Entertainmentunternehmen im nichtfiktionalen Bereich. Ihre Tochterunternehmen veranstalten weltweit eine Vielzahl von vornehmlich Pay-TV-Spartenprogrammen. Über die Discovery Studios und die Beteiligung an der auch in Deutschland vertretenen All3Media-Gruppe ist die Discovery, Inc. zudem im Bereich der TV-Produktion aktiv. Im deutschen Markt hat die Discovery, Inc. darüber hinaus gemeinsam mit der ProSiebenSat.1 Media SE die OTT-Plattform 7TV gestartet. ",
@@ -39,6 +49,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "corporationName": "Discovery",
@@ -46,7 +62,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 23.2,
+      "capitalShares": 8.0,
       "holder": {
         "name": "Advance Newhouse Programming Partnership",
         "squuid": "5be1a6b6-7a2e-4e91-9155-8d57dc4572d7"
@@ -56,17 +72,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 20.7,
-      "holder": {
-        "name": "Malone, Dr. John C. und Leslie",
-        "squuid": "5be1a6b6-4072-4707-8516-e2161b4e0d32"
-      },
-      "squuid": "5be1a6b7-ae17-4d3b-a8a8-d3e6b3786b60",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 5.9,
+      "capitalShares": 8.0,
       "holder": {
         "name": "The Vanguard Group, Inc.",
         "squuid": "5be1a6b6-eb02-41f1-8b69-58db68c8db1f"
@@ -76,12 +82,12 @@
     },
     {
       "type": "own",
-      "capitalShares": 50.2,
+      "capitalShares": 6.0,
       "holder": {
-        "name": "Streubesitz an der Discovery, Inc.",
-        "squuid": "5be1a6b6-8887-4394-a406-a2795adc9f3b"
+        "name": "BlackRock, Inc.",
+        "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
       },
-      "squuid": "5be1a6b7-9045-4f7a-be5e-725afce175f7",
+      "squuid": "61e6ba03-189c-4df6-baa2-4816f9b1f1b2",
       "state": "active"
     }
   ]

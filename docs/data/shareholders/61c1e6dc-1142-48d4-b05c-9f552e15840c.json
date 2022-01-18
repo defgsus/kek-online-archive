@@ -1,11 +1,18 @@
 {
   "state": "active",
-  "city": "",
-  "street": "",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Luruper Chaussee",
   "name": "DRYMSTRYM TV GmbH",
-  "naturalPerson": true,
+  "naturalPerson": false,
   "squuid": "61c1e6dc-1142-48d4-b05c-9f552e15840c",
+  "streetNumber": "125",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
     {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
       "name": "MA HSH",
@@ -13,7 +20,7 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "zipcode": "",
+  "zipcode": "22761",
   "operates": [
     {
       "type": "operate",
@@ -22,6 +29,15 @@
         "squuid": "61c1e6f9-136f-41a4-8997-9d532c84cfe2"
       },
       "squuid": "61c1e850-f4be-42e5-bdf2-badc644e3126",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "DRYMSTREAM TV",
+        "squuid": "61e6e229-c9f9-4be5-af1c-853927f5fcf8"
+      },
+      "squuid": "61e6e659-c9b7-452b-bc7b-3b658fcb584b",
       "state": "active"
     }
   ],

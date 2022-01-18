@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Bernd Reichart, Dr. Henning Tewes",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Joachim Moczall",
+  "rfStartDate": "2021",
+  "rfFreePay": false,
+  "squuid": "61e6d579-9cc5-4478-8eee-493634f9ffcb",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL Television GmbH",
+        "squuid": "5be1a6b6-7542-41b4-ab53-17975a930698"
+      },
+      "squuid": "61e6dc7b-a168-450d-976f-265c303a4ef2",
+      "state": "active"
+    }
+  ],
+  "name": "RTL+ Sportstream",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "RTL+ Sportstream ist ein Multi-Channel-Angebot rund um die Live-Übertragungen der Spiele der UEFA Europa League und der UEFA Europa Conference League. Es wird ausschließlich im bezahlpflichtigen Premium-Bereich des RTL-Streaming-Dienstes RTL+ übertragen.",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "07.10.2021",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-f63e-4813-b5ec-d3aebfc4f468",
+      "name": "TV NOW RTL",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "07.10.2021",
+  "accessibilityEmail": "webmaster@rtlinteractive.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -36722,6 +36722,45 @@
   },
   {
     "state": "active",
+    "squuid": "61e6c909-e8f0-49a4-8bd1-a027b65141aa",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "TGRT EU",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-5f26-4c8a-8dbe-f0997863285f",
+        "name": "Türkisch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
     "squuid": "5c50243d-214d-4465-b36c-b980da3ffec6",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -37193,6 +37232,45 @@
   },
   {
     "state": "active",
+    "squuid": "61e6d579-9cc5-4478-8eee-493634f9ffcb",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "RTL+ Sportstream",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+      "name": "Spartenprogramm (Sport)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
     "squuid": "5c1cda14-0d35-49f9-b287-045587da5558",
     "organization": {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -37318,6 +37396,45 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "state": "active",
+    "squuid": "61e6e229-c9f9-4be5-af1c-853927f5fcf8",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "DRYMSTREAM TV",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+      "name": "Spartenprogramm (Sonstiges)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
   },
   {
     "state": "active",
@@ -37470,6 +37587,30 @@
       "name": "SLM",
       "type": "organization",
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "61e6e57f-3b0a-466f-9160-58ae7b3f0985",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.myspass.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-01-18T16:06:54.450Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
     }
   },
   {
@@ -38232,6 +38373,45 @@
       "type": "organization"
     },
     "pressKind": "Regional"
+  },
+  {
+    "state": "active",
+    "squuid": "61e6e9ee-6be8-49ea-878c-57a1cf9ee031",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "SchwarzRotGold TV",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+      "name": "Spartenprogramm (Sonstiges)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
   },
   {
     "state": "active",
@@ -39602,6 +39782,45 @@
     "pressKind": "Wissen"
   },
   {
+    "state": "active",
+    "squuid": "61e6ee46-7f0b-43f5-926c-372704829f4a",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "sporttotal.tv",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+      "name": "Spartenprogramm (Sport)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
     "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "5c0e4668-5fb2-401f-8c93-7aa8821500a3",
@@ -39633,6 +39852,30 @@
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2021-12-13T17:16:16.878Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "61e6ee6b-d6de-4a44-84f6-f4483ee0fd64",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.karriere.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-01-18T16:44:35.653Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39934,6 +40177,30 @@
       "type": "organization"
     },
     "pressKind": "Regional"
+  },
+  {
+    "state": "active",
+    "squuid": "61e6ef1c-3ebc-4634-8514-47a331b435a6",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.boerse-frankfurt.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-01-18T16:47:33.144Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
   },
   {
     "state": "active",
@@ -40298,6 +40565,30 @@
       "name": "LfM",
       "type": "organization",
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "61e6f4e4-2fd8-413e-8c26-2bf789415899",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.deutsche-startups.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-01-18T17:12:35.190Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
     }
   },
   {
@@ -66112,8 +66403,8 @@
     "name": "Sky Crime",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
-      "name": "Sendebetrieb eingestellt",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -80811,11 +81102,11 @@
       "type": "organization"
     },
     "rfStatewide": true,
-    "name": "Sky Sport 3 ",
+    "name": "Sky Sport 3 - 11 (temporäre multifeed channel)",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-      "name": "Noch nicht auf Sendung",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },

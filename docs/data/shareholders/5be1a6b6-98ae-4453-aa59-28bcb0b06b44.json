@@ -1,6 +1,29 @@
 {
-  "name": "Holtzbrinck Beteiligungs GmbH",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "DS Media GmbH",
+        "squuid": "61e6f4f9-1c14-4b88-839d-9304df023083"
+      },
+      "squuid": "61e6f74b-14be-45a4-b813-5dc24359b0ed",
+      "state": "active"
+    }
+  ],
+  "state": "active",
   "pseudoCompany": false,
+  "name": "Holtzbrinck Ventures GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-98ae-4453-aa59-28bcb0b06b44",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "credits": "Beschluss der KEK vom 13.06.2017, Az.: KEK 915",
   "ownedBy": [
     {
       "type": "own",
@@ -12,17 +35,5 @@
       "squuid": "5be1a6b8-1343-46b3-9699-8706688d35a0",
       "state": "active"
     }
-  ],
-  "squuid": "5be1a6b6-98ae-4453-aa59-28bcb0b06b44",
-  "credits": "Beschluss der KEK vom 13.06.2017, Az.: KEK 915",
-  "organizations": [
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
-    }
-  ],
-  "state": "active",
-  "naturalPerson": false
+  ]
 }

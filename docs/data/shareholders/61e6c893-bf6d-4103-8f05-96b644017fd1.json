@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Eschborn",
+  "pseudoCompany": false,
+  "street": "Schwalbacher Str.",
+  "name": "IHA GmbH",
+  "naturalPerson": false,
+  "squuid": "61e6c893-bf6d-4103-8f05-96b644017fd1",
+  "streetNumber": "64",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65760",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "TGRT EU",
+        "squuid": "61e6c909-e8f0-49a4-8bd1-a027b65141aa"
+      },
+      "squuid": "61e6cbf6-fa49-414b-8a22-1386c661fe5a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 59.0,
+      "holder": {
+        "name": "Ören, Aslihan",
+        "squuid": "61e6c8d3-4156-4a13-9d3b-d5be21d5d537"
+      },
+      "squuid": "61e6cd50-de2b-4b90-84fd-751060f15e9c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 41.0,
+      "holder": {
+        "name": "Yagci, Mehmet Nureddin",
+        "squuid": "61e6c8f6-efe0-4eab-8e6c-ab9c5cf00ddb"
+      },
+      "squuid": "61e6cd61-8bfc-4dcf-a359-554e306881af",
+      "state": "active"
+    }
+  ]
+}

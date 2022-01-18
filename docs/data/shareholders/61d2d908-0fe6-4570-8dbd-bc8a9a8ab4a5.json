@@ -1,6 +1,4 @@
 {
-  "name": "JS Ventura Holding GmbH",
-  "squuid": "61d2d908-0fe6-4570-8dbd-bc8a9a8ab4a5",
   "owns": [
     {
       "type": "own",
@@ -13,6 +11,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Köpenicker Str.",
+  "name": "JS Ventura Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "61d2d908-0fe6-4570-8dbd-bc8a9a8ab4a5",
+  "controlDate": "2022-01-18T11:34:10.398Z",
+  "streetNumber": "125",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -74,5 +81,5 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "state": "active"
+  "zipcode": "10179"
 }

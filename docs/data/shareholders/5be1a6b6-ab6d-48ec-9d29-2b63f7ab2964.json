@@ -2,12 +2,23 @@
   "name": "Massachusetts Financial Services Company",
   "pseudoCompany": false,
   "squuid": "5be1a6b6-ab6d-48ec-9d29-2b63f7ab2964",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.08,
+      "held": {
+        "name": "Deutsche Börse AG",
+        "squuid": "61e6ef3f-1098-499a-b061-6327eb545487"
+      },
+      "squuid": "61e6f406-9408-4306-9162-d9fca6684be8",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "state": "active",

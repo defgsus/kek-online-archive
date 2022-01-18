@@ -3,7 +3,7 @@
   "state": "active",
   "rfShoppingChannel": false,
   "rfParentalAdvisor": "Sandra Singer",
-  "rfStartDate": "04.07.2009",
+  "rfStartDate": "",
   "rfFreePay": false,
   "squuid": "5be1a6b1-63e6-4db0-8920-2ad173d59d5c",
   "marketReach": 0.0,
@@ -19,9 +19,9 @@
       "type": "operate",
       "holder": {
         "name": "Sky Deutschland Fernsehen GmbH & Co. KG",
-        "squuid": "5be1a6b6-e031-4e07-9571-aaad6a3c2478"
+        "squuid": "61e6a021-57c9-4e5f-bc71-5167884ad1ce"
       },
-      "squuid": "5be1a6b9-6b8b-4296-881f-47023dd35247",
+      "squuid": "61e6a668-a11d-4c91-8884-02fc982b28a7",
       "state": "active"
     }
   ],
@@ -29,8 +29,8 @@
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
-    "name": "Sendebetrieb eingestellt",
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -91,12 +91,12 @@
       "state": "active"
     },
     {
-      "squuid": "5be1a6b0-2315-4639-ad7e-4ee0ca15d951",
-      "name": "Unitymedia",
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky",
       "type": "platform-operator",
       "distributionType": {
-        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
-        "name": "Kabel",
+        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
+        "name": "Programmplattform",
         "type": "distribution-type"
       },
       "state": "active"
@@ -119,28 +119,6 @@
       "distributionType": {
         "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
         "name": "Kabel",
-        "type": "distribution-type"
-      },
-      "state": "active"
-    },
-    {
-      "squuid": "5be1a6b0-d7a7-4bd8-a6c4-89a1eb1c79a0",
-      "name": "Lokale Kabelnetze (veraltet)",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
-        "name": "Kabel",
-        "type": "distribution-type"
-      },
-      "state": "active"
-    },
-    {
-      "squuid": "5be1a6b0-8b9f-4c3c-bffa-eb1b3d4eed8f",
-      "name": "Sky (DTH) (veraltet)",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
-        "name": "Programmplattform",
         "type": "distribution-type"
       },
       "state": "active"

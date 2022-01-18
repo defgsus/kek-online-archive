@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "61e6ef1c-3ebc-4634-8514-47a331b435a6",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Deutsche Börse AG",
+        "squuid": "61e6ef3f-1098-499a-b061-6327eb545487"
+      },
+      "squuid": "61e6ef50-82c4-4419-90e4-e063eca1c85a",
+      "state": "active"
+    }
+  ],
+  "name": "www.boerse-frankfurt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-01-18T16:47:33.144Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

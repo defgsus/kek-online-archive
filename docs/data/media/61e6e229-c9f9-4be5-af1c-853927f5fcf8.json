@@ -1,0 +1,70 @@
+{
+  "rfRepresentative": "Maximilian Jovan Baima, Dr. Oliver Scherenberg",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfFreePay": true,
+  "squuid": "61e6e229-c9f9-4be5-af1c-853927f5fcf8",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "DRYMSTRYM TV GmbH",
+        "squuid": "61c1e6dc-1142-48d4-b05c-9f552e15840c"
+      },
+      "squuid": "61e6e659-c9b7-452b-bc7b-3b658fcb584b",
+      "state": "active"
+    }
+  ],
+  "name": "DRYMSTREAM TV",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "description": "DRYMSTREAM TV ist ein Multi-Channel-Network mit bis zu 25 Kanälen zu unterschiedlichen inhaltlichen Schwerpunkten.",
+  "rfLicenseUntil": "23.09.2031",
+  "rfLicensed": "29.09.2021",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-6b30-40cd-81e4-c876e3a2cf67",
+      "name": "Twitch",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "24.09.2021",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

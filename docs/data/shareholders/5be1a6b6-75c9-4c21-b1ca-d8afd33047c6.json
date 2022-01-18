@@ -1,7 +1,4 @@
 {
-  "name": "Vestische Straßenbahngesellschaft mbH",
-  "pseudoCompany": false,
-  "squuid": "5be1a6b6-75c9-4c21-b1ca-d8afd33047c6",
   "owns": [
     {
       "type": "own",
@@ -14,6 +11,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Herten",
+  "pseudoCompany": false,
+  "street": "Westerholter Str.",
+  "name": "Vestische Straßenbahnen GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-75c9-4c21-b1ca-d8afd33047c6",
+  "controlDate": "2022-01-18T11:07:59.276Z",
+  "streetNumber": "550",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -27,6 +33,5 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "zipcode": "45701"
 }
