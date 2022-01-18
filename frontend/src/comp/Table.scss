@@ -1,0 +1,45 @@
+
+table.table {
+  width: 100%;
+  border-spacing: 0;
+  margin-top: .5rem;
+
+  thead {
+    th {
+      padding: .2rem .5rem;
+      cursor: pointer;
+      text-align: left;
+
+      &:hover {
+        background-color: var(--bg-color-light1);
+      }
+
+      &.right {
+        text-align: right;
+      }
+    }
+  }
+
+  tbody {
+    tr {
+      &:nth-child(odd) {
+        background-color: var(--bg-color-light0);
+      }
+      &:hover {
+        background-color: var(--bg-color-light1);
+      }
+      &.highlight {
+        background-color: var(--bg-color-selected);
+      }
+
+      td {
+        width: calc(100% / 7);
+        padding: .2rem .5rem;
+
+        &.right {
+          text-align: right;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build --no-source-maps --public-url /kek-online-archive/js"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.11",
+    "parcel": "^2.2.1",
+    "preact": "^10.6.4"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.7.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "vis": "^4.21.0-EOL",
+    "vis-data": "^7.1.2",
+    "vis-network": "^9.1.0"
+  }
+}

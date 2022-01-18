@@ -1,0 +1,49 @@
+:root {
+  --bg-color: #444;
+  --bg-color-dark1: #333;
+  --bg-color-dark2: #222;
+  --bg-color-light0: #494949;
+  --bg-color-light1: #555;
+  --bg-color-light2: #666;
+  --bg-color-selected: #4b5758;
+
+  --color: #eee;
+  --link-color: #9aaad9;
+  --link-active-color: #7462f4;
+}
+
+body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  background: var(--bg-color);
+  color: var(--color);
+}
+
+a {
+  color: var(--link-color);
+
+  &:active {
+    color: var(--link-active-color);
+  }
+}
+
+input {
+  background: var(--bg-color);
+  border-top-color: var(--bg-color-dark2);
+  border-left-color: var(--bg-color-dark2);
+  border-bottom-color: var(--bg-color-light2);
+  border-right-color: var(--bg-color-light2);
+  color: var(--color);
+}
+
+button {
+  background: var(--bg-color-light1);
+  color: var(--color);
+  border-color: var(--bg-color-light2) var(--bg-color-dark2) var(--bg-color-dark2) var(--bg-color-light2);
+
+  &:active {
+    background: var(--bg-color-dark1);
+    color: var(--color);
+    border-color: var(--bg-color-dark2) var(--bg-color-light2) var(--bg-color-light2) var(--bg-color-dark2);
+  }
+}
+
