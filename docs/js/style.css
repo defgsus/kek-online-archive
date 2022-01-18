@@ -1,0 +1,167 @@
+:root {
+    --bg-color: #444;
+    --bg-color-dark1: #333;
+    --bg-color-dark2: #222;
+    --bg-color-light0: #494949;
+    --bg-color-light1: #555;
+    --bg-color-light2: #666;
+    --color: #eee;
+    --link-color: #9aaad9;
+    --link-active-color: #7462f4;
+}
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    background: var(--bg-color);
+    color: var(--color);
+}
+
+a {
+    color: var(--link-color);
+}
+a:active {
+    color: var(--link-active-color);
+}
+
+input {
+    background: var(--bg-color);
+    border-top-color: var(--bg-color-dark2);
+    border-left-color: var(--bg-color-dark2);
+    border-bottom-color: var(--bg-color-light2);
+    border-right-color: var(--bg-color-light2);
+    color: var(--color);
+}
+
+#status {
+    font-family: monospace;
+}
+
+#network {
+    position: relative;
+    min-height: 500px;
+    border: 1px solid var(--bg-color-light2);
+    /*background: var(--bg-color-light1);*/
+    margin-top: .5rem;
+}
+#network canvas {
+    /*background: #000;*/
+}
+
+#object {
+    max-height: 40rem;
+    overflow: scroll;
+}
+
+#object pre {
+    white-space: pre-wrap;
+}
+
+#object .heading {
+    font-size: 1.33rem;
+}
+
+#object .address {
+    font-style: italic;
+    margin-bottom: .5rem;
+}
+
+.filter-area {
+    padding: 1rem;
+}
+.filter-area input {
+    padding: .2rem;
+}
+
+.grid-x {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.grid-x.nowrap {
+    flex-wrap: nowrap;
+}
+
+.grid-x.margin-right > * {
+    margin-right: .5rem;
+}
+.grid-x.margin-bottom > * {
+    margin-bottom: .5rem;
+}
+.grid-x > .grow {
+    flex-grow: 1000;
+}
+.grid-x.inline {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.view-wrapper {
+    min-width: 400px;
+    padding: .3rem;
+}
+.view-wrapper.half {
+    max-width: 49%;
+}
+
+
+table.table {
+    width: 100%;
+    border-spacing: 0;
+    margin-top: .5rem;
+}
+
+table.table thead th {
+    cursor: pointer;
+}
+
+table.table thead th:hover {
+    background-color: var(--bg-color-light1);
+}
+
+table.table td {
+    width: calc(100% / 7);
+    padding: .2rem .5rem;
+}
+table.table td.right {
+    text-align: right;
+}
+
+table.table tbody tr:nth-child(odd) {
+    background-color: var(--bg-color-light0);
+}
+
+table.table tbody tr:hover {
+    background-color: var(--bg-color-light1);
+}
+
+.relations span {
+    font-weight: bold;
+}
+
+.relations ul {
+    margin-top: .1rem;
+}
+
+.squuid-link {
+    cursor: pointer;
+    color: var(--link-color);
+}
+
+.key-values > div {
+    margin-right: .6rem;
+    margin-bottom: .3rem;
+    border-left: 1px solid #ccc;
+    padding-left: .3rem;
+    max-width: 33%;
+    flex-grow: 1;
+}
+.half .key-values > div {
+    max-width: 50%;
+}
+.key-values .key {
+
+}
+
+.key-values .value {
+    font-weight: bold;
+}

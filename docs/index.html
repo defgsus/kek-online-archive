@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>KEK-Online Archive</title>
+    <meta name="description" content="Visualization of media ownership in Germany" />
+
+    <link rel="stylesheet" href="js/jquery.dataTables.css" />
+    <link rel="stylesheet" href="js/style.css" />
+    <script type="text/javascript" src="js/jquery-3.6.0.slim.min.js"></script>
+    <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="js/vis-network.js"></script>
+    <script type="text/javascript" src="js/table.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</head>
+
+<body>
+    <div class="grid-x">
+        <div>
+            <h3>media ownership in germany - data from
+                <a href="https://www.kek-online.de/medienkonzentration/mediendatenbank#/" target="_blank">
+                    kek-online.de
+                </a>
+            </h3>
+        </div>
+        <div class="grow"></div>
+        <div>
+            <a href="https://github.com/defgsus/kek-online-archive/" target="_blank">github</a>
+        </div>
+    </div>
+
+    <div class="filter-area">
+        <div class="grid-x">
+            <div>
+                🔍 <input type="text" name="search" value="" />
+            </div>
+            <div class="grow"></div>
+            <div id="status"></div>
+        </div>
+    </div>
+
+    <div class="grid-x views-wrapper">
+        <div class="view-wrapper halfable grow">
+            <div id="table"></div>
+        </div>
+
+        <div class="view-wrapper halfable grow">
+            <div id="object"></div>
+        </div>
+
+        <div class="view-wrapper grow">
+            <div id="network"></div>
+        </div>
+    </div>
+
+</body>
+</html>

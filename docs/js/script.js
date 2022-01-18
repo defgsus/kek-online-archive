@@ -1,11 +1,11 @@
 window.addEventListener("DOMContentLoaded", () => {
 
     const TYPE_COLOR_MAPPING = {
-        "shareholder": "#777",
-        "radio": "#986",
-        "online": "#689",
-        "print": "#698",
-        "tv": "#965",
+        "shareholder": ["#777", "#ccc"],
+        "radio": ["#986", "#dc9"],
+        "online": ["#689", "#9cd"],
+        "print": ["#698", "#9dc"],
+        "tv": ["#965", "#da9"],
     };
 
     const TYPE_ICON_MAPPING = {
@@ -21,12 +21,12 @@ window.addEventListener("DOMContentLoaded", () => {
         accessibilityUrl: "url",
         description: "description",
         placeOfBusiness: "place of business",
-        pseudoCompany: "pseudo company ?",
-        supplierConsortium: "supplier consortium ?",
-        rfFreePay: "free ?",
-        rfPublicPrivate: "public ?",
-        rfShoppingChannel: "shopping channel ?",
-        rfStatewide: "statewide ?",
+        pseudoCompany: "pseudo company?",
+        supplierConsortium: "supplier consortium?",
+        rfFreePay: "free?",
+        rfPublicPrivate: "public?",
+        rfShoppingChannel: "shopping channel?",
+        rfStatewide: "statewide?",
         languages: {title: "languages", func: v => v.map(l => l.name).join(", ")},
         rfStartDate: "start date",
         marketReach: {title: "market reach", func: v => `${v.toFixed(3)}%`},
@@ -47,7 +47,7 @@ window.addEventListener("DOMContentLoaded", () => {
         pressDistributionArea: "press distribution area",
         pressEditionsComments: "press editions comments",
         pressEditionsEpaper: "press editions ePaper",
-        pressEditionsIVW: "press editions (IVW) ?",
+        pressEditionsIVW: "press editions (IVW)?",
         pressEditionsSold: "press editions sold",
         pressKind: "press kind",
         pressMagazineType: {title: "press magazine type", func: v => v.name},
@@ -69,11 +69,13 @@ window.addEventListener("DOMContentLoaded", () => {
     };
 
     let raw_data = null;
-    const node_map = {};
-    const object_map = {};
+    const node_map = {}; // by node-id
+    const object_map = {}; // by squuid
+    const squuid_to_node_id = {};
     let filtered_data = [];
     let table = null;
     let network = null;
+    let network_data_sets = null;
     let selected_node_id = null;
 
     window.raw_data = raw_data;
@@ -121,7 +123,13 @@ window.addEventListener("DOMContentLoaded", () => {
             squuid = node.name;
         return fetch(`data/${path}/${squuid}.json`)
             .then(response => response.json())
-            .then(data => { object_map[squuid] = data; })
+            .then(data => {
+                if (data.ownedBy)
+                    data.ownedBy.sort((a, b) => a.capitalShares > b.capitalShares ? -1 : 1);
+                if (data.owns)
+                    data.owns.sort((a, b) => a.capitalShares > b.capitalShares ? -1 : 1);
+                object_map[squuid] = data;
+            })
             .catch(error => { status_msg(`error fetching ${squuid}: ${error}`); });
     }
 
@@ -132,6 +140,7 @@ window.addEventListener("DOMContentLoaded", () => {
             node.nodes_in = [];
             node.nodes_out = [];
             node_map[node.id] = node;
+            squuid_to_node_id[node.name] = node.id;
         }
         for (const edge of raw_data.edges) {
             const
@@ -173,6 +182,7 @@ window.addEventListener("DOMContentLoaded", () => {
                 update_network();
             }
         }
+        table.order = "-out_degree";
         table.update_rows(filtered_data);
     }
 
@@ -209,25 +219,63 @@ window.addEventListener("DOMContentLoaded", () => {
                     physics: {
                         barnesHut: {
                             //springLength: 200,
+                        },
+                        stabilization: {
+                            iterations: 300,
                         }
                     }
                 },
             );
             network.on("click", on_network_click);
+            network.on("stabilizationProgress", e => status_msg(
+                `stabilizing network ${e.iterations}/${e.total}`
+            ));
+            network.on("stabilizationIterationsDone", e => status_msg());
             window.network = network;
         }
-        new Promise((resolve, reject) => resolve())
+
+        build_network_nodes_and_edges(selected_node_id)
+            .then(({nodes, edges}) => {
+                if (!network_data_sets) {
+                    network_data_sets = {
+                        nodes: new vis.DataSet(nodes),
+                        edges: new vis.DataSet(edges),
+                    };
+                    window.data_sets = network_data_sets;
+                    network.setData(network_data_sets);
+                } else {
+                    const
+                        existing_nodes = new Set(network_data_sets.nodes.map(n => n.id)),
+                        existing_edges = {};
+                    network_data_sets.edges.forEach(e => existing_edges[e.from]
+                        ? existing_edges[e.from].add(e.to)
+                        : existing_edges[e.from] = new Set([e.to])
+                    );
+                    for (const node of nodes)
+                        if (!existing_nodes.has(node.id))
+                            network_data_sets.nodes.add(node);
+                    for (const edge of edges)
+                        if (!(existing_edges[edge.from] && existing_edges[edge.from].has(edge.to)))
+                            network_data_sets.edges.add(edge);
+                }
+                network.selectNodes([selected_node_id]);
+            })
+            .catch(error => { status_msg(error); });
+    }
+
+    function build_network_nodes_and_edges(start_node_id) {
+        return new Promise((resolve, reject) => resolve())
             .then(() => { status_msg(`traversing graph...`); })
             .then(() => {
-                let picked_nodes = traverse_nodes(selected_node_id, "up");
-                picked_nodes = picked_nodes.slice(1, picked_nodes.length);
+                const visited = new Set();
+                let picked_nodes = traverse_nodes(start_node_id, "up", visited);
                 picked_nodes = picked_nodes.concat(
-                    traverse_nodes(selected_node_id, "down")
+                    traverse_nodes(start_node_id, "down", visited)
                 );
                 console.log(`traversed ${picked_nodes.length} nodes`);
                 return picked_nodes;
             })
-            .then(nodes => { status_msg(`create ${nodes.length} nodes network...`); return nodes; })
+            //.then(nodes => { status_msg(`create ${nodes.length} nodes network...`); return nodes; })
             .then(picked_nodes => {
                 const nodes = [], edges = [];
                 if (selected_node_id) {
@@ -236,9 +284,11 @@ window.addEventListener("DOMContentLoaded", () => {
                             id: entry.id,
                             label: entry.label,
                             group: entry.type,
-                            color: entry.id === selected_node_id
-                                ? "#bcb"
-                                : TYPE_COLOR_MAPPING[entry.type] || "#f00",
+                            color: {
+                                background: TYPE_COLOR_MAPPING[entry.type][0],
+                                border: TYPE_COLOR_MAPPING[entry.type][1],
+                                highlight: TYPE_COLOR_MAPPING[entry.type][1],
+                            },
                             value: entry.num_medias_weighted,
                         });
 
@@ -248,27 +298,37 @@ window.addEventListener("DOMContentLoaded", () => {
                                 to: other.id,
                                 value: other.weight,
                                 label: other.weight,
+                                color: TYPE_COLOR_MAPPING[entry.type][0],
                             });
                         }
                     }
                 }
-                network.setData({nodes, edges});
-            })
-            .then(() => { status_msg(); })
-            .catch(error => { status_msg(error); });
-    }
+                return {nodes, edges};
+            });
+        }
 
     function render_object(data) {
         const elements = [];
 
+        let kek_url = null;
         let icon = "";
         if (!data.type) {  // shareholder
             icon = data.naturalPerson ? "😃" : "🏛";
+            kek_url = `https://www.kek-online.de/medienkonzentration/mediendatenbank#/profile/shareholder/${data.squuid}`;
         } else {
             icon = TYPE_ICON_MAPPING[data.type] || "❓";
+            kek_url = `https://www.kek-online.de/medienkonzentration/mediendatenbank#/profile/media/${data.squuid}`;
         }
 
-        elements.push($("<h3>").text(`${icon} ${data.name}`));
+        elements.push(
+            $("<div>").addClass("grid-x").html([
+                $("<div>").addClass("grow").html($("<div>").addClass("heading").text(`${icon} ${data.name || "-no name-"}`)),
+                $("<div>").html(
+                    $("<a>").attr("target", "_blank").attr("href", kek_url)
+                        .text("↗ KEK")
+                )
+            ])
+        );
 
         let address = [];
         if (data.corporationName)
@@ -288,10 +348,86 @@ window.addEventListener("DOMContentLoaded", () => {
             address.push(line);
         }
         if (data.rfAddress) {
-            address = address.concat(rfAddress.split("\n"));
+            address = address.concat(data.rfAddress.split("\n"));
         }
         if (address.length) {
-            elements.push($("<p>").html(address.join("<br>")));
+            elements.push($("<div>").addClass("address").html(address.join("<br>")));
+        }
+
+        function render_relations(label, data) {
+            return $("<div>").addClass("relations").html([
+                $("<span>").text(label),
+                $("<ul>").html(
+                    data.map(e => $("<li>")
+                        .attr("data-squuid", e.squuid)
+                        .addClass("squuid-link")
+                        .text(e.label))
+                )
+            ]);
+        }
+
+        if (data.ownedBy) {
+            const
+                owned_by = data.ownedBy.filter(e => !e.complementaryPartner),
+                partnerships = data.ownedBy.filter(e => e.complementaryPartner);
+
+            if (owned_by.length) {
+                elements.push(render_relations(
+                    "owners",
+                    owned_by.map(e => ({squuid: e.holder, label: `${e.capitalShares}% ${e.holder.name}`}))
+                ));
+            }
+            if (partnerships.length) {
+                elements.push(render_relations(
+                    "partners",
+                    partnerships.map(e => ({
+                        squuid: e.holder.squuid,
+                        label: `${e.capitalShares}% ${e.holder.name}`
+                    }))
+                ));
+            }
+        }
+        if (data.owns) {
+            const
+                owns = data.owns.filter(e => !e.complementaryPartner),
+                partnerships = data.owns.filter(e => e.complementaryPartner);
+
+            if (owns.length) {
+                elements.push(render_relations(
+                    "owns",
+                    owns.map(e => ({
+                        squuid: e.held.squuid,
+                        label: `${e.capitalShares}% ${e.held.name}`
+                    }))
+                ));
+            }
+            if (partnerships.length) {
+                elements.push(render_relations(
+                    "partners",
+                    partnerships.map(e => ({
+                        squuid: e.held.squuid,
+                        label: `${e.capitalShares}% ${e.held.name}`
+                    }))
+                ));
+            }
+        }
+        if (data.operatedBy) {
+            elements.push(render_relations(
+                "operated by",
+                data.operatedBy.map(e => ({
+                    squuid: e.holder.squuid,
+                    label: e.holder.name
+                }))
+            ));
+        }
+        if (data.operates) {
+            elements.push(render_relations(
+                "operates",
+                data.operates.map(e => ({
+                    squuid: e.held.squuid,
+                    label: e.held.name
+                }))
+            ));
         }
 
         if (data.otherMediaActivities)
@@ -313,20 +449,22 @@ window.addEventListener("DOMContentLoaded", () => {
             }
         }
         if (values.length) {
-            const table_rows = [];
-            for (const value of values) {
-                table_rows.push($("<tr>").html([
-                    $("<td>").text(value[0]),
-                    $("<td>").text(value[1]),
+            const value_elements = [];
+            for (const i of Object.keys(values)) {
+                let [key, value] = values[i];
+                value_elements.push($("<div>").html([
+                    $("<div>").addClass("key").text(key),
+                    $("<div>").addClass("value").text(value),
                 ]));
             }
-            elements.push($("table").html($("<tbody>").html(table_rows)));
+            elements.push($("<div>").addClass("grid-x key-values").html(value_elements));
         }
 
         elements.push($("<hr>"));
-        elements.push($("<pre>").text(JSON.stringify(data, null, 2)));
-
+        //elements.push($("<pre>").text(JSON.stringify(data, null, 2)));
+        console.log(data);
         $("#object").html(elements);
+        hook_link_controls()
     }
 
     function render_object_by_node_id(node_id) {
@@ -343,15 +481,17 @@ window.addEventListener("DOMContentLoaded", () => {
         //console.log(event);
         if (event.nodes.length) {
             const node_id = event.nodes[0];
+            selected_node_id = node_id;
             render_object_by_node_id(node_id);
+            update_network();
         }
     }
 
-    function traverse_nodes(node_id, direction="both") {
+    function traverse_nodes(node_id, direction="both", visited=null) {
+        visited = visited || new Set();
         const
             go_up = direction === "up" || direction === "both",
             go_down = direction === "down" || direction === "both",
-            visited = new Set(),
             todo = new Set(),
             ret_nodes = [];
         todo.add(node_id);
@@ -361,8 +501,9 @@ window.addEventListener("DOMContentLoaded", () => {
                 id = todo.keys().next().value,
                 node = node_map[id];
             todo.delete(id);
+            if (!visited.has(node.id))
+                ret_nodes.push(node);
             visited.add(id);
-            ret_nodes.push(node);
 
             if (go_up)
                 for (const adj of node.nodes_in) {
@@ -381,7 +522,7 @@ window.addEventListener("DOMContentLoaded", () => {
     function on_window_resize(e) {
         const
             $views = $(".views-wrapper"),
-            $view = $(".view-wrapper");
+            $view = $(".view-wrapper.halfable");
         if ($views.width() >= 1200) {
             $view.addClass("half");
         } else {
@@ -389,8 +530,16 @@ window.addEventListener("DOMContentLoaded", () => {
         }
     }
 
-    function hook_controls() {
+    function hook_link_controls() {
+        $(".squuid-link").on("click", (e) => {
+            const squuid = e.target.getAttribute("data-squuid");
+            selected_node_id = squuid_to_node_id[squuid];
+            render_object_by_node_id(selected_node_id);
+            update_network();
+        });
+    }
 
+    function hook_controls() {
         let _timeout = null;
         function update_throttled() {
             if (_timeout)
@@ -403,6 +552,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
         $search_input.on("input", update_throttled);
         $(window).resize(on_window_resize);
+        hook_link_controls();
     }
 
     on_window_resize();
