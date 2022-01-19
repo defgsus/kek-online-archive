@@ -1,6 +1,4 @@
 {
-  "name": "European Founders Fund GmbH",
-  "squuid": "61e6f799-5753-443a-a115-898ceb2d3114",
   "owns": [
     {
       "type": "own",
@@ -13,6 +11,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Grünwald",
+  "pseudoCompany": false,
+  "street": "Bavariafilmplatz",
+  "name": "Global Founders GmbH",
+  "naturalPerson": false,
+  "squuid": "61e6f799-5753-443a-a115-898ceb2d3114",
+  "controlDate": "2022-01-19T12:51:47.933Z",
+  "streetNumber": "7",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,5 +27,17 @@
       "type": "organization"
     }
   ],
-  "state": "active"
+  "zipcode": "82031",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rocata GmbH",
+        "squuid": "61e809be-a7fc-48a4-84c9-e58c669fe298"
+      },
+      "squuid": "61e809da-1b13-4da6-8f04-39837733b8e5",
+      "state": "active"
+    }
+  ]
 }

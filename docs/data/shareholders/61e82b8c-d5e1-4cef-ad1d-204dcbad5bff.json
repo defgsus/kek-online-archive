@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Wiesbaden",
+  "pseudoCompany": false,
+  "street": "Alwinenstr.",
+  "name": "Deutsche Leichtathletik Marketing GmbH",
+  "naturalPerson": false,
+  "squuid": "61e82b8c-d5e1-4cef-ad1d-204dcbad5bff",
+  "controlDate": "2022-01-19T15:18:59.897Z",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65189",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.leichtathletik.de",
+        "squuid": "61e82b71-e3d5-4e63-89f4-bb7498d2fed2"
+      },
+      "squuid": "61e82bbf-c7ea-44e4-a8c7-2b12f0a41e2b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Deutscher Leichtathletik-Verband (DLV)",
+        "squuid": "61e82ba7-f2db-402a-b1a3-46010d1c68da"
+      },
+      "squuid": "61e82c1c-1ba7-4f47-aea4-12ddac2cf79f",
+      "state": "active"
+    }
+  ]
+}

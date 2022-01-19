@@ -1,12 +1,29 @@
 {
   "name": "Eigenbesitz de S-R GmbH",
   "squuid": "61d585a5-c453-42cd-bd07-45053ec09e3c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 35.9,
+      "held": {
+        "name": "S-R GmbH",
+        "squuid": "5fa031e0-2ae8-47d2-8468-b78e60c50818"
+      },
+      "squuid": "61d585e1-fa47-49e2-8ba2-e4c0bbb6ad4a",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesmedienanstalt Saarland"
     }
   ],
   "state": "active"

@@ -1,0 +1,52 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Rocata GmbH",
+        "squuid": "61e809be-a7fc-48a4-84c9-e58c669fe298"
+      },
+      "squuid": "61e80aa8-8f0f-49b5-bebd-1458dc395cb2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Grünwald",
+  "pseudoCompany": false,
+  "street": "Bavariafilmplatz",
+  "name": "Zerena GmbH",
+  "naturalPerson": false,
+  "squuid": "61e80a84-17e2-43d2-bdcd-83f79377ba99",
+  "controlDate": "2022-01-19T13:00:04.804Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Aramid Stiftung",
+        "squuid": "61e80b1f-3ad5-4cac-8b97-c5b703621fc2"
+      },
+      "squuid": "61e80b63-7507-4fdf-b10c-cfe5454e1c5f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Oliver Samwer Familienstiftung",
+        "squuid": "61e80b2f-73c6-4df4-bbaa-2e5b94101f4d"
+      },
+      "squuid": "61e80b71-0fa5-4df8-be89-1d40a6e6b776",
+      "state": "active"
+    }
+  ]
+}

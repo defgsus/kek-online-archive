@@ -2,12 +2,29 @@
   "name": "Linnenbach, Erwin",
   "pseudoCompany": false,
   "squuid": "5be1a6b6-4dca-4ba9-8b89-76a814b4a45a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "masqueradio GmbH",
+        "squuid": "61bb3bcb-b8d9-499e-8e96-34fa8e8aee18"
+      },
+      "squuid": "61e69dbb-73e6-4570-b424-4839861c46cb",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active",

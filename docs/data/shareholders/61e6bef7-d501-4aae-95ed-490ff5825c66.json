@@ -1,19 +1,4 @@
 {
-  "name": "Happy Ventures GmbH",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Kohl, Dr. Ulrich",
-        "squuid": "5be1a6b6-5d2e-4555-8630-4b048d05faf3"
-      },
-      "squuid": "61e6c02f-a8fb-4473-9f04-cc45165655a0",
-      "state": "active"
-    }
-  ],
-  "squuid": "61e6bef7-d501-4aae-95ed-490ff5825c66",
   "owns": [
     {
       "type": "own",
@@ -26,6 +11,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Horandweg",
+  "name": "Happy Ventures GmbH",
+  "naturalPerson": false,
+  "squuid": "61e6bef7-d501-4aae-95ed-490ff5825c66",
+  "controlDate": "2022-01-19T16:17:08.008Z",
+  "streetNumber": "28",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -38,6 +32,17 @@
       "type": "organization"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "zipcode": "13465",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kohl, Dr. Ulrich",
+        "squuid": "5be1a6b6-5d2e-4555-8630-4b048d05faf3"
+      },
+      "squuid": "61e6c02f-a8fb-4473-9f04-cc45165655a0",
+      "state": "active"
+    }
+  ]
 }

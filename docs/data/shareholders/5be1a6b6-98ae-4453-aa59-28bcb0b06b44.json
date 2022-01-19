@@ -12,10 +12,15 @@
     }
   ],
   "state": "active",
+  "city": "München",
   "pseudoCompany": false,
+  "street": "Kaiserstr.",
   "name": "Holtzbrinck Ventures GmbH & Co. KG",
   "naturalPerson": false,
+  "limitedPartnership": true,
   "squuid": "5be1a6b6-98ae-4453-aa59-28bcb0b06b44",
+  "controlDate": "2022-01-19T12:42:08.327Z",
+  "streetNumber": "14b",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -23,16 +28,28 @@
       "type": "organization"
     }
   ],
+  "zipcode": "80801",
   "credits": "Beschluss der KEK vom 13.06.2017, Az.: KEK 915",
   "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "HV Holtzbrinck Ventures Verwaltungsgesellschaft mbH",
+        "squuid": "61e8069e-1784-467e-bbd4-7c3d0c52417d"
+      },
+      "squuid": "61e80774-aab4-41d0-8988-dbcde392434b",
+      "state": "active"
+    },
     {
       "type": "own",
       "capitalShares": 100.0,
       "holder": {
-        "name": "Georg von Holtzbrinck GmbH & Co. KG",
-        "squuid": "5be1a6b6-3efe-470d-89eb-1d230f00b5fa"
+        "name": "HV Holtzbrinck Ventures Fund IV LP",
+        "squuid": "61e80701-0fcc-46cd-bdb4-71a689b0cd48"
       },
-      "squuid": "5be1a6b8-1343-46b3-9699-8706688d35a0",
+      "squuid": "61e80784-b757-475c-938d-3abeddcf426d",
       "state": "active"
     }
   ]
