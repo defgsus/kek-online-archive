@@ -1,12 +1,35 @@
 {
   "name": "Mediahuis Aachen Holdco GmbH",
   "squuid": "61dda7ba-fef1-44d7-87e4-34d704d3afcb",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Aachener Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-87d8-4698-ba57-cd968b26db74"
+      },
+      "squuid": "61dda7e0-c9a5-4be8-9f55-cb9dbc9fc969",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
   "state": "active"
