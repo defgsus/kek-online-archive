@@ -1,7 +1,6 @@
 import {useDispatch, useSelector} from "react-redux";
 import React from "react";
 import Table from "./Table";
-import {select_squuid} from "../reducers/data";
 
 
 const COLUMNS = [
@@ -15,7 +14,7 @@ const COLUMNS = [
 ];
 
 
-const NodeTable = () => {
+const NodeTable = ({select_squuid}) => {
     const dispatch = useDispatch();
     const
         {graph, rows, selected} = useSelector(state => state.data)
@@ -40,7 +39,7 @@ const NodeTable = () => {
                 rows={rows}
                 defaultOrder={"-out_degree"}
                 highlightRow={row => row.name === selected.squuid}
-                onRowClick={row => dispatch(select_squuid(row.name))}
+                onRowClick={row => select_squuid(row.name)}
             />
         </div>
     );

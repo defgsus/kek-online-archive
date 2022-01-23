@@ -5,13 +5,13 @@ import "./ObjectView.scss"
 
 export const RELATION_TYPE_MAPPING = {
     "partners": {
-        title: "complementary partners",
+        title: "partners (owners)",
         array_name: "ownedBy",
         relation_name: "holder",
         filter: rel => !!rel.complementaryPartner,
     },
     "partners2": {
-        title: "complementary partners",
+        title: "partners (owned)",
         array_name: "owns",
         relation_name: "held",
         filter: rel => !!rel.complementaryPartner,
@@ -42,7 +42,6 @@ export const RELATION_TYPE_MAPPING = {
 
 const get_object_relations = ({
     object_data, relation_type, level, object_map, required_set,
-    set_relation_level
 }) => {
     const descriptor = RELATION_TYPE_MAPPING[relation_type];
     let relations = null;
@@ -90,9 +89,8 @@ const get_object_relations = ({
 };
 
 
-const ObjectRelations = ({object_data, relation_type, select_squuid, level, set_relation_level}) => {
-    if (relation_type === undefined)
-        return null;
+const ObjectRelations = ({object_data, relation_type, select_squuid, level, threshold,
+                             set_relation_level, set_relation_threshold}) => {
 
     const dispatch = useDispatch();
     const
@@ -122,19 +120,39 @@ const ObjectRelations = ({object_data, relation_type, select_squuid, level, set_
     const relations_rendered = new Set();
     return (
         <div className={"relations"}>
-            <div className={"relation-name"}>
-                {RELATION_TYPE_MAPPING[relation_type].title}
-                <input
-                    type={"number"}
-                    value={level}
-                    min={1}
-                    title={"Change number of levels to display"}
-                    onChange={e => set_relation_level(parseInt(e.target.value))}
-                />
+            <div className={"relation-head grid-x"}>
+                <div className={"relation-name grow"}>
+                    {RELATION_TYPE_MAPPING[relation_type].title}
+                </div>
+                <div>
+                    <label>
+                        levels
+                        <input
+                            type={"number"}
+                            value={level}
+                            min={1}
+                            title={"Change number of levels to display"}
+                            onChange={e => set_relation_level(parseInt(e.target.value))}
+                        />
+                    </label>
+                    <label>
+                        threshold
+                        <input
+                            type={"number"}
+                            value={threshold}
+                            min={0}
+                            step={10}
+                            title={"Threshold to limit the relations according to the shares amount"}
+                            onChange={e => set_relation_threshold(e.target.value)}
+                        />
+                    </label>
+                </div>
             </div>
+
             <ObjectRelationsList
                 relations={relations}
                 relations_rendered={relations_rendered}
+                threshold={threshold}
                 select_squuid={select_squuid}
             />
         </div>
@@ -144,10 +162,20 @@ const ObjectRelations = ({object_data, relation_type, select_squuid, level, set_
 export default ObjectRelations;
 
 
-const ObjectRelationsList = ({relations, select_squuid, relations_rendered}) => {
+const ObjectRelationsList = ({relations, select_squuid, relations_rendered, threshold}) => {
+
+    const filtered_relations = relations.filter(rel => {
+        if (rel.shares === null)
+            return true;
+        return rel.shares >= threshold;
+    });
+
+    if (!filtered_relations.length)
+        return null;
+
     return (
         <ul>
-            {relations.map((rel, i) => {
+            {filtered_relations.map((rel, i) => {
                 const content = (
                     <li key={i}>
                         {rel.shares !== null
@@ -162,6 +190,7 @@ const ObjectRelationsList = ({relations, select_squuid, relations_rendered}) => 
                                     relations={rel.relations}
                                     relations_rendered={relations_rendered}
                                     select_squuid={select_squuid}
+                                    threshold={threshold}
                                   />
                             : null
                         }

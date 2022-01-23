@@ -1,0 +1,21 @@
+.header {
+  background: var(--bg-color-highlight);
+  padding: .5rem;
+  margin-bottom: .5rem;
+
+  .title {
+    font-size: 1.33rem;
+  }
+
+  .back {
+    margin-right: .5rem;
+    font-size: 1.2rem;
+    padding: .1rem;
+    border-radius: .5rem;
+    cursor: pointer;
+    &:hover {
+      background: var(--color);
+      color: var(--bg-color-highlight);
+    }
+  }
+}

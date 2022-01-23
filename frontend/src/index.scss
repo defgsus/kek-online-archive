@@ -7,6 +7,7 @@
   --bg-color-light2: #666;
   --bg-color-selected: #4b5758;
   --bg-color-error: #533;
+  --bg-color-highlight: #3d5562;
 
   --color: #eee;
   --color-error: #fbb;
@@ -18,6 +19,8 @@ body {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
   background: var(--bg-color);
   color: var(--color);
+  padding: 0;
+  margin: 0;
 }
 
 a {

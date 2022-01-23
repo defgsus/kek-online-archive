@@ -76,7 +76,7 @@ export default reducer;
 
 const fetch_graph = () => async (dispatch) => {
     dispatch(actions.graph_started());
-    fetch(`data/graph.dot`)
+    fetch(`/data/graph.dot`)
         .then(response => response.text())
         .then(dot_string => {
             try {
@@ -129,7 +129,7 @@ const fetch_graph = () => async (dispatch) => {
 
 const fetch_object = (path, squuid) => async (dispatch) => {
     dispatch(actions.object_started({path, squuid}));
-    fetch(`data/${path}/${squuid}.json`)
+    fetch(`/data/${path}/${squuid}.json`)
         .then(response => response.json())
         .then(data => { dispatch(actions.object_finished({path, squuid, data: data})); return data;})
         .catch(error => dispatch(actions.object_failed({path, squuid, error: error.message || error})))

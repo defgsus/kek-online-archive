@@ -1,6 +1,6 @@
 .object-wrapper {
-  max-height: 40rem;
-  overflow: scroll;
+  //max-height: 40rem;
+  //overflow: scroll;
   background: var(--bg-color-dark1);
   border-radius: 1rem;
 
@@ -50,12 +50,21 @@
     .relations {
       margin-top: 1rem;
 
-      .relation-name {
-        font-weight: bold;
+      .relation-head {
+        background: var(--bg-color-dark2);
+        padding: .3rem;
+        border-radius: .3rem;
+        min-width: 40rem;
+        max-width: 70rem;
+
+        .relation-name {
+          font-weight: bold;
+        }
 
         input {
           max-width: 3rem;
           margin-left: .5rem;
+          margin-right: .7rem;
         }
       }
 

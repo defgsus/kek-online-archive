@@ -1,7 +1,10 @@
-import React, {useEffect, useState} from "react"
+import React, { useEffect, useState } from "react"
 import { useDispatch, useSelector } from "react-redux"
+import {useLocation, useMatch} from "react-router";
 import { fetch_object } from "../reducers/data"
+import { set_show_json, set_relation_level, set_relation_threshold } from "../reducers/object_view";
 import ObjectRelations, { RELATION_TYPE_MAPPING } from "./ObjectRelations";
+import Header from "./Header";
 import "./ObjectView.scss"
 
 
@@ -74,14 +77,17 @@ const KEY_VALUE_MAPPING = {
 };
 
 
-const ObjectView = ({squuid, select_squuid}) => {
-    const dispatch = useDispatch();
+const ObjectView = ({select_squuid}) => {
     const
+        dispatch = useDispatch(),
         object_map = useSelector(state => state.data.object_map),
-        graph = useSelector(state => state.data.graph);
+        graph = useSelector(state => state.data.graph),
+        //location = useLocation(),
+        match = useMatch("/object/:squuid"),
+        squuid = match.params.squuid;
 
     useEffect(() => {
-        if (squuid && graph && graph.node_map[squuid] && !object_map[squuid]) {
+        if (squuid && graph && graph.node_map && graph.node_map[squuid] && !object_map[squuid]) {
             const type = graph.node_map[squuid].type;
             dispatch(fetch_object(type === "shareholder" ? "shareholders" : "media", squuid));
         }
@@ -90,10 +96,10 @@ const ObjectView = ({squuid, select_squuid}) => {
     let content = null;
 
     let obj = object_map[squuid];
-    if (!squuid || !obj) {
+    if (!squuid) {
         content = null;
     }
-    else if (obj.loading) {
+    else if (!graph || !graph.node_map || !obj || obj.loading) {
         content = (
             <div>
                 LOADING {squuid}...
@@ -113,57 +119,63 @@ const ObjectView = ({squuid, select_squuid}) => {
         if (data.errors && data.value)
             data = data.value;
         content = (
-            <ObjectDetails data={data} select_squuid={select_squuid}/>
+            <ObjectDetails detailData={data} select_squuid={select_squuid}/>
         );
     }
 
     return (
-        <div className={"object-wrapper"}>
-            {content}
-        </div>
+        <>
+            <Header/>
+            <div className={"object-wrapper"}>
+                {content}
+            </div>
+        </>
     )
 };
 
 export default ObjectView
 
 
-const ObjectDetails = ({data, select_squuid}) => {
+const ObjectDetails = ({detailData, select_squuid}) => {
 
-    const [relation_levels, set_relation_levels] = useState({});
+    const
+        dispatch = useDispatch(),
+        {relation_levels, show_json,
+         relation_thresholds} = useSelector(state => state.object_view);
 
     let kek_url = null;
     let icon = "";
     let type;
-    if (!data.type) {
+    if (!detailData.type) {
         type = "shareholder";
-        icon = data.naturalPerson ? "😃" : "🏛";
-        kek_url = `https://www.kek-online.de/medienkonzentration/mediendatenbank#/profile/shareholder/${data.squuid}`;
+        icon = detailData.naturalPerson ? "😃" : "🏛";
+        kek_url = `https://www.kek-online.de/medienkonzentration/mediendatenbank#/profile/shareholder/${detailData.squuid}`;
     } else {
-        type = data.type;
-        icon = TYPE_ICON_MAPPING[data.type] || "❓";
-        kek_url = `https://www.kek-online.de/medienkonzentration/mediendatenbank#/profile/media/${data.squuid}`;
+        type = detailData.type;
+        icon = TYPE_ICON_MAPPING[detailData.type] || "❓";
+        kek_url = `https://www.kek-online.de/medienkonzentration/mediendatenbank#/profile/media/${detailData.squuid}`;
     }
     const color = TYPE_COLOR_MAPPING[type][1];
 
     const _render_address = () => {
         let address = [];
-        if (data.corporationName)
-            address.push(data.corporationName);
-        if (data.co)
-            address.push(data.co);
-        if (data.rfAddress) {
-            address = address.concat(data.rfAddress.split("\n"));
+        if (detailData.corporationName)
+            address.push(detailData.corporationName);
+        if (detailData.co)
+            address.push(detailData.co);
+        if (detailData.rfAddress) {
+            address = address.concat(detailData.rfAddress.split("\n"));
         } else {
-            if (data.street) {
-                let line = data.street;
-                if (data.streetNumber)
-                    line = `${line} ${data.streetNumber}`;
+            if (detailData.street) {
+                let line = detailData.street;
+                if (detailData.streetNumber)
+                    line = `${line} ${detailData.streetNumber}`;
                 address.push(line);
             }
-            if (data.city) {
-                let line = data.city;
-                if (data.zipcode)
-                    line = `${data.zipcode} ${line}`;
+            if (detailData.city) {
+                let line = detailData.city;
+                if (detailData.zipcode)
+                    line = `${detailData.zipcode} ${line}`;
                 address.push(line);
             }
         }
@@ -180,8 +192,8 @@ const ObjectDetails = ({data, select_squuid}) => {
     const _render_values = () => {
         const values = [];
         for (const key of Object.keys(KEY_VALUE_MAPPING)) {
-            if (data[key] !== undefined) {
-                let value = data[key],
+            if (detailData[key] !== undefined) {
+                let value = detailData[key],
                     desc = KEY_VALUE_MAPPING[key];
 
                 if (typeof value === "boolean")
@@ -196,7 +208,7 @@ const ObjectDetails = ({data, select_squuid}) => {
         return (
             <div className={"grid-x key-values"}>
                 {values.map((value, i) => (
-                    <div>
+                    <div key={i}>
                         <div className={"key"}>{value[0]}</div>
                         <div className={"value"}>{value[1]}</div>
                     </div>
@@ -209,7 +221,7 @@ const ObjectDetails = ({data, select_squuid}) => {
         <div>
             <div className={"grid-x nowrap heading-wrapper"}>
                 <div className={"grow heading"}>
-                    <span style={{color}}>{icon}</span> {data.name || "-no name"}
+                    <span style={{color}}>{icon}</span> {detailData.name || "-no name"}
                 </div>
                 <div>
                     <a href={kek_url} target={"_blank"}>↗ kek-online.de</a>
@@ -223,22 +235,31 @@ const ObjectDetails = ({data, select_squuid}) => {
                 {Object.keys(RELATION_TYPE_MAPPING).map((relation_type, i) => (
                     <ObjectRelations
                         key={relation_type}
-                        object_data={data}
+                        object_data={detailData}
                         relation_type={relation_type}
                         level={relation_levels[relation_type] || 1}
+                        threshold={relation_thresholds[relation_type] || 0}
                         select_squuid={select_squuid}
-                        set_relation_level={level => {
-                            set_relation_levels({
-                                ...relation_levels,
-                                [relation_type]: level,
-                            });
-                        }}
+                        set_relation_level={
+                            level => dispatch(set_relation_level({relation_type, level}))
+                        }
+                        set_relation_threshold={
+                            threshold => dispatch(set_relation_threshold({relation_type, threshold}))
+                        }
                     />
                 ))}
 
                 {_render_values()}
 
-                {/*<pre>{JSON.stringify(data, null, 2)}</pre>*/}
+                <label>
+                    <input
+                        type={"checkbox"}
+                        checked={show_json}
+                        onChange={() => dispatch(set_show_json(!show_json))}
+                    /> <code>json data</code>
+                </label>
+
+                {!show_json ? null : <pre>{JSON.stringify(detailData, null, 2)}</pre>}
             </div>
         </div>
     )
