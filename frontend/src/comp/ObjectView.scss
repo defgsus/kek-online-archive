@@ -47,6 +47,16 @@
       color: var(--link-color);
     }
 
+    .sub-heading {
+      font-weight: bold;
+      background: var(--bg-color-dark2);
+      padding: .3rem;
+      margin-bottom: .5rem;
+      border-radius: .3rem;
+      min-width: 40rem;
+      max-width: 70rem;
+    }
+
     .relations {
       margin-top: 1rem;
 

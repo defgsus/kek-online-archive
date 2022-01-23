@@ -205,15 +205,21 @@ const ObjectDetails = ({detailData, select_squuid}) => {
                     values.push([desc.title, desc.func(value)]);
             }
         }
+        if (!values.length)
+            return null;
+
         return (
-            <div className={"grid-x key-values"}>
-                {values.map((value, i) => (
-                    <div key={i}>
-                        <div className={"key"}>{value[0]}</div>
-                        <div className={"value"}>{value[1]}</div>
-                    </div>
-                ))}
-            </div>
+            <>
+                <div className={"sub-heading"}>data</div>
+                <div className={"grid-x key-values"}>
+                    {values.map((value, i) => (
+                        <div key={i}>
+                            <div className={"key"}>{value[0]}</div>
+                            <div className={"value"}>{value[1]}</div>
+                        </div>
+                    ))}
+                </div>
+            </>
         )
     };
 
