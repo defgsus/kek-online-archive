@@ -131,7 +131,7 @@ const fetch_object = (path, squuid) => async (dispatch) => {
     dispatch(actions.object_started({path, squuid}));
     fetch(`data/${path}/${squuid}.json`)
         .then(response => response.json())
-        .then(data => dispatch(actions.object_finished({path, squuid, data: data})))
+        .then(data => { dispatch(actions.object_finished({path, squuid, data: data})); return data;})
         .catch(error => dispatch(actions.object_failed({path, squuid, error: error.message || error})))
 };
 

@@ -1,9 +1,10 @@
 import React, {useEffect} from "react";
 import ObjectView from "./ObjectView";
-import {fetch_graph} from "../reducers/data";
+import {fetch_graph, select_squuid} from "../reducers/data";
 import {useDispatch, useSelector} from "react-redux";
 import NodeTable from "./NodeTable";
 import Search from "./Search";
+import ErrorBoundary from "./ErrorBoundary";
 
 
 const App = () => {
@@ -20,9 +21,17 @@ const App = () => {
     return (
         <div>
             <div>What the heck</div>
-            <Search/>
-            <NodeTable/>
-            <ObjectView squuid={selected.squuid} type={selected.type}/>
+            <ErrorBoundary>
+                <ObjectView
+                    squuid={selected.squuid}
+                    select_squuid={squuid => dispatch(select_squuid(squuid))}
+                />
+            </ErrorBoundary>
+
+            <ErrorBoundary>
+                <Search/>
+                <NodeTable/>
+            </ErrorBoundary>
         </div>
     );
 };

@@ -6,8 +6,10 @@
   --bg-color-light1: #555;
   --bg-color-light2: #666;
   --bg-color-selected: #4b5758;
+  --bg-color-error: #533;
 
   --color: #eee;
+  --color-error: #fbb;
   --link-color: #9aaad9;
   --link-active-color: #7462f4;
 }
@@ -20,7 +22,11 @@ body {
 
 a {
   color: var(--link-color);
+  text-decoration: none;
 
+  &:hover {
+    text-decoration: underline;
+  }
   &:active {
     color: var(--link-active-color);
   }
@@ -47,3 +53,36 @@ button {
   }
 }
 
+
+.grid-x {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  &.nowrap {
+    flex-wrap: nowrap;
+  }
+
+  &.inline {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  &.margin-right > * {
+    margin-right: .5rem;
+  }
+
+  &.margin-bottom > * {
+    margin-bottom: .5rem;
+  }
+
+  & > .grow {
+    flex-grow: 1000;
+  }
+
+}
+
+.error {
+  background: var(--bg-color-error);
+  color: var(--color-error);
+}

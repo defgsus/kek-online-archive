@@ -1,0 +1,67 @@
+.object-wrapper {
+  max-height: 40rem;
+  overflow: scroll;
+  background: var(--bg-color-dark1);
+  border-radius: 1rem;
+
+  .heading-wrapper {
+    padding: .5rem;
+    background: var(--bg-color-light1);
+
+    .heading {
+      font-size: 1.33rem;
+    }
+  }
+
+
+  .object {
+
+    padding: 1rem;
+
+    pre {
+      white-space: pre-wrap;
+    }
+
+    .address {
+      font-style: italic;
+      margin-bottom: .5rem;
+    }
+
+    .key-values {
+      > div {
+        margin-right: .6rem;
+        margin-bottom: .3rem;
+        border-left: 1px solid #ccc;
+        padding-left: .3rem;
+        max-width: 33%;
+        flex-grow: 1;
+      }
+
+      .value {
+        font-weight: bold;
+      }
+    }
+
+    .object-link {
+      cursor: pointer;
+      color: var(--link-color);
+    }
+
+    .relations {
+      margin-top: 1rem;
+
+      .relation-name {
+        font-weight: bold;
+
+        input {
+          max-width: 3rem;
+          margin-left: .5rem;
+        }
+      }
+
+      ul {
+        margin-top: .1rem;
+      }
+    }
+  }
+}
