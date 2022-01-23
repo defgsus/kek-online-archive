@@ -1,8 +1,7 @@
 import Search from "./Search";
 import NodeTable from "./NodeTable";
-import VisNetwork from "./VisNetwork";
-import { DataSet } from "vis-data";
-import { useState } from "react";
+import VisNetwork, { clear_network_data, add_network_data } from "./VisNetwork";
+import { useEffect, useState } from "react";
 import { useSelector } from "react-redux";
 import { TYPE_COLOR_MAPPING } from "../conf";
 
@@ -10,41 +9,23 @@ import { TYPE_COLOR_MAPPING } from "../conf";
 const NetworkView = () => {
     const {graph} = useSelector(state => state.data);
     const [selected_squuid, set_selected_squuid] = useState(null);
-    const [network_data, set_network_data] = useState({nodes: new DataSet(), edges: new DataSet()});
-    const [existing_nodes, set_existing_nodes] = useState(new Set());
-    const [existing_edges, set_existing_edges] = useState({});
 
     const select_squuid = squuid => {
         set_selected_squuid(squuid);
         if (graph && graph.node_map) {
             const
                 edges = to_vis_edges(graph.node_map[squuid]),
-                node = to_vis_node(graph.node_map[squuid]);
-
-            if (!existing_nodes.has(squuid)) {
-                existing_nodes.add(squuid);
-                network_data.nodes.add(node);
-            }
+                nodes = [to_vis_node(graph.node_map[squuid])];
 
             for (const edge of edges) {
                 for (const node_id of [edge.from, edge.to]) {
-                    const node_squuid = graph.node_id_to_squuid[node_id];
-
-                    if (!existing_nodes.has(node_squuid)) {
-                        const node = to_vis_node(graph.node_map[node_squuid]);
-                        existing_nodes.add(node_squuid);
-                        network_data.nodes.add(node);
-                    }
-
-                    if (!existing_edges[edge.from])
-                        existing_edges[edge.from] = new Set();
-                }
-
-                if (!existing_edges[edge.from].has(edge.to)) {
-                    network_data.edges.add(edge);
-                    existing_edges[edge.from].add(edge.to);
+                    const
+                        node_squuid = graph.node_id_to_squuid[node_id],
+                        node = to_vis_node(graph.node_map[node_squuid]);
+                    nodes.push(node);
                 }
             }
+            add_network_data(nodes, edges);
         }
     };
 
@@ -56,7 +37,6 @@ const NetworkView = () => {
     return (
         <div className={"network-view"}>
             <VisNetwork
-                network_data={network_data}
                 on_node_click={on_node_click}
             />
             <Search/>
