@@ -1,7 +1,6 @@
 import { Network } from "vis-network";
 import { DataSet } from "vis-data";
 import { useEffect, useRef, useState } from "react";
-import "./VisNetwork.scss"
 
 
 const VisNetwork = ({on_node_click}) => {
@@ -72,7 +71,12 @@ const create_vis_network = (element, data) => {
                 }
             },
             physics: {
-                enabled: true,
+                barnesHut: {
+                    //springLength: 200,
+                },
+                stabilization: {
+                    iterations: 300,
+                }
             }
         }
     );
@@ -97,7 +101,7 @@ const clear_network_data = () => {
     global_network_data.existing_edges = {};
 };
 
-const add_network_data = (nodes, edges) => {
+const add_network_data = (nodes, edges, selection=null) => {
     setTimeout(() => {
         for (const node of nodes) {
             if (!global_network_data.existing_nodes.has(node.id)) {
@@ -114,7 +118,16 @@ const add_network_data = (nodes, edges) => {
                 global_network_data.edges.add(edge);
             }
         }
+        if (selection) {
+            global_network.setSelection(selection);
+        }
     }, 100);
 };
 
-export { clear_network_data, add_network_data };
+const set_network_selection = (nodes) => {
+    global_network.setSelection(nodes);
+};
+
+export { clear_network_data, add_network_data, set_network_selection };
+
+window.network_data = global_network_data;

@@ -1,0 +1,15 @@
+.network-view {
+
+  .vis-network {
+    background: var(--bg-color-dark1);
+  }
+
+  .panel {
+    margin: .33rem;
+
+    button {
+      display: block;
+      margin-bottom: .3rem;
+    }
+  }
+}
