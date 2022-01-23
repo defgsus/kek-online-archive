@@ -14,10 +14,10 @@ const COLUMNS = [
 ];
 
 
-const NodeTable = ({select_squuid}) => {
+const NodeTable = ({select_squuid, selected_squuid}) => {
     const dispatch = useDispatch();
     const
-        {graph, rows, selected} = useSelector(state => state.data)
+        {graph, rows} = useSelector(state => state.data)
     ;
 
     if (!graph || graph.loading) {
@@ -38,7 +38,7 @@ const NodeTable = ({select_squuid}) => {
                 columns={COLUMNS}
                 rows={rows}
                 defaultOrder={"-out_degree"}
-                highlightRow={row => row.name === selected.squuid}
+                highlightRow={row => row.name === selected_squuid}
                 onRowClick={row => select_squuid(row.name)}
             />
         </div>

@@ -9,10 +9,6 @@ const initialState = {
         query: "",
     },
     rows: [],
-    selected: {
-        squuid: null,
-        type: null,
-    },
 };
 
 export const dataSlice = createSlice({
@@ -32,7 +28,7 @@ export const dataSlice = createSlice({
         },
         graph_finished: (state, action) => {
             state.graph = action.payload;
-            state.rows = filter_rows(state.graph.vis.nodes, state.filter);
+            state.rows = filter_rows(state.graph.node_map, state.filter);
         },
 
         object_started: (state, action) => {
@@ -55,21 +51,15 @@ export const dataSlice = createSlice({
 
         set_query: (state, action) => {
             state.filter.query = action.payload;
-            state.rows = filter_rows(state.graph.vis.nodes, state.filter);
+            state.rows = filter_rows(state.graph.node_map, state.filter);
         },
 
-        select_squuid: (state, action) => {
-            state.selected = {
-                squuid: action.payload,
-                type: state.graph.node_map[action.payload].type,
-            };
-        }
     },
 });
 
 const { actions, reducer } = dataSlice;
 
-export const { set_query, select_squuid } = actions;
+export const { set_query } = actions;
 
 export default reducer;
 
@@ -96,8 +86,6 @@ const fetch_graph = () => async (dispatch) => {
             const graph = {
                 fetched: true,
                 dot: dot_string,
-                // visjs compatible {nodes: [], edges: []}
-                vis: vis_data,
                 // squuid -> node
                 node_map: {},
                 // id -> squuid
@@ -115,8 +103,8 @@ const fetch_graph = () => async (dispatch) => {
                 const
                     n1 = graph.node_map[graph.node_id_to_squuid[edge.from]],
                     n2 = graph.node_map[graph.node_id_to_squuid[edge.to]];
-                n1.nodes_out.push({squuid: n2.squuid, id: n2.id, weight: edge.weight});
-                n2.nodes_in.push({squuid: n1.squuid, id: n1.id, weight: edge.weight});
+                n1.nodes_out.push({squuid: n2.squuid, id: n2.id, weight: edge.weight, type: n1.type});
+                n2.nodes_in.push({squuid: n1.squuid, id: n1.id, weight: edge.weight, type: n2.type});
             }
             dispatch(actions.graph_finished(graph))
         })
@@ -138,10 +126,11 @@ const fetch_object = (path, squuid) => async (dispatch) => {
 export { fetch_object, fetch_graph }
 
 
-const filter_rows = (all_rows, filter) => {
+const filter_rows = (node_map, filter) => {
     const search_query = filter.query.toLowerCase();
     const rows = [];
-    for (const node of all_rows) {
+    for (const squuid of Object.keys(node_map)) {
+        const node = node_map[squuid];
         if (node["label_lower"].indexOf(search_query) < 0)
             continue;
         rows.push(node);

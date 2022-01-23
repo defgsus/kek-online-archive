@@ -4,24 +4,11 @@ import {useLocation, useMatch} from "react-router";
 import { fetch_object } from "../reducers/data"
 import { set_show_json, set_relation_level, set_relation_threshold } from "../reducers/object_view";
 import ObjectRelations, { RELATION_TYPE_MAPPING } from "./ObjectRelations";
+import { TYPE_COLOR_MAPPING, TYPE_ICON_MAPPING } from "../conf";
 import Header from "./Header";
 import "./ObjectView.scss"
 
 
-const TYPE_COLOR_MAPPING = {
-    "shareholder": ["#777", "#ccc"],
-    "radio": ["#986", "#dc9"],
-    "online": ["#689", "#9cd"],
-    "print": ["#698", "#9dc"],
-    "tv": ["#965", "#da9"],
-};
-
-const TYPE_ICON_MAPPING = {
-    "radio": "📻",
-    "online": "🕸",
-    "print": "🕮",
-    "tv": "🖵",
-};
 
 const KEY_VALUE_MAPPING = {
     controlDate: "control date",
