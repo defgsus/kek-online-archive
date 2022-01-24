@@ -1,12 +1,29 @@
 {
   "name": "Drechsel, Maximilian Graf von",
   "squuid": "61e6997f-33f7-43bb-bf38-7b9ea8d5636e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Domus Holding GmbH",
+        "squuid": "61e040ad-1576-43da-a882-c228b179b6db"
+      },
+      "squuid": "61e69995-1f0a-47a2-bd1e-1762c703a353",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "state": "active"

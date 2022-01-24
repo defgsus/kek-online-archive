@@ -43792,6 +43792,30 @@
   },
   {
     "state": "active",
+    "squuid": "61ee90c5-ec56-4117-8ce7-73e411ae4031",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.mytvmovie.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-01-24T11:43:12.728Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "5d35c848-afdb-45e3-b331-e69518a7df10",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -43947,6 +43971,26 @@
     "pressKind": "Wissen"
   },
   {
+    "pressPublishingIntervals": 26,
+    "state": "active",
+    "squuid": "61ee91ea-550e-4577-9dd3-9a0d03d76431",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "TV Movie Stream XXL",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2022-01-24T11:48:09.403Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Programm"
+  },
+  {
     "state": "active",
     "squuid": "5f3650f0-253e-4679-a305-d05f1f1cc116",
     "organization": {
@@ -44060,6 +44104,30 @@
     "type": "radio",
     "squuid": "5ce6a01b-15e9-4eaf-99b5-66505bdf30c5",
     "state": "active"
+  },
+  {
+    "state": "active",
+    "squuid": "61ee9437-b4cf-44ab-8729-9d53fae3d165",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.radioholiday.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-01-24T11:57:53.333Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
   },
   {
     "pressPublishingIntervals": 10,
@@ -113334,7 +113402,7 @@
       "type": "organization"
     },
     "rfStatewide": false,
-    "name": "TV-Movie",
+    "name": "TV Movie",
     "type": "print",
     "controlDate": "2021-11-17T15:57:22.931Z",
     "pressKind": "Programm",

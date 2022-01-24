@@ -1,12 +1,29 @@
 {
   "name": "Eishold, Stefan",
   "squuid": "61e69880-44c1-486d-9f63-02dc37de94ec",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Eishold Capital GmbH",
+        "squuid": "61e0408c-1c6e-4ede-8ee6-9147f20a6be2"
+      },
+      "squuid": "61e6989d-4fe6-4154-96ca-5b2514bda56d",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "state": "active"

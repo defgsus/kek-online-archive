@@ -1,12 +1,29 @@
 {
   "name": "GbR Verwaltung",
   "squuid": "61e69c09-a877-4b2a-86fc-e7971e39961e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Verlag \"Die Abendzeitung\" Verwaltungs-GmbH",
+        "squuid": "61e163a3-16ef-402a-974f-2dbb0d80c7f2"
+      },
+      "squuid": "61e69c21-c46b-4d13-93b3-48ea97e63848",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "state": "active"
