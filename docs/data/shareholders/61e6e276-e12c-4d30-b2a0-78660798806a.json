@@ -1,12 +1,29 @@
 {
   "name": "Scherenberg, Dr. Oliver",
   "squuid": "61e6e276-e12c-4d30-b2a0-78660798806a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "DRYMSTRYM TV GmbH",
+        "squuid": "61c1e6dc-1142-48d4-b05c-9f552e15840c"
+      },
+      "squuid": "61e6e6b8-7096-4293-b2b3-1bd26a497e8b",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
   "state": "active"
