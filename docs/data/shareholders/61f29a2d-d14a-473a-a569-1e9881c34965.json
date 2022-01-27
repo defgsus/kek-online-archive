@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Helmholtzstr.",
+  "name": "Achgut Media GmbH",
+  "naturalPerson": false,
+  "squuid": "61f29a2d-d14a-473a-a569-1e9881c34965",
+  "controlDate": "2022-01-27T13:14:15.570Z",
+  "streetNumber": "42",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10587",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.achgut.com",
+        "squuid": "61f29a20-99b4-4bd1-84fa-e1791b4a3747"
+      },
+      "squuid": "61f29a73-a760-4370-9b8c-abdc0005e98f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Broder, Henryk M.",
+        "squuid": "61f29b66-4c31-4e39-a421-0fa7afdbce8c"
+      },
+      "squuid": "61f29bba-51c1-46e8-b1ce-8e401eab8c46",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Maxeimer, Dirk",
+        "squuid": "61f29b7d-2cd9-4752-a3fe-b0e5370a2702"
+      },
+      "squuid": "61f29bca-d490-45e5-ab30-ce44b3860bcd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Nicolay, Fabian",
+        "squuid": "61f29b8b-6e02-4f5f-aa9c-c658b0dc61cc"
+      },
+      "squuid": "61f29bdd-2955-4dcf-ad6e-15a1394f6f1a",
+      "state": "active"
+    }
+  ]
+}

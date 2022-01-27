@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Heidelberg",
+  "pseudoCompany": false,
+  "street": "Im Weiher",
+  "name": "Hüthig GmbH",
+  "naturalPerson": false,
+  "squuid": "61f2a0ba-85ed-4440-a29a-85051545b8eb",
+  "controlDate": "2022-01-27T13:41:38.465Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "69121",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.all-electronics.de",
+        "squuid": "61f2a0ad-b371-4260-a904-7cd9024cdb6c"
+      },
+      "squuid": "61f2a0e7-eaee-4b4f-9443-81edd323b7b6",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Süddeutscher Verlag Hüthig Fachinformationen GmbH",
+        "squuid": "61f2a1b5-f8e6-4940-baee-f38226ebe808"
+      },
+      "squuid": "61f2a1cf-cd67-4c3d-9057-5312f7a62b8a",
+      "state": "active"
+    }
+  ]
+}

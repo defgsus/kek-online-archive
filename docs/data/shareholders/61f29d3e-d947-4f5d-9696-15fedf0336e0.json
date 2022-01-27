@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Zürich (CH)",
+  "pseudoCompany": false,
+  "street": "Hallenstr.",
+  "name": "aeroTELEGRAPH GmbH",
+  "naturalPerson": false,
+  "squuid": "61f29d3e-d947-4f5d-9696-15fedf0336e0",
+  "controlDate": "2022-01-27T13:28:12.392Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.aerotelegraph.com",
+        "squuid": "61f29d2d-665d-443c-927b-ceaa0a1d615a"
+      },
+      "squuid": "61f29d6a-2398-43d5-a758-9584b371bdd3",
+      "state": "active"
+    }
+  ]
+}
