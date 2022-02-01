@@ -2,12 +2,29 @@
   "name": "Kreis Recklinghausen",
   "pseudoCompany": true,
   "squuid": "5f180c87-b3f5-4106-ace1-c46bfae17790",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 76.9,
+      "held": {
+        "name": "Vestische Straßenbahnen GmbH",
+        "squuid": "5be1a6b6-75c9-4c21-b1ca-d8afd33047c6"
+      },
+      "squuid": "61e6a0ee-d282-4841-aee5-320f26b73390",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
   "state": "active",
