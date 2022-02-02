@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Bauverlag BV GmbH",
+        "squuid": "61fa918f-6f5b-4083-ae02-677b60ff1571"
+      },
+      "squuid": "61fa92b2-823e-47af-876a-0401de200421",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Gütersloh",
+  "pseudoCompany": false,
+  "street": "Friedrich-Ebert-Str.",
+  "name": "BFD Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "61fa91a0-d772-40d5-9d6f-55f564d2c70e",
+  "controlDate": "2022-02-02T14:18:49.479Z",
+  "streetNumber": "62",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "33330",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Voss, Julia",
+        "squuid": "61fa91bf-d8c7-4eab-b55f-504514a2b220"
+      },
+      "squuid": "61fa92f6-2f5d-4d2a-ab14-9fe9d6ab66c1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Voss, Michael",
+        "squuid": "61fa91d0-92d2-4b6a-8664-44d095620a17"
+      },
+      "squuid": "61fa9303-38f5-4e7a-96b0-12ae7f7ce7ac",
+      "state": "active"
+    }
+  ]
+}

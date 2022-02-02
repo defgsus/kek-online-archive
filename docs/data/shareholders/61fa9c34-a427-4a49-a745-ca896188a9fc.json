@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Graz (A)",
+  "pseudoCompany": false,
+  "street": "Neupauerweg",
+  "name": "bergfex GmbH",
+  "naturalPerson": false,
+  "squuid": "61fa9c34-a427-4a49-a745-ca896188a9fc",
+  "controlDate": "2022-02-02T15:00:09.809Z",
+  "streetNumber": "30a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "8052",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bergfex.de",
+        "squuid": "61fa9c29-2e9a-4c19-aaeb-1f46f43a0386"
+      },
+      "squuid": "61fa9c61-3818-49fb-b57b-929bb84cbd7f",
+      "state": "active"
+    }
+  ]
+}
