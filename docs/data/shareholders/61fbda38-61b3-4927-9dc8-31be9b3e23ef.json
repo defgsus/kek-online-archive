@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Braubachstr.",
+  "name": "MVB GmbH",
+  "naturalPerson": false,
+  "squuid": "61fbda38-61b3-4927-9dc8-31be9b3e23ef",
+  "controlDate": "2022-02-03T13:39:41.607Z",
+  "streetNumber": "16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60311",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.boersenblatt.net",
+        "squuid": "61fbda0b-1de4-456d-9688-bd8fb13c844b"
+      },
+      "squuid": "61fbdabe-abba-4636-868d-87820236f8f1",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Börsenverein des Deutschen Buchhandels Beteiligungsgesellschaft mbH",
+        "squuid": "61fbda95-03ed-4266-8ee5-59f494897a99"
+      },
+      "squuid": "61fbdb5d-15df-44fc-818b-1f49d1dc8f03",
+      "state": "active"
+    }
+  ]
+}

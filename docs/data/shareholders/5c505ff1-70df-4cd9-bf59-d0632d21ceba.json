@@ -39,6 +39,35 @@
     }
   ],
   "zipcode": "97082",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bigdata-insider.de",
+        "squuid": "61fbd418-2983-4631-a2c7-c5ab3d313a41"
+      },
+      "squuid": "61fbd44e-4fca-4d6b-a06f-96cc22757b0a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blockchain-insider.de",
+        "squuid": "61fbd604-ce3d-4428-815f-086cb751f092"
+      },
+      "squuid": "61fbd629-9866-4fe6-86a2-2a340c5275ac",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cloudcomputing-insider.de",
+        "squuid": "61fbf613-77fb-43b6-b0e6-d90ef7b4b3d2"
+      },
+      "squuid": "61fbf638-9529-42c3-8d21-cdfec9b8a94d",
+      "state": "active"
+    }
+  ],
   "ownedBy": [
     {
       "complementaryPartner": true,

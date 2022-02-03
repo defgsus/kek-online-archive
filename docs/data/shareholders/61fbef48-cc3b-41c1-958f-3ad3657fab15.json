@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "pseudoCompany": false,
+  "street": "Schenkendorfstr.",
+  "name": "Berndt Media Choices Verlag",
+  "naturalPerson": false,
+  "squuid": "61fbef48-cc3b-41c1-958f-3ad3657fab15",
+  "controlDate": "2022-02-03T15:06:53.629Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50733",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.choices.de",
+        "squuid": "61fbeeb0-f85d-4dc0-88da-14a9a3e67e87"
+      },
+      "squuid": "61fbef70-895d-4ede-b0a1-5fd38012d713",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Berndt, Joachim",
+        "squuid": "61fbef35-bd99-4fc5-b9a9-7f426e37a171"
+      },
+      "squuid": "61fbefcc-70d8-4415-a140-8fe8007825d6",
+      "state": "active"
+    }
+  ]
+}
