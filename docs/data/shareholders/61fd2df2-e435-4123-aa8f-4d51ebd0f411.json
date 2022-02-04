@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Neuss",
+  "pseudoCompany": false,
+  "street": "Niederstr.",
+  "name": "DDW Die Deutsche Wirtschaft GmbH",
+  "naturalPerson": false,
+  "squuid": "61fd2df2-e435-4123-aa8f-4d51ebd0f411",
+  "controlDate": "2022-02-04T13:47:17.932Z",
+  "streetNumber": "57",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "41460",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.die-deutsche-wirtschaft.de",
+        "squuid": "61fd2e0e-4213-49a5-93cc-7e56ba178229"
+      },
+      "squuid": "61fd2e34-c699-4390-804e-62b8abac3b8f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Oelmann, Michael",
+        "squuid": "61fd2f1a-e796-4d03-afb4-7efe2360ecc4"
+      },
+      "squuid": "61fd2f2d-948d-4f1d-a643-f09d9a810a5a",
+      "state": "active"
+    }
+  ]
+}
