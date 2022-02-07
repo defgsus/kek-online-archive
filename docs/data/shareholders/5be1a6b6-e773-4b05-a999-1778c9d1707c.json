@@ -3,10 +3,10 @@
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Franz-Mehring-Platz 1",
-  "name": "Neues Deutschland Druckerei und Verlag GmbH",
+  "name": "nd.Genossenschaft eG",
   "naturalPerson": false,
   "squuid": "5be1a6b6-e773-4b05-a999-1778c9d1707c",
-  "controlDate": "2021-11-04T11:43:46.028Z",
+  "controlDate": "2022-02-07T14:56:42.854Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -28,34 +28,12 @@
     {
       "type": "operate",
       "held": {
-        "name": "www.neues-deutschland.de",
+        "name": "www.nd-aktuell.de",
         "squuid": "5be1a6b1-a685-4d94-8bb5-019af9e4623e"
       },
       "squuid": "5be1a6b9-fee5-4e03-81f9-464039b0a669",
       "state": "active"
     }
   ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Föderative Verlags-, Consulting- und Handelsgeselllschaft mbH - FEVAC",
-        "squuid": "5be1a6b6-a144-49b7-9164-62092b42cf23"
-      },
-      "squuid": "5be1a6b8-b0bd-434a-b011-e23d170c59eb",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Communio Beteiligungsgenossenschaft eG",
-        "squuid": "5be1a6b6-e8a5-4503-9bae-7e80e1ec8ad4"
-      },
-      "squuid": "5be1a6b8-da3d-4bf1-9d23-d74c7bca0b64",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
