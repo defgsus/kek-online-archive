@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Heinrich-Brüning-Str.",
+  "name": "dreipunktdrei mediengesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "62028a8c-c77a-4a43-8311-ecc03cd03628",
+  "controlDate": "2022-02-08T15:23:12.351Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53113",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.filmdienst.de",
+        "squuid": "62028a9b-e5a3-400f-9043-f25f9064e017"
+      },
+      "squuid": "62028ac2-0bf8-462b-a30f-ea287fe3d16a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "KNA-Katholische Nachrichten-Agentur GmbH",
+        "squuid": "62028bc9-3583-49b2-a5d2-3dcf4ccbc13a"
+      },
+      "squuid": "62028bed-b488-426b-9fe1-80358d570d53",
+      "state": "active"
+    }
+  ]
+}

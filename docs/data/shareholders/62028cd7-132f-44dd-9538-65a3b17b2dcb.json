@@ -1,0 +1,26 @@
+{
+  "name": "Streubesitz an der KNA GmbH",
+  "pseudoCompany": true,
+  "squuid": "62028cd7-132f-44dd-9538-65a3b17b2dcb",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.65,
+      "held": {
+        "name": "KNA-Katholische Nachrichten-Agentur GmbH",
+        "squuid": "62028bc9-3583-49b2-a5d2-3dcf4ccbc13a"
+      },
+      "squuid": "62028d44-dfa1-4a5e-a585-ca5dda30ad36",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}
