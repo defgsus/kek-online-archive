@@ -1,21 +1,33 @@
 {
-  "state": "active",
-  "city": "Friedberg",
-  "pseudoCompany": false,
-  "street": "Bismarckstraße 24",
-  "name": "Frankfurt Business Media GmbH",
-  "naturalPerson": false,
-  "squuid": "5be1a6b6-2e7d-4005-98f8-b8cee474afc5",
-  "controlDate": "2020-06-08T09:17:00.623Z",
-  "organizations": [
+  "owns": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "type": "own",
+      "capitalShares": 25.1,
+      "held": {
+        "name": "Passion4Business GmbH",
+        "squuid": "6203ecac-e5c8-4902-b1d3-f60d3cd73071"
+      },
+      "squuid": "6203eef1-4c2e-4e33-aec0-343f144881db",
+      "state": "active"
     }
   ],
-  "zipcode": "61169",
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Frankenallee",
+  "name": "F.A.Z. Business Media GmbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-2e7d-4005-98f8-b8cee474afc5",
+  "controlDate": "2022-02-09T16:51:37.021Z",
+  "streetNumber": "71-81",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60327",
   "credits": "IJK",
   "ownedBy": [
     {
