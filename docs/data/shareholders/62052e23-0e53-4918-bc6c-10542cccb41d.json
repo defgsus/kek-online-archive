@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Vahrenwalder Str.",
+  "name": "Hannover.de Internet GmbH",
+  "naturalPerson": false,
+  "squuid": "62052e23-0e53-4918-bc6c-10542cccb41d",
+  "controlDate": "2022-02-10T15:29:39.477Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30165",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hannover.de",
+        "squuid": "62052e30-f529-4649-8d6b-fa224979e74d"
+      },
+      "squuid": "62052f3d-c21d-46ec-a9b6-6ac2e049f294",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Landeshauptstadt Hannover",
+        "squuid": "6205303f-b60f-4f9f-a55d-46c17a6dbf34"
+      },
+      "squuid": "62053094-c199-44bf-b0b4-cbfba1968b51",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Region Hannover",
+        "squuid": "62053049-f562-4667-9fdc-814a0c23f6e0"
+      },
+      "squuid": "620530a7-61cc-4bb4-8425-d10fbceb59b6",
+      "state": "active"
+    }
+  ]
+}

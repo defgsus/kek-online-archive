@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Im Medienpark",
+  "name": "Golf Post AG",
+  "naturalPerson": false,
+  "squuid": "62050c68-57b6-4a97-a7fc-aa783d1f9f83",
+  "controlDate": "2022-02-10T13:01:47.435Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50670",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.golfpost.de",
+        "squuid": "62050c5d-46f0-4216-bd78-55e6fe143726"
+      },
+      "squuid": "62050c95-b8e3-43cd-bd5c-8bff51d1dd0c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Gräf, Lorenz",
+        "squuid": "62050e2f-a5ef-4c80-bc98-4a10063e5669"
+      },
+      "squuid": "62050e41-efbe-4e9b-96ac-6ecc43c5a38d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Gräf, Matthias",
+        "squuid": "62050e24-9a8a-4e73-b77a-3e7f14e1451f"
+      },
+      "squuid": "62050e4d-b56a-4208-a7f6-b38afe3cc56c",
+      "state": "active"
+    }
+  ]
+}

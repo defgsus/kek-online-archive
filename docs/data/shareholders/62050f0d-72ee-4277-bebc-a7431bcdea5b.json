@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Baden-Baden",
+  "pseudoCompany": false,
+  "street": "Hardstaffeln",
+  "name": "Frietsch Milke GbR",
+  "naturalPerson": false,
+  "squuid": "62050f0d-72ee-4277-bebc-a7431bcdea5b",
+  "controlDate": "2022-02-10T13:13:46.819Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "76530",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.goodnews4.de",
+        "squuid": "62050ef5-cf3e-4c53-af2a-932f726e20ee"
+      },
+      "squuid": "62050f76-83bd-4fd5-b340-9bc104eca26f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Frietsch, Christian",
+        "squuid": "62050f3d-e2cd-44f8-8605-46850ba83e36"
+      },
+      "squuid": "62050fb9-283f-4431-9355-7eae981c89d8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Milke, Nadja",
+        "squuid": "62050f4d-0f60-471c-8a40-30f397893c9a"
+      },
+      "squuid": "62050fc4-90fd-41e7-a5d2-c3459371c5d8",
+      "state": "active"
+    }
+  ]
+}
