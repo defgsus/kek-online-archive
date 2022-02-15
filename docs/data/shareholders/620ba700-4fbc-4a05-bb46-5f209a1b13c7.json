@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Konrad-Zuse-Platz",
+  "name": "mm medizin + medien Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "620ba700-4fbc-4a05-bb46-5f209a1b13c7",
+  "controlDate": "2022-02-15T13:15:34.099Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81829",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hausarzt.digital",
+        "squuid": "620ba71e-8f19-462f-86ce-3f39e105a1c1"
+      },
+      "squuid": "620ba759-33f8-4fdc-9ebe-a30586890da2",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Deutscher Hausärzteverband e. V.",
+        "squuid": "620ba88e-0380-44b1-b119-c52723adea6a"
+      },
+      "squuid": "620ba8cb-f259-4d39-8655-1c8da771723e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "von Berg, Dr. Monika",
+        "squuid": "620ba8a7-f577-4a60-9b1a-211f3e4a440f"
+      },
+      "squuid": "620ba8db-5410-484e-a308-4ca9f6ff717d",
+      "state": "active"
+    }
+  ]
+}
