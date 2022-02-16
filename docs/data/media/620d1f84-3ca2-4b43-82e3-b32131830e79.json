@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "620d1f84-3ca2-4b43-82e3-b32131830e79",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "ingame GmbH",
+        "squuid": "620d1f9f-f791-4566-bf58-0a12ea51a74d"
+      },
+      "squuid": "620d1fba-3265-4484-8d3c-02b296969d33",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "620d1fc4-44df-4f9c-9e11-19830c7f8717",
+      "state": "active"
+    }
+  ],
+  "name": "www.ingame.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-02-16T16:00:40.677Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

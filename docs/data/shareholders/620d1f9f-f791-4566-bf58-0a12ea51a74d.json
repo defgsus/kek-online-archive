@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Koppel",
+  "name": "ingame GmbH",
+  "naturalPerson": false,
+  "squuid": "620d1f9f-f791-4566-bf58-0a12ea51a74d",
+  "controlDate": "2022-02-16T16:03:13.313Z",
+  "streetNumber": "34-36",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20099",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ingame.de",
+        "squuid": "620d1f84-3ca2-4b43-82e3-b32131830e79"
+      },
+      "squuid": "620d1fba-3265-4484-8d3c-02b296969d33",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ID Metropolen News GmbH",
+        "squuid": "5ecd04cd-1105-41ef-a205-d30dc50f8fbd"
+      },
+      "squuid": "620d20e8-7c7f-42c9-91e7-d645b05c500d",
+      "state": "active"
+    }
+  ]
+}

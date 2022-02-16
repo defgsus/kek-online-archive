@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Wiesbaden",
+  "pseudoCompany": false,
+  "street": "Luisenstr.",
+  "name": "IZ Immobilien Zeitung Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "620d1ac0-0d2c-4175-9a55-8d48e8a6ff91",
+  "controlDate": "2022-02-16T15:41:04.838Z",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65185",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.iz.de",
+        "squuid": "620d1ad2-19c9-4646-a926-750ba63b0a5b"
+      },
+      "squuid": "620d1af9-bdcc-40d3-aa8e-bac629d9259f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Deutscher Fachverlag GmbH",
+        "squuid": "5be1a6b6-ed5e-4d40-b881-8bccea08d38d"
+      },
+      "squuid": "620d1b48-00f9-46f3-a79a-01b885d1a3f3",
+      "state": "active"
+    }
+  ]
+}
