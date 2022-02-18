@@ -53793,7 +53793,7 @@ digraph {
   5379 [
     type=tv
     state=active
-    label="kabel eins"
+    label="Kabel Eins"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-6ad9-41ca-83ea-2257e51a0453"
@@ -197471,6 +197471,10 @@ digraph {
     weight=100
     type=owns
   ];
+  9951 -> 5379 [
+    weight=100
+    type=operates
+  ];
   9951 -> 5381 [
     weight=100
     type=operates
@@ -197492,10 +197496,6 @@ digraph {
     type=operates
   ];
   9951 -> 9473 [
-    weight=100
-    type=operates
-  ];
-  9951 -> 5379 [
     weight=100
     type=operates
   ];
