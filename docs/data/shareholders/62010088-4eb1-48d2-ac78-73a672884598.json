@@ -1,12 +1,35 @@
 {
   "name": "VP Exploitatie N. V.",
   "squuid": "62010088-4eb1-48d2-ac78-73a672884598",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 16.7,
+      "held": {
+        "name": "Mediahuis NV",
+        "squuid": "61eaebe8-0e42-48f1-aa87-89a2568c433b"
+      },
+      "squuid": "620100eb-6138-4392-a026-ccdfe836a7c4",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
   "state": "active"
