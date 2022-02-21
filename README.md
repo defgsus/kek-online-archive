@@ -1,5 +1,7 @@
 ## archive of [kek-online.de](https://www.kek-online.de/medienkonzentration/mediendatenbank#/)
 
+[![Scraper](https://github.com/defgsus/kek-online-archive/actions/workflows/clock.yml/badge.svg)](https://github.com/defgsus/kek-online-archive/actions/workflows/clock.yml)
+
 The *Kommission zur Ermittlung der Konzentration 
 im Medienbereich* (KEK), collects and publishes shareholding
 information about german newspapers, radio and tv stations and
