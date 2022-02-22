@@ -1,0 +1,27 @@
+{
+  "name": "Tischtennis Baden-Württemberg e.V.",
+  "pseudoCompany": false,
+  "squuid": "6214e2bd-6e3f-4691-b7a3-fd4cc075c8a3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "myTischtennis GmbH",
+        "squuid": "6214d492-d126-47c6-8633-c560929fe4f0"
+      },
+      "squuid": "6214e2f3-d6ec-4a3f-b051-c7978fc7dfe0",
+      "state": "active"
+    }
+  ],
+  "city": "Stuttgart",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

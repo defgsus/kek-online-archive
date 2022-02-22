@@ -1,0 +1,36 @@
+{
+  "state": "active",
+  "squuid": "6214d4aa-e808-4f3b-b0d8-59abd6ad3e50",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "myTischtennis GmbH",
+        "squuid": "6214d492-d126-47c6-8633-c560929fe4f0"
+      },
+      "squuid": "6214d4cd-9cfa-4a65-b86f-7fb25b939133",
+      "state": "active"
+    }
+  ],
+  "name": "www.mytischtennis.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-02-22T12:18:59.289Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "onlineComments": "IVW-geprüftes Angebot"
+}

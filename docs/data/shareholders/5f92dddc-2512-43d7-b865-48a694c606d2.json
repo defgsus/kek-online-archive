@@ -6,13 +6,19 @@
   "name": "Radio München gUG (haftungsbeschränkt)",
   "naturalPerson": false,
   "squuid": "5f92dddc-2512-43d7-b865-48a694c606d2",
-  "controlDate": "2021-12-22T15:56:34.458Z",
+  "controlDate": "2022-02-22T10:18:33.274Z",
   "streetNumber": "16",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "zipcode": "81547",
@@ -24,6 +30,15 @@
         "squuid": "5f92dd2d-cd1f-484e-8f0e-a516c6a9b470"
       },
       "squuid": "5f92de10-2f4a-4067-bc13-562efc2c85f5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio München",
+        "squuid": "5e9d6e72-127c-4e7d-bf50-757e1529bbe9"
+      },
+      "squuid": "6214a1c5-0c6a-47ba-b778-f00589942d27",
       "state": "active"
     }
   ],
