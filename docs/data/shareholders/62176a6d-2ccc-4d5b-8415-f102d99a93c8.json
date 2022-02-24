@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Baden-Baden",
+  "pseudoCompany": false,
+  "street": "Lange Str.",
+  "name": "GfK Entertainment GmbH",
+  "naturalPerson": false,
+  "squuid": "62176a6d-2ccc-4d5b-8415-f102d99a93c8",
+  "controlDate": "2022-02-24T11:23:23.491Z",
+  "streetNumber": "65",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "76530",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.offiziellecharts.de",
+        "squuid": "62176a64-3f8a-445d-a504-8b956a1d5f6e"
+      },
+      "squuid": "62176a99-43d4-421a-9293-28901baf6d71",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 98.0,
+      "holder": {
+        "name": "GfK SE",
+        "squuid": "62176ba9-8177-4257-8f30-c6deab1e8454"
+      },
+      "squuid": "62176bf4-3700-45ab-a8bf-a9ebb5531398",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "GfK ISL Custom Research France SAS",
+        "squuid": "62176bdc-bf6a-412d-84df-2f8a1288446a"
+      },
+      "squuid": "62176bfe-7744-4995-862d-6adda1d238ad",
+      "state": "active"
+    }
+  ]
+}

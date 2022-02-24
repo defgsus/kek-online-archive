@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Fulda",
+  "pseudoCompany": false,
+  "street": "Neuenberger Str.",
+  "name": "Medienkontor M. Angelstein GmbH & Co. KG ",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "621776b0-3c2b-473f-93ea-6d8b8fdea8d3",
+  "controlDate": "2022-02-24T12:16:23.851Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "36041",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.osthessen-news.de",
+        "squuid": "62177692-9dca-43de-9202-49d3979eef60"
+      },
+      "squuid": "621776fe-caad-4285-8da9-e55276e47669",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Medienkontor M. Angelstein Verwaltungs GmbH",
+        "squuid": "621776ce-ff46-4dee-9bb9-ef9fb2b70402"
+      },
+      "squuid": "621777c1-0ba0-4ab1-a6dd-331603e6ab1a",
+      "state": "active"
+    }
+  ]
+}

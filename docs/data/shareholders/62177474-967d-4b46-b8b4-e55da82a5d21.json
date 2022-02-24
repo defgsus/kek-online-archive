@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Kassel",
+  "pseudoCompany": false,
+  "street": "Ludwig-Erhard-Str.",
+  "name": "Onpulson.de GbR",
+  "naturalPerson": false,
+  "squuid": "62177474-967d-4b46-b8b4-e55da82a5d21",
+  "controlDate": "2022-02-24T12:05:37.784Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "34131",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.onpulson.de",
+        "squuid": "6217744d-fb29-4484-96a4-44a61b2feef2"
+      },
+      "squuid": "62177484-46e7-4ced-939f-14ad87695fd7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Fischer, Philip",
+        "squuid": "6217752e-82ba-475b-9b22-c53b0787ceec"
+      },
+      "squuid": "6217754f-259b-4ef8-9e8f-98a42a12b993",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Frank, Erik",
+        "squuid": "62177519-f9cd-41f6-8bd3-d6c923547f46"
+      },
+      "squuid": "6217755d-34f6-4c62-bd9f-4c689b0bce1c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "holder": {
+        "name": "Schulze, Andre",
+        "squuid": "621774f4-b9cf-4977-a923-f4ad6b8af019"
+      },
+      "squuid": "6217756a-8df2-4988-a500-bbf66fe32681",
+      "state": "active"
+    }
+  ]
+}
