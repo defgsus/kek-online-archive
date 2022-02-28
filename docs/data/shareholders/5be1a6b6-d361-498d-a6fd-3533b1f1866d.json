@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "note": "",
   "supplierConsortium": false,
@@ -10,45 +10,12 @@
   "squuid": "5be1a6b6-d361-498d-a6fd-3533b1f1866d",
   "organizations": [
     {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "12103",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "nice",
-        "squuid": "5be1a6b1-9c99-4f70-805a-36c65b301ee3"
-      },
-      "squuid": "5be1a6b9-5230-4761-aec9-1f312266bc49",
-      "state": "active"
-    }
-  ],
-  "credits": "mabb",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Jany, Jeff",
-        "squuid": "5be1a6b6-9193-499a-83fa-1e75870af26b"
-      },
-      "squuid": "5be1a6b8-16d5-4393-a8dd-90d411c877de",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "NICE Broadcast & Media GmbH",
-        "squuid": "5be1a6b6-cd01-4c48-9692-6f2d013646ee"
-      },
-      "squuid": "5be1a6b8-3d52-46dd-bd4f-de7d8b85788b",
-      "state": "active"
-    }
-  ]
+  "credits": "mabb"
 }

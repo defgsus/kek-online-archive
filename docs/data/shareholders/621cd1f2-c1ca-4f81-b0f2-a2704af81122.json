@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Landsberg",
+  "pseudoCompany": false,
+  "street": "Justus-von-Liebig-Str.",
+  "name": "verlag moderne industrie GmbH",
+  "naturalPerson": false,
+  "squuid": "621cd1f2-c1ca-4f81-b0f2-a2704af81122",
+  "controlDate": "2022-02-28T13:46:42.745Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86899",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.produktion.de",
+        "squuid": "621cd201-a3fe-4f2b-9bb4-491c7fb0477d"
+      },
+      "squuid": "621cd225-11b2-4c2c-acb3-4c2d154b5a9e",
+      "state": "active"
+    }
+  ]
+}

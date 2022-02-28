@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Großer Burstah",
+  "name": "Alsterspree Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "621ccd48-d505-4377-b1cd-6fae4dc0f819",
+  "controlDate": "2022-02-28T13:26:40.778Z",
+  "streetNumber": "50-52",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20457",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.procontra-online.de",
+        "squuid": "621ccd36-01f1-45f0-8417-b971144c21a3"
+      },
+      "squuid": "621ccd7d-1e41-4ced-a5ea-7a5e2d273ff8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Freyenhagen Vermögensverwaltung GmbH",
+        "squuid": "621ccea6-de20-4280-b3af-3e9ececf13d2"
+      },
+      "squuid": "621ccef9-bfef-4758-8ad6-3ec95d88f831",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Siebert Vermögensverwaltung GmbH",
+        "squuid": "621ccec2-7b9d-4f38-b1fa-b46258ed8d94"
+      },
+      "squuid": "621ccf04-c9fd-4fdb-a4f9-73da7fe0db56",
+      "state": "active"
+    }
+  ]
+}

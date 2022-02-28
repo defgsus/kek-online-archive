@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Zülpicher Str.",
+  "name": "Prisma-Verlag GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "621cc626-22eb-44c9-b383-2237d947b390",
+  "controlDate": "2022-02-28T12:57:39.287Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40549",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.prisma.de",
+        "squuid": "621cc65c-a16c-410d-81a9-97c6dd615279"
+      },
+      "squuid": "621cc687-b7f6-48bc-bbac-0aeeae51d670",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Prisma-Verlag GmbH",
+        "squuid": "621cc63d-1e77-48f5-9b82-063f5640dbb9"
+      },
+      "squuid": "621cc823-cc00-4cec-a002-d12537d1e176",
+      "state": "active"
+    }
+  ]
+}
