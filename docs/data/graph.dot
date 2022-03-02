@@ -56534,11 +56534,11 @@ digraph {
     type=shareholder
     state=active
     label="Klingsbögl, Hubertus"
-    num_medias=4
-    num_medias_weighted=0.2500
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-ea54-4c16-86f7-e57ca33b5a92"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   5654 [
     type=tv
@@ -84277,7 +84277,7 @@ digraph {
     num_medias=4
     num_medias_weighted=2.5000
     name="5be1a6b6-5348-4fb4-9a9c-c74fea5b6161"
-    in_degree=4
+    in_degree=3
     out_degree=3
   ];
   8428 [
@@ -176127,10 +176127,6 @@ digraph {
   ];
   5652 -> 4576 [
     weight=33.3
-    type=owns
-  ];
-  5653 -> 8427 [
-    weight=10
     type=owns
   ];
   5655 -> 213 [
