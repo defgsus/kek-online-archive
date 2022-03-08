@@ -19,7 +19,7 @@
   "name": "Prisma-Verlag GmbH",
   "naturalPerson": false,
   "squuid": "621cc63d-1e77-48f5-9b82-063f5640dbb9",
-  "controlDate": "2022-02-28T13:03:49.099Z",
+  "controlDate": "2022-03-08T12:56:04.420Z",
   "streetNumber": "10",
   "organizations": [
     {
@@ -28,5 +28,27 @@
       "type": "organization"
     }
   ],
-  "zipcode": "40549"
+  "zipcode": "40549",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 76.0,
+      "holder": {
+        "name": "ACN-Beteiligungsgesellschaft mbH",
+        "squuid": "62275307-f147-4e7d-a6ed-54caf352fc73"
+      },
+      "squuid": "6227531b-2524-470b-a400-2b9068bcd527",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "Zeitungsverlag Rubens GmbH & Co. KG",
+        "squuid": "5be1a6b6-cf69-4ed0-a3d0-55dbe01f0150"
+      },
+      "squuid": "62275360-1208-416a-b943-cb7731263f6c",
+      "state": "active"
+    }
+  ]
 }
