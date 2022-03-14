@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Wolfenbüttel",
+  "pseudoCompany": false,
+  "street": "Fümmelser Str.",
+  "name": "Medien für die Region GmbH",
+  "naturalPerson": false,
+  "squuid": "622f474d-4c05-443c-a857-8c957d49ce08",
+  "controlDate": "2022-03-14T13:48:36.060Z",
+  "streetNumber": "52",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "38304",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.regionalheute.de",
+        "squuid": "622f4768-fe70-4ee9-9da7-c0dbc28b3f6c"
+      },
+      "squuid": "622f4791-e3e6-4844-805c-4707ed0a770c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Angerstein, Marc",
+        "squuid": "622f4851-21fa-4cd9-a13a-b0dd9f4cce50"
+      },
+      "squuid": "622f4866-d0c4-460a-a517-61929e1e6cc6",
+      "state": "active"
+    }
+  ]
+}

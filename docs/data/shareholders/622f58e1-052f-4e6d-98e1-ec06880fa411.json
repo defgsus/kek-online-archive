@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Kaiserdamm",
+  "name": "Deutsche Medienportale GmbH",
+  "naturalPerson": false,
+  "squuid": "622f58e1-052f-4e6d-98e1-ec06880fa411",
+  "controlDate": "2022-03-14T15:09:12.398Z",
+  "streetNumber": "86",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14057",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schlager.de",
+        "squuid": "622f58ee-ba07-4197-bdff-16b52f0e7132"
+      },
+      "squuid": "622f591d-0025-42d8-b61d-9f7c1b2da395",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.69,
+      "holder": {
+        "name": "Nebel, Gregor",
+        "squuid": "622f5a6c-1db9-47d4-b406-dab0c4721564"
+      },
+      "squuid": "622f5a86-75c4-4578-a0a7-37eabf254a22",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Lucile Musik Verlag GmbH",
+        "squuid": "622f5a5a-d5cf-4d6d-a81a-7e8acec36340"
+      },
+      "squuid": "622f5a93-4065-4d91-8f75-f4c2a1e7f506",
+      "state": "active"
+    }
+  ]
+}

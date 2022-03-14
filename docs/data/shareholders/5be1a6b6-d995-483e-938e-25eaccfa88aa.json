@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Eckernförde",
   "pseudoCompany": false,
   "street": "Carlshöhe",
@@ -10,44 +10,12 @@
   "streetNumber": "42",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "24340",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "[Mohltied!]",
-        "squuid": "5be1a6b1-c236-4e0f-a495-ada5d38470b1"
-      },
-      "squuid": "5be1a6b9-9679-4775-b3ce-f6efca74a6e2",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Ruckpaul, Nina",
-        "squuid": "5be1a6b6-3c03-41c4-8bf5-5059f9ce8d20"
-      },
-      "squuid": "5be1a6b8-0a07-4fc8-9802-7a5524617e92",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Voß, Eckhard",
-        "squuid": "5be1a6b6-5af4-4a7a-bce6-40f0154d78c7"
-      },
-      "squuid": "5be1a6b8-68ff-41c7-bc7a-5a1f70868e19",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
