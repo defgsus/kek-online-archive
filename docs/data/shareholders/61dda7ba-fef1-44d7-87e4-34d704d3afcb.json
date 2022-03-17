@@ -18,7 +18,7 @@
   "name": "Mediahuis Aachen Holdco GmbH",
   "naturalPerson": false,
   "squuid": "61dda7ba-fef1-44d7-87e4-34d704d3afcb",
-  "controlDate": "2022-01-21T17:17:52.896Z",
+  "controlDate": "2022-03-17T12:04:51.129Z",
   "placeOfBusiness": "c/o Blitzstart Holding AG",
   "streetNumber": "17",
   "organizations": [
@@ -40,5 +40,17 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
-  "zipcode": "80333"
+  "zipcode": "80333",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mediahuis NV",
+        "squuid": "61eaebe8-0e42-48f1-aa87-89a2568c433b"
+      },
+      "squuid": "61eaec14-50f4-4d44-8f73-f9609470f0cc",
+      "state": "active"
+    }
+  ]
 }
