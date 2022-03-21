@@ -384,8 +384,8 @@ digraph {
     type=shareholder
     state=active
     label="18 Gesellschafter der Turtle Entertainment GmbH"
-    num_medias=1
-    num_medias_weighted=0.2596
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5fd4608d-714f-49f4-8050-02fd12b195ec"
     in_degree=0
     out_degree=1
@@ -1754,8 +1754,8 @@ digraph {
     type=shareholder
     state=active
     label="ACV Automobil-Club Verkehr e.V."
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5be1a6b6-620f-41cd-9dc9-f51c5b9f58ba"
     in_degree=0
     out_degree=1
@@ -1774,11 +1774,11 @@ digraph {
     type=shareholder
     state=active
     label="ACV Verlags- und Wirtschaftsdienst GmbH"
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5be1a6b6-187a-45a8-90b5-262217c4bb28"
     in_degree=1
-    out_degree=2
+    out_degree=1
   ];
   178 [
     type=print
@@ -1812,12 +1812,12 @@ digraph {
   ];
   181 [
     type=print
-    state=active
+    state=archived
     label=ada
     num_medias=0
     num_medias_weighted=0.0000
     name="5be968ba-8324-4c67-8f19-ec6e98f521ff"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   182 [
@@ -23544,8 +23544,8 @@ digraph {
     type=shareholder
     state=active
     label="Dieter von Holtzbrinck Stiftung GmbH"
-    num_medias=52
-    num_medias_weighted=12.8266
+    num_medias=51
+    num_medias_weighted=12.4936
     name="5be1a6b6-7982-4f28-8639-7bf2b4c8bf7a"
     in_degree=5
     out_degree=1
@@ -26594,8 +26594,8 @@ digraph {
     type=shareholder
     state=active
     label="DvH Medien GmbH"
-    num_medias=52
-    num_medias_weighted=38.5182
+    num_medias=51
+    num_medias_weighted=37.5182
     name="5be1a6b6-5ed8-4639-a346-1c7f7b26f35a"
     in_degree=1
     out_degree=6
@@ -27004,7 +27004,7 @@ digraph {
     type=shareholder
     state=active
     label="E. Holterdorf Beteiligungs-GmbH"
-    num_medias=18
+    num_medias=17
     num_medias_weighted=0.0000
     name="5eb00b6f-51ba-47f3-8424-887cd762ffe0"
     in_degree=1
@@ -27014,11 +27014,11 @@ digraph {
     type=shareholder
     state=active
     label="E. Holterdorf GmbH & Co. KG"
-    num_medias=18
-    num_medias_weighted=8.0374
+    num_medias=17
+    num_medias_weighted=7.0374
     name="5be1a6b6-c488-44e2-a1a2-a1fade69831a"
     in_degree=3
-    out_degree=9
+    out_degree=8
   ];
   2702 [
     type=shareholder
@@ -35032,23 +35032,23 @@ digraph {
   ];
   3503 [
     type=tv
-    state=active
+    state=archived
     label="four media network (div. Live-Streams)"
     num_medias=0
     num_medias_weighted=0.0000
     name="5fd45b06-d59e-4343-8ce4-6fbb345a911e"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   3504 [
     type=shareholder
-    state=active
+    state=archived
     label="four media network GmbH"
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5fd45b3b-8e98-4003-8812-88f649f76366"
-    in_degree=1
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   3505 [
     type=shareholder
@@ -38984,8 +38984,8 @@ digraph {
     type=shareholder
     state=active
     label="Gehring, Fried"
-    num_medias=18
-    num_medias_weighted=4.0187
+    num_medias=17
+    num_medias_weighted=3.5187
     name="5be1a6b6-15ca-41c0-81af-094c3dd9c950"
     in_degree=0
     out_degree=1
@@ -39744,8 +39744,8 @@ digraph {
     type=shareholder
     state=active
     label="Georg Dieter von Holtzbrinck Familiengesellschaft bR"
-    num_medias=52
-    num_medias_weighted=38.5182
+    num_medias=51
+    num_medias_weighted=37.5182
     name="5be1a6b6-ba9c-402b-8773-5f4c91dcf54b"
     in_degree=3
     out_degree=1
@@ -44124,18 +44124,18 @@ digraph {
     type=shareholder
     state=active
     label="Handelsblatt GmbH"
-    num_medias=10
-    num_medias_weighted=10.0000
+    num_medias=9
+    num_medias_weighted=9.0000
     name="5be1a6b6-f62c-4b11-ac45-b9fab6580c3a"
     in_degree=1
-    out_degree=10
+    out_degree=9
   ];
   4413 [
     type=shareholder
     state=active
     label="Handelsblatt Media Group GmbH & Co. KG"
-    num_medias=14
-    num_medias_weighted=14.0000
+    num_medias=13
+    num_medias_weighted=13.0000
     name="5be1a6b6-c822-4c39-b59a-d10c1fd9268d"
     in_degree=2
     out_degree=2
@@ -44144,7 +44144,7 @@ digraph {
     type=shareholder
     state=active
     label="Handelsblatt Verwaltungs-GmbH"
-    num_medias=14
+    num_medias=13
     num_medias_weighted=0.0000
     name="5ebd4c7f-1c12-4182-8c0c-be8f2f5989ff"
     in_degree=1
@@ -48644,8 +48644,8 @@ digraph {
     type=shareholder
     state=active
     label="Holterdorf, Dirk"
-    num_medias=18
-    num_medias_weighted=4.0187
+    num_medias=17
+    num_medias_weighted=3.5187
     name="5be1a6b6-dd6d-4f01-a333-a48ccd4a6565"
     in_degree=0
     out_degree=2
@@ -65074,8 +65074,8 @@ digraph {
     type=shareholder
     state=active
     label="Mahlert, Dr. Arno"
-    num_medias=52
-    num_medias_weighted=2.5653
+    num_medias=51
+    num_medias_weighted=2.4987
     name="5be1a6b6-97f2-44ba-ae93-f947f9c53eb2"
     in_degree=0
     out_degree=1
@@ -70794,8 +70794,8 @@ digraph {
     type=shareholder
     state=active
     label="Modern Times Group MTG AB"
-    num_medias=1
-    num_medias_weighted=0.7404
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5fd45eea-c5cb-42b5-bd14-0d509b1eb824"
     in_degree=0
     out_degree=1
@@ -71684,8 +71684,8 @@ digraph {
     type=shareholder
     state=active
     label="MTG Broadcasting AB"
-    num_medias=1
-    num_medias_weighted=0.7404
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5fd45ec0-385b-434a-8314-9ff3c35a3233"
     in_degree=1
     out_degree=1
@@ -71694,8 +71694,8 @@ digraph {
     type=shareholder
     state=active
     label="MTG Publishing AB"
-    num_medias=1
-    num_medias_weighted=0.7404
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5fd45ed5-542e-4436-bcd7-f606c0fb70e7"
     in_degree=1
     out_degree=1
@@ -71704,8 +71704,8 @@ digraph {
     type=shareholder
     state=active
     label="MTGx eSports Holding AB"
-    num_medias=1
-    num_medias_weighted=0.7404
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5fd45e6f-4185-4815-a61b-dcb1fd7ba027"
     in_degree=1
     out_degree=1
@@ -71714,8 +71714,8 @@ digraph {
     type=shareholder
     state=active
     label="MTGx International AB"
-    num_medias=1
-    num_medias_weighted=0.7404
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5fd45ea6-f7f5-4794-b207-9f8b1fe7eff3"
     in_degree=1
     out_degree=1
@@ -100384,8 +100384,8 @@ digraph {
     type=shareholder
     state=active
     label="Sigle, Dr. Axel"
-    num_medias=52
-    num_medias_weighted=2.5653
+    num_medias=51
+    num_medias_weighted=2.4987
     name="5be1a6b6-4b0c-4deb-840b-632078c37947"
     in_degree=0
     out_degree=1
@@ -100394,8 +100394,8 @@ digraph {
     type=shareholder
     state=active
     label="Sigle, Prof. Dr. Walter"
-    num_medias=52
-    num_medias_weighted=2.5653
+    num_medias=51
+    num_medias_weighted=2.4987
     name="5be1a6b6-7258-4117-9507-bc2d8a0b6af6"
     in_degree=0
     out_degree=1
@@ -100694,8 +100694,8 @@ digraph {
     type=shareholder
     state=active
     label="Sixt, Sven C."
-    num_medias=52
-    num_medias_weighted=2.5653
+    num_medias=51
+    num_medias_weighted=2.4987
     name="5be1a6b6-a25a-45a8-b4b8-7dbfb5cc426c"
     in_degree=0
     out_degree=1
@@ -112794,11 +112794,11 @@ digraph {
     type=shareholder
     state=active
     label="Turtle Entertainment GmbH"
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5fd45dd1-4555-4015-853e-ba880346925d"
     in_degree=2
-    out_degree=1
+    out_degree=0
   ];
   11280 [
     type=print
@@ -117934,8 +117934,8 @@ digraph {
     type=shareholder
     state=active
     label="von Holtzbrinck, Andreas"
-    num_medias=52
-    num_medias_weighted=12.8266
+    num_medias=51
+    num_medias_weighted=12.4936
     name="5be1a6b6-1391-4545-b24b-020d6b6f6ee8"
     in_degree=0
     out_degree=1
@@ -117944,8 +117944,8 @@ digraph {
     type=shareholder
     state=active
     label="von Holtzbrinck, Dieter"
-    num_medias=52
-    num_medias_weighted=2.5653
+    num_medias=51
+    num_medias_weighted=2.4987
     name="5be1a6b6-9a1a-40e5-a212-4f53d008fb52"
     in_degree=0
     out_degree=2
@@ -124262,12 +124262,12 @@ digraph {
   ];
   12426 [
     type=online
-    state=active
+    state=archived
     label="www.acv.de/der-acv/mitgliedermagazin"
     num_medias=0
     num_medias_weighted=0.0000
     name="610bf2d3-e7e5-4a63-b5f5-f766cdcae120"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   12427 [
@@ -132642,12 +132642,12 @@ digraph {
   ];
   13264 [
     type=online
-    state=active
+    state=archived
     label="www.hierzulande.de"
     num_medias=0
     num_medias_weighted=0.0000
     name="5c5ac827-4d91-48a0-bfa0-39ecab4ae11a"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   13265 [
@@ -149029,10 +149029,6 @@ digraph {
     weight=100
     type=operates
   ];
-  177 -> 12426 [
-    weight=100
-    type=operates
-  ];
   179 -> 12427 [
     weight=100
     type=operates
@@ -161989,10 +161985,6 @@ digraph {
     weight=100
     type=operates
   ];
-  2701 -> 13264 [
-    weight=100
-    type=operates
-  ];
   2702 -> 8332 [
     weight=100
     type=operates
@@ -165232,10 +165224,6 @@ digraph {
   3502 -> 2082 [
     weight=5.3
     type=owns
-  ];
-  3504 -> 3503 [
-    weight=100
-    type=operates
   ];
   3505 -> 3279 [
     weight=50
@@ -170562,10 +170550,6 @@ digraph {
     type=operates
   ];
   4412 -> 12266 [
-    weight=100
-    type=operates
-  ];
-  4412 -> 181 [
     weight=100
     type=operates
   ];
@@ -204435,10 +204419,6 @@ digraph {
   ];
   11278 -> 8632 [
     weight=2.6
-    type=owns
-  ];
-  11279 -> 3504 [
-    weight=100
     type=owns
   ];
   11283 -> 11285 [

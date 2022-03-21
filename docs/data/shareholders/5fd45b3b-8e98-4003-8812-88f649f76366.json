@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Köln",
   "pseudoCompany": false,
   "street": "Schanzenstr. ",
@@ -9,33 +9,11 @@
   "streetNumber": "23",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "51063",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "four media network (div. Live-Streams)",
-        "squuid": "5fd45b06-d59e-4343-8ce4-6fbb345a911e"
-      },
-      "squuid": "5fd45d0c-f482-4072-9d8b-1fe067a3c4c7",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Turtle Entertainment GmbH",
-        "squuid": "5fd45dd1-4555-4015-853e-ba880346925d"
-      },
-      "squuid": "5fd45f71-4135-4865-b7fd-acb66ed8e8df",
-      "state": "active"
-    }
-  ]
+  "zipcode": "51063"
 }
