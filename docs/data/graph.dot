@@ -67937,7 +67937,7 @@ digraph {
     num_medias=73
     num_medias_weighted=52.6855
     name="5be1a6b6-7140-4499-b16b-b5c1288ef7a6"
-    in_degree=17
+    in_degree=21
     out_degree=9
   ];
   6794 [
@@ -92174,11 +92174,11 @@ digraph {
     type=shareholder
     state=active
     label="Rose, Henri"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=73
+    num_medias_weighted=0.2634
     name="622f10f1-d986-4c60-8652-df72e4584e4f"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   9218 [
     type=shareholder
@@ -118372,7 +118372,7 @@ digraph {
   ];
   11837 [
     type=shareholder
-    state=active
+    state=archived
     label="Voß, Eckhard"
     num_medias=0
     num_medias_weighted=0.0000
@@ -123354,11 +123354,11 @@ digraph {
     type=shareholder
     state=active
     label="Wolff-Muscate, Johanna"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=73
+    num_medias_weighted=0.5269
     name="622f1160-7c55-4a59-b1e0-6020ae969f24"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12336 [
     type=shareholder
@@ -123374,11 +123374,11 @@ digraph {
     type=shareholder
     state=active
     label="Wolff-Muscate, Maximilian"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=73
+    num_medias_weighted=0.5269
     name="622f1127-c5e7-481c-bb17-26d8a28776bc"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12338 [
     type=shareholder
@@ -147974,11 +147974,11 @@ digraph {
     type=shareholder
     state=active
     label="Zimprich, Dr. Annemarie"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=73
+    num_medias_weighted=0.5269
     name="622f1111-4bab-4c0f-9f51-967a237a5b71"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   14798 [
     type=shareholder
@@ -194461,6 +194461,10 @@ digraph {
     weight=1
     type=owns
   ];
+  9217 -> 6793 [
+    weight=1
+    type=owns
+  ];
   9218 -> 6793 [
     weight=9.86
     type=owns
@@ -209901,8 +209905,16 @@ digraph {
     weight=10.5
     type=owns
   ];
+  12335 -> 6793 [
+    weight=1
+    type=owns
+  ];
   12336 -> 6793 [
     weight=9.28
+    type=owns
+  ];
+  12337 -> 6793 [
+    weight=1
     type=owns
   ];
   12338 -> 2574 [
@@ -211219,6 +211231,10 @@ digraph {
   ];
   14796 -> 2902 [
     weight=1.35
+    type=owns
+  ];
+  14797 -> 6793 [
+    weight=1
     type=owns
   ];
   14798 -> 8938 [
