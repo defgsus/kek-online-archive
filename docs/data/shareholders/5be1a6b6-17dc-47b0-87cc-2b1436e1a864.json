@@ -49,6 +49,16 @@
       },
       "squuid": "6086b9b6-fe77-48f8-9771-5410a1abba03",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "FSM Mediendienste GmbH",
+        "squuid": "5be1a6b6-be2a-44db-a527-3a29b1889d4b"
+      },
+      "squuid": "6246ed22-404d-402a-9a28-87a6531b9d88",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -59,7 +69,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-17dc-47b0-87cc-2b1436e1a864",
-  "controlDate": "2021-11-23T11:51:54.021Z",
+  "controlDate": "2022-04-01T10:14:32.585Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -148,19 +158,10 @@
     {
       "type": "operate",
       "held": {
-        "name": "Main-Taunus-Kurier",
+        "name": "Idsteiner Zeitung",
         "squuid": "5be1a6b1-e84b-4922-bbfd-ca2e8cbd25f9"
       },
       "squuid": "5be1a6b9-7353-4ab9-8a5e-9156fdf55803",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Hofheimer Zeitung",
-        "squuid": "5be1a6b1-86ee-4d14-bce2-82d50f376e2a"
-      },
-      "squuid": "5be1a6b9-09ca-4a6c-96a6-d74300632e3f",
       "state": "active"
     },
     {
@@ -220,15 +221,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "www.hofheimer-zeitung.de",
-        "squuid": "5be1a6b1-cab1-43a6-aea5-a1834c42d08b"
-      },
-      "squuid": "5be1a6b9-9f37-41fa-9fb5-9af9d5b7baea",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "www.hochheimer-zeitung.de",
         "squuid": "5be1a6b1-44ec-4d2c-86a2-400265d0138c"
       },
@@ -247,33 +239,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "WirtschaftsEcho",
-        "squuid": "5be1a6b1-90b4-48ab-ac59-9e52fa9e68fe"
-      },
-      "squuid": "5be1a6b9-174b-4660-b4b0-1d50f25930e5",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Unser Rheinhessen",
-        "squuid": "5be1a6b1-e4de-44a3-9c88-d57cb4f56cf9"
-      },
-      "squuid": "5be1a6b9-2201-45f1-a66b-6ad4df073f80",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Unser Rheingau",
-        "squuid": "5be1a6b1-8d77-4ab6-97a2-fbfe92831cdd"
-      },
-      "squuid": "5be1a6b9-dd55-42d0-94cf-0ae37a6db658",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "www.kruschel.de",
         "squuid": "5be1a6b1-077f-4662-8bdb-a3de0c342fee"
       },
@@ -287,24 +252,6 @@
         "squuid": "5be1a6b1-1793-4d8b-a74f-7846c6415e0e"
       },
       "squuid": "5be1a6b9-53aa-4d6f-bce8-e6f71ccd7b58",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Unsere Bergstraße",
-        "squuid": "5beec7ec-63af-45ab-af2b-2bfddc3d4161"
-      },
-      "squuid": "5beec844-1c74-463f-aa1f-7cca1fd537bd",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Medjournal",
-        "squuid": "5cc82664-a858-42a6-9e25-8e795039713e"
-      },
-      "squuid": "5cc83486-3b85-426b-8976-56f9446df32e",
       "state": "active"
     },
     {
@@ -341,15 +288,6 @@
         "squuid": "5be1a6b1-9281-4210-8d98-f96847fe990e"
       },
       "squuid": "5ebe6950-302e-440d-b55d-896d7154543b",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Dill-Post",
-        "squuid": "5be1a6b1-0bd0-4319-851c-9859f4ffa105"
-      },
-      "squuid": "5ec3dbd4-c727-4233-a33e-368cb14acb62",
       "state": "active"
     },
     {
@@ -413,15 +351,6 @@
         "squuid": "5be1a6b1-c52e-4aab-ae74-c88374e4cf29"
       },
       "squuid": "5ee1fb98-104b-4ce1-9302-effcf225c6b5",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Ried Echo",
-        "squuid": "5be1a6b1-146f-440f-9ba2-a8a3de0c3432"
-      },
-      "squuid": "5ee23e63-eeb0-4dd6-a572-d62eba62e2db",
       "state": "active"
     },
     {
@@ -557,6 +486,42 @@
         "squuid": "5be1a6b1-60ba-4947-bf0c-6ff4f53e7729"
       },
       "squuid": "61977be7-2854-40f1-99e8-85486980972b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Dieburger Anzeiger",
+        "squuid": "5be1a6b1-6a4b-4d8b-974e-105768e78a7b"
+      },
+      "squuid": "6246e509-44f6-49ed-9938-ae2563c8f4c5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rüsselsheimer Echo",
+        "squuid": "5be1a6b1-bc2a-44e9-b021-e2e2a1c654cf"
+      },
+      "squuid": "6246ecbf-bb22-488e-a071-e9dc2b1be2cf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fratz-magazin.de",
+        "squuid": "62470139-076f-4882-ae5a-f3fa6cba3940"
+      },
+      "squuid": "62470156-dd25-478c-a68b-e89948ce24c3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "fratz",
+        "squuid": "62470125-1d00-40ae-a718-7f51a6d94cf9"
+      },
+      "squuid": "62470198-e6e3-4183-bda8-f49fdcba6e3a",
       "state": "active"
     }
   ],

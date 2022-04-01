@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-7afc-4cce-919e-f0a1edf2ab0d",
-  "controlDate": "2021-10-04T13:43:46.129Z",
+  "controlDate": "2022-04-01T11:43:06.847Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -41,15 +41,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "Groß-Zimmerner Lokal-Anzeiger",
-        "squuid": "5be1a6b1-b5e0-49c6-aff0-9e65c518a5bb"
-      },
-      "squuid": "5be1a6b9-39a5-45b4-a08f-aa904b8a3fdd",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "www.da-imnetz.de",
         "squuid": "5be1a6b1-0c6c-4bb4-be81-1428e3031ef7"
       },
@@ -60,16 +51,6 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Pressehaus Bintz Verlag GmbH & Co KG",
-        "squuid": "5be1a6b6-8a85-4051-ab8c-3b6710166754"
-      },
-      "squuid": "5be1a6b8-dedb-4f25-93b6-6d39a8bcd047",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -78,6 +59,16 @@
         "squuid": "5ec3d548-fd5f-4963-aa54-e517ccd39240"
       },
       "squuid": "5ec3d561-5590-46df-9ad1-aea7dcc0f04d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Echo Zeitungen GmbH",
+        "squuid": "5be1a6b6-efc8-47d9-8b22-b1cb175ddbbe"
+      },
+      "squuid": "6246e5d3-1925-49c3-ae40-de67e64b631a",
       "state": "active"
     }
   ]

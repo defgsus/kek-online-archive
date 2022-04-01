@@ -432,6 +432,30 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "62470139-076f-4882-ae5a-f3fa6cba3940",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.fratz-magazin.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-04-01T13:42:28.353Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-c677-4c10-a833-9d4a454467c5",
@@ -470,6 +494,26 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "pressPublishingIntervals": 5,
+    "state": "active",
+    "squuid": "62470125-1d00-40ae-a718-7f51a6d94cf9",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "fratz",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2022-04-01T13:42:57.504Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
   },
   {
     "pressPublishingIntervals": 312,
@@ -6298,7 +6342,7 @@
     "rfStatewide": false,
     "name": "Hochheimer Zeitung",
     "type": "print",
-    "controlDate": "2021-10-25T12:43:49.440Z",
+    "controlDate": "2022-04-01T11:56:09.543Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -7224,7 +7268,7 @@
   },
   {
     "pressPublishingIntervals": 4,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-90b4-48ab-ac59-9e52fa9e68fe",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -7245,7 +7289,7 @@
   },
   {
     "pressPublishingIntervals": 4,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-e4de-44a3-9c88-d57cb4f56cf9",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -7266,7 +7310,7 @@
   },
   {
     "pressPublishingIntervals": 4,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-8d77-4ab6-97a2-fbfe92831cdd",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -7300,7 +7344,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2021-10-27T07:46:23.632Z",
+    "controlDate": "2022-04-01T12:05:06.806Z",
     "state": "active"
   },
   {
@@ -7318,7 +7362,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2021-12-13T17:08:35.699Z",
+    "controlDate": "2022-04-01T13:49:07.809Z",
     "state": "active"
   },
   {
@@ -32765,7 +32809,7 @@
     "name": "sensor (Ausgabe Mainz)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2021-08-11T10:13:30.521Z",
+    "controlDate": "2022-04-01T13:50:37.448Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32785,7 +32829,7 @@
     "name": "sensor (Ausgabe Wiesbaden)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2021-08-11T10:14:51.887Z",
+    "controlDate": "2022-04-01T13:51:34.112Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32822,7 +32866,7 @@
     "name": "www.sensor-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2021-08-11T10:16:18.080Z",
+    "controlDate": "2022-04-01T14:05:38.349Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32866,7 +32910,7 @@
     "name": "www.sensor-wiesbaden.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2021-08-11T10:16:47.229Z",
+    "controlDate": "2022-04-01T14:04:54.163Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32946,7 +32990,7 @@
     "name": "www.mensch-westend.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2021-08-11T10:06:14.743Z",
+    "controlDate": "2022-04-01T13:48:57.172Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34945,7 +34989,7 @@
     "name": "VRM Tageszeitungen (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2021-11-18T10:58:38.632Z",
+    "controlDate": "2022-04-01T14:09:08.652Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38080,7 +38124,7 @@
   },
   {
     "pressPublishingIntervals": 4,
-    "state": "active",
+    "state": "archived",
     "squuid": "5cc82664-a858-42a6-9e25-8e795039713e",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -38561,7 +38605,7 @@
     "name": "Mensch!Westend",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2021-11-01T12:58:43.291Z",
+    "controlDate": "2022-04-01T13:48:46.688Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42653,7 +42697,7 @@
   },
   {
     "pressPublishingIntervals": 4,
-    "state": "active",
+    "state": "archived",
     "squuid": "5beec7ec-63af-45ab-af2b-2bfddc3d4161",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -85223,7 +85267,7 @@
     "rfStatewide": false,
     "name": "Dieburger Anzeiger",
     "type": "print",
-    "controlDate": "2021-10-04T13:41:00.868Z",
+    "controlDate": "2022-04-01T11:36:22.087Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -90692,7 +90736,7 @@
     "rfStatewide": false,
     "name": "Kruschel",
     "type": "print",
-    "controlDate": "2021-10-27T07:46:28.820Z",
+    "controlDate": "2022-04-01T12:03:45.552Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90713,7 +90757,7 @@
     "rfStatewide": false,
     "name": "Allgemeine Zeitung (Mainz)",
     "type": "print",
-    "controlDate": "2021-10-06T14:52:32.578Z",
+    "controlDate": "2022-04-01T10:43:56.033Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -90733,7 +90777,7 @@
     "rfStatewide": false,
     "name": "Bürstädter Zeitung",
     "type": "print",
-    "controlDate": "2021-10-07T15:14:30.447Z",
+    "controlDate": "2022-04-01T11:00:45.169Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -90773,7 +90817,7 @@
     "rfStatewide": false,
     "name": "Wiesbadener Kurier",
     "type": "print",
-    "controlDate": "2021-11-19T10:29:03.659Z",
+    "controlDate": "2022-04-01T10:53:19.206Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -93286,7 +93330,7 @@
     "name": "www.fupa.net/region/darmstadt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2021-09-27T16:50:55.565Z",
+    "controlDate": "2022-04-01T13:15:53.554Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -104577,7 +104621,7 @@
     "rfStatewide": false,
     "name": "Darmstädter Echo",
     "type": "print",
-    "controlDate": "2021-10-12T12:50:02.429Z",
+    "controlDate": "2022-04-01T11:31:04.103Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124120,7 +124164,7 @@
     "rfStatewide": false,
     "name": "Rüsselsheimer Echo",
     "type": "print",
-    "controlDate": "2021-11-10T13:07:32.368Z",
+    "controlDate": "2022-04-01T12:15:29.161Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124240,7 +124284,7 @@
       "state": "active"
     },
     "controlDate": "2021-11-10T13:10:08.783Z",
-    "state": "active"
+    "state": "archived"
   },
   {
     "pressPublishingIntervals": 312,
@@ -124254,7 +124298,7 @@
     "rfStatewide": false,
     "name": "Odenwälder Echo",
     "type": "print",
-    "controlDate": "2021-11-05T14:56:29.797Z",
+    "controlDate": "2022-04-01T12:10:07.603Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124294,7 +124338,7 @@
     "rfStatewide": false,
     "name": "Groß-Gerauer Echo",
     "type": "print",
-    "controlDate": "2021-10-21T15:06:50.901Z",
+    "controlDate": "2022-04-01T11:48:07.709Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124304,7 +124348,7 @@
   },
   {
     "pressPublishingIntervals": 312,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-146f-440f-9ba2-a8a3de0c3432",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -124337,7 +124381,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2021-09-27T16:38:13.382Z",
+    "controlDate": "2022-04-01T13:15:28.987Z",
     "state": "active"
   },
   {
@@ -124382,7 +124426,7 @@
   },
   {
     "pressPublishingIntervals": 365,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-0bd0-4319-851c-9859f4ffa105",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -125024,7 +125068,7 @@
   },
   {
     "pressPublishingIntervals": 156,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-b5e0-49c6-aff0-9e65c518a5bb",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -125416,7 +125460,7 @@
     "rfStatewide": false,
     "name": "Main-Spitze",
     "type": "print",
-    "controlDate": "2021-10-29T12:22:44.728Z",
+    "controlDate": "2022-04-01T10:54:44.169Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125460,7 +125504,7 @@
     "rfStatewide": false,
     "name": "Wormser Zeitung",
     "type": "print",
-    "controlDate": "2021-11-19T12:42:59.114Z",
+    "controlDate": "2022-04-01T10:55:55.773Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125480,7 +125524,7 @@
     "rfStatewide": false,
     "name": "Lampertheimer Zeitung",
     "type": "print",
-    "controlDate": "2021-10-27T08:56:15.569Z",
+    "controlDate": "2022-04-01T11:05:52.783Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125498,9 +125542,9 @@
       "type": "organization"
     },
     "rfStatewide": false,
-    "name": "Main-Taunus-Kurier",
+    "name": "Idsteiner Zeitung",
     "type": "print",
-    "controlDate": "2021-10-29T12:24:13.338Z",
+    "controlDate": "2022-04-01T10:54:24.253Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125600,7 +125644,7 @@
     "rfStatewide": false,
     "name": "Hofheimer Zeitung",
     "type": "print",
-    "controlDate": "2021-10-25T12:44:48.417Z",
+    "controlDate": "2022-04-01T12:01:23.340Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125641,7 +125685,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2021-12-13T15:50:42.011Z",
+    "controlDate": "2022-04-01T10:57:53.972Z",
     "state": "active"
   },
   {
@@ -125683,7 +125727,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2021-11-19T12:42:05.159Z",
+    "controlDate": "2022-04-01T10:56:29.116Z",
     "state": "active"
   },
   {
@@ -125701,7 +125745,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2021-12-01T13:51:42.952Z",
+    "controlDate": "2022-04-01T11:04:08.628Z",
     "state": "active"
   },
   {
@@ -125719,7 +125763,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2021-10-27T08:56:34.416Z",
+    "controlDate": "2022-04-01T11:05:37.372Z",
     "state": "active"
   },
   {
@@ -125755,7 +125799,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2021-11-19T10:28:48.963Z",
+    "controlDate": "2022-04-01T10:57:29.732Z",
     "state": "active"
   },
   {
@@ -125806,7 +125850,7 @@
       "state": "active"
     },
     "controlDate": "2021-10-25T12:44:59.807Z",
-    "state": "active"
+    "state": "archived"
   },
   {
     "organization": {
@@ -125823,7 +125867,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2021-10-25T12:44:10.255Z",
+    "controlDate": "2022-04-01T11:56:31.889Z",
     "state": "active"
   },
   {
@@ -128413,6 +128457,30 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "6246fbaf-a70c-448d-85bc-5d9e9fd29f48",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.p-stadtkultur.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-04-01T13:18:48.584Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-5fa6-4d08-949e-6f45a587811d",
@@ -128475,6 +128543,26 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "pressPublishingIntervals": 12,
+    "state": "active",
+    "squuid": "6246fb94-ec6e-42c0-87df-00db2d1ad92a",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "P Stadtkulturmagazin",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2022-04-01T13:22:16.008Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
   },
   {
     "pressPublishingIntervals": 312,

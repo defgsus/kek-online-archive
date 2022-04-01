@@ -2,16 +2,6 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "FSM Mediendienste GmbH",
-        "squuid": "5be1a6b6-be2a-44db-a527-3a29b1889d4b"
-      },
-      "squuid": "5be1a6b8-a444-44ed-969d-c1096f08ee12",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 74.9,
       "held": {
         "name": "RheinMainMedia GmbH",
@@ -106,15 +96,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "Rüsselsheimer Echo",
-        "squuid": "5be1a6b1-bc2a-44e9-b021-e2e2a1c654cf"
-      },
-      "squuid": "5ee35158-2433-42c9-9928-30b275c21de5",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "Gießener Allgemeine",
         "squuid": "5be1a6b1-c1e1-4af3-8b5a-96c278d49f21"
       },
@@ -164,6 +145,15 @@
         "squuid": "5be1a6b1-b0a0-4079-852b-85a94829674f"
       },
       "squuid": "60017a6f-e264-4e55-87b7-365c700ab64d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hofheimer Zeitung",
+        "squuid": "5be1a6b1-86ee-4d14-bce2-82d50f376e2a"
+      },
+      "squuid": "6246e9a9-c051-498c-a89c-a6952af62bf4",
       "state": "active"
     }
   ],

@@ -1,7 +1,6 @@
 {
-  "pressPublishingIntervals": 52,
+  "pressPublishingIntervals": 5,
   "state": "active",
-  "rfShoppingChannel": false,
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
     "name": "Publikumszeitschrift",
@@ -9,13 +8,12 @@
     "state": "active"
   },
   "pressAsOfDate": "2022",
-  "squuid": "5be1a6b1-8913-4d28-bca1-d20614b98749",
+  "squuid": "62470125-1d00-40ae-a718-7f51a6d94cf9",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
@@ -23,24 +21,23 @@
         "name": "VRM GmbH & Co KG",
         "squuid": "5be1a6b6-17dc-47b0-87cc-2b1436e1a864"
       },
-      "squuid": "5be1a6b9-9568-484d-a55e-f1a7811edc7f",
+      "squuid": "62470198-e6e3-4183-bda8-f49fdcba6e3a",
       "state": "active"
     }
   ],
-  "name": "Kruschel",
+  "name": "fratz",
   "pressEditionsIVW": false,
-  "pressDistributionArea": "Region Mainz/Wiesbaden",
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "Region Darmstadt/Südhessen",
   "type": "print",
-  "controlDate": "2022-04-01T12:03:45.552Z",
-  "pressKind": "Kinder",
-  "onlineOfferType": {
-    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
-    "name": "Online Medienangebot",
-    "type": "online-offer-type",
-    "state": "active"
+  "controlDate": "2022-04-01T13:42:57.504Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
   },
-  "pressEditionsComments": "",
-  "pressEditionsSold": 7500,
+  "pressKind": "Regional",
+  "pressEditionsSold": 25000,
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",
