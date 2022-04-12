@@ -119684,11 +119684,11 @@ digraph {
     type=shareholder
     state=active
     label="Weber, Gunthard"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=199
+    num_medias_weighted=0.4725
     name="6242e258-9c1a-4d3b-ad41-faac0c220408"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11969 [
     type=shareholder
@@ -119744,11 +119744,11 @@ digraph {
     type=shareholder
     state=active
     label="Weber-Jensen, Cornelia"
-    num_medias=199
-    num_medias_weighted=0.4725
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-a2e4-48df-9f9a-e1dd6fa9d50c"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   11975 [
     type=shareholder
@@ -208125,6 +208125,10 @@ digraph {
     weight=24
     type=owns
   ];
+  11968 -> 11613 [
+    weight=1
+    type=owns
+  ];
   11969 -> 4325 [
     weight=52
     type=owns
@@ -208147,10 +208151,6 @@ digraph {
   ];
   11973 -> 10852 [
     weight=100
-    type=owns
-  ];
-  11974 -> 11613 [
-    weight=1
     type=owns
   ];
   11975 -> 1071 [
