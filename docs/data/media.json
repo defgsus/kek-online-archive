@@ -8343,6 +8343,30 @@
     "state": "archived"
   },
   {
+    "state": "active",
+    "squuid": "625689e5-1dd1-4b43-bba7-2f1d2c2a5751",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.2x45.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-04-13T08:29:46.745Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -8456,6 +8480,26 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "pressPublishingIntervals": 2,
+    "state": "active",
+    "squuid": "625689f1-31b6-4df3-b250-3e27cb0c038b",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "2x45",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2022-04-13T08:30:35.203Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Sport"
   },
   {
     "pressPublishingIntervals": 6,
