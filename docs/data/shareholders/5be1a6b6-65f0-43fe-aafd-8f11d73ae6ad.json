@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Rhön Med-Holding GmbH",
-        "squuid": "5be1a6b6-34e1-407c-92e9-da1d1fd0e17e"
-      },
-      "squuid": "5be1a6b8-a1b3-4848-9ddc-b54afa38bb86",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Baar (CH)",
   "pseudoCompany": false,
   "name": "Med Holding AG",
@@ -20,9 +8,10 @@
   "controlDate": "2021-11-10T11:25:09.987Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "credits": "IJK"
