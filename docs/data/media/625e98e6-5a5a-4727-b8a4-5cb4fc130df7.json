@@ -1,46 +1,43 @@
 {
-  "pressPublishingIntervals": 6,
+  "pressPublishingIntervals": 12,
   "state": "active",
-  "rfShoppingChannel": false,
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
     "name": "Publikumszeitschrift",
     "type": "press-magazine-type",
     "state": "active"
   },
-  "pressAsOfDate": "2021",
-  "squuid": "5be1a6b1-9755-47df-b4f0-dad07a2ebe34",
+  "pressAsOfDate": "2022",
+  "squuid": "625e98e6-5a5a-4727-b8a4-5cb4fc130df7",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
       "holder": {
-        "name": "Jahr Media GmbH & Co KG",
-        "squuid": "5be1a6b6-5664-4486-a5c5-07a45ecc7012"
+        "name": "Landwirtschaftsverlag GmbH",
+        "squuid": "5be1a6b6-31a6-4cfa-a630-deb9d1047291"
       },
-      "squuid": "5be1a6b9-f178-4f9a-976b-495ddaab4488",
+      "squuid": "625e996f-77f0-4782-a37e-9e18c64c6ca6",
       "state": "active"
     }
   ],
-  "name": "Angelsee Aktuell",
+  "name": "Matsch!",
   "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
   "pressDistributionArea": "bundesweit",
   "type": "print",
-  "controlDate": "2022-04-19T11:46:50.954Z",
-  "pressKind": "Sport",
-  "onlineOfferType": {
-    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
-    "name": "Online Medienangebot",
-    "type": "online-offer-type",
-    "state": "active"
+  "controlDate": "2022-04-19T11:11:40.747Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
   },
-  "pressEditionsComments": "Verlagsangabe",
-  "pressEditionsSold": 9400,
+  "pressKind": "Kinder",
+  "pressEditionsComments": "ohne Angaben zur Auflage",
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",
