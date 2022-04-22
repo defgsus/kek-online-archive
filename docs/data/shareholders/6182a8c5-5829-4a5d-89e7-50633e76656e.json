@@ -39,7 +39,7 @@
   "name": "Mittelbayerische Zeitung GmbH",
   "naturalPerson": false,
   "squuid": "6182a8c5-5829-4a5d-89e7-50633e76656e",
-  "controlDate": "2021-12-08T10:20:42.311Z",
+  "controlDate": "2022-04-22T14:57:17.118Z",
   "streetNumber": "15",
   "organizations": [
     {
@@ -97,6 +97,80 @@
     }
   ],
   "zipcode": "93047",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Bayerwald-Echo",
+        "squuid": "5be1a6b1-81d7-4beb-8811-69cd0634d1f9"
+      },
+      "squuid": "6262be28-6672-4bf1-8f0d-0492ae923149",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kötztinger Umschau",
+        "squuid": "5be1a6b1-773e-4828-b814-8a8667862bc6"
+      },
+      "squuid": "6262be85-018a-4ee0-b399-4219985add99",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Wörther Anzeiger",
+        "squuid": "5be1a6b1-1c87-4f0c-a3eb-57a08f44bed0"
+      },
+      "squuid": "6262bee0-eaec-4857-90c2-88eb9a3bd18e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Neumarkter Tagblatt",
+        "squuid": "5be1a6b1-d64a-42b3-b5b9-11b6b7cd36ee"
+      },
+      "squuid": "6262bf88-e682-4618-aad0-c2e04dd369c1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mittelbayerische Zeitung",
+        "squuid": "5be1a6b1-f82e-4a2c-b5b6-dae46ddb2f34"
+      },
+      "squuid": "6262bff7-9a7b-4a35-a665-919524e0bef4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mittelbayerische.de",
+        "squuid": "5be1a6b1-fd22-4730-ae82-445d94ca3507"
+      },
+      "squuid": "6262c0ce-fd70-4adc-bf37-5618e3ddd181",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Wirtschaftszeitung",
+        "squuid": "5be1a6b1-e32f-457d-ab7c-58b858359981"
+      },
+      "squuid": "6262c112-5d5c-4f5d-8b52-d35b24b045a1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fupa.net/region/oberpfalz",
+        "squuid": "61543559-4518-4715-b069-75bae9781ecb"
+      },
+      "squuid": "6262c149-d06e-40c6-8ba5-52f57760e3a8",
+      "state": "active"
+    }
+  ],
   "ownedBy": [
     {
       "type": "own",
