@@ -18,7 +18,7 @@
   "name": "PG Vierte VV GmbH",
   "naturalPerson": false,
   "squuid": "61b75e8f-e2f8-4b94-a1dc-df4872b2c515",
-  "controlDate": "2021-12-29T14:39:40.791Z",
+  "controlDate": "2022-04-25T11:47:11.045Z",
   "streetNumber": "25",
   "organizations": [
     {
@@ -104,5 +104,47 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "45128"
+  "zipcode": "45128",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Grotkamp, Petra",
+        "squuid": "5be1a6b6-d986-4268-a5c4-1c3c7fef7b55"
+      },
+      "squuid": "61cc72dc-e357-4197-a279-75d8c47f2192",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.0,
+      "holder": {
+        "name": "Wilcke, Niklas",
+        "squuid": "5be1a6b6-88f9-4131-839e-ccade4f32e56"
+      },
+      "squuid": "61cc7302-88e5-4d78-a2fd-634320ae936b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.0,
+      "holder": {
+        "name": "Marx, Nora",
+        "squuid": "5be1a6b6-4348-4802-a97b-1a7b0ad2e639"
+      },
+      "squuid": "61cc7310-f55a-4763-a3a8-5fbf07208e89",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.0,
+      "holder": {
+        "name": "Becker, Julia",
+        "squuid": "5be1a6b6-d21a-4543-a222-952d41c4ce0b"
+      },
+      "squuid": "61cc7328-c0fb-4ef2-9879-6074606af704",
+      "state": "active"
+    }
+  ]
 }
