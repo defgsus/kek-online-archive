@@ -1,12 +1,29 @@
 {
   "name": "Raphaela Habermann",
   "squuid": "626a5729-01be-4105-98a4-8c93f1da00e2",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Radio und TV GAP-GmbH Programmanbieter",
+        "squuid": "5be1a6b6-1953-4e3c-a808-0f4c0106cae8"
+      },
+      "squuid": "626a5751-1b6b-4c84-8b6c-5d9261469cc5",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "state": "active"
