@@ -1,0 +1,39 @@
+{
+  "name": "Ingenio Holding Company, LLC",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Alpine Investors Ingenio CV, L.P.",
+        "squuid": "62711589-df14-44eb-bd7d-3c6209921dc2"
+      },
+      "squuid": "62711c22-14ff-4c39-bab3-8a01025861cb",
+      "state": "active"
+    }
+  ],
+  "squuid": "627114f8-3a68-4bef-a27e-f443ed0ccd0f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Ingenio, LLC",
+        "squuid": "627114d6-8259-4026-93be-55a340b93971"
+      },
+      "squuid": "62711bd7-0da5-4eac-8f4e-588bb502ad87",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

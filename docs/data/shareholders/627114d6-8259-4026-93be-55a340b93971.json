@@ -1,0 +1,39 @@
+{
+  "name": "Ingenio, LLC",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ingenio Holding Company, LLC",
+        "squuid": "627114f8-3a68-4bef-a27e-f443ed0ccd0f"
+      },
+      "squuid": "62711bd7-0da5-4eac-8f4e-588bb502ad87",
+      "state": "active"
+    }
+  ],
+  "squuid": "627114d6-8259-4026-93be-55a340b93971",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Horoscope.com, Inc.",
+        "squuid": "627114a6-0212-43b8-9c0e-523daed3918a"
+      },
+      "squuid": "62711b98-d49b-4248-b623-ddb352b2fdb4",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}
