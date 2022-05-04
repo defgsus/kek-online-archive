@@ -80627,7 +80627,7 @@ digraph {
     num_medias=33
     num_medias_weighted=1.3372
     name="5be1a6b6-ef99-4634-836e-dfecf0d08f20"
-    in_degree=2
+    in_degree=1
     out_degree=5
   ];
   8063 [
@@ -80637,18 +80637,18 @@ digraph {
     num_medias=33
     num_medias_weighted=0.0000
     name="5ece622d-407b-4752-8c14-978522219ca4"
-    in_degree=1
+    in_degree=0
     out_degree=1
   ];
   8064 [
     type=shareholder
     state=active
     label="Pfeiffer, Ursula"
-    num_medias=33
-    num_medias_weighted=1.3372
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-42b6-4ea2-9c45-075726b63892"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   8065 [
     type=shareholder
@@ -189081,14 +189081,6 @@ digraph {
   ];
   8063 -> 8062 [
     weight=1
-    type=owns
-  ];
-  8064 -> 8062 [
-    weight=100
-    type=owns
-  ];
-  8064 -> 8063 [
-    weight=100
     type=owns
   ];
   8065 -> 9080 [
