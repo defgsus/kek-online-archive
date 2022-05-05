@@ -70,11 +70,29 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
       "name": "MA HSH",
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "zipcode": "92637"
+  "zipcode": "92637",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Freuding-Spintler, Dr. Renate",
+        "squuid": "5d10c451-9a1d-4504-b351-62cb7e69a34d"
+      },
+      "squuid": "61cc6073-c245-4268-a1e2-6a22ea71eebf",
+      "state": "active"
+    }
+  ]
 }

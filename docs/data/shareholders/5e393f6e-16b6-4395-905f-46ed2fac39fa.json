@@ -1,20 +1,32 @@
 {
-  "corporationName": "KKR",
-  "name": "KKR Holdings L.P.",
-  "controlDate": "2022-01-13T10:57:32.155Z",
-  "squuid": "5e393f6e-16b6-4395-905f-46ed2fac39fa",
   "owns": [
     {
       "type": "own",
       "capitalShares": 32.3,
       "held": {
-        "name": "KKR & Co. Inc.",
+        "name": "KKR Group Co. Inc.",
         "squuid": "5e393d86-e2fc-4607-a91b-2b958b8c3753"
       },
       "squuid": "5e4f8a50-30ef-452b-9649-537d596abfe8",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "KKR Group Partnership L.P.",
+        "squuid": "62737c3e-559f-4951-9727-325dd53240e7"
+      },
+      "squuid": "62737da9-775b-4678-93c8-13dd9b773e76",
+      "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "KKR Group Holdings L.P.",
+  "naturalPerson": false,
+  "squuid": "5e393f6e-16b6-4395-905f-46ed2fac39fa",
+  "controlDate": "2022-01-13T10:57:32.155Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -111,5 +123,5 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "state": "active"
+  "corporationName": "KKR"
 }

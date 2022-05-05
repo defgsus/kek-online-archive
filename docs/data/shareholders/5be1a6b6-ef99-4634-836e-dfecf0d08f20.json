@@ -99,6 +99,12 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
       "name": "MA HSH",
       "type": "organization",
@@ -120,16 +126,6 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Pfeiffer, Ursula",
-        "squuid": "5be1a6b6-42b6-4ea2-9c45-075726b63892"
-      },
-      "squuid": "5be1a6b7-dd60-4a70-813b-c3d4b984bb1e",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -138,6 +134,16 @@
         "squuid": "5ece622d-407b-4752-8c14-978522219ca4"
       },
       "squuid": "5ece624f-5f97-44db-a940-fbd781900923",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nordbayerische Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-c472-41cd-929b-92ddc54a0324"
+      },
+      "squuid": "625fff6d-6b06-411b-8fe4-109eb44fd045",
       "state": "active"
     }
   ]
