@@ -41370,6 +41370,32 @@
   },
   {
     "state": "active",
+    "squuid": "6274cbfb-9c5b-4b22-b16d-7e91b27cc0b5",
+    "organization": {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    "rfStatewide": false,
+    "name": "ZOUND1 MAX",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "5f104694-07e6-4a92-9e98-84180d0160d1",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -42315,6 +42341,30 @@
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2021-11-23T14:41:50.994Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "6274dd16-d5d7-431a-b1c8-ee2d58a1ec09",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.kronendach.com",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-05-06T08:33:41.975Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

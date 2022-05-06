@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Essen",
+  "pseudoCompany": false,
+  "street": "Jakob-Funke-Platz",
+  "name": "Funke One GmbH",
+  "naturalPerson": false,
+  "squuid": "6274dd53-1042-4cc5-b19b-82c8cd02ba50",
+  "controlDate": "2022-05-06T08:34:42.142Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "45127",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kronendach.com",
+        "squuid": "6274dd16-d5d7-431a-b1c8-ee2d58a1ec09"
+      },
+      "squuid": "6274dd87-64c8-4aa4-bc81-0a02eba3f1a0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Mediengruppe GmbH & Co. KGaA",
+        "squuid": "5be1a6b6-6d6f-4b05-b3c4-8202f7c67653"
+      },
+      "squuid": "6274df13-7962-465a-bdd3-5d0bfd85a099",
+      "state": "active"
+    }
+  ]
+}

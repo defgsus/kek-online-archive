@@ -1,5 +1,6 @@
 {
   "name": "Haindl, Dr. Georg",
+  "pseudoCompany": false,
   "squuid": "61e6c1e2-1ddf-4053-a1c1-32042b2d2fa1",
   "owns": [
     {
@@ -15,15 +16,12 @@
   ],
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }

@@ -1,16 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 40.66,
-      "held": {
-        "name": "adviqo Management und Verwaltungs GmbH",
-        "squuid": "5be1a6b6-d6bc-4a3d-bcab-2c5ad339c36f"
-      },
-      "squuid": "5be1a6b8-96f0-4d35-bc65-60a5e9e5e57e",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Grünwald",
   "pseudoCompany": false,
@@ -23,14 +11,10 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "82031",
@@ -38,7 +22,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 45.87,
+      "capitalShares": 33.28,
       "holder": {
         "name": "Anteilseigner mit Anteilen von jeweils unter 5%",
         "squuid": "5be1a6b6-d934-4405-a5fd-68be068689a6"
@@ -94,6 +78,26 @@
         "squuid": "5be1a6b6-e8df-4826-96ed-6a12820da2d7"
       },
       "squuid": "5be1a6b8-6124-4fb6-add3-c2dfe6e5362f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.52,
+      "holder": {
+        "name": "Haindl, Dr. Georg",
+        "squuid": "61e6c1e2-1ddf-4053-a1c1-32042b2d2fa1"
+      },
+      "squuid": "61e6c2e5-87a1-436f-b763-66d9acad490d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.05,
+      "holder": {
+        "name": "BlackRock Private Equity Partners VI Master, L.P. ",
+        "squuid": "61e6c217-b419-4b5e-acbe-a9a082d69b20"
+      },
+      "squuid": "61e6c2ff-c569-414c-8e49-204e150c36b3",
       "state": "active"
     }
   ]
