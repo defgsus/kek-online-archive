@@ -1,26 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 89.6,
-      "held": {
-        "name": "Büro Dr. M. Droste GmbH & Co KG",
-        "squuid": "5be1a6b6-5736-4379-870e-7dc77444bbfc"
-      },
-      "squuid": "5be1a6b8-488f-4862-aa0d-8e75ca4624da",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Dr. M. Droste Verwaltungs GmbH",
-        "squuid": "5eb94614-2486-4a3f-bb09-0efd0b490fb8"
-      },
-      "squuid": "6050a398-ac26-4c9d-ad23-a508a2a23782",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Düsseldorf",
   "pseudoCompany": false,
@@ -30,45 +8,10 @@
   "controlDate": "2019-06-21T11:52:06.679Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
-      "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
-    },
-    {
-      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "LMK",
-      "type": "organization",
-      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
-    },
-    {
-      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LfM",
-      "type": "organization",
-      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
-    },
-    {
-      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-      "name": "TLM",
-      "type": "organization",
-      "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
   "credits": "IJK"
