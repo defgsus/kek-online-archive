@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Passau",
   "pseudoCompany": false,
   "street": "Kapuzinerstr. 19",
@@ -9,43 +9,12 @@
   "controlDate": "2021-12-01T13:51:23.302Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "94032",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Bürgerblick Passauer Freie Presse",
-        "squuid": "5be1a6b1-f58c-400f-a8e7-97ed16ec08d1"
-      },
-      "squuid": "5be1a6b9-d28d-4d0e-8b35-1b1353c4a6fc",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.buergerblick.de",
-        "squuid": "5be1a6b1-069b-4385-aec8-e54cd8da07b5"
-      },
-      "squuid": "5be1a6b9-bfa6-4f1f-a8a7-f0ed0fcab68d",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Denk, Hubert J.",
-        "squuid": "5be1a6b6-f395-41d0-9d29-b999e264d82a"
-      },
-      "squuid": "5be1a6b8-9ea3-4af3-b459-9ffd4fee9928",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

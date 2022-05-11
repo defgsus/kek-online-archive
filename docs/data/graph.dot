@@ -16972,12 +16972,12 @@ digraph {
   ];
   1697 [
     type=print
-    state=active
+    state=archived
     label="Bürgerblick Passauer Freie Presse"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-f58c-400f-a8e7-97ed16ec08d1"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   1698 [
@@ -21432,13 +21432,13 @@ digraph {
   ];
   2143 [
     type=shareholder
-    state=active
+    state=archived
     label="Denk, Hubert J."
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-f395-41d0-9d29-b999e264d82a"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   2144 [
     type=shareholder
@@ -82492,13 +82492,13 @@ digraph {
   ];
   8249 [
     type=shareholder
-    state=active
+    state=archived
     label="Pressebüro Mediendenk"
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-4b37-4e70-b69a-f8c9f5f22f44"
-    in_degree=1
-    out_degree=2
+    in_degree=0
+    out_degree=0
   ];
   8250 [
     type=shareholder
@@ -127152,12 +127152,12 @@ digraph {
   ];
   12715 [
     type=online
-    state=active
+    state=archived
     label="www.buergerblick.de"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-069b-4385-aec8-e54cd8da07b5"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   12716 [
@@ -159367,10 +159367,6 @@ digraph {
     weight=10
     type=owns
   ];
-  2143 -> 8249 [
-    weight=100
-    type=owns
-  ];
   2144 -> 2063 [
     weight=9.03
     type=owns
@@ -190114,14 +190110,6 @@ digraph {
   8248 -> 3734 [
     weight=1
     type=owns
-  ];
-  8249 -> 1697 [
-    weight=100
-    type=operates
-  ];
-  8249 -> 12715 [
-    weight=100
-    type=operates
   ];
   8250 -> 8251 [
     weight=1
