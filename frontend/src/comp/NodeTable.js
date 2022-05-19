@@ -9,6 +9,8 @@ const COLUMNS = [
     {data: "state", title: "state"},
     {data: "in_degree", title: "num in", align: "right"},
     {data: "out_degree", title: "num out", align: "right"},
+    {data: "num_owners", title: "num owners", align: "right"},
+    {data: "num_owners_weighted", title: "num owners (weighted)", align: "right"},
     {data: "num_medias", title: "num medias", align: "right"},
     {data: "num_medias_weighted", title: "num medias (weighted)", align: "right"},
 ];

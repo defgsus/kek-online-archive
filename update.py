@@ -2,7 +2,7 @@ from src.kek import Kek, KekObject
 
 
 def main():
-    kek = Kek(verbose=True, caching="upgrade")
+    kek = Kek(verbose=True, caching=True)#"upgrade")
     print(len(kek.medias), "media")
     print(len(kek.holders), "shareholders")
 

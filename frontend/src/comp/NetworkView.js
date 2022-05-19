@@ -107,7 +107,7 @@ const to_vis_edges = (entry) => {
         to: other.id,
         value: other.weight,
         label: other.weight,
-        color: TYPE_COLOR_MAPPING[entry.type][0],
+        color: TYPE_COLOR_MAPPING[other.type][0],
     })).concat(entry.nodes_in.map(other => ({
         from: other.id,
         to: entry.id,

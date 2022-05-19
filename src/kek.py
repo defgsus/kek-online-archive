@@ -175,6 +175,7 @@ class Kek:
                 key=lambda h: h["name"].lstrip().lower()
         ):
             owned_medias = entry.all_owned_medias()
+            all_owners = entry.all_owners()
 
             graph.add_vertex(
                 entry["squuid"],
@@ -185,8 +186,10 @@ class Kek:
                     # avoid " in names because visjs can not handle them
                     .replace('"', "'")
                 ),
+                num_owners=len(all_owners),
+                num_owners_weighted=f"{sum(m[1] for m in all_owners):.4f}",
                 num_medias=len(owned_medias),
-                num_medias_weighted=f"{sum(m[1] for m in owned_medias):.4f}"
+                num_medias_weighted=f"{sum(m[1] for m in owned_medias):.4f}",
             )
 
         edge_set = set()
@@ -300,6 +303,30 @@ class KekObject(dict):
             if own not in visited:
                 visited.add(own)
                 own._all_owned_medias(medias, visited, top_share * share / 100.)
+
+    def all_owners(self) -> List[Tuple["KekObject", float]]:
+        visited = set()
+        owners = []
+        self._all_owners(owners, visited, 1.)
+        return owners
+
+    def _all_owners(
+            self,
+            owners: List[Tuple["KekObject", float]],
+            visited: Set["KekObject"],
+            top_share: float = 1.,
+    ):
+        for owner in self.operators:
+            if owner not in visited:
+                owners.append((owner, top_share))
+                visited.add(owner)
+                owner._all_owners(owners, visited, top_share)
+
+        for owner, share in self.owners:
+            if owner not in visited:
+                owners.append((owner, top_share))
+                visited.add(owner)
+                owner._all_owners(owners, visited, top_share * share / 100.)
 
     def top_owners(self):
         if self.is_media():
