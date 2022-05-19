@@ -56194,11 +56194,11 @@ digraph {
     type=shareholder
     state=active
     label="KKR & Co. Inc."
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=175
+    num_medias_weighted=21.0467
     name="62737c79-5671-4f78-a66b-a2667fb01a08"
     in_degree=2
-    out_degree=0
+    out_degree=1
   ];
   5620 [
     type=shareholder
@@ -56217,18 +56217,18 @@ digraph {
     num_medias=175
     num_medias_weighted=21.0467
     name="5e393d86-e2fc-4607-a91b-2b958b8c3753"
-    in_degree=4
+    in_degree=3
     out_degree=2
   ];
   5622 [
     type=shareholder
     state=active
     label="KKR Group Holdings L.P."
-    num_medias=177
-    num_medias_weighted=6.9951
+    num_medias=2
+    num_medias_weighted=0.1970
     name="5e393f6e-16b6-4395-905f-46ed2fac39fa"
     in_degree=0
-    out_degree=2
+    out_degree=1
   ];
   5623 [
     type=shareholder
@@ -107584,18 +107584,18 @@ digraph {
     type=shareholder
     state=active
     label="Streubesitz der KKR & Co. Inc."
-    num_medias=175
-    num_medias_weighted=13.0700
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e3955d9-e146-4bdf-b04f-ec8d3917ee38"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   10759 [
     type=shareholder
     state=active
     label="Streubesitz ehem. Limited Partner der KKR Holdings L.P."
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=175
+    num_medias_weighted=19.8891
     name="62738075-6daf-4f99-9c93-5b6b03df851d"
     in_degree=0
     out_degree=1
@@ -176539,16 +176539,16 @@ digraph {
     weight=30
     type=owns
   ];
+  5619 -> 5621 [
+    weight=100
+    type=owns
+  ];
   5621 -> 5620 [
     weight=100
     type=owns
   ];
   5621 -> 5627 [
     weight=100
-    type=owns
-  ];
-  5622 -> 5621 [
-    weight=32.3
     type=owns
   ];
   5622 -> 5623 [
@@ -202181,10 +202181,6 @@ digraph {
   ];
   10757 -> 5097 [
     weight=90
-    type=owns
-  ];
-  10758 -> 5621 [
-    weight=62.1
     type=owns
   ];
   10759 -> 5619 [
