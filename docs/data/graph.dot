@@ -23147,7 +23147,7 @@ digraph {
     num_medias=68
     num_medias_weighted=0.0000
     name="5ec29ddd-1a79-4b9a-a241-415ff5504dbc"
-    in_degree=7
+    in_degree=6
     out_degree=1
   ];
   2315 [
@@ -47654,11 +47654,11 @@ digraph {
     type=shareholder
     state=active
     label="Hilscher, Stefan"
-    num_medias=68
-    num_medias_weighted=1.1711
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-8ef8-4455-9f55-27fd7eccaa0c"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   4766 [
     type=shareholder
@@ -52287,7 +52287,7 @@ digraph {
     num_medias=68
     num_medias_weighted=4.0991
     name="5be1a6b6-f510-4e21-936a-e3cd3b4719a3"
-    in_degree=7
+    in_degree=6
     out_degree=5
   ];
   5229 [
@@ -172697,14 +172697,6 @@ digraph {
   ];
   4761 -> 8834 [
     weight=1
-    type=owns
-  ];
-  4765 -> 2314 [
-    weight=20
-    type=owns
-  ];
-  4765 -> 5228 [
-    weight=28.57
     type=owns
   ];
   4766 -> 4309 [
