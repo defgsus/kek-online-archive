@@ -1,6 +1,4 @@
 {
-  "name": "Stefan Hilscher Consulting GmbH",
-  "squuid": "627cfd3b-6996-4e8a-a122-cc6ad325c0d7",
   "owns": [
     {
       "type": "own",
@@ -11,8 +9,27 @@
       },
       "squuid": "627cfd5e-8c9d-4db1-8061-87e797311878",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.14,
+      "held": {
+        "name": "J. Hoffmann GmbH & Co KG",
+        "squuid": "5be1a6b6-f510-4e21-936a-e3cd3b4719a3"
+      },
+      "squuid": "62822752-a891-4b68-a6ff-f18e49a72cc2",
+      "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Weite Gasse",
+  "name": "Stefan Hilscher Consulting GmbH",
+  "naturalPerson": false,
+  "squuid": "627cfd3b-6996-4e8a-a122-cc6ad325c0d7",
+  "controlDate": "2022-06-03T12:30:02.966Z",
+  "streetNumber": "15",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -97,5 +114,5 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "state": "active"
+  "zipcode": "86150"
 }
