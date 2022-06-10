@@ -33901,16 +33901,6 @@ digraph {
     out_degree=2
   ];
   3390 [
-    type=radio
-    state=active
-    label=FEMOTION
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="60643a2f-eda3-4a47-9a18-8f747b541dd2"
-    in_degree=1
-    out_degree=0
-  ];
-  3391 [
     type=shareholder
     state=active
     label="FEMOTION GmbH"
@@ -33919,6 +33909,16 @@ digraph {
     name="60643af2-2747-40e0-b1d5-73ffdd5f5d4c"
     in_degree=3
     out_degree=2
+  ];
+  3391 [
+    type=radio
+    state=active
+    label="FEMOTION Radio"
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="60643a2f-eda3-4a47-9a18-8f747b541dd2"
+    in_degree=1
+    out_degree=0
   ];
   3392 [
     type=shareholder
@@ -165499,11 +165499,11 @@ digraph {
     weight=100
     type=operates
   ];
-  3391 -> 3390 [
+  3390 -> 3391 [
     weight=100
     type=operates
   ];
-  3391 -> 13045 [
+  3390 -> 13045 [
     weight=100
     type=operates
   ];
@@ -170471,7 +170471,7 @@ digraph {
     weight=9.7
     type=owns
   ];
-  4277 -> 3391 [
+  4277 -> 3390 [
     weight=10
     type=owns
   ];
@@ -204063,7 +204063,7 @@ digraph {
     weight=25
     type=owns
   ];
-  11097 -> 3391 [
+  11097 -> 3390 [
     weight=80
     type=owns
   ];
@@ -208439,7 +208439,7 @@ digraph {
     weight=100
     type=owns
   ];
-  11931 -> 3391 [
+  11931 -> 3390 [
     weight=10
     type=owns
   ];
