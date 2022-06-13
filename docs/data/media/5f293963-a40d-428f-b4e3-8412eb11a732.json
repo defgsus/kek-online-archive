@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "5f293963-a40d-428f-b4e3-8412eb11a732",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.esquire.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2021-10-14T15:08:47.880Z",
+  "controlDate": "2022-06-13T10:45:38.088Z",
+  "onlineIVWPI": 1085600,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 923200,
+  "onlineAGOF": 330000
 }

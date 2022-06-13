@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Detmold",
   "pseudoCompany": false,
   "street": "Leonardo-da-Vinci-Weg",
@@ -10,22 +10,12 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "32760",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Extra / tour",
-        "squuid": "5be1a6b1-eee7-4b8a-b3e6-a4029a964196"
-      },
-      "squuid": "5be1a6b9-4538-4467-9d61-1b6a83528e18",
-      "state": "active"
-    }
-  ],
   "credits": "IJK"
 }

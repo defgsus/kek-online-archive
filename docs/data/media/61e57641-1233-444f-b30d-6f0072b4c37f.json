@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "61e57641-1233-444f-b30d-6f0072b4c37f",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.firmenauto.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-01-17T13:59:43.314Z",
+  "controlDate": "2022-06-13T12:51:46.303Z",
+  "onlineIVWPI": 847400,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 121400,
+  "onlineAGOF": 90000
 }

@@ -22542,13 +22542,13 @@ digraph {
   ];
   2254 [
     type=shareholder
-    state=active
+    state=archived
     label="Deutsches Jugendherbergswerk Hauptverband für Jugendwandern und Jugendherbergen e.V."
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-5e84-4f34-8597-485910bc2c41"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   2255 [
     type=tv
@@ -28614,8 +28614,8 @@ digraph {
     type=shareholder
     state=active
     label="Eigenbesitz der medien holding:nord GmbH"
-    num_medias=111
-    num_medias_weighted=0.3059
+    num_medias=112
+    num_medias_weighted=0.3060
     name="5be1a6b6-bdde-4b80-80ce-56366855590a"
     in_degree=0
     out_degree=1
@@ -32722,12 +32722,12 @@ digraph {
   ];
   3272 [
     type=print
-    state=active
+    state=archived
     label="Extra / tour"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-eee7-4b8a-b3e6-a4029a964196"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   3273 [
@@ -34393,7 +34393,7 @@ digraph {
   3439 [
     type=print
     state=active
-    label="FIR Fußßball im Rheinland"
+    label="FIR Fußball im Rheinland"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3a8f-49fa-bf35-0c75c40d8dc4"
@@ -67794,8 +67794,8 @@ digraph {
     type=shareholder
     state=active
     label="medien holding:nord gmbh"
-    num_medias=111
-    num_medias_weighted=65.0851
+    num_medias=112
+    num_medias_weighted=65.1044
     name="5be1a6b6-3a49-498e-ac48-b7da3a2e673b"
     in_degree=3
     out_degree=12
@@ -77164,8 +77164,8 @@ digraph {
     type=shareholder
     state=active
     label="NOZ MEDIEN Beteiligungs GmbH"
-    num_medias=111
-    num_medias_weighted=9.7172
+    num_medias=112
+    num_medias_weighted=9.7201
     name="5be1a6b6-978a-43ec-995c-775364973f19"
     in_degree=2
     out_degree=1
@@ -77174,8 +77174,8 @@ digraph {
     type=shareholder
     state=active
     label="NOZ MEDIEN Holding GmbH"
-    num_medias=111
-    num_medias_weighted=55.0620
+    num_medias=112
+    num_medias_weighted=55.0783
     name="5be1a6b6-9108-41f9-83fc-659e3d06e8c5"
     in_degree=2
     out_degree=1
@@ -77184,8 +77184,8 @@ digraph {
     type=shareholder
     state=active
     label="NOZ MEDIEN Verlags GmbH"
-    num_medias=111
-    num_medias_weighted=55.0620
+    num_medias=112
+    num_medias_weighted=55.0783
     name="5be1a6b6-682a-49d4-b30c-7af1031ec849"
     in_degree=1
     out_degree=1
@@ -77194,8 +77194,8 @@ digraph {
     type=shareholder
     state=active
     label="NOZ MEDIEN Vertriebs- und Logistik GmbH"
-    num_medias=111
-    num_medias_weighted=9.7172
+    num_medias=112
+    num_medias_weighted=9.7201
     name="5be1a6b6-1e5c-4de6-888b-9d2fbe561d64"
     in_degree=1
     out_degree=1
@@ -82977,7 +82977,7 @@ digraph {
     num_medias=1
     num_medias_weighted=1.0000
     name="621cc626-22eb-44c9-b383-2237d947b390"
-    in_degree=14
+    in_degree=15
     out_degree=1
   ];
   8298 [
@@ -100444,17 +100444,17 @@ digraph {
     type=shareholder
     state=active
     label="sh:z Schleswig-Holsteinischer Zeitungsverlag GmbH & Co KG"
-    num_medias=42
-    num_medias_weighted=41.1429
+    num_medias=43
+    num_medias_weighted=41.1622
     name="5be1a6b6-5d33-48ab-a772-58018e1c1510"
     in_degree=2
-    out_degree=43
+    out_degree=44
   ];
   10045 [
     type=shareholder
     state=active
     label="sh:z Verwaltungs GmbH"
-    num_medias=42
+    num_medias=43
     num_medias_weighted=0.0000
     name="5ebe9122-c49a-4dca-b17b-a465184904a4"
     in_degree=1
@@ -160131,10 +160131,6 @@ digraph {
     weight=1
     type=owns
   ];
-  2254 -> 3272 [
-    weight=100
-    type=operates
-  ];
   2256 -> 2255 [
     weight=100
     type=operates
@@ -199329,6 +199325,10 @@ digraph {
   ];
   10044 -> 6762 [
     weight=6.67
+    type=owns
+  ];
+  10044 -> 8297 [
+    weight=1.93
     type=owns
   ];
   10044 -> 2166 [
