@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "ingame GmbH",
+        "squuid": "620d1f9f-f791-4566-bf58-0a12ea51a74d"
+      },
+      "squuid": "620d20e8-7c7f-42c9-91e7-d645b05c500d",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Hamm",
   "pseudoCompany": false,
@@ -33,6 +45,51 @@
         "squuid": "5d35d162-e52d-47cd-b9cb-822f9a6b9755"
       },
       "squuid": "5f5f49c7-32fb-4fd5-acb3-bcf52d8dfff3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.24auto.de",
+        "squuid": "620d1e19-2df4-44e6-9008-4e581dfec605"
+      },
+      "squuid": "62a88e43-0d50-4aec-81b7-15199857c30b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.24royal.de",
+        "squuid": "620d1ec5-e892-45cf-b211-0f429c028c04"
+      },
+      "squuid": "62a88f74-a309-442f-a6f0-d94b9a3f6abc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.24vita.de",
+        "squuid": "620d1e44-a368-49bc-9255-4ea381305ac8"
+      },
+      "squuid": "62a89002-b7b8-40a6-9f40-c8be11746e54",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.24rhein.de",
+        "squuid": "62a8905c-4b35-4467-925c-b601252a8c98"
+      },
+      "squuid": "62a8907d-b2d4-4437-ab99-55ce709aa56a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bw24.de",
+        "squuid": "62a89889-5839-472d-a79c-a5f15e10cba8"
+      },
+      "squuid": "62a898ba-efa2-47e4-937e-097e6ed4df90",
       "state": "active"
     }
   ],

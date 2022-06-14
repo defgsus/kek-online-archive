@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Lennestadt",
+  "pseudoCompany": false,
+  "street": "Kölner Str.",
+  "name": "Kurier Verlag Lennestadt GmbH",
+  "naturalPerson": false,
+  "squuid": "62a8bbef-9358-422c-b9f4-3a73c65a618b",
+  "controlDate": "2022-06-14T16:53:19.204Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "57368",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sauerlandkurier.de",
+        "squuid": "62a8bc11-60e7-414b-bfdd-202a68410343"
+      },
+      "squuid": "62a8bc4c-b487-40c5-8304-a58b15246dbd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Westfälischer Anzeiger Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-1155-4281-b6ac-c4879ebd2c19"
+      },
+      "squuid": "62a8bcfe-5f37-45bb-ae84-d4f7ba50c3ce",
+      "state": "active"
+    }
+  ]
+}

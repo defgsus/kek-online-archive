@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Bremen",
+  "pseudoCompany": false,
+  "street": "Zollpfad",
+  "name": "Deichstube GmbH",
+  "naturalPerson": false,
+  "squuid": "62a89e1f-8cb9-401d-93ca-c10371c55d9d",
+  "controlDate": "2022-06-14T14:42:42.646Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "28217",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deichstube.de",
+        "squuid": "62a89e14-d158-4234-a3a3-6af1feedba06"
+      },
+      "squuid": "62a89e45-fd4c-420c-887c-2a3f7f5d60c2",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Bremer Tageszeitungen AG",
+        "squuid": "5be1a6b6-d195-4cf4-a6a4-906cfae4b85f"
+      },
+      "squuid": "62a89edc-7897-44a7-8e77-688863075f02",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kreiszeitung Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-490a-4fa8-9053-eee04d29612a"
+      },
+      "squuid": "62a89eee-6e83-49f4-a7b7-ebbb78f1597c",
+      "state": "active"
+    }
+  ]
+}

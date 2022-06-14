@@ -1,0 +1,76 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Rundschau-Verlag GmbH",
+        "squuid": "62a89adf-2e1b-418e-8e0c-a1bbaa34e758"
+      },
+      "squuid": "62a89c0d-4cc6-4925-8c98-1fb3aec82e8e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Kurier Verlag GmbH",
+        "squuid": "62a8afd5-1b2b-4ec3-a7da-31a205712516"
+      },
+      "squuid": "62a8b0da-ab00-448c-bbd7-870005ab977e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Weilheim",
+  "pseudoCompany": false,
+  "street": "Am Weidenbach",
+  "name": "Kreisboten-Verlag Mühlfellner KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "62a89bec-01a0-4d7d-9fba-bde58a6d035b",
+  "controlDate": "2022-06-14T14:34:59.721Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82362",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kreisbote.de",
+        "squuid": "62a8a846-3a7b-401c-a672-977153f78c8e"
+      },
+      "squuid": "62a8a87f-481e-4d03-95c3-873832500aed",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kreisboten-Verlag Verwaltungsgesellschaft mbH",
+        "squuid": "62a89c8a-9a15-412c-b01f-59be2b1fa45c"
+      },
+      "squuid": "62a89cf5-3cf4-4e7e-a87e-8c592e17451e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zeitungsverlag Oberbayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-baa5-4644-bd90-1f917d261023"
+      },
+      "squuid": "62a89da8-e628-401a-89d6-72ad04cd61a1",
+      "state": "active"
+    }
+  ]
+}

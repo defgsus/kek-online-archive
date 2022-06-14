@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Nordbuzz GmbH & Co. KG ",
-        "squuid": "5d41615c-c191-4dd7-ac9a-c527181d8f0b"
-      },
-      "squuid": "5eff24bb-b6d7-48e8-a214-b7ff4f34acf3",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Bremen",
   "pseudoCompany": false,
   "street": "Wachtstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "17-24",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "28195",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Nordbuzz GmbH & Co. KG ",
-        "squuid": "5d41615c-c191-4dd7-ac9a-c527181d8f0b"
-      },
-      "squuid": "5eff251a-c94d-4d3f-9984-1f1643919aa6",
-      "state": "active"
-    }
-  ]
+  "zipcode": "28195"
 }

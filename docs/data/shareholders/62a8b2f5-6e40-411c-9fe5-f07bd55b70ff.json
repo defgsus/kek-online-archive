@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Extra-Tip Verwaltungs-GmbH",
+        "squuid": "62a8b365-6b5c-4565-b17a-c8aa869700f5"
+      },
+      "squuid": "62a8b46b-d40e-4645-90e6-46a85bd716a5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Kassel",
+  "pseudoCompany": false,
+  "street": "Frankfurter Str.",
+  "name": "Extra-Tip Werbegesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "62a8b2f5-6e40-411c-9fe5-f07bd55b70ff",
+  "controlDate": "2022-06-14T16:12:34.884Z",
+  "streetNumber": "168",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "34121",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lokalo24.de",
+        "squuid": "62a8b289-9e26-411f-8fe8-981ebaec068e"
+      },
+      "squuid": "62a8b313-360a-4fad-9a16-cc95abbf3d9b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlag Dierichs GmbH & Co. KG",
+        "squuid": "5be1a6b6-6af6-4d18-aba5-e87517df7d54"
+      },
+      "squuid": "62a8b3fd-7dcb-439f-be0d-977a0a68f226",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Extra-Tip Verwaltungs-GmbH",
+        "squuid": "62a8b365-6b5c-4565-b17a-c8aa869700f5"
+      },
+      "squuid": "62a8b40d-8071-4dd1-932b-9983152d7cb3",
+      "state": "active"
+    }
+  ]
+}

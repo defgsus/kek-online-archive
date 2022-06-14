@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Dessauerstr.",
+  "name": "Breu & Schneider GmbH",
+  "naturalPerson": false,
+  "squuid": "62a8a3cd-dc67-4499-b14b-6ec50aa13239",
+  "controlDate": "2022-06-14T15:07:44.667Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80992",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hallo-muenchen.de",
+        "squuid": "62a8a3e1-0f4a-418d-8608-52844b5852ca"
+      },
+      "squuid": "62a8a410-807c-4789-a961-3569a900bb11",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zeitungsverlag Oberbayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-baa5-4644-bd90-1f917d261023"
+      },
+      "squuid": "62a8a4b8-da26-4841-8cc0-290953793d0e",
+      "state": "active"
+    }
+  ]
+}
