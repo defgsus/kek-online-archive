@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Auggen",
   "pseudoCompany": false,
   "street": "Blauenblickstr.",
@@ -10,53 +10,12 @@
   "streetNumber": "18",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "79424",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Freude am Zeichnen",
-        "squuid": "5be1a6b1-7ec8-46d8-bf34-9d396b480405"
-      },
-      "squuid": "5be1a6b9-d65d-446a-b3e6-6e3743acc03b",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Philipp die Maus",
-        "squuid": "5be1a6b1-5fbd-4826-9ede-2d18312d5599"
-      },
-      "squuid": "5be1a6b9-6cea-43c8-b032-f399c644935c",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Landa, Norbert",
-        "squuid": "5be1a6b6-6cc5-4ac2-b1ce-e38a381a007f"
-      },
-      "squuid": "5be1a6b8-5786-4f5e-bfa6-7f692a012395",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Türk, Hannelore",
-        "squuid": "5be1a6b6-d0e7-411b-b4c3-e58dba70ab09"
-      },
-      "squuid": "5be1a6b8-faa6-43ef-9f55-ccf20b52cb99",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

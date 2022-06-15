@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "VDL Sachsen Holding GmbH & Co. KG",
-        "squuid": "5ee73e60-4b49-493f-9fc9-cb8aa8261ed0"
-      },
-      "squuid": "5ee73f44-13a1-496f-a7aa-2b9fb08730f3",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Chemnitz",
   "pseudoCompany": false,
   "street": "Winkelhofer Str.",
@@ -23,22 +10,11 @@
   "streetNumber": "20",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "09116",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Medien Union GmbH Ludwigshafen",
-        "squuid": "5be1a6b6-c7c8-4983-84f6-ada451aec436"
-      },
-      "squuid": "5ee73fcf-0a2d-4c66-bac1-bc76446af071",
-      "state": "active"
-    }
-  ]
+  "zipcode": "09116"
 }

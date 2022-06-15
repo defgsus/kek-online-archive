@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Vogtland-Anzeiger Betriebs-GmbH & Co. KG",
-        "squuid": "5bfff26c-fed1-4db3-9d8f-bf9a6b3da45c"
-      },
-      "squuid": "5ee73c8a-41f7-4c29-bad9-8025752522a9",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Chemnitz",
   "pseudoCompany": false,
   "street": "Brückenstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "15",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "09111",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "VDL Sachsen Holding GmbH & Co. KG",
-        "squuid": "5ee73e60-4b49-493f-9fc9-cb8aa8261ed0"
-      },
-      "squuid": "5ee73e94-d140-4c9c-96bf-6565284b0c74",
-      "state": "active"
-    }
-  ]
+  "zipcode": "09111"
 }

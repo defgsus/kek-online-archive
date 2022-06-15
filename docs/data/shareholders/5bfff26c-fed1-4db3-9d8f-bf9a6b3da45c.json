@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Chemnitz",
   "pseudoCompany": false,
   "street": "Brückenstraße",
@@ -11,53 +11,11 @@
   "streetNumber": "15",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "09111",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Vogtland-Anzeiger",
-        "squuid": "5be1a6b1-eb93-432b-8519-9280318790b6"
-      },
-      "squuid": "5bfff30c-81ef-496e-b345-d56ec5fb9b62",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.vogtland-anzeiger.de",
-        "squuid": "5be1a6b1-c009-447e-86ab-6a2aeb8b2beb"
-      },
-      "squuid": "5bfff675-d284-4bc1-8469-d2a1d4cf6665",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Chemnitzer Verlag und Druck GmbH & Co KG",
-        "squuid": "5be1a6b6-cfcd-42de-a2aa-c349ee9aa887"
-      },
-      "squuid": "5bfff392-03bd-49cf-917d-d73a377e936a",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Vogtland-Anzeiger Geschäftsführungs-GmbH",
-        "squuid": "5ee73c4c-c647-421d-8a1b-5e65ecda2c5f"
-      },
-      "squuid": "5ee73c8a-41f7-4c29-bad9-8025752522a9",
-      "state": "active"
-    }
-  ]
+  "zipcode": "09111"
 }

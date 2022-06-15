@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "5f27fb30-f73a-49c1-be7d-a89b2b950a21",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,8 @@
   "name": "www.89.0rtl.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2021-11-22T11:33:44.503Z",
+  "controlDate": "2022-06-15T14:28:39.892Z",
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +33,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 116700,
+  "onlineAGOF": 100000
 }
