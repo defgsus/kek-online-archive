@@ -1,7 +1,6 @@
 {
-  "pressPublishingIntervals": 52,
+  "pressPublishingIntervals": 12,
   "state": "active",
-  "rfShoppingChannel": false,
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
     "name": "Publikumszeitschrift",
@@ -9,37 +8,36 @@
     "state": "active"
   },
   "pressAsOfDate": "IV/21",
-  "squuid": "5be1a6b1-1ec4-4e56-a632-4105aad95ec0",
+  "squuid": "62ac4f3e-0da6-450e-a37e-a89f53c8c54f",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
       "holder": {
-        "name": "Handballwoche GmbH",
-        "squuid": "5be1a6b6-7479-416b-85e7-29d855e94223"
+        "name": "Haus & Grund Deutschland Verlag und Service GmbH",
+        "squuid": "5be1a6b6-9959-4fbb-b5e2-a00480f28916"
       },
-      "squuid": "5be1a6b9-cbbf-4549-89db-dbce130a6cff",
+      "squuid": "62ac4fab-77de-4e31-98eb-889ca996d267",
       "state": "active"
     }
   ],
-  "name": "Handballwoche",
+  "name": "Hamburger Grundeigentum",
   "pressEditionsIVW": true,
-  "pressDistributionArea": "bundesweit",
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "Stadt Hamburg",
   "type": "print",
-  "controlDate": "2022-06-17T10:00:38.038Z",
-  "pressKind": "Sport",
-  "onlineOfferType": {
-    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
-    "name": "Online Medienangebot",
-    "type": "online-offer-type",
-    "state": "active"
+  "controlDate": "2022-06-17T09:54:16.436Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
   },
-  "pressEditionsSold": 5149,
+  "pressKind": "Regional",
+  "pressEditionsSold": 32012,
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",

@@ -1,7 +1,39 @@
 {
   "name": "Wessinghage, Manuel",
   "squuid": "629a10a5-6902-4a8c-bda6-6ce51fda4fc6",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Beteiligungsgesellschaft für SPIEGEL-Mitarbeiter mbH",
+        "squuid": "5df23bd7-7697-47ef-bfca-b139a647c829"
+      },
+      "squuid": "629a110c-62fd-4319-8b99-4d2039c90db2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "KG Beteiligungsgesellschaft für SPIEGEL-Mitarbeiter mbH & Co.",
+        "squuid": "5be1a6b6-4416-48cc-b784-a80a013f474c"
+      },
+      "squuid": "629a1196-d391-4b80-a222-a3cd2ee2f8c7",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
