@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Kassel",
   "pseudoCompany": false,
   "street": "Ochshäuser Straße 45",
@@ -9,34 +9,12 @@
   "controlDate": "2021-10-27T07:47:23.503Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "34123",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "KulturMagazin (Kassel)",
-        "squuid": "5be1a6b1-a562-4b6b-b32c-52289bfe9626"
-      },
-      "squuid": "5be1a6b9-8644-494c-983b-1884c1a0ce6a",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Faste, Michael",
-        "squuid": "5be1a6b6-ef7d-4aac-9754-a4f61f49d99c"
-      },
-      "squuid": "5be1a6b8-f7b7-402c-9335-ff8ba6a3e90b",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

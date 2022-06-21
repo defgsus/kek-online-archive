@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Zeitungsverlag Kornwestheim GmbH & Co KG",
-        "squuid": "5be1a6b6-7fa0-4a30-bda8-c75e1fddbe83"
-      },
-      "squuid": "5ed0f782-f35d-4f09-850b-689c770a0256",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Kornwestheim",
   "pseudoCompany": false,
   "street": "Bahnhofstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "5",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "70806",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
-        "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b"
-      },
-      "squuid": "5ed0f9ac-8f02-4478-aa67-b2ebfe0a0bdb",
-      "state": "active"
-    }
-  ]
+  "zipcode": "70806"
 }

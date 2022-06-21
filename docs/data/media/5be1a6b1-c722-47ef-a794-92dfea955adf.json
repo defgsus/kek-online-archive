@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "onlineAsOfDateIVW": "5/20",
+  "onlineAsOfDateIVW": "12/21",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-c722-47ef-a794-92dfea955adf",
   "organization": {
@@ -9,15 +9,6 @@
     "type": "organization"
   },
   "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "LR Medienverlag GmbH",
-        "squuid": "5be1a6b6-9618-436a-86d4-98c0dbaae5cd"
-      },
-      "squuid": "5be1a6b9-fc2b-4828-bcbd-026ed6842fcb",
-      "state": "active"
-    },
     {
       "type": "operate",
       "holder": {
@@ -35,20 +26,29 @@
       },
       "squuid": "60829bcd-1a9b-4fd1-a8ad-ac73c535697f",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Berliner Redaktionsgesellschaft mbH",
+        "squuid": "5d035e6b-9d10-4d11-8eab-6decd6b79aae"
+      },
+      "squuid": "62b1d2e2-e656-4a54-85a2-369c53380832",
+      "state": "active"
     }
   ],
   "name": "www.lr-online.de",
   "pressEditionsIVW": false,
   "type": "online",
-  "controlDate": "2021-10-27T14:06:04.957Z",
-  "onlineIVWPI": 4506000,
-  "onlineAsOfDateAGOF": "5/20",
+  "controlDate": "2022-06-21T14:04:41.658Z",
+  "onlineIVWPI": 5789600,
+  "onlineAsOfDateAGOF": "11/21",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "onlineVisitsIVW": 2589000,
-  "onlineAGOF": 920000
+  "onlineVisitsIVW": 3433100,
+  "onlineAGOF": 610000
 }

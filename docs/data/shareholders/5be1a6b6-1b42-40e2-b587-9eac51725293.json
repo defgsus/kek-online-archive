@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Köln",
   "pseudoCompany": false,
   "street": "St.-Apern-Straße",
@@ -10,22 +10,12 @@
   "streetNumber": "32",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "50667",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Kolpingmagazin",
-        "squuid": "5be1a6b1-111e-4f0c-93e6-4e3534b2d1a0"
-      },
-      "squuid": "5be1a6b9-beab-4a1b-b2a8-9cd5b816f227",
-      "state": "active"
-    }
-  ],
   "credits": "IJK"
 }

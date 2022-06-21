@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "NBCUniversal Global Networks Deutschland GmbH",
+        "squuid": "5be1a6b6-86f5-4f42-95b0-2c0b050b904e"
+      },
+      "squuid": "62a9e31f-2946-4cf6-8d93-a3cfa73bed33",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Unterföhring",
   "pseudoCompany": false,
@@ -12,6 +24,11 @@
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
       "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
       "type": "organization"
     }
   ],
