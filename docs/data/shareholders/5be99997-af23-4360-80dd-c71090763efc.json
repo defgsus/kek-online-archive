@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Zirndorf",
   "pseudoCompany": false,
   "street": "Hertzstraße",
@@ -10,33 +10,11 @@
   "streetNumber": "27",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "90513",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Metropol News",
-        "squuid": "5be998bb-55ad-48ef-83c0-ca2f444ae929"
-      },
-      "squuid": "5be999ae-e88c-42a9-a575-cfd7a1da2114",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Eschenbacher, Elke",
-        "squuid": "5be99a25-a039-4038-82b0-23ecd0c5d4a2"
-      },
-      "squuid": "5be99a3a-8ff3-4853-a41b-52af4c48b7b5",
-      "state": "active"
-    }
-  ]
+  "zipcode": "90513"
 }

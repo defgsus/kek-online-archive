@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Littenstr.",
+  "name": "DMB-Verlag Verlags- und Verwaltungsgesellschaft des Deutschen Mieterbundes mbH",
+  "naturalPerson": false,
+  "squuid": "62b32aab-957c-46d3-a54b-758c23ffa59f",
+  "controlDate": "2022-06-22T14:46:38.689Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10179",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MieterZeitung",
+        "squuid": "62b32a74-2247-48f6-9c9d-0efbc4c9772e"
+      },
+      "squuid": "62b32b14-a2da-418c-9d28-4e3a9ad948f9",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Deutscher Mieterbund",
+        "squuid": "62b32ad5-c9c2-4f7d-847b-b1df7e936611"
+      },
+      "squuid": "62b32b78-45db-4d3d-8540-8686b954e408",
+      "state": "active"
+    }
+  ]
+}

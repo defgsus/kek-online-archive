@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "onlineAsOfDateIVW": "5/20",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "5d2c5f8b-8576-4c04-b923-fdd3dc8f3edb",
   "marketReach": 0.02595266090510695,
   "organization": {
@@ -17,13 +17,22 @@
       },
       "squuid": "5d2c5ff7-256d-42f7-8493-9878e10d2ed2",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Passauer Neue Presse GmbH",
+        "squuid": "5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
+      },
+      "squuid": "62b2e257-a6d4-4eff-b25d-03dd26bd5542",
+      "state": "active"
     }
   ],
   "name": "www.wochenblatt.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-01-10T10:07:43.250Z",
-  "onlineIVWPI": 1974000,
+  "controlDate": "2022-06-22T09:34:23.259Z",
+  "onlineIVWPI": 797700,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -35,5 +44,5 @@
     "type": "online-offer-type",
     "state": "active"
   },
-  "onlineVisitsIVW": 967000
+  "onlineVisitsIVW": 556400
 }
