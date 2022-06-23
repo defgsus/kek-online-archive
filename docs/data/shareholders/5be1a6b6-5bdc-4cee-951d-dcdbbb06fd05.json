@@ -1,6 +1,18 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 97.0,
+      "held": {
+        "name": "Natur & Heilen GmbH & Co. KG",
+        "squuid": "5be1a6b6-6c95-4176-9852-e089c5077aba"
+      },
+      "squuid": "62b46a8f-7082-4cfd-a925-f161f426c4c9",
+      "state": "active"
+    }
+  ],
   "state": "active",
-  "city": "Frankfurt",
+  "city": "Frankfurt/M.",
   "pseudoCompany": false,
   "name": "Groß von Trockau, Paula",
   "naturalPerson": true,
@@ -8,10 +20,9 @@
   "controlDate": "2019-06-20T13:51:21.517Z",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "credits": "IJK"

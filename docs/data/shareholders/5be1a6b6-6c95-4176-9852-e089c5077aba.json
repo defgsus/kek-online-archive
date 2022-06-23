@@ -3,10 +3,11 @@
   "city": "München",
   "pseudoCompany": false,
   "street": "Nikolaistraße 5",
-  "name": "Verlag Natur & Heilen Inh. Hansjörg Volkhardt",
+  "name": "Natur & Heilen GmbH & Co. KG",
   "naturalPerson": false,
+  "limitedPartnership": true,
   "squuid": "5be1a6b6-6c95-4176-9852-e089c5077aba",
-  "controlDate": "2021-11-03T17:35:51.972Z",
+  "controlDate": "2022-06-23T13:28:49.246Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -38,13 +39,34 @@
   "credits": "IJK",
   "ownedBy": [
     {
+      "complementaryPartner": true,
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 0.0,
       "holder": {
-        "name": "Volkhardt, Hansjörg",
-        "squuid": "5be1a6b6-f2a9-4c9e-9806-ded6360d7d06"
+        "name": "Natur & Heilen Verwaltungs GmbH",
+        "squuid": "62b46904-3ba9-4290-afc8-dc6248e6a6ee"
       },
-      "squuid": "5be1a6b8-e6cd-4c55-8a08-052b997bc4db",
+      "squuid": "62b469b7-d6fc-4f2e-bbb3-a89c41ddf2f5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 97.0,
+      "holder": {
+        "name": "Groß von Trockau, Paula",
+        "squuid": "5be1a6b6-5bdc-4cee-951d-dcdbbb06fd05"
+      },
+      "squuid": "62b46a8f-7082-4cfd-a925-f161f426c4c9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Groß von Trockau, Karl",
+        "squuid": "62b46a72-0fd5-4389-8441-71e5954c03a1"
+      },
+      "squuid": "62b46aa2-a847-4894-95ff-0be84ea0fc8d",
       "state": "active"
     }
   ]
