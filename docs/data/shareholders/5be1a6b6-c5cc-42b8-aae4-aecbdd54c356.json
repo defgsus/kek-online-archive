@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Anklam",
   "pseudoCompany": false,
   "street": "Markt",
@@ -12,45 +12,12 @@
   "streetNumber": "7",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "17389",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Nordkurier (Ausgaben Vorpommern)",
-        "squuid": "5be1a6b1-c8bc-4b23-9bfc-27edcc98ae0a"
-      },
-      "squuid": "5be1a6b9-032b-4f7b-ae4e-3fe155480c54",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Nordkurier Mediengruppe GmbH & Co KG",
-        "squuid": "5be1a6b6-2919-4398-9b38-8299ccaf8b7d"
-      },
-      "squuid": "5be1a6b8-f580-4e4d-a2c4-f59567a4dab7",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Nordkurier Vorpommern Verwaltungs GmbH",
-        "squuid": "5ee0eac0-ab50-43e6-a037-675a3f7d3a82"
-      },
-      "squuid": "5ee0eadd-c865-4449-84db-81c000ff0cbc",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

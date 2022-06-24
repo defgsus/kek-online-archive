@@ -4,80 +4,10 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Nordkurier Neubrandenburg GmbH & Co KG",
-        "squuid": "5be1a6b6-9d62-4e5f-a390-e863057b8b21"
-      },
-      "squuid": "5be1a6b8-ffd4-4756-8d51-8f9ea69bc829",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Nordkurier Seenplatte GmbH & Co KG",
-        "squuid": "5be1a6b6-7fee-4684-961a-475fca29e1b3"
-      },
-      "squuid": "5be1a6b8-2e84-4d2e-be3e-8200e2c44dfa",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Nordkurier Vorpommern GmbH & Co KG",
-        "squuid": "5be1a6b6-c5cc-42b8-aae4-aecbdd54c356"
-      },
-      "squuid": "5be1a6b8-f580-4e4d-a2c4-f59567a4dab7",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Uckermark Kurier GmbH & Co KG",
-        "squuid": "5be1a6b6-efab-4bae-9e17-b9f93604ed29"
-      },
-      "squuid": "5be1a6b8-e557-47e3-ad9d-65867bf70fcc",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Nordkurier Seenplatte Verwaltungs GmbH",
-        "squuid": "5ee0e563-e51b-45a2-8cee-20323e7f91d8"
-      },
-      "squuid": "5ee0e64b-dd3b-4c43-bdd4-a34eeb05d415",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Nordkurier Neubrandenburg Verwaltungs GmbH",
-        "squuid": "5ee0e996-3f6a-4d6d-aa0f-2a4105e14ded"
-      },
-      "squuid": "5ee0ea13-7f45-482b-bcc8-747e4fd36213",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "Nordkurier Vorpommern Verwaltungs GmbH",
         "squuid": "5ee0eac0-ab50-43e6-a037-675a3f7d3a82"
       },
       "squuid": "5ee0eb2b-2622-4c03-a7f3-b7c8fd9841cf",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Uckermark Kurier Verwaltungs GmbH",
-        "squuid": "5ee0ebe1-4092-4ba5-a531-ee868253decf"
-      },
-      "squuid": "5ee0ec48-12c3-4f62-add3-a7614a00bfd6",
       "state": "active"
     },
     {
@@ -109,6 +39,16 @@
       },
       "squuid": "60ffb144-c7aa-4c79-842f-49adb24751be",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.1,
+      "held": {
+        "name": "Prisma-Verlag GmbH & Co. KG",
+        "squuid": "621cc626-22eb-44c9-b383-2237d947b390"
+      },
+      "squuid": "62274890-17ba-405e-9003-ac608ce5e43d",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -119,7 +59,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-2919-4398-9b38-8299ccaf8b7d",
-  "controlDate": "2021-11-04T14:46:50.781Z",
+  "controlDate": "2022-06-24T11:38:29.697Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -150,28 +90,10 @@
     {
       "type": "operate",
       "held": {
-        "name": "Nordkurier (Ausgaben Raum Neubrandenburg)",
-        "squuid": "5be1a6b1-2e2c-4d9e-b0fc-0ed8322c91b9"
-      },
-      "squuid": "5be1a6b9-4adc-4a1a-b7be-cab78c629354",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Nordkurier (Ausgaben Mecklenburgische Seenplatte)",
+        "name": "Nordkurier",
         "squuid": "5be1a6b1-a0b1-4b78-95c3-99d6f2f62eaa"
       },
       "squuid": "5be1a6b9-b819-4058-a130-4f4743f85515",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Nordkurier (Ausgaben Vorpommern)",
-        "squuid": "5be1a6b1-c8bc-4b23-9bfc-27edcc98ae0a"
-      },
-      "squuid": "5be1a6b9-ae2c-408a-ac6e-c0b70b408638",
       "state": "active"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Neubrandenburg",
   "pseudoCompany": false,
   "street": "Marktplatz",
@@ -12,45 +12,12 @@
   "streetNumber": "2",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "17033",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Nordkurier (Ausgaben Raum Neubrandenburg)",
-        "squuid": "5be1a6b1-2e2c-4d9e-b0fc-0ed8322c91b9"
-      },
-      "squuid": "5be1a6b9-f6ff-4a9f-a605-944bb093ef82",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Nordkurier Mediengruppe GmbH & Co KG",
-        "squuid": "5be1a6b6-2919-4398-9b38-8299ccaf8b7d"
-      },
-      "squuid": "5be1a6b8-ffd4-4756-8d51-8f9ea69bc829",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Nordkurier Neubrandenburg Verwaltungs GmbH",
-        "squuid": "5ee0e996-3f6a-4d6d-aa0f-2a4105e14ded"
-      },
-      "squuid": "5ee0e9b6-badd-4e11-a026-59b986dc75c5",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
