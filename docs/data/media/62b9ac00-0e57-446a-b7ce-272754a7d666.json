@@ -1,7 +1,6 @@
 {
   "state": "active",
-  "rfShoppingChannel": false,
-  "squuid": "5be1a6b1-76b8-4699-8a14-9e1ee7243f7e",
+  "squuid": "62b9ac00-0e57-446a-b7ce-272754a7d666",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -11,17 +10,22 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Adolf Deil GmbH & Co KG Druckerei und Verlag der Pirmasenser Zeitung",
-        "squuid": "5be1a6b6-0e6b-4771-afeb-2c8560fba822"
+        "name": "J. Esslinger GmbH & Co KG",
+        "squuid": "5be1a6b6-ca56-4d28-88af-dd06a71b26bc"
       },
-      "squuid": "5be1a6b9-72ae-4422-a59c-2e5abaea0874",
+      "squuid": "62b9ac1a-85a4-492d-a8ab-abf499869925",
       "state": "active"
     }
   ],
-  "name": "www.pirmasenser-zeitung.de",
-  "pressEditionsIVW": false,
+  "name": "www.meinenzkreis.de",
+  "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-06-27T14:18:59.338Z",
+  "controlDate": "2022-06-27T13:09:32.442Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
