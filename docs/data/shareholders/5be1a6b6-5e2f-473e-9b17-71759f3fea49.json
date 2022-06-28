@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Boppard",
   "pseudoCompany": false,
   "street": "Oberstr. 109",
@@ -9,54 +9,12 @@
   "controlDate": "2021-11-10T12:50:51.955Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "56154",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Rund um Boppard",
-        "squuid": "5be1a6b1-2049-4028-8f74-8dcaefd6ee0b"
-      },
-      "squuid": "5be1a6b9-1c24-4db0-88d1-cbbfd465e909",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 36.9,
-      "holder": {
-        "name": "Hübner, Bernd",
-        "squuid": "5be1a6b6-b253-4383-a469-a9ce931d4e97"
-      },
-      "squuid": "5be1a6b8-1efb-49e6-b04c-8393e01ad25c",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 36.9,
-      "holder": {
-        "name": "Hübner, Ralf",
-        "squuid": "5be1a6b6-60f5-47c2-9928-0642fc37cf62"
-      },
-      "squuid": "5be1a6b8-8776-4094-ad7c-9b8b48b0f455",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 26.2,
-      "holder": {
-        "name": "Hübner, Peter",
-        "squuid": "5be1a6b6-dab5-4122-9b4f-b35d67b1df53"
-      },
-      "squuid": "5be1a6b8-c081-43f1-9197-66eb10f35f0c",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

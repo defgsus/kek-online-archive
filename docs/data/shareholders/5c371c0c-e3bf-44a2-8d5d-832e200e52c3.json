@@ -1,81 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Bonn",
   "pseudoCompany": false,
   "street": "Rochusstr.",
   "name": "Rheinischer Landwirtschafts-Verlag GmbH",
   "naturalPerson": false,
   "squuid": "5c371c0c-e3bf-44a2-8d5d-832e200e52c3",
-  "controlDate": "2021-11-10T11:16:54.197Z",
+  "controlDate": "2022-06-28T09:41:30.581Z",
   "streetNumber": "18",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "53123",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Rheinlands Reiter + Pferde",
-        "squuid": "5be1a6b1-08b8-4d81-94a7-064eeab1eeb6"
-      },
-      "squuid": "5c371c2b-659d-4e3b-b473-8a1bf02e7ed1",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.reiter-pferde.de",
-        "squuid": "5c371c59-d0dc-49bc-a0f0-f2a9bf9029ea"
-      },
-      "squuid": "5c371c78-8e87-49fa-b24b-e4d3388cad9c",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 51.6,
-      "holder": {
-        "name": "Rheinischer Landwirtschafts-Verband e. V.",
-        "squuid": "5c37243b-4661-4b95-91ed-dd4fbc2380ba"
-      },
-      "squuid": "5c3724ed-e878-475d-8312-ad30973fd56b",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "holder": {
-        "name": "Provinzialverband Rheinischer Obst- und Gemüsebauern e. V.",
-        "squuid": "5c37245e-05d5-4b6a-b716-fb8b7322ce29"
-      },
-      "squuid": "5c372507-c557-43d1-9ae7-39fddc07cbf4",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.2,
-      "holder": {
-        "name": "Landwirtschaftskammer NRW",
-        "squuid": "5c372470-c3d9-4a75-92eb-86961321b0a1"
-      },
-      "squuid": "5c372524-b4ee-4aa3-a2a9-04412378452a",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 35.2,
-      "holder": {
-        "name": "13 rheinländische Kreisbauernschaften in der Rechtsform eingetragener Vereine",
-        "squuid": "5c3724a5-f5d5-4fcc-960d-4f8cec7ee36f"
-      },
-      "squuid": "5c372563-4791-46cd-bdc3-8ec9baf0202f",
-      "state": "active"
-    }
-  ]
+  "zipcode": "53123"
 }

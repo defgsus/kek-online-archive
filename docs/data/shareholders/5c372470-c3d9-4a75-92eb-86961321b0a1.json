@@ -1,16 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 3.2,
-      "held": {
-        "name": "Rheinischer Landwirtschafts-Verlag GmbH",
-        "squuid": "5c371c0c-e3bf-44a2-8d5d-832e200e52c3"
-      },
-      "squuid": "5c372524-b4ee-4aa3-a2a9-04412378452a",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Münster",
   "pseudoCompany": false,
@@ -22,9 +10,10 @@
   "streetNumber": "40",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "48147"
