@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Hannover",
   "pseudoCompany": false,
   "street": "Nordfelder Reihe 13",
@@ -9,43 +9,12 @@
   "controlDate": "2021-11-15T12:16:19.485Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "30159",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Stadtkind hannovermagazin",
-        "squuid": "5be1a6b1-8c0e-4aae-a249-9c34c0661969"
-      },
-      "squuid": "5be1a6b9-40f3-4eef-894b-846f8ebc9459",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.stadtkind-hannover.de",
-        "squuid": "5be1a6b1-5af3-4a2e-b613-7103b1b718c7"
-      },
-      "squuid": "5be1a6b9-d88b-4738-a56a-e11bc1772ed9",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Kompa, Lars",
-        "squuid": "5be1a6b6-c9ea-4f69-b60b-82c2ea2cee28"
-      },
-      "squuid": "5be1a6b8-cb3d-480f-965f-99eb5150762d",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

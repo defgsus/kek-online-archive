@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Osnabrück",
   "pseudoCompany": false,
   "street": "Möserstr. 27",
@@ -9,44 +9,12 @@
   "controlDate": "2021-11-15T12:13:23.811Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "49074",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Stadtblatt (Osnabrück)",
-        "squuid": "5be1a6b1-b9bd-45a6-b45e-26d91a01ba3b"
-      },
-      "squuid": "5be1a6b9-4659-48ad-a3f3-e7a065d56385",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Berkemeier, Andreas",
-        "squuid": "5be1a6b6-1ecb-4b54-b54e-25aae610ef39"
-      },
-      "squuid": "5be1a6b8-dec0-41a3-ab8e-341d3a47d897",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Witte, Roger",
-        "squuid": "5be1a6b6-823a-4b6d-a955-fa0c97f9cad4"
-      },
-      "squuid": "5be1a6b8-e38d-4354-a98b-4014517f8533",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

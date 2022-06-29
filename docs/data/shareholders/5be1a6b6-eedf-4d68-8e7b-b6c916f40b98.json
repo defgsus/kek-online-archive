@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Schwabach",
   "pseudoCompany": false,
   "street": "Mühlenstraße",
@@ -10,53 +10,12 @@
   "streetNumber": "4",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "91126",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Scooter & Sport",
-        "squuid": "5be1a6b1-618a-4c26-9b0c-b30d8a1f302a"
-      },
-      "squuid": "5be1a6b9-4c3a-4ca7-8d10-3a2a1cc908a2",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.scooterundsport.de",
-        "squuid": "5be1a6b1-6fa5-41d8-ad0c-2b9ff8e07997"
-      },
-      "squuid": "5be1a6b9-2863-4ba4-bab8-bdfd13987edb",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Wagner, Reinhold",
-        "squuid": "5be1a6b6-233f-49c8-9439-444965892f1d"
-      },
-      "squuid": "5be1a6b8-19bd-4a11-a467-67f6a393277e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Wimme, Günter",
-        "squuid": "5be1a6b6-d111-4995-8e3a-f9eac4e19031"
-      },
-      "squuid": "5be1a6b8-6ad1-43fa-905d-e6efdda4ff9c",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
