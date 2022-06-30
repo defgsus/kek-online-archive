@@ -1,41 +1,17 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "UNICUM GmbH & Co. KG",
-        "squuid": "5c530d70-fd6e-4080-927e-c21afba4c702"
-      },
-      "squuid": "5eea0f8a-c1aa-4599-8181-71614e05b56c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Bochum",
-  "pseudoCompany": false,
   "name": "Unicum Verwaltungs-GmbH",
-  "naturalPerson": false,
-  "squuid": "5eea0f70-f60e-44b0-8f8a-45af40fe690f",
+  "pseudoCompany": false,
   "controlDate": "2021-11-17T16:17:19.216Z",
+  "squuid": "5eea0f70-f60e-44b0-8f8a-45af40fe690f",
+  "city": "Bochum",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "UNICUM GmbH & Co. KG",
-        "squuid": "5c530d70-fd6e-4080-927e-c21afba4c702"
-      },
-      "squuid": "5eea11bc-df77-41c5-8de4-300bcd88d18b",
-      "state": "active"
-    }
-  ]
+  "state": "archived",
+  "naturalPerson": false
 }

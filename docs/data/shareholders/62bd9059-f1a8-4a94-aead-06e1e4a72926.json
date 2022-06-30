@@ -1,0 +1,74 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "held": {
+        "name": "Tichys Einblick GmbH",
+        "squuid": "5be1a6b6-c445-40b6-a418-85de6c9601db"
+      },
+      "squuid": "62bd960b-0259-474d-ae23-ff173e69840c",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Bayerstr.",
+  "name": "Holderstock Media GmbH",
+  "naturalPerson": false,
+  "squuid": "62bd9059-f1a8-4a94-aead-06e1e4a72926",
+  "controlDate": "2022-06-30T12:01:16.886Z",
+  "streetNumber": "71-73",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80335",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Tichys Einblick",
+        "squuid": "5be1a6b1-b9ae-44af-912f-37a9e5165bbc"
+      },
+      "squuid": "62bd906e-86dc-4469-babf-6b9eee7de26e",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Entwurf Partner AG",
+        "squuid": "5be1a6b6-4b56-4a3b-8d46-1258e0e8d4ab"
+      },
+      "squuid": "62bd9517-0000-4b09-acd5-5237881d80d5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Röner, Sonja",
+        "squuid": "62bd946f-9be1-4a95-9693-01a9c727d68e"
+      },
+      "squuid": "62bd9525-7fc6-48e6-b213-fcfd097b75a6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Lummer, Marion",
+        "squuid": "62bd945f-7412-453f-951a-0da4bdc25bd3"
+      },
+      "squuid": "62bd9531-8e0c-44cc-812d-328117f8e856",
+      "state": "active"
+    }
+  ]
+}

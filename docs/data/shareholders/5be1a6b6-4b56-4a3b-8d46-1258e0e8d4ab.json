@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "held": {
+        "name": "Holderstock Media GmbH",
+        "squuid": "62bd9059-f1a8-4a94-aead-06e1e4a72926"
+      },
+      "squuid": "62bd9517-0000-4b09-acd5-5237881d80d5",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Bühler(CH)",
   "pseudoCompany": false,
@@ -8,10 +20,9 @@
   "controlDate": "2021-10-14T15:31:34.219Z",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "credits": "IJK",
