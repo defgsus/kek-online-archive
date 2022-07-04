@@ -1,19 +1,4 @@
 {
-  "name": "Ingenio Europe GmbH",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Horoscope.com, Inc.",
-        "squuid": "627114a6-0212-43b8-9c0e-523daed3918a"
-      },
-      "squuid": "62711b55-353b-4353-803f-996ae233aaf9",
-      "state": "active"
-    }
-  ],
-  "squuid": "62711460-073e-498b-baea-4f2fd23b722c",
   "owns": [
     {
       "type": "own",
@@ -26,6 +11,12 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Ingenio Europe GmbH",
+  "naturalPerson": false,
+  "squuid": "62711460-073e-498b-baea-4f2fd23b722c",
+  "controlDate": "2022-07-04T13:22:58.780Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -38,6 +29,16 @@
       "type": "organization"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Horoscope.com, Inc.",
+        "squuid": "627114a6-0212-43b8-9c0e-523daed3918a"
+      },
+      "squuid": "62711b55-353b-4353-803f-996ae233aaf9",
+      "state": "active"
+    }
+  ]
 }

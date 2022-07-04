@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "5f3d2ab3-de5a-4d7f-8cbf-1d85dc1b5ef9",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.antenne1.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2021-11-24T17:23:30.672Z",
+  "controlDate": "2022-07-04T11:02:20.758Z",
+  "onlineIVWPI": 389500,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 203400,
+  "onlineAGOF": 80000
 }

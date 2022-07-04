@@ -1,29 +1,4 @@
 {
-  "name": "Mediengesellschaft Zwickau GbR",
-  "controlDate": "2021-05-06T11:04:50.736Z",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Trtschka, Stephan",
-        "squuid": "5e4fde23-d54a-440d-a5af-f72941d32349"
-      },
-      "squuid": "5e4fde52-26fc-4175-98b4-5821e327e820",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Jacob, Mirko",
-        "squuid": "5e4fde35-135d-4687-a860-c2dfe2fe54f6"
-      },
-      "squuid": "5e4fde5c-6695-4209-a300-9422578f501b",
-      "state": "active"
-    }
-  ],
-  "squuid": "5e4fdd21-8c09-4675-9509-d2043905e47b",
   "owns": [
     {
       "type": "own",
@@ -46,6 +21,12 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Mediengesellschaft Zwickau GbR",
+  "naturalPerson": false,
+  "squuid": "5e4fdd21-8c09-4675-9509-d2043905e47b",
+  "controlDate": "2022-07-04T11:56:32.330Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -59,5 +40,26 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active"
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Trtschka, Stephan",
+        "squuid": "5e4fde23-d54a-440d-a5af-f72941d32349"
+      },
+      "squuid": "5e4fde52-26fc-4175-98b4-5821e327e820",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Jacob, Mirko",
+        "squuid": "5e4fde35-135d-4687-a860-c2dfe2fe54f6"
+      },
+      "squuid": "5e4fde5c-6695-4209-a300-9422578f501b",
+      "state": "active"
+    }
+  ]
 }

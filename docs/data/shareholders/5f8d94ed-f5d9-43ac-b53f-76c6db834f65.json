@@ -19,7 +19,7 @@
   "name": "7010 Radio Leipzig GmbH",
   "naturalPerson": false,
   "squuid": "5f8d94ed-f5d9-43ac-b53f-76c6db834f65",
-  "controlDate": "2022-01-11T15:44:03.090Z",
+  "controlDate": "2022-07-04T12:22:58.146Z",
   "streetNumber": "2",
   "organizations": [
     {
@@ -34,5 +34,27 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "04109"
+  "zipcode": "04109",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 95.0,
+      "holder": {
+        "name": "MHB Rundfunkbeteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-dde7-4bf5-98d0-f8935b6346bc"
+      },
+      "squuid": "61dda677-e6da-4e3a-a67f-3862409d0e5a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "CIB Beteiligungs GmbH",
+        "squuid": "5be1a6b6-c35a-4143-bcd5-fd91e5941b24"
+      },
+      "squuid": "61dda681-45e6-4015-a569-199f55b8d126",
+      "state": "active"
+    }
+  ]
 }

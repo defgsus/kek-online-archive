@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "5f354838-e1dd-43da-b803-213aec114195",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.bbradio.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2021-11-26T14:51:21.834Z",
+  "controlDate": "2022-07-04T14:38:14.521Z",
+  "onlineIVWPI": 159200,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 47600,
+  "onlineAGOF": 10000
 }
