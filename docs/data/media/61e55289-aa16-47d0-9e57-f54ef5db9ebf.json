@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "61e55289-aa16-47d0-9e57-f54ef5db9ebf",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.business-wissen.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-01-17T11:27:38.488Z",
+  "controlDate": "2022-07-05T10:10:40.608Z",
+  "onlineIVWPI": 475400,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 384600,
+  "onlineAGOF": 400000
 }
