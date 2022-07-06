@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "61e19f38-c065-4905-adf3-eba8f1dde23c",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.einfachbacken.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-01-14T16:05:20.026Z",
+  "controlDate": "2022-07-06T15:55:11.709Z",
+  "onlineIVWPI": 21194400,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 14832800,
+  "onlineAGOF": 4580000
 }

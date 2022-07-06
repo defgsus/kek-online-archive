@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 52.5,
-      "held": {
-        "name": "DS Media GmbH",
-        "squuid": "61e6f4f9-1c14-4b88-839d-9304df023083"
-      },
-      "squuid": "61e6f7e2-d999-44cd-ad84-a0837852a08c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Grünwald",
   "pseudoCompany": false,
   "street": "Bavariafilmplatz",
@@ -22,22 +10,11 @@
   "streetNumber": "7",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "82031",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Rocata GmbH",
-        "squuid": "61e809be-a7fc-48a4-84c9-e58c669fe298"
-      },
-      "squuid": "61e809da-1b13-4da6-8f04-39837733b8e5",
-      "state": "active"
-    }
-  ]
+  "zipcode": "82031"
 }

@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Adolf Remppis Verlag GmbH & Co KG",
-        "squuid": "5be1a6b6-6c87-4b36-bc2f-8d68f68a93f3"
-      },
-      "squuid": "5eddfbb2-504c-4058-a253-b4247f333612",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Marbach",
   "pseudoCompany": false,
   "street": "König-Wilhelm-Platz",
@@ -23,46 +10,11 @@
   "streetNumber": "2",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
-      "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "71672",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
-        "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b"
-      },
-      "squuid": "5ee0d320-9bba-41bf-ac38-651c6d0c5fc5",
-      "state": "active"
-    }
-  ]
+  "zipcode": "71672"
 }

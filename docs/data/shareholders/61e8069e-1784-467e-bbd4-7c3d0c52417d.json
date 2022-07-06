@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Holtzbrinck Ventures GmbH & Co. KG",
-        "squuid": "5be1a6b6-98ae-4453-aa59-28bcb0b06b44"
-      },
-      "squuid": "61e80774-aab4-41d0-8988-dbcde392434b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Kaiserstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "14b",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "80801",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "HV Holtzbrinck Ventures Fund IV LP",
-        "squuid": "61e80701-0fcc-46cd-bdb4-71a689b0cd48"
-      },
-      "squuid": "61e807cb-85c5-4149-b8bd-dbad7f714a29",
-      "state": "active"
-    }
-  ]
+  "zipcode": "80801"
 }

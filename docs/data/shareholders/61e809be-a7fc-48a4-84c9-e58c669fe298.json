@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Global Founders GmbH",
-        "squuid": "61e6f799-5753-443a-a115-898ceb2d3114"
-      },
-      "squuid": "61e809da-1b13-4da6-8f04-39837733b8e5",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Grünwald",
   "pseudoCompany": false,
   "street": "Bavariafilmplatz",
@@ -22,22 +10,11 @@
   "streetNumber": "7",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "82031",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Zerena GmbH",
-        "squuid": "61e80a84-17e2-43d2-bdcd-83f79377ba99"
-      },
-      "squuid": "61e80aa8-8f0f-49b5-bebd-1458dc395cb2",
-      "state": "active"
-    }
-  ]
+  "zipcode": "82031"
 }

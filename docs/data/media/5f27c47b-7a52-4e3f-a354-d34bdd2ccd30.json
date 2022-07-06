@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "5f27c47b-7a52-4e3f-a354-d34bdd2ccd30",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.esports.com",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2021-12-06T12:46:19.444Z",
+  "controlDate": "2022-07-06T17:06:55.789Z",
+  "onlineIVWPI": 1728400,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 900600,
+  "onlineAGOF": 400000
 }
