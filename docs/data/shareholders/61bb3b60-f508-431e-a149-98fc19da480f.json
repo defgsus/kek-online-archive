@@ -4,7 +4,7 @@
       "type": "own",
       "capitalShares": 10.0,
       "held": {
-        "name": "herFunk GmbH",
+        "name": "FEMOTION GmbH",
         "squuid": "60643af2-2747-40e0-b1d5-73ffdd5f5d4c"
       },
       "squuid": "61bb3c5f-49e0-47d3-af33-4a76d0b7d65c",
@@ -18,7 +18,7 @@
   "name": "GS Beteiligungs- und Vermögensverwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "61bb3b60-f508-431e-a149-98fc19da480f",
-  "controlDate": "2022-01-12T15:58:03.615Z",
+  "controlDate": "2022-07-07T08:56:49.390Z",
   "streetNumber": "9",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "04109"
+  "zipcode": "04109",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schmidt, Gerd",
+        "squuid": "61bb3bef-5d1a-4e03-b8c0-351b69549227"
+      },
+      "squuid": "61defa88-0781-4d61-a9d2-3dfd8aeb094e",
+      "state": "active"
+    }
+  ]
 }

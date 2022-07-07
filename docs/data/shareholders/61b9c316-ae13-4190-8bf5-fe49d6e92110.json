@@ -4,7 +4,7 @@
       "type": "own",
       "capitalShares": 80.0,
       "held": {
-        "name": "herFunk GmbH",
+        "name": "FEMOTION GmbH",
         "squuid": "60643af2-2747-40e0-b1d5-73ffdd5f5d4c"
       },
       "squuid": "61bb3af6-2747-4c81-a593-52ddafe61dfa",
@@ -18,7 +18,7 @@
   "name": "teutocast GmbH",
   "naturalPerson": false,
   "squuid": "61b9c316-ae13-4190-8bf5-fe49d6e92110",
-  "controlDate": "2022-01-14T10:33:50.153Z",
+  "controlDate": "2022-07-07T08:55:51.236Z",
   "streetNumber": "5",
   "organizations": [
     {
@@ -33,5 +33,27 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "04177"
+  "zipcode": "04177",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Bugovics Industries GmbH",
+        "squuid": "61bb3ba5-5324-4e3b-ac68-e42b31a794b4"
+      },
+      "squuid": "61e152f0-d54a-4ab3-92bd-83cd7eaeaf49",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "masqueradio GmbH",
+        "squuid": "61bb3bcb-b8d9-499e-8e96-34fa8e8aee18"
+      },
+      "squuid": "61e152ff-6b44-4131-90c4-0ec003c7b26a",
+      "state": "active"
+    }
+  ]
 }

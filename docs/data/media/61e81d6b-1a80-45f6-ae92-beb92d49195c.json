@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "61e81d6b-1a80-45f6-ae92-beb92d49195c",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.gewinnarena.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-01-19T14:17:23.255Z",
+  "controlDate": "2022-07-07T15:03:31.233Z",
+  "onlineIVWPI": 2621900,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 407200,
+  "onlineAGOF": 160000
 }

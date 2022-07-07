@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 5.45,
-      "held": {
-        "name": "United Internet AG",
-        "squuid": "5be1a6b6-31a4-4dcb-803b-bd766012a357"
-      },
-      "squuid": "61b0c4f7-5694-427e-9f6c-5c4ed99a883a",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Bern (CH)",
-  "pseudoCompany": false,
   "name": "Bernafon AG (Zerena Hörgeräte)",
-  "naturalPerson": false,
-  "squuid": "61b0c4ce-3d13-4e36-bac8-97f4f446f7dc",
+  "pseudoCompany": false,
   "controlDate": "2021-12-08T14:48:43.907Z",
+  "squuid": "61b0c4ce-3d13-4e36-bac8-97f4f446f7dc",
+  "city": "Bern (CH)",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "state": "archived",
+  "naturalPerson": false
 }
