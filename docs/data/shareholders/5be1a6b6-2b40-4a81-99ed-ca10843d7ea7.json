@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "St.-Cajetan-Straße 41",
@@ -9,34 +9,12 @@
   "controlDate": "2021-12-10T09:37:53.797Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "81669",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.jameda.de",
-        "squuid": "5be1a6b1-0667-40ad-a7f2-fe58b7474a5c"
-      },
-      "squuid": "5be1a6b9-3c36-49fd-885b-ed262161a5e1",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Burda Digital GmbH",
-        "squuid": "5be1a6b6-760e-40db-8c2e-337fee1c39d4"
-      },
-      "squuid": "5be1a6b8-c851-4e34-9bbc-1c423a052cd5",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

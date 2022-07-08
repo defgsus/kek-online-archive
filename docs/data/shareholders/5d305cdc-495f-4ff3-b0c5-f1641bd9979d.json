@@ -1,27 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "Ostruhr-Anzeigenblattgesellschaft mbH & Co KG",
-        "squuid": "5d3059a7-432e-4288-a284-a7386acf3c95"
-      },
-      "squuid": "5d305cf9-7d37-4b59-b0a1-e062d3247698",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "Ostruhr-Anzeigenblattverwaltungsgesellschaft mbH",
-        "squuid": "5efdc9c3-9b4b-4bfc-a8cb-644e33e85c05"
-      },
-      "squuid": "5efdcadc-6320-4a8e-b9f6-611d188b2259",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Essen",
   "pseudoCompany": false,
   "street": "Jakob-Funke-Platz ",
@@ -32,22 +10,11 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "45127",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Funke Medien NRW GmbH",
-        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
-      },
-      "squuid": "5d305d71-c740-407d-b567-fdc0a4a3c5f6",
-      "state": "active"
-    }
-  ]
+  "zipcode": "45127"
 }

@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Ostruhr-Anzeigenblattgesellschaft mbH & Co KG",
-        "squuid": "5d3059a7-432e-4288-a284-a7386acf3c95"
-      },
-      "squuid": "5efdca1b-9221-4512-bf8d-0a82e4c9cbbf",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Lünen",
   "pseudoCompany": false,
   "street": "Marktstr.",
@@ -23,32 +10,11 @@
   "streetNumber": "2a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "44532",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Funke ORA Holding GmbH",
-        "squuid": "5d305cdc-495f-4ff3-b0c5-f1641bd9979d"
-      },
-      "squuid": "5efdcadc-6320-4a8e-b9f6-611d188b2259",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Ruhr-Nachrichten Verlag & Co. KG",
-        "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793"
-      },
-      "squuid": "5efdcae8-d968-4e78-93b3-42e41d9f5665",
-      "state": "active"
-    }
-  ]
+  "zipcode": "44532"
 }

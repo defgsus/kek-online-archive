@@ -1,28 +1,17 @@
 {
-  "owns": [
+  "name": "DocPlanner SubHoldings B.V.",
+  "pseudoCompany": false,
+  "controlDate": "2022-01-13T10:09:24.750Z",
+  "squuid": "61dff99d-ab4e-4701-b4c0-231676963949",
+  "city": "Amsterdam (NL)",
+  "organizations": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "jameda GmbH",
-        "squuid": "5be1a6b6-2b40-4a81-99ed-ca10843d7ea7"
-      },
-      "squuid": "61dff9de-bd0a-44e5-b992-2f13b67db89c",
-      "state": "active"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "state": "active",
-  "city": "Amsterdam (NL)",
-  "pseudoCompany": false,
-  "name": "DocPlanner SubHoldings B.V.",
-  "naturalPerson": false,
-  "squuid": "61dff99d-ab4e-4701-b4c0-231676963949",
-  "controlDate": "2022-01-13T10:09:24.750Z",
-  "organizations": [
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    }
-  ]
+  "naturalPerson": false
 }

@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "5f3541bd-5da3-4523-bbdd-10dd0afd9a5e",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.jam.fm",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2021-12-10T09:32:25.447Z",
+  "controlDate": "2022-07-08T10:59:51.211Z",
+  "onlineIVWPI": 494200,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 170600,
+  "onlineAGOF": 70000
 }
