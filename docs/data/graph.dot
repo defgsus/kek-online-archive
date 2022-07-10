@@ -12504,8 +12504,8 @@ digraph {
     type=shareholder
     state=active
     label="BlackRock, Inc."
-    num_medias=84
-    num_medias_weighted=3.4929
+    num_medias=85
+    num_medias_weighted=3.5639
     name="5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
     in_degree=0
     out_degree=18
@@ -19104,8 +19104,8 @@ digraph {
     type=shareholder
     state=active
     label="Comcast Bidco Holdings Limited"
-    num_medias=35
-    num_medias_weighted=32.0732
+    num_medias=36
+    num_medias_weighted=33.0732
     name="5c419710-8298-4369-a69d-216ca2742ce4"
     in_degree=1
     out_degree=1
@@ -19114,8 +19114,8 @@ digraph {
     type=shareholder
     state=active
     label="Comcast Bidco Limited"
-    num_medias=35
-    num_medias_weighted=32.0732
+    num_medias=36
+    num_medias_weighted=33.0732
     name="5c407afe-8008-48b9-8101-133daec8426a"
     in_degree=1
     out_degree=1
@@ -19124,8 +19124,8 @@ digraph {
     type=shareholder
     state=active
     label="Comcast Corporation"
-    num_medias=35
-    num_medias_weighted=32.0732
+    num_medias=36
+    num_medias_weighted=33.0732
     name="5be1a6b6-af31-4675-bfe5-541d276d90b2"
     in_degree=4
     out_degree=3
@@ -92394,8 +92394,8 @@ digraph {
     type=shareholder
     state=active
     label="Roberts, Brian L."
-    num_medias=35
-    num_medias_weighted=0.1283
+    num_medias=36
+    num_medias_weighted=0.1323
     name="5be1a6b6-867d-46ef-9cf2-0b9b3c8d34b1"
     in_degree=0
     out_degree=1
@@ -101734,18 +101734,18 @@ digraph {
     type=shareholder
     state=active
     label="Sky Deutschland Fernsehen GmbH & Co. KG"
-    num_medias=31
-    num_medias_weighted=31.0000
+    num_medias=32
+    num_medias_weighted=32.0000
     name="61e6a021-57c9-4e5f-bc71-5167884ad1ce"
     in_degree=1
-    out_degree=24
+    out_degree=25
   ];
   10174 [
     type=shareholder
     state=active
     label="Sky Deutschland GmbH"
-    num_medias=34
-    num_medias_weighted=31.0732
+    num_medias=35
+    num_medias_weighted=32.0732
     name="5be1a6b6-7b27-4bc0-94fc-bd4e5afdcb1a"
     in_degree=1
     out_degree=3
@@ -101784,8 +101784,8 @@ digraph {
     type=shareholder
     state=active
     label="Sky German Holdings GmbH"
-    num_medias=34
-    num_medias_weighted=31.0732
+    num_medias=35
+    num_medias_weighted=32.0732
     name="5be1a6b6-07bc-4c91-a87e-21a03eb06b23"
     in_degree=1
     out_degree=1
@@ -101794,8 +101794,8 @@ digraph {
     type=shareholder
     state=active
     label="Sky International Operations Limited"
-    num_medias=34
-    num_medias_weighted=31.0732
+    num_medias=35
+    num_medias_weighted=32.0732
     name="5be1a6b6-e42b-4f24-9c14-98ee00b790e2"
     in_degree=1
     out_degree=1
@@ -101814,8 +101814,8 @@ digraph {
     type=shareholder
     state=active
     label="Sky Ltd."
-    num_medias=35
-    num_medias_weighted=32.0732
+    num_medias=36
+    num_medias_weighted=33.0732
     name="5be1a6b6-008b-4591-b912-fe13db89a83c"
     in_degree=1
     out_degree=3
@@ -101914,8 +101914,8 @@ digraph {
     type=shareholder
     state=active
     label="Sky UK Limited"
-    num_medias=34
-    num_medias_weighted=31.0732
+    num_medias=35
+    num_medias_weighted=32.0732
     name="5be1a6b6-7edf-40f9-ba1f-b7b6882bc4dc"
     in_degree=1
     out_degree=1
@@ -107224,8 +107224,8 @@ digraph {
     type=shareholder
     state=active
     label="Streubesitz an der Comcast Corporation"
-    num_medias=35
-    num_medias_weighted=26.8196
+    num_medias=36
+    num_medias_weighted=27.6558
     name="5be1a6b6-c450-475e-9350-7e159f992fbe"
     in_degree=0
     out_degree=1
@@ -111584,8 +111584,8 @@ digraph {
     type=shareholder
     state=active
     label="The Vanguard Group, Inc."
-    num_medias=254
-    num_medias_weighted=5.2673
+    num_medias=255
+    num_medias_weighted=5.3561
     name="5be1a6b6-eb02-41f1-8b69-58db68c8db1f"
     in_degree=0
     out_degree=10
@@ -147283,6 +147283,16 @@ digraph {
   14728 [
     type=online
     state=active
+    label="www.wowtv.de"
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="62ca9a07-0775-4943-84f8-c6a39a63a490"
+    in_degree=1
+    out_degree=0
+  ];
+  14729 [
+    type=online
+    state=active
     label="www.wp.de"
     num_medias=0
     num_medias_weighted=0.0000
@@ -147290,7 +147300,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  14729 [
+  14730 [
     type=online
     state=active
     label="www.wr.de"
@@ -147300,7 +147310,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  14730 [
+  14731 [
     type=online
     state=active
     label="www.wrc.com"
@@ -147310,7 +147320,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14731 [
+  14732 [
     type=online
     state=active
     label="www.wuerzburg-erleben.de"
@@ -147320,7 +147330,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14732 [
+  14733 [
     type=online
     state=active
     label="www.wunderweib.de"
@@ -147330,7 +147340,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14733 [
+  14734 [
     type=online
     state=active
     label="www.wuv.de"
@@ -147340,7 +147350,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14734 [
+  14735 [
     type=online
     state=active
     label="www.ww-tv.de"
@@ -147350,7 +147360,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14735 [
+  14736 [
     type=online
     state=active
     label="www.wwe.com"
@@ -147360,7 +147370,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14736 [
+  14737 [
     type=online
     state=active
     label="www.wz-net.de"
@@ -147370,7 +147380,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14737 [
+  14738 [
     type=online
     state=active
     label="www.wz.de"
@@ -147380,7 +147390,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  14738 [
+  14739 [
     type=online
     state=archived
     label="www.wzonline.de"
@@ -147390,7 +147400,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14739 [
+  14740 [
     type=online
     state=archived
     label="www.xing.de"
@@ -147400,7 +147410,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14740 [
+  14741 [
     type=online
     state=active
     label="www.yacht.de"
@@ -147410,7 +147420,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14741 [
+  14742 [
     type=online
     state=active
     label="www.yaez.de"
@@ -147420,7 +147430,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14742 [
+  14743 [
     type=online
     state=active
     label="www.yahoo.com"
@@ -147430,7 +147440,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14743 [
+  14744 [
     type=online
     state=archived
     label="www.yasni.de"
@@ -147440,7 +147450,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14744 [
+  14745 [
     type=online
     state=archived
     label="www.yatego.com"
@@ -147450,7 +147460,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14745 [
+  14746 [
     type=online
     state=archived
     label="www.yavivo.de"
@@ -147460,7 +147470,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14746 [
+  14747 [
     type=online
     state=active
     label="www.yoltv.eu"
@@ -147470,7 +147480,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14747 [
+  14748 [
     type=online
     state=archived
     label="www.yopi.de"
@@ -147480,7 +147490,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14748 [
+  14749 [
     type=online
     state=active
     label="www.you-fm.de"
@@ -147490,7 +147500,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14749 [
+  14750 [
     type=online
     state=archived
     label="www.yps.de"
@@ -147500,7 +147510,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14750 [
+  14751 [
     type=online
     state=active
     label="www.zak.de"
@@ -147510,7 +147520,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14751 [
+  14752 [
     type=online
     state=active
     label="www.zattoo.de"
@@ -147520,7 +147530,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14752 [
+  14753 [
     type=online
     state=active
     label="www.zaubertopf.de"
@@ -147530,7 +147540,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14753 [
+  14754 [
     type=online
     state=active
     label="www.zdf.de"
@@ -147540,7 +147550,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14754 [
+  14755 [
     type=online
     state=active
     label="www.zdf.de/dokumentation/zdfinfo-doku"
@@ -147550,7 +147560,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14755 [
+  14756 [
     type=online
     state=active
     label="www.zdf.de/nachrichten"
@@ -147560,7 +147570,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14756 [
+  14757 [
     type=online
     state=active
     label="www.zdf.de/sender/zdfneo"
@@ -147570,7 +147580,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14757 [
+  14758 [
     type=online
     state=active
     label="www.zdfsport.de"
@@ -147580,7 +147590,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14758 [
+  14759 [
     type=online
     state=active
     label="www.zdftivi.de"
@@ -147590,7 +147600,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14759 [
+  14760 [
     type=online
     state=active
     label="www.zdnet.de"
@@ -147600,7 +147610,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14760 [
+  14761 [
     type=online
     state=active
     label="www.zeit.de"
@@ -147610,7 +147620,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14761 [
+  14762 [
     type=online
     state=active
     label="www.zeitpunkt.jetzt"
@@ -147620,7 +147630,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14762 [
+  14763 [
     type=online
     state=active
     label="www.zevener-zeitung.de"
@@ -147630,7 +147640,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  14763 [
+  14764 [
     type=online
     state=archived
     label="www.zitty.de"
@@ -147640,7 +147650,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14764 [
+  14765 [
     type=online
     state=active
     label="www.zooplus.de"
@@ -147650,7 +147660,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14765 [
+  14766 [
     type=online
     state=archived
     label="www.zoover.de"
@@ -147660,7 +147670,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14766 [
+  14767 [
     type=online
     state=active
     label="www.zuhause.de"
@@ -147670,7 +147680,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14767 [
+  14768 [
     type=online
     state=active
     label="www.zuhausewohnen.de"
@@ -147680,7 +147690,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14768 [
+  14769 [
     type=online
     state=active
     label="www.zvw.de"
@@ -147690,7 +147700,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14769 [
+  14770 [
     type=online
     state=active
     label="www1.wdr.de"
@@ -147700,7 +147710,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14770 [
+  14771 [
     type=online
     state=active
     label="www1.wdr.de/fernsehen/"
@@ -147710,7 +147720,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14771 [
+  14772 [
     type=online
     state=active
     label="www1.wdr.de/radio/1live/"
@@ -147720,7 +147730,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14772 [
+  14773 [
     type=online
     state=active
     label="www1.wdr.de/radio/cosmo"
@@ -147730,7 +147740,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14773 [
+  14774 [
     type=online
     state=active
     label="www1.wdr.de/radio/wdr-event"
@@ -147740,7 +147750,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14774 [
+  14775 [
     type=online
     state=active
     label="www1.wdr.de/radio/wdr2"
@@ -147750,7 +147760,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14775 [
+  14776 [
     type=online
     state=active
     label="www1.wdr.de/radio/wdr3"
@@ -147760,7 +147770,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14776 [
+  14777 [
     type=online
     state=active
     label="www1.wdr.de/radio/wdr4"
@@ -147770,7 +147780,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14777 [
+  14778 [
     type=online
     state=active
     label="www1.wdr.de/radio/wdr5"
@@ -147780,7 +147790,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14778 [
+  14779 [
     type=shareholder
     state=active
     label="WWZ Beteiligungsgesellschaft mbH"
@@ -147790,7 +147800,7 @@ digraph {
     in_degree=5
     out_degree=25
   ];
-  14779 [
+  14780 [
     type=shareholder
     state=active
     label="Wächter Holding GmbH"
@@ -147800,7 +147810,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  14780 [
+  14781 [
     type=shareholder
     state=active
     label="Wächter, Oliver"
@@ -147810,7 +147820,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14781 [
+  14782 [
     type=shareholder
     state=active
     label="Wälischmiller Druck & Verlags GmbH"
@@ -147820,7 +147830,7 @@ digraph {
     in_degree=1
     out_degree=3
   ];
-  14782 [
+  14783 [
     type=shareholder
     state=active
     label="Wälischmiller Grundbesitz GmbH & Co. KG"
@@ -147830,7 +147840,7 @@ digraph {
     in_degree=3
     out_degree=1
   ];
-  14783 [
+  14784 [
     type=shareholder
     state=active
     label="Wälischmiller Verwaltungs GmbH"
@@ -147840,7 +147850,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  14784 [
+  14785 [
     type=shareholder
     state=archived
     label="Wälischmiller, Heinrich"
@@ -147850,7 +147860,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14785 [
+  14786 [
     type=shareholder
     state=active
     label="Wälischmiller, Maria"
@@ -147860,7 +147870,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  14786 [
+  14787 [
     type=shareholder
     state=active
     label="Wälischmiller, Max Josef"
@@ -147870,7 +147880,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  14787 [
+  14788 [
     type=shareholder
     state=active
     label="Wöbbeking, Martin"
@@ -147880,7 +147890,7 @@ digraph {
     in_degree=0
     out_degree=3
   ];
-  14788 [
+  14789 [
     type=shareholder
     state=active
     label="Wölfle, Michael"
@@ -147890,7 +147900,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14789 [
+  14790 [
     type=print
     state=active
     label="Wörther Anzeiger"
@@ -147900,7 +147910,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  14790 [
+  14791 [
     type=shareholder
     state=active
     label="Wühr, Heribert"
@@ -147910,7 +147920,7 @@ digraph {
     in_degree=0
     out_degree=5
   ];
-  14791 [
+  14792 [
     type=shareholder
     state=active
     label="Wühr, Marco"
@@ -147920,7 +147930,7 @@ digraph {
     in_degree=0
     out_degree=5
   ];
-  14792 [
+  14793 [
     type=shareholder
     state=active
     label="Wüllner, Christoph"
@@ -147930,7 +147940,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14793 [
+  14794 [
     type=shareholder
     state=active
     label="Wünderlich, Helmut"
@@ -147940,7 +147950,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14794 [
+  14795 [
     type=shareholder
     state=active
     label="Wünsch, Marko"
@@ -147950,7 +147960,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14795 [
+  14796 [
     type=shareholder
     state=active
     label="Wünsch, Ute"
@@ -147960,7 +147970,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14796 [
+  14797 [
     type=shareholder
     state=archived
     label="Wünscher, Peter-Paul"
@@ -147970,7 +147980,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14797 [
+  14798 [
     type=shareholder
     state=active
     label="Wünschmann, Dr. Jan"
@@ -147980,7 +147990,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14798 [
+  14799 [
     type=shareholder
     state=active
     label="Württemberger Zeitung GmbH"
@@ -147990,7 +148000,7 @@ digraph {
     in_degree=1
     out_degree=4
   ];
-  14799 [
+  14800 [
     type=print
     state=active
     label="Würzburger katholisches Sonntagsblatt"
@@ -148000,7 +148010,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14800 [
+  14801 [
     type=print
     state=active
     label=Xaver
@@ -148010,7 +148020,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14801 [
+  14802 [
     type=shareholder
     state=active
     label="Xaver Riebel KG"
@@ -148020,7 +148030,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14802 [
+  14803 [
     type=shareholder
     state=archived
     label="Xing AG"
@@ -148030,7 +148040,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14803 [
+  14804 [
     type=print
     state=active
     label=Yacht
@@ -148040,7 +148050,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14804 [
+  14805 [
     type=print
     state=active
     label="Yacht classic"
@@ -148050,7 +148060,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14805 [
+  14806 [
     type=print
     state=archived
     label="Yachting & Style"
@@ -148060,7 +148070,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14806 [
+  14807 [
     type=print
     state=active
     label=yaez
@@ -148070,7 +148080,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14807 [
+  14808 [
     type=shareholder
     state=active
     label="Yaez GmbH"
@@ -148080,7 +148090,7 @@ digraph {
     in_degree=3
     out_degree=2
   ];
-  14808 [
+  14809 [
     type=shareholder
     state=active
     label="Yagci, Mehmet Nureddin"
@@ -148090,7 +148100,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14809 [
+  14810 [
     type=shareholder
     state=active
     label="Yahoo EMEA Ltd."
@@ -148100,7 +148110,7 @@ digraph {
     in_degree=1
     out_degree=2
   ];
-  14810 [
+  14811 [
     type=shareholder
     state=active
     label="Yahoo Holdings Inc."
@@ -148110,7 +148120,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14811 [
+  14812 [
     type=print
     state=active
     label=Yakari
@@ -148120,7 +148130,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14812 [
+  14813 [
     type=shareholder
     state=archived
     label="yasni GmbH"
@@ -148130,7 +148140,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14813 [
+  14814 [
     type=shareholder
     state=archived
     label="Yatego GmbH"
@@ -148140,7 +148150,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14814 [
+  14815 [
     type=shareholder
     state=active
     label="yeebase media GmbH"
@@ -148150,7 +148160,7 @@ digraph {
     in_degree=1
     out_degree=2
   ];
-  14815 [
+  14816 [
     type=shareholder
     state=active
     label="Yigit, Seyhan"
@@ -148160,7 +148170,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  14816 [
+  14817 [
     type=shareholder
     state=active
     label="Yigit, Seyhan"
@@ -148170,7 +148180,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14817 [
+  14818 [
     type=print
     state=archived
     label="Yo-Kai Watch"
@@ -148180,7 +148190,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14818 [
+  14819 [
     type=shareholder
     state=active
     label="YoCaLa Your Career Lane GmbH"
@@ -148190,7 +148200,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14819 [
+  14820 [
     type=shareholder
     state=active
     label="YOL Bildungs- und Medienwerk mbH"
@@ -148200,7 +148210,7 @@ digraph {
     in_degree=3
     out_degree=2
   ];
-  14820 [
+  14821 [
     type=tv
     state=active
     label="YOL TV"
@@ -148210,7 +148220,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14821 [
+  14822 [
     type=shareholder
     state=active
     label="Yoovidhya, Chalerm"
@@ -148220,7 +148230,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14822 [
+  14823 [
     type=shareholder
     state=active
     label="Yoovidhya, Chalerm"
@@ -148230,7 +148240,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14823 [
+  14824 [
     type=shareholder
     state=archived
     label="Yopi GmbH"
@@ -148240,7 +148250,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14824 [
+  14825 [
     type=radio
     state=active
     label="YOU FM"
@@ -148250,7 +148260,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14825 [
+  14826 [
     type=print
     state=active
     label=Youngtimer
@@ -148260,7 +148270,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14826 [
+  14827 [
     type=shareholder
     state=active
     label="Your Family Entertainment AG"
@@ -148270,7 +148280,7 @@ digraph {
     in_degree=4
     out_degree=4
   ];
-  14827 [
+  14828 [
     type=print
     state=archived
     label=Yps
@@ -148280,7 +148290,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14828 [
+  14829 [
     type=tv
     state=active
     label="YUN!Q"
@@ -148290,7 +148300,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14829 [
+  14830 [
     type=shareholder
     state=active
     label="Zaber, Jörg"
@@ -148300,7 +148310,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14830 [
+  14831 [
     type=shareholder
     state=active
     label="Zachhuber, Dr. Georg"
@@ -148310,7 +148320,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14831 [
+  14832 [
     type=shareholder
     state=archived
     label="Zagrosek, Roman"
@@ -148320,7 +148330,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14832 [
+  14833 [
     type=shareholder
     state=active
     label="Zahler, Stefan"
@@ -148330,7 +148340,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14833 [
+  14834 [
     type=shareholder
     state=active
     label="Zajonc, Jörg"
@@ -148340,7 +148350,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14834 [
+  14835 [
     type=print
     state=active
     label="Zak Storm"
@@ -148350,7 +148360,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14835 [
+  14836 [
     type=shareholder
     state=active
     label="Zattoo Deutschland GmbH"
@@ -148360,7 +148370,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  14836 [
+  14837 [
     type=shareholder
     state=active
     label="Zattoo Europa AG"
@@ -148370,7 +148380,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14837 [
+  14838 [
     type=shareholder
     state=active
     label="Zaun, Peter-Georg"
@@ -148380,7 +148390,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14838 [
+  14839 [
     type=tv
     state=active
     label=ZDF
@@ -148390,7 +148400,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14839 [
+  14840 [
     type=shareholder
     state=active
     label="ZDF Enterprises GmbH"
@@ -148400,7 +148410,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14840 [
+  14841 [
     type=tv
     state=active
     label=ZDFinfo
@@ -148410,7 +148420,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14841 [
+  14842 [
     type=tv
     state=active
     label=ZDFneo
@@ -148420,7 +148430,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14842 [
+  14843 [
     type=shareholder
     state=active
     label="Zee Entertainment Enterprises Ltd. (ZEEL)"
@@ -148430,7 +148440,7 @@ digraph {
     in_degree=3
     out_degree=1
   ];
-  14843 [
+  14844 [
     type=tv
     state=archived
     label="Zee.One"
@@ -148440,7 +148450,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14844 [
+  14845 [
     type=shareholder
     state=active
     label="Zeidler, Christel"
@@ -148450,7 +148460,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  14845 [
+  14846 [
     type=shareholder
     state=active
     label="Zeidler, Dr. Klaus"
@@ -148460,7 +148470,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14846 [
+  14847 [
     type=shareholder
     state=active
     label="Zeidler, Philipp Stephan"
@@ -148470,7 +148480,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14847 [
+  14848 [
     type=shareholder
     state=active
     label="Zeiler, Jörg"
@@ -148480,7 +148490,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  14848 [
+  14849 [
     type=print
     state=active
     label="Zeit Campus"
@@ -148490,7 +148500,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14849 [
+  14850 [
     type=print
     state=active
     label="Zeit für die Frau"
@@ -148500,7 +148510,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14850 [
+  14851 [
     type=print
     state=active
     label="Zeit für mich"
@@ -148510,7 +148520,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14851 [
+  14852 [
     type=print
     state=active
     label="Zeit für Unternehmer"
@@ -148520,7 +148530,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14852 [
+  14853 [
     type=print
     state=active
     label="Zeit Geschichte"
@@ -148530,7 +148540,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14853 [
+  14854 [
     type=print
     state=active
     label="Zeit Leo"
@@ -148540,7 +148550,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14854 [
+  14855 [
     type=shareholder
     state=active
     label="Zeit Online GmbH"
@@ -148550,7 +148560,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  14855 [
+  14856 [
     type=print
     state=active
     label="Zeit Verbrechen"
@@ -148560,7 +148570,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14856 [
+  14857 [
     type=shareholder
     state=active
     label="Zeit Weltkunst Verlag GmbH"
@@ -148570,7 +148580,7 @@ digraph {
     in_degree=1
     out_degree=3
   ];
-  14857 [
+  14858 [
     type=print
     state=active
     label="Zeit Wissen"
@@ -148580,7 +148590,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14858 [
+  14859 [
     type=print
     state=active
     label=ZeitPunkt
@@ -148590,7 +148600,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14859 [
+  14860 [
     type=shareholder
     state=active
     label="Zeitschriften VVG Verlags- und Verwaltungsgesellschaft mbH & Co KG"
@@ -148600,7 +148610,7 @@ digraph {
     in_degree=11
     out_degree=1
   ];
-  14860 [
+  14861 [
     type=shareholder
     state=active
     label="Zeitungsdruckerei Rubens GmbH & Co KG"
@@ -148610,7 +148620,7 @@ digraph {
     in_degree=7
     out_degree=1
   ];
-  14861 [
+  14862 [
     type=shareholder
     state=active
     label="Zeitungsgruppe Mittelhessen GmbH & Co KG"
@@ -148620,7 +148630,7 @@ digraph {
     in_degree=3
     out_degree=1
   ];
-  14862 [
+  14863 [
     type=shareholder
     state=active
     label="Zeitungsgruppe Mittelhessen Verwaltungsgesellschaft mbH"
@@ -148630,7 +148640,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  14863 [
+  14864 [
     type=print
     state=active
     label="Zeitungsgruppe Münsterland (MVM)"
@@ -148640,7 +148650,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14864 [
+  14865 [
     type=shareholder
     state=active
     label="Zeitungsgruppe Münsterland - MVM Dummy"
@@ -148650,7 +148660,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14865 [
+  14866 [
     type=print
     state=active
     label="Zeitungsgruppe Neue Westfälische (MVM)"
@@ -148660,7 +148670,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14866 [
+  14867 [
     type=print
     state=active
     label="Zeitungsgruppe Nord Gruppe B (Nds/Hamburg) (MVM)"
@@ -148670,7 +148680,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14867 [
+  14868 [
     type=shareholder
     state=active
     label="Zeitungsgruppe Nord, Gruppe B"
@@ -148680,7 +148690,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14868 [
+  14869 [
     type=print
     state=active
     label="Zeitungsgruppe Rhein-Neckar (MVM)"
@@ -148690,7 +148700,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  14869 [
+  14870 [
     type=print
     state=archived
     label="Zeitungsgruppe Zentralhessen (Gießener Anzeiger) - MVM-Dummy"
@@ -148700,7 +148710,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14870 [
+  14871 [
     type=shareholder
     state=active
     label="Zeitungsverlag Altena GmbH"
@@ -148710,7 +148720,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  14871 [
+  14872 [
     type=shareholder
     state=active
     label="Zeitungsverlag Anhalt Beteiligungsgesellschaft mbH"
@@ -148720,7 +148730,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  14872 [
+  14873 [
     type=shareholder
     state=active
     label="Zeitungsverlag Der Patriot GmbH"
@@ -148730,7 +148740,7 @@ digraph {
     in_degree=1
     out_degree=3
   ];
-  14873 [
+  14874 [
     type=shareholder
     state=active
     label="Zeitungsverlag für das Hochstift Paderborn GmbH"
@@ -148740,7 +148750,7 @@ digraph {
     in_degree=1
     out_degree=2
   ];
-  14874 [
+  14875 [
     type=shareholder
     state=active
     label="Zeitungsverlag GmbH"
@@ -148750,7 +148760,7 @@ digraph {
     in_degree=9
     out_degree=1
   ];
-  14875 [
+  14876 [
     type=shareholder
     state=active
     label="Zeitungsverlag GmbH & Co Waiblingen KG"
@@ -148760,7 +148770,7 @@ digraph {
     in_degree=10
     out_degree=9
   ];
-  14876 [
+  14877 [
     type=shareholder
     state=active
     label="Zeitungsverlag Hechingen GmbH"
@@ -148770,7 +148780,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14877 [
+  14878 [
     type=shareholder
     state=active
     label="ZEITUNGSVERLAG ISERLOHN Iserlohner Kreisanzeiger und Zeitung (IKZ) Wichelhoven Verlags-GmbH & Co. KG"
@@ -148780,7 +148790,7 @@ digraph {
     in_degree=3
     out_degree=3
   ];
-  14878 [
+  14879 [
     type=shareholder
     state=archived
     label="Zeitungsverlag Kornwestheim GmbH & Co KG"
@@ -148790,7 +148800,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14879 [
+  14880 [
     type=shareholder
     state=archived
     label="Zeitungsverlag Kornwestheim Verwaltungs GmbH"
@@ -148800,7 +148810,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14880 [
+  14881 [
     type=shareholder
     state=active
     label="Zeitungsverlag Krause GmbH & Co KG"
@@ -148810,7 +148820,7 @@ digraph {
     in_degree=2
     out_degree=12
   ];
-  14881 [
+  14882 [
     type=shareholder
     state=active
     label="Zeitungsverlag Leonberg GmbH"
@@ -148820,7 +148830,7 @@ digraph {
     in_degree=2
     out_degree=4
   ];
-  14882 [
+  14883 [
     type=shareholder
     state=archived
     label="Zeitungsverlag Marbach Verwaltungs GmbH"
@@ -148830,7 +148840,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14883 [
+  14884 [
     type=shareholder
     state=active
     label="Zeitungsverlag Naumburg Nebra GmbH & Co KG"
@@ -148840,7 +148850,7 @@ digraph {
     in_degree=3
     out_degree=3
   ];
-  14884 [
+  14885 [
     type=shareholder
     state=active
     label="Zeitungsverlag Naumburg Nebra Verwaltungs GmbH"
@@ -148850,7 +148860,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  14885 [
+  14886 [
     type=shareholder
     state=active
     label="Zeitungsverlag Neue Westfälische GmbH & Co. KG"
@@ -148860,7 +148870,7 @@ digraph {
     in_degree=2
     out_degree=17
   ];
-  14886 [
+  14887 [
     type=shareholder
     state=active
     label="Zeitungsverlag Neue Westfälische Verwaltungsgesellschaft mbH"
@@ -148870,7 +148880,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  14887 [
+  14888 [
     type=shareholder
     state=active
     label="Zeitungsverlag Niederrhein GmbH"
@@ -148880,7 +148890,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  14888 [
+  14889 [
     type=shareholder
     state=active
     label="Zeitungsverlag Niederrhein GmbH & Co. Essen KG"
@@ -148890,7 +148900,7 @@ digraph {
     in_degree=3
     out_degree=13
   ];
-  14889 [
+  14890 [
     type=shareholder
     state=active
     label="Zeitungsverlag Oberbayern GmbH & Co. KG"
@@ -148900,7 +148910,7 @@ digraph {
     in_degree=6
     out_degree=31
   ];
-  14890 [
+  14891 [
     type=shareholder
     state=active
     label="Zeitungsverlag Oberbayern Verwaltungs-GmbH"
@@ -148910,7 +148920,7 @@ digraph {
     in_degree=5
     out_degree=1
   ];
-  14891 [
+  14892 [
     type=shareholder
     state=active
     label="Zeitungsverlag Rubens GmbH & Co. KG"
@@ -148920,7 +148930,7 @@ digraph {
     in_degree=7
     out_degree=7
   ];
-  14892 [
+  14893 [
     type=shareholder
     state=active
     label="Zeitungsverlag Schwerin Geschäftsführungs-GmbH"
@@ -148930,7 +148940,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  14893 [
+  14894 [
     type=shareholder
     state=active
     label="Zeitungsverlag Schwerin GmbH & Co KG"
@@ -148940,7 +148950,7 @@ digraph {
     in_degree=2
     out_degree=8
   ];
-  14894 [
+  14895 [
     type=shareholder
     state=active
     label="Zeitungsverlag und Druckerei Kreh GmbH & Co KG"
@@ -148950,7 +148960,7 @@ digraph {
     in_degree=5
     out_degree=3
   ];
-  14895 [
+  14896 [
     type=shareholder
     state=active
     label="Zeitungsverlag Unna GmbH & Co KG"
@@ -148960,7 +148970,7 @@ digraph {
     in_degree=2
     out_degree=3
   ];
-  14896 [
+  14897 [
     type=shareholder
     state=active
     label="Zeitverlag Gerd Bucerius GmbH & Co KG"
@@ -148970,7 +148980,7 @@ digraph {
     in_degree=3
     out_degree=10
   ];
-  14897 [
+  14898 [
     type=shareholder
     state=active
     label="Zell, Hedwig"
@@ -148980,7 +148990,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14898 [
+  14899 [
     type=shareholder
     state=active
     label="Zeller, Anika"
@@ -148990,7 +149000,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  14899 [
+  14900 [
     type=shareholder
     state=active
     label="Zender, Stefan"
@@ -149000,7 +149010,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14900 [
+  14901 [
     type=shareholder
     state=active
     label="Zenker, Andreas"
@@ -149010,7 +149020,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14901 [
+  14902 [
     type=shareholder
     state=active
     label="Zentralrat der Juden in Deutschland K. d. ö. R."
@@ -149020,7 +149030,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  14902 [
+  14903 [
     type=shareholder
     state=active
     label="Zepezauer, Thomas"
@@ -149030,7 +149040,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14903 [
+  14904 [
     type=print
     state=active
     label="Zerbster Volksstimme"
@@ -149040,7 +149050,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14904 [
+  14905 [
     type=shareholder
     state=archived
     label="Zerena GmbH"
@@ -149050,7 +149060,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14905 [
+  14906 [
     type=print
     state=active
     label="Zevener Zeitung"
@@ -149060,7 +149070,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  14906 [
+  14907 [
     type=shareholder
     state=active
     label="ZGO Zeitungsgruppe Ostfriesland GmbH"
@@ -149070,7 +149080,7 @@ digraph {
     in_degree=5
     out_degree=8
   ];
-  14907 [
+  14908 [
     type=shareholder
     state=archived
     label="ZGO Zeitungsgruppe Ostfriesland GmbH, Leer"
@@ -149080,7 +149090,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14908 [
+  14909 [
     type=shareholder
     state=active
     label="ZHH Verwaltungs GmbH"
@@ -149090,7 +149100,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  14909 [
+  14910 [
     type=shareholder
     state=active
     label="ZHH Zeitungsholding Hessen GmbH & Co. KG"
@@ -149100,7 +149110,7 @@ digraph {
     in_degree=4
     out_degree=5
   ];
-  14910 [
+  14911 [
     type=shareholder
     state=active
     label="Ziegenbein, Dr. Christine"
@@ -149110,7 +149120,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14911 [
+  14912 [
     type=shareholder
     state=active
     label="Ziegenbein, Dr. Ulrich"
@@ -149120,7 +149130,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  14912 [
+  14913 [
     type=shareholder
     state=active
     label="Ziegenbein, Marlies"
@@ -149130,7 +149140,7 @@ digraph {
     in_degree=0
     out_degree=3
   ];
-  14913 [
+  14914 [
     type=shareholder
     state=active
     label="Ziegert, Andreas"
@@ -149140,7 +149150,7 @@ digraph {
     in_degree=0
     out_degree=4
   ];
-  14914 [
+  14915 [
     type=shareholder
     state=active
     label="Ziegler Verwaltungs GmbH"
@@ -149150,7 +149160,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  14915 [
+  14916 [
     type=shareholder
     state=active
     label="Ziegler, Axel"
@@ -149160,7 +149170,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14916 [
+  14917 [
     type=shareholder
     state=active
     label="Ziegler, Burkhard"
@@ -149170,7 +149180,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14917 [
+  14918 [
     type=shareholder
     state=active
     label="Ziegler, Hans-Peter"
@@ -149180,7 +149190,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14918 [
+  14919 [
     type=shareholder
     state=active
     label="Ziegler, Hans-Ulrich"
@@ -149190,7 +149200,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14919 [
+  14920 [
     type=shareholder
     state=archived
     label="Ziesche, Jörg"
@@ -149200,7 +149210,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14920 [
+  14921 [
     type=shareholder
     state=archived
     label="Ziesche, Robert"
@@ -149210,7 +149220,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14921 [
+  14922 [
     type=shareholder
     state=active
     label="Zimmermann, Peter"
@@ -149220,7 +149230,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14922 [
+  14923 [
     type=shareholder
     state=active
     label="Zimmermann, Prof. Dr. Martin"
@@ -149230,7 +149240,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14923 [
+  14924 [
     type=shareholder
     state=active
     label="Zimprich, Dr. Annemarie"
@@ -149240,7 +149250,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14924 [
+  14925 [
     type=shareholder
     state=active
     label="Zindel, Johannes"
@@ -149250,7 +149260,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14925 [
+  14926 [
     type=shareholder
     state=active
     label="Zintl, Leonhard"
@@ -149260,7 +149270,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14926 [
+  14927 [
     type=shareholder
     state=active
     label="Zions-Gemeinde"
@@ -149270,7 +149280,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14927 [
+  14928 [
     type=shareholder
     state=active
     label="Zippert, Hans Joachim"
@@ -149280,7 +149290,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  14928 [
+  14929 [
     type=shareholder
     state=active
     label="Zirkel, Gottfried"
@@ -149290,7 +149300,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14929 [
+  14930 [
     type=print
     state=archived
     label=Zitty
@@ -149300,7 +149310,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14930 [
+  14931 [
     type=shareholder
     state=active
     label="Zmeck, Gottfried"
@@ -149310,7 +149320,7 @@ digraph {
     in_degree=0
     out_degree=3
   ];
-  14931 [
+  14932 [
     type=shareholder
     state=active
     label="Zmeck-Koch, Barbara"
@@ -149320,7 +149330,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14932 [
+  14933 [
     type=print
     state=active
     label="Zollern-Alb-Kurier"
@@ -149330,7 +149340,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  14933 [
+  14934 [
     type=shareholder
     state=active
     label="Zolotonos, Vitâlijs"
@@ -149340,7 +149350,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14934 [
+  14935 [
     type=shareholder
     state=active
     label="Zone 7 GmbH & Co. KG"
@@ -149350,7 +149360,7 @@ digraph {
     in_degree=3
     out_degree=3
   ];
-  14935 [
+  14936 [
     type=shareholder
     state=active
     label="Zone 7 Verwaltungs GmbH"
@@ -149360,7 +149370,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  14936 [
+  14937 [
     type=shareholder
     state=active
     label="Zone Vision Networks Ltd."
@@ -149370,7 +149380,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14937 [
+  14938 [
     type=shareholder
     state=active
     label="Zonemedia Broadcasting Ltd."
@@ -149380,7 +149390,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14938 [
+  14939 [
     type=shareholder
     state=active
     label="Zonemedia Enterprises Ltd."
@@ -149390,7 +149400,7 @@ digraph {
     in_degree=1
     out_degree=2
   ];
-  14939 [
+  14940 [
     type=shareholder
     state=active
     label="Zonemedia Group Ltd."
@@ -149400,7 +149410,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  14940 [
+  14941 [
     type=shareholder
     state=active
     label="zooplus AG"
@@ -149410,7 +149420,7 @@ digraph {
     in_degree=13
     out_degree=1
   ];
-  14941 [
+  14942 [
     type=shareholder
     state=active
     label="zooplus AG Management (Dr. Cornelius Patt, Florian Welz, Andreas Grandinger, Dr. Mischa Ritter)"
@@ -149420,7 +149430,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14942 [
+  14943 [
     type=shareholder
     state=archived
     label="Zoover GmbH"
@@ -149430,7 +149440,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14943 [
+  14944 [
     type=radio
     state=active
     label="ZOUND1 MAX"
@@ -149440,7 +149450,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14944 [
+  14945 [
     type=shareholder
     state=active
     label="Zschosche, Sören"
@@ -149450,7 +149460,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14945 [
+  14946 [
     type=shareholder
     state=active
     label="Zugerberg 7. Vermögensverwaltungsgesellschaft AG"
@@ -149460,7 +149470,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14946 [
+  14947 [
     type=print
     state=active
     label="Zuhause wohnen"
@@ -149470,7 +149480,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14947 [
+  14948 [
     type=shareholder
     state=active
     label="Zundel, Tobias"
@@ -149480,7 +149490,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14948 [
+  14949 [
     type=shareholder
     state=active
     label="ZVA Digital GmbH"
@@ -149490,7 +149500,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14949 [
+  14950 [
     type=shareholder
     state=active
     label="ZVD Mediengesellschaft mbH"
@@ -149500,7 +149510,7 @@ digraph {
     in_degree=2
     out_degree=5
   ];
-  14950 [
+  14951 [
     type=shareholder
     state=active
     label="Zwack, Günter"
@@ -149510,7 +149520,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14951 [
+  14952 [
     type=shareholder
     state=active
     label="Zweckverband der Volkshochschule Passau"
@@ -149520,7 +149530,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14952 [
+  14953 [
     type=shareholder
     state=active
     label="Zweibrücker Druckerei und Verlagsgesellschaft mbH"
@@ -149530,7 +149540,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14953 [
+  14954 [
     type=shareholder
     state=active
     label="Zweite Poburski Vermögensverwaltung Ltd. & Co. KG"
@@ -149540,7 +149550,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14954 [
+  14955 [
     type=shareholder
     state=active
     label="Zweites Deutsches Fernsehen (ZDF) Anstalt des öffentlichen Rechts"
@@ -149550,7 +149560,7 @@ digraph {
     in_degree=0
     out_degree=19
   ];
-  14955 [
+  14956 [
     type=shareholder
     state=active
     label="Zwiener, Irina und Anca"
@@ -149560,7 +149570,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14956 [
+  14957 [
     type=shareholder
     state=active
     label="Zwiener, Nadja"
@@ -149570,7 +149580,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14957 [
+  14958 [
     type=print
     state=archived
     label="Züge"
@@ -149580,7 +149590,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14958 [
+  14959 [
     type=print
     state=active
     label="Ärzte Zeitung"
@@ -149590,7 +149600,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14959 [
+  14960 [
     type=print
     state=active
     label="Ärztlicher Ratgeber"
@@ -149600,7 +149610,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14960 [
+  14961 [
     type=print
     state=active
     label="écoute"
@@ -149610,7 +149620,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14961 [
+  14962 [
     type=print
     state=active
     label="Öffentlicher Anzeiger"
@@ -149620,7 +149630,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14962 [
+  14963 [
     type=shareholder
     state=active
     label="Öko-Test AG"
@@ -149630,7 +149640,7 @@ digraph {
     in_degree=2
     out_degree=2
   ];
-  14963 [
+  14964 [
     type=shareholder
     state=archived
     label="Öko-Test Verlag GmbH"
@@ -149640,7 +149650,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14964 [
+  14965 [
     type=print
     state=archived
     label="Öko-Test-Magazin"
@@ -149650,7 +149660,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  14965 [
+  14966 [
     type=print
     state=active
     label="Öko-Test-Magazin"
@@ -149660,7 +149670,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14966 [
+  14967 [
     type=shareholder
     state=active
     label="Ören, Aslihan"
@@ -149670,7 +149680,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14967 [
+  14968 [
     type=shareholder
     state=active
     label="Österreichischer Rundfunk (ORF)"
@@ -149680,7 +149690,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  14968 [
+  14969 [
     type=shareholder
     state=active
     label="Öz, Can"
@@ -149690,7 +149700,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14969 [
+  14970 [
     type=shareholder
     state=active
     label="Öz, Özgür"
@@ -149700,7 +149710,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  14970 [
+  14971 [
     type=shareholder
     state=active
     label="Übelhör, Rudolf"
@@ -150211,7 +150221,7 @@ digraph {
     weight=7.39
     type=owns
   ];
-  146 -> 14949 [
+  146 -> 14950 [
     weight=50
     type=owns
   ];
@@ -150311,7 +150321,7 @@ digraph {
     weight=29.844
     type=owns
   ];
-  200 -> 14940 [
+  200 -> 14941 [
     weight=3.44
     type=owns
   ];
@@ -152111,7 +152121,7 @@ digraph {
     weight=100
     type=operates
   ];
-  589 -> 14863 [
+  589 -> 14864 [
     weight=100
     type=operates
   ];
@@ -152323,7 +152333,7 @@ digraph {
     weight=100
     type=operates
   ];
-  632 -> 14858 [
+  632 -> 14859 [
     weight=100
     type=operates
   ];
@@ -152355,7 +152365,7 @@ digraph {
     weight=100
     type=operates
   ];
-  632 -> 14761 [
+  632 -> 14762 [
     weight=100
     type=operates
   ];
@@ -152875,7 +152885,7 @@ digraph {
     weight=9.89
     type=owns
   ];
-  713 -> 14819 [
+  713 -> 14820 [
     weight=33.3
     type=owns
   ];
@@ -153847,7 +153857,7 @@ digraph {
     weight=100
     type=operates
   ];
-  867 -> 14732 [
+  867 -> 14733 [
     weight=100
     type=operates
   ];
@@ -153859,11 +153869,11 @@ digraph {
     weight=4.65
     type=owns
   ];
-  869 -> 14874 [
+  869 -> 14875 [
     weight=1
     type=owns
   ];
-  869 -> 14875 [
+  869 -> 14876 [
     weight=1
     type=owns
   ];
@@ -153871,11 +153881,11 @@ digraph {
     weight=25.85
     type=owns
   ];
-  870 -> 14874 [
+  870 -> 14875 [
     weight=1.33
     type=owns
   ];
-  870 -> 14875 [
+  870 -> 14876 [
     weight=1.3
     type=owns
   ];
@@ -153899,11 +153909,11 @@ digraph {
     weight=4.65
     type=owns
   ];
-  875 -> 14874 [
+  875 -> 14875 [
     weight=1
     type=owns
   ];
-  875 -> 14875 [
+  875 -> 14876 [
     weight=1
     type=owns
   ];
@@ -154843,7 +154853,7 @@ digraph {
     weight=7.51
     type=owns
   ];
-  1079 -> 14940 [
+  1079 -> 14941 [
     weight=6.56
     type=owns
   ];
@@ -154935,7 +154945,7 @@ digraph {
     weight=1
     type=owns
   ];
-  1089 -> 14881 [
+  1089 -> 14882 [
     weight=1
     type=owns
   ];
@@ -157919,7 +157929,7 @@ digraph {
     weight=30
     type=owns
   ];
-  1613 -> 14807 [
+  1613 -> 14808 [
     weight=33.3
     type=owns
   ];
@@ -158519,7 +158529,7 @@ digraph {
     weight=3.74
     type=owns
   ];
-  1749 -> 14940 [
+  1749 -> 14941 [
     weight=3.24
     type=owns
   ];
@@ -158755,11 +158765,11 @@ digraph {
     weight=100
     type=operates
   ];
-  1817 -> 14939 [
+  1817 -> 14940 [
     weight=100
     type=owns
   ];
-  1818 -> 14936 [
+  1818 -> 14937 [
     weight=100
     type=owns
   ];
@@ -159551,7 +159561,7 @@ digraph {
     weight=30
     type=owns
   ];
-  2004 -> 14778 [
+  2004 -> 14779 [
     weight=30
     type=owns
   ];
@@ -159919,7 +159929,7 @@ digraph {
     weight=26
     type=owns
   ];
-  2109 -> 14859 [
+  2109 -> 14860 [
     weight=6.5
     type=owns
   ];
@@ -160007,11 +160017,11 @@ digraph {
     weight=100
     type=operates
   ];
-  2126 -> 14803 [
+  2126 -> 14804 [
     weight=100
     type=operates
   ];
-  2126 -> 14804 [
+  2126 -> 14805 [
     weight=100
     type=operates
   ];
@@ -160047,7 +160057,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2126 -> 14740 [
+  2126 -> 14741 [
     weight=100
     type=operates
   ];
@@ -160179,7 +160189,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2142 -> 14849 [
+  2142 -> 14850 [
     weight=100
     type=operates
   ];
@@ -161843,7 +161853,7 @@ digraph {
     weight=100
     type=owns
   ];
-  2461 -> 14799 [
+  2461 -> 14800 [
     weight=100
     type=operates
   ];
@@ -162507,7 +162517,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2600 -> 14734 [
+  2600 -> 14735 [
     weight=100
     type=operates
   ];
@@ -162667,11 +162677,11 @@ digraph {
     weight=100
     type=operates
   ];
-  2620 -> 14932 [
+  2620 -> 14933 [
     weight=100
     type=operates
   ];
-  2620 -> 14750 [
+  2620 -> 14751 [
     weight=100
     type=operates
   ];
@@ -163043,7 +163053,7 @@ digraph {
     weight=10
     type=owns
   ];
-  2676 -> 14906 [
+  2676 -> 14907 [
     weight=29.6
     type=owns
   ];
@@ -163071,7 +163081,7 @@ digraph {
     weight=50
     type=owns
   ];
-  2679 -> 14906 [
+  2679 -> 14907 [
     weight=6.3
     type=owns
   ];
@@ -163119,7 +163129,7 @@ digraph {
     weight=100
     type=owns
   ];
-  2685 -> 14896 [
+  2685 -> 14897 [
     weight=50
     type=owns
   ];
@@ -163239,15 +163249,15 @@ digraph {
     weight=1.1
     type=owns
   ];
-  2711 -> 14778 [
+  2711 -> 14779 [
     weight=1.08
     type=owns
   ];
-  2711 -> 14889 [
+  2711 -> 14890 [
     weight=7.9
     type=owns
   ];
-  2711 -> 14890 [
+  2711 -> 14891 [
     weight=7
     type=owns
   ];
@@ -163275,7 +163285,7 @@ digraph {
     weight=32
     type=owns
   ];
-  2712 -> 14778 [
+  2712 -> 14779 [
     weight=1.08
     type=owns
   ];
@@ -164983,7 +164993,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3157 -> 14842 [
+  3157 -> 14843 [
     weight=43.07
     type=owns
   ];
@@ -165559,7 +165569,7 @@ digraph {
     weight=58.08
     type=owns
   ];
-  3291 -> 14826 [
+  3291 -> 14827 [
     weight=67.96
     type=owns
   ];
@@ -165635,23 +165645,23 @@ digraph {
     weight=90
     type=owns
   ];
-  3297 -> 14909 [
+  3297 -> 14910 [
     weight=80
-    type=owns
-  ];
-  3297 -> 14870 [
-    weight=100
     type=owns
   ];
   3297 -> 14871 [
     weight=100
     type=owns
   ];
-  3297 -> 14889 [
-    weight=28.6
+  3297 -> 14872 [
+    weight=100
     type=owns
   ];
   3297 -> 14890 [
+    weight=28.6
+    type=owns
+  ];
+  3297 -> 14891 [
     weight=24.92
     type=owns
   ];
@@ -165887,7 +165897,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3317 -> 14752 [
+  3317 -> 14753 [
     weight=100
     type=operates
   ];
@@ -166463,7 +166473,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3486 -> 14859 [
+  3486 -> 14860 [
     weight=7.5
     type=owns
   ];
@@ -167583,7 +167593,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3763 -> 14850 [
+  3763 -> 14851 [
     weight=100
     type=operates
   ];
@@ -167907,15 +167917,15 @@ digraph {
     weight=24.8
     type=owns
   ];
-  3773 -> 14877 [
+  3773 -> 14878 [
     weight=24.8
     type=owns
   ];
-  3773 -> 14887 [
+  3773 -> 14888 [
     weight=89.4
     type=owns
   ];
-  3773 -> 14888 [
+  3773 -> 14889 [
     weight=89.4
     type=owns
   ];
@@ -168023,11 +168033,11 @@ digraph {
     weight=100
     type=operates
   ];
-  3773 -> 14728 [
+  3773 -> 14729 [
     weight=100
     type=operates
   ];
-  3773 -> 14729 [
+  3773 -> 14730 [
     weight=100
     type=operates
   ];
@@ -168347,7 +168357,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3787 -> 14868 [
+  3787 -> 14869 [
     weight=100
     type=operates
   ];
@@ -168431,11 +168441,11 @@ digraph {
     weight=100
     type=operates
   ];
-  3787 -> 14728 [
+  3787 -> 14729 [
     weight=100
     type=operates
   ];
-  3787 -> 14729 [
+  3787 -> 14730 [
     weight=100
     type=operates
   ];
@@ -169587,7 +169597,7 @@ digraph {
     weight=100
     type=owns
   ];
-  4016 -> 14896 [
+  4016 -> 14897 [
     weight=50
     type=owns
   ];
@@ -169735,7 +169745,7 @@ digraph {
     weight=100
     type=owns
   ];
-  4025 -> 14906 [
+  4025 -> 14907 [
     weight=20.3
     type=owns
   ];
@@ -170011,11 +170021,11 @@ digraph {
     weight=96.8
     type=owns
   ];
-  4077 -> 14874 [
+  4077 -> 14875 [
     weight=41
     type=owns
   ];
-  4077 -> 14875 [
+  4077 -> 14876 [
     weight=41
     type=owns
   ];
@@ -170271,7 +170281,7 @@ digraph {
     weight=25
     type=owns
   ];
-  4127 -> 14962 [
+  4127 -> 14963 [
     weight=78.03
     type=owns
   ];
@@ -171331,11 +171341,11 @@ digraph {
     weight=1
     type=owns
   ];
-  4324 -> 14909 [
+  4324 -> 14910 [
     weight=1
     type=owns
   ];
-  4324 -> 14889 [
+  4324 -> 14890 [
     weight=1
     type=owns
   ];
@@ -171535,11 +171545,11 @@ digraph {
     weight=51
     type=owns
   ];
-  4367 -> 14860 [
+  4367 -> 14861 [
     weight=51
     type=owns
   ];
-  4367 -> 14891 [
+  4367 -> 14892 [
     weight=51
     type=owns
   ];
@@ -171547,11 +171557,11 @@ digraph {
     weight=3
     type=owns
   ];
-  4368 -> 14860 [
+  4368 -> 14861 [
     weight=3
     type=owns
   ];
-  4368 -> 14891 [
+  4368 -> 14892 [
     weight=3
     type=owns
   ];
@@ -172107,7 +172117,7 @@ digraph {
     weight=25
     type=owns
   ];
-  4504 -> 14807 [
+  4504 -> 14808 [
     weight=33.3
     type=owns
   ];
@@ -172919,7 +172929,7 @@ digraph {
     weight=100
     type=owns
   ];
-  4655 -> 14814 [
+  4655 -> 14815 [
     weight=100
     type=owns
   ];
@@ -173179,7 +173189,7 @@ digraph {
     weight=1
     type=owns
   ];
-  4716 -> 14914 [
+  4716 -> 14915 [
     weight=100
     type=owns
   ];
@@ -173283,7 +173293,7 @@ digraph {
     weight=100
     type=owns
   ];
-  4742 -> 14824 [
+  4742 -> 14825 [
     weight=100
     type=operates
   ];
@@ -173347,7 +173357,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4742 -> 14748 [
+  4742 -> 14749 [
     weight=100
     type=operates
   ];
@@ -173359,11 +173369,11 @@ digraph {
     weight=3
     type=owns
   ];
-  4744 -> 14860 [
+  4744 -> 14861 [
     weight=3
     type=owns
   ];
-  4744 -> 14891 [
+  4744 -> 14892 [
     weight=3
     type=owns
   ];
@@ -173891,7 +173901,7 @@ digraph {
     weight=50
     type=owns
   ];
-  4899 -> 14826 [
+  4899 -> 14827 [
     weight=13.27
     type=owns
   ];
@@ -175623,7 +175633,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5250 -> 14736 [
+  5250 -> 14737 [
     weight=100
     type=operates
   ];
@@ -175771,11 +175781,11 @@ digraph {
     weight=1
     type=owns
   ];
-  5264 -> 14905 [
+  5264 -> 14906 [
     weight=100
     type=operates
   ];
-  5264 -> 14762 [
+  5264 -> 14763 [
     weight=100
     type=operates
   ];
@@ -175823,7 +175833,7 @@ digraph {
     weight=50
     type=owns
   ];
-  5274 -> 14859 [
+  5274 -> 14860 [
     weight=6.17
     type=owns
   ];
@@ -176787,7 +176797,7 @@ digraph {
     weight=7
     type=owns
   ];
-  5492 -> 14940 [
+  5492 -> 14941 [
     weight=4.64
     type=owns
   ];
@@ -176903,7 +176913,7 @@ digraph {
     weight=1
     type=owns
   ];
-  5508 -> 14861 [
+  5508 -> 14862 [
     weight=1
     type=owns
   ];
@@ -177055,7 +177065,7 @@ digraph {
     weight=38
     type=owns
   ];
-  5550 -> 14807 [
+  5550 -> 14808 [
     weight=33.3
     type=owns
   ];
@@ -177099,7 +177109,7 @@ digraph {
     weight=8.6
     type=owns
   ];
-  5560 -> 14859 [
+  5560 -> 14860 [
     weight=6.5
     type=owns
   ];
@@ -178399,7 +178409,7 @@ digraph {
     weight=1
     type=owns
   ];
-  5844 -> 14880 [
+  5844 -> 14881 [
     weight=1
     type=owns
   ];
@@ -178471,7 +178481,7 @@ digraph {
     weight=2.13
     type=owns
   ];
-  5856 -> 14894 [
+  5856 -> 14895 [
     weight=1
     type=owns
   ];
@@ -178479,7 +178489,7 @@ digraph {
     weight=56.4
     type=owns
   ];
-  5857 -> 14894 [
+  5857 -> 14895 [
     weight=56.4
     type=owns
   ];
@@ -178487,7 +178497,7 @@ digraph {
     weight=21.2
     type=owns
   ];
-  5858 -> 14894 [
+  5858 -> 14895 [
     weight=21.2
     type=owns
   ];
@@ -178495,7 +178505,7 @@ digraph {
     weight=11.2
     type=owns
   ];
-  5859 -> 14894 [
+  5859 -> 14895 [
     weight=11.2
     type=owns
   ];
@@ -178975,7 +178985,7 @@ digraph {
     weight=33.33
     type=owns
   ];
-  5947 -> 14859 [
+  5947 -> 14860 [
     weight=9.67
     type=owns
   ];
@@ -178987,7 +178997,7 @@ digraph {
     weight=33.33
     type=owns
   ];
-  5949 -> 14859 [
+  5949 -> 14860 [
     weight=9.67
     type=owns
   ];
@@ -178999,7 +179009,7 @@ digraph {
     weight=33.33
     type=owns
   ];
-  5950 -> 14859 [
+  5950 -> 14860 [
     weight=19.16
     type=owns
   ];
@@ -179835,7 +179845,7 @@ digraph {
     weight=1
     type=owns
   ];
-  6183 -> 14872 [
+  6183 -> 14873 [
     weight=100
     type=owns
   ];
@@ -180023,11 +180033,11 @@ digraph {
     weight=100
     type=owns
   ];
-  6260 -> 14883 [
+  6260 -> 14884 [
     weight=75.1
     type=owns
   ];
-  6260 -> 14884 [
+  6260 -> 14885 [
     weight=75.4
     type=owns
   ];
@@ -180543,7 +180553,7 @@ digraph {
     weight=11.2
     type=owns
   ];
-  6378 -> 14894 [
+  6378 -> 14895 [
     weight=11.2
     type=owns
   ];
@@ -181071,7 +181081,7 @@ digraph {
     weight=8.6
     type=owns
   ];
-  6489 -> 14940 [
+  6489 -> 14941 [
     weight=3.1
     type=owns
   ];
@@ -181579,7 +181589,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6577 -> 14731 [
+  6577 -> 14732 [
     weight=100
     type=operates
   ];
@@ -181803,7 +181813,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6623 -> 14868 [
+  6623 -> 14869 [
     weight=100
     type=operates
   ];
@@ -182043,7 +182053,7 @@ digraph {
     weight=50
     type=owns
   ];
-  6685 -> 14819 [
+  6685 -> 14820 [
     weight=33.3
     type=owns
   ];
@@ -182167,7 +182177,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6717 -> 14940 [
+  6717 -> 14941 [
     weight=9.95
     type=owns
   ];
@@ -182339,7 +182349,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6785 -> 14866 [
+  6785 -> 14867 [
     weight=100
     type=operates
   ];
@@ -182443,11 +182453,11 @@ digraph {
     weight=100
     type=owns
   ];
-  6803 -> 14892 [
+  6803 -> 14893 [
     weight=100
     type=owns
   ];
-  6803 -> 14893 [
+  6803 -> 14894 [
     weight=100
     type=owns
   ];
@@ -182695,11 +182705,11 @@ digraph {
     weight=74.8
     type=owns
   ];
-  6832 -> 14883 [
+  6832 -> 14884 [
     weight=24.9
     type=owns
   ];
-  6832 -> 14884 [
+  6832 -> 14885 [
     weight=24.6
     type=owns
   ];
@@ -182879,7 +182889,7 @@ digraph {
     weight=2.3
     type=owns
   ];
-  6846 -> 14948 [
+  6846 -> 14949 [
     weight=100
     type=owns
   ];
@@ -183135,7 +183145,7 @@ digraph {
     weight=100
     type=owns
   ];
-  6857 -> 14798 [
+  6857 -> 14799 [
     weight=100
     type=owns
   ];
@@ -183343,7 +183353,7 @@ digraph {
     weight=22.3
     type=owns
   ];
-  6936 -> 14870 [
+  6936 -> 14871 [
     weight=100
     type=owns
   ];
@@ -183687,7 +183697,7 @@ digraph {
     weight=75.2
     type=owns
   ];
-  7025 -> 14877 [
+  7025 -> 14878 [
     weight=75.2
     type=owns
   ];
@@ -183947,7 +183957,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7095 -> 14789 [
+  7095 -> 14790 [
     weight=100
     type=operates
   ];
@@ -184071,7 +184081,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7100 -> 14903 [
+  7100 -> 14904 [
     weight=100
     type=operates
   ];
@@ -184195,7 +184205,7 @@ digraph {
     weight=2.7405
     type=owns
   ];
-  7105 -> 14909 [
+  7105 -> 14910 [
     weight=20
     type=owns
   ];
@@ -184335,7 +184345,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7109 -> 14961 [
+  7109 -> 14962 [
     weight=100
     type=operates
   ];
@@ -184851,7 +184861,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7199 -> 14825 [
+  7199 -> 14826 [
     weight=100
     type=operates
   ];
@@ -185563,7 +185573,7 @@ digraph {
     weight=22.6
     type=owns
   ];
-  7333 -> 14859 [
+  7333 -> 14860 [
     weight=6.16
     type=owns
   ];
@@ -185691,7 +185701,7 @@ digraph {
     weight=2.81
     type=owns
   ];
-  7368 -> 14906 [
+  7368 -> 14907 [
     weight=4
     type=owns
   ];
@@ -186227,7 +186237,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7504 -> 14759 [
+  7504 -> 14760 [
     weight=100
     type=operates
   ];
@@ -186403,7 +186413,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7519 -> 14932 [
+  7519 -> 14933 [
     weight=100
     type=operates
   ];
@@ -187059,7 +187069,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7538 -> 14932 [
+  7538 -> 14933 [
     weight=100
     type=operates
   ];
@@ -187275,7 +187285,7 @@ digraph {
     weight=1.37
     type=owns
   ];
-  7573 -> 14859 [
+  7573 -> 14860 [
     weight=6.17
     type=owns
   ];
@@ -188023,7 +188033,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7720 -> 14905 [
+  7720 -> 14906 [
     weight=100
     type=operates
   ];
@@ -188035,7 +188045,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7720 -> 14762 [
+  7720 -> 14763 [
     weight=100
     type=operates
   ];
@@ -188163,7 +188173,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7729 -> 14940 [
+  7729 -> 14941 [
     weight=3.89
     type=owns
   ];
@@ -188727,7 +188737,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7876 -> 14828 [
+  7876 -> 14829 [
     weight=100
     type=operates
   ];
@@ -188739,11 +188749,11 @@ digraph {
     weight=100
     type=operates
   ];
-  7883 -> 14842 [
+  7883 -> 14843 [
     weight=6.8
     type=owns
   ];
-  7884 -> 14940 [
+  7884 -> 14941 [
     weight=3.02
     type=owns
   ];
@@ -189387,11 +189397,11 @@ digraph {
     weight=100
     type=operates
   ];
-  7995 -> 14811 [
+  7995 -> 14812 [
     weight=100
     type=operates
   ];
-  7995 -> 14834 [
+  7995 -> 14835 [
     weight=100
     type=operates
   ];
@@ -189831,7 +189841,7 @@ digraph {
     weight=15
     type=owns
   ];
-  8069 -> 14940 [
+  8069 -> 14941 [
     weight=4.13
     type=owns
   ];
@@ -189891,11 +189901,11 @@ digraph {
     weight=100
     type=owns
   ];
-  8088 -> 14934 [
+  8088 -> 14935 [
     weight=25
     type=owns
   ];
-  8088 -> 14935 [
+  8088 -> 14936 [
     weight=24
     type=owns
   ];
@@ -190383,7 +190393,7 @@ digraph {
     weight=100
     type=owns
   ];
-  8179 -> 14826 [
+  8179 -> 14827 [
     weight=1.18
     type=owns
   ];
@@ -190831,11 +190841,11 @@ digraph {
     weight=100
     type=operates
   ];
-  8289 -> 14885 [
+  8289 -> 14886 [
     weight=100
     type=owns
   ];
-  8289 -> 14886 [
+  8289 -> 14887 [
     weight=100
     type=owns
   ];
@@ -191083,7 +191093,7 @@ digraph {
     weight=100
     type=owns
   ];
-  8300 -> 14880 [
+  8300 -> 14881 [
     weight=100
     type=owns
   ];
@@ -191363,11 +191373,11 @@ digraph {
     weight=50
     type=owns
   ];
-  8383 -> 14934 [
+  8383 -> 14935 [
     weight=75
     type=owns
   ];
-  8383 -> 14935 [
+  8383 -> 14936 [
     weight=76
     type=owns
   ];
@@ -194683,11 +194693,11 @@ digraph {
     weight=40
     type=owns
   ];
-  9141 -> 14887 [
+  9141 -> 14888 [
     weight=10.6
     type=owns
   ];
-  9141 -> 14888 [
+  9141 -> 14889 [
     weight=10.6
     type=owns
   ];
@@ -195419,7 +195429,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9226 -> 14789 [
+  9226 -> 14790 [
     weight=100
     type=operates
   ];
@@ -195507,7 +195517,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9226 -> 14737 [
+  9226 -> 14738 [
     weight=100
     type=operates
   ];
@@ -196651,19 +196661,19 @@ digraph {
     weight=100
     type=owns
   ];
-  9410 -> 14940 [
+  9410 -> 14941 [
     weight=8.91
     type=owns
   ];
-  9411 -> 14860 [
+  9411 -> 14861 [
     weight=1
     type=owns
   ];
-  9411 -> 14891 [
+  9411 -> 14892 [
     weight=1
     type=owns
   ];
-  9411 -> 14895 [
+  9411 -> 14896 [
     weight=1
     type=owns
   ];
@@ -196671,11 +196681,11 @@ digraph {
     weight=7.64
     type=owns
   ];
-  9412 -> 14860 [
+  9412 -> 14861 [
     weight=7.64
     type=owns
   ];
-  9412 -> 14891 [
+  9412 -> 14892 [
     weight=7.64
     type=owns
   ];
@@ -196683,11 +196693,11 @@ digraph {
     weight=30.36
     type=owns
   ];
-  9413 -> 14860 [
+  9413 -> 14861 [
     weight=30.36
     type=owns
   ];
-  9413 -> 14891 [
+  9413 -> 14892 [
     weight=30.36
     type=owns
   ];
@@ -196815,11 +196825,11 @@ digraph {
     weight=74.8
     type=owns
   ];
-  9430 -> 14860 [
+  9430 -> 14861 [
     weight=5
     type=owns
   ];
-  9430 -> 14891 [
+  9430 -> 14892 [
     weight=5
     type=owns
   ];
@@ -197379,7 +197389,7 @@ digraph {
     weight=100
     type=owns
   ];
-  9533 -> 14952 [
+  9533 -> 14953 [
     weight=100
     type=owns
   ];
@@ -199519,7 +199529,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9989 -> 14800 [
+  9989 -> 14801 [
     weight=100
     type=operates
   ];
@@ -199639,7 +199649,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10025 -> 14946 [
+  10025 -> 14947 [
     weight=100
     type=operates
   ];
@@ -199663,7 +199673,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10025 -> 14767 [
+  10025 -> 14768 [
     weight=100
     type=operates
   ];
@@ -200243,7 +200253,7 @@ digraph {
     weight=1
     type=owns
   ];
-  10098 -> 14906 [
+  10098 -> 14907 [
     weight=39.9
     type=owns
   ];
@@ -200588,6 +200598,10 @@ digraph {
     type=operates
   ];
   10173 -> 10192 [
+    weight=100
+    type=operates
+  ];
+  10173 -> 14728 [
     weight=100
     type=operates
   ];
@@ -201363,7 +201377,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10378 -> 14960 [
+  10378 -> 14961 [
     weight=100
     type=operates
   ];
@@ -201427,7 +201441,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10387 -> 14958 [
+  10387 -> 14959 [
     weight=100
     type=operates
   ];
@@ -202943,19 +202957,19 @@ digraph {
     weight=69.58
     type=owns
   ];
-  10794 -> 14826 [
+  10794 -> 14827 [
     weight=17.59
     type=owns
   ];
-  10795 -> 14842 [
+  10795 -> 14843 [
     weight=50.13
     type=owns
   ];
-  10796 -> 14940 [
+  10796 -> 14941 [
     weight=40.55
     type=owns
   ];
-  10797 -> 14962 [
+  10797 -> 14963 [
     weight=33.8
     type=owns
   ];
@@ -203083,7 +203097,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10820 -> 14766 [
+  10820 -> 14767 [
     weight=100
     type=operates
   ];
@@ -203483,7 +203497,7 @@ digraph {
     weight=16.2
     type=owns
   ];
-  10856 -> 14882 [
+  10856 -> 14883 [
     weight=100
     type=owns
   ];
@@ -203707,7 +203721,7 @@ digraph {
     weight=100
     type=owns
   ];
-  10861 -> 14881 [
+  10861 -> 14882 [
     weight=99.99
     type=owns
   ];
@@ -204695,7 +204709,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11102 -> 14940 [
+  11102 -> 14941 [
     weight=3.57
     type=owns
   ];
@@ -204703,7 +204717,7 @@ digraph {
     weight=1
     type=owns
   ];
-  11104 -> 14896 [
+  11104 -> 14897 [
     weight=1
     type=owns
   ];
@@ -205519,7 +205533,7 @@ digraph {
     weight=92
     type=owns
   ];
-  11298 -> 14943 [
+  11298 -> 14944 [
     weight=100
     type=operates
   ];
@@ -206607,7 +206621,7 @@ digraph {
     weight=100
     type=owns
   ];
-  11625 -> 14859 [
+  11625 -> 14860 [
     weight=15
     type=owns
   ];
@@ -206631,7 +206645,7 @@ digraph {
     weight=50
     type=owns
   ];
-  11634 -> 14809 [
+  11634 -> 14810 [
     weight=100
     type=owns
   ];
@@ -207339,7 +207353,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11685 -> 14733 [
+  11685 -> 14734 [
     weight=100
     type=operates
   ];
@@ -207939,7 +207953,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11765 -> 14859 [
+  11765 -> 14860 [
     weight=7.5
     type=owns
   ];
@@ -208847,11 +208861,11 @@ digraph {
     weight=100
     type=owns
   ];
-  11932 -> 14861 [
+  11932 -> 14862 [
     weight=100
     type=owns
   ];
-  11932 -> 14862 [
+  11932 -> 14863 [
     weight=100
     type=owns
   ];
@@ -209919,7 +209933,7 @@ digraph {
     weight=33.3
     type=owns
   ];
-  12156 -> 14778 [
+  12156 -> 14779 [
     weight=33.33
     type=owns
   ];
@@ -210167,7 +210181,7 @@ digraph {
     weight=100
     type=operates
   ];
-  12205 -> 14737 [
+  12205 -> 14738 [
     weight=100
     type=operates
   ];
@@ -210223,10 +210237,6 @@ digraph {
     weight=100
     type=operates
   ];
-  12207 -> 14769 [
-    weight=100
-    type=operates
-  ];
   12207 -> 14770 [
     weight=100
     type=operates
@@ -210256,6 +210266,10 @@ digraph {
     type=operates
   ];
   12207 -> 14777 [
+    weight=100
+    type=operates
+  ];
+  12207 -> 14778 [
     weight=100
     type=operates
   ];
@@ -210315,7 +210329,7 @@ digraph {
     weight=100
     type=owns
   ];
-  12219 -> 14873 [
+  12219 -> 14874 [
     weight=100
     type=owns
   ];
@@ -210491,11 +210505,11 @@ digraph {
     weight=3.41
     type=owns
   ];
-  12231 -> 14889 [
+  12231 -> 14890 [
     weight=30.2
     type=owns
   ];
-  12231 -> 14890 [
+  12231 -> 14891 [
     weight=26.58
     type=owns
   ];
@@ -210631,7 +210645,7 @@ digraph {
     weight=9.8
     type=owns
   ];
-  12254 -> 14877 [
+  12254 -> 14878 [
     weight=1
     type=owns
   ];
@@ -211255,11 +211269,11 @@ digraph {
     weight=15.12
     type=owns
   ];
-  12449 -> 14874 [
+  12449 -> 14875 [
     weight=1.17
     type=owns
   ];
-  12449 -> 14875 [
+  12449 -> 14876 [
     weight=1.2
     type=owns
   ];
@@ -211267,11 +211281,11 @@ digraph {
     weight=14.6
     type=owns
   ];
-  12450 -> 14874 [
+  12450 -> 14875 [
     weight=1.17
     type=owns
   ];
-  12450 -> 14875 [
+  12450 -> 14876 [
     weight=1.2
     type=owns
   ];
@@ -211279,11 +211293,11 @@ digraph {
     weight=29.6
     type=owns
   ];
-  12451 -> 14874 [
+  12451 -> 14875 [
     weight=2.33
     type=owns
   ];
-  12451 -> 14875 [
+  12451 -> 14876 [
     weight=2.3
     type=owns
   ];
@@ -211335,7 +211349,7 @@ digraph {
     weight=100
     type=operates
   ];
-  12452 -> 14959 [
+  12452 -> 14960 [
     weight=100
     type=operates
   ];
@@ -211351,7 +211365,7 @@ digraph {
     weight=100
     type=operates
   ];
-  12455 -> 14730 [
+  12455 -> 14731 [
     weight=100
     type=operates
   ];
@@ -211419,1327 +211433,1327 @@ digraph {
     weight=19
     type=owns
   ];
-  12473 -> 14735 [
+  12473 -> 14736 [
     weight=100
     type=operates
   ];
-  14778 -> 2001 [
+  14779 -> 2001 [
     weight=100
     type=owns
   ];
-  14778 -> 3812 [
+  14779 -> 3812 [
     weight=49.9
     type=owns
   ];
-  14778 -> 3981 [
+  14779 -> 3981 [
     weight=7.692
     type=owns
   ];
-  14778 -> 3982 [
+  14779 -> 3982 [
     weight=10
     type=owns
   ];
-  14778 -> 5049 [
+  14779 -> 5049 [
     weight=23.4
     type=owns
   ];
-  14778 -> 6413 [
+  14779 -> 6413 [
     weight=17.65
     type=owns
   ];
-  14778 -> 6820 [
+  14779 -> 6820 [
     weight=3.39
     type=owns
   ];
-  14778 -> 6821 [
+  14779 -> 6821 [
     weight=6
     type=owns
   ];
-  14778 -> 6969 [
+  14779 -> 6969 [
     weight=33.3
     type=owns
   ];
-  14778 -> 6970 [
+  14779 -> 6970 [
     weight=29
     type=owns
   ];
-  14778 -> 7376 [
+  14779 -> 7376 [
     weight=33.33
     type=owns
   ];
-  14778 -> 7377 [
+  14779 -> 7377 [
     weight=33.33
     type=owns
   ];
-  14778 -> 7381 [
+  14779 -> 7381 [
     weight=29
     type=owns
   ];
-  14778 -> 7960 [
+  14779 -> 7960 [
     weight=100
     type=owns
   ];
-  14778 -> 8333 [
+  14779 -> 8333 [
     weight=50
     type=owns
   ];
-  14778 -> 8378 [
+  14779 -> 8378 [
     weight=100
     type=owns
   ];
-  14778 -> 8957 [
+  14779 -> 8957 [
     weight=5.54
     type=owns
   ];
-  14778 -> 9117 [
+  14779 -> 9117 [
     weight=33
     type=owns
   ];
-  14778 -> 8564 [
+  14779 -> 8564 [
     weight=18.2
     type=owns
   ];
-  14778 -> 8565 [
+  14779 -> 8565 [
     weight=18.2
     type=owns
   ];
-  14778 -> 8708 [
+  14779 -> 8708 [
     weight=10
     type=owns
   ];
-  14778 -> 8709 [
+  14779 -> 8709 [
     weight=10.81
     type=owns
   ];
-  14778 -> 8868 [
+  14779 -> 8868 [
     weight=23.4
     type=owns
   ];
-  14778 -> 14889 [
+  14779 -> 14890 [
     weight=33.3
     type=owns
   ];
-  14778 -> 14890 [
+  14779 -> 14891 [
     weight=29
     type=owns
   ];
-  14779 -> 11683 [
+  14780 -> 11683 [
     weight=100
     type=owns
   ];
-  14780 -> 14779 [
+  14781 -> 14780 [
     weight=100
     type=owns
   ];
-  14781 -> 8521 [
+  14782 -> 8521 [
     weight=25
     type=owns
   ];
-  14781 -> 8522 [
+  14782 -> 8522 [
     weight=25
     type=owns
   ];
-  14781 -> 2406 [
+  14782 -> 2406 [
     weight=100
     type=operates
   ];
-  14782 -> 14781 [
+  14783 -> 14782 [
     weight=100
     type=owns
   ];
-  14783 -> 14782 [
+  14784 -> 14783 [
     weight=1
-    type=owns
-  ];
-  14785 -> 14782 [
-    weight=50
-    type=owns
-  ];
-  14785 -> 14783 [
-    weight=50
-    type=owns
-  ];
-  14786 -> 14782 [
-    weight=50
     type=owns
   ];
   14786 -> 14783 [
     weight=50
     type=owns
   ];
-  14787 -> 5727 [
+  14786 -> 14784 [
+    weight=50
+    type=owns
+  ];
+  14787 -> 14783 [
+    weight=50
+    type=owns
+  ];
+  14787 -> 14784 [
+    weight=50
+    type=owns
+  ];
+  14788 -> 5727 [
     weight=25
     type=owns
   ];
-  14787 -> 5728 [
+  14788 -> 5728 [
     weight=21
     type=owns
   ];
-  14787 -> 8648 [
+  14788 -> 8648 [
     weight=21
     type=owns
   ];
-  14788 -> 2011 [
+  14789 -> 2011 [
     weight=100
     type=owns
   ];
-  14790 -> 4711 [
+  14791 -> 4711 [
     weight=100
-    type=owns
-  ];
-  14790 -> 7625 [
-    weight=30
-    type=owns
-  ];
-  14790 -> 7627 [
-    weight=30
-    type=owns
-  ];
-  14790 -> 7629 [
-    weight=30
-    type=owns
-  ];
-  14790 -> 7632 [
-    weight=30
-    type=owns
-  ];
-  14791 -> 7546 [
-    weight=14.97
     type=owns
   ];
   14791 -> 7625 [
-    weight=5
-    type=owns
-  ];
-  14791 -> 7627 [
-    weight=5
-    type=owns
-  ];
-  14791 -> 7629 [
-    weight=5
-    type=owns
-  ];
-  14791 -> 7632 [
-    weight=5
-    type=owns
-  ];
-  14793 -> 5017 [
-    weight=100
-    type=owns
-  ];
-  14794 -> 571 [
-    weight=100
-    type=owns
-  ];
-  14795 -> 9119 [
-    weight=88
-    type=owns
-  ];
-  14797 -> 1081 [
-    weight=1.5
-    type=owns
-  ];
-  14798 -> 9858 [
-    weight=10
-    type=owns
-  ];
-  14798 -> 10857 [
-    weight=1
-    type=owns
-  ];
-  14798 -> 11003 [
-    weight=1
-    type=owns
-  ];
-  14798 -> 14949 [
-    weight=50
-    type=owns
-  ];
-  14801 -> 7129 [
-    weight=100
-    type=owns
-  ];
-  14807 -> 14741 [
-    weight=100
-    type=operates
-  ];
-  14807 -> 14806 [
-    weight=100
-    type=operates
-  ];
-  14808 -> 5106 [
-    weight=41
-    type=owns
-  ];
-  14809 -> 12587 [
-    weight=100
-    type=operates
-  ];
-  14809 -> 14742 [
-    weight=100
-    type=operates
-  ];
-  14814 -> 11012 [
-    weight=100
-    type=operates
-  ];
-  14814 -> 14492 [
-    weight=100
-    type=operates
-  ];
-  14815 -> 3075 [
-    weight=100
-    type=owns
-  ];
-  14815 -> 4161 [
-    weight=85
-    type=owns
-  ];
-  14818 -> 9578 [
-    weight=100
-    type=owns
-  ];
-  14819 -> 14820 [
-    weight=100
-    type=operates
-  ];
-  14819 -> 14746 [
-    weight=100
-    type=operates
-  ];
-  14822 -> 8981 [
-    weight=2
-    type=owns
-  ];
-  14826 -> 3468 [
-    weight=100
-    type=operates
-  ];
-  14826 -> 9164 [
-    weight=100
-    type=operates
-  ];
-  14826 -> 13119 [
-    weight=100
-    type=operates
-  ];
-  14826 -> 14211 [
-    weight=100
-    type=operates
-  ];
-  14829 -> 10267 [
-    weight=1
-    type=owns
-  ];
-  14830 -> 10546 [
-    weight=1
-    type=owns
-  ];
-  14832 -> 770 [
-    weight=8.35
-    type=owns
-  ];
-  14833 -> 9394 [
-    weight=25
-    type=owns
-  ];
-  14835 -> 14751 [
-    weight=100
-    type=operates
-  ];
-  14836 -> 14835 [
-    weight=100
-    type=owns
-  ];
-  14839 -> 6585 [
-    weight=26
-    type=owns
-  ];
-  14842 -> 610 [
-    weight=100
-    type=owns
-  ];
-  14844 -> 9221 [
-    weight=1
-    type=owns
-  ];
-  14844 -> 11932 [
-    weight=2.24
-    type=owns
-  ];
-  14845 -> 9221 [
-    weight=7
-    type=owns
-  ];
-  14846 -> 11932 [
-    weight=2.21
-    type=owns
-  ];
-  14847 -> 10833 [
-    weight=50.85
-    type=owns
-  ];
-  14847 -> 10834 [
-    weight=50
-    type=owns
-  ];
-  14854 -> 14760 [
-    weight=100
-    type=operates
-  ];
-  14856 -> 5960 [
-    weight=100
-    type=operates
-  ];
-  14856 -> 12140 [
-    weight=100
-    type=operates
-  ];
-  14856 -> 14673 [
-    weight=100
-    type=operates
-  ];
-  14859 -> 12038 [
-    weight=50
-    type=owns
-  ];
-  14860 -> 14895 [
-    weight=100
-    type=owns
-  ];
-  14861 -> 4104 [
-    weight=100
-    type=owns
-  ];
-  14862 -> 14861 [
-    weight=1
-    type=owns
-  ];
-  14870 -> 4324 [
-    weight=50
-    type=owns
-  ];
-  14871 -> 6936 [
-    weight=1
-    type=owns
-  ];
-  14872 -> 2180 [
-    weight=100
-    type=operates
-  ];
-  14872 -> 4059 [
-    weight=100
-    type=operates
-  ];
-  14872 -> 12916 [
-    weight=100
-    type=operates
-  ];
-  14873 -> 9700 [
-    weight=100
-    type=operates
-  ];
-  14873 -> 12235 [
-    weight=100
-    type=operates
-  ];
-  14874 -> 14875 [
-    weight=1
-    type=owns
-  ];
-  14875 -> 7310 [
-    weight=22
-    type=owns
-  ];
-  14875 -> 7269 [
-    weight=22
-    type=owns
-  ];
-  14875 -> 10241 [
-    weight=6.5
-    type=owns
-  ];
-  14875 -> 10857 [
-    weight=1
-    type=owns
-  ];
-  14875 -> 9787 [
-    weight=100
-    type=operates
-  ];
-  14875 -> 11973 [
-    weight=100
-    type=operates
-  ];
-  14875 -> 12143 [
-    weight=100
-    type=operates
-  ];
-  14875 -> 12320 [
-    weight=100
-    type=operates
-  ];
-  14875 -> 14768 [
-    weight=100
-    type=operates
-  ];
-  14877 -> 8296 [
-    weight=1
-    type=owns
-  ];
-  14877 -> 5228 [
-    weight=100
-    type=operates
-  ];
-  14877 -> 13414 [
-    weight=100
-    type=operates
-  ];
-  14880 -> 3757 [
-    weight=1.6
-    type=owns
-  ];
-  14880 -> 4488 [
-    weight=37.3
-    type=owns
-  ];
-  14880 -> 6507 [
-    weight=37.6
-    type=owns
-  ];
-  14880 -> 6785 [
-    weight=14.29
-    type=owns
-  ];
-  14880 -> 6786 [
-    weight=6.67
-    type=owns
-  ];
-  14880 -> 359 [
-    weight=100
-    type=operates
-  ];
-  14880 -> 1620 [
-    weight=100
-    type=operates
-  ];
-  14880 -> 1633 [
-    weight=100
-    type=operates
-  ];
-  14880 -> 10420 [
-    weight=100
-    type=operates
-  ];
-  14880 -> 12788 [
-    weight=100
-    type=operates
-  ];
-  14880 -> 13190 [
-    weight=100
-    type=operates
-  ];
-  14880 -> 14496 [
-    weight=100
-    type=operates
-  ];
-  14881 -> 10241 [
-    weight=2.3
-    type=owns
-  ];
-  14881 -> 10857 [
-    weight=1
-    type=owns
-  ];
-  14881 -> 6284 [
-    weight=100
-    type=operates
-  ];
-  14881 -> 13602 [
-    weight=100
-    type=operates
-  ];
-  14883 -> 7102 [
-    weight=100
-    type=operates
-  ];
-  14883 -> 7453 [
-    weight=100
-    type=operates
-  ];
-  14883 -> 13796 [
-    weight=100
-    type=operates
-  ];
-  14884 -> 14883 [
-    weight=1
-    type=owns
-  ];
-  14885 -> 623 [
-    weight=50.53
-    type=owns
-  ];
-  14885 -> 4413 [
-    weight=100
-    type=owns
-  ];
-  14885 -> 6359 [
-    weight=4.8
-    type=owns
-  ];
-  14885 -> 7963 [
-    weight=68
-    type=owns
-  ];
-  14885 -> 8296 [
-    weight=3.8
-    type=owns
-  ];
-  14885 -> 8329 [
-    weight=1.11
-    type=owns
-  ];
-  14885 -> 8541 [
-    weight=71.25
-    type=owns
-  ];
-  14885 -> 8642 [
-    weight=27.04
-    type=owns
-  ];
-  14885 -> 8655 [
-    weight=75
-    type=owns
-  ];
-  14885 -> 8713 [
-    weight=27
-    type=owns
-  ];
-  14885 -> 8752 [
-    weight=75
-    type=owns
-  ];
-  14885 -> 8987 [
-    weight=68
-    type=owns
-  ];
-  14885 -> 2557 [
-    weight=1
-    type=owns
-  ];
-  14885 -> 7565 [
-    weight=100
-    type=operates
-  ];
-  14885 -> 14865 [
-    weight=100
-    type=operates
-  ];
-  14885 -> 13200 [
-    weight=100
-    type=operates
-  ];
-  14885 -> 13887 [
-    weight=100
-    type=operates
-  ];
-  14886 -> 14885 [
-    weight=1
-    type=owns
-  ];
-  14887 -> 14888 [
-    weight=1
-    type=owns
-  ];
-  14888 -> 1101 [
-    weight=75
-    type=owns
-  ];
-  14888 -> 1105 [
-    weight=75
-    type=owns
-  ];
-  14888 -> 1111 [
-    weight=75
-    type=owns
-  ];
-  14888 -> 1115 [
-    weight=75
-    type=owns
-  ];
-  14888 -> 6393 [
-    weight=12
-    type=owns
-  ];
-  14888 -> 6402 [
     weight=30
     type=owns
   ];
-  14888 -> 11706 [
-    weight=94.18
+  14791 -> 7627 [
+    weight=30
     type=owns
   ];
-  14888 -> 11709 [
-    weight=99.22
+  14791 -> 7629 [
+    weight=30
     type=owns
   ];
-  14888 -> 11710 [
-    weight=91
+  14791 -> 7632 [
+    weight=30
     type=owns
   ];
-  14888 -> 11711 [
-    weight=76
+  14792 -> 7546 [
+    weight=14.97
     type=owns
   ];
-  14888 -> 7539 [
-    weight=100
-    type=operates
-  ];
-  14888 -> 7540 [
-    weight=100
-    type=operates
-  ];
-  14888 -> 12026 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 410 [
-    weight=26.49
-    type=owns
-  ];
-  14889 -> 1286 [
-    weight=20
-    type=owns
-  ];
-  14889 -> 4791 [
-    weight=24.8
-    type=owns
-  ];
-  14889 -> 7958 [
-    weight=34.5
-    type=owns
-  ];
-  14889 -> 8508 [
-    weight=49.8
-    type=owns
-  ];
-  14889 -> 8708 [
-    weight=10
-    type=owns
-  ];
-  14889 -> 8709 [
-    weight=10.81
-    type=owns
-  ];
-  14889 -> 8742 [
-    weight=1
-    type=owns
-  ];
-  14889 -> 9786 [
-    weight=24.9
-    type=owns
-  ];
-  14889 -> 14778 [
-    weight=34.5
-    type=owns
-  ];
-  14889 -> 14890 [
-    weight=12.5
-    type=owns
-  ];
-  14889 -> 2026 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 2542 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 2752 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 3104 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 3643 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 3839 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 3901 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 4024 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 4917 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 5221 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 7057 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 7267 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 7380 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 8079 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 10000 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 10565 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 11061 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 11448 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 11792 [
-    weight=100
-    type=operates
-  ];
-  14889 -> 12075 [
-    weight=100
-    type=operates
-  ];
-  14890 -> 14889 [
-    weight=1
-    type=owns
-  ];
-  14891 -> 506 [
-    weight=17.93
-    type=owns
-  ];
-  14891 -> 8296 [
-    weight=1
-    type=owns
-  ];
-  14891 -> 8328 [
-    weight=24
-    type=owns
-  ];
-  14891 -> 9231 [
-    weight=50
-    type=owns
-  ];
-  14891 -> 9232 [
-    weight=50
-    type=owns
-  ];
-  14891 -> 4684 [
-    weight=100
-    type=operates
-  ];
-  14891 -> 13359 [
-    weight=100
-    type=operates
-  ];
-  14892 -> 14893 [
-    weight=1
-    type=owns
-  ];
-  14893 -> 7663 [
-    weight=100
-    type=owns
-  ];
-  14893 -> 8329 [
-    weight=1.32
-    type=owns
-  ];
-  14893 -> 7688 [
-    weight=15.46
-    type=owns
-  ];
-  14893 -> 2183 [
-    weight=100
-    type=operates
-  ];
-  14893 -> 9876 [
-    weight=100
-    type=operates
-  ];
-  14893 -> 13856 [
-    weight=100
-    type=operates
-  ];
-  14893 -> 13992 [
-    weight=100
-    type=operates
-  ];
-  14893 -> 14469 [
-    weight=100
-    type=operates
-  ];
-  14894 -> 11003 [
-    weight=1
-    type=owns
-  ];
-  14894 -> 14874 [
-    weight=16
-    type=owns
-  ];
-  14894 -> 14875 [
-    weight=16
-    type=owns
-  ];
-  14895 -> 9431 [
-    weight=20
-    type=owns
-  ];
-  14895 -> 9432 [
-    weight=20
-    type=owns
-  ];
-  14895 -> 12230 [
-    weight=100
-    type=operates
-  ];
-  14896 -> 10377 [
-    weight=100
-    type=owns
-  ];
-  14896 -> 14854 [
-    weight=100
-    type=owns
-  ];
-  14896 -> 14856 [
-    weight=100
-    type=owns
-  ];
-  14896 -> 2361 [
-    weight=100
-    type=operates
-  ];
-  14896 -> 14848 [
-    weight=100
-    type=operates
-  ];
-  14896 -> 14852 [
-    weight=100
-    type=operates
-  ];
-  14896 -> 14853 [
-    weight=100
-    type=operates
-  ];
-  14896 -> 14855 [
-    weight=100
-    type=operates
-  ];
-  14896 -> 14857 [
-    weight=100
-    type=operates
-  ];
-  14896 -> 14851 [
-    weight=100
-    type=operates
-  ];
-  14897 -> 1147 [
-    weight=2.31
-    type=owns
-  ];
-  14898 -> 1084 [
-    weight=20
-    type=owns
-  ];
-  14898 -> 5574 [
-    weight=20
-    type=owns
-  ];
-  14899 -> 12243 [
-    weight=20
-    type=owns
-  ];
-  14900 -> 11092 [
-    weight=12.1
-    type=owns
-  ];
-  14901 -> 5435 [
-    weight=100
-    type=operates
-  ];
-  14901 -> 13470 [
-    weight=100
-    type=operates
-  ];
-  14902 -> 3954 [
-    weight=18.375
-    type=owns
-  ];
-  14906 -> 3757 [
-    weight=1.99
-    type=owns
-  ];
-  14906 -> 7919 [
-    weight=100
-    type=owns
-  ];
-  14906 -> 8734 [
-    weight=46.4
-    type=owns
-  ];
-  14906 -> 3992 [
-    weight=100
-    type=operates
-  ];
-  14906 -> 7917 [
-    weight=100
-    type=operates
-  ];
-  14906 -> 12738 [
-    weight=100
-    type=operates
-  ];
-  14906 -> 13221 [
-    weight=100
-    type=operates
-  ];
-  14906 -> 13938 [
-    weight=100
-    type=operates
-  ];
-  14908 -> 14909 [
-    weight=1
-    type=owns
-  ];
-  14909 -> 3578 [
-    weight=90
-    type=owns
-  ];
-  14909 -> 3580 [
-    weight=100
-    type=owns
-  ];
-  14909 -> 7106 [
-    weight=100
-    type=owns
-  ];
-  14909 -> 11649 [
-    weight=100
-    type=owns
-  ];
-  14909 -> 14908 [
-    weight=100
-    type=owns
-  ];
-  14911 -> 7675 [
-    weight=6.88
-    type=owns
-  ];
-  14911 -> 9010 [
-    weight=2.1051
-    type=owns
-  ];
-  14912 -> 721 [
-    weight=100
-    type=owns
-  ];
-  14912 -> 7315 [
-    weight=45
-    type=owns
-  ];
-  14912 -> 9010 [
-    weight=1
-    type=owns
-  ];
-  14913 -> 12605 [
-    weight=100
-    type=operates
-  ];
-  14913 -> 13155 [
-    weight=100
-    type=operates
-  ];
-  14913 -> 14641 [
-    weight=100
-    type=operates
-  ];
-  14913 -> 14691 [
-    weight=100
-    type=operates
-  ];
-  14914 -> 4716 [
-    weight=1
-    type=owns
-  ];
-  14915 -> 4716 [
-    weight=18.2
-    type=owns
-  ];
-  14916 -> 8814 [
-    weight=1.18
-    type=owns
-  ];
-  14917 -> 2628 [
-    weight=100
-    type=owns
-  ];
-  14918 -> 4716 [
-    weight=63.6
-    type=owns
-  ];
-  14921 -> 11965 [
-    weight=100
-    type=owns
-  ];
-  14922 -> 2932 [
-    weight=1.35
-    type=owns
-  ];
-  14923 -> 6855 [
-    weight=1
-    type=owns
-  ];
-  14924 -> 9010 [
-    weight=1
-    type=owns
-  ];
-  14925 -> 373 [
-    weight=6
-    type=owns
-  ];
-  14927 -> 11261 [
-    weight=16.7
-    type=owns
-  ];
-  14927 -> 11262 [
-    weight=16.8
-    type=owns
-  ];
-  14928 -> 8515 [
-    weight=1
-    type=owns
-  ];
-  14930 -> 2027 [
-    weight=100
-    type=owns
-  ];
-  14930 -> 6584 [
-    weight=55
-    type=owns
-  ];
-  14930 -> 9026 [
-    weight=16.67
-    type=owns
-  ];
-  14931 -> 6584 [
+  14792 -> 7625 [
     weight=5
     type=owns
   ];
-  14933 -> 799 [
-    weight=17
+  14792 -> 7627 [
+    weight=5
     type=owns
   ];
-  14934 -> 9283 [
-    weight=100
-    type=operates
+  14792 -> 7629 [
+    weight=5
+    type=owns
   ];
-  14934 -> 9284 [
-    weight=100
-    type=operates
+  14792 -> 7632 [
+    weight=5
+    type=owns
   ];
-  14934 -> 14229 [
+  14794 -> 5017 [
     weight=100
-    type=operates
+    type=owns
   ];
-  14935 -> 14934 [
+  14795 -> 571 [
+    weight=100
+    type=owns
+  ];
+  14796 -> 9119 [
+    weight=88
+    type=owns
+  ];
+  14798 -> 1081 [
+    weight=1.5
+    type=owns
+  ];
+  14799 -> 9858 [
+    weight=10
+    type=owns
+  ];
+  14799 -> 10857 [
     weight=1
     type=owns
   ];
-  14938 -> 14937 [
+  14799 -> 11003 [
+    weight=1
+    type=owns
+  ];
+  14799 -> 14950 [
+    weight=50
+    type=owns
+  ];
+  14802 -> 7129 [
     weight=100
     type=owns
   ];
-  14938 -> 3288 [
+  14808 -> 14742 [
     weight=100
     type=operates
+  ];
+  14808 -> 14807 [
+    weight=100
+    type=operates
+  ];
+  14809 -> 5106 [
+    weight=41
+    type=owns
+  ];
+  14810 -> 12587 [
+    weight=100
+    type=operates
+  ];
+  14810 -> 14743 [
+    weight=100
+    type=operates
+  ];
+  14815 -> 11012 [
+    weight=100
+    type=operates
+  ];
+  14815 -> 14492 [
+    weight=100
+    type=operates
+  ];
+  14816 -> 3075 [
+    weight=100
+    type=owns
+  ];
+  14816 -> 4161 [
+    weight=85
+    type=owns
+  ];
+  14819 -> 9578 [
+    weight=100
+    type=owns
+  ];
+  14820 -> 14821 [
+    weight=100
+    type=operates
+  ];
+  14820 -> 14747 [
+    weight=100
+    type=operates
+  ];
+  14823 -> 8981 [
+    weight=2
+    type=owns
+  ];
+  14827 -> 3468 [
+    weight=100
+    type=operates
+  ];
+  14827 -> 9164 [
+    weight=100
+    type=operates
+  ];
+  14827 -> 13119 [
+    weight=100
+    type=operates
+  ];
+  14827 -> 14211 [
+    weight=100
+    type=operates
+  ];
+  14830 -> 10267 [
+    weight=1
+    type=owns
+  ];
+  14831 -> 10546 [
+    weight=1
+    type=owns
+  ];
+  14833 -> 770 [
+    weight=8.35
+    type=owns
+  ];
+  14834 -> 9394 [
+    weight=25
+    type=owns
+  ];
+  14836 -> 14752 [
+    weight=100
+    type=operates
+  ];
+  14837 -> 14836 [
+    weight=100
+    type=owns
+  ];
+  14840 -> 6585 [
+    weight=26
+    type=owns
+  ];
+  14843 -> 610 [
+    weight=100
+    type=owns
+  ];
+  14845 -> 9221 [
+    weight=1
+    type=owns
+  ];
+  14845 -> 11932 [
+    weight=2.24
+    type=owns
+  ];
+  14846 -> 9221 [
+    weight=7
+    type=owns
+  ];
+  14847 -> 11932 [
+    weight=2.21
+    type=owns
+  ];
+  14848 -> 10833 [
+    weight=50.85
+    type=owns
+  ];
+  14848 -> 10834 [
+    weight=50
+    type=owns
+  ];
+  14855 -> 14761 [
+    weight=100
+    type=operates
+  ];
+  14857 -> 5960 [
+    weight=100
+    type=operates
+  ];
+  14857 -> 12140 [
+    weight=100
+    type=operates
+  ];
+  14857 -> 14673 [
+    weight=100
+    type=operates
+  ];
+  14860 -> 12038 [
+    weight=50
+    type=owns
+  ];
+  14861 -> 14896 [
+    weight=100
+    type=owns
+  ];
+  14862 -> 4104 [
+    weight=100
+    type=owns
+  ];
+  14863 -> 14862 [
+    weight=1
+    type=owns
+  ];
+  14871 -> 4324 [
+    weight=50
+    type=owns
+  ];
+  14872 -> 6936 [
+    weight=1
+    type=owns
+  ];
+  14873 -> 2180 [
+    weight=100
+    type=operates
+  ];
+  14873 -> 4059 [
+    weight=100
+    type=operates
+  ];
+  14873 -> 12916 [
+    weight=100
+    type=operates
+  ];
+  14874 -> 9700 [
+    weight=100
+    type=operates
+  ];
+  14874 -> 12235 [
+    weight=100
+    type=operates
+  ];
+  14875 -> 14876 [
+    weight=1
+    type=owns
+  ];
+  14876 -> 7310 [
+    weight=22
+    type=owns
+  ];
+  14876 -> 7269 [
+    weight=22
+    type=owns
+  ];
+  14876 -> 10241 [
+    weight=6.5
+    type=owns
+  ];
+  14876 -> 10857 [
+    weight=1
+    type=owns
+  ];
+  14876 -> 9787 [
+    weight=100
+    type=operates
+  ];
+  14876 -> 11973 [
+    weight=100
+    type=operates
+  ];
+  14876 -> 12143 [
+    weight=100
+    type=operates
+  ];
+  14876 -> 12320 [
+    weight=100
+    type=operates
+  ];
+  14876 -> 14769 [
+    weight=100
+    type=operates
+  ];
+  14878 -> 8296 [
+    weight=1
+    type=owns
+  ];
+  14878 -> 5228 [
+    weight=100
+    type=operates
+  ];
+  14878 -> 13414 [
+    weight=100
+    type=operates
+  ];
+  14881 -> 3757 [
+    weight=1.6
+    type=owns
+  ];
+  14881 -> 4488 [
+    weight=37.3
+    type=owns
+  ];
+  14881 -> 6507 [
+    weight=37.6
+    type=owns
+  ];
+  14881 -> 6785 [
+    weight=14.29
+    type=owns
+  ];
+  14881 -> 6786 [
+    weight=6.67
+    type=owns
+  ];
+  14881 -> 359 [
+    weight=100
+    type=operates
+  ];
+  14881 -> 1620 [
+    weight=100
+    type=operates
+  ];
+  14881 -> 1633 [
+    weight=100
+    type=operates
+  ];
+  14881 -> 10420 [
+    weight=100
+    type=operates
+  ];
+  14881 -> 12788 [
+    weight=100
+    type=operates
+  ];
+  14881 -> 13190 [
+    weight=100
+    type=operates
+  ];
+  14881 -> 14496 [
+    weight=100
+    type=operates
+  ];
+  14882 -> 10241 [
+    weight=2.3
+    type=owns
+  ];
+  14882 -> 10857 [
+    weight=1
+    type=owns
+  ];
+  14882 -> 6284 [
+    weight=100
+    type=operates
+  ];
+  14882 -> 13602 [
+    weight=100
+    type=operates
+  ];
+  14884 -> 7102 [
+    weight=100
+    type=operates
+  ];
+  14884 -> 7453 [
+    weight=100
+    type=operates
+  ];
+  14884 -> 13796 [
+    weight=100
+    type=operates
+  ];
+  14885 -> 14884 [
+    weight=1
+    type=owns
+  ];
+  14886 -> 623 [
+    weight=50.53
+    type=owns
+  ];
+  14886 -> 4413 [
+    weight=100
+    type=owns
+  ];
+  14886 -> 6359 [
+    weight=4.8
+    type=owns
+  ];
+  14886 -> 7963 [
+    weight=68
+    type=owns
+  ];
+  14886 -> 8296 [
+    weight=3.8
+    type=owns
+  ];
+  14886 -> 8329 [
+    weight=1.11
+    type=owns
+  ];
+  14886 -> 8541 [
+    weight=71.25
+    type=owns
+  ];
+  14886 -> 8642 [
+    weight=27.04
+    type=owns
+  ];
+  14886 -> 8655 [
+    weight=75
+    type=owns
+  ];
+  14886 -> 8713 [
+    weight=27
+    type=owns
+  ];
+  14886 -> 8752 [
+    weight=75
+    type=owns
+  ];
+  14886 -> 8987 [
+    weight=68
+    type=owns
+  ];
+  14886 -> 2557 [
+    weight=1
+    type=owns
+  ];
+  14886 -> 7565 [
+    weight=100
+    type=operates
+  ];
+  14886 -> 14866 [
+    weight=100
+    type=operates
+  ];
+  14886 -> 13200 [
+    weight=100
+    type=operates
+  ];
+  14886 -> 13887 [
+    weight=100
+    type=operates
+  ];
+  14887 -> 14886 [
+    weight=1
+    type=owns
+  ];
+  14888 -> 14889 [
+    weight=1
+    type=owns
+  ];
+  14889 -> 1101 [
+    weight=75
+    type=owns
+  ];
+  14889 -> 1105 [
+    weight=75
+    type=owns
+  ];
+  14889 -> 1111 [
+    weight=75
+    type=owns
+  ];
+  14889 -> 1115 [
+    weight=75
+    type=owns
+  ];
+  14889 -> 6393 [
+    weight=12
+    type=owns
+  ];
+  14889 -> 6402 [
+    weight=30
+    type=owns
+  ];
+  14889 -> 11706 [
+    weight=94.18
+    type=owns
+  ];
+  14889 -> 11709 [
+    weight=99.22
+    type=owns
+  ];
+  14889 -> 11710 [
+    weight=91
+    type=owns
+  ];
+  14889 -> 11711 [
+    weight=76
+    type=owns
+  ];
+  14889 -> 7539 [
+    weight=100
+    type=operates
+  ];
+  14889 -> 7540 [
+    weight=100
+    type=operates
+  ];
+  14889 -> 12026 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 410 [
+    weight=26.49
+    type=owns
+  ];
+  14890 -> 1286 [
+    weight=20
+    type=owns
+  ];
+  14890 -> 4791 [
+    weight=24.8
+    type=owns
+  ];
+  14890 -> 7958 [
+    weight=34.5
+    type=owns
+  ];
+  14890 -> 8508 [
+    weight=49.8
+    type=owns
+  ];
+  14890 -> 8708 [
+    weight=10
+    type=owns
+  ];
+  14890 -> 8709 [
+    weight=10.81
+    type=owns
+  ];
+  14890 -> 8742 [
+    weight=1
+    type=owns
+  ];
+  14890 -> 9786 [
+    weight=24.9
+    type=owns
+  ];
+  14890 -> 14779 [
+    weight=34.5
+    type=owns
+  ];
+  14890 -> 14891 [
+    weight=12.5
+    type=owns
+  ];
+  14890 -> 2026 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 2542 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 2752 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 3104 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 3643 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 3839 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 3901 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 4024 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 4917 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 5221 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 7057 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 7267 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 7380 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 8079 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 10000 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 10565 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 11061 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 11448 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 11792 [
+    weight=100
+    type=operates
+  ];
+  14890 -> 12075 [
+    weight=100
+    type=operates
+  ];
+  14891 -> 14890 [
+    weight=1
+    type=owns
+  ];
+  14892 -> 506 [
+    weight=17.93
+    type=owns
+  ];
+  14892 -> 8296 [
+    weight=1
+    type=owns
+  ];
+  14892 -> 8328 [
+    weight=24
+    type=owns
+  ];
+  14892 -> 9231 [
+    weight=50
+    type=owns
+  ];
+  14892 -> 9232 [
+    weight=50
+    type=owns
+  ];
+  14892 -> 4684 [
+    weight=100
+    type=operates
+  ];
+  14892 -> 13359 [
+    weight=100
+    type=operates
+  ];
+  14893 -> 14894 [
+    weight=1
+    type=owns
+  ];
+  14894 -> 7663 [
+    weight=100
+    type=owns
+  ];
+  14894 -> 8329 [
+    weight=1.32
+    type=owns
+  ];
+  14894 -> 7688 [
+    weight=15.46
+    type=owns
+  ];
+  14894 -> 2183 [
+    weight=100
+    type=operates
+  ];
+  14894 -> 9876 [
+    weight=100
+    type=operates
+  ];
+  14894 -> 13856 [
+    weight=100
+    type=operates
+  ];
+  14894 -> 13992 [
+    weight=100
+    type=operates
+  ];
+  14894 -> 14469 [
+    weight=100
+    type=operates
+  ];
+  14895 -> 11003 [
+    weight=1
+    type=owns
+  ];
+  14895 -> 14875 [
+    weight=16
+    type=owns
+  ];
+  14895 -> 14876 [
+    weight=16
+    type=owns
+  ];
+  14896 -> 9431 [
+    weight=20
+    type=owns
+  ];
+  14896 -> 9432 [
+    weight=20
+    type=owns
+  ];
+  14896 -> 12230 [
+    weight=100
+    type=operates
+  ];
+  14897 -> 10377 [
+    weight=100
+    type=owns
+  ];
+  14897 -> 14855 [
+    weight=100
+    type=owns
+  ];
+  14897 -> 14857 [
+    weight=100
+    type=owns
+  ];
+  14897 -> 2361 [
+    weight=100
+    type=operates
+  ];
+  14897 -> 14849 [
+    weight=100
+    type=operates
+  ];
+  14897 -> 14853 [
+    weight=100
+    type=operates
+  ];
+  14897 -> 14854 [
+    weight=100
+    type=operates
+  ];
+  14897 -> 14856 [
+    weight=100
+    type=operates
+  ];
+  14897 -> 14858 [
+    weight=100
+    type=operates
+  ];
+  14897 -> 14852 [
+    weight=100
+    type=operates
+  ];
+  14898 -> 1147 [
+    weight=2.31
+    type=owns
+  ];
+  14899 -> 1084 [
+    weight=20
+    type=owns
+  ];
+  14899 -> 5574 [
+    weight=20
+    type=owns
+  ];
+  14900 -> 12243 [
+    weight=20
+    type=owns
+  ];
+  14901 -> 11092 [
+    weight=12.1
+    type=owns
+  ];
+  14902 -> 5435 [
+    weight=100
+    type=operates
+  ];
+  14902 -> 13470 [
+    weight=100
+    type=operates
+  ];
+  14903 -> 3954 [
+    weight=18.375
+    type=owns
+  ];
+  14907 -> 3757 [
+    weight=1.99
+    type=owns
+  ];
+  14907 -> 7919 [
+    weight=100
+    type=owns
+  ];
+  14907 -> 8734 [
+    weight=46.4
+    type=owns
+  ];
+  14907 -> 3992 [
+    weight=100
+    type=operates
+  ];
+  14907 -> 7917 [
+    weight=100
+    type=operates
+  ];
+  14907 -> 12738 [
+    weight=100
+    type=operates
+  ];
+  14907 -> 13221 [
+    weight=100
+    type=operates
+  ];
+  14907 -> 13938 [
+    weight=100
+    type=operates
+  ];
+  14909 -> 14910 [
+    weight=1
+    type=owns
+  ];
+  14910 -> 3578 [
+    weight=90
+    type=owns
+  ];
+  14910 -> 3580 [
+    weight=100
+    type=owns
+  ];
+  14910 -> 7106 [
+    weight=100
+    type=owns
+  ];
+  14910 -> 11649 [
+    weight=100
+    type=owns
+  ];
+  14910 -> 14909 [
+    weight=100
+    type=owns
+  ];
+  14912 -> 7675 [
+    weight=6.88
+    type=owns
+  ];
+  14912 -> 9010 [
+    weight=2.1051
+    type=owns
+  ];
+  14913 -> 721 [
+    weight=100
+    type=owns
+  ];
+  14913 -> 7315 [
+    weight=45
+    type=owns
+  ];
+  14913 -> 9010 [
+    weight=1
+    type=owns
+  ];
+  14914 -> 12605 [
+    weight=100
+    type=operates
+  ];
+  14914 -> 13155 [
+    weight=100
+    type=operates
+  ];
+  14914 -> 14641 [
+    weight=100
+    type=operates
+  ];
+  14914 -> 14691 [
+    weight=100
+    type=operates
+  ];
+  14915 -> 4716 [
+    weight=1
+    type=owns
+  ];
+  14916 -> 4716 [
+    weight=18.2
+    type=owns
+  ];
+  14917 -> 8814 [
+    weight=1.18
+    type=owns
+  ];
+  14918 -> 2628 [
+    weight=100
+    type=owns
+  ];
+  14919 -> 4716 [
+    weight=63.6
+    type=owns
+  ];
+  14922 -> 11965 [
+    weight=100
+    type=owns
+  ];
+  14923 -> 2932 [
+    weight=1.35
+    type=owns
+  ];
+  14924 -> 6855 [
+    weight=1
+    type=owns
+  ];
+  14925 -> 9010 [
+    weight=1
+    type=owns
+  ];
+  14926 -> 373 [
+    weight=6
+    type=owns
+  ];
+  14928 -> 11261 [
+    weight=16.7
+    type=owns
+  ];
+  14928 -> 11262 [
+    weight=16.8
+    type=owns
+  ];
+  14929 -> 8515 [
+    weight=1
+    type=owns
+  ];
+  14931 -> 2027 [
+    weight=100
+    type=owns
+  ];
+  14931 -> 6584 [
+    weight=55
+    type=owns
+  ];
+  14931 -> 9026 [
+    weight=16.67
+    type=owns
+  ];
+  14932 -> 6584 [
+    weight=5
+    type=owns
+  ];
+  14934 -> 799 [
+    weight=17
+    type=owns
+  ];
+  14935 -> 9283 [
+    weight=100
+    type=operates
+  ];
+  14935 -> 9284 [
+    weight=100
+    type=operates
+  ];
+  14935 -> 14229 [
+    weight=100
+    type=operates
+  ];
+  14936 -> 14935 [
+    weight=1
+    type=owns
   ];
   14939 -> 14938 [
     weight=100
     type=owns
   ];
-  14940 -> 14764 [
+  14939 -> 3288 [
     weight=100
     type=operates
   ];
-  14941 -> 14940 [
+  14940 -> 14939 [
+    weight=100
+    type=owns
+  ];
+  14941 -> 14765 [
+    weight=100
+    type=operates
+  ];
+  14942 -> 14941 [
     weight=5
     type=owns
   ];
-  14944 -> 261 [
+  14945 -> 261 [
     weight=54
     type=owns
   ];
-  14945 -> 1257 [
+  14946 -> 1257 [
     weight=100
     type=owns
   ];
-  14947 -> 2106 [
+  14948 -> 2106 [
     weight=9
     type=owns
   ];
-  14949 -> 7537 [
+  14950 -> 7537 [
     weight=50
     type=owns
   ];
-  14949 -> 7538 [
+  14950 -> 7538 [
     weight=50
     type=owns
   ];
-  14949 -> 11003 [
+  14950 -> 11003 [
     weight=1
     type=owns
   ];
-  14949 -> 14874 [
+  14950 -> 14875 [
     weight=36
     type=owns
   ];
-  14949 -> 14875 [
+  14950 -> 14876 [
     weight=36
     type=owns
   ];
-  14951 -> 2754 [
+  14952 -> 2754 [
     weight=10
     type=owns
   ];
-  14954 -> 573 [
+  14955 -> 573 [
     weight=50
     type=owns
   ];
-  14954 -> 2274 [
+  14955 -> 2274 [
     weight=1
     type=owns
   ];
-  14954 -> 3983 [
+  14955 -> 3983 [
     weight=1
     type=owns
   ];
-  14954 -> 3984 [
+  14955 -> 3984 [
     weight=1
     type=owns
   ];
-  14954 -> 2557 [
+  14955 -> 2557 [
     weight=3.9
     type=owns
   ];
-  14954 -> 14838 [
+  14955 -> 14839 [
     weight=100
     type=operates
   ];
-  14954 -> 14840 [
+  14955 -> 14841 [
     weight=100
     type=operates
   ];
-  14954 -> 14841 [
+  14955 -> 14842 [
     weight=100
     type=operates
   ];
-  14954 -> 12493 [
+  14955 -> 12493 [
     weight=100
     type=operates
   ];
-  14954 -> 13182 [
+  14955 -> 13182 [
     weight=100
     type=operates
   ];
-  14954 -> 13368 [
+  14955 -> 13368 [
     weight=100
     type=operates
   ];
-  14954 -> 13509 [
+  14955 -> 13509 [
     weight=100
     type=operates
   ];
-  14954 -> 13968 [
+  14955 -> 13968 [
     weight=100
     type=operates
   ];
-  14954 -> 14753 [
+  14955 -> 14754 [
     weight=100
     type=operates
   ];
-  14954 -> 14754 [
+  14955 -> 14755 [
     weight=100
     type=operates
   ];
-  14954 -> 14755 [
+  14955 -> 14756 [
     weight=100
     type=operates
   ];
-  14954 -> 14756 [
+  14955 -> 14757 [
     weight=100
     type=operates
   ];
-  14954 -> 14757 [
+  14955 -> 14758 [
     weight=100
     type=operates
   ];
-  14954 -> 14758 [
+  14955 -> 14759 [
     weight=100
     type=operates
-  ];
-  14955 -> 503 [
-    weight=1
-    type=owns
   ];
   14956 -> 503 [
     weight=1
     type=owns
   ];
-  14962 -> 13899 [
-    weight=100
-    type=operates
-  ];
-  14962 -> 14965 [
-    weight=100
-    type=operates
-  ];
-  14966 -> 5106 [
-    weight=59
-    type=owns
-  ];
-  14967 -> 3984 [
+  14957 -> 503 [
     weight=1
     type=owns
   ];
-  14967 -> 13921 [
+  14963 -> 13899 [
     weight=100
     type=operates
   ];
-  14968 -> 2151 [
+  14963 -> 14966 [
+    weight=100
+    type=operates
+  ];
+  14967 -> 5106 [
+    weight=59
+    type=owns
+  ];
+  14968 -> 3984 [
+    weight=1
+    type=owns
+  ];
+  14968 -> 13921 [
+    weight=100
+    type=operates
+  ];
+  14969 -> 2151 [
     weight=70
     type=owns
   ];
-  14969 -> 14819 [
+  14970 -> 14820 [
     weight=33.3
     type=owns
   ];
-  14970 -> 10546 [
+  14971 -> 10546 [
     weight=1
     type=owns
   ];

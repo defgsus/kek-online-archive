@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "62ca9a07-0775-4943-84f8-c6a39a63a490",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Sky Deutschland Fernsehen GmbH & Co. KG",
+        "squuid": "61e6a021-57c9-4e5f-bc71-5167884ad1ce"
+      },
+      "squuid": "62ca9bc3-1ca1-49f8-810a-ddeb1f2ce29b",
+      "state": "active"
+    }
+  ],
+  "name": "www.wowtv.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-07-10T09:28:48.138Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
