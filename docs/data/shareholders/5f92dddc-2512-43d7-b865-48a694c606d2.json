@@ -6,7 +6,7 @@
   "name": "Radio München gUG (haftungsbeschränkt)",
   "naturalPerson": false,
   "squuid": "5f92dddc-2512-43d7-b865-48a694c606d2",
-  "controlDate": "2022-02-22T10:18:33.274Z",
+  "controlDate": "2022-07-13T12:07:03.190Z",
   "streetNumber": "16",
   "organizations": [
     {
@@ -45,12 +45,32 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 25.0,
       "holder": {
         "name": "Schmidt, Eva",
         "squuid": "61c34b2a-a820-4396-a0f8-a4da144cfb5e"
       },
       "squuid": "61c34b63-67f4-4c51-825a-c3f904be85e8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Nibbe, Bodo",
+        "squuid": "6214b7dd-c5fb-428b-82d5-11b23a0be3a9"
+      },
+      "squuid": "6214b847-c493-4aa1-a615-cc7ce5d28a21",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schmidt, Peter",
+        "squuid": "6214b7c5-21e8-4eeb-a152-c13bca465cf2"
+      },
+      "squuid": "6214b867-72ac-4e28-a09d-7f4be7ce8f43",
       "state": "active"
     }
   ]

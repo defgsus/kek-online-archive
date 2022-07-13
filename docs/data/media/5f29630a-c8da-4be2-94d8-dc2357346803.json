@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "5f29630a-c8da-4be2-94d8-dc2357346803",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.radiotop40.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-01-03T11:50:08.034Z",
+  "controlDate": "2022-07-13T14:23:44.005Z",
+  "onlineIVWPI": 68000,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 40700,
+  "onlineAGOF": 10000
 }

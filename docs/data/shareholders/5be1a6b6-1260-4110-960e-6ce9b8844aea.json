@@ -21,7 +21,7 @@
   "co": "Recklinghäuser Zeitung ",
   "limitedPartnership": true,
   "squuid": "5be1a6b6-1260-4110-960e-6ce9b8844aea",
-  "controlDate": "2022-01-03T11:56:50.530Z",
+  "controlDate": "2022-07-13T14:25:24.658Z",
   "streetNumber": "84 b",
   "organizations": [
     {
@@ -71,17 +71,7 @@
       "state": "active"
     },
     {
-      "type": "own",
-      "capitalShares": 25.0,
-      "holder": {
-        "name": "Kreis Recklinghausen",
-        "squuid": "5f180c87-b3f5-4106-ace1-c46bfae17790"
-      },
-      "squuid": "5f180cbb-ee59-4705-94c1-724dc4c70474",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
+      "complementaryPartner": false,
       "type": "own",
       "capitalShares": 75.0,
       "holder": {
@@ -89,6 +79,16 @@
         "squuid": "5be1a6b6-e95a-421a-a353-a27cde8b4377"
       },
       "squuid": "60a38f41-a82e-4b0a-b01e-645122201d21",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Vestische Straßenbahnen GmbH",
+        "squuid": "5be1a6b6-75c9-4c21-b1ca-d8afd33047c6"
+      },
+      "squuid": "61d2e476-4482-4685-b5ee-1ecb22d1b1e5",
       "state": "active"
     }
   ]

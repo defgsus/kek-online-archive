@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Neumarkter Straße 80",
@@ -9,34 +9,12 @@
   "controlDate": "2022-01-03T13:11:47.871Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "81673",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.rapupdate.de",
-        "squuid": "5be1a6b1-9892-4fb3-9015-b27b444cf1e0"
-      },
-      "squuid": "5be1a6b9-0eb2-43ed-a8f1-26eb4fb534be",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Harms, Mario",
-        "squuid": "5be1a6b6-ccae-45ed-9880-d4c79455c382"
-      },
-      "squuid": "5be1a6b8-dcde-4ea2-8800-2b46866c6fbc",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

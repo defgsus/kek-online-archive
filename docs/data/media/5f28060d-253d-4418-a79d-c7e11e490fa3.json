@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "5f28060d-253d-4418-a79d-c7e11e490fa3",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.radiobrocken.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2021-12-21T16:53:49.866Z",
+  "controlDate": "2022-07-13T09:34:21.732Z",
+  "onlineIVWPI": 215800,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 104700,
+  "onlineAGOF": 130000
 }

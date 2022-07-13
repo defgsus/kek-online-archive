@@ -18,7 +18,7 @@
   "name": "JS Ventura Holding GmbH",
   "naturalPerson": false,
   "squuid": "61d2d908-0fe6-4570-8dbd-bc8a9a8ab4a5",
-  "controlDate": "2022-01-18T11:34:10.398Z",
+  "controlDate": "2022-07-13T14:20:19.825Z",
   "streetNumber": "125",
   "organizations": [
     {
@@ -81,5 +81,17 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "zipcode": "10179"
+  "zipcode": "10179",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Streletzki, Julian",
+        "squuid": "5f1ea947-f030-487a-8e5f-9cfa32fdc430"
+      },
+      "squuid": "61e6a617-44bd-4b63-9776-6060c53f1a37",
+      "state": "active"
+    }
+  ]
 }
