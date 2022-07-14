@@ -19,7 +19,7 @@
   "name": "Romance TV Geschäftsführungs GmbH",
   "naturalPerson": false,
   "squuid": "61e05012-9b09-4bd8-b9a7-58d6e6643527",
-  "controlDate": "2022-01-19T16:26:18.196Z",
+  "controlDate": "2022-07-14T10:39:23.409Z",
   "streetNumber": "9",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "85774"
+  "zipcode": "85774",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Romance TV GmbH & Co. KG",
+        "squuid": "5be1a6b6-658c-4241-a43f-5e61332526c2"
+      },
+      "squuid": "61e83c13-9288-4291-962e-c4fd7f915b8b",
+      "state": "active"
+    }
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "5f280842-04dc-4910-8c27-86fb036cb66e",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,8 @@
   "name": "www.rockland.fm",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-01-03T16:38:06.600Z",
+  "controlDate": "2022-07-14T10:36:20.508Z",
+  "onlineIVWPI": 50400,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +33,6 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 19200
 }

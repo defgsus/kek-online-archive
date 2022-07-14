@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Romance TV Geschäftsführungs GmbH",
+        "squuid": "61e05012-9b09-4bd8-b9a7-58d6e6643527"
+      },
+      "squuid": "61e83c13-9288-4291-962e-c4fd7f915b8b",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Unterföhring",
   "pseudoCompany": false,
@@ -8,7 +20,7 @@
   "limitedPartnership": true,
   "squuid": "5be1a6b6-658c-4241-a43f-5e61332526c2",
   "otherMediaActivities": "Die Mainstream Media AG veranstaltet die Pay-TV-Programme Heimatkanal und GoldStar TV.",
-  "controlDate": "2022-01-13T16:15:58.744Z",
+  "controlDate": "2022-07-14T10:39:13.500Z",
   "streetNumber": "9",
   "organizations": [
     {
@@ -63,6 +75,17 @@
         "squuid": "5be1a6b6-80f4-40a1-9801-590a31d82c7b"
       },
       "squuid": "5be1a6b7-20d0-4958-9986-c70477bacdb2",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Romance TV Geschäftsführungs GmbH",
+        "squuid": "61e05012-9b09-4bd8-b9a7-58d6e6643527"
+      },
+      "squuid": "61e050e3-422a-4a73-937a-755ceb49b361",
       "state": "active"
     }
   ]

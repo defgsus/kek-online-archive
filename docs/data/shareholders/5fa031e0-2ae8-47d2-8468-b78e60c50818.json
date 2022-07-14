@@ -2,7 +2,7 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 60.0,
+      "capitalShares": 40.0,
       "held": {
         "name": "IBMVG GmbH",
         "squuid": "5f9a8d9c-a369-47dc-85b2-7062b5cb7e9d"
@@ -18,7 +18,7 @@
   "name": "S-R GmbH",
   "naturalPerson": false,
   "squuid": "5fa031e0-2ae8-47d2-8468-b78e60c50818",
-  "controlDate": "2022-01-05T11:46:30.746Z",
+  "controlDate": "2022-07-14T13:03:43.564Z",
   "streetNumber": "4",
   "organizations": [
     {
@@ -37,22 +37,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Federkeil, Dirk",
-        "squuid": "5fa2c767-2706-43ce-ac08-e104eb79d8b7"
-      },
-      "squuid": "5fa2c7c0-289c-4ac2-8ceb-ea239b8973be",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 64.1,
       "holder": {
         "name": "Simon, Timo",
         "squuid": "5fa2c77e-af4e-4849-a960-5ce45a22a11a"
       },
       "squuid": "5fa2c7d0-709a-4355-8099-bef4dbd060d5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.9,
+      "holder": {
+        "name": "Eigenbesitz de S-R GmbH",
+        "squuid": "61d585a5-c453-42cd-bd07-45053ec09e3c"
+      },
+      "squuid": "61d585e1-fa47-49e2-8ba2-e4c0bbb6ad4a",
       "state": "active"
     }
   ]

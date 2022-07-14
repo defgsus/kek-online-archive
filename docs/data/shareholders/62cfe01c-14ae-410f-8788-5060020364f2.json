@@ -1,0 +1,65 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "RNF GmbH",
+        "squuid": "62cfdd35-6a98-480a-bab1-31ca4f28448f"
+      },
+      "squuid": "62cfe0e1-4529-44fb-8e59-f8d63a42ae3b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Nußloch",
+  "pseudoCompany": false,
+  "street": "Walldorfer Str.",
+  "name": "Racket Center Nußloch GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "62cfe01c-14ae-410f-8788-5060020364f2",
+  "controlDate": "2022-07-14T09:40:55.232Z",
+  "streetNumber": "100",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "69226",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "Lautenschläger, Angelika",
+        "squuid": "62cfe5c1-03a7-4c75-a9eb-b416fb9dfbd1"
+      },
+      "squuid": "62cfe5df-395a-443a-bd12-a69ad0b9f1d1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Zimmermann, Dr. Matthias",
+        "squuid": "62cfe5ab-2299-44bd-8241-c5196edf58da"
+      },
+      "squuid": "62cfe5ef-4ab0-40d2-80e3-e1333cedd39b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Racket Center Nussloch Verwaltungs-GmbH",
+        "squuid": "62cfe4fd-03b5-45fc-be8a-d09d6e4ab65b"
+      },
+      "squuid": "62cfe601-cc79-4c25-99e3-e50c639c8864",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "state": "active",
+  "city": "Heidelberg",
+  "pseudoCompany": false,
+  "street": "Kurfürstenanlage",
+  "name": "RNF GmbH",
+  "naturalPerson": false,
+  "squuid": "62cfdd35-6a98-480a-bab1-31ca4f28448f",
+  "controlDate": "2022-07-14T09:12:15.296Z",
+  "streetNumber": "59",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "69115",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rnf.de",
+        "squuid": "5f3ba858-a329-4e18-8b6b-e558bacf5e8d"
+      },
+      "squuid": "62cfdd9d-a99c-460e-be84-a9e13071b928",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Lautenschläger, Dr. Manfred",
+        "squuid": "62cfdfd0-9447-4b9c-a0a6-bcc48a6bd22b"
+      },
+      "squuid": "62cfe043-2420-4670-986c-9eb05464cc3c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Nighswonger, Martina",
+        "squuid": "62cfe089-66a7-4af9-9971-9c45a0be4b61"
+      },
+      "squuid": "62cfe0a0-951f-4295-a2a7-c301fb173187",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "wob AG",
+        "squuid": "62cfdfe2-8951-409b-afb8-416bcb0534a6"
+      },
+      "squuid": "62cfe0af-b63f-4daa-b238-5fa937678b06",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "epicto GmbH Technische Konzepte und Realisation von Events",
+        "squuid": "62cfe006-d292-449a-a114-bca15d457e2c"
+      },
+      "squuid": "62cfe0c4-cc23-4d4f-bbec-df3960d0688f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Racket Center Nußloch GmbH & Co. KG",
+        "squuid": "62cfe01c-14ae-410f-8788-5060020364f2"
+      },
+      "squuid": "62cfe0e1-4529-44fb-8e59-f8d63a42ae3b",
+      "state": "active"
+    }
+  ]
+}
