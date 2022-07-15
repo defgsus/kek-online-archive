@@ -1,19 +1,4 @@
 {
-  "name": "SWBB GmbH",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Brandt, Sven Werner",
-        "squuid": "62712a55-251f-4d64-8320-ebae00cd15b6"
-      },
-      "squuid": "62712b58-2213-4b02-acb3-390c2c68b5a5",
-      "state": "active"
-    }
-  ],
-  "squuid": "62712a3d-6431-46dd-a6c4-17f76773e699",
   "owns": [
     {
       "type": "own",
@@ -26,6 +11,12 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "SWBB GmbH",
+  "naturalPerson": false,
+  "squuid": "62712a3d-6431-46dd-a6c4-17f76773e699",
+  "controlDate": "2022-07-15T09:42:48.644Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -38,6 +29,16 @@
       "type": "organization"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Brandt, Sven Werner",
+        "squuid": "62712a55-251f-4d64-8320-ebae00cd15b6"
+      },
+      "squuid": "62712b58-2213-4b02-acb3-390c2c68b5a5",
+      "state": "active"
+    }
+  ]
 }

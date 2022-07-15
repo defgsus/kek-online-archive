@@ -1,27 +1,17 @@
 {
-  "state": "active",
-  "city": "Miami (US)",
-  "pseudoCompany": false,
   "name": "H.I.G. Capital",
-  "naturalPerson": false,
-  "squuid": "61d6c958-e22b-4741-bf87-d5681f5084a8",
+  "pseudoCompany": false,
   "controlDate": "2022-01-06T10:52:51.923Z",
+  "squuid": "61d6c958-e22b-4741-bf87-d5681f5084a8",
+  "city": "Miami (US)",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.sportfive.com",
-        "squuid": "5f1958dc-0c43-4ce8-9f17-1c299036be62"
-      },
-      "squuid": "61d6c96b-47e4-4bf0-9297-27f8ef9803a4",
-      "state": "active"
-    }
-  ]
+  "state": "active",
+  "naturalPerson": false
 }

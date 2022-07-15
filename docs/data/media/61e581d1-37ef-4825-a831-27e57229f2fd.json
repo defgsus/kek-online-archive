@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "61e581d1-37ef-4825-a831-27e57229f2fd",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.torfabrik.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-01-17T14:48:57.427Z",
+  "controlDate": "2022-07-15T14:48:27.555Z",
+  "onlineIVWPI": 666400,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 459000,
+  "onlineAGOF": 80000
 }

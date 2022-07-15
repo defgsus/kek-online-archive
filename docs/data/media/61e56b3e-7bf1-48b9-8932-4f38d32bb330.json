@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "61e56b3e-7bf1-48b9-8932-4f38d32bb330",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.wahretabelle.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-01-17T13:13:12.177Z",
+  "controlDate": "2022-07-15T16:24:12.109Z",
+  "onlineIVWPI": 601200,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 107500,
+  "onlineAGOF": 60000
 }

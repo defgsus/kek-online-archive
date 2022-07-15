@@ -1,12 +1,29 @@
 {
   "name": "Horlitz Unternehmensberatungs- und Vermögensverwaltungsgesellschaft mbH",
   "squuid": "62c70be1-213b-4c54-8594-e0f3c01f8ba8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "held": {
+        "name": "Hauptstadt TV GmbH",
+        "squuid": "5be1a6b6-0925-4614-bd1c-0b8415ce30fa"
+      },
+      "squuid": "62c70c07-a881-4637-95fe-2fc133ebbee5",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
   "state": "active"

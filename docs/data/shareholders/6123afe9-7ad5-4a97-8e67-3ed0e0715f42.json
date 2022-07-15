@@ -19,7 +19,7 @@
   "name": "SUPER RTL Fernsehen Geschäftsführungs GmbH",
   "naturalPerson": false,
   "squuid": "6123afe9-7ad5-4a97-8e67-3ed0e0715f42",
-  "controlDate": "2022-01-06T13:33:23.379Z",
+  "controlDate": "2022-07-15T10:41:57.989Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -45,5 +45,17 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
-  "zipcode": "50679"
+  "zipcode": "50679",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "SUPER RTL Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-2cfa-4d35-9bcc-0908e5e2773e"
+      },
+      "squuid": "61d6f023-ffc2-469e-b845-7c9e02c872a7",
+      "state": "active"
+    }
+  ]
 }

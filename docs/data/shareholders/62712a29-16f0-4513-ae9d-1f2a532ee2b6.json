@@ -1,22 +1,8 @@
 {
-  "name": "Telco.Media Creations Holding GmbH",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Riedel, Thomas",
-        "squuid": "5be1a6b6-008b-4eae-a7ed-fbc31b50b350"
-      },
-      "squuid": "62712b16-b47b-42be-a893-2adc343f5a14",
-      "state": "active"
-    }
-  ],
-  "squuid": "62712a29-16f0-4513-ae9d-1f2a532ee2b6",
   "owns": [
     {
       "type": "own",
+      "capitalShares": 40.0,
       "held": {
         "name": "DOSB New Media GmbH",
         "squuid": "5be1a6b6-f478-4a19-833e-ff699c12fe30"
@@ -25,6 +11,12 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Telco.Media Creations Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "62712a29-16f0-4513-ae9d-1f2a532ee2b6",
+  "controlDate": "2022-07-15T09:41:57.212Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -37,6 +29,16 @@
       "type": "organization"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Riedel, Thomas",
+        "squuid": "5be1a6b6-008b-4eae-a7ed-fbc31b50b350"
+      },
+      "squuid": "62712b16-b47b-42be-a893-2adc343f5a14",
+      "state": "active"
+    }
+  ]
 }

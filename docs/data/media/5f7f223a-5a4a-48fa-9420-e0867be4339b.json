@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "5f7f223a-5a4a-48fa-9420-e0867be4339b",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.tlc.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-01-06T16:05:47.507Z",
+  "controlDate": "2022-07-15T11:53:56.956Z",
+  "onlineIVWPI": 1718000,
+  "onlineAsOfDateAGOF": "11/21",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 512000,
+  "onlineAGOF": 160000
 }
