@@ -19,7 +19,7 @@
   "name": "Bertelsmann Management SE",
   "naturalPerson": false,
   "squuid": "5f070afd-5070-4eb7-beee-4b9bc2c46eb8",
-  "controlDate": "2022-01-11T16:52:32.199Z",
+  "controlDate": "2022-07-18T11:36:38.364Z",
   "streetNumber": "270",
   "organizations": [
     {
@@ -117,5 +117,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "33335"
+  "zipcode": "33335",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bertelsmann Verwaltungsgesellschaft mbH",
+        "squuid": "5be1a6b6-d5e7-4704-b7d7-fc44101813c3"
+      },
+      "squuid": "61ddb5cf-c0f2-4520-8c4e-26d264b6a029",
+      "state": "active"
+    }
+  ]
 }

@@ -1,12 +1,29 @@
 {
   "name": "Eibes, Karsten",
   "squuid": "62c308fa-958d-4f50-99c2-b4405032fdff",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Beyond Capital Partners GmbH",
+        "squuid": "6050ddfb-e0ef-4711-96b1-8ad3ca02ca6e"
+      },
+      "squuid": "62c30956-44bd-4703-9764-39fed03f9629",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
   "state": "active"

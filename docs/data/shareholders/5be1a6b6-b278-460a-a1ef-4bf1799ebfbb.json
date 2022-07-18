@@ -22,17 +22,97 @@
     }
   ],
   "state": "active",
-  "city": "Roulers (F)",
+  "city": "Roeselare (B)",
   "pseudoCompany": false,
-  "name": "Roularta Media Group S. A.",
+  "name": "Roularta Media Group N.V.",
   "naturalPerson": false,
   "squuid": "5be1a6b6-b278-460a-a1ef-4bf1799ebfbb",
-  "controlDate": "2021-10-15T12:16:32.838Z",
+  "controlDate": "2022-07-18T14:21:02.211Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Frau im Leben",
+        "squuid": "5be1a6b1-abb9-4b4c-ae01-82e5ccba2113"
+      },
+      "squuid": "62d56958-adf3-4950-9c85-a393f985466e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "G/Geschichte",
+        "squuid": "5be1a6b1-3ff5-43ca-95f2-60406234df31"
+      },
+      "squuid": "62d569db-2aa7-423c-880b-708bc90b7389",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "G/Geschichte Porträt",
+        "squuid": "5c0e9076-3845-42b1-a091-2aa4299a231f"
+      },
+      "squuid": "62d569f8-1d2a-4af4-85e3-a69ddf46767f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Köstlich!",
+        "squuid": "6232f47c-ea9d-47fd-9f55-3731d895d1cd"
+      },
+      "squuid": "62d56a86-e7c9-41b8-ba59-ae49605ca9af",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rente & Co",
+        "squuid": "5be1a6b1-8393-4dc9-aaad-70bae85c48db"
+      },
+      "squuid": "62d56a9c-b465-4560-a686-ae2e41135b06",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "plus Magazin",
+        "squuid": "5be1a6b1-b58e-447d-8e11-6319d754a270"
+      },
+      "squuid": "62d56ab3-a16f-4fdd-b67c-ab88c5693f5c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Unser Geld",
+        "squuid": "62d56b22-72d9-41de-838c-03327d7549c0"
+      },
+      "squuid": "62d56b5a-de9c-4f54-898e-00f51309d0d7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Happy",
+        "squuid": "62d56b14-7642-475b-9819-048188bcf38d"
+      },
+      "squuid": "62d56b9b-ba35-44e0-8460-ee50a0c0515d",
+      "state": "active"
     }
   ],
   "credits": "IJK"

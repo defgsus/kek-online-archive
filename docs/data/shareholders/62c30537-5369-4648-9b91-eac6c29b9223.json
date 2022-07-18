@@ -1,7 +1,25 @@
 {
   "name": "ProSiebenSat.1 GP II GmbH",
   "squuid": "62c30537-5369-4648-9b91-eac6c29b9223",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "PEG Management GmbH & Co. KG",
+        "squuid": "5e203cc0-aed9-45b8-a272-5c22a5c2f4e6"
+      },
+      "squuid": "62c30557-a4cf-4b6f-94b8-0dce1e652aa9",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
