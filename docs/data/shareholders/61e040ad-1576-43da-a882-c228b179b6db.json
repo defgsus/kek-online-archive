@@ -18,7 +18,7 @@
   "name": "Domus Holding GmbH",
   "naturalPerson": false,
   "squuid": "61e040ad-1576-43da-a882-c228b179b6db",
-  "controlDate": "2022-01-18T10:38:54.284Z",
+  "controlDate": "2022-07-19T12:06:30.519Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "83703"
+  "zipcode": "83703",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Drechsel, Maximilian Graf von",
+        "squuid": "61e6997f-33f7-43bb-bf38-7b9ea8d5636e"
+      },
+      "squuid": "61e69995-1f0a-47a2-bd1e-1762c703a353",
+      "state": "active"
+    }
+  ]
 }

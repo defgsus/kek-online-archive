@@ -19,7 +19,7 @@
   "name": "Reissmüller Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "61e04d15-5a11-4f0d-825c-e308ab06f4b4",
-  "controlDate": "2022-01-18T10:44:51.275Z",
+  "controlDate": "2022-07-19T12:05:12.033Z",
   "streetNumber": "2a",
   "organizations": [
     {
@@ -34,5 +34,17 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "85061"
+  "zipcode": "85061",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Reissmüller Familienstiftung GmbH & Co. KG",
+        "squuid": "5be1a6b6-15bc-403b-8385-939fbe4a353f"
+      },
+      "squuid": "61e69ab5-cf2d-4d5b-a087-f38095cbcf32",
+      "state": "active"
+    }
+  ]
 }

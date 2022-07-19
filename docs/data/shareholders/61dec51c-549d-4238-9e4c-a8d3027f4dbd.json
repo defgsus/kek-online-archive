@@ -19,7 +19,7 @@
   "name": "Donau Kurier Beteiligungs-GmbH",
   "naturalPerson": false,
   "squuid": "61dec51c-549d-4238-9e4c-a8d3027f4dbd",
-  "controlDate": "2022-01-18T10:32:49.086Z",
+  "controlDate": "2022-07-19T12:02:09.574Z",
   "streetNumber": "2a",
   "organizations": [
     {
@@ -34,5 +34,27 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "85051"
+  "zipcode": "85051",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Reissmüller Familienstiftung GmbH & Co. KG",
+        "squuid": "5be1a6b6-15bc-403b-8385-939fbe4a353f"
+      },
+      "squuid": "61e69737-56cc-46f2-985d-fe6de327a62c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "GS Capital AG",
+        "squuid": "5be1a6b6-d611-4db1-a890-efcbbda18945"
+      },
+      "squuid": "61e6974d-756d-4c7e-9643-fd890aaa02c7",
+      "state": "active"
+    }
+  ]
 }

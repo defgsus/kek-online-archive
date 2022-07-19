@@ -1,39 +1,4 @@
 {
-  "name": "KKR & Co. Inc.",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 5.5,
-      "holder": {
-        "name": "The Vanguard Group, Inc.",
-        "squuid": "5be1a6b6-eb02-41f1-8b69-58db68c8db1f"
-      },
-      "squuid": "62737f70-ea96-4b2e-831a-053bf54ed5aa",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "holder": {
-        "name": "KKR Management LLP",
-        "squuid": "5e393e0b-9cfa-4236-993d-907b975eef53"
-      },
-      "squuid": "6273800d-d99f-4af1-bb7d-e44d2a3fb3c1",
-      "state": "active",
-      "votingShares": 100.0
-    },
-    {
-      "type": "own",
-      "capitalShares": 94.5,
-      "holder": {
-        "name": "Streubesitz ehem. Limited Partner der KKR Holdings L.P.",
-        "squuid": "62738075-6daf-4f99-9c93-5b6b03df851d"
-      },
-      "squuid": "62738153-ceec-44ee-bba8-c345c5b00019",
-      "state": "active"
-    }
-  ],
-  "squuid": "62737c79-5671-4f78-a66b-a2667fb01a08",
   "owns": [
     {
       "type": "own",
@@ -46,6 +11,12 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "KKR & Co. Inc.",
+  "naturalPerson": false,
+  "squuid": "62737c79-5671-4f78-a66b-a2667fb01a08",
+  "controlDate": "2022-07-19T14:04:15.060Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -142,6 +113,36 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 5.5,
+      "holder": {
+        "name": "The Vanguard Group, Inc.",
+        "squuid": "5be1a6b6-eb02-41f1-8b69-58db68c8db1f"
+      },
+      "squuid": "62737f70-ea96-4b2e-831a-053bf54ed5aa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "holder": {
+        "name": "KKR Management LLP",
+        "squuid": "5e393e0b-9cfa-4236-993d-907b975eef53"
+      },
+      "squuid": "6273800d-d99f-4af1-bb7d-e44d2a3fb3c1",
+      "state": "active",
+      "votingShares": 100.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 94.5,
+      "holder": {
+        "name": "Streubesitz ehem. Limited Partner der KKR Holdings L.P.",
+        "squuid": "62738075-6daf-4f99-9c93-5b6b03df851d"
+      },
+      "squuid": "62738153-ceec-44ee-bba8-c345c5b00019",
+      "state": "active"
+    }
+  ]
 }

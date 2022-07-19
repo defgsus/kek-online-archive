@@ -1,19 +1,4 @@
 {
-  "name": "KKR Group Partnership L.P.",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "KKR Group Holdings L.P.",
-        "squuid": "5e393f6e-16b6-4395-905f-46ed2fac39fa"
-      },
-      "squuid": "62737da9-775b-4678-93c8-13dd9b773e76",
-      "state": "active"
-    }
-  ],
-  "squuid": "62737c3e-559f-4951-9727-325dd53240e7",
   "owns": [
     {
       "type": "own",
@@ -26,6 +11,12 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "KKR Group Partnership L.P.",
+  "naturalPerson": false,
+  "squuid": "62737c3e-559f-4951-9727-325dd53240e7",
+  "controlDate": "2022-07-19T14:04:47.604Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -44,6 +35,16 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "KKR Group Holdings L.P.",
+        "squuid": "5e393f6e-16b6-4395-905f-46ed2fac39fa"
+      },
+      "squuid": "62737da9-775b-4678-93c8-13dd9b773e76",
+      "state": "active"
+    }
+  ]
 }

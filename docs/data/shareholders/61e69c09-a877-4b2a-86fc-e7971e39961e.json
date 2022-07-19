@@ -18,7 +18,7 @@
   "name": "GbR Verwaltung",
   "naturalPerson": false,
   "squuid": "61e69c09-a877-4b2a-86fc-e7971e39961e",
-  "controlDate": "2022-01-25T09:10:08.522Z",
+  "controlDate": "2022-07-19T12:45:55.774Z",
   "streetNumber": "4",
   "organizations": [
     {
@@ -33,5 +33,37 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "80335"
+  "zipcode": "80335",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Erbengemeinschaft Anneliese Friedmann (Anemone Szczesny-Friedmann, Dr. Johannes Friedmann)",
+        "squuid": "612f92b1-967a-44dd-a4c9-55372f44360e"
+      },
+      "squuid": "61efbefe-e4b6-45f0-b875-e7cc148aa86b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Friedmann, Dr. Johannes",
+        "squuid": "5be1a6b6-81d2-477a-bb3d-7b3d1cf2e808"
+      },
+      "squuid": "61efbf4a-1df9-4556-84c0-e871f390f1e4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Szczesny-Friedmann, Anemone",
+        "squuid": "5be1a6b6-51e9-46a3-bf44-7eb50e5f7bfa"
+      },
+      "squuid": "61efbf57-0cd8-42d0-83db-f279575ef132",
+      "state": "active"
+    }
+  ]
 }
