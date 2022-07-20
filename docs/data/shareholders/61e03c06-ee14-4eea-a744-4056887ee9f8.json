@@ -30,7 +30,7 @@
   "name": "Peter Praunsmändtl GmbH",
   "naturalPerson": false,
   "squuid": "61e03c06-ee14-4eea-a744-4056887ee9f8",
-  "controlDate": "2022-01-13T14:50:38.116Z",
+  "controlDate": "2022-07-20T12:00:06.273Z",
   "streetNumber": "134",
   "organizations": [
     {
@@ -39,5 +39,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "86633"
+  "zipcode": "86633",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Praunsmändtl Holding GmbH & Co. KG",
+        "squuid": "5d397e4f-c585-47b8-a2ce-9f04c5a77912"
+      },
+      "squuid": "61e1a6f0-0008-4dc9-8e84-99a756e12489",
+      "state": "active"
+    }
+  ]
 }

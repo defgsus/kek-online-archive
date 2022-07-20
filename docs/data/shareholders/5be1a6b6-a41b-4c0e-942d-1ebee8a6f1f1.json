@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-a41b-4c0e-942d-1ebee8a6f1f1",
-  "controlDate": "2022-01-14T11:36:02.617Z",
+  "controlDate": "2022-07-20T16:36:34.902Z",
   "streetNumber": "4",
   "organizations": [
     {
@@ -48,22 +48,23 @@
     },
     {
       "type": "own",
-      "capitalShares": 37.5,
-      "holder": {
-        "name": "Friedmann, Anneliese",
-        "squuid": "5be1a6b6-98f2-4e6f-881d-12ae96901840"
-      },
-      "squuid": "5be1a6b7-8693-4e6d-b5f4-673289dc8617",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 31.25,
       "holder": {
         "name": "Szczesny-Friedmann, Anemone",
         "squuid": "5be1a6b6-51e9-46a3-bf44-7eb50e5f7bfa"
       },
       "squuid": "5be1a6b7-d7fa-4972-b8c6-8a24a08d8179",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Verlag \"Die Abendzeitung\" Verwaltungs-GmbH",
+        "squuid": "61e163a3-16ef-402a-974f-2dbb0d80c7f2"
+      },
+      "squuid": "61e166f6-1e24-4939-9dff-747c2be10646",
       "state": "active"
     }
   ]

@@ -19,7 +19,7 @@
   "name": "Verlag \"Die Abendzeitung\" Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "61e163a3-16ef-402a-974f-2dbb0d80c7f2",
-  "controlDate": "2022-01-18T10:51:45.596Z",
+  "controlDate": "2022-07-20T16:32:48.484Z",
   "streetNumber": "4",
   "organizations": [
     {
@@ -34,5 +34,17 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "80335"
+  "zipcode": "80335",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "GbR Verwaltung",
+        "squuid": "61e69c09-a877-4b2a-86fc-e7971e39961e"
+      },
+      "squuid": "61e69c21-c46b-4d13-93b3-48ea97e63848",
+      "state": "active"
+    }
+  ]
 }

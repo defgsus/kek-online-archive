@@ -18,7 +18,7 @@
   "name": "Print Beteiligungs GmbH",
   "naturalPerson": false,
   "squuid": "60d48e41-8212-4f19-b5d8-9b6e145dd1e2",
-  "controlDate": "2022-01-13T15:05:39.195Z",
+  "controlDate": "2022-07-20T14:54:50.397Z",
   "streetNumber": "29",
   "organizations": [
     {
@@ -33,5 +33,37 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "82031"
+  "zipcode": "82031",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Eishold Capital GmbH",
+        "squuid": "61e0408c-1c6e-4ede-8ee6-9147f20a6be2"
+      },
+      "squuid": "61e040f4-8953-4f11-9578-a2510ab9efd1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Domus Holding GmbH",
+        "squuid": "61e040ad-1576-43da-a882-c228b179b6db"
+      },
+      "squuid": "61e04108-480a-42cb-a5b2-33b062091b12",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "von Wietzlow, Nils",
+        "squuid": "61e040d9-524f-41f7-804a-b61c32157605"
+      },
+      "squuid": "61e04118-d6df-48fb-82a6-739cb5e4f581",
+      "state": "active"
+    }
+  ]
 }

@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Rolf Deyhle Holding GmbH & Co. KG",
-        "squuid": "5efcacf1-5ebf-49bc-96ad-cca1f45383e5"
-      },
-      "squuid": "5fa038ab-49a8-4f50-8de7-462f50bfc7be",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Stuttgart",
   "pseudoCompany": false,
   "street": "Plieninger Str.",
@@ -23,28 +10,11 @@
   "streetNumber": "100",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "70567",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Rolf Deyhle Holding GmbH & Co. KG",
-        "squuid": "5efcacf1-5ebf-49bc-96ad-cca1f45383e5"
-      },
-      "squuid": "5ff471f7-fb0d-4187-a2be-a33a33bb49b5",
-      "state": "active"
-    }
-  ]
+  "zipcode": "70567"
 }
