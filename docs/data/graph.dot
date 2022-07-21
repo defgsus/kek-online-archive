@@ -48414,11 +48414,11 @@ digraph {
     type=shareholder
     state=active
     label="HM-Beteiligungs-GmbH"
-    num_medias=0
+    num_medias=74
     num_medias_weighted=0.0000
     name="62c6f5f6-6beb-4e2a-8bd6-321cf4cf317b"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4842 [
     type=shareholder
@@ -100484,11 +100484,11 @@ digraph {
     type=shareholder
     state=active
     label="Sellwerk GmbH & Co. KG"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=74
+    num_medias_weighted=0.1293
     name="62c6f5d3-b90a-4f49-a0f7-c982ad822b84"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10049 [
     type=shareholder
@@ -111007,7 +111007,7 @@ digraph {
     num_medias=74
     num_medias_weighted=0.1293
     name="5f9aabd4-5e70-44d2-b3cc-0f75d497a84f"
-    in_degree=4
+    in_degree=6
     out_degree=1
   ];
   11101 [
@@ -173879,6 +173879,10 @@ digraph {
     weight=3.02
     type=owns
   ];
+  4841 -> 11100 [
+    weight=1
+    type=owns
+  ];
   4843 -> 2109 [
     weight=30.8
     type=owns
@@ -199917,6 +199921,10 @@ digraph {
   ];
   10046 -> 6794 [
     weight=39.57
+    type=owns
+  ];
+  10048 -> 11100 [
+    weight=100
     type=owns
   ];
   10050 -> 11910 [
