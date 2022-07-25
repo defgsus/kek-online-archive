@@ -1,12 +1,29 @@
 {
   "name": "Volksbank BraWo",
   "squuid": "62da7b9f-27b2-4b5c-ab54-6d7bd23dec00",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "held": {
+        "name": "Brunswiek Marketing GmbH",
+        "squuid": "5be1a6b6-7e46-447a-8a82-8d08794d64a2"
+      },
+      "squuid": "62da7bec-8523-4f7e-8014-134677672050",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
   "state": "active"

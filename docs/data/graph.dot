@@ -1632,13 +1632,13 @@ digraph {
   ];
   163 [
     type=shareholder
-    state=active
+    state=archived
     label="Acan Invest AG"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-8f8b-4b80-8b2b-5d2d1893c709"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   164 [
     type=shareholder
@@ -4122,13 +4122,13 @@ digraph {
   ];
   412 [
     type=shareholder
-    state=active
+    state=archived
     label="Ampyll GmbH"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-ea1f-47d2-ac6e-ea2cdcb81634"
-    in_degree=2
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   413 [
     type=shareholder
@@ -15257,7 +15257,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0444
     name="5be1a6b6-7e46-447a-8a82-8d08794d64a2"
-    in_degree=1
+    in_degree=2
     out_degree=1
   ];
   1526 [
@@ -17972,13 +17972,13 @@ digraph {
   ];
   1797 [
     type=shareholder
-    state=active
+    state=archived
     label="CETP II Vienna S.a.r.L."
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-66b0-47dc-ad8b-96b9c74b6c06"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   1798 [
     type=shareholder
@@ -29552,13 +29552,13 @@ digraph {
   ];
   2955 [
     type=shareholder
-    state=active
+    state=archived
     label="EJK Investment und Beteiligungs GmbH"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-ba84-48d7-b6c9-7898d6759236"
-    in_degree=1
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   2956 [
     type=shareholder
@@ -47082,13 +47082,13 @@ digraph {
   ];
   4708 [
     type=shareholder
-    state=active
+    state=archived
     label="Henrich, Philipp"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-200f-4ee9-834c-d86fba557a88"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4709 [
     type=shareholder
@@ -51642,13 +51642,13 @@ digraph {
   ];
   5164 [
     type=shareholder
-    state=active
+    state=archived
     label="Infront Financial Technology GmbH"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-c1b6-4d90-a806-6c7eee54bfed"
-    in_degree=1
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   5165 [
     type=shareholder
@@ -53702,13 +53702,13 @@ digraph {
   ];
   5370 [
     type=shareholder
-    state=active
+    state=archived
     label="Johannig, Lutz"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-0d47-42eb-9715-9ecfd19e9e4e"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   5371 [
     type=shareholder
@@ -55482,13 +55482,13 @@ digraph {
   ];
   5548 [
     type=shareholder
-    state=active
+    state=archived
     label="Keferstein, Edmund Jörg"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-e92c-41c1-bc86-38e2894c6812"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   5549 [
     type=print
@@ -76182,12 +76182,12 @@ digraph {
   ];
   7618 [
     type=shareholder
-    state=active
+    state=archived
     label="Nextpit GmbH"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-f775-4e4e-8472-7f36d4746c9f"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   7619 [
@@ -118714,11 +118714,11 @@ digraph {
     type=shareholder
     state=active
     label="Volksbank BraWo"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0400
     name="62da7b9f-27b2-4b5c-ab54-6d7bd23dec00"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11872 [
     type=shareholder
@@ -119692,13 +119692,13 @@ digraph {
   ];
   11969 [
     type=shareholder
-    state=active
+    state=archived
     label="vwd Group GmbH"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-fb82-4e50-8da9-4b86f435e607"
-    in_degree=3
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   11970 [
     type=shareholder
@@ -119707,7 +119707,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-ee27-45dd-8dce-503e51596891"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   11971 [
@@ -150493,10 +150493,6 @@ digraph {
     weight=100
     type=operates
   ];
-  163 -> 7618 [
-    weight=100
-    type=owns
-  ];
   166 -> 248 [
     weight=100
     type=owns
@@ -151468,10 +151464,6 @@ digraph {
   411 -> 14561 [
     weight=100
     type=operates
-  ];
-  412 -> 11969 [
-    weight=10.3
-    type=owns
   ];
   414 -> 2267 [
     weight=1
@@ -158921,10 +158913,6 @@ digraph {
     weight=3
     type=owns
   ];
-  1797 -> 11969 [
-    weight=86.7
-    type=owns
-  ];
   1798 -> 12221 [
     weight=1
     type=owns
@@ -164603,10 +164591,6 @@ digraph {
   ];
   2954 -> 2953 [
     weight=100
-    type=owns
-  ];
-  2955 -> 11969 [
-    weight=3
     type=owns
   ];
   2957 -> 10248 [
@@ -173333,10 +173317,6 @@ digraph {
     weight=100
     type=operates
   ];
-  4708 -> 412 [
-    weight=50
-    type=owns
-  ];
   4709 -> 10035 [
     weight=20
     type=owns
@@ -175165,10 +175145,6 @@ digraph {
     weight=1
     type=owns
   ];
-  5164 -> 11970 [
-    weight=100
-    type=owns
-  ];
   5165 -> 13453 [
     weight=100
     type=operates
@@ -176569,10 +176545,6 @@ digraph {
     weight=100
     type=operates
   ];
-  5370 -> 412 [
-    weight=50
-    type=owns
-  ];
   5371 -> 8956 [
     weight=50
     type=owns
@@ -177231,10 +177203,6 @@ digraph {
   ];
   5547 -> 5546 [
     weight=1
-    type=owns
-  ];
-  5548 -> 2955 [
-    weight=100
     type=owns
   ];
   5550 -> 5152 [
@@ -208605,6 +208573,10 @@ digraph {
     weight=100
     type=operates
   ];
+  11871 -> 1525 [
+    weight=90
+    type=owns
+  ];
   11873 -> 3415 [
     weight=7.5
     type=owns
@@ -209256,10 +209228,6 @@ digraph {
   11968 -> 4466 [
     weight=100
     type=operates
-  ];
-  11969 -> 5164 [
-    weight=100
-    type=owns
   ];
   11972 -> 2109 [
     weight=12.4
