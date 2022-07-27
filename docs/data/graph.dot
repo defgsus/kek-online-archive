@@ -88427,7 +88427,7 @@ digraph {
     num_medias=10
     num_medias_weighted=10.0000
     name="5be1a6b6-d1b6-4b42-b474-290b5f4298c9"
-    in_degree=4
+    in_degree=3
     out_degree=10
   ];
   8843 [
@@ -88437,7 +88437,7 @@ digraph {
     num_medias=10
     num_medias_weighted=0.0000
     name="5f1ea13b-56c8-40a7-a058-5653c2a1167d"
-    in_degree=3
+    in_degree=2
     out_degree=1
   ];
   8844 [
@@ -97764,11 +97764,11 @@ digraph {
     type=shareholder
     state=active
     label="Schneider, Uwe"
-    num_medias=10
+    num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-d64d-41e1-a94d-02352dcde9d5"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   9777 [
     type=shareholder
@@ -198467,14 +198467,6 @@ digraph {
   ];
   9775 -> 11589 [
     weight=100
-    type=owns
-  ];
-  9776 -> 8842 [
-    weight=1
-    type=owns
-  ];
-  9776 -> 8843 [
-    weight=3.848
     type=owns
   ];
   9778 -> 5276 [
