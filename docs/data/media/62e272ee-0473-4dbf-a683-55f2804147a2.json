@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "rfStartDate": "29.10.2021",
+  "squuid": "62e272ee-0473-4dbf-a683-55f2804147a2",
+  "organization": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "radio NRW GmbH",
+        "squuid": "5be1a6b6-4e8f-44fd-b055-21d0337b962b"
+      },
+      "squuid": "62e27382-1da8-4182-9647-0c85ded1174d",
+      "state": "active"
+    }
+  ],
+  "name": "NOXX",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "02.07.2021",
+  "rfLicenseFrom": "LfM"
+}
