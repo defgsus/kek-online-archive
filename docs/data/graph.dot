@@ -8024,11 +8024,11 @@ digraph {
     type=shareholder
     state=active
     label="Baima, Maximilian Jovan"
-    num_medias=2
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61e6e25e-5768-40d4-afe4-832b37290713"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   803 [
     type=shareholder
@@ -26447,7 +26447,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="61e6e229-c9f9-4be5-af1c-853927f5fcf8"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   2645 [
@@ -26457,18 +26457,18 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="61c1e6f9-136f-41a4-8997-9d532c84cfe2"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   2646 [
     type=shareholder
-    state=active
+    state=archived
     label="DRYMSTRYM TV GmbH"
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61c1e6dc-1142-48d4-b05c-9f552e15840c"
-    in_degree=2
-    out_degree=2
+    in_degree=0
+    out_degree=0
   ];
   2647 [
     type=shareholder
@@ -35522,12 +35522,12 @@ digraph {
   ];
   3552 [
     type=tv
-    state=active
+    state=archived
     label="Fox Channel"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e747-4150-9989-c1900b8d82f1"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   3553 [
@@ -43752,7 +43752,7 @@ digraph {
   ];
   4375 [
     type=shareholder
-    state=active
+    state=archived
     label="H.I.G. Capital"
     num_medias=0
     num_medias_weighted=0.0000
@@ -74412,12 +74412,12 @@ digraph {
   ];
   7441 [
     type=tv
-    state=active
+    state=archived
     label="National Geographic People Channel (NAT GEO PEOPLE)"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-0294-4a53-b288-9247a2b3c652"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   7442 [
@@ -96754,11 +96754,11 @@ digraph {
     type=shareholder
     state=active
     label="Scherenberg, Dr. Oliver"
-    num_medias=2
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61e6e276-e12c-4d30-b2a0-78660798806a"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   9676 [
     type=shareholder
@@ -111864,11 +111864,11 @@ digraph {
     type=shareholder
     state=active
     label="The Walt Disney Company (Germany) GmbH"
-    num_medias=7
-    num_medias_weighted=7.0000
+    num_medias=5
+    num_medias_weighted=5.0000
     name="5be1a6b6-62fe-4b85-a886-2d02af7df9ab"
     in_degree=1
-    out_degree=7
+    out_degree=5
   ];
   11187 [
     type=shareholder
@@ -111894,8 +111894,8 @@ digraph {
     type=shareholder
     state=active
     label="The Walt Disney Company Ltd."
-    num_medias=9
-    num_medias_weighted=9.0000
+    num_medias=7
+    num_medias_weighted=7.0000
     name="60d5c979-e693-4dae-81ab-d4dde7c983dd"
     in_degree=0
     out_degree=3
@@ -153625,10 +153625,6 @@ digraph {
     weight=1.37
     type=owns
   ];
-  802 -> 2646 [
-    weight=50
-    type=owns
-  ];
   804 -> 1877 [
     weight=50
     type=owns
@@ -163040,14 +163036,6 @@ digraph {
   2640 -> 11702 [
     weight=59.02
     type=owns
-  ];
-  2646 -> 2645 [
-    weight=100
-    type=operates
-  ];
-  2646 -> 2644 [
-    weight=100
-    type=operates
   ];
   2647 -> 12956 [
     weight=100
@@ -198193,10 +198181,6 @@ digraph {
     weight=50
     type=owns
   ];
-  9675 -> 2646 [
-    weight=50
-    type=owns
-  ];
   9676 -> 8307 [
     weight=50
     type=owns
@@ -205281,15 +205265,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11186 -> 3552 [
-    weight=100
-    type=operates
-  ];
   11186 -> 7437 [
-    weight=100
-    type=operates
-  ];
-  11186 -> 7441 [
     weight=100
     type=operates
   ];
