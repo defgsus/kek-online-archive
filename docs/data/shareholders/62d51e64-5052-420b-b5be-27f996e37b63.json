@@ -1,12 +1,29 @@
 {
   "name": "Horlitz, Archibald",
   "squuid": "62d51e64-5052-420b-b5be-27f996e37b63",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Horlitz Unternehmensberatungs- und Vermögensverwaltungsgesellschaft mbH",
+        "squuid": "62c70be1-213b-4c54-8594-e0f3c01f8ba8"
+      },
+      "squuid": "62d51e8b-f78c-4414-8435-7598b84b950c",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
   "state": "active"

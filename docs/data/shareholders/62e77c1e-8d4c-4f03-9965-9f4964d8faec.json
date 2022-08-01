@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "street": "Theodor-Heuss-Ring",
+  "name": "NRW Audio GmbH & Co. KG ",
+  "squuid": "62e77c1e-8d4c-4f03-9965-9f4964d8faec",
+  "placeOfBusiness": "Köln",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
+  ],
+  "zipcode": "50668",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "NRW1",
+        "squuid": "62e778b5-2d67-4da9-b14a-0e7d26fdacd6"
+      },
+      "squuid": "62e77c42-6376-4000-a99b-271ac636310d",
+      "state": "active"
+    }
+  ]
+}

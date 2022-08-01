@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Wichmannstraße",
+  "name": "DRYMSTRYM TV GmbH",
+  "naturalPerson": false,
+  "squuid": "62e791f2-9ab8-4d35-af30-348a8e682f0a",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22607",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "DRYMSTRYM TV",
+        "squuid": "61e6e229-c9f9-4be5-af1c-853927f5fcf8"
+      },
+      "squuid": "62e79515-582e-4dcb-a58d-c4a6f49600d7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Baima, Maximilian Jovan",
+        "squuid": "61e6e25e-5768-40d4-afe4-832b37290713"
+      },
+      "squuid": "62e796a8-017c-41c0-b873-ffd9b0fcda78",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Scherenberg, Dr. Oliver",
+        "squuid": "61e6e276-e12c-4d30-b2a0-78660798806a"
+      },
+      "squuid": "62e796c5-1df7-416f-b189-f6988e0cd6ce",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "RO.SA.NO GmbH & Co. KG",
+        "squuid": "5be1a6b6-9f94-40a5-97c6-edd4b995390c"
+      },
+      "squuid": "62e796fa-830b-4af3-8320-7a702967f131",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Tosho Invest UG (haftungsbeschränkt)",
+        "squuid": "62e79752-e072-4c42-9d24-e2279f2c195d"
+      },
+      "squuid": "62e797a9-2409-42d5-bccc-00e68e937bae",
+      "state": "active"
+    }
+  ]
+}

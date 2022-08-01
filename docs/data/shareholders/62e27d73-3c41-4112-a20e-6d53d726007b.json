@@ -1,12 +1,29 @@
 {
   "name": "Aust, Laszlo",
   "squuid": "62e27d73-3c41-4112-a20e-6d53d726007b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 16.67,
+      "held": {
+        "name": "Aust Verwaltungs KG",
+        "squuid": "62cebc40-4d65-418e-9a97-1178ec141185"
+      },
+      "squuid": "62e27e57-71a8-4925-8bbd-14271c6540dc",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
   "state": "active"

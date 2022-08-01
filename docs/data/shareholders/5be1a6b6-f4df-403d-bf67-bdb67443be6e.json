@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 49.9,
+      "held": {
+        "name": "Junior Digital Media GmbH",
+        "squuid": "62e7b1b6-3daf-43b9-98e6-4ca4a70610cf"
+      },
+      "squuid": "62e7b27b-ee43-4fe6-ab6c-502e805b0f5b",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Hamburg",
   "pseudoCompany": false,
@@ -38,15 +50,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "www.wirelterm.de",
-        "squuid": "5be1a6b1-9722-4489-bfc1-af081731f29b"
-      },
-      "squuid": "5be1a6b9-9316-4b00-a3e7-9abbc2d863dd",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "schule",
         "squuid": "5be1a6b1-7283-47c9-a30e-5a766dd4a2c6"
       },
@@ -65,10 +68,19 @@
     {
       "type": "operate",
       "held": {
-        "name": "www.leben-und-erziehen.de",
-        "squuid": "5c58615a-a9d5-4496-a9ac-085c6af89bd6"
+        "name": "Schwangerschaft & Geburt",
+        "squuid": "62e7b493-f8dd-48d2-b26d-362d761ab2be"
       },
-      "squuid": "5d3b041b-0947-4c54-b279-16f670c14d4f",
+      "squuid": "62e7b501-f7ea-4b15-928d-5b68e70aa168",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "leben & erziehen green",
+        "squuid": "62e7b52a-2f6d-48ba-b5bc-1951d464264b"
+      },
+      "squuid": "62e7b579-29fa-4fb9-8b50-3eabd786b10d",
       "state": "active"
     }
   ],
