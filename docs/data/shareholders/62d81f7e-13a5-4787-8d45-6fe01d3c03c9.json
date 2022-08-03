@@ -1,12 +1,29 @@
 {
   "name": "Eigenbesitz der Schleunungdruck GmbH",
   "squuid": "62d81f7e-13a5-4787-8d45-6fe01d3c03c9",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 66.6,
+      "held": {
+        "name": "Schleunungdruck GmbH",
+        "squuid": "60bf5a76-858a-4601-b5f1-964284849b88"
+      },
+      "squuid": "62d81fb6-4af7-4d8f-8576-0d2dfd05bd7c",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "state": "active"

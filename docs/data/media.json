@@ -12449,7 +12449,7 @@
       "state": "active"
     },
     "controlDate": "2022-06-09T10:34:00.625Z",
-    "state": "active"
+    "state": "archived"
   },
   {
     "organization": {
@@ -21984,7 +21984,7 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.landundberge.de",
+    "name": "www.landundberge.com",
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2022-06-21T13:22:32.758Z",
@@ -45970,7 +45970,7 @@
     "state": "active"
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5d35cc90-eb34-4bb7-8674-5e0a41132100",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -48936,7 +48936,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 2,
+    "pressPublishingIntervals": 4,
     "state": "active",
     "squuid": "5c0fc184-692b-4b60-8dc6-e17c72ade4a2",
     "organization": {
@@ -52426,7 +52426,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 4,
+    "pressPublishingIntervals": 5,
     "state": "active",
     "squuid": "5ccbf042-78a0-444e-a269-66c5722c198f",
     "organization": {
@@ -89815,7 +89815,7 @@
       "type": "organization"
     },
     "rfStatewide": false,
-    "name": "Dr. v. Hirschhausens Stern Gesund Leben",
+    "name": "Hirschhausens Stern Gesund Leben",
     "type": "print",
     "controlDate": "2022-06-17T15:07:11.473Z",
     "pressKind": "Gesundheit",
@@ -112430,6 +112430,30 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "62ea4db3-8b85-4c10-b45f-93ae9850cd11",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.vorname.com",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-08-03T10:28:15.374Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "pressPublishingIntervals": 260,
     "state": "archived",
     "squuid": "5be1a6b1-2dab-4b6c-925a-a700f3494c0a",
@@ -113576,6 +113600,26 @@
     "state": "active"
   },
   {
+    "pressPublishingIntervals": 2,
+    "state": "active",
+    "squuid": "62ea56af-0613-4315-9aaa-6b3bf13d5b0a",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Geo Wissen Gesundheit",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2022-08-03T11:07:26.223Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Wissen"
+  },
+  {
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -113610,6 +113654,26 @@
     },
     "controlDate": "2019-07-05T12:59:35.481Z",
     "state": "archived"
+  },
+  {
+    "pressPublishingIntervals": 2,
+    "state": "active",
+    "squuid": "62ea569d-8866-48d4-8547-a7fc03b22bd3",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Geo Wissen Ernährung",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2022-08-03T11:06:37.746Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Wissen"
   },
   {
     "organization": {
