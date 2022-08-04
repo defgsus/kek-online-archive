@@ -1,16 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Burda Senator Verlag GmbH",
-        "squuid": "5be1a6b6-8141-4e03-8020-bfaa504c615e"
-      },
-      "squuid": "5be1a6b8-d7b7-43a5-bb94-6ac81c127f8f",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Offenburg",
   "pseudoCompany": false,
@@ -63,6 +51,33 @@
         "squuid": "612791d6-df9b-4cbe-9589-5cc678635ffd"
       },
       "squuid": "6127922e-9436-4dc8-b3c4-259716a217db",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "burda best of",
+        "squuid": "62ebc7d2-1e9a-4041-9f47-8d0972fce866"
+      },
+      "squuid": "62ebc815-d51a-4d6e-adb5-e79f3815406d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "burda kids",
+        "squuid": "62ebc88c-bb74-48c5-a8d3-330b761d9ed1"
+      },
+      "squuid": "62ebc8cd-1c03-4e46-bb6d-08fd69e60b05",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "burda curvy",
+        "squuid": "62ebc908-e7a2-4295-b827-3ff678c2c230"
+      },
+      "squuid": "62ebc93e-7924-4761-af10-b6bbaa95d35d",
       "state": "active"
     }
   ],

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Arabellastr.",
+  "name": "tracdelight GmbH",
+  "naturalPerson": false,
+  "squuid": "62ebc334-a4ad-4d37-bbb7-29faa0dab75a",
+  "controlDate": "2022-08-04T13:02:55.568Z",
+  "streetNumber": "27",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81925",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.brandsyoulove.de",
+        "squuid": "62ebc2fd-5b88-4fb6-ab0e-5352e033c617"
+      },
+      "squuid": "62ebc350-522d-4f69-be0a-15e4ab3f63c2",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BurdaForward GmbH",
+        "squuid": "5be1a6b6-8d52-4f03-8cf4-f017f535f744"
+      },
+      "squuid": "62ebc3e5-aa31-4303-a9d7-30eaca13ab56",
+      "state": "active"
+    }
+  ]
+}
