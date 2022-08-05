@@ -1,46 +1,43 @@
 {
-  "pressPublishingIntervals": 3,
+  "pressPublishingIntervals": 4,
   "state": "active",
-  "rfShoppingChannel": false,
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
     "name": "Publikumszeitschrift",
     "type": "press-magazine-type",
     "state": "active"
   },
-  "pressAsOfDate": "2021",
-  "squuid": "5be1a6b1-e314-4715-9c50-fc41b3721c23",
+  "pressAsOfDate": "2022",
+  "squuid": "62ed1f10-51fa-4bf5-9fa8-e8b3f0a9fce2",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
       "holder": {
-        "name": "Focus Magazin Verlag GmbH",
-        "squuid": "5be1a6b6-7d03-496e-9a9c-d70365debd16"
+        "name": "BurdaVerlag Publishing GmbH",
+        "squuid": "5be1a6b6-1fcb-4c6c-8d25-0c516c0ca8fc"
       },
-      "squuid": "5be1a6b9-89fa-493a-9d68-51dae0e47fff",
+      "squuid": "62ed1f46-1c56-40ff-9d20-846845177ef2",
       "state": "active"
     }
   ],
-  "name": "Focus Spezial",
+  "name": "Hund im Glück",
   "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
   "pressDistributionArea": "bundesweit",
   "type": "print",
-  "controlDate": "2022-06-13T13:55:52.214Z",
-  "pressKind": "sonstige",
-  "onlineOfferType": {
-    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
-    "name": "Online Medienangebot",
-    "type": "online-offer-type",
-    "state": "active"
+  "controlDate": "2022-08-05T13:45:56.882Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
   },
-  "pressEditionsComments": "Verlagsangabe",
-  "pressEditionsSold": 100000,
+  "pressKind": "Lifestyle",
+  "pressEditionsSold": 50000,
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",
