@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "tracdelight GmbH",
+        "squuid": "62ebc334-a4ad-4d37-bbb7-29faa0dab75a"
+      },
+      "squuid": "62ebc3e5-aa31-4303-a9d7-30eaca13ab56",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "München",
   "pseudoCompany": false,
@@ -123,6 +135,33 @@
         "squuid": "6201181d-6219-4d63-88a7-cddcf701dc32"
       },
       "squuid": "62011872-b9d4-4714-8936-209f1ad49836",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.streampicker.de",
+        "squuid": "62f26127-6616-466d-84c1-d4c33b338a6c"
+      },
+      "squuid": "62f26140-ba2c-4238-8ecb-0b2293d53ada",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvspielfilm.de",
+        "squuid": "5be1a6b1-ddfc-4c5a-9d4e-8e87d0cfa33a"
+      },
+      "squuid": "62f264cf-8a2b-419d-bcd2-7379ae022cbe",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvtoday.de",
+        "squuid": "5be1a6b1-d0b4-4aa8-b0cc-6b323a91a31d"
+      },
+      "squuid": "62f26529-0d9d-46d1-8817-41159da8fe9d",
       "state": "active"
     }
   ],
