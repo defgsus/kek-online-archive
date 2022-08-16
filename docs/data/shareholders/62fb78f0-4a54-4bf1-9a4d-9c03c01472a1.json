@@ -1,0 +1,47 @@
+{
+  "name": "Streubesitz an der Genius Brands International, Inc.",
+  "pseudoCompany": true,
+  "squuid": "62fb78f0-4a54-4bf1-9a4d-9c03c01472a1",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 48.17,
+      "held": {
+        "name": "Your Family Entertainment AG",
+        "squuid": "5be1a6b6-9886-4c70-bfdf-c8c0fdbe4fa8"
+      },
+      "squuid": "62fb79eb-6bab-4681-85dd-b5875a687f65",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 87.11,
+      "held": {
+        "name": "Genius Brands International, Inc.",
+        "squuid": "62fb78e1-ba43-4eaa-881f-402dcbe1f830"
+      },
+      "squuid": "62fb7aec-8309-470d-9b1e-bedbcb22d072",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}
