@@ -1,0 +1,98 @@
+{
+  "state": "active",
+  "city": "Potsdam",
+  "pseudoCompany": false,
+  "street": "Berliner Str.",
+  "name": "Media Partisans GmbH",
+  "naturalPerson": false,
+  "squuid": "62fd0387-0961-41a2-973c-2c6454249cbb",
+  "controlDate": "2022-08-17T15:06:16.235Z",
+  "streetNumber": "89",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14467",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.heftig.de",
+        "squuid": "62fd03ba-40d9-474a-96e9-9a80fffe6cc9"
+      },
+      "squuid": "62fd03d5-6693-4188-bf27-abe22693af51",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.genialetricks.de",
+        "squuid": "62fd0477-ad38-490a-a686-fd662cb2cb0c"
+      },
+      "squuid": "62fd0546-77f0-4b8a-9a18-e7fae3d66645",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.leckerschmecker.me",
+        "squuid": "62fd04a3-5ec5-4037-bd9c-3565d4577265"
+      },
+      "squuid": "62fd0573-dff8-4b9e-bf1a-cdbde020b1c2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.einfachschoen.me",
+        "squuid": "62fd04d5-cb56-4cd7-917a-961846ce1b4d"
+      },
+      "squuid": "62fd0593-cc94-4613-992c-b3b17e944664",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gutfuerdich.net",
+        "squuid": "62fd0511-bc70-4478-a53c-847bc0613443"
+      },
+      "squuid": "62fd05b0-4b42-4d63-9ef0-fc9b78384361",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Funke Digital GmbH",
+        "squuid": "5be1a6b6-7e9f-4303-9e08-72753c2153a3"
+      },
+      "squuid": "62fd0419-ac32-4cd2-ac90-bcc50bef7e08",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Pretty Stakes GmbH",
+        "squuid": "62fd0399-0e5a-4403-a183-bddf5cc5a96d"
+      },
+      "squuid": "62fd0424-1cf9-45f7-ac55-a586f5bb1936",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Dynasource GmbH",
+        "squuid": "62fd03aa-e424-4a78-821a-ce31440f165c"
+      },
+      "squuid": "62fd0430-4d91-48af-a529-f26e4bcbad61",
+      "state": "active"
+    }
+  ]
+}
