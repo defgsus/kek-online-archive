@@ -1,12 +1,24 @@
 {
   "name": "Wolff, Patrick",
   "squuid": "6166c4e6-b4af-41c2-a985-2c918046e2ae",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "HarbourTown Media GmbH",
+        "squuid": "60dc22cd-acc7-4a8e-9928-007d2152901e"
+      },
+      "squuid": "62fe22c4-80ac-4986-bb70-99d98ca26084",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
   "state": "active"

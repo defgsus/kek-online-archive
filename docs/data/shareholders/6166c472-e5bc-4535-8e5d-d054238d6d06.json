@@ -1,12 +1,24 @@
 {
   "name": "Preiß, Felix",
   "squuid": "6166c472-e5bc-4535-8e5d-d054238d6d06",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "HarbourTown Media GmbH",
+        "squuid": "60dc22cd-acc7-4a8e-9928-007d2152901e"
+      },
+      "squuid": "62fe2277-e73b-454c-9854-36ea8259cce3",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
   "state": "active"
