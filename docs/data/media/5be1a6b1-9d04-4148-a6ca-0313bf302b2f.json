@@ -3,7 +3,7 @@
   "state": "active",
   "rfShoppingChannel": false,
   "rfParentalAdvisor": "Alexander Dechant",
-  "rfStartDate": "",
+  "rfStartDate": "01.09.2022",
   "rfFreePay": false,
   "squuid": "5be1a6b1-9d04-4148-a6ca-0313bf302b2f",
   "organization": {
@@ -24,12 +24,12 @@
       "state": "active"
     }
   ],
-  "name": "Best of Sport",
+  "name": "MS Sport",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-    "name": "Noch nicht auf Sendung",
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -46,7 +46,7 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "description": "Live-Übertragungen der Spiele der Deutschen Eishockey Liga, der Basketball Bundesliga, der 3. Fußball-Bundesliga der Männer sowie ausgewählter Spiele der Frauen-Bundesliga",
+  "description": "Livesport-Übertragungen aus den Bereichen Fußball, Basketball und Eishockey",
   "rfLicenseUntil": "unbefristet",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -55,6 +55,19 @@
     "state": "active"
   },
   "rfLicensed": "30.06.2017",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
+      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
   "accessibilityEmail": "info@thinxpool.de",
   "languages": [
     {
