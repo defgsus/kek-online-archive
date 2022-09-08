@@ -1,5 +1,6 @@
 {
   "name": "Bugovics, Jozsef",
+  "pseudoCompany": false,
   "squuid": "61bb3c29-e0ef-4625-8926-e50f1e22ba86",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Leipzig",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -24,7 +26,14 @@
       "name": "SLM",
       "type": "organization",
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LfM",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }

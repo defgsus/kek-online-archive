@@ -1,8 +1,4 @@
 {
-  "name": "FM Management GmbH",
-  "pseudoCompany": false,
-  "controlDate": "2022-01-12T15:03:58.401Z",
-  "squuid": "5f993b6e-b9b1-4e51-8893-d4197461656b",
   "owns": [
     {
       "type": "own",
@@ -15,6 +11,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Pfaffenhofen",
+  "pseudoCompany": false,
+  "street": "Gittenbach",
+  "name": "FM Management GmbH",
+  "naturalPerson": false,
+  "squuid": "5f993b6e-b9b1-4e51-8893-d4197461656b",
+  "controlDate": "2022-09-08T11:52:08.220Z",
+  "streetNumber": "18a",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -33,6 +38,17 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "zipcode": "85276",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Fleckenstein, Marco",
+        "squuid": "61deedb2-fae6-4f17-ae27-79e888620c8a"
+      },
+      "squuid": "61deedd7-d7f0-4179-8b90-74789f4edb6d",
+      "state": "active"
+    }
+  ]
 }

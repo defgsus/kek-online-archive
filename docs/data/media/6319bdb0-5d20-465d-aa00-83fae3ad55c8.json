@@ -1,0 +1,37 @@
+{
+  "state": "active",
+  "rfStartDate": "02.05.2022",
+  "squuid": "6319bdb0-5d20-465d-aa00-83fae3ad55c8",
+  "organization": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "teutocast GmbH",
+        "squuid": "61b9c316-ae13-4190-8bf5-fe49d6e92110"
+      },
+      "squuid": "6319c778-d52e-4056-9374-1f16807c11e7",
+      "state": "active"
+    }
+  ],
+  "name": "ZOUND1 MIX",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LfM",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  }
+}
