@@ -3672,12 +3672,12 @@ digraph {
   ];
   367 [
     type=print
-    state=active
+    state=archived
     label="Altoettinger Liebfrauenbote"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-8f51-4e94-9f84-68a8f359091a"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   368 [
@@ -3692,13 +3692,13 @@ digraph {
   ];
   369 [
     type=shareholder
-    state=active
+    state=archived
     label="Altöttinger Liebfrauenbote gGmbH"
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-ecac-4fe1-be55-e8eb256a7c9b"
     in_degree=1
-    out_degree=2
+    out_degree=0
   ];
   370 [
     type=shareholder
@@ -14847,7 +14847,7 @@ digraph {
     num_medias=1
     num_medias_weighted=1.0000
     name="62a8a3cd-dc67-4499-b14b-6ec50aa13239"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   1485 [
@@ -24734,8 +24734,8 @@ digraph {
     type=shareholder
     state=active
     label="Diözese Passau K.d.ö.R."
-    num_medias=24
-    num_medias_weighted=4.0000
+    num_medias=22
+    num_medias_weighted=2.0000
     name="5be1a6b6-77cd-4f1e-a8b9-73fda58c3ae4"
     in_degree=0
     out_degree=4
@@ -59237,7 +59237,7 @@ digraph {
     num_medias=3
     num_medias_weighted=3.0000
     name="62a89bec-01a0-4d7d-9fba-bde58a6d035b"
-    in_degree=1
+    in_degree=2
     out_degree=3
   ];
   5924 [
@@ -59247,7 +59247,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0000
     name="62a89c8a-9a15-412c-b01f-59be2b1fa45c"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   5925 [
@@ -121173,6 +121173,16 @@ digraph {
   12117 [
     type=shareholder
     state=active
+    label="WB Verwaltungsgesellschaft mbH"
+    num_medias=4
+    num_medias_weighted=0.0000
+    name="5f8ed9d0-98ae-4ce9-916b-650813a60ae2"
+    in_degree=9
+    out_degree=1
+  ];
+  12118 [
+    type=shareholder
+    state=active
     label="WB-Beteiligungs-GmbH & Co. KG"
     num_medias=1
     num_medias_weighted=0.0067
@@ -121180,7 +121190,7 @@ digraph {
     in_degree=2
     out_degree=2
   ];
-  12118 [
+  12119 [
     type=shareholder
     state=active
     label="WB-Verwaltungs-GmbH"
@@ -121190,7 +121200,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12119 [
+  12120 [
     type=shareholder
     state=active
     label="WBVZ Verwaltungs GmbH"
@@ -121200,7 +121210,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12120 [
+  12121 [
     type=shareholder
     state=active
     label="WD-Multimedia GmbH"
@@ -121210,7 +121220,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12121 [
+  12122 [
     type=radio
     state=active
     label="WDR 2"
@@ -121220,7 +121230,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12122 [
+  12123 [
     type=radio
     state=active
     label="WDR 3"
@@ -121230,7 +121240,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12123 [
+  12124 [
     type=radio
     state=active
     label="WDR 4"
@@ -121240,7 +121250,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12124 [
+  12125 [
     type=radio
     state=active
     label="WDR 5"
@@ -121250,7 +121260,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12125 [
+  12126 [
     type=radio
     state=active
     label="WDR Event"
@@ -121260,7 +121270,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12126 [
+  12127 [
     type=tv
     state=active
     label="WDR Fernsehen"
@@ -121270,7 +121280,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12127 [
+  12128 [
     type=shareholder
     state=active
     label="WDR Mediagroup GmbH"
@@ -121280,7 +121290,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12128 [
+  12129 [
     type=shareholder
     state=active
     label="WDV Gesellschaft für Medien & Kommunikation mbH & Co oHG"
@@ -121290,7 +121300,7 @@ digraph {
     in_degree=2
     out_degree=2
   ];
-  12129 [
+  12130 [
     type=print
     state=archived
     label="we love living"
@@ -121300,7 +121310,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12130 [
+  12131 [
     type=shareholder
     state=active
     label="Weaver, Graham"
@@ -121310,7 +121320,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12131 [
+  12132 [
     type=shareholder
     state=archived
     label="Web Media Publishing AG"
@@ -121320,7 +121330,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12132 [
+  12133 [
     type=shareholder
     state=archived
     label="Webassets B.V., Nijmegen,"
@@ -121330,7 +121340,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12133 [
+  12134 [
     type=shareholder
     state=active
     label="Webedia Gaming GmbH"
@@ -121340,7 +121350,7 @@ digraph {
     in_degree=1
     out_degree=6
   ];
-  12134 [
+  12135 [
     type=shareholder
     state=active
     label="Webedia GmbH"
@@ -121350,7 +121360,7 @@ digraph {
     in_degree=1
     out_degree=3
   ];
-  12135 [
+  12136 [
     type=shareholder
     state=active
     label="Webedia S.A."
@@ -121360,7 +121370,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12136 [
+  12137 [
     type=shareholder
     state=active
     label="Weber, Bernhard"
@@ -121370,7 +121380,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12137 [
+  12138 [
     type=shareholder
     state=active
     label="Weber, Christa"
@@ -121380,7 +121390,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12138 [
+  12139 [
     type=shareholder
     state=active
     label="Weber, Gunthard"
@@ -121390,7 +121400,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12139 [
+  12140 [
     type=shareholder
     state=active
     label="Weber, Helmut"
@@ -121400,7 +121410,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12140 [
+  12141 [
     type=shareholder
     state=active
     label="Weber, Julian"
@@ -121410,7 +121420,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12141 [
+  12142 [
     type=shareholder
     state=active
     label="Weber, Philipp"
@@ -121420,7 +121430,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12142 [
+  12143 [
     type=shareholder
     state=active
     label="Weber, Steffen"
@@ -121430,7 +121440,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12143 [
+  12144 [
     type=shareholder
     state=active
     label="Weber, Stephan"
@@ -121440,7 +121450,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12144 [
+  12145 [
     type=shareholder
     state=active
     label="Weber-Jensen, Cornelia"
@@ -121450,7 +121460,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12145 [
+  12146 [
     type=shareholder
     state=active
     label="Weber-Seldess, Leonie"
@@ -121460,7 +121470,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12146 [
+  12147 [
     type=shareholder
     state=active
     label="Webfail Entertainment GmbH"
@@ -121470,7 +121480,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12147 [
+  12148 [
     type=shareholder
     state=active
     label="Webler, Thomas"
@@ -121480,7 +121490,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12148 [
+  12149 [
     type=shareholder
     state=active
     label="Wechsel, Frank"
@@ -121490,7 +121500,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12149 [
+  12150 [
     type=shareholder
     state=active
     label="Weck Verwaltungsgesellschaft mbH"
@@ -121500,7 +121510,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12150 [
+  12151 [
     type=shareholder
     state=active
     label="Wedco EMEA Ventures Ltd."
@@ -121510,7 +121520,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12151 [
+  12152 [
     type=shareholder
     state=active
     label="Wedco Global Ventures LLC"
@@ -121520,7 +121530,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12152 [
+  12153 [
     type=shareholder
     state=active
     label="Wedco International Holdings Inc."
@@ -121530,7 +121540,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  12153 [
+  12154 [
     type=shareholder
     state=active
     label="Wedding, Rafael"
@@ -121540,7 +121550,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12154 [
+  12155 [
     type=print
     state=active
     label="Wedel-Schulauer Tageblatt"
@@ -121550,7 +121560,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12155 [
+  12156 [
     type=shareholder
     state=active
     label="Wedemeier, Maik"
@@ -121560,7 +121570,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12156 [
+  12157 [
     type=shareholder
     state=active
     label="WEGA Support GmbH"
@@ -121570,7 +121580,7 @@ digraph {
     in_degree=3
     out_degree=1
   ];
-  12157 [
+  12158 [
     type=shareholder
     state=active
     label="Wegener, Frank"
@@ -121580,7 +121590,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12158 [
+  12159 [
     type=shareholder
     state=active
     label="Wegler, René"
@@ -121590,7 +121600,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12159 [
+  12160 [
     type=shareholder
     state=archived
     label="Weidemann, Martin"
@@ -121600,7 +121610,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12160 [
+  12161 [
     type=shareholder
     state=active
     label="Weidenhiller, Philipp"
@@ -121610,7 +121620,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12161 [
+  12162 [
     type=shareholder
     state=active
     label="Weidner, Cornelia"
@@ -121620,7 +121630,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12162 [
+  12163 [
     type=print
     state=active
     label="Weilburger Tageblatt"
@@ -121630,7 +121640,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12163 [
+  12164 [
     type=print
     state=active
     label="Weiler Zeitung"
@@ -121640,7 +121650,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  12164 [
+  12165 [
     type=shareholder
     state=active
     label="Weiler, Frank"
@@ -121650,7 +121660,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12165 [
+  12166 [
     type=print
     state=active
     label="Weilheimer Tagblatt"
@@ -121660,7 +121670,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12166 [
+  12167 [
     type=shareholder
     state=active
     label="Weimer Media Group GmbH"
@@ -121670,7 +121680,7 @@ digraph {
     in_degree=2
     out_degree=9
   ];
-  12167 [
+  12168 [
     type=shareholder
     state=active
     label="Weimer, Dr. Wolfram"
@@ -121680,7 +121690,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12168 [
+  12169 [
     type=shareholder
     state=active
     label="Wein, Florian"
@@ -121690,7 +121700,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12169 [
+  12170 [
     type=shareholder
     state=active
     label="Wein, Friedrich"
@@ -121700,7 +121710,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12170 [
+  12171 [
     type=shareholder
     state=active
     label="Wein, Gerold"
@@ -121710,7 +121720,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12171 [
+  12172 [
     type=shareholder
     state=active
     label="Wein, Ingmar"
@@ -121720,7 +121730,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12172 [
+  12173 [
     type=shareholder
     state=active
     label="Wein, Sabine"
@@ -121730,7 +121740,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12173 [
+  12174 [
     type=print
     state=active
     label="Weinheimer Nachrichten"
@@ -121740,7 +121750,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  12174 [
+  12175 [
     type=shareholder
     state=active
     label="Weinmaier, Klaus"
@@ -121750,7 +121760,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12175 [
+  12176 [
     type=print
     state=active
     label=Weinwisser
@@ -121760,7 +121770,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12176 [
+  12177 [
     type=shareholder
     state=active
     label="Weis, Christian"
@@ -121770,7 +121780,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12177 [
+  12178 [
     type=shareholder
     state=active
     label="Weisbrod, Manuel"
@@ -121780,7 +121790,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12178 [
+  12179 [
     type=shareholder
     state=active
     label="Weise, Herbert"
@@ -121790,7 +121800,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12179 [
+  12180 [
     type=shareholder
     state=active
     label="Weiss, Georg"
@@ -121800,7 +121810,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12180 [
+  12181 [
     type=shareholder
     state=archived
     label="Weiss, Martin"
@@ -121810,7 +121820,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12181 [
+  12182 [
     type=shareholder
     state=active
     label="Weiss-Verlag GmbH & Co KG"
@@ -121820,7 +121830,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  12182 [
+  12183 [
     type=shareholder
     state=active
     label="Weiss-Verlag Verwaltungs-GmbH"
@@ -121830,7 +121840,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12183 [
+  12184 [
     type=shareholder
     state=active
     label="Weisser Nebel GmbH"
@@ -121840,7 +121850,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  12184 [
+  12185 [
     type=shareholder
     state=active
     label="weitere 10 Gesellschafter mit Anteilen von jeweils unter 1 %"
@@ -121850,7 +121860,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12185 [
+  12186 [
     type=shareholder
     state=active
     label="weitere 10 Gesellschafter mit Anteilen von jeweils unter 1 %"
@@ -121860,7 +121870,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12186 [
+  12187 [
     type=shareholder
     state=active
     label="weitere 16 Einzelpersonen mit Anteilen von jeweils unter 0,2 %"
@@ -121870,7 +121880,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12187 [
+  12188 [
     type=shareholder
     state=active
     label="weitere 16 juristische und natürliche Personen als Gesellschafter mit Anteilen von jeweils maximal 3%"
@@ -121880,7 +121890,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12188 [
+  12189 [
     type=shareholder
     state=active
     label="weitere 47 deutsche Zeitungsverlage mit Anteilen von jeweils unter 1 Prozent"
@@ -121890,7 +121900,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12189 [
+  12190 [
     type=shareholder
     state=active
     label="weitere ca. 100 Einzelgesellschafter (überwiegend Presseverlage) mit Anteilen von jeweils unter 0,5 %"
@@ -121900,7 +121910,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12190 [
+  12191 [
     type=shareholder
     state=active
     label="weitere ca. 20 Anteilseigner (überwiegend juristische Personen) mit Anteilen von jeweils max. 4 %"
@@ -121910,7 +121920,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12191 [
+  12192 [
     type=shareholder
     state=active
     label="weitere ca. 26 Gesellschafter mit Anteilen von jeweils unter 1 %"
@@ -121920,7 +121930,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12192 [
+  12193 [
     type=shareholder
     state=active
     label="weitere ca. 60 Kommanditisten mit Anteilen von jeweils unter 0,1 %"
@@ -121930,7 +121940,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12193 [
+  12194 [
     type=shareholder
     state=active
     label="weitere DLJ-Fonds"
@@ -121940,7 +121950,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12194 [
+  12195 [
     type=shareholder
     state=active
     label="weitere Gesellschafter (Kleinstverlage) mit Anteilen von jeweils unter 0,1 %"
@@ -121950,7 +121960,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12195 [
+  12196 [
     type=shareholder
     state=active
     label="weitere Gesellschafter der BWG mit Anteilen von jeweils unter 0,03 %"
@@ -121960,7 +121970,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12196 [
+  12197 [
     type=shareholder
     state=active
     label="weitere Gesellschafter der PWG mit Anteilen von jeweils unter 0,03 %"
@@ -121970,7 +121980,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12197 [
+  12198 [
     type=shareholder
     state=active
     label="Weixler, Annemarie"
@@ -121980,7 +121990,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12198 [
+  12199 [
     type=shareholder
     state=active
     label="Weiß, Dominic"
@@ -121990,7 +122000,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12199 [
+  12200 [
     type=shareholder
     state=active
     label="Weiß, Karl-Heinz"
@@ -122000,7 +122010,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12200 [
+  12201 [
     type=shareholder
     state=active
     label="Weiß, Walter"
@@ -122010,7 +122020,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12201 [
+  12202 [
     type=shareholder
     state=active
     label="Weiß-Wipprecht, Ilka"
@@ -122020,7 +122030,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12202 [
+  12203 [
     type=print
     state=active
     label="Weißenburger Tagblatt"
@@ -122030,7 +122040,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12203 [
+  12204 [
     type=shareholder
     state=active
     label="Weißgerber, Heinrich"
@@ -122040,7 +122050,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12204 [
+  12205 [
     type=shareholder
     state=active
     label="Weka Group GmbH"
@@ -122050,7 +122060,7 @@ digraph {
     in_degree=1
     out_degree=3
   ];
-  12205 [
+  12206 [
     type=shareholder
     state=active
     label="WEKA Holding Beteiligungs-GmbH"
@@ -122060,7 +122070,7 @@ digraph {
     in_degree=3
     out_degree=1
   ];
-  12206 [
+  12207 [
     type=shareholder
     state=active
     label="WEKA Holding GmbH & Co KG"
@@ -122070,7 +122080,7 @@ digraph {
     in_degree=4
     out_degree=0
   ];
-  12207 [
+  12208 [
     type=shareholder
     state=active
     label="Weka Media Publishing GmbH"
@@ -122080,7 +122090,7 @@ digraph {
     in_degree=1
     out_degree=16
   ];
-  12208 [
+  12209 [
     type=shareholder
     state=active
     label="Weko Wohnen GmbH"
@@ -122090,7 +122100,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12209 [
+  12210 [
     type=radio
     state=active
     label="Welle Niederrhein"
@@ -122100,7 +122110,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12210 [
+  12211 [
     type=shareholder
     state=archived
     label="WELLE VESTE COBURG Rundfunk-Programmgesellschaft mbH"
@@ -122110,7 +122120,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12211 [
+  12212 [
     type=shareholder
     state=active
     label="Wellen, Dirk"
@@ -122120,7 +122130,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12212 [
+  12213 [
     type=shareholder
     state=archived
     label="Wellhausen & Marquardt Mediengesellschaft bR"
@@ -122130,7 +122140,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12213 [
+  12214 [
     type=shareholder
     state=active
     label="Wellhausen & Marquardt Mediengesellschaft bR"
@@ -122140,7 +122150,7 @@ digraph {
     in_degree=2
     out_degree=17
   ];
-  12214 [
+  12215 [
     type=shareholder
     state=active
     label="Wellhausen, Tom"
@@ -122150,7 +122160,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12215 [
+  12216 [
     type=shareholder
     state=active
     label="Wellington Management LLP"
@@ -122160,7 +122170,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12216 [
+  12217 [
     type=shareholder
     state=active
     label="Welser, Ruprecht Freiherr von"
@@ -122170,7 +122180,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12217 [
+  12218 [
     type=tv
     state=active
     label=WELT
@@ -122180,7 +122190,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12218 [
+  12219 [
     type=print
     state=active
     label="Welt am Sonntag"
@@ -122190,7 +122200,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12219 [
+  12220 [
     type=print
     state=active
     label="Welt am Sonntag kompakt"
@@ -122200,7 +122210,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12220 [
+  12221 [
     type=print
     state=active
     label="Welt der Frau"
@@ -122210,7 +122220,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12221 [
+  12222 [
     type=print
     state=active
     label="Welt der Frau Frisuren"
@@ -122220,7 +122230,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12222 [
+  12223 [
     type=tv
     state=active
     label="Welt der Wunder"
@@ -122230,7 +122240,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12223 [
+  12224 [
     type=print
     state=active
     label="Welt der Wunder"
@@ -122240,7 +122250,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12224 [
+  12225 [
     type=print
     state=active
     label="Welt der Wunder kompakt"
@@ -122250,7 +122260,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12225 [
+  12226 [
     type=shareholder
     state=active
     label="Welt der Wunder Sendebetrieb GmbH"
@@ -122260,7 +122270,7 @@ digraph {
     in_degree=4
     out_degree=2
   ];
-  12226 [
+  12227 [
     type=print
     state=active
     label="Welt von heute"
@@ -122270,7 +122280,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12227 [
+  12228 [
     type=shareholder
     state=active
     label="Welte, Christiane"
@@ -122280,7 +122290,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12228 [
+  12229 [
     type=shareholder
     state=active
     label="Welte, Daniel"
@@ -122290,7 +122300,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12229 [
+  12230 [
     type=shareholder
     state=active
     label="Welte, Marc"
@@ -122300,7 +122310,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12230 [
+  12231 [
     type=print
     state=active
     label=Weltkunst
@@ -122310,7 +122320,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12231 [
+  12232 [
     type=shareholder
     state=active
     label="WeltN24 GmbH"
@@ -122320,7 +122330,7 @@ digraph {
     in_degree=1
     out_degree=6
   ];
-  12232 [
+  12233 [
     type=shareholder
     state=active
     label="Welzer, Gerhard"
@@ -122330,7 +122340,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12233 [
+  12234 [
     type=print
     state=active
     label="Welzheimer Zeitung"
@@ -122340,7 +122350,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12234 [
+  12235 [
     type=shareholder
     state=active
     label="Wembacher, Pia"
@@ -122350,7 +122360,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12235 [
+  12236 [
     type=shareholder
     state=active
     label="WEN-TV Fernsehprogrammanbieter und Videoproduktion GmbH"
@@ -122360,7 +122370,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12236 [
+  12237 [
     type=shareholder
     state=active
     label="Wende, Edmund"
@@ -122370,7 +122380,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12237 [
+  12238 [
     type=shareholder
     state=active
     label="Wendeln, Bernard Jan"
@@ -122380,7 +122390,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12238 [
+  12239 [
     type=shareholder
     state=active
     label="Wendeln, Bernhard"
@@ -122390,7 +122400,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12239 [
+  12240 [
     type=shareholder
     state=active
     label="Wendeln, Hilde"
@@ -122400,7 +122410,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12240 [
+  12241 [
     type=shareholder
     state=active
     label="Wendeln, Paul"
@@ -122410,7 +122420,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12241 [
+  12242 [
     type=shareholder
     state=active
     label="Wendeln, Paul Alexander"
@@ -122420,7 +122430,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12242 [
+  12243 [
     type=shareholder
     state=active
     label="Wendeln, Peter"
@@ -122430,7 +122440,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12243 [
+  12244 [
     type=shareholder
     state=active
     label="Wendeln, Ulrich"
@@ -122440,7 +122450,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12244 [
+  12245 [
     type=shareholder
     state=active
     label="Wendeln, Ursula"
@@ -122450,7 +122460,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12245 [
+  12246 [
     type=shareholder
     state=active
     label="Wendelstadt, Florian"
@@ -122460,7 +122470,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12246 [
+  12247 [
     type=shareholder
     state=active
     label="Wendelstein Verlags GmbH & Co. KG"
@@ -122470,7 +122480,7 @@ digraph {
     in_degree=4
     out_degree=3
   ];
-  12247 [
+  12248 [
     type=shareholder
     state=active
     label="Wendelstein Verlags Verwaltungs GmbH"
@@ -122480,7 +122490,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12248 [
+  12249 [
     type=shareholder
     state=active
     label="Wenderoth GmbH & Co KG"
@@ -122490,7 +122500,7 @@ digraph {
     in_degree=6
     out_degree=1
   ];
-  12249 [
+  12250 [
     type=shareholder
     state=active
     label="Wenderoth Verwaltungs-GmbH"
@@ -122500,7 +122510,7 @@ digraph {
     in_degree=5
     out_degree=1
   ];
-  12250 [
+  12251 [
     type=shareholder
     state=active
     label="Wenderoth-Alt, Irene"
@@ -122510,7 +122520,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12251 [
+  12252 [
     type=shareholder
     state=active
     label="Wendland, Matthias"
@@ -122520,7 +122530,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12252 [
+  12253 [
     type=print
     state=active
     label="Wendlinger Zeitung"
@@ -122530,7 +122540,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12253 [
+  12254 [
     type=print
     state=active
     label=Wendy
@@ -122540,7 +122550,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12254 [
+  12255 [
     type=print
     state=archived
     label="Wendy Traumpferde"
@@ -122550,7 +122560,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12255 [
+  12256 [
     type=shareholder
     state=archived
     label="WEP Projekt GmbH & Co. KG"
@@ -122560,7 +122570,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12256 [
+  12257 [
     type=shareholder
     state=active
     label="WEP Verwaltungs GmbH"
@@ -122570,7 +122580,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12257 [
+  12258 [
     type=shareholder
     state=active
     label="WEP-Projektentwicklung-GmbH und Co. KG"
@@ -122580,7 +122590,7 @@ digraph {
     in_degree=6
     out_degree=1
   ];
-  12258 [
+  12259 [
     type=shareholder
     state=active
     label="wer-weiss-was GmbH"
@@ -122590,7 +122600,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12259 [
+  12260 [
     type=shareholder
     state=active
     label="Werbeagentur Gerhart"
@@ -122600,7 +122610,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12260 [
+  12261 [
     type=shareholder
     state=active
     label="Werbeagentur Gerhart e. K."
@@ -122610,7 +122620,7 @@ digraph {
     in_degree=1
     out_degree=3
   ];
-  12261 [
+  12262 [
     type=shareholder
     state=active
     label="Werbeagentur Ludwig & Höhne"
@@ -122620,7 +122630,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12262 [
+  12263 [
     type=print
     state=active
     label=Werde
@@ -122630,7 +122640,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12263 [
+  12264 [
     type=print
     state=active
     label="Werdener Nachrichten"
@@ -122640,7 +122650,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12264 [
+  12265 [
     type=print
     state=active
     label="Wermelskirchener General-Anzeiger"
@@ -122650,7 +122660,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  12265 [
+  12266 [
     type=shareholder
     state=active
     label="Wermer, Kai"
@@ -122660,7 +122670,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12266 [
+  12267 [
     type=shareholder
     state=active
     label="Werner Brune Beteiligungs-Gesellschaft mbH"
@@ -122670,7 +122680,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  12267 [
+  12268 [
     type=shareholder
     state=active
     label="Werner Media Group GmbH"
@@ -122680,7 +122690,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12268 [
+  12269 [
     type=shareholder
     state=active
     label="Werner, Alexander"
@@ -122690,7 +122700,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12269 [
+  12270 [
     type=shareholder
     state=active
     label="Werner, Andreas"
@@ -122700,7 +122710,7 @@ digraph {
     in_degree=0
     out_degree=5
   ];
-  12270 [
+  12271 [
     type=shareholder
     state=active
     label="Werner, Frank B."
@@ -122710,7 +122720,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12271 [
+  12272 [
     type=shareholder
     state=active
     label="Werner, Götz"
@@ -122720,7 +122730,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12272 [
+  12273 [
     type=shareholder
     state=active
     label="Werner, Michael"
@@ -122730,7 +122740,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12273 [
+  12274 [
     type=shareholder
     state=active
     label="Werner, Nicholas"
@@ -122740,7 +122750,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12274 [
+  12275 [
     type=shareholder
     state=active
     label="Werner, Tim"
@@ -122750,7 +122760,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12275 [
+  12276 [
     type=shareholder
     state=active
     label="Werner-Wohnbau GmbH & Co.KG"
@@ -122760,7 +122770,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  12276 [
+  12277 [
     type=shareholder
     state=active
     label="Wernze, Franz-Josef"
@@ -122770,7 +122780,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12277 [
+  12278 [
     type=shareholder
     state=active
     label="Werra Verlag Geschäftsführungs-GmbH"
@@ -122780,7 +122790,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12278 [
+  12279 [
     type=shareholder
     state=active
     label="Werra Verlag Kluthe GmbH & Co KG"
@@ -122790,7 +122800,7 @@ digraph {
     in_degree=4
     out_degree=4
   ];
-  12279 [
+  12280 [
     type=print
     state=active
     label="Werra-Rundschau"
@@ -122800,7 +122810,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12280 [
+  12281 [
     type=print
     state=active
     label="Wertheimer Zeitung"
@@ -122810,7 +122820,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12281 [
+  12282 [
     type=print
     state=active
     label="Wertinger Zeitung"
@@ -122820,7 +122830,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12282 [
+  12283 [
     type=shareholder
     state=archived
     label="Wertz, Boris Oliver"
@@ -122830,7 +122840,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12283 [
+  12284 [
     type=shareholder
     state=active
     label="Weser-Ems-Energiebeteiligungen GmbH"
@@ -122840,7 +122850,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12284 [
+  12285 [
     type=print
     state=active
     label="Weser-Kurier"
@@ -122850,7 +122860,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12285 [
+  12286 [
     type=shareholder
     state=active
     label="Wessinger, Dr. Benjamin"
@@ -122860,7 +122870,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12286 [
+  12287 [
     type=shareholder
     state=active
     label="Wessinger, Jakob"
@@ -122870,7 +122880,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12287 [
+  12288 [
     type=shareholder
     state=active
     label="Wessinger, Sibylle"
@@ -122880,7 +122890,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12288 [
+  12289 [
     type=shareholder
     state=active
     label="Wessinger, Simon"
@@ -122890,7 +122900,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12289 [
+  12290 [
     type=shareholder
     state=active
     label="Wessinghage, Manuel"
@@ -122900,7 +122910,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12290 [
+  12291 [
     type=shareholder
     state=active
     label="WestCom Broadcast Services GmbH"
@@ -122910,7 +122920,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12291 [
+  12292 [
     type=shareholder
     state=active
     label="WestCom Media Holding GmbH"
@@ -122920,7 +122930,7 @@ digraph {
     in_degree=1
     out_degree=3
   ];
-  12292 [
+  12293 [
     type=shareholder
     state=active
     label="WestCom Medien GmbH"
@@ -122930,7 +122940,7 @@ digraph {
     in_degree=2
     out_degree=2
   ];
-  12293 [
+  12294 [
     type=shareholder
     state=active
     label="Westdeutsche Allgemeine Zeitungsverlag GmbH & Co. Zeitschriften- und Beteiligungs KG"
@@ -122940,7 +122950,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12294 [
+  12295 [
     type=print
     state=active
     label="Westdeutsche Zeitung"
@@ -122950,7 +122960,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12295 [
+  12296 [
     type=shareholder
     state=active
     label="Westdeutsche Zeitung GmbH & Co KG"
@@ -122960,7 +122970,7 @@ digraph {
     in_degree=2
     out_degree=18
   ];
-  12296 [
+  12297 [
     type=shareholder
     state=active
     label="Westdeutsche Zeitung Verwaltungsgesellschaft mbH"
@@ -122970,7 +122980,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12297 [
+  12298 [
     type=shareholder
     state=active
     label="Westdeutscher Rundfunk (WDR)"
@@ -122980,7 +122990,7 @@ digraph {
     in_degree=1
     out_degree=21
   ];
-  12298 [
+  12299 [
     type=shareholder
     state=active
     label="Westdeutscher Tischtennis-Verband e.V."
@@ -122990,7 +123000,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12299 [
+  12300 [
     type=shareholder
     state=active
     label="Westenberger, Dirk"
@@ -123000,7 +123010,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12300 [
+  12301 [
     type=shareholder
     state=active
     label="Westermann Druck GmbH"
@@ -123010,7 +123020,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12301 [
+  12302 [
     type=shareholder
     state=active
     label="Westermann GmbH & Co. KG"
@@ -123020,7 +123030,7 @@ digraph {
     in_degree=2
     out_degree=2
   ];
-  12302 [
+  12303 [
     type=shareholder
     state=active
     label="Westermann Verwaltungs GmbH"
@@ -123030,7 +123040,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12303 [
+  12304 [
     type=shareholder
     state=active
     label="Westermann, Jaap"
@@ -123040,7 +123050,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12304 [
+  12305 [
     type=shareholder
     state=active
     label="Westermann, Remco"
@@ -123050,7 +123060,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12305 [
+  12306 [
     type=print
     state=active
     label="Westerwälder Zeitung"
@@ -123060,7 +123070,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12306 [
+  12307 [
     type=print
     state=active
     label="Westfalen-Blatt"
@@ -123070,7 +123080,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12307 [
+  12308 [
     type=print
     state=active
     label="Westfalen-Blatt (Ausgabe Löhne/Bad Oeynhausen)"
@@ -123080,7 +123090,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  12308 [
+  12309 [
     type=shareholder
     state=archived
     label="Westfalen-Blatt Vereinigte Zeitungsverlage GmbH"
@@ -123090,7 +123100,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12309 [
+  12310 [
     type=shareholder
     state=active
     label="Westfalen-Blatt Vereinigte Zeitungsverlage GmbH & Co. KG"
@@ -123100,7 +123110,7 @@ digraph {
     in_degree=2
     out_degree=20
   ];
-  12310 [
+  12311 [
     type=print
     state=active
     label=Westfalenpost
@@ -123110,7 +123120,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12311 [
+  12312 [
     type=print
     state=active
     label=Westfalium
@@ -123120,7 +123130,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12312 [
+  12313 [
     type=shareholder
     state=active
     label="Westfalium Verlag GmbH & Co KG"
@@ -123130,7 +123140,7 @@ digraph {
     in_degree=5
     out_degree=3
   ];
-  12313 [
+  12314 [
     type=shareholder
     state=active
     label="Westfalium Verwaltungsgesellschaft mbH"
@@ -123140,7 +123150,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12314 [
+  12315 [
     type=shareholder
     state=active
     label="Westfälisch-Lippischer Landwirtschaftsverband eV"
@@ -123150,7 +123160,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12315 [
+  12316 [
     type=shareholder
     state=active
     label="Westfälische Medien Holding AG"
@@ -123160,7 +123170,7 @@ digraph {
     in_degree=3
     out_degree=2
   ];
-  12316 [
+  12317 [
     type=print
     state=active
     label="Westfälische Nachrichten"
@@ -123170,7 +123180,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12317 [
+  12318 [
     type=shareholder
     state=active
     label="Westfälische Nachrichten GmbH"
@@ -123180,7 +123190,7 @@ digraph {
     in_degree=1
     out_degree=2
   ];
-  12318 [
+  12319 [
     type=print
     state=active
     label="Westfälische Rundschau (Ausgaben Raum Dortmund)"
@@ -123190,7 +123200,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12319 [
+  12320 [
     type=print
     state=active
     label="Westfälische Rundschau (Ausgaben südl. Westfalen)"
@@ -123200,7 +123210,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12320 [
+  12321 [
     type=print
     state=active
     label="Westfälische Rundschau (Ausgaben Unna/Kamen)"
@@ -123210,7 +123220,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  12321 [
+  12322 [
     type=shareholder
     state=active
     label="Westfälischer Anzeiger Verlagsgesellschaft mbH & Co. KG"
@@ -123220,7 +123230,7 @@ digraph {
     in_degree=5
     out_degree=32
   ];
-  12322 [
+  12323 [
     type=shareholder
     state=active
     label="Westfälischer Anzeiger Verlagsverwaltungsgesellschaft mbH"
@@ -123230,7 +123240,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  12323 [
+  12324 [
     type=shareholder
     state=archived
     label="Westfälischer Zeitungsverlag GmbH & Co KG"
@@ -123240,7 +123250,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12324 [
+  12325 [
     type=shareholder
     state=archived
     label="Westfälischer Zeitungsverlag Verwaltungs GmbH"
@@ -123250,7 +123260,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  12325 [
+  12326 [
     type=print
     state=active
     label="Westfälisches Volksblatt"
@@ -123260,7 +123270,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  12326 [
+  12327 [
     type=shareholder
     state=active
     label="Westline GmbH & Co. KG"
@@ -123270,7 +123280,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  12327 [
+  12328 [
     type=shareholder
     state=active
     label="WestOnline GmbH & Co. KG"
@@ -123280,7 +123290,7 @@ digraph {
     in_degree=2
     out_degree=2
   ];
-  12328 [
+  12329 [
     type=shareholder
     state=active
     label="wetter.com GmbH"
@@ -123290,7 +123300,7 @@ digraph {
     in_degree=1
     out_degree=3
   ];
-  12329 [
+  12330 [
     type=tv
     state=active
     label="wetter.com TV"
@@ -123300,7 +123310,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12330 [
+  12331 [
     type=shareholder
     state=active
     label="Wetterau, Belinda C."
@@ -123310,7 +123320,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12331 [
+  12332 [
     type=shareholder
     state=active
     label="Wetterau, Udo H."
@@ -123320,7 +123330,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12332 [
+  12333 [
     type=print
     state=active
     label="Wetterauer Zeitung"
@@ -123330,7 +123340,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12333 [
+  12334 [
     type=shareholder
     state=active
     label="WetterKontor GmbH"
@@ -123340,7 +123350,7 @@ digraph {
     in_degree=5
     out_degree=1
   ];
-  12334 [
+  12335 [
     type=shareholder
     state=active
     label="WetterOnline - Meteorologische Dienstleistungen GmbH"
@@ -123350,7 +123360,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  12335 [
+  12336 [
     type=shareholder
     state=active
     label="Wetzel, Brigitte"
@@ -123360,7 +123370,7 @@ digraph {
     in_degree=0
     out_degree=3
   ];
-  12336 [
+  12337 [
     type=shareholder
     state=active
     label="Wetzel, Christina-Kathrin"
@@ -123370,7 +123380,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  12337 [
+  12338 [
     type=shareholder
     state=active
     label="Wetzel, Hans-Ulrich"
@@ -123380,7 +123390,7 @@ digraph {
     in_degree=0
     out_degree=3
   ];
-  12338 [
+  12339 [
     type=print
     state=active
     label="Wetzlarer Neue Zeitung"
@@ -123390,7 +123400,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  12339 [
+  12340 [
     type=shareholder
     state=active
     label="Weyand, Jürgen Paul Gernot"
@@ -123400,7 +123410,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12340 [
+  12341 [
     type=shareholder
     state=active
     label="WFB Wirtschaftsförderung Bremen GmbH/Abteilung bremen.online"
@@ -123410,7 +123420,7 @@ digraph {
     in_degree=3
     out_degree=1
   ];
-  12341 [
+  12342 [
     type=shareholder
     state=active
     label="WGLi Wohnungsgenossenschaft Lichtenberg eG"
@@ -123420,7 +123430,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12342 [
+  12343 [
     type=tv
     state=active
     label="WGLi-TV"
@@ -123430,7 +123440,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12343 [
+  12344 [
     type=shareholder
     state=active
     label="Wibmer, Elmar"
@@ -123440,7 +123450,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12344 [
+  12345 [
     type=shareholder
     state=active
     label="Wichelhoven Verwaltungsgesellschaft mbH"
@@ -123450,7 +123460,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  12345 [
+  12346 [
     type=shareholder
     state=active
     label="Wichern-Verlag GmbH"
@@ -123460,7 +123470,7 @@ digraph {
     in_degree=15
     out_degree=4
   ];
-  12346 [
+  12347 [
     type=shareholder
     state=active
     label="Wichmann, Dominik"
@@ -123470,7 +123480,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12347 [
+  12348 [
     type=print
     state=active
     label="Wickie und die starken Männer"
@@ -123480,7 +123490,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12348 [
+  12349 [
     type=shareholder
     state=active
     label="Wickmann, Jan Christian"
@@ -123490,7 +123500,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12349 [
+  12350 [
     type=print
     state=active
     label=Widescreen
@@ -123500,7 +123510,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12350 [
+  12351 [
     type=shareholder
     state=active
     label="Wiedel, Mike"
@@ -123510,7 +123520,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12351 [
+  12352 [
     type=shareholder
     state=active
     label="Wiedemann & Straniak OHG"
@@ -123520,7 +123530,7 @@ digraph {
     in_degree=2
     out_degree=2
   ];
-  12352 [
+  12353 [
     type=shareholder
     state=active
     label="Wiedemann, Petra"
@@ -123530,7 +123540,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12353 [
+  12354 [
     type=shareholder
     state=active
     label="Wiederer-Gebele, Miriam"
@@ -123540,7 +123550,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12354 [
+  12355 [
     type=shareholder
     state=active
     label="Wiedfeld, Harald W."
@@ -123550,7 +123560,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12355 [
+  12356 [
     type=shareholder
     state=active
     label="Wiegers, Hans-Michael"
@@ -123560,7 +123570,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  12356 [
+  12357 [
     type=shareholder
     state=active
     label="Wienig, Thomas"
@@ -123568,16 +123578,6 @@ digraph {
     num_medias_weighted=1.0000
     name="5be1a6b6-ae83-418c-85d0-b520d2344d80"
     in_degree=0
-    out_degree=1
-  ];
-  12357 [
-    type=shareholder
-    state=active
-    label="Wieninger Verwaltungsgesellschaft mbH"
-    num_medias=4
-    num_medias_weighted=0.0000
-    name="5f8ed9d0-98ae-4ce9-916b-650813a60ae2"
-    in_degree=9
     out_degree=1
   ];
   12358 [
@@ -137072,12 +137072,12 @@ digraph {
   ];
   13707 [
     type=online
-    state=active
+    state=archived
     label="www.liebfrauenbote.de"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-d306-4dec-b0f4-4f87fc51f150"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   13708 [
@@ -149978,7 +149978,7 @@ digraph {
     num_medias_weighted=24.3662
     name="5be1a6b6-baa5-4644-bd90-1f917d261023"
     in_degree=6
-    out_degree=31
+    out_degree=34
   ];
   14998 [
     type=shareholder
@@ -151099,7 +151099,7 @@ digraph {
     weight=100
     type=operates
   ];
-  113 -> 12154 [
+  113 -> 12155 [
     weight=100
     type=operates
   ];
@@ -151259,7 +151259,7 @@ digraph {
     weight=50
     type=owns
   ];
-  135 -> 12152 [
+  135 -> 12153 [
     weight=46
     type=owns
   ];
@@ -151447,7 +151447,7 @@ digraph {
     weight=58
     type=owns
   ];
-  214 -> 12266 [
+  214 -> 12267 [
     weight=51
     type=owns
   ];
@@ -151647,7 +151647,7 @@ digraph {
     weight=100
     type=owns
   ];
-  266 -> 12156 [
+  266 -> 12157 [
     weight=7.5
     type=owns
   ];
@@ -152115,19 +152115,11 @@ digraph {
     weight=33
     type=owns
   ];
-  369 -> 367 [
-    weight=100
-    type=operates
-  ];
-  369 -> 13707 [
-    weight=100
-    type=operates
-  ];
-  373 -> 12308 [
+  373 -> 12309 [
     weight=79.9
     type=owns
   ];
-  373 -> 12315 [
+  373 -> 12316 [
     weight=76.5
     type=owns
   ];
@@ -152839,7 +152831,7 @@ digraph {
     weight=1
     type=owns
   ];
-  541 -> 12297 [
+  541 -> 12298 [
     weight=1
     type=owns
   ];
@@ -153035,7 +153027,7 @@ digraph {
     weight=100
     type=owns
   ];
-  590 -> 12317 [
+  590 -> 12318 [
     weight=100
     type=owns
   ];
@@ -153091,7 +153083,7 @@ digraph {
     weight=100
     type=owns
   ];
-  591 -> 12326 [
+  591 -> 12327 [
     weight=42.4
     type=owns
   ];
@@ -153187,19 +153179,19 @@ digraph {
     weight=100
     type=operates
   ];
-  591 -> 12306 [
-    weight=100
-    type=operates
-  ];
   591 -> 12307 [
     weight=100
     type=operates
   ];
-  591 -> 12316 [
+  591 -> 12308 [
     weight=100
     type=operates
   ];
-  591 -> 12325 [
+  591 -> 12317 [
+    weight=100
+    type=operates
+  ];
+  591 -> 12326 [
     weight=100
     type=operates
   ];
@@ -153887,7 +153879,7 @@ digraph {
     weight=51.05
     type=owns
   ];
-  716 -> 12231 [
+  716 -> 12232 [
     weight=100
     type=owns
   ];
@@ -153915,11 +153907,11 @@ digraph {
     weight=100
     type=operates
   ];
-  716 -> 12218 [
+  716 -> 12219 [
     weight=100
     type=operates
   ];
-  716 -> 12219 [
+  716 -> 12220 [
     weight=100
     type=operates
   ];
@@ -154639,7 +154631,7 @@ digraph {
     weight=3.5
     type=owns
   ];
-  859 -> 12357 [
+  859 -> 12117 [
     weight=3.5
     type=owns
   ];
@@ -154647,7 +154639,7 @@ digraph {
     weight=3.5
     type=owns
   ];
-  860 -> 12357 [
+  860 -> 12117 [
     weight=3.5
     type=owns
   ];
@@ -154779,11 +154771,11 @@ digraph {
     weight=100
     type=operates
   ];
-  869 -> 12223 [
+  869 -> 12224 [
     weight=100
     type=operates
   ];
-  869 -> 12224 [
+  869 -> 12225 [
     weight=100
     type=operates
   ];
@@ -155395,7 +155387,7 @@ digraph {
     weight=100
     type=operates
   ];
-  956 -> 12257 [
+  956 -> 12258 [
     weight=24.9
     type=owns
   ];
@@ -155727,7 +155719,7 @@ digraph {
     weight=6
     type=owns
   ];
-  1033 -> 12345 [
+  1033 -> 12346 [
     weight=1
     type=owns
   ];
@@ -155771,7 +155763,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1053 -> 12345 [
+  1053 -> 12346 [
     weight=1.65
     type=owns
   ];
@@ -156407,7 +156399,7 @@ digraph {
     weight=25.9
     type=owns
   ];
-  1178 -> 12312 [
+  1178 -> 12313 [
     weight=8.5
     type=owns
   ];
@@ -156427,7 +156419,7 @@ digraph {
     weight=5.5
     type=owns
   ];
-  1181 -> 12357 [
+  1181 -> 12117 [
     weight=5.5
     type=owns
   ];
@@ -157091,7 +157083,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1286 -> 12347 [
+  1286 -> 12348 [
     weight=100
     type=operates
   ];
@@ -157239,7 +157231,7 @@ digraph {
     weight=51
     type=owns
   ];
-  1326 -> 12257 [
+  1326 -> 12258 [
     weight=12.5
     type=owns
   ];
@@ -157887,7 +157879,7 @@ digraph {
     weight=1
     type=owns
   ];
-  1442 -> 12202 [
+  1442 -> 12203 [
     weight=100
     type=operates
   ];
@@ -157939,11 +157931,11 @@ digraph {
     weight=49
     type=owns
   ];
-  1461 -> 12248 [
+  1461 -> 12249 [
     weight=24.75
     type=owns
   ];
-  1461 -> 12249 [
+  1461 -> 12250 [
     weight=24.75
     type=owns
   ];
@@ -158007,7 +157999,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1471 -> 12284 [
+  1471 -> 12285 [
     weight=100
     type=operates
   ];
@@ -158171,11 +158163,11 @@ digraph {
     weight=12.55
     type=owns
   ];
-  1508 -> 12345 [
+  1508 -> 12346 [
     weight=1
     type=owns
   ];
-  1509 -> 12345 [
+  1509 -> 12346 [
     weight=1
     type=owns
   ];
@@ -158239,7 +158231,7 @@ digraph {
     weight=14.9
     type=owns
   ];
-  1523 -> 12266 [
+  1523 -> 12267 [
     weight=49
     type=owns
   ];
@@ -159231,7 +159223,7 @@ digraph {
     weight=100
     type=owns
   ];
-  1665 -> 12156 [
+  1665 -> 12157 [
     weight=46.2
     type=owns
   ];
@@ -159287,7 +159279,7 @@ digraph {
     weight=100
     type=owns
   ];
-  1676 -> 12312 [
+  1676 -> 12313 [
     weight=8.5
     type=owns
   ];
@@ -159611,7 +159603,7 @@ digraph {
     weight=1
     type=owns
   ];
-  1739 -> 12315 [
+  1739 -> 12316 [
     weight=20.09
     type=owns
   ];
@@ -159851,7 +159843,7 @@ digraph {
     weight=3
     type=owns
   ];
-  1809 -> 12290 [
+  1809 -> 12291 [
     weight=1
     type=owns
   ];
@@ -160215,7 +160207,7 @@ digraph {
     weight=1
     type=owns
   ];
-  1891 -> 12257 [
+  1891 -> 12258 [
     weight=10.1
     type=owns
   ];
@@ -160391,7 +160383,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1938 -> 12349 [
+  1938 -> 12350 [
     weight=100
     type=operates
   ];
@@ -160899,7 +160891,7 @@ digraph {
     weight=19.8
     type=owns
   ];
-  2097 -> 12246 [
+  2097 -> 12247 [
     weight=60.47
     type=owns
   ];
@@ -162131,7 +162123,7 @@ digraph {
     weight=10
     type=owns
   ];
-  2314 -> 12345 [
+  2314 -> 12346 [
     weight=9.4
     type=owns
   ];
@@ -162535,7 +162527,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2390 -> 12173 [
+  2390 -> 12174 [
     weight=100
     type=operates
   ];
@@ -162811,7 +162803,7 @@ digraph {
     weight=100
     type=owns
   ];
-  2445 -> 12152 [
+  2445 -> 12153 [
     weight=54
     type=owns
   ];
@@ -163039,7 +163031,7 @@ digraph {
     weight=3.5
     type=owns
   ];
-  2487 -> 12357 [
+  2487 -> 12117 [
     weight=3.5
     type=owns
   ];
@@ -164347,7 +164339,7 @@ digraph {
     weight=100
     type=owns
   ];
-  2728 -> 12246 [
+  2728 -> 12247 [
     weight=1
     type=owns
   ];
@@ -164511,15 +164503,11 @@ digraph {
     weight=7.12
     type=owns
   ];
-  2757 -> 12248 [
-    weight=24.75
-    type=owns
-  ];
   2757 -> 12249 [
     weight=24.75
     type=owns
   ];
-  2758 -> 12248 [
+  2757 -> 12250 [
     weight=24.75
     type=owns
   ];
@@ -164527,11 +164515,15 @@ digraph {
     weight=24.75
     type=owns
   ];
-  2759 -> 12248 [
+  2758 -> 12250 [
     weight=24.75
     type=owns
   ];
   2759 -> 12249 [
+    weight=24.75
+    type=owns
+  ];
+  2759 -> 12250 [
     weight=24.75
     type=owns
   ];
@@ -165003,7 +164995,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2820 -> 12253 [
+  2820 -> 12254 [
     weight=100
     type=operates
   ];
@@ -165363,7 +165355,7 @@ digraph {
     weight=10
     type=owns
   ];
-  2929 -> 12322 [
+  2929 -> 12323 [
     weight=10
     type=owns
   ];
@@ -165963,7 +165955,7 @@ digraph {
     weight=35.34
     type=owns
   ];
-  3121 -> 12345 [
+  3121 -> 12346 [
     weight=1
     type=owns
   ];
@@ -166407,7 +166399,7 @@ digraph {
     weight=12.81
     type=owns
   ];
-  3252 -> 12345 [
+  3252 -> 12346 [
     weight=57.9
     type=owns
   ];
@@ -166443,11 +166435,11 @@ digraph {
     weight=11.9
     type=owns
   ];
-  3260 -> 12345 [
+  3260 -> 12346 [
     weight=1
     type=owns
   ];
-  3262 -> 12345 [
+  3262 -> 12346 [
     weight=6.1
     type=owns
   ];
@@ -166531,7 +166523,7 @@ digraph {
     weight=30.29
     type=owns
   ];
-  3278 -> 12345 [
+  3278 -> 12346 [
     weight=2.8
     type=owns
   ];
@@ -166591,11 +166583,11 @@ digraph {
     weight=100
     type=owns
   ];
-  3285 -> 12345 [
+  3285 -> 12346 [
     weight=6.6
     type=owns
   ];
-  3286 -> 12345 [
+  3286 -> 12346 [
     weight=6.6
     type=owns
   ];
@@ -166767,11 +166759,11 @@ digraph {
     weight=18
     type=owns
   ];
-  3321 -> 12321 [
+  3321 -> 12322 [
     weight=84
     type=owns
   ];
-  3321 -> 12322 [
+  3321 -> 12323 [
     weight=90
     type=owns
   ];
@@ -167307,7 +167299,7 @@ digraph {
     weight=2
     type=owns
   ];
-  3422 -> 12357 [
+  3422 -> 12117 [
     weight=2
     type=owns
   ];
@@ -167443,7 +167435,7 @@ digraph {
     weight=2
     type=owns
   ];
-  3461 -> 12135 [
+  3461 -> 12136 [
     weight=96.74
     type=owns
   ];
@@ -168019,7 +168011,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3606 -> 12332 [
+  3606 -> 12333 [
     weight=100
     type=operates
   ];
@@ -168115,7 +168107,7 @@ digraph {
     weight=4
     type=owns
   ];
-  3647 -> 12340 [
+  3647 -> 12341 [
     weight=92.27
     type=owns
   ];
@@ -169087,7 +169079,7 @@ digraph {
     weight=100
     type=owns
   ];
-  3802 -> 12344 [
+  3802 -> 12345 [
     weight=24.8
     type=owns
   ];
@@ -169127,19 +169119,19 @@ digraph {
     weight=100
     type=operates
   ];
-  3802 -> 12263 [
+  3802 -> 12264 [
     weight=100
     type=operates
   ];
-  3802 -> 12310 [
-    weight=100
-    type=operates
-  ];
-  3802 -> 12318 [
+  3802 -> 12311 [
     weight=100
     type=operates
   ];
   3802 -> 12319 [
+    weight=100
+    type=operates
+  ];
+  3802 -> 12320 [
     weight=100
     type=operates
   ];
@@ -169523,19 +169515,19 @@ digraph {
     weight=100
     type=operates
   ];
-  3816 -> 12173 [
+  3816 -> 12174 [
     weight=100
     type=operates
   ];
-  3816 -> 12310 [
-    weight=100
-    type=operates
-  ];
-  3816 -> 12318 [
+  3816 -> 12311 [
     weight=100
     type=operates
   ];
   3816 -> 12319 [
+    weight=100
+    type=operates
+  ];
+  3816 -> 12320 [
     weight=100
     type=operates
   ];
@@ -170963,7 +170955,7 @@ digraph {
     weight=84.1
     type=owns
   ];
-  4062 -> 12260 [
+  4062 -> 12261 [
     weight=100
     type=owns
   ];
@@ -171187,7 +171179,7 @@ digraph {
     weight=1
     type=owns
   ];
-  4106 -> 12312 [
+  4106 -> 12313 [
     weight=74.5
     type=owns
   ];
@@ -171407,7 +171399,7 @@ digraph {
     weight=8.48
     type=owns
   ];
-  4143 -> 12295 [
+  4143 -> 12296 [
     weight=100
     type=owns
   ];
@@ -172487,7 +172479,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4355 -> 12246 [
+  4355 -> 12247 [
     weight=39.5
     type=owns
   ];
@@ -172551,7 +172543,7 @@ digraph {
     weight=1
     type=owns
   ];
-  4358 -> 12321 [
+  4358 -> 12322 [
     weight=1
     type=owns
   ];
@@ -172667,7 +172659,7 @@ digraph {
     weight=100
     type=owns
   ];
-  4378 -> 12166 [
+  4378 -> 12167 [
     weight=50
     type=owns
   ];
@@ -172735,7 +172727,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4397 -> 12208 [
+  4397 -> 12209 [
     weight=100
     type=owns
   ];
@@ -172835,7 +172827,7 @@ digraph {
     weight=90
     type=owns
   ];
-  4415 -> 12333 [
+  4415 -> 12334 [
     weight=20
     type=owns
   ];
@@ -172935,7 +172927,7 @@ digraph {
     weight=3
     type=owns
   ];
-  4434 -> 12357 [
+  4434 -> 12117 [
     weight=3
     type=owns
   ];
@@ -174367,7 +174359,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4745 -> 12307 [
+  4745 -> 12308 [
     weight=100
     type=operates
   ];
@@ -174607,7 +174599,7 @@ digraph {
     weight=1
     type=owns
   ];
-  4790 -> 12225 [
+  4790 -> 12226 [
     weight=70
     type=owns
   ];
@@ -174695,7 +174687,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4813 -> 12321 [
+  4813 -> 12322 [
     weight=6
     type=owns
   ];
@@ -176895,7 +176887,7 @@ digraph {
     weight=1
     type=owns
   ];
-  5293 -> 12326 [
+  5293 -> 12327 [
     weight=2
     type=owns
   ];
@@ -176927,7 +176919,7 @@ digraph {
     weight=2.47
     type=owns
   ];
-  5298 -> 12149 [
+  5298 -> 12150 [
     weight=100
     type=owns
   ];
@@ -178535,7 +178527,7 @@ digraph {
     weight=3.97
     type=owns
   ];
-  5660 -> 12345 [
+  5660 -> 12346 [
     weight=1.65
     type=owns
   ];
@@ -178555,7 +178547,7 @@ digraph {
     weight=8.8
     type=owns
   ];
-  5669 -> 12257 [
+  5669 -> 12258 [
     weight=12.5
     type=owns
   ];
@@ -178851,11 +178843,11 @@ digraph {
     weight=100
     type=operates
   ];
-  5702 -> 12220 [
+  5702 -> 12221 [
     weight=100
     type=operates
   ];
-  5702 -> 12221 [
+  5702 -> 12222 [
     weight=100
     type=operates
   ];
@@ -178983,7 +178975,7 @@ digraph {
     weight=52.3
     type=owns
   ];
-  5725 -> 12334 [
+  5725 -> 12335 [
     weight=100
     type=owns
   ];
@@ -179115,11 +179107,11 @@ digraph {
     weight=100
     type=owns
   ];
-  5765 -> 12205 [
+  5765 -> 12206 [
     weight=5
     type=owns
   ];
-  5765 -> 12206 [
+  5765 -> 12207 [
     weight=5.2
     type=owns
   ];
@@ -179423,7 +179415,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5843 -> 12175 [
+  5843 -> 12176 [
     weight=100
     type=operates
   ];
@@ -179471,7 +179463,7 @@ digraph {
     weight=11.76
     type=owns
   ];
-  5851 -> 12257 [
+  5851 -> 12258 [
     weight=40
     type=owns
   ];
@@ -180519,7 +180511,7 @@ digraph {
     weight=50
     type=owns
   ];
-  6074 -> 12333 [
+  6074 -> 12334 [
     weight=20
     type=owns
   ];
@@ -181859,7 +181851,7 @@ digraph {
     weight=100
     type=owns
   ];
-  6448 -> 12209 [
+  6448 -> 12210 [
     weight=100
     type=operates
   ];
@@ -183031,7 +183023,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6676 -> 12173 [
+  6676 -> 12174 [
     weight=100
     type=operates
   ];
@@ -183123,7 +183115,7 @@ digraph {
     weight=16
     type=owns
   ];
-  6698 -> 12146 [
+  6698 -> 12147 [
     weight=100
     type=owns
   ];
@@ -183195,7 +183187,7 @@ digraph {
     weight=100
     type=owns
   ];
-  6715 -> 12213 [
+  6715 -> 12214 [
     weight=50
     type=owns
   ];
@@ -183479,7 +183471,7 @@ digraph {
     weight=61
     type=owns
   ];
-  6793 -> 12278 [
+  6793 -> 12279 [
     weight=55
     type=owns
   ];
@@ -183763,11 +183755,11 @@ digraph {
     weight=100
     type=owns
   ];
-  6862 -> 12301 [
+  6862 -> 12302 [
     weight=100
     type=owns
   ];
-  6862 -> 12302 [
+  6862 -> 12303 [
     weight=100
     type=owns
   ];
@@ -184039,7 +184031,7 @@ digraph {
     weight=100
     type=owns
   ];
-  6893 -> 12210 [
+  6893 -> 12211 [
     weight=100
     type=owns
   ];
@@ -184243,7 +184235,7 @@ digraph {
     weight=75
     type=owns
   ];
-  6902 -> 12327 [
+  6902 -> 12328 [
     weight=25.2
     type=owns
   ];
@@ -184935,7 +184927,7 @@ digraph {
     weight=24.73
     type=owns
   ];
-  7082 -> 12344 [
+  7082 -> 12345 [
     weight=75.2
     type=owns
   ];
@@ -185467,7 +185459,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7163 -> 12332 [
+  7163 -> 12333 [
     weight=100
     type=operates
   ];
@@ -185531,7 +185523,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7166 -> 12305 [
+  7166 -> 12306 [
     weight=100
     type=operates
   ];
@@ -186471,7 +186463,7 @@ digraph {
     weight=52
     type=owns
   ];
-  7332 -> 12235 [
+  7332 -> 12236 [
     weight=100
     type=owns
   ];
@@ -187079,7 +187071,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7433 -> 12165 [
+  7433 -> 12166 [
     weight=100
     type=operates
   ];
@@ -187823,7 +187815,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7586 -> 12154 [
+  7586 -> 12155 [
     weight=100
     type=operates
   ];
@@ -189571,7 +189563,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7844 -> 12163 [
+  7844 -> 12164 [
     weight=100
     type=operates
   ];
@@ -190643,11 +190635,11 @@ digraph {
     weight=1
     type=owns
   ];
-  8068 -> 12345 [
+  8068 -> 12346 [
     weight=1.65
     type=owns
   ];
-  8070 -> 12204 [
+  8070 -> 12205 [
     weight=100
     type=owns
   ];
@@ -191103,7 +191095,7 @@ digraph {
     weight=24
     type=owns
   ];
-  8151 -> 12278 [
+  8151 -> 12279 [
     weight=25
     type=owns
   ];
@@ -191759,11 +191751,11 @@ digraph {
     weight=100
     type=owns
   ];
-  8299 -> 12291 [
+  8299 -> 12292 [
     weight=100
     type=owns
   ];
-  8299 -> 12292 [
+  8299 -> 12293 [
     weight=1
     type=owns
   ];
@@ -192175,7 +192167,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8353 -> 12281 [
+  8353 -> 12282 [
     weight=100
     type=operates
   ];
@@ -192303,7 +192295,7 @@ digraph {
     weight=1
     type=owns
   ];
-  8367 -> 12262 [
+  8367 -> 12263 [
     weight=100
     type=operates
   ];
@@ -192559,7 +192551,7 @@ digraph {
     weight=100
     type=owns
   ];
-  8441 -> 12258 [
+  8441 -> 12259 [
     weight=100
     type=owns
   ];
@@ -192723,7 +192715,7 @@ digraph {
     weight=100
     type=owns
   ];
-  8476 -> 12156 [
+  8476 -> 12157 [
     weight=46.3
     type=owns
   ];
@@ -194955,7 +194947,7 @@ digraph {
     weight=50
     type=owns
   ];
-  9040 -> 12225 [
+  9040 -> 12226 [
     weight=17.5
     type=owns
   ];
@@ -195563,7 +195555,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9134 -> 12264 [
+  9134 -> 12265 [
     weight=100
     type=operates
   ];
@@ -195763,7 +195755,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9174 -> 12226 [
+  9174 -> 12227 [
     weight=100
     type=operates
   ];
@@ -196647,15 +196639,15 @@ digraph {
     weight=100
     type=operates
   ];
-  9294 -> 12264 [
+  9294 -> 12265 [
     weight=100
     type=operates
   ];
-  9294 -> 12294 [
+  9294 -> 12295 [
     weight=100
     type=operates
   ];
-  9294 -> 12320 [
+  9294 -> 12321 [
     weight=100
     type=operates
   ];
@@ -196815,7 +196807,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9300 -> 12320 [
+  9300 -> 12321 [
     weight=100
     type=operates
   ];
@@ -198099,7 +198091,7 @@ digraph {
     weight=3.53
     type=owns
   ];
-  9498 -> 12327 [
+  9498 -> 12328 [
     weight=74.8
     type=owns
   ];
@@ -198811,7 +198803,7 @@ digraph {
     weight=22.4
     type=owns
   ];
-  9631 -> 12225 [
+  9631 -> 12226 [
     weight=10
     type=owns
   ];
@@ -199019,7 +199011,7 @@ digraph {
     weight=30.3
     type=owns
   ];
-  9680 -> 12117 [
+  9680 -> 12118 [
     weight=100
     type=owns
   ];
@@ -199367,7 +199359,7 @@ digraph {
     weight=15
     type=owns
   ];
-  9787 -> 12183 [
+  9787 -> 12184 [
     weight=25.1
     type=owns
   ];
@@ -199395,7 +199387,7 @@ digraph {
     weight=10
     type=owns
   ];
-  9796 -> 12333 [
+  9796 -> 12334 [
     weight=20
     type=owns
   ];
@@ -199403,7 +199395,7 @@ digraph {
     weight=100
     type=owns
   ];
-  9798 -> 12183 [
+  9798 -> 12184 [
     weight=74.9
     type=owns
   ];
@@ -199575,7 +199567,7 @@ digraph {
     weight=7.7
     type=owns
   ];
-  9840 -> 12312 [
+  9840 -> 12313 [
     weight=8.5
     type=owns
   ];
@@ -199983,7 +199975,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9934 -> 12163 [
+  9934 -> 12164 [
     weight=100
     type=operates
   ];
@@ -200011,7 +200003,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9935 -> 12163 [
+  9935 -> 12164 [
     weight=100
     type=operates
   ];
@@ -201059,7 +201051,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10127 -> 12252 [
+  10127 -> 12253 [
     weight=100
     type=operates
   ];
@@ -201151,7 +201143,7 @@ digraph {
     weight=100
     type=owns
   ];
-  10144 -> 12328 [
+  10144 -> 12329 [
     weight=100
     type=owns
   ];
@@ -201295,11 +201287,11 @@ digraph {
     weight=100
     type=operates
   ];
-  10155 -> 12205 [
+  10155 -> 12206 [
     weight=2.5
     type=owns
   ];
-  10155 -> 12206 [
+  10155 -> 12207 [
     weight=2.6
     type=owns
   ];
@@ -202987,7 +202979,7 @@ digraph {
     weight=6
     type=owns
   ];
-  10512 -> 12340 [
+  10512 -> 12341 [
     weight=1
     type=owns
   ];
@@ -203359,7 +203351,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10600 -> 12340 [
+  10600 -> 12341 [
     weight=6.95
     type=owns
   ];
@@ -203855,7 +203847,7 @@ digraph {
     weight=100
     type=owns
   ];
-  10755 -> 12351 [
+  10755 -> 12352 [
     weight=50
     type=owns
   ];
@@ -204903,11 +204895,11 @@ digraph {
     weight=100
     type=operates
   ];
-  10937 -> 12233 [
+  10937 -> 12234 [
     weight=100
     type=operates
   ];
-  10937 -> 12252 [
+  10937 -> 12253 [
     weight=100
     type=operates
   ];
@@ -205807,7 +205799,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11122 -> 12225 [
+  11122 -> 12226 [
     weight=2.5
     type=owns
   ];
@@ -207911,7 +207903,7 @@ digraph {
     weight=1
     type=owns
   ];
-  11705 -> 12345 [
+  11705 -> 12346 [
     weight=1.65
     type=owns
   ];
@@ -208155,7 +208147,7 @@ digraph {
     weight=13.4208
     type=owns
   ];
-  11737 -> 12278 [
+  11737 -> 12279 [
     weight=20
     type=owns
   ];
@@ -208207,7 +208199,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11737 -> 12279 [
+  11737 -> 12280 [
     weight=100
     type=operates
   ];
@@ -208575,7 +208567,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11763 -> 12202 [
+  11763 -> 12203 [
     weight=100
     type=operates
   ];
@@ -208659,7 +208651,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11769 -> 12280 [
+  11769 -> 12281 [
     weight=100
     type=operates
   ];
@@ -209735,7 +209727,7 @@ digraph {
     weight=6
     type=owns
   ];
-  11962 -> 12321 [
+  11962 -> 12322 [
     weight=10
     type=owns
   ];
@@ -209795,7 +209787,7 @@ digraph {
     weight=10.5
     type=owns
   ];
-  11973 -> 12357 [
+  11973 -> 12117 [
     weight=10.5
     type=owns
   ];
@@ -210063,11 +210055,11 @@ digraph {
     weight=100
     type=operates
   ];
-  12021 -> 12162 [
+  12021 -> 12163 [
     weight=100
     type=operates
   ];
-  12021 -> 12338 [
+  12021 -> 12339 [
     weight=100
     type=operates
   ];
@@ -210271,7 +210263,7 @@ digraph {
     weight=100
     type=owns
   ];
-  12030 -> 12120 [
+  12030 -> 12121 [
     weight=100
     type=owns
   ];
@@ -210291,11 +210283,11 @@ digraph {
     weight=100
     type=operates
   ];
-  12030 -> 12162 [
+  12030 -> 12163 [
     weight=100
     type=operates
   ];
-  12030 -> 12338 [
+  12030 -> 12339 [
     weight=100
     type=operates
   ];
@@ -210319,7 +210311,7 @@ digraph {
     weight=100
     type=owns
   ];
-  12036 -> 12128 [
+  12036 -> 12129 [
     weight=50
     type=owns
   ];
@@ -210419,7 +210411,7 @@ digraph {
     weight=5.88
     type=owns
   ];
-  12065 -> 12333 [
+  12065 -> 12334 [
     weight=20
     type=owns
   ];
@@ -210627,71 +210619,63 @@ digraph {
     weight=100
     type=owns
   ];
-  12117 -> 5265 [
+  12117 -> 8396 [
+    weight=1
+    type=owns
+  ];
+  12118 -> 5265 [
     weight=10
     type=owns
   ];
-  12117 -> 12118 [
+  12118 -> 12119 [
     weight=100
     type=owns
   ];
-  12118 -> 12117 [
+  12119 -> 12118 [
     weight=1
     type=owns
   ];
-  12119 -> 12309 [
+  12120 -> 12310 [
     weight=1
     type=owns
   ];
-  12127 -> 907 [
+  12128 -> 907 [
     weight=33.35
     type=owns
   ];
-  12128 -> 12603 [
+  12129 -> 12603 [
     weight=100
     type=operates
   ];
-  12128 -> 12804 [
+  12129 -> 12804 [
     weight=100
     type=operates
   ];
-  12130 -> 344 [
+  12131 -> 344 [
     weight=100
     type=owns
   ];
-  12133 -> 3909 [
+  12134 -> 3909 [
     weight=100
     type=operates
   ];
-  12133 -> 3911 [
+  12134 -> 3911 [
     weight=100
     type=operates
   ];
-  12133 -> 7308 [
+  12134 -> 7308 [
     weight=100
     type=operates
   ];
-  12133 -> 13329 [
+  12134 -> 13329 [
     weight=100
     type=operates
   ];
-  12133 -> 13331 [
+  12134 -> 13331 [
     weight=100
     type=operates
   ];
-  12133 -> 13804 [
-    weight=100
-    type=operates
-  ];
-  12134 -> 12133 [
-    weight=100
-    type=owns
-  ];
-  12134 -> 13196 [
-    weight=100
-    type=operates
-  ];
-  12134 -> 13865 [
+  12134 -> 13804 [
     weight=100
     type=operates
   ];
@@ -210699,152 +210683,160 @@ digraph {
     weight=100
     type=owns
   ];
-  12136 -> 4397 [
-    weight=24
+  12135 -> 13196 [
+    weight=100
+    type=operates
+  ];
+  12135 -> 13865 [
+    weight=100
+    type=operates
+  ];
+  12136 -> 12135 [
+    weight=100
     type=owns
   ];
   12137 -> 4397 [
     weight=24
     type=owns
   ];
-  12138 -> 11780 [
+  12138 -> 4397 [
+    weight=24
+    type=owns
+  ];
+  12139 -> 11780 [
     weight=1
     type=owns
   ];
-  12139 -> 4397 [
+  12140 -> 4397 [
     weight=52
     type=owns
   ];
-  12139 -> 4723 [
+  12140 -> 4723 [
     weight=100
-    type=owns
-  ];
-  12140 -> 261 [
-    weight=36
     type=owns
   ];
   12141 -> 261 [
+    weight=36
+    type=owns
+  ];
+  12142 -> 261 [
     weight=10
     type=owns
   ];
-  12142 -> 1942 [
+  12143 -> 1942 [
     weight=25
     type=owns
   ];
-  12143 -> 11012 [
+  12144 -> 11012 [
     weight=100
     type=owns
   ];
-  12145 -> 1095 [
+  12146 -> 1095 [
     weight=7.69
     type=owns
   ];
-  12145 -> 11780 [
+  12146 -> 11780 [
     weight=1
     type=owns
   ];
-  12146 -> 14768 [
+  12147 -> 14768 [
     weight=100
     type=operates
   ];
-  12147 -> 440 [
+  12148 -> 440 [
     weight=50
     type=owns
   ];
-  12148 -> 10413 [
+  12149 -> 10413 [
     weight=100
     type=owns
   ];
-  12149 -> 5298 [
+  12150 -> 5298 [
     weight=1
     type=owns
   ];
-  12151 -> 12150 [
+  12152 -> 12151 [
     weight=1
     type=owns
   ];
-  12152 -> 12150 [
+  12153 -> 12151 [
     weight=99.99
     type=owns
   ];
-  12153 -> 10042 [
+  12154 -> 10042 [
     weight=33.25
     type=owns
   ];
-  12156 -> 1338 [
+  12157 -> 1338 [
     weight=18.9
     type=owns
   ];
-  12157 -> 13999 [
+  12158 -> 13999 [
     weight=100
     type=operates
   ];
-  12158 -> 11374 [
+  12159 -> 11374 [
     weight=100
     type=operates
   ];
-  12158 -> 14649 [
+  12159 -> 14649 [
     weight=100
     type=operates
   ];
-  12160 -> 7134 [
+  12161 -> 7134 [
     weight=100
     type=owns
   ];
-  12161 -> 9933 [
+  12162 -> 9933 [
     weight=1.37
     type=owns
   ];
-  12164 -> 6519 [
+  12165 -> 6519 [
     weight=100
     type=owns
   ];
-  12166 -> 1696 [
+  12167 -> 1696 [
     weight=100
     type=operates
   ];
-  12166 -> 2338 [
+  12167 -> 2338 [
     weight=100
     type=operates
   ];
-  12166 -> 6703 [
+  12167 -> 6703 [
     weight=100
     type=operates
   ];
-  12166 -> 12439 [
+  12167 -> 12439 [
     weight=100
     type=operates
   ];
-  12166 -> 12817 [
+  12167 -> 12817 [
     weight=100
     type=operates
   ];
-  12166 -> 13775 [
+  12167 -> 13775 [
     weight=100
     type=operates
   ];
-  12166 -> 14046 [
+  12167 -> 14046 [
     weight=100
     type=operates
   ];
-  12166 -> 14629 [
+  12167 -> 14629 [
     weight=100
     type=operates
   ];
-  12166 -> 14810 [
+  12167 -> 14810 [
     weight=100
     type=operates
   ];
-  12167 -> 12166 [
+  12168 -> 12167 [
     weight=50
     type=owns
   ];
-  12168 -> 9933 [
-    weight=1
-    type=owns
-  ];
   12169 -> 9933 [
-    weight=3.42
+    weight=1
     type=owns
   ];
   12170 -> 9933 [
@@ -210852,323 +210844,319 @@ digraph {
     type=owns
   ];
   12171 -> 9933 [
-    weight=1
+    weight=3.42
     type=owns
   ];
   12172 -> 9933 [
+    weight=1
+    type=owns
+  ];
+  12173 -> 9933 [
     weight=1.37
     type=owns
   ];
-  12174 -> 10624 [
+  12175 -> 10624 [
     weight=1
     type=owns
   ];
-  12176 -> 12879 [
+  12177 -> 12879 [
     weight=100
     type=operates
   ];
-  12177 -> 9344 [
+  12178 -> 9344 [
     weight=100
     type=owns
   ];
-  12178 -> 6091 [
+  12179 -> 6091 [
     weight=51
     type=owns
   ];
-  12179 -> 12464 [
+  12180 -> 12464 [
     weight=100
     type=owns
   ];
-  12181 -> 2337 [
+  12182 -> 2337 [
     weight=100
     type=operates
   ];
-  12182 -> 12181 [
+  12183 -> 12182 [
     weight=1
     type=owns
   ];
-  12183 -> 4426 [
+  12184 -> 4426 [
     weight=33.3
     type=owns
   ];
-  12184 -> 8827 [
+  12185 -> 8827 [
     weight=5.09
     type=owns
   ];
-  12185 -> 3405 [
+  12186 -> 3405 [
     weight=2.65
     type=owns
   ];
-  12186 -> 5448 [
+  12187 -> 5448 [
     weight=1.6
     type=owns
   ];
-  12187 -> 3127 [
+  12188 -> 3127 [
     weight=34.41
     type=owns
   ];
-  12188 -> 8393 [
+  12189 -> 8393 [
     weight=16.34
     type=owns
   ];
-  12189 -> 2573 [
+  12190 -> 2573 [
     weight=22.43
     type=owns
   ];
-  12190 -> 10761 [
+  12191 -> 10761 [
     weight=49
     type=owns
   ];
-  12191 -> 10186 [
+  12192 -> 10186 [
     weight=11.8
     type=owns
   ];
-  12192 -> 9218 [
+  12193 -> 9218 [
     weight=1
     type=owns
   ];
-  12193 -> 2486 [
+  12194 -> 2486 [
     weight=21.88
     type=owns
   ];
-  12194 -> 6874 [
+  12195 -> 6874 [
     weight=1
     type=owns
   ];
-  12195 -> 1665 [
+  12196 -> 1665 [
     weight=1
     type=owns
   ];
-  12196 -> 8476 [
+  12197 -> 8476 [
     weight=1
     type=owns
   ];
-  12197 -> 695 [
+  12198 -> 695 [
     weight=6.5
     type=owns
   ];
-  12198 -> 6862 [
-    weight=3.62
-    type=owns
-  ];
-  12198 -> 9224 [
-    weight=3.62
-    type=owns
-  ];
   12199 -> 6862 [
-    weight=3.33
+    weight=3.62
     type=owns
   ];
   12199 -> 9224 [
+    weight=3.62
+    type=owns
+  ];
+  12200 -> 6862 [
     weight=3.33
     type=owns
   ];
-  12200 -> 7862 [
+  12200 -> 9224 [
+    weight=3.33
+    type=owns
+  ];
+  12201 -> 7862 [
     weight=10
     type=owns
   ];
-  12201 -> 6862 [
+  12202 -> 6862 [
     weight=3.29
     type=owns
   ];
-  12201 -> 9224 [
+  12202 -> 9224 [
     weight=3.29
     type=owns
   ];
-  12203 -> 5057 [
+  12204 -> 5057 [
     weight=100
     type=owns
   ];
-  12204 -> 12207 [
+  12205 -> 12208 [
     weight=100
     type=owns
   ];
-  12204 -> 12739 [
+  12205 -> 12739 [
     weight=100
     type=operates
   ];
-  12204 -> 13119 [
+  12205 -> 13119 [
     weight=100
     type=operates
   ];
-  12205 -> 12206 [
+  12206 -> 12207 [
     weight=1
     type=owns
   ];
-  12207 -> 623 [
+  12208 -> 623 [
     weight=100
     type=operates
   ];
-  12207 -> 1919 [
+  12208 -> 1919 [
     weight=100
     type=operates
   ];
-  12207 -> 8114 [
+  12208 -> 8114 [
     weight=100
     type=operates
   ];
-  12207 -> 8113 [
+  12208 -> 8113 [
     weight=100
     type=operates
   ];
-  12207 -> 1958 [
+  12208 -> 1958 [
     weight=100
     type=operates
   ];
-  12207 -> 10689 [
+  12208 -> 10689 [
     weight=100
     type=operates
   ];
-  12207 -> 11849 [
+  12208 -> 11849 [
     weight=100
     type=operates
   ];
-  12207 -> 12952 [
+  12208 -> 12952 [
     weight=100
     type=operates
   ];
-  12207 -> 12961 [
+  12208 -> 12961 [
     weight=100
     type=operates
   ];
-  12207 -> 13277 [
+  12208 -> 13277 [
     weight=100
     type=operates
   ];
-  12207 -> 13505 [
+  12208 -> 13505 [
     weight=100
     type=operates
   ];
-  12207 -> 13526 [
+  12208 -> 13526 [
     weight=100
     type=operates
   ];
-  12207 -> 13671 [
+  12208 -> 13671 [
     weight=100
     type=operates
   ];
-  12207 -> 13684 [
+  12208 -> 13684 [
     weight=100
     type=operates
   ];
-  12207 -> 13778 [
+  12208 -> 13778 [
     weight=100
     type=operates
   ];
-  12207 -> 14052 [
+  12208 -> 14052 [
     weight=100
     type=operates
   ];
-  12208 -> 5202 [
+  12209 -> 5202 [
     weight=2.72
     type=owns
   ];
-  12211 -> 5607 [
+  12212 -> 5607 [
     weight=4
     type=owns
   ];
-  12213 -> 1511 [
+  12214 -> 1511 [
     weight=100
     type=operates
   ];
-  12213 -> 1512 [
+  12214 -> 1512 [
     weight=100
     type=operates
   ];
-  12213 -> 2619 [
+  12214 -> 2619 [
     weight=100
     type=operates
   ];
-  12213 -> 3519 [
+  12214 -> 3519 [
     weight=100
     type=operates
   ];
-  12213 -> 7198 [
+  12214 -> 7198 [
     weight=100
     type=operates
   ];
-  12213 -> 8532 [
+  12214 -> 8532 [
     weight=100
     type=operates
   ];
-  12213 -> 9733 [
+  12214 -> 9733 [
     weight=100
     type=operates
   ];
-  12213 -> 10370 [
+  12214 -> 10370 [
     weight=100
     type=operates
   ];
-  12213 -> 11142 [
+  12214 -> 11142 [
     weight=100
     type=operates
   ];
-  12213 -> 11425 [
+  12214 -> 11425 [
     weight=100
     type=operates
   ];
-  12213 -> 12860 [
+  12214 -> 12860 [
     weight=100
     type=operates
   ];
-  12213 -> 13073 [
+  12214 -> 13073 [
     weight=100
     type=operates
   ];
-  12213 -> 13220 [
+  12214 -> 13220 [
     weight=100
     type=operates
   ];
-  12213 -> 13835 [
+  12214 -> 13835 [
     weight=100
     type=operates
   ];
-  12213 -> 14130 [
+  12214 -> 14130 [
     weight=100
     type=operates
   ];
-  12213 -> 14391 [
+  12214 -> 14391 [
     weight=100
     type=operates
   ];
-  12213 -> 14662 [
+  12214 -> 14662 [
     weight=100
     type=operates
   ];
-  12214 -> 12213 [
+  12215 -> 12214 [
     weight=50
     type=owns
   ];
-  12215 -> 11594 [
+  12216 -> 11594 [
     weight=3.06
     type=owns
   ];
-  12216 -> 2140 [
+  12217 -> 2140 [
     weight=10
     type=owns
   ];
-  12225 -> 12222 [
+  12226 -> 12223 [
     weight=100
     type=operates
   ];
-  12225 -> 14778 [
+  12226 -> 14778 [
     weight=100
     type=operates
-  ];
-  12227 -> 2635 [
-    weight=40
-    type=owns
-  ];
-  12227 -> 2636 [
-    weight=40
-    type=owns
   ];
   12228 -> 2635 [
-    weight=5
+    weight=40
     type=owns
   ];
   12228 -> 2636 [
-    weight=5
+    weight=40
     type=owns
   ];
   12229 -> 2635 [
@@ -211179,48 +211167,52 @@ digraph {
     weight=5
     type=owns
   ];
-  12231 -> 2573 [
+  12230 -> 2635 [
+    weight=5
+    type=owns
+  ];
+  12230 -> 2636 [
+    weight=5
+    type=owns
+  ];
+  12232 -> 2573 [
     weight=1.37
     type=owns
   ];
-  12231 -> 1204 [
+  12232 -> 1204 [
     weight=100
     type=operates
   ];
-  12231 -> 7457 [
+  12232 -> 7457 [
     weight=100
     type=operates
   ];
-  12231 -> 12217 [
+  12232 -> 12218 [
     weight=100
     type=operates
   ];
-  12231 -> 12795 [
+  12232 -> 12795 [
     weight=100
     type=operates
   ];
-  12231 -> 14776 [
+  12232 -> 14776 [
     weight=100
     type=operates
   ];
-  12232 -> 10134 [
+  12233 -> 10134 [
     weight=10
     type=owns
   ];
-  12236 -> 10186 [
+  12237 -> 10186 [
     weight=2.24
     type=owns
   ];
-  12237 -> 1665 [
+  12238 -> 1665 [
     weight=1
     type=owns
   ];
-  12238 -> 1665 [
+  12239 -> 1665 [
     weight=33.28
-    type=owns
-  ];
-  12239 -> 8476 [
-    weight=19.9
     type=owns
   ];
   12240 -> 8476 [
@@ -211228,171 +211220,171 @@ digraph {
     type=owns
   ];
   12241 -> 8476 [
-    weight=1
+    weight=19.9
     type=owns
   ];
   12242 -> 8476 [
-    weight=20
+    weight=1
     type=owns
   ];
   12243 -> 8476 [
     weight=20
     type=owns
   ];
-  12244 -> 1665 [
+  12244 -> 8476 [
+    weight=20
+    type=owns
+  ];
+  12245 -> 1665 [
     weight=33.29
     type=owns
   ];
-  12245 -> 8396 [
+  12246 -> 8396 [
     weight=10.5
     type=owns
   ];
-  12245 -> 12357 [
+  12246 -> 12117 [
     weight=10.5
     type=owns
   ];
-  12246 -> 8019 [
+  12247 -> 8019 [
     weight=33.3
     type=owns
   ];
-  12246 -> 14886 [
+  12247 -> 14886 [
     weight=33.33
     type=owns
   ];
-  12246 -> 12247 [
+  12247 -> 12248 [
     weight=100
     type=owns
   ];
-  12247 -> 12246 [
+  12248 -> 12247 [
     weight=1
     type=owns
   ];
-  12248 -> 9213 [
+  12249 -> 9213 [
     weight=28.94
-    type=owns
-  ];
-  12249 -> 12248 [
-    weight=1
-    type=owns
-  ];
-  12250 -> 12248 [
-    weight=1
     type=owns
   ];
   12250 -> 12249 [
     weight=1
     type=owns
   ];
-  12251 -> 11347 [
+  12251 -> 12249 [
+    weight=1
+    type=owns
+  ];
+  12251 -> 12250 [
+    weight=1
+    type=owns
+  ];
+  12252 -> 11347 [
     weight=11.7
     type=owns
   ];
-  12257 -> 12466 [
+  12258 -> 12466 [
     weight=100
     type=owns
   ];
-  12260 -> 9941 [
+  12261 -> 9941 [
     weight=23
     type=owns
   ];
-  12260 -> 9942 [
+  12261 -> 9942 [
     weight=23
     type=owns
   ];
-  12260 -> 9943 [
+  12261 -> 9943 [
     weight=23
     type=owns
   ];
-  12265 -> 11558 [
+  12266 -> 11558 [
     weight=51
     type=owns
   ];
-  12266 -> 3143 [
+  12267 -> 3143 [
     weight=1
     type=owns
   ];
-  12267 -> 12461 [
+  12268 -> 12461 [
     weight=100
     type=owns
   ];
-  12268 -> 12275 [
+  12269 -> 12276 [
     weight=50
     type=owns
   ];
-  12269 -> 7682 [
+  12270 -> 7682 [
     weight=10
     type=owns
   ];
-  12269 -> 7684 [
+  12270 -> 7684 [
     weight=10
     type=owns
   ];
-  12269 -> 7686 [
+  12270 -> 7686 [
     weight=10
     type=owns
   ];
-  12269 -> 7689 [
+  12270 -> 7689 [
     weight=10
     type=owns
   ];
-  12269 -> 11154 [
+  12270 -> 11154 [
     weight=5
     type=owns
   ];
-  12270 -> 3080 [
+  12271 -> 3080 [
     weight=100
     type=owns
   ];
-  12271 -> 1416 [
+  12272 -> 1416 [
     weight=43
     type=owns
   ];
-  12272 -> 12275 [
+  12273 -> 12276 [
     weight=50
     type=owns
   ];
-  12273 -> 12267 [
+  12274 -> 12268 [
     weight=100
     type=owns
   ];
-  12274 -> 6638 [
+  12275 -> 6638 [
     weight=5
     type=owns
   ];
-  12275 -> 10134 [
+  12276 -> 10134 [
     weight=40
     type=owns
   ];
-  12276 -> 10450 [
+  12277 -> 10450 [
     weight=6.24
     type=owns
   ];
-  12277 -> 12278 [
-    weight=1
-    type=owns
-  ];
-  12278 -> 8942 [
-    weight=1
-    type=owns
-  ];
-  12278 -> 12277 [
-    weight=100
-    type=owns
-  ];
   12278 -> 12279 [
-    weight=100
-    type=operates
-  ];
-  12278 -> 14784 [
-    weight=100
-    type=operates
-  ];
-  12283 -> 3295 [
-    weight=59
+    weight=1
     type=owns
   ];
-  12285 -> 2255 [
-    weight=12.5
+  12279 -> 8942 [
+    weight=1
+    type=owns
+  ];
+  12279 -> 12278 [
+    weight=100
+    type=owns
+  ];
+  12279 -> 12280 [
+    weight=100
+    type=operates
+  ];
+  12279 -> 14784 [
+    weight=100
+    type=operates
+  ];
+  12284 -> 3295 [
+    weight=59
     type=owns
   ];
   12286 -> 2255 [
@@ -211407,628 +211399,628 @@ digraph {
     weight=12.5
     type=owns
   ];
-  12289 -> 1094 [
+  12289 -> 2255 [
+    weight=12.5
+    type=owns
+  ];
+  12290 -> 1094 [
     weight=20
     type=owns
   ];
-  12289 -> 5614 [
+  12290 -> 5614 [
     weight=20
     type=owns
   ];
-  12291 -> 10916 [
+  12292 -> 10916 [
     weight=70
     type=owns
   ];
-  12291 -> 12290 [
+  12292 -> 12291 [
     weight=99.8
     type=owns
   ];
-  12291 -> 12292 [
+  12292 -> 12293 [
     weight=99.8
     type=owns
   ];
-  12292 -> 9658 [
+  12293 -> 9658 [
     weight=100
     type=operates
   ];
-  12292 -> 14383 [
+  12293 -> 14383 [
     weight=100
     type=operates
   ];
-  12295 -> 175 [
+  12296 -> 175 [
     weight=24
     type=owns
   ];
-  12295 -> 6445 [
+  12296 -> 6445 [
     weight=19
     type=owns
   ];
-  12295 -> 6451 [
+  12296 -> 6451 [
     weight=8
     type=owns
   ];
-  12295 -> 6454 [
+  12296 -> 6454 [
     weight=22
     type=owns
   ];
-  12295 -> 6456 [
+  12296 -> 6456 [
     weight=14
     type=owns
   ];
-  12295 -> 7930 [
+  12296 -> 7930 [
     weight=2.91
     type=owns
   ];
-  12295 -> 8357 [
+  12296 -> 8357 [
     weight=57
     type=owns
   ];
-  12295 -> 8359 [
+  12296 -> 8359 [
     weight=4.6
     type=owns
   ];
-  12295 -> 8393 [
+  12296 -> 8393 [
     weight=2.86
     type=owns
   ];
-  12295 -> 9134 [
+  12296 -> 9134 [
     weight=20
     type=owns
   ];
-  12295 -> 12296 [
+  12296 -> 12297 [
     weight=100
     type=owns
   ];
-  12295 -> 2573 [
+  12296 -> 2573 [
     weight=1.02
     type=owns
   ];
-  12295 -> 1039 [
+  12296 -> 1039 [
     weight=100
     type=operates
   ];
-  12295 -> 9133 [
+  12296 -> 9133 [
     weight=100
     type=operates
   ];
-  12295 -> 10302 [
+  12296 -> 10302 [
     weight=100
     type=operates
   ];
-  12295 -> 12264 [
-    weight=100
-    type=operates
-  ];
-  12295 -> 12294 [
-    weight=100
-    type=operates
-  ];
-  12295 -> 14845 [
+  12296 -> 12265 [
     weight=100
     type=operates
   ];
   12296 -> 12295 [
+    weight=100
+    type=operates
+  ];
+  12296 -> 14845 [
+    weight=100
+    type=operates
+  ];
+  12297 -> 12296 [
     weight=1
     type=owns
   ];
-  12297 -> 12127 [
+  12298 -> 12128 [
     weight=100
     type=owns
   ];
-  12297 -> 2573 [
+  12298 -> 2573 [
     weight=3.9
     type=owns
   ];
-  12297 -> 40 [
+  12298 -> 40 [
     weight=100
     type=operates
   ];
-  12297 -> 5654 [
+  12298 -> 5654 [
     weight=100
     type=operates
   ];
-  12297 -> 12121 [
+  12298 -> 12122 [
     weight=100
     type=operates
   ];
-  12297 -> 12122 [
+  12298 -> 12123 [
     weight=100
     type=operates
   ];
-  12297 -> 12123 [
+  12298 -> 12124 [
     weight=100
     type=operates
   ];
-  12297 -> 12124 [
+  12298 -> 12125 [
     weight=100
     type=operates
   ];
-  12297 -> 12125 [
+  12298 -> 12126 [
     weight=100
     type=operates
   ];
-  12297 -> 12126 [
+  12298 -> 12127 [
     weight=100
     type=operates
   ];
-  12297 -> 14077 [
+  12298 -> 14077 [
     weight=100
     type=operates
   ];
-  12297 -> 14512 [
+  12298 -> 14512 [
     weight=100
     type=operates
   ];
-  12297 -> 14877 [
+  12298 -> 14877 [
     weight=100
     type=operates
   ];
-  12297 -> 14878 [
+  12298 -> 14878 [
     weight=100
     type=operates
   ];
-  12297 -> 14879 [
+  12298 -> 14879 [
     weight=100
     type=operates
   ];
-  12297 -> 14880 [
+  12298 -> 14880 [
     weight=100
     type=operates
   ];
-  12297 -> 14881 [
+  12298 -> 14881 [
     weight=100
     type=operates
   ];
-  12297 -> 14882 [
+  12298 -> 14882 [
     weight=100
     type=operates
   ];
-  12297 -> 14883 [
+  12298 -> 14883 [
     weight=100
     type=operates
   ];
-  12297 -> 14884 [
+  12298 -> 14884 [
     weight=100
     type=operates
   ];
-  12297 -> 14885 [
+  12298 -> 14885 [
     weight=100
     type=operates
   ];
-  12298 -> 7361 [
+  12299 -> 7361 [
     weight=5
     type=owns
   ];
-  12299 -> 5040 [
+  12300 -> 5040 [
     weight=10
     type=owns
   ];
-  12300 -> 6880 [
+  12301 -> 6880 [
     weight=15.2
     type=owns
   ];
-  12301 -> 6881 [
+  12302 -> 6881 [
     weight=4.95
     type=owns
   ];
-  12301 -> 12300 [
+  12302 -> 12301 [
     weight=100
     type=owns
   ];
-  12302 -> 12301 [
+  12303 -> 12302 [
     weight=1
-    type=owns
-  ];
-  12303 -> 1318 [
-    weight=10
-    type=owns
-  ];
-  12303 -> 5344 [
-    weight=10
     type=owns
   ];
   12304 -> 1318 [
-    weight=90
-    type=owns
-  ];
-  12304 -> 5344 [
-    weight=90
-    type=owns
-  ];
-  12309 -> 4745 [
-    weight=100
-    type=owns
-  ];
-  12309 -> 8393 [
-    weight=1.05
-    type=owns
-  ];
-  12309 -> 8609 [
-    weight=3.75
-    type=owns
-  ];
-  12309 -> 12119 [
-    weight=100
-    type=owns
-  ];
-  12309 -> 14981 [
-    weight=100
-    type=owns
-  ];
-  12309 -> 2573 [
-    weight=1
-    type=owns
-  ];
-  12309 -> 1717 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 3175 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 4744 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 6553 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 8025 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 8974 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 9773 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 10681 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 11800 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 11901 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 12306 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 12307 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 12325 [
-    weight=100
-    type=operates
-  ];
-  12309 -> 14788 [
-    weight=100
-    type=operates
-  ];
-  12312 -> 12313 [
-    weight=100
-    type=owns
-  ];
-  12312 -> 12311 [
-    weight=100
-    type=operates
-  ];
-  12312 -> 14789 [
-    weight=100
-    type=operates
-  ];
-  12313 -> 12312 [
-    weight=1
-    type=owns
-  ];
-  12314 -> 6189 [
-    weight=33.33
-    type=owns
-  ];
-  12315 -> 591 [
-    weight=100
-    type=owns
-  ];
-  12315 -> 12309 [
-    weight=100
-    type=owns
-  ];
-  12317 -> 590 [
-    weight=1
-    type=owns
-  ];
-  12317 -> 594 [
-    weight=1
-    type=owns
-  ];
-  12321 -> 506 [
-    weight=5.43
-    type=owns
-  ];
-  12321 -> 515 [
-    weight=58
-    type=owns
-  ];
-  12321 -> 1916 [
-    weight=100
-    type=owns
-  ];
-  12321 -> 5249 [
     weight=10
     type=owns
   ];
-  12321 -> 6017 [
+  12304 -> 5344 [
+    weight=10
+    type=owns
+  ];
+  12305 -> 1318 [
+    weight=90
+    type=owns
+  ];
+  12305 -> 5344 [
+    weight=90
+    type=owns
+  ];
+  12310 -> 4745 [
     weight=100
     type=owns
   ];
-  12321 -> 6466 [
+  12310 -> 8393 [
+    weight=1.05
+    type=owns
+  ];
+  12310 -> 8609 [
+    weight=3.75
+    type=owns
+  ];
+  12310 -> 12120 [
     weight=100
     type=owns
   ];
-  12321 -> 7026 [
-    weight=30.2
-    type=owns
-  ];
-  12321 -> 7027 [
-    weight=26.5
-    type=owns
-  ];
-  12321 -> 7383 [
-    weight=71.2
-    type=owns
-  ];
-  12321 -> 7384 [
-    weight=71.2
-    type=owns
-  ];
-  12321 -> 7433 [
-    weight=30.17
-    type=owns
-  ];
-  12321 -> 7434 [
-    weight=30.17
-    type=owns
-  ];
-  12321 -> 7438 [
-    weight=26.5
-    type=owns
-  ];
-  12321 -> 8359 [
-    weight=1.4
-    type=owns
-  ];
-  12321 -> 8360 [
-    weight=54
-    type=owns
-  ];
-  12321 -> 8713 [
+  12310 -> 14981 [
     weight=100
     type=owns
   ];
-  12321 -> 8714 [
-    weight=75
-    type=owns
-  ];
-  12321 -> 12045 [
-    weight=40
-    type=owns
-  ];
-  12321 -> 12315 [
-    weight=3.41
-    type=owns
-  ];
-  12321 -> 14997 [
-    weight=30.2
-    type=owns
-  ];
-  12321 -> 14998 [
-    weight=26.58
-    type=owns
-  ];
-  12321 -> 313 [
-    weight=100
-    type=operates
-  ];
-  12321 -> 354 [
-    weight=100
-    type=operates
-  ];
-  12321 -> 2194 [
-    weight=100
-    type=operates
-  ];
-  12321 -> 4091 [
-    weight=100
-    type=operates
-  ];
-  12321 -> 6558 [
-    weight=100
-    type=operates
-  ];
-  12321 -> 6993 [
-    weight=100
-    type=operates
-  ];
-  12321 -> 10295 [
-    weight=100
-    type=operates
-  ];
-  12321 -> 11070 [
-    weight=100
-    type=operates
-  ];
-  12321 -> 11071 [
-    weight=100
-    type=operates
-  ];
-  12321 -> 12049 [
-    weight=100
-    type=operates
-  ];
-  12321 -> 14752 [
-    weight=100
-    type=operates
-  ];
-  12322 -> 12321 [
+  12310 -> 2573 [
     weight=1
     type=owns
   ];
-  12327 -> 7930 [
+  12310 -> 1717 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 3175 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 4744 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 6553 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 8025 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 8974 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 9773 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 10681 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 11800 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 11901 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 12307 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 12308 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 12326 [
+    weight=100
+    type=operates
+  ];
+  12310 -> 14788 [
+    weight=100
+    type=operates
+  ];
+  12313 -> 12314 [
+    weight=100
+    type=owns
+  ];
+  12313 -> 12312 [
+    weight=100
+    type=operates
+  ];
+  12313 -> 14789 [
+    weight=100
+    type=operates
+  ];
+  12314 -> 12313 [
+    weight=1
+    type=owns
+  ];
+  12315 -> 6189 [
+    weight=33.33
+    type=owns
+  ];
+  12316 -> 591 [
+    weight=100
+    type=owns
+  ];
+  12316 -> 12310 [
+    weight=100
+    type=owns
+  ];
+  12318 -> 590 [
+    weight=1
+    type=owns
+  ];
+  12318 -> 594 [
+    weight=1
+    type=owns
+  ];
+  12322 -> 506 [
+    weight=5.43
+    type=owns
+  ];
+  12322 -> 515 [
+    weight=58
+    type=owns
+  ];
+  12322 -> 1916 [
+    weight=100
+    type=owns
+  ];
+  12322 -> 5249 [
+    weight=10
+    type=owns
+  ];
+  12322 -> 6017 [
+    weight=100
+    type=owns
+  ];
+  12322 -> 6466 [
+    weight=100
+    type=owns
+  ];
+  12322 -> 7026 [
+    weight=30.2
+    type=owns
+  ];
+  12322 -> 7027 [
+    weight=26.5
+    type=owns
+  ];
+  12322 -> 7383 [
+    weight=71.2
+    type=owns
+  ];
+  12322 -> 7384 [
+    weight=71.2
+    type=owns
+  ];
+  12322 -> 7433 [
+    weight=30.17
+    type=owns
+  ];
+  12322 -> 7434 [
+    weight=30.17
+    type=owns
+  ];
+  12322 -> 7438 [
+    weight=26.5
+    type=owns
+  ];
+  12322 -> 8359 [
+    weight=1.4
+    type=owns
+  ];
+  12322 -> 8360 [
+    weight=54
+    type=owns
+  ];
+  12322 -> 8713 [
+    weight=100
+    type=owns
+  ];
+  12322 -> 8714 [
+    weight=75
+    type=owns
+  ];
+  12322 -> 12045 [
+    weight=40
+    type=owns
+  ];
+  12322 -> 12316 [
+    weight=3.41
+    type=owns
+  ];
+  12322 -> 14997 [
+    weight=30.2
+    type=owns
+  ];
+  12322 -> 14998 [
+    weight=26.58
+    type=owns
+  ];
+  12322 -> 313 [
+    weight=100
+    type=operates
+  ];
+  12322 -> 354 [
+    weight=100
+    type=operates
+  ];
+  12322 -> 2194 [
+    weight=100
+    type=operates
+  ];
+  12322 -> 4091 [
+    weight=100
+    type=operates
+  ];
+  12322 -> 6558 [
+    weight=100
+    type=operates
+  ];
+  12322 -> 6993 [
+    weight=100
+    type=operates
+  ];
+  12322 -> 10295 [
+    weight=100
+    type=operates
+  ];
+  12322 -> 11070 [
+    weight=100
+    type=operates
+  ];
+  12322 -> 11071 [
+    weight=100
+    type=operates
+  ];
+  12322 -> 12049 [
+    weight=100
+    type=operates
+  ];
+  12322 -> 14752 [
+    weight=100
+    type=operates
+  ];
+  12323 -> 12322 [
+    weight=1
+    type=owns
+  ];
+  12328 -> 7930 [
     weight=3.82
     type=owns
   ];
-  12327 -> 12326 [
+  12328 -> 12327 [
     weight=42.4
     type=owns
   ];
-  12328 -> 12329 [
+  12329 -> 12330 [
     weight=100
     type=operates
   ];
-  12328 -> 14792 [
+  12329 -> 14792 [
     weight=100
     type=operates
   ];
-  12328 -> 14793 [
+  12329 -> 14793 [
     weight=100
     type=operates
   ];
-  12330 -> 1960 [
+  12331 -> 1960 [
     weight=25
     type=owns
   ];
-  12331 -> 1960 [
+  12332 -> 1960 [
     weight=3
     type=owns
   ];
-  12333 -> 14800 [
+  12334 -> 14800 [
     weight=100
     type=operates
   ];
-  12334 -> 14801 [
+  12335 -> 14801 [
     weight=100
     type=operates
-  ];
-  12335 -> 1516 [
-    weight=50
-    type=owns
-  ];
-  12335 -> 5067 [
-    weight=25
-    type=owns
-  ];
-  12335 -> 5538 [
-    weight=20
-    type=owns
   ];
   12336 -> 1516 [
-    weight=11.1
+    weight=50
     type=owns
   ];
   12336 -> 5067 [
     weight=25
     type=owns
   ];
+  12336 -> 5538 [
+    weight=20
+    type=owns
+  ];
   12337 -> 1516 [
-    weight=27.8
+    weight=11.1
     type=owns
   ];
   12337 -> 5067 [
     weight=25
     type=owns
   ];
-  12337 -> 5538 [
-    weight=20
+  12338 -> 1516 [
+    weight=27.8
     type=owns
   ];
-  12339 -> 7837 [
+  12338 -> 5067 [
     weight=25
     type=owns
   ];
-  12340 -> 12851 [
+  12338 -> 5538 [
+    weight=20
+    type=owns
+  ];
+  12340 -> 7837 [
+    weight=25
+    type=owns
+  ];
+  12341 -> 12851 [
     weight=100
     type=operates
   ];
-  12341 -> 12342 [
+  12342 -> 12343 [
     weight=100
     type=operates
   ];
-  12343 -> 5202 [
+  12344 -> 5202 [
     weight=9.8
     type=owns
   ];
-  12344 -> 14985 [
+  12345 -> 14985 [
     weight=1
     type=owns
   ];
-  12345 -> 8824 [
+  12346 -> 8824 [
     weight=4.23955534
     type=owns
   ];
-  12345 -> 8827 [
+  12346 -> 8827 [
     weight=2.93
     type=owns
   ];
-  12345 -> 2343 [
+  12346 -> 2343 [
     weight=100
     type=operates
   ];
-  12345 -> 13038 [
+  12346 -> 13038 [
     weight=100
     type=operates
   ];
-  12346 -> 7908 [
+  12347 -> 7908 [
     weight=50
     type=owns
   ];
-  12348 -> 5357 [
+  12349 -> 5357 [
     weight=100
     type=owns
   ];
-  12350 -> 215 [
+  12351 -> 215 [
     weight=43
     type=owns
   ];
-  12351 -> 6465 [
+  12352 -> 6465 [
     weight=5.88
     type=owns
   ];
-  12351 -> 6874 [
+  12352 -> 6874 [
     weight=1
     type=owns
   ];
-  12352 -> 12351 [
+  12353 -> 12352 [
     weight=50
     type=owns
   ];
-  12353 -> 7126 [
+  12354 -> 7126 [
     weight=40
     type=owns
   ];
-  12354 -> 3767 [
+  12355 -> 3767 [
     weight=50
     type=owns
   ];
-  12355 -> 5123 [
+  12356 -> 5123 [
     weight=1.493
     type=owns
   ];
-  12356 -> 7962 [
+  12357 -> 7962 [
     weight=100
-    type=owns
-  ];
-  12357 -> 8396 [
-    weight=1
     type=owns
   ];
   12358 -> 2017 [
@@ -212043,7 +212035,7 @@ digraph {
     weight=58
     type=owns
   ];
-  12358 -> 12357 [
+  12358 -> 12117 [
     weight=58
     type=owns
   ];
@@ -212323,7 +212315,7 @@ digraph {
     weight=1.83
     type=owns
   ];
-  12444 -> 12257 [
+  12444 -> 12258 [
     weight=1
     type=owns
   ];
@@ -212371,11 +212363,11 @@ digraph {
     weight=100
     type=operates
   ];
-  12462 -> 12205 [
+  12462 -> 12206 [
     weight=92.5
     type=owns
   ];
-  12462 -> 12206 [
+  12462 -> 12207 [
     weight=92.2
     type=owns
   ];
@@ -212395,11 +212387,11 @@ digraph {
     weight=100
     type=owns
   ];
-  12464 -> 12181 [
+  12464 -> 12182 [
     weight=100
     type=owns
   ];
-  12464 -> 12182 [
+  12464 -> 12183 [
     weight=100
     type=owns
   ];
@@ -213131,7 +213123,7 @@ digraph {
     weight=100
     type=operates
   ];
-  14964 -> 12230 [
+  14964 -> 12231 [
     weight=100
     type=operates
   ];
@@ -213139,7 +213131,7 @@ digraph {
     weight=100
     type=operates
   ];
-  14967 -> 12128 [
+  14967 -> 12129 [
     weight=50
     type=owns
   ];
@@ -213179,7 +213171,7 @@ digraph {
     weight=100
     type=operates
   ];
-  14981 -> 12325 [
+  14981 -> 12326 [
     weight=100
     type=operates
   ];
@@ -213211,7 +213203,7 @@ digraph {
     weight=100
     type=operates
   ];
-  14983 -> 12233 [
+  14983 -> 12234 [
     weight=100
     type=operates
   ];
@@ -213451,8 +213443,20 @@ digraph {
     weight=20
     type=owns
   ];
+  14997 -> 1484 [
+    weight=100
+    type=owns
+  ];
   14997 -> 4827 [
     weight=24.8
+    type=owns
+  ];
+  14997 -> 5923 [
+    weight=100
+    type=owns
+  ];
+  14997 -> 5924 [
+    weight=100
     type=owns
   ];
   14997 -> 8019 [
@@ -213563,7 +213567,7 @@ digraph {
     weight=100
     type=operates
   ];
-  14997 -> 12165 [
+  14997 -> 12166 [
     weight=100
     type=operates
   ];
@@ -213655,7 +213659,7 @@ digraph {
     weight=20
     type=owns
   ];
-  15003 -> 12320 [
+  15003 -> 12321 [
     weight=100
     type=operates
   ];
@@ -213711,7 +213715,7 @@ digraph {
     weight=20
     type=owns
   ];
-  15007 -> 12333 [
+  15007 -> 12334 [
     weight=20
     type=owns
   ];

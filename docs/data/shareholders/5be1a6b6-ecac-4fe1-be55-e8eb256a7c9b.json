@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Altötting",
   "pseudoCompany": false,
   "street": "Postfach 11 62",
@@ -9,43 +9,12 @@
   "controlDate": "2022-04-19T11:38:24.231Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "84495",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Altoettinger Liebfrauenbote",
-        "squuid": "5be1a6b1-8f51-4e94-9f84-68a8f359091a"
-      },
-      "squuid": "5be1a6b9-dae9-4985-8b39-07b457ee5825",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.liebfrauenbote.de",
-        "squuid": "5be1a6b1-d306-4dec-b0f4-4f87fc51f150"
-      },
-      "squuid": "5be1a6b9-c9f3-44c8-a845-2bf94a0cbab6",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Diözese Passau K.d.ö.R.",
-        "squuid": "5be1a6b6-77cd-4f1e-a8b9-73fda58c3ae4"
-      },
-      "squuid": "5ea1b299-b31b-4219-9b97-c80c392a9db0",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
