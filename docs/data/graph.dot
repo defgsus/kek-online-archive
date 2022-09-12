@@ -777,7 +777,7 @@ digraph {
     num_medias=4
     num_medias_weighted=4.0000
     name="5be1a6b6-ca2e-49f0-bf0e-f0ca2f445514"
-    in_degree=6
+    in_degree=4
     out_degree=5
   ];
   78 [
@@ -16914,11 +16914,11 @@ digraph {
     type=shareholder
     state=active
     label="Bölkow, Ludwig"
-    num_medias=4
-    num_medias_weighted=0.0118
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-c23a-4eac-bd46-13ef938626c9"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   1692 [
     type=shareholder
@@ -32354,8 +32354,8 @@ digraph {
     type=shareholder
     state=active
     label="Evangelisch-Lutherische Landeskirche Sachsen"
-    num_medias=21
-    num_medias_weighted=2.1777
+    num_medias=17
+    num_medias_weighted=2.1306
     name="5be1a6b6-574b-45ec-a4ea-bbb3b19b3bc6"
     in_degree=0
     out_degree=1
@@ -32874,11 +32874,11 @@ digraph {
     type=shareholder
     state=active
     label="Evangelisches Medienhaus GmbH"
-    num_medias=21
-    num_medias_weighted=2.1777
+    num_medias=17
+    num_medias_weighted=2.1306
     name="5be1a6b6-8029-4189-9656-8dc645debc9e"
     in_degree=1
-    out_degree=5
+    out_degree=4
   ];
   3288 [
     type=shareholder
@@ -159375,10 +159375,6 @@ digraph {
     weight=1.12
     type=owns
   ];
-  1691 -> 77 [
-    weight=1
-    type=owns
-  ];
   1692 -> 11775 [
     weight=12.2
     type=owns
@@ -166589,10 +166585,6 @@ digraph {
   ];
   3286 -> 12346 [
     weight=6.6
-    type=owns
-  ];
-  3287 -> 77 [
-    weight=1.178
     type=owns
   ];
   3287 -> 3828 [
