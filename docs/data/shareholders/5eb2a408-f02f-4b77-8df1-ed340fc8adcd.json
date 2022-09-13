@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Ammersee Kurier Verlags-GmbH & Co KG",
-        "squuid": "5be1a6b6-604b-4586-9eae-badb809a1829"
-      },
-      "squuid": "5eb2a46e-6a02-4777-b1a7-7aac6ca88d8f",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "pseudoCompany": false,
   "street": "Mühlstr.",
   "name": "Ammersee Kurier Verwaltungs-GmbH",
@@ -22,22 +9,11 @@
   "streetNumber": "4",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "86911",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Ammersee Kurier Verlags-GmbH & Co KG",
-        "squuid": "5be1a6b6-604b-4586-9eae-badb809a1829"
-      },
-      "squuid": "5eb2a52f-b090-42e7-906a-d5475b4055e9",
-      "state": "active"
-    }
-  ]
+  "zipcode": "86911"
 }

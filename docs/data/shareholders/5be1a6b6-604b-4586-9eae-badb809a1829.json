@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Ammersee Kurier Verwaltungs-GmbH",
-        "squuid": "5eb2a408-f02f-4b77-8df1-ed340fc8adcd"
-      },
-      "squuid": "5eb2a52f-b090-42e7-906a-d5475b4055e9",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Dießen a. Ammersee",
   "pseudoCompany": false,
   "street": "Fischerei 18",
@@ -22,54 +10,12 @@
   "controlDate": "2022-04-19T11:43:32.662Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "86911",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Ammersee-Kurier",
-        "squuid": "5be1a6b1-36dc-4470-b421-56461866325d"
-      },
-      "squuid": "5be1a6b9-fb99-4878-a6ef-59e610ab6f5e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.ammerseekurier.de",
-        "squuid": "5be1a6b1-3af7-4074-8425-8a26f763c9d7"
-      },
-      "squuid": "5be1a6b9-8cd1-4f4a-a0fa-54f05d1632d7",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Presse-Druck- und Verlags-GmbH",
-        "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
-      },
-      "squuid": "5eb2a450-1406-4ce6-828a-03bc5d992b59",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Ammersee Kurier Verwaltungs-GmbH",
-        "squuid": "5eb2a408-f02f-4b77-8df1-ed340fc8adcd"
-      },
-      "squuid": "5eb2a46e-6a02-4777-b1a7-7aac6ca88d8f",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

@@ -4032,23 +4032,23 @@ digraph {
   ];
   403 [
     type=shareholder
-    state=active
+    state=archived
     label="Ammersee Kurier Verlags-GmbH & Co KG"
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-604b-4586-9eae-badb809a1829"
-    in_degree=2
-    out_degree=3
+    in_degree=0
+    out_degree=0
   ];
   404 [
     type=shareholder
-    state=active
+    state=archived
     label="Ammersee Kurier Verwaltungs-GmbH"
-    num_medias=2
+    num_medias=0
     num_medias_weighted=0.0000
     name="5eb2a408-f02f-4b77-8df1-ed340fc8adcd"
-    in_degree=1
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   405 [
     type=print
@@ -23544,7 +23544,7 @@ digraph {
     type=shareholder
     state=active
     label="Die Neue Welle Beteiligungs- und Verwaltungsgesellschaft mbH"
-    num_medias=264
+    num_medias=261
     num_medias_weighted=0.0000
     name="5be1a6b6-91ce-43a5-be72-79eee118b011"
     in_degree=1
@@ -23564,11 +23564,11 @@ digraph {
     type=shareholder
     state=active
     label="Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG"
-    num_medias=264
-    num_medias_weighted=34.1011
+    num_medias=261
+    num_medias_weighted=32.6011
     name="5efef438-7c82-454e-beb9-493d1f5ec407"
     in_degree=3
-    out_degree=39
+    out_degree=38
   ];
   2357 [
     type=shareholder
@@ -35581,16 +35581,6 @@ digraph {
     out_degree=0
   ];
   3558 [
-    type=print
-    state=active
-    label="Foto Magazin"
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="5be1a6b1-9b72-4db8-bf88-a3edb81730ad"
-    in_degree=1
-    out_degree=0
-  ];
-  3559 [
     type=shareholder
     state=archived
     label="Fotocommunity GmbH"
@@ -35600,7 +35590,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  3560 [
+  3559 [
     type=print
     state=active
     label="fotoforum Fotografie & Präsentation"
@@ -35610,7 +35600,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  3561 [
+  3560 [
     type=shareholder
     state=active
     label="fotoforum-Verlag e. K."
@@ -35619,6 +35609,16 @@ digraph {
     name="5be1a6b6-1e47-4e39-bf33-72e7b353af3c"
     in_degree=1
     out_degree=2
+  ];
+  3561 [
+    type=print
+    state=active
+    label=fotoMagazin
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="5be1a6b1-9b72-4db8-bf88-a3edb81730ad"
+    in_degree=1
+    out_degree=0
   ];
   3562 [
     type=print
@@ -49344,8 +49344,8 @@ digraph {
     type=shareholder
     state=active
     label="Holland, Alexandra"
-    num_medias=275
-    num_medias_weighted=29.4274
+    num_medias=274
+    num_medias_weighted=28.9274
     name="5be1a6b6-e4a8-43b9-9b8b-d928c7d64d0e"
     in_degree=0
     out_degree=1
@@ -50684,7 +50684,7 @@ digraph {
     type=shareholder
     state=active
     label="Härtl, Barbara Theresia"
-    num_medias=278
+    num_medias=275
     num_medias_weighted=0.0000
     name="5efb01b2-c85e-48a8-90cb-224ae737729f"
     in_degree=0
@@ -71797,7 +71797,7 @@ digraph {
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-85cb-4649-aafe-e723af670f96"
-    in_degree=2
+    in_degree=1
     out_degree=3
   ];
   7180 [
@@ -74044,7 +74044,7 @@ digraph {
     type=shareholder
     state=active
     label="Müller Medien GmbH & Co. KG"
-    num_medias=264
+    num_medias=261
     num_medias_weighted=0.0000
     name="5be1a6b6-ded2-4b9a-bfc3-f385e6d29d5c"
     in_degree=5
@@ -74054,7 +74054,7 @@ digraph {
     type=shareholder
     state=active
     label="Müller Medien Verwaltungs-GmbH"
-    num_medias=264
+    num_medias=261
     num_medias_weighted=0.0000
     name="5eff1bdd-2f05-49d1-8bdc-6a31d8a7f979"
     in_degree=3
@@ -78147,7 +78147,7 @@ digraph {
     num_medias=1
     num_medias_weighted=1.0000
     name="62e77c1e-8d4c-4f03-9965-9f4964d8faec"
-    in_degree=5
+    in_degree=6
     out_degree=1
   ];
   7815 [
@@ -79665,7 +79665,7 @@ digraph {
     state=active
     label="Oschmann, Constanze"
     num_medias=288
-    num_medias_weighted=5.4163
+    num_medias_weighted=6.1663
     name="5be1a6b6-649e-43f5-ab9a-1ced442fd834"
     in_degree=0
     out_degree=18
@@ -79674,7 +79674,7 @@ digraph {
     type=shareholder
     state=active
     label="Oschmann, Gunther"
-    num_medias=278
+    num_medias=275
     num_medias_weighted=0.0982
     name="5be1a6b6-5e9d-48fa-b088-265055082ac9"
     in_degree=0
@@ -79685,7 +79685,7 @@ digraph {
     state=active
     label="Oschmann, Michael"
     num_medias=289
-    num_medias_weighted=6.6601
+    num_medias_weighted=7.4101
     name="5be1a6b6-2941-49b8-ad22-038b5aa868af"
     in_degree=0
     out_degree=18
@@ -83534,11 +83534,11 @@ digraph {
     type=shareholder
     state=active
     label="Presse-Druck- und Verlags-GmbH"
-    num_medias=275
-    num_medias_weighted=58.8549
+    num_medias=274
+    num_medias_weighted=57.8549
     name="5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
     in_degree=2
-    out_degree=36
+    out_degree=35
   ];
   8354 [
     type=shareholder
@@ -97244,8 +97244,8 @@ digraph {
     type=shareholder
     state=active
     label="Scherer, Ellinor"
-    num_medias=275
-    num_medias_weighted=29.4274
+    num_medias=274
+    num_medias_weighted=28.9274
     name="5be1a6b6-7e99-44bf-a402-968de38d5ca6"
     in_degree=0
     out_degree=1
@@ -104824,7 +104824,7 @@ digraph {
     type=shareholder
     state=active
     label="SR Beteiligungs GmbH"
-    num_medias=278
+    num_medias=275
     num_medias_weighted=0.0000
     name="5efb014d-25a1-4255-8bb8-6138f8307e74"
     in_degree=2
@@ -104834,7 +104834,7 @@ digraph {
     type=shareholder
     state=active
     label="SR Broadcast Management GmbH & Co. KG"
-    num_medias=264
+    num_medias=261
     num_medias_weighted=0.0000
     name="5eeb6bb9-7b98-4b92-9235-53f76ae93224"
     in_degree=4
@@ -104854,7 +104854,7 @@ digraph {
     type=shareholder
     state=active
     label="SR Management GmbH & Co. KG"
-    num_medias=278
+    num_medias=275
     num_medias_weighted=0.0000
     name="5f905285-3715-460e-affd-dc041afaea8a"
     in_degree=4
@@ -109228,7 +109228,7 @@ digraph {
     num_medias_weighted=31.0357
     name="5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
     in_degree=6
-    out_degree=47
+    out_degree=48
   ];
   10923 [
     type=shareholder
@@ -111902,22 +111902,22 @@ digraph {
   ];
   11190 [
     type=print
-    state=active
-    label="Tennis Magazin"
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="5be1a6b1-5146-48d4-914d-1607162d09e6"
-    in_degree=1
-    out_degree=0
-  ];
-  11191 [
-    type=print
     state=archived
     label="tennis Sport im TVM"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-b29a-4f77-b601-005a066f127b"
     in_degree=0
+    out_degree=0
+  ];
+  11191 [
+    type=print
+    state=active
+    label=tennisMagazin
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="5be1a6b1-5146-48d4-914d-1607162d09e6"
+    in_degree=1
     out_degree=0
   ];
   11192 [
@@ -126492,12 +126492,12 @@ digraph {
   ];
   12649 [
     type=online
-    state=active
+    state=archived
     label="www.ammerseekurier.de"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3af7-4074-8425-8a26f763c9d7"
-    in_degree=2
+    in_degree=0
     out_degree=0
   ];
   12650 [
@@ -152251,22 +152251,6 @@ digraph {
     weight=100
     type=owns
   ];
-  403 -> 404 [
-    weight=100
-    type=owns
-  ];
-  403 -> 405 [
-    weight=100
-    type=operates
-  ];
-  403 -> 12649 [
-    weight=100
-    type=operates
-  ];
-  404 -> 403 [
-    weight=1
-    type=owns
-  ];
   406 -> 9283 [
     weight=6.53
     type=owns
@@ -158099,7 +158083,7 @@ digraph {
     weight=1
     type=owns
   ];
-  1486 -> 3561 [
+  1486 -> 3560 [
     weight=100
     type=owns
   ];
@@ -162261,10 +162245,6 @@ digraph {
   ];
   2356 -> 3827 [
     weight=100
-    type=owns
-  ];
-  2356 -> 7179 [
-    weight=50
     type=owns
   ];
   2356 -> 7293 [
@@ -167719,11 +167699,11 @@ digraph {
     weight=100
     type=operates
   ];
-  3561 -> 3560 [
+  3560 -> 3559 [
     weight=100
     type=operates
   ];
-  3561 -> 13237 [
+  3560 -> 13237 [
     weight=100
     type=operates
   ];
@@ -177107,10 +177087,6 @@ digraph {
     weight=100
     type=operates
   ];
-  5325 -> 3558 [
-    weight=100
-    type=operates
-  ];
   5325 -> 5467 [
     weight=100
     type=operates
@@ -177131,15 +177107,19 @@ digraph {
     weight=100
     type=operates
   ];
-  5325 -> 11190 [
-    weight=100
-    type=operates
-  ];
   5325 -> 3508 [
     weight=100
     type=operates
   ];
+  5325 -> 3561 [
+    weight=100
+    type=operates
+  ];
   5325 -> 8207 [
+    weight=100
+    type=operates
+  ];
+  5325 -> 11191 [
     weight=100
     type=operates
   ];
@@ -192039,10 +192019,6 @@ digraph {
     weight=50
     type=owns
   ];
-  8353 -> 403 [
-    weight=100
-    type=owns
-  ];
   8353 -> 6875 [
     weight=10.28
     type=owns
@@ -192092,6 +192068,10 @@ digraph {
     type=operates
   ];
   8353 -> 321 [
+    weight=100
+    type=operates
+  ];
+  8353 -> 405 [
     weight=100
     type=operates
   ];
@@ -192164,10 +192144,6 @@ digraph {
     type=operates
   ];
   8353 -> 12636 [
-    weight=100
-    type=operates
-  ];
-  8353 -> 12649 [
     weight=100
     type=operates
   ];
@@ -204585,6 +204561,10 @@ digraph {
   ];
   10922 -> 7429 [
     weight=16
+    type=owns
+  ];
+  10922 -> 7814 [
+    weight=5
     type=owns
   ];
   10922 -> 8404 [
