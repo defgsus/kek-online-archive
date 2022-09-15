@@ -4914,17 +4914,17 @@ digraph {
     type=shareholder
     state=active
     label="Antenne NRW GmbH & Co. KG"
-    num_medias=2
+    num_medias=3
     num_medias_weighted=2.0000
     name="618d061b-b42a-42a2-8bdb-b956f64723f6"
     in_degree=2
-    out_degree=3
+    out_degree=4
   ];
   492 [
     type=shareholder
     state=active
     label="Antenne NRW Verwaltungs GmbH"
-    num_medias=2
+    num_medias=3
     num_medias_weighted=0.0000
     name="618d063b-33cb-447d-99b9-988e5e617d97"
     in_degree=1
@@ -4997,7 +4997,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-1bc3-4742-94de-bdc3c23eea98"
-    in_degree=6
+    in_degree=5
     out_degree=3
   ];
   500 [
@@ -58844,11 +58844,11 @@ digraph {
     type=shareholder
     state=active
     label="Kraus, Karl Martin"
-    num_medias=2
+    num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-eee6-4bc6-8a8c-7cbe0607efe5"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   5885 [
     type=shareholder
@@ -69173,7 +69173,7 @@ digraph {
   6917 [
     type=shareholder
     state=active
-    label="Medienpool GmbH - Kozeption - Redaktion - Produktion"
+    label="Medienpool GmbH - Konzeption - Redaktion - Produktion"
     num_medias=29
     num_medias_weighted=0.7499
     name="608a67e1-af2d-49fd-a3fc-419230e5935a"
@@ -78147,7 +78147,7 @@ digraph {
     num_medias=1
     num_medias_weighted=1.0000
     name="62e77c1e-8d4c-4f03-9965-9f4964d8faec"
-    in_degree=6
+    in_degree=7
     out_degree=1
   ];
   7815 [
@@ -120863,22 +120863,22 @@ digraph {
   12086 [
     type=shareholder
     state=active
-    label="Wandel Solar Asset Geschäftsführungs-GmbH"
-    num_medias=18
-    num_medias_weighted=0.0000
-    name="5f9a91f5-0e1f-4b89-bbf9-a7ab39390a5d"
-    in_degree=1
-    out_degree=1
-  ];
-  12087 [
-    type=shareholder
-    state=active
     label="Wandel Solar Asset GmbH & Co. KG"
     num_medias=18
     num_medias_weighted=0.0383
     name="5ef31557-abdd-45d9-bdc6-8796455477ba"
     in_degree=2
     out_degree=2
+  ];
+  12087 [
+    type=shareholder
+    state=active
+    label="Wandel Solar Projekt GmbH"
+    num_medias=18
+    num_medias_weighted=0.0000
+    name="5f9a91f5-0e1f-4b89-bbf9-a7ab39390a5d"
+    in_degree=1
+    out_degree=1
   ];
   12088 [
     type=shareholder
@@ -152555,6 +152555,10 @@ digraph {
     weight=100
     type=owns
   ];
+  491 -> 7814 [
+    weight=24.5
+    type=owns
+  ];
   491 -> 490 [
     weight=100
     type=operates
@@ -179569,10 +179573,6 @@ digraph {
   ];
   5883 -> 9933 [
     weight=1.37
-    type=owns
-  ];
-  5884 -> 499 [
-    weight=1
     type=owns
   ];
   5886 -> 4220 [
@@ -210479,16 +210479,16 @@ digraph {
     weight=100
     type=operates
   ];
-  12086 -> 12087 [
+  12086 -> 8858 [
+    weight=5.26
+    type=owns
+  ];
+  12086 -> 8860 [
+    weight=5.26
+    type=owns
+  ];
+  12087 -> 12086 [
     weight=1
-    type=owns
-  ];
-  12087 -> 8858 [
-    weight=5.26
-    type=owns
-  ];
-  12087 -> 8860 [
-    weight=5.26
     type=owns
   ];
   12088 -> 12086 [
