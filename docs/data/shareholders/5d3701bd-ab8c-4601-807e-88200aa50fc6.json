@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "held": {
-        "name": "VICUS Media GmbH",
-        "squuid": "5d36ff71-2594-41c6-9ee1-cd217be0ecc8"
-      },
-      "squuid": "5d3701f2-b844-41ce-a341-1f52edd581c9",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Grünwald",
   "pseudoCompany": false,
   "street": "Wilhelm-Keim-Str.",
@@ -22,22 +10,11 @@
   "streetNumber": "3",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "82031",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Q&A Unternehmensberatung & Management GmbH ",
-        "squuid": "5d3702b1-5d0a-431a-a146-676aef9e1d1a"
-      },
-      "squuid": "5d3702d5-4a4e-4c8c-abdc-9c3f8b3dc800",
-      "state": "active"
-    }
-  ]
+  "zipcode": "82031"
 }

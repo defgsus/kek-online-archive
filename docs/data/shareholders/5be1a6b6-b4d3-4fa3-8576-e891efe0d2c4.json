@@ -1,16 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 30.0,
-      "held": {
-        "name": "Medienhaus Aachen GmbH",
-        "squuid": "5be1a6b6-0200-4a40-921b-ce08c00a32ac"
-      },
-      "squuid": "5be1a6b7-1527-4255-94b2-442762e66f5b",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Aachen",
   "pseudoCompany": false,
@@ -21,21 +9,10 @@
   "controlDate": "2022-08-30T12:09:18.970Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
-      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LfM",
-      "type": "organization",
-      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
   "zipcode": "52062",
@@ -43,12 +20,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 30.0,
       "holder": {
         "name": "Rheinische Post Mediengruppe GmbH",
         "squuid": "5be1a6b6-25ea-44da-8834-b9ab2a407a4d"
       },
       "squuid": "5be1a6b7-82bf-4d18-a330-77317d8da02d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "Mediahuis Aachen Holdco GmbH",
+        "squuid": "61dda7ba-fef1-44d7-87e4-34d704d3afcb"
+      },
+      "squuid": "630dfdec-9616-42be-a8a6-ba7ede41f739",
       "state": "active"
     }
   ]

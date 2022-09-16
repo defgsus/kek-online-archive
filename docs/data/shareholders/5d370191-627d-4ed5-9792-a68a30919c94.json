@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 75.0,
-      "held": {
-        "name": "VICUS Media GmbH",
-        "squuid": "5d36ff71-2594-41c6-9ee1-cd217be0ecc8"
-      },
-      "squuid": "5d3701dd-12d4-42f4-bdf0-47e7a88ce620",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Leipzig",
   "pseudoCompany": false,
   "street": "Thomaskirchhof ",
@@ -22,22 +10,11 @@
   "streetNumber": "20",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "04109",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Klemmer, Michael",
-        "squuid": "5d370662-7b72-41dd-8fe9-e96a1a947103"
-      },
-      "squuid": "5d37067b-a251-4a01-8e90-b2651ca07a52",
-      "state": "active"
-    }
-  ]
+  "zipcode": "04109"
 }

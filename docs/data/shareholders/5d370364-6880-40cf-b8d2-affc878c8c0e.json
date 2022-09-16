@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Q&A Unternehmensberatung & Management GmbH ",
-        "squuid": "5d3702b1-5d0a-431a-a146-676aef9e1d1a"
-      },
-      "squuid": "5d370387-8a59-4dd4-9f02-ab5837b1c402",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Papenhuder Straße ",
@@ -22,22 +10,11 @@
   "streetNumber": "13",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "22087",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Küster Simic, André",
-        "squuid": "5d370407-75cf-4e7b-9128-1fd7e3b58f54"
-      },
-      "squuid": "5d37042b-4d1b-4c3c-a1b5-5a9a2a8cf3dd",
-      "state": "active"
-    }
-  ]
+  "zipcode": "22087"
 }

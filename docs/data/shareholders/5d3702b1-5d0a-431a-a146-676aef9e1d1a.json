@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "BK Ventures GmbH",
-        "squuid": "5d3701bd-ab8c-4601-807e-88200aa50fc6"
-      },
-      "squuid": "5d3702d5-4a4e-4c8c-abdc-9c3f8b3dc800",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Papenhuder Straße ",
@@ -22,22 +10,11 @@
   "streetNumber": "13",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "22087",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Q&A Unternehmensberatungs GmbH Corporate Finance",
-        "squuid": "5d370364-6880-40cf-b8d2-affc878c8c0e"
-      },
-      "squuid": "5d370387-8a59-4dd4-9f02-ab5837b1c402",
-      "state": "active"
-    }
-  ]
+  "zipcode": "22087"
 }
