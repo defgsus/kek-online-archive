@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "Autoplenum GmbH",
-        "squuid": "5be1a6b6-763a-4c90-be3e-2b87cdf143bd"
-      },
-      "squuid": "5c46eca3-add2-448b-a27e-514492acfa0c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Simmelsdorf",
   "pseudoCompany": false,
   "street": "Bahnhofstr.",
@@ -22,23 +10,12 @@
   "streetNumber": "5",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "91245",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Hatt, Johannis",
-        "squuid": "5be1a6b6-4bdb-4263-8350-c2c5a89f6b33"
-      },
-      "squuid": "5be1a6b8-b3b9-4125-849a-e4ad95f63b50",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

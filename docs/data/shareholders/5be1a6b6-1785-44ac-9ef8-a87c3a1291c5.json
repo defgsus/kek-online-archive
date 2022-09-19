@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "Autoplenum GmbH",
-        "squuid": "5be1a6b6-763a-4c90-be3e-2b87cdf143bd"
-      },
-      "squuid": "5c46ecb7-ba36-4133-bc4a-94f449778dc7",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Gräfelfing",
   "pseudoCompany": false,
   "street": "Grosostr. 16",
@@ -21,23 +9,12 @@
   "controlDate": "2022-07-04T13:38:21.751Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "82166",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Jopen, Björn",
-        "squuid": "5be1a6b6-c94d-4d62-83c3-3765d8d9e397"
-      },
-      "squuid": "5be1a6b8-d4b2-4557-b033-a2939dde8a98",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
