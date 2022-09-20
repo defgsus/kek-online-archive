@@ -1,5 +1,7 @@
 {
+  "rfRepresentative": "Erwin Linnenbach, Ulrich Müller",
   "state": "active",
+  "rfShoppingChannel": false,
   "rfStartDate": "02.05.2022",
   "squuid": "6319bdb0-5d20-465d-aa00-83fae3ad55c8",
   "organization": {
@@ -8,14 +10,15 @@
     "type": "organization",
     "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
   },
+  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
       "holder": {
-        "name": "teutocast GmbH",
-        "squuid": "61b9c316-ae13-4190-8bf5-fe49d6e92110"
+        "name": "touricast GmbH",
+        "squuid": "6274cd04-836e-4e20-a886-95c00fdbd824"
       },
-      "squuid": "6319c778-d52e-4056-9374-1f16807c11e7",
+      "squuid": "6329c83c-500f-4a59-b727-edf7d4c168ca",
       "state": "active"
     }
   ],
@@ -33,5 +36,8 @@
     "name": "LfM",
     "type": "organization",
     "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
-  }
+  },
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "06.10.2021",
+  "rfLicenseFrom": "LfM"
 }
