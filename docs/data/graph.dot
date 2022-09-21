@@ -10112,23 +10112,23 @@ digraph {
   ];
   1011 [
     type=print
-    state=active
+    state=archived
     label=Bellevue
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-05a7-4a0c-aa29-cf23f1f6d9fb"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   1012 [
     type=shareholder
-    state=active
+    state=archived
     label="Bellevue Media GmbH"
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="60193f39-82df-4579-808a-a5cc48925cd1"
-    in_degree=1
-    out_degree=2
+    in_degree=0
+    out_degree=0
   ];
   1013 [
     type=shareholder
@@ -44544,11 +44544,11 @@ digraph {
     type=shareholder
     state=active
     label="Haller, Claus-Peter"
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="601940e0-b4f2-4d1f-9e23-93d6597dbdf5"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4455 [
     type=print
@@ -127573,16 +127573,6 @@ digraph {
   12757 [
     type=online
     state=active
-    label="www.bb24.news"
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="5be1a6b1-a89d-42fe-8080-cb6cbaea6bec"
-    in_degree=1
-    out_degree=0
-  ];
-  12758 [
-    type=online
-    state=active
     label="www.bbc.co.uk"
     num_medias=0
     num_medias_weighted=0.0000
@@ -127590,13 +127580,23 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  12759 [
+  12758 [
     type=online
     state=active
     label="www.bbc.com"
     num_medias=0
     num_medias_weighted=0.0000
     name="5d36faa7-2f52-4537-a4eb-b5119f017e17"
+    in_degree=1
+    out_degree=0
+  ];
+  12759 [
+    type=online
+    state=active
+    label="www.bbheute.de"
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="5be1a6b1-a89d-42fe-8080-cb6cbaea6bec"
     in_degree=1
     out_degree=0
   ];
@@ -127662,12 +127662,12 @@ digraph {
   ];
   12766 [
     type=online
-    state=active
+    state=archived
     label="www.bellevue.de"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-dcd4-43f5-bee4-d810dac02343"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   12767 [
@@ -155381,11 +155381,11 @@ digraph {
     weight=100
     type=operates
   ];
-  951 -> 12758 [
+  951 -> 12757 [
     weight=100
     type=operates
   ];
-  951 -> 12759 [
+  951 -> 12758 [
     weight=100
     type=operates
   ];
@@ -155692,14 +155692,6 @@ digraph {
   1008 -> 10119 [
     weight=100
     type=owns
-  ];
-  1012 -> 1011 [
-    weight=100
-    type=operates
-  ];
-  1012 -> 12766 [
-    weight=100
-    type=operates
   ];
   1013 -> 1015 [
     weight=1
@@ -173026,10 +173018,6 @@ digraph {
     type=operates
   ];
   4453 -> 4796 [
-    weight=100
-    type=owns
-  ];
-  4454 -> 1012 [
     weight=100
     type=owns
   ];
@@ -198381,7 +198369,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9547 -> 12757 [
+  9547 -> 12759 [
     weight=100
     type=operates
   ];
