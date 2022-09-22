@@ -35004,11 +35004,11 @@ digraph {
     type=shareholder
     state=active
     label="Fleckenstein, Marco"
-    num_medias=2
-    num_medias_weighted=0.0676
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61deedb2-fae6-4f17-ae27-79e888620c8a"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   3501 [
     type=shareholder
@@ -70224,11 +70224,11 @@ digraph {
     type=shareholder
     state=active
     label="Menzel, Bernhard"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0676
     name="6319d7ed-2f85-4343-8577-cb6627a5003e"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7023 [
     type=shareholder
@@ -99234,21 +99234,21 @@ digraph {
     type=shareholder
     state=active
     label="Schwalbach, Nikolaus"
-    num_medias=81
-    num_medias_weighted=0.3277
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-9caf-46fc-a9d6-50ec423fe01e"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   9924 [
     type=shareholder
     state=active
     label="Schwalbach, Richard"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=81
+    num_medias_weighted=0.3277
     name="6319f9b6-ea38-4f0c-92ba-5c6114f768d8"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   9925 [
     type=print
@@ -109624,21 +109624,21 @@ digraph {
     type=shareholder
     state=active
     label="Suder Familiengesellschaft OHG"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=81
+    num_medias_weighted=0.8218
     name="6319fa60-26da-49b5-8c07-59ba55884d45"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10963 [
     type=shareholder
     state=active
     label="Suder, Wolfgang"
-    num_medias=81
-    num_medias_weighted=0.8218
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-fd50-4076-9bf1-b8b7d56a3faf"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   10964 [
     type=shareholder
@@ -167589,10 +167589,6 @@ digraph {
     weight=1.25
     type=owns
   ];
-  3500 -> 3534 [
-    weight=100
-    type=owns
-  ];
   3501 -> 738 [
     weight=60
     type=owns
@@ -184633,6 +184629,10 @@ digraph {
     weight=50
     type=owns
   ];
+  7022 -> 3534 [
+    weight=100
+    type=owns
+  ];
   7023 -> 10065 [
     weight=3.3
     type=owns
@@ -199861,7 +199861,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9923 -> 12028 [
+  9924 -> 12028 [
     weight=1
     type=owns
   ];
@@ -205085,7 +205085,7 @@ digraph {
     weight=1
     type=owns
   ];
-  10963 -> 12028 [
+  10962 -> 12028 [
     weight=1.58
     type=owns
   ];

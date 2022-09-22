@@ -1,7 +1,29 @@
 {
   "name": "Menzel, Bernhard",
   "squuid": "6319d7ed-2f85-4343-8577-cb6627a5003e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "FM Management GmbH",
+        "squuid": "5f993b6e-b9b1-4e51-8893-d4197461656b"
+      },
+      "squuid": "6319d812-f9fb-4338-adbb-e68ebfb2a15b",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",

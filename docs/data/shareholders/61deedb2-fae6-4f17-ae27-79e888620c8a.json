@@ -1,29 +1,9 @@
 {
   "name": "Fleckenstein, Marco",
+  "pseudoCompany": false,
   "squuid": "61deedb2-fae6-4f17-ae27-79e888620c8a",
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "FM Management GmbH",
-        "squuid": "5f993b6e-b9b1-4e51-8893-d4197461656b"
-      },
-      "squuid": "61deedd7-d7f0-4179-8b90-74789f4edb6d",
-      "state": "active"
-    }
-  ],
+  "city": "Pfaffenhofen",
   "organizations": [
-    {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
@@ -31,5 +11,6 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }
