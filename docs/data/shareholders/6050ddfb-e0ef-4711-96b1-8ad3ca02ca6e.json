@@ -28,7 +28,7 @@
   "name": "Beyond Capital Partners GmbH",
   "naturalPerson": false,
   "squuid": "6050ddfb-e0ef-4711-96b1-8ad3ca02ca6e",
-  "controlDate": "2022-07-04T15:38:25.454Z",
+  "controlDate": "2022-09-26T09:28:04.592Z",
   "streetNumber": "43",
   "organizations": [
     {
@@ -43,5 +43,47 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "60313"
+  "zipcode": "60313",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Oschkinat, Volker",
+        "squuid": "62c3090e-be1a-4272-893b-f70e3c5cc4a9"
+      },
+      "squuid": "62c3094b-0634-42f5-88b7-6e74e66c4963",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Eibes, Karsten",
+        "squuid": "62c308fa-958d-4f50-99c2-b4405032fdff"
+      },
+      "squuid": "62c30956-44bd-4703-9764-39fed03f9629",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "CIC Management GmbH",
+        "squuid": "62c3091f-c830-401c-86ef-50e205f2cdb6"
+      },
+      "squuid": "62c30960-2148-4980-8730-0ec2d0f7c1da",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Eigenbezitz der Beyond Capital Partners GmbH",
+        "squuid": "62c30935-91ab-411b-99f4-5480b08c248a"
+      },
+      "squuid": "62c3096d-9fd5-476a-9076-1be51bfbb9e3",
+      "state": "active"
+    }
+  ]
 }
