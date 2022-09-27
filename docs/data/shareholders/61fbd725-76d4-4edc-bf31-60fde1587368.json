@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Blulife Verwaltungs GmbH",
-        "squuid": "61fbd736-5c09-426d-b7b1-b6db22602404"
-      },
-      "squuid": "61fbd81d-1912-4267-a0cd-2576e005bf1c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Görlitz",
   "pseudoCompany": false,
   "street": "Elisabethstr.",
@@ -23,34 +11,11 @@
   "streetNumber": "33",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "02826",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.bluray-disc.de",
-        "squuid": "61fbd704-b8f9-4293-9232-c7d989a8cff0"
-      },
-      "squuid": "61fbd75e-88a7-4590-bb86-5cf3d757ecb6",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Blulife Verwaltungs GmbH",
-        "squuid": "61fbd736-5c09-426d-b7b1-b6db22602404"
-      },
-      "squuid": "61fbd7e8-b218-43dd-b6ca-20e4bb458313",
-      "state": "active"
-    }
-  ]
+  "zipcode": "02826"
 }

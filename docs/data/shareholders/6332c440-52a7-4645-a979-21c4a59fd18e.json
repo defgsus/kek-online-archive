@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Arabellastr.",
+  "name": "BurdaVerlag Data Publishing GmbH, Deutsches Institut für Qualität und Finanzen",
+  "naturalPerson": false,
+  "squuid": "6332c440-52a7-4645-a979-21c4a59fd18e",
+  "controlDate": "2022-09-27T09:39:37.940Z",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81925",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.forourplanet.com",
+        "squuid": "6332c45b-28b4-4ff5-955d-c59deea1a02b"
+      },
+      "squuid": "6332c476-7f6e-4d5e-9929-47f317c2b550",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "squuid": "6332c4dd-dbd9-48d3-a97b-ad7e05056884",
+      "state": "active"
+    }
+  ]
+}

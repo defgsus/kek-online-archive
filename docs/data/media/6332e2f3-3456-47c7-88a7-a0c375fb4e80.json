@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "6332e2f3-3456-47c7-88a7-a0c375fb4e80",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "ID Metropolen News GmbH",
+        "squuid": "5ecd04cd-1105-41ef-a205-d30dc50f8fbd"
+      },
+      "squuid": "6332e32f-4f20-4c94-94b0-bfdad75b6d2a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "6332e33d-090b-438f-b3e8-3d7e254905f8",
+      "state": "active"
+    }
+  ],
+  "name": "www.einfach-tasty.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-09-27T11:49:13.393Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

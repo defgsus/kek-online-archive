@@ -1,26 +1,17 @@
 {
-  "state": "active",
+  "state": "archived",
+  "onlineAsOfDateIVW": "12/21",
   "squuid": "61fbd604-ce3d-4428-815f-086cb751f092",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Vogel Communications Group GmbH & Co. KG",
-        "squuid": "5c505ff1-70df-4cd9-bf59-d0632d21ceba"
-      },
-      "squuid": "61fbd629-9866-4fe6-86a2-2a340c5275ac",
-      "state": "active"
-    }
-  ],
   "name": "www.blockchain-insider.de",
   "rfPublicPrivate": false,
   "type": "online",
   "controlDate": "2022-02-03T13:18:05.616Z",
+  "onlineIVWPI": 1500,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -32,5 +23,6 @@
     "type": "online-offer-type",
     "state": "active"
   },
+  "onlineVisitsIVW": 1100,
   "onlineComments": "IVW-geprüftes Angebot"
 }

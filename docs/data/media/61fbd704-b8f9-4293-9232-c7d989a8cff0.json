@@ -1,26 +1,17 @@
 {
-  "state": "active",
+  "state": "archived",
+  "onlineAsOfDateIVW": "7/22",
   "squuid": "61fbd704-b8f9-4293-9232-c7d989a8cff0",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Blulife GmbH & Co. KG",
-        "squuid": "61fbd725-76d4-4edc-bf31-60fde1587368"
-      },
-      "squuid": "61fbd75e-88a7-4590-bb86-5cf3d757ecb6",
-      "state": "active"
-    }
-  ],
   "name": "www.bluray-disc.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-02-03T13:23:12.227Z",
+  "controlDate": "2022-09-27T10:30:15.674Z",
+  "onlineIVWPI": 2283000,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -32,5 +23,6 @@
     "type": "online-offer-type",
     "state": "active"
   },
+  "onlineVisitsIVW": 502300,
   "onlineComments": "IVW-geprüftes Angebot"
 }

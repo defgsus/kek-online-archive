@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Blulife GmbH & Co. KG",
-        "squuid": "61fbd725-76d4-4edc-bf31-60fde1587368"
-      },
-      "squuid": "61fbd7e8-b218-43dd-b6ca-20e4bb458313",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Görlitz",
   "pseudoCompany": false,
   "street": "Elisabethstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "33",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "02826",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Blulife GmbH & Co. KG",
-        "squuid": "61fbd725-76d4-4edc-bf31-60fde1587368"
-      },
-      "squuid": "61fbd81d-1912-4267-a0cd-2576e005bf1c",
-      "state": "active"
-    }
-  ]
+  "zipcode": "02826"
 }
