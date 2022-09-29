@@ -17607,7 +17607,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-d0b5-4313-bfac-4fc70c8e86f3"
-    in_degree=2
+    in_degree=1
     out_degree=0
   ];
   1761 [
@@ -17893,22 +17893,22 @@ digraph {
   1789 [
     type=shareholder
     state=active
-    label="Cash.Medien AG"
-    num_medias=2
-    num_medias_weighted=2.0000
-    name="5be1a6b6-0330-43a4-8a16-b7e0a40bb0d1"
-    in_degree=0
-    out_degree=1
-  ];
-  1790 [
-    type=shareholder
-    state=active
-    label="Cash.Print GmbH"
+    label="Cash. Media Group GmbH"
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-ef99-4462-ba31-8059f10de5e9"
     in_degree=1
     out_degree=2
+  ];
+  1790 [
+    type=shareholder
+    state=active
+    label="Cash. Medien AG"
+    num_medias=2
+    num_medias_weighted=2.0000
+    name="5be1a6b6-0330-43a4-8a16-b7e0a40bb0d1"
+    in_degree=0
+    out_degree=1
   ];
   1791 [
     type=shareholder
@@ -93902,13 +93902,13 @@ digraph {
   ];
   9390 [
     type=shareholder
-    state=active
+    state=archived
     label="Rotenberg Verlag GmbH"
-    num_medias=3
-    num_medias_weighted=3.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-7abf-4aa2-b0ca-6ac0b809eac0"
     in_degree=1
-    out_degree=3
+    out_degree=0
   ];
   9391 [
     type=print
@@ -116607,7 +116607,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-b837-4168-9323-f6810b07e6c2"
-    in_degree=2
+    in_degree=1
     out_degree=0
   ];
   11661 [
@@ -129227,7 +129227,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7385-4ded-a4ce-a0c0176f2dd5"
-    in_degree=2
+    in_degree=1
     out_degree=0
   ];
   12923 [
@@ -159951,17 +159951,17 @@ digraph {
     weight=100
     type=operates
   ];
-  1789 -> 1790 [
+  1789 -> 1788 [
+    weight=100
+    type=operates
+  ];
+  1789 -> 12927 [
+    weight=100
+    type=operates
+  ];
+  1790 -> 1789 [
     weight=100
     type=owns
-  ];
-  1790 -> 1788 [
-    weight=100
-    type=operates
-  ];
-  1790 -> 12927 [
-    weight=100
-    type=operates
   ];
   1791 -> 7193 [
     weight=26.5
@@ -197288,18 +197288,6 @@ digraph {
     type=operates
   ];
   9389 -> 12982 [
-    weight=100
-    type=operates
-  ];
-  9390 -> 1760 [
-    weight=100
-    type=operates
-  ];
-  9390 -> 11660 [
-    weight=100
-    type=operates
-  ];
-  9390 -> 12922 [
     weight=100
     type=operates
   ];

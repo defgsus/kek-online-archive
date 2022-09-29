@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Stuttgart",
   "pseudoCompany": false,
   "street": "Wilhelmstr. 18",
@@ -9,52 +9,12 @@
   "controlDate": "2022-05-12T14:30:24.858Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "70372",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Cannstatter Zeitung",
-        "squuid": "5be1a6b1-d0b5-4313-bfac-4fc70c8e86f3"
-      },
-      "squuid": "5be1a6b9-42b7-4724-acd5-c765e93b370b",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Untertürkheimer Zeitung",
-        "squuid": "5be1a6b1-b837-4168-9323-f6810b07e6c2"
-      },
-      "squuid": "5be1a6b9-80e3-402d-be56-27f95634c52f",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.cannstatter-zeitung.de",
-        "squuid": "5be1a6b1-7385-4ded-a4ce-a0c0176f2dd5"
-      },
-      "squuid": "5be1a6b9-f434-4ca9-be7e-f0f58c593fc9",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Bechtle Graphische Betriebe und Verlagsgesellschaft GmbH & Co KG",
-        "squuid": "5be1a6b6-4792-466e-ae6c-b124e9c6b4ba"
-      },
-      "squuid": "5be1a6b8-e479-4091-9dcf-c26d302d6ecb",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
