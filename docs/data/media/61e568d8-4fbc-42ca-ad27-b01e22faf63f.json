@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "7/22",
   "squuid": "61e568d8-4fbc-42ca-ad27-b01e22faf63f",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.dailydose.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-07-05T16:50:19.625Z",
+  "controlDate": "2022-10-06T14:44:39.005Z",
+  "onlineIVWPI": 1110900,
+  "onlineAsOfDateAGOF": "5/22",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 190500,
+  "onlineAGOF": 30000
 }
