@@ -109737,38 +109737,38 @@ digraph {
     num_medias=80
     num_medias_weighted=0.8073
     name="6319fa60-26da-49b5-8c07-59ba55884d45"
-    in_degree=0
+    in_degree=3
     out_degree=1
   ];
   10974 [
     type=shareholder
     state=active
     label="Suder, Dr. Katrin"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=80
+    num_medias_weighted=0.2691
     name="632d7fa3-8da9-4dc2-ba36-87fd211dbe52"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10975 [
     type=shareholder
     state=active
     label="Suder, Ingrid"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=80
+    num_medias_weighted=0.2691
     name="632d7f80-c991-4d85-af23-89c736cc60f3"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10976 [
     type=shareholder
     state=active
     label="Suder, Tobias Markus"
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=80
+    num_medias_weighted=0.2691
     name="632d7f92-95b3-41db-ae96-368044c3d758"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10977 [
     type=shareholder
@@ -205275,6 +205275,18 @@ digraph {
   ];
   10973 -> 12043 [
     weight=1.58
+    type=owns
+  ];
+  10974 -> 10973 [
+    weight=33.33
+    type=owns
+  ];
+  10975 -> 10973 [
+    weight=33.33
+    type=owns
+  ];
+  10976 -> 10973 [
+    weight=33.33
     type=owns
   ];
   10978 -> 7353 [
