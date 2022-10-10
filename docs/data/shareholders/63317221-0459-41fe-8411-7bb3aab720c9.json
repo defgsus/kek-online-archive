@@ -1,12 +1,39 @@
 {
   "name": "Kauter, Christoph",
   "squuid": "63317221-0459-41fe-8411-7bb3aab720c9",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Beyond Capital Partners FP GmbH & Co. KG",
+        "squuid": "6050dde6-aa19-43fe-83cf-3e4b6b5cf943"
+      },
+      "squuid": "63317293-09f4-42f9-8efe-d410c75889b4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "CIC Management GmbH",
+        "squuid": "62c3091f-c830-401c-86ef-50e205f2cdb6"
+      },
+      "squuid": "6331736a-155b-4386-9f80-a01fb963c048",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
   "state": "active"

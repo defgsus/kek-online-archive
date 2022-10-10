@@ -20,7 +20,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5eb2e68f-75ca-42ab-9976-bd4a90c7f395",
-  "controlDate": "2022-04-25T13:03:51.359Z",
+  "controlDate": "2022-10-10T11:15:35.924Z",
   "streetNumber": "17-19",
   "organizations": [
     {
@@ -109,17 +109,6 @@
   "zipcode": "49074",
   "ownedBy": [
     {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Elstermann, Claus-Heinrich",
-        "squuid": "5be1a6b6-87ad-4316-8ac7-0675865b8943"
-      },
-      "squuid": "5f0c2f28-ff80-43e4-912b-104732c43529",
-      "state": "active"
-    },
-    {
       "type": "own",
       "capitalShares": 100.0,
       "holder": {
@@ -127,6 +116,17 @@
         "squuid": "5eb2e6ba-84df-4fd1-b689-db8ccb1eca28"
       },
       "squuid": "5f0c2f36-dcc4-4fa8-8025-86f2f75aa87a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Elstermann, Hermann",
+        "squuid": "5be1a6b6-f51c-4ee6-9c93-36248be2e777"
+      },
+      "squuid": "62669c2c-ca5e-4685-80c6-0386ef937333",
       "state": "active"
     }
   ]
