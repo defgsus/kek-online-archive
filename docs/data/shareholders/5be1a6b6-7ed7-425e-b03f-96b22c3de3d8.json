@@ -1,13 +1,13 @@
 {
   "state": "active",
-  "city": "Stuttgart",
+  "city": "Hamburg",
   "pseudoCompany": false,
-  "street": "Julius-Hölder-Straße",
-  "name": "Verein für Rechtsstaatlichkeit und bürgerliche Freiheiten e.V.",
+  "street": "Neuer Wall",
+  "name": "Conservare Communication GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-7ed7-425e-b03f-96b22c3de3d8",
-  "controlDate": "2020-01-17T10:35:48.381Z",
-  "streetNumber": "48",
+  "controlDate": "2022-10-12T11:27:38.258Z",
+  "streetNumber": "50",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -15,7 +15,7 @@
       "type": "organization"
     }
   ],
-  "zipcode": "70597",
+  "zipcode": "20354",
   "operates": [
     {
       "type": "operate",
@@ -27,5 +27,17 @@
       "state": "active"
     }
   ],
-  "credits": "IJK"
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bendels, David",
+        "squuid": "5ce29213-9a8b-49cb-93f4-bc923de37d3e"
+      },
+      "squuid": "6346a4a9-ac39-4048-a8df-8d4f90711fc3",
+      "state": "active"
+    }
+  ]
 }
