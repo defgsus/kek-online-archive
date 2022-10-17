@@ -34004,6 +34004,51 @@
   },
   {
     "state": "active",
+    "squuid": "634d55b2-7dbe-42b2-a6de-e2216962ea69",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "OstWest24",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+      "name": "Spartenprogramm (Information/Dokumentation)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-3a32-4cbf-8912-333503b9d1e8",
+        "name": "Russisch",
+        "type": "language",
+        "state": "active"
+      },
+      {
+        "squuid": "5be1a6ae-e6f5-451c-8ba5-8e18e9fd2747",
+        "name": "Ukrainisch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
     "squuid": "5c5810fd-4fdf-4da6-b18d-09f889965151",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

@@ -1,0 +1,81 @@
+{
+  "rfRepresentative": "Peter Tietzki",
+  "state": "active",
+  "sharesInfo": "KEK 1139",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Valeria Dobralskaya",
+  "rfStartDate": "August 2022",
+  "rfFreePay": false,
+  "squuid": "634d55b2-7dbe-42b2-a6de-e2216962ea69",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://ostwest.tv/de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTV Broadcast & Content Management GmbH",
+        "squuid": "5be1a6b6-ee56-4897-bf52-58acf6bace34"
+      },
+      "squuid": "634d584a-d23e-4315-b5e5-402eaaa04dd5",
+      "state": "active"
+    }
+  ],
+  "name": "OstWest24",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+    "name": "Spartenprogramm (Information/Dokumentation)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Russisch- und ukrainisch-sprachiges Informations- und Nachrichtenprogramm mit Schwerpunkt auf Berichterstattung aus der Politik, insbesondere aus Deutschland, der EU, Russland und Ukraine",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "18.08.2022",
+  "platformOperators": [
+    {
+      "squuid": "5e7b9563-3b9a-45a1-a7e5-5d694ec1b796",
+      "name": "wilhelm.tel",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "18.08.2022",
+  "accessibilityEmail": "info@rtvd.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-3a32-4cbf-8912-333503b9d1e8",
+      "name": "Russisch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-e6f5-451c-8ba5-8e18e9fd2747",
+      "name": "Ukrainisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}
