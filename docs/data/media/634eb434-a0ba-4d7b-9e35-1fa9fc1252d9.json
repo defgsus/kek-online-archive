@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "634eb434-a0ba-4d7b-9e35-1fa9fc1252d9",
+  "organization": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Regiocast Digital GmbH",
+        "squuid": "5be1a6b6-1b60-48da-b24f-ca0e727bd396"
+      },
+      "squuid": "634eb517-ad07-4da1-8c06-72955f840d91",
+      "state": "active"
+    }
+  ],
+  "name": "SUNSHINE LIVE",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "rfLicenseUntil": "31.07.2032",
+  "rfLicensed": "29.07.2022",
+  "platformOperators": [
+    {
+      "squuid": "5e7b9563-afc6-4765-9756-f800457f4db9",
+      "name": "DAB+ Erster Bundesmux / Media Broadcast GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5e7b9563-aa09-44f1-90b5-e48a0d7359ea",
+        "name": "DAB+",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "01.08.2022"
+}

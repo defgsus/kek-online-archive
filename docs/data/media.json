@@ -28230,13 +28230,8 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
-      "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "5ff2ecb3-9321-43b9-b8eb-c8c130ff92cb",
     "organization": {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
       "name": "SLM",
@@ -28245,9 +28240,20 @@
     },
     "rfStatewide": true,
     "name": "Driver's Pop Delivery (DPD-Radio)",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "5ff2ecb3-9321-43b9-b8eb-c8c130ff92cb",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
   },
   {
     "pressPublishingIntervals": 10,
@@ -34624,6 +34630,32 @@
   },
   {
     "state": "active",
+    "squuid": "634eb434-a0ba-4d7b-9e35-1fa9fc1252d9",
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": true,
+    "name": "SUNSHINE LIVE",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "5f1abf27-1c06-4196-893b-1b1682f586f5",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34644,6 +34676,32 @@
       "name": "Online Medienangebot",
       "type": "online-offer-type",
       "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "634eb70e-cd78-4f03-a69b-9b80c86f493e",
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": false,
+    "name": "PELI ONE - Urban Music Radio (SLM)",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   },
   {
@@ -34837,6 +34895,32 @@
       "type": "organization"
     },
     "pressKind": "Regional"
+  },
+  {
+    "state": "active",
+    "squuid": "634eb966-4c06-4257-a946-aa607aeaf399",
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": false,
+    "name": "Radio Galaxy Sachsen",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
   },
   {
     "state": "active",
@@ -35134,6 +35218,32 @@
   },
   {
     "state": "active",
+    "squuid": "634ebaa3-7b7e-4327-8a3a-ba4f3034b416",
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": false,
+    "name": "89.0 RTL (Sachsen)",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "5e6764b5-f32b-42f6-a271-00576a99127a",
     "organization": {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -35379,6 +35489,32 @@
     ]
   },
   {
+    "state": "active",
+    "squuid": "634ebb85-78de-4ae2-b27d-0ab9a533a9dc",
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": false,
+    "name": "Radio Teddy (Sachsen)",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  },
+  {
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
@@ -35396,6 +35532,32 @@
     "type": "tv",
     "squuid": "5cc062fe-aa08-4540-9af5-39273ef61d09",
     "state": "archived"
+  },
+  {
+    "state": "active",
+    "squuid": "634ebcea-701d-4732-a281-cb6e9fa68ea1",
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": false,
+    "name": "JAM FM Sachsen",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
   },
   {
     "pressPublishingIntervals": 312,
@@ -35444,6 +35606,32 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "634ebc43-c3bb-495f-82c5-6ed805be67b7",
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": false,
+    "name": "Radio Holiday (Sachsen)",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  },
+  {
     "pressPublishingIntervals": 4,
     "state": "active",
     "squuid": "5e32f050-3f23-46a4-90b2-81122111c324",
@@ -35482,6 +35670,32 @@
       "type": "organization"
     },
     "pressKind": "Regional"
+  },
+  {
+    "state": "active",
+    "squuid": "634ebd6c-9205-4327-b1df-f940c1ca2d9e",
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": false,
+    "name": "Leipzig Beatzz",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
   },
   {
     "state": "active",
@@ -35607,6 +35821,32 @@
       "name": "Online Medienangebot",
       "type": "online-offer-type",
       "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "634ebe96-dd0c-444a-a901-fadde2da700f",
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": false,
+    "name": "OLDIE ANTENNE (Sachsen)",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   },
   {
@@ -35949,6 +36189,26 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": false,
+    "name": "SE-TA 2 (Sachsen)",
+    "type": "radio",
+    "squuid": "634ebf5e-0867-4922-8b9b-3cf96c44c1b0",
+    "state": "active"
   },
   {
     "pressPublishingIntervals": 6,
@@ -49374,8 +49634,8 @@
     "name": "Sportradio Deutschland",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-      "name": "Noch nicht auf Sendung",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },

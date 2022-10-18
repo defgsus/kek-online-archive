@@ -2,7 +2,7 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 12.8,
+      "capitalShares": 75.0,
       "held": {
         "name": "Antenne Koblenz GmbH",
         "squuid": "5be1a6b6-a316-4364-876d-5f66fa24ddc7"
@@ -54,12 +54,12 @@
   "state": "active",
   "city": "Frankfurt/M.",
   "pseudoCompany": false,
-  "street": "Rüsselsheimer Str.",
+  "street": "Nibelungenplatz",
   "name": "The Radio Group Holding GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-0b31-4cd0-88b2-e247324913be",
   "controlDate": "2022-09-14T08:40:43.662Z",
-  "streetNumber": "22",
+  "streetNumber": "3",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -85,13 +85,19 @@
       "fullName": "Landesmedienanstalt Saarland"
     },
     {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
       "name": "MA HSH",
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "zipcode": "60326",
+  "zipcode": "60318",
   "operates": [
     {
       "type": "operate",
@@ -101,23 +107,22 @@
       },
       "squuid": "6166931c-8d52-4d37-98e1-99620e125543",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Holiday (Sachsen)",
+        "squuid": "634ebc43-c3bb-495f-82c5-6ed805be67b7"
+      },
+      "squuid": "634ebcb1-01fe-431a-8a45-655603f76d47",
+      "state": "active"
     }
   ],
   "credits": "LMK",
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 49.9,
-      "holder": {
-        "name": "Antenne Bad Kreuznach GmbH",
-        "squuid": "5be1a6b6-1e78-44d0-ab3c-dc3f9a827c64"
-      },
-      "squuid": "5be1a6b8-e686-4ee2-b2bb-951e6ebc2a5d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.1,
+      "capitalShares": 100.0,
       "holder": {
         "name": "Schwenk Medien Holding GmbH",
         "squuid": "5be1a6b6-bb57-49cb-9c94-3a89e3ac01d0"
