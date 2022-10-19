@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "pseudoCompany": false,
+  "street": "Alfred-Nobel-Straße",
+  "name": "MEGA Radio GmbH",
+  "naturalPerson": false,
+  "squuid": "63501b04-3457-41d8-ac29-42be4e870411",
+  "placeOfBusiness": "Augsburg",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "86156",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MEGARADIOmix (Sachsen)",
+        "squuid": "63501a01-d6af-4b7c-9b73-d9ef237f79f7"
+      },
+      "squuid": "63501b31-e99a-45cb-8b3b-4aeb5ba6216a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MEGA 80´s (Sachsen)",
+        "squuid": "5d0a1d4a-e49f-4367-b30d-36dec5a11c82"
+      },
+      "squuid": "63501c34-8081-4bc8-9e48-8d964489555d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Peter Valentino Medien GmbH",
+        "squuid": "5be1a6b6-cf54-4147-94f0-03a023d0fe47"
+      },
+      "squuid": "63501b88-2e76-4c7b-8b4d-7f37981697b8",
+      "state": "active"
+    }
+  ]
+}

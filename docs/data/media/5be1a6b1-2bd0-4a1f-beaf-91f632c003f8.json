@@ -2,7 +2,7 @@
   "pressPublishingIntervals": 312,
   "state": "active",
   "rfShoppingChannel": false,
-  "pressAsOfDate": "IV/21",
+  "pressAsOfDate": "II/22",
   "squuid": "5be1a6b1-2bd0-4a1f-beaf-91f632c003f8",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -11,15 +11,6 @@
   },
   "rfStatewide": false,
   "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Dorstener und Halterner Zeitungsverlagsgesellschaft mbH & Co KG",
-        "squuid": "5be1a6b6-978a-4956-bcb2-15ce2893e658"
-      },
-      "squuid": "5be1a6b9-7f82-477a-bf84-bbdb80a29c7c",
-      "state": "active"
-    },
     {
       "type": "operate",
       "holder": {
@@ -37,21 +28,30 @@
       },
       "squuid": "5ece5377-ef0e-4a56-95ed-667d89dd17ee",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Münsterland Zeitung Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-3a30-4aca-a0ff-255456fc479d"
+      },
+      "squuid": "634fe031-86c2-4507-ab80-d3d730429c37",
+      "state": "active"
     }
   ],
   "name": "Halterner Zeitung",
   "pressEditionsIVW": true,
   "pressDistributionArea": "Lk Recklinghausen",
   "type": "print",
-  "pressEditionsEpaper": 2081,
-  "controlDate": "2022-06-17T09:09:45.028Z",
+  "pressEditionsEpaper": 2157,
+  "controlDate": "2022-10-19T11:25:12.430Z",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "pressEditionsSold": 7695,
+  "pressEditionsSold": 7524,
   "pressType": {
     "squuid": "5be1a6b0-e4cc-4064-9625-597855abfd7c",
     "name": "Zeitung",

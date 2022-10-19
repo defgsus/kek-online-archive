@@ -2,7 +2,7 @@
   "pressPublishingIntervals": 312,
   "state": "active",
   "rfShoppingChannel": false,
-  "pressAsOfDate": "IV/21",
+  "pressAsOfDate": "II/22",
   "squuid": "5be1a6b1-39f1-4418-9e3a-312a908789f5",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -11,15 +11,6 @@
   },
   "rfStatewide": false,
   "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Dorstener und Halterner Zeitungsverlagsgesellschaft mbH & Co KG",
-        "squuid": "5be1a6b6-978a-4956-bcb2-15ce2893e658"
-      },
-      "squuid": "5be1a6b9-2107-4b89-ab01-46849d2c531c",
-      "state": "active"
-    },
     {
       "type": "operate",
       "holder": {
@@ -37,21 +28,30 @@
       },
       "squuid": "5ece5362-7637-4874-ba4d-4c7e69182a85",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Münsterland Zeitung Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-3a30-4aca-a0ff-255456fc479d"
+      },
+      "squuid": "634fe06f-1ec1-4ab5-abf6-74926c648d95",
+      "state": "active"
     }
   ],
   "name": "Dorstener Zeitung",
   "pressEditionsIVW": true,
   "pressDistributionArea": "Lk Recklinghausen, Lk Wesel",
   "type": "print",
-  "pressEditionsEpaper": 2742,
-  "controlDate": "2022-06-08T14:13:50.258Z",
+  "pressEditionsEpaper": 2851,
+  "controlDate": "2022-10-19T11:24:02.436Z",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "pressEditionsSold": 13517,
+  "pressEditionsSold": 13183,
   "pressType": {
     "squuid": "5be1a6b0-e4cc-4064-9625-597855abfd7c",
     "name": "Zeitung",

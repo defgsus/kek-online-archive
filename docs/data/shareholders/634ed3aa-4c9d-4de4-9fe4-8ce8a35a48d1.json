@@ -1,12 +1,36 @@
 {
   "name": "Willi Lau Industries UG",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zimmermann, Peter",
+        "squuid": "61bb3c0c-409e-44fc-b5fe-e9c00332f0df"
+      },
+      "squuid": "63501742-916c-4037-b432-69688549df52",
+      "state": "active"
+    }
+  ],
   "squuid": "634ed3aa-4c9d-4de4-9fe4-8ce8a35a48d1",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 67.07,
+      "held": {
+        "name": "WOLFFBERG Management Communication GmbH",
+        "squuid": "634ec144-11c8-4fd1-b3fd-1342598403d6"
+      },
+      "squuid": "63501691-84e2-454c-bc4f-09947040973c",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active"

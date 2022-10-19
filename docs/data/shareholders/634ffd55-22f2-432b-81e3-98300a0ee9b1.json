@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "Hennef",
+  "pseudoCompany": false,
+  "name": "Windyhill Property GmbH",
+  "naturalPerson": false,
+  "squuid": "634ffd55-22f2-432b-81e3-98300a0ee9b1",
+  "controlDate": "2022-10-19T13:39:10.800Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.edison.media",
+        "squuid": "5be1a6b1-18a6-48c6-91bd-2a7e1961b266"
+      },
+      "squuid": "634ffd6d-3959-4aec-a520-859d5e0e87c3",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rother, Franz W.",
+        "squuid": "634ffdcc-25ec-4470-8c96-0a7b5c311375"
+      },
+      "squuid": "634ffe06-c052-4de3-a169-31c3956c5d0e",
+      "state": "active"
+    }
+  ]
+}
