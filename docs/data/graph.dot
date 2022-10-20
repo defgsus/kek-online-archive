@@ -2854,11 +2854,11 @@ digraph {
     type=shareholder
     state=active
     label="Alba Publikation GmbH & Co KG"
-    num_medias=4
-    num_medias_weighted=4.0000
+    num_medias=2
+    num_medias_weighted=2.0000
     name="5be1a6b6-cf6a-4250-a660-63accdad8e8f"
     in_degree=2
-    out_degree=4
+    out_degree=2
   ];
   286 [
     type=shareholder
@@ -13794,8 +13794,8 @@ digraph {
     type=shareholder
     state=active
     label="Boston Invest GmbH"
-    num_medias=55
-    num_medias_weighted=48.4500
+    num_medias=54
+    num_medias_weighted=49.4000
     name="5be1a6b6-22ef-4c84-828a-63a888a12e21"
     in_degree=1
     out_degree=1
@@ -19847,7 +19847,7 @@ digraph {
     num_medias=1
     num_medias_weighted=1.0000
     name="5be1a6b6-bd6d-4641-a17e-5af51d367b75"
-    in_degree=2
+    in_degree=1
     out_degree=1
   ];
   1985 [
@@ -27024,11 +27024,11 @@ digraph {
     type=shareholder
     state=active
     label="Dunker, Michael"
-    num_medias=1
-    num_medias_weighted=0.1000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="60758867-df2c-4b5b-a2e9-f94789f18fba"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   2703 [
     type=shareholder
@@ -28924,8 +28924,8 @@ digraph {
     type=shareholder
     state=active
     label="Eigenbesitz der GeraNova Bruckmann Verlagshaus GmbH"
-    num_medias=55
-    num_medias_weighted=2.5500
+    num_medias=54
+    num_medias_weighted=2.6000
     name="62a1c98e-1eeb-4643-adeb-da7708e1d827"
     in_degree=0
     out_degree=1
@@ -29872,13 +29872,13 @@ digraph {
   ];
   2987 [
     type=shareholder
-    state=active
+    state=archived
     label="Elbe Medienproduktion GmbH"
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f295bc2-8d27-4180-bbc8-7cfa4cd0ee5b"
-    in_degree=1
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   2988 [
     type=tv
@@ -40654,7 +40654,7 @@ digraph {
     type=shareholder
     state=active
     label="GeraMond Media GmbH"
-    num_medias=24
+    num_medias=22
     num_medias_weighted=20.0000
     name="5be1a6b6-fbf6-4066-a631-db3e062c614f"
     in_degree=1
@@ -40664,7 +40664,7 @@ digraph {
     type=shareholder
     state=active
     label="GeraMond Publikation GmbH"
-    num_medias=4
+    num_medias=2
     num_medias_weighted=0.0000
     name="5ec51d70-e622-42ee-afcb-da50c2274517"
     in_degree=1
@@ -40674,11 +40674,11 @@ digraph {
     type=shareholder
     state=active
     label="GeraNova Bruckmann Verlagshaus GmbH"
-    num_medias=55
-    num_medias_weighted=51.0000
+    num_medias=54
+    num_medias_weighted=52.0000
     name="5be1a6b6-ea92-461d-834d-d5d6d281d6cf"
     in_degree=2
-    out_degree=8
+    out_degree=9
   ];
   4068 [
     type=shareholder
@@ -58404,11 +58404,11 @@ digraph {
     type=shareholder
     state=active
     label="Kolbe, Christian"
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5d0203a7-339c-4afc-9831-881d0562e06e"
     in_degree=0
-    out_degree=2
+    out_degree=1
   ];
   5841 [
     type=shareholder
@@ -100804,8 +100804,8 @@ digraph {
     type=shareholder
     state=active
     label="Schüssler, Clemens"
-    num_medias=55
-    num_medias_weighted=48.4500
+    num_medias=54
+    num_medias_weighted=49.4000
     name="5be1a6b6-e3a0-494b-ade3-58eea3a96ef8"
     in_degree=0
     out_degree=1
@@ -131622,12 +131622,12 @@ digraph {
   ];
   13162 [
     type=online
-    state=active
+    state=archived
     label="www.eisenbahnmagazin.de"
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e388-4ec8-b50e-4156460ab0dc"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   13163 [
@@ -131662,12 +131662,12 @@ digraph {
   ];
   13166 [
     type=online
-    state=active
+    state=archived
     label="www.elbekanal.de"
     num_medias=0
     num_medias_weighted=0.0000
     name="5f295b4a-8695-4c49-87e0-a483f4d57dbb"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   13167 [
@@ -152347,15 +152347,7 @@ digraph {
     weight=1
     type=owns
   ];
-  285 -> 2974 [
-    weight=100
-    type=operates
-  ];
   285 -> 7476 [
-    weight=100
-    type=operates
-  ];
-  285 -> 13162 [
     weight=100
     type=operates
   ];
@@ -164707,10 +164699,6 @@ digraph {
     weight=100
     type=owns
   ];
-  2702 -> 1984 [
-    weight=10
-    type=owns
-  ];
   2703 -> 15074 [
     weight=29.6
     type=owns
@@ -166058,10 +166046,6 @@ digraph {
   2983 -> 10348 [
     weight=30
     type=owns
-  ];
-  2987 -> 13166 [
-    weight=100
-    type=operates
   ];
   2991 -> 9970 [
     weight=1.37
@@ -171466,6 +171450,10 @@ digraph {
   4067 -> 11874 [
     weight=100
     type=owns
+  ];
+  4067 -> 2974 [
+    weight=100
+    type=operates
   ];
   4068 -> 10104 [
     weight=100
@@ -179809,10 +179797,6 @@ digraph {
   ];
   5839 -> 11183 [
     weight=8.1
-    type=owns
-  ];
-  5840 -> 2987 [
-    weight=100
     type=owns
   ];
   5840 -> 2990 [
