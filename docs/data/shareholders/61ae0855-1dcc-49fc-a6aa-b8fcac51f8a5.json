@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Unterföhring",
   "pseudoCompany": false,
   "street": "Medienallee",
@@ -10,33 +10,11 @@
   "streetNumber": "7",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "85774",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.esports.com",
-        "squuid": "5f27c47b-7a52-4e3f-a354-d34bdd2ccd30"
-      },
-      "squuid": "61ae0903-c796-460b-930a-8ef10b44dabe",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Seven.One Entertainment Group GmbH",
-        "squuid": "5be1a6b6-ee3d-454b-96df-68a8cdac19d3"
-      },
-      "squuid": "62c5c1f1-1613-4286-8649-c283f8866318",
-      "state": "active"
-    }
-  ]
+  "zipcode": "85774"
 }

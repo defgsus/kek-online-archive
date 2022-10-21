@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Bayerstr. 71-73",
@@ -9,79 +9,12 @@
   "controlDate": "2022-09-27T12:30:11.860Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "80335",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Euro",
-        "squuid": "5be1a6b1-9e75-42c4-89e2-45c60673d61a"
-      },
-      "squuid": "5be1a6b9-a505-42b4-9956-31c7f9132715",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Euro am Sonntag",
-        "squuid": "5be1a6b1-ac80-4822-a7b8-df6045a9768c"
-      },
-      "squuid": "5be1a6b9-e602-4976-91bd-fb2d849ee196",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Börse online",
-        "squuid": "5be1a6b1-74e3-4877-9d1d-6b498638c7c4"
-      },
-      "squuid": "5be1a6b9-767c-46e7-93ac-83fbf2b859a7",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.courage-online.de",
-        "squuid": "5f293b8d-3ec3-4b29-930c-bd2bbb75743f"
-      },
-      "squuid": "5f293bca-fb92-4958-8349-dda87dbbd6b8",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "courage",
-        "squuid": "5f293b9b-0545-4441-a919-4a63dc19f3da"
-      },
-      "squuid": "5f293c3b-1c4f-41ea-9e41-49027da23a89",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TiAM",
-        "squuid": "6128c4bd-639e-47f3-96ec-44aff9934bef"
-      },
-      "squuid": "6128c4f5-494c-43e8-80fc-2a6d4d4f1fe7",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Börsenmedien AG",
-        "squuid": "5be1a6b6-83d3-47a3-8439-19a5e7471aa7"
-      },
-      "squuid": "61e1914c-4c30-48dc-92df-c505b6780dae",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
