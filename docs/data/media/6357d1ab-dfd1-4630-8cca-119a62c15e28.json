@@ -1,0 +1,94 @@
+{
+  "rfRepresentative": "Marcel Putman",
+  "state": "active",
+  "sharesInfo": "KEK 1134",
+  "rfShoppingChannel": false,
+  "rfStartDate": "2008 (niederländische Lizenz); 2022 (deutsche Lizenz)",
+  "rfFreePay": false,
+  "squuid": "6357d1ab-dfd1-4630-8cca-119a62c15e28",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "PRO-FUN MEDIA GmbH",
+        "squuid": "6357d1e5-73d0-4495-a047-313c170d1082"
+      },
+      "squuid": "6357d4e8-6935-4153-b7a6-b2f843bc5175",
+      "state": "active"
+    }
+  ],
+  "name": "OUTtv",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+    "name": "LPR Hessen",
+    "type": "organization",
+    "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "description": "Spartenprogramm, das sich an die LGTBQI+ Community richtet; gesendet werden Lifestyle- und allgemeine Unterhaltungsinhalte",
+  "rfLicenseUntil": "19.09.2032",
+  "rfLicensed": "19.09.2022",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
+      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-a0a1-4251-9c3a-feb4abfd58cc",
+      "name": "NetCologne",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-2a80-4b57-9a14-77c549d0ed24",
+      "name": "Prime Video (Amazon Instant Video Germany GmbH)",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "19.09.2022",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

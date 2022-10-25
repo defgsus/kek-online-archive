@@ -1,0 +1,86 @@
+{
+  "rfRepresentative": "Devesh Raj, Danja Frech, Barnaby Mills, Elke Walthelm",
+  "state": "active",
+  "sharesInfo": "KEK 1134",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Sandra Singer",
+  "rfStartDate": "04.08.2022",
+  "rfFreePay": false,
+  "squuid": "6357b214-b070-4713-baa2-45703792a10f",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.sky.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Sky Deutschland Fernsehen GmbH & Co. KG",
+        "squuid": "61e6a021-57c9-4e5f-bc71-5167884ad1ce"
+      },
+      "squuid": "6357b4e3-5762-4d01-9b1c-3ecbc93e13c7",
+      "state": "active"
+    }
+  ],
+  "name": "Sky Showcase",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Highlights des Sky Entertainment-Angebots mit ausgewählten Serien, Blockbuster-Filmen, Dokumentationen sowie Kinder- und Sportprogrammen",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "08.07.2022",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
+        "name": "Programmplattform",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "08.07.2022",
+  "accessibilityEmail": "impressum@sky.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}
