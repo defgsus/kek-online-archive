@@ -1,27 +1,17 @@
 {
-  "state": "active",
   "note": "Ohne nähere Angaben zur Firma/zum Firmenstandort etc. im Impressum",
-  "pseudoCompany": false,
   "name": "FileHippo s.r.o.",
-  "naturalPerson": false,
+  "pseudoCompany": false,
+  "controlDate": "2022-10-26T09:56:06.228Z",
   "squuid": "5d356e1f-c639-401c-9ce1-078f2e474d02",
-  "controlDate": "2022-07-07T09:54:19.581Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.filehippo.com",
-        "squuid": "5d356d90-7cf2-454b-87bd-4b20c87d079c"
-      },
-      "squuid": "5d356e3c-2c8f-4454-9c70-664671207bea",
-      "state": "active"
-    }
-  ]
+  "state": "archived",
+  "naturalPerson": false
 }

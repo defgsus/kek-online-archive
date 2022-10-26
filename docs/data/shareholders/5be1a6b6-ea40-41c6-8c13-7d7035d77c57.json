@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "note": "(ehem. Fox International Channels Germany GmbH)",
   "pseudoCompany": false,
@@ -7,38 +7,16 @@
   "name": "FOX NETWORKS GROUP GERMANY GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-ea40-41c6-8c13-7d7035d77c57",
-  "controlDate": "2022-07-07T10:42:44.200Z",
+  "controlDate": "2022-10-26T14:01:35.545Z",
   "streetNumber": "16",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "81671",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.foxchannel.de",
-        "squuid": "5f21901c-e005-435a-9363-4e8a747767cb"
-      },
-      "squuid": "5f219056-1a9f-4b83-9af5-8faed21cb528",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Fox International Channels (US), Inc.",
-        "squuid": "5be1a6b6-3f8c-43dc-b333-1d4109f613ea"
-      },
-      "squuid": "5be1a6b7-ecd9-4757-89cb-c9ed1c83f885",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
