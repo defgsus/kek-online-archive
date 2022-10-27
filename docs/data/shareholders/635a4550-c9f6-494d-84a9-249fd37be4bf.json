@@ -1,0 +1,63 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 95.0,
+      "held": {
+        "name": "Happy Story GmbH",
+        "squuid": "5e6235e3-af5f-45eb-a497-37177c6f8c3c"
+      },
+      "squuid": "635a4596-cf1c-4bbc-b8dc-936566f50a91",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Weißenseestr.",
+  "name": "Ajaska GmbH",
+  "naturalPerson": false,
+  "squuid": "635a4550-c9f6-494d-84a9-249fd37be4bf",
+  "controlDate": "2022-10-27T08:51:40.241Z",
+  "streetNumber": "101",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "81539",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 54.0,
+      "holder": {
+        "name": "Zschosche, Sören",
+        "squuid": "5e624654-a914-4cea-93b2-316843cbc813"
+      },
+      "squuid": "635a4650-aa83-4471-b238-e256d1334cd4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 36.0,
+      "holder": {
+        "name": "Weber, Julian",
+        "squuid": "5e624664-0f6f-4638-ab9c-a6cebefcd013"
+      },
+      "squuid": "635a4679-ac1f-4c70-aff2-dcc11ebc78d7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Weber, Philipp",
+        "squuid": "5e624677-a527-4762-8e75-6711a4e5a74b"
+      },
+      "squuid": "635a468a-fcb2-4a83-b928-28ec1c2abaca",
+      "state": "active"
+    }
+  ]
+}

@@ -1,12 +1,29 @@
 {
   "name": "fons securis aerarium GmbH",
   "squuid": "6347ea06-6b8c-4cc2-b1a2-f899e5024540",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.1,
+      "held": {
+        "name": "RSL Radio Schwabenland Stuttgart GmbH & Co. KG",
+        "squuid": "5be1a6b6-55ad-4b9d-a6f2-ebeda816ca61"
+      },
+      "squuid": "6347ea48-c510-4ef6-936d-67d9ccdbc261",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
   "state": "active"

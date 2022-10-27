@@ -1,12 +1,39 @@
 {
   "name": "Wälischmiller, Felix",
   "squuid": "63481d2d-2549-458f-9927-7bae2ea0fc88",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Wälischmiller Grundbesitz GmbH & Co. KG",
+        "squuid": "5e2ef80a-38c4-4839-b77e-fa2e61cc73f9"
+      },
+      "squuid": "63481d60-87b8-42b6-9119-24f04e33b41f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Wälischmiller Verwaltungs GmbH",
+        "squuid": "5e2ef842-fe91-4dec-8f04-438ba409dc32"
+      },
+      "squuid": "63481dc8-1ee8-4001-9c78-8da3efc39fe7",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "state": "active"

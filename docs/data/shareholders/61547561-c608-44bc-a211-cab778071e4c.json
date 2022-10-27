@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Karlsruhe",
   "pseudoCompany": false,
   "street": "Karlstr.",
@@ -10,43 +10,11 @@
   "streetNumber": "50a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "76133",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.fupa.net/region/mittelbaden",
-        "squuid": "615474f5-f166-4fa8-97b4-135661ee2b1b"
-      },
-      "squuid": "61547581-6d8f-46c0-bb35-da331e9dc9d1",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 60.0,
-      "holder": {
-        "name": "Starke, Tom",
-        "squuid": "61547629-82ac-4202-b037-005eb565a439"
-      },
-      "squuid": "6154766c-23fa-422f-af06-a1e57be90ae8",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 40.0,
-      "holder": {
-        "name": "Kamm, Marcel",
-        "squuid": "61547646-08f9-473f-904e-afe56cb17461"
-      },
-      "squuid": "61547677-278f-4a50-84cd-df302196e256",
-      "state": "active"
-    }
-  ]
+  "zipcode": "76133"
 }
