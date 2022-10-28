@@ -30,7 +30,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-75b9-465a-90a9-1dabdfe31855",
-  "controlDate": "2022-07-06T13:28:45.130Z",
+  "controlDate": "2022-10-28T09:10:14.258Z",
   "streetNumber": "5",
   "organizations": [
     {
@@ -127,16 +127,6 @@
       "state": "active"
     },
     {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "MGO Anbietergesellschaft Radio GmbH",
-        "squuid": "5c890b34-a1a7-4429-9808-ffdd94e5c22d"
-      },
-      "squuid": "5c890c9b-b484-4615-952b-dd553e5202ef",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -145,6 +135,16 @@
         "squuid": "5f902453-07a6-4733-afd6-079f0727e945"
       },
       "squuid": "60509f50-c179-403f-be46-9bd7bd809a6a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Mediengruppe Oberfranken - Radioanbieter GmbH",
+        "squuid": "62c5907b-0527-483c-9b0d-1e9ed4599d5a"
+      },
+      "squuid": "62c59117-7b2c-4fae-bcb9-293661576ba5",
       "state": "active"
     }
   ]

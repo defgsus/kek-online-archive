@@ -1,0 +1,38 @@
+{
+  "name": "OD Media Holding B.V.",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Pijnenburg Investments B.V.",
+        "squuid": "635b7129-d76b-4d4f-a3cc-0c97722b9cfb"
+      },
+      "squuid": "635b7387-dc62-4edd-bdcf-c703e4d04351",
+      "state": "active"
+    }
+  ],
+  "squuid": "635b70dc-0f83-4612-93f9-d547d86ba80f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "OD Media B.V.",
+        "squuid": "635b7015-e334-4608-85a4-8d431e86cd20"
+      },
+      "squuid": "635b7347-482e-4193-a24f-c1243a2088a4",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

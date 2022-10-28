@@ -2308,7 +2308,7 @@
     "rfStatewide": false,
     "name": "Geseker Zeitung",
     "type": "print",
-    "controlDate": "2022-05-13T15:14:32.955Z",
+    "controlDate": "2022-10-28T10:58:47.567Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -10035,7 +10035,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-07-07T15:05:45.828Z",
+    "controlDate": "2022-10-28T11:02:34.489Z",
     "state": "active"
   },
   {
@@ -10116,7 +10116,7 @@
     "rfStatewide": false,
     "name": "Gemeinsam Glauben mit dem Papst",
     "type": "print",
-    "controlDate": "2022-06-16T12:57:32.855Z",
+    "controlDate": "2022-10-28T10:17:14.927Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -27738,6 +27738,34 @@
   },
   {
     "state": "active",
+    "squuid": "635b83ad-6ee1-481d-9300-24087ff1a45e",
+    "organization": {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    "rfStatewide": true,
+    "name": "STAR*SAT RADIO (bundesweit)",
+    "rfPublicPrivate": false,
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
     "squuid": "610c0f9b-bcea-441b-b4f3-332140a9b734",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -29143,6 +29171,26 @@
     }
   },
   {
+    "pressPublishingIntervals": 14,
+    "state": "active",
+    "squuid": "635badac-d2de-45d1-a245-fd4cbf56034d",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Herder Korrespondenz",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2022-10-28T10:23:43.961Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Konfession"
+  },
+  {
     "state": "active",
     "squuid": "61e55146-5878-4a14-a05e-f72335b24bdb",
     "organization": {
@@ -29422,6 +29470,26 @@
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
+  },
+  {
+    "pressPublishingIntervals": 12,
+    "state": "active",
+    "squuid": "635bae1c-514f-4f50-a1d8-aa7db0ff8972",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Stimmen der Zeit",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2022-10-28T10:25:37.555Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Konfession"
   },
   {
     "state": "active",
@@ -29799,6 +29867,26 @@
       "type": "organization"
     },
     "pressKind": "Kinder"
+  },
+  {
+    "pressPublishingIntervals": 12,
+    "state": "active",
+    "squuid": "635bae89-b8d5-40ee-b534-6fec260f4332",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Lebensspuren",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2022-10-28T10:27:28.226Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Konfession"
   },
   {
     "pressPublishingIntervals": 4,
@@ -40794,7 +40882,7 @@
     "name": "www.galaxy-amberg-weiden.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-06T14:37:21.617Z",
+    "controlDate": "2022-10-28T08:35:44.634Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41046,7 +41134,7 @@
     "name": "www.galaxy-mittelfranken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-06T13:22:28.873Z",
+    "controlDate": "2022-10-28T08:41:08.200Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41450,7 +41538,7 @@
     "name": "www.galaxy-oberfranken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-06T13:30:05.766Z",
+    "controlDate": "2022-10-28T09:07:41.935Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42213,7 +42301,7 @@
     "name": "www.galaxy-passau.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-06T14:16:07.521Z",
+    "controlDate": "2022-10-28T09:16:10.228Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42743,7 +42831,7 @@
     "name": "www.galaxy916.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-06T13:11:34.080Z",
+    "controlDate": "2022-10-28T08:46:18.660Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43046,7 +43134,7 @@
     "name": "Geo Epoche Edition",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2022-06-16T13:19:21.114Z",
+    "controlDate": "2022-10-28T10:51:55.802Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43066,7 +43154,7 @@
     "name": "Geo Epoche Panorama",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2022-06-16T13:19:44.072Z",
+    "controlDate": "2022-10-28T10:52:07.948Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43133,7 +43221,7 @@
     "name": "www.galaxy-ingolstadt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-06T13:48:37.080Z",
+    "controlDate": "2022-10-28T08:52:15.140Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44000,7 +44088,7 @@
     "name": "www.galaxy-landshut.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-06T14:06:49.824Z",
+    "controlDate": "2022-10-28T09:03:25.989Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -50060,7 +50148,7 @@
     "name": "Geo Wissen",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2022-06-16T13:21:14.928Z",
+    "controlDate": "2022-10-28T10:54:21.632Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90934,7 +91022,7 @@
     "rfStatewide": false,
     "name": "Geo",
     "type": "print",
-    "controlDate": "2022-06-16T13:18:47.944Z",
+    "controlDate": "2022-10-28T10:49:28.253Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90958,7 +91046,7 @@
     "rfStatewide": false,
     "name": "Geo Saison",
     "type": "print",
-    "controlDate": "2022-06-16T13:20:54.059Z",
+    "controlDate": "2022-10-28T10:53:55.625Z",
     "pressKind": "Reise",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91198,7 +91286,7 @@
     "rfStatewide": false,
     "name": "Geolino",
     "type": "print",
-    "controlDate": "2022-06-16T13:21:21.905Z",
+    "controlDate": "2022-10-28T10:55:10.912Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91287,7 +91375,7 @@
     "rfStatewide": false,
     "name": "Geo kompakt",
     "type": "print",
-    "controlDate": "2022-06-16T13:19:53.353Z",
+    "controlDate": "2022-10-28T10:52:34.993Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91371,7 +91459,7 @@
     "rfStatewide": false,
     "name": "Geolino mini",
     "type": "print",
-    "controlDate": "2022-06-16T13:22:13.085Z",
+    "controlDate": "2022-10-28T10:56:09.826Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91392,7 +91480,7 @@
     "rfStatewide": false,
     "name": "Geolino extra",
     "type": "print",
-    "controlDate": "2022-06-16T13:22:04.432Z",
+    "controlDate": "2022-10-28T10:56:00.305Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91413,7 +91501,7 @@
     "rfStatewide": false,
     "name": "Geo Epoche",
     "type": "print",
-    "controlDate": "2022-06-16T13:19:15.759Z",
+    "controlDate": "2022-10-28T10:51:17.717Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95393,7 +95481,7 @@
     "rfStatewide": false,
     "name": "GenussMagazin",
     "type": "print",
-    "controlDate": "2022-06-16T13:17:06.686Z",
+    "controlDate": "2022-10-28T10:46:24.679Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101476,7 +101564,7 @@
     "rfStatewide": false,
     "name": "GG Lifestyle Personalities Real Estate",
     "type": "print",
-    "controlDate": "2022-06-16T13:30:58.776Z",
+    "controlDate": "2022-10-28T11:01:52.184Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104656,7 +104744,7 @@
     "rfStatewide": false,
     "name": "General-Anzeiger (Bonn)",
     "type": "print",
-    "controlDate": "2022-06-16T13:01:32.432Z",
+    "controlDate": "2022-10-28T10:42:09.928Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123916,7 +124004,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-06-16T13:17:24.839Z",
+    "controlDate": "2022-10-28T10:46:53.455Z",
     "state": "active"
   },
   {
@@ -132560,7 +132648,7 @@
     "rfStatewide": false,
     "name": "Geretsrieder Merkur",
     "type": "print",
-    "controlDate": "2022-06-16T13:26:36.281Z",
+    "controlDate": "2022-10-28T10:58:20.010Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",

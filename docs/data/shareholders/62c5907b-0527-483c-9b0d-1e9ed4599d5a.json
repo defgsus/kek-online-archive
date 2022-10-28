@@ -39,6 +39,26 @@
       },
       "squuid": "62c59d87-c48d-4a30-ae99-5873a54eb50a",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Funkhaus Coburg GmbH & Co. KG",
+        "squuid": "5be1a6b6-a3d5-49fc-bc72-77b1727e864f"
+      },
+      "squuid": "62e283a3-e3ac-41ea-b55b-07e7f4231aee",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Funkhaus Coburg Verwaltungs-GmbH",
+        "squuid": "5f92ac1a-f936-4dd8-86ae-2ae256189db9"
+      },
+      "squuid": "62e283c4-d044-4cb6-a453-8c319b730b88",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -48,7 +68,7 @@
   "name": "Mediengruppe Oberfranken - Radioanbieter GmbH",
   "naturalPerson": false,
   "squuid": "62c5907b-0527-483c-9b0d-1e9ed4599d5a",
-  "controlDate": "2022-07-28T12:27:27.743Z",
+  "controlDate": "2022-10-28T09:13:29.904Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -93,5 +113,17 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "96050"
+  "zipcode": "96050",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mediengruppe Oberfranken Digital GmbH & Co. KG",
+        "squuid": "5c890a2f-a3a3-4fce-ae78-799243759958"
+      },
+      "squuid": "62e282da-f1a8-4da1-9184-2cf181b748dc",
+      "state": "active"
+    }
+  ]
 }
