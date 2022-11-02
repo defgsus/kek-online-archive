@@ -1,0 +1,65 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.03,
+      "held": {
+        "name": "United Internet AG",
+        "squuid": "5be1a6b6-31a4-4dcb-803b-bd766012a357"
+      },
+      "squuid": "63627b14-3ed7-445e-bd35-742e8c5e3dab",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Montabaur",
+  "pseudoCompany": false,
+  "street": "Elgendorfer Str.",
+  "name": "RD Holding GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63627af5-2e24-4a94-aa61-42cbf16906ea",
+  "controlDate": "2022-11-02T14:16:55.382Z",
+  "streetNumber": "57",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "56410",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Dommermuth, Judith",
+        "squuid": "63627c55-2d1b-4281-9f5d-dc0356d00f70"
+      },
+      "squuid": "63627c82-cbf3-4e8a-84ad-8e1b93682c67",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Dommermuth, Ralph",
+        "squuid": "5be1a6b6-30be-4601-b8aa-e11b46c2f286"
+      },
+      "squuid": "63627c8f-9b04-4386-ba29-88eef1d28b7a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "RD Holding-Verwaltungs GmbH",
+        "squuid": "63627c6d-73fe-45ca-b5a2-050b2021d217"
+      },
+      "squuid": "63627c9b-e70e-4c61-876b-212a0a28a76c",
+      "state": "active"
+    }
+  ]
+}

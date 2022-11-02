@@ -2,16 +2,6 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "gofeminin.de GmbH",
-        "squuid": "5be1a6b6-a498-4047-94d5-f4ae00325ce1"
-      },
-      "squuid": "61e186f7-886d-4c96-85da-8afe7f97b015",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 80.0,
       "held": {
         "name": "Media Partisans GmbH",
@@ -234,6 +224,15 @@
         "squuid": "62fcf8a9-5ebb-4e43-ac81-7edb4af877b9"
       },
       "squuid": "62fcf8c1-f2d2-4f6b-b83d-6965484096be",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gofeminin.de",
+        "squuid": "5be1a6b1-de85-4acc-9908-9f5077cbc874"
+      },
+      "squuid": "63628273-0ff0-40eb-a75e-a9afde96ba9b",
       "state": "active"
     }
   ],

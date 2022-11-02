@@ -1,43 +1,21 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Köln",
   "pseudoCompany": false,
   "street": "Cäcilienstraße",
   "name": "gofeminin.de GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-a498-4047-94d5-f4ae00325ce1",
-  "controlDate": "2022-07-07T15:43:44.187Z",
+  "controlDate": "2022-11-02T14:43:10.428Z",
   "streetNumber": "30",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "50667",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.gofeminin.de",
-        "squuid": "5be1a6b1-de85-4acc-9908-9f5077cbc874"
-      },
-      "squuid": "5be1a6b9-7f12-418e-965d-8b6115b8b01c",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Funke Digital GmbH",
-        "squuid": "5be1a6b6-7e9f-4303-9e08-72753c2153a3"
-      },
-      "squuid": "61e186f7-886d-4c96-85da-8afe7f97b015",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

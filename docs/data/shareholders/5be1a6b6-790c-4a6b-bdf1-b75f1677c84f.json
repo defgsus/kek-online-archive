@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Leipzig",
   "pseudoCompany": false,
   "street": "Merseburger Str",
@@ -10,43 +10,12 @@
   "streetNumber": "81",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "04177",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Golf aktuell",
-        "squuid": "5be1a6b1-c64d-41c8-a209-ebd170494665"
-      },
-      "squuid": "5be1a6b9-6021-4151-aabd-e76055ca99e4",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.golfaktuell.de",
-        "squuid": "5be1a6b1-52d0-49cc-b689-b1efee4ad405"
-      },
-      "squuid": "5be1a6b9-00fa-41e1-87fb-0bbd40ef7bdf",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Bueb, Angelika",
-        "squuid": "5be1a6b6-9bb9-49c1-a3a8-31437132d5e6"
-      },
-      "squuid": "5be1a6b8-a84c-4ffc-b2be-6cd6c10e3d3c",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
