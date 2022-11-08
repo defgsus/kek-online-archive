@@ -69,7 +69,7 @@
     },
     {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LfM",
+      "name": "LFM NRW",
       "type": "organization",
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
@@ -104,5 +104,47 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "40789"
+  "zipcode": "40789",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 37.0,
+      "holder": {
+        "name": "A. A. Schmidt Verwaltungs GmbH",
+        "squuid": "62e8e77c-b5b7-4c3b-9f94-0dfaeef4d0f0"
+      },
+      "squuid": "62e8e866-e5ce-402c-ac30-f497c61daecb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "S + R Holding GmbH",
+        "squuid": "62e8e83f-4e2c-4085-b922-03aa05381f02"
+      },
+      "squuid": "62e8e87a-44f2-42f2-87c2-474e8e64d796",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 37.0,
+      "holder": {
+        "name": "O. Schmidt Verwaltungs GmbH",
+        "squuid": "62e8e7b2-3958-41df-9126-6f19eb15e28a"
+      },
+      "squuid": "62e8e88c-cb2b-4014-8da1-33d524f07336",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "U. Schmidt Verwaltungs GmbH",
+        "squuid": "62e8e7e2-40a7-4c62-bcbf-8f760a4af884"
+      },
+      "squuid": "62e8e89b-2c32-41e6-96dd-714bc53b4cac",
+      "state": "active"
+    }
+  ]
 }

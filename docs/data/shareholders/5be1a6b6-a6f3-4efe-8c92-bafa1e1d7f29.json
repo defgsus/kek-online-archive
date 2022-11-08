@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Lokalradio Coesfeld Betriebsgesellschaft mbH",
+        "squuid": "5f10489c-c013-4385-a307-0596c6f10bd8"
+      },
+      "squuid": "62e27464-77ea-4ac6-85c2-9f627106e66d",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Dülmen",
   "note": "Für den Lokalfunk in Nordrhein-Westfalen ist vom Landesgesetzgeber ein \"Zwei-Säulen-Modell\" vorgegeben. Danach besteht jeder Sender aus zwei rechtlich selbständigen Einrichtungen: der Veranstaltergemeinschaft (VG) und der Betriebsgesellschaft (BG). \r\n\r\nDie VG ist ein eingetragener, nicht kommerzieller Verein, in dem alle maßgeblichen gesellschaftlichen Gruppen am Ort (z. B. Gewerkschaften, Arbeitgeberverbände, Kirchen, Sport- und Jugendverbände, ausländische Mitbürger) mit je einem Sitz vertreten sind. Die VG hält die Zulassung für das Hörfunkprogramm und trägt die alleinige Programmverantwortung.\r\n\r\nDie BG ist privatwirtschaftlich organisiert und stellt der VG die erforderlichen finanziellen Mittel zur Programmveranstaltung durch Kapitaleinlagen und Werbeeinnahmen zur Verfügung. An den BG können die örtlichen Zeitungsverleger bis zu 75 Prozent, die Kommunen bis zu 25 Prozent der Kapital- und Stimmrechtsanteile halten.\r\n\r\nVerknüpft sind beide \"Säulen\" über einen Vertrag, der die Zuständigkeiten im Einzelnen regelt. \r\n\r\nAußerhalb der Sendezeiten des Lokalprogramms wird ein Rahmenprogramm von \"radio NRW\" übertragen.\r\n\r\n(Quelle: www.lfm-nrw.de)",
@@ -18,7 +30,7 @@
     },
     {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LfM",
+      "name": "LFM NRW",
       "type": "organization",
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
@@ -47,24 +59,24 @@
   "credits": "LfM",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Westfälischer Anzeiger Verlagsgesellschaft mbH & Co. KG",
-        "squuid": "5be1a6b6-1155-4281-b6ac-c4879ebd2c19"
-      },
-      "squuid": "5be1a6b7-54c2-45b0-90e1-ffa7e1f50a4b",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
       "holder": {
-        "name": "Coesfelder Lokalradio Betriebs- und Verwaltungsgesellschaft mbH",
+        "name": "Lokalradio Coesfeld Betriebsgesellschaft mbH",
         "squuid": "5f10489c-c013-4385-a307-0596c6f10bd8"
       },
       "squuid": "5f104917-1abe-4443-8970-3cc6a1e63881",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Aschendorff Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c"
+      },
+      "squuid": "62cea81b-b07a-4143-9ea5-2ede9885794e",
       "state": "active"
     }
   ]

@@ -52,9 +52,9 @@
     },
     {
       "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "LMK",
+      "name": "Medienanstalt RLP",
       "type": "organization",
-      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+      "fullName": "Medienanstalt Rheinland-Pfalz"
     },
     {
       "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
@@ -88,7 +88,7 @@
     },
     {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LfM",
+      "name": "LFM NRW",
       "type": "organization",
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
@@ -123,5 +123,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "77652"
+  "zipcode": "77652",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hubert Burda Media Holding KG",
+        "squuid": "5be1a6b6-7626-4ccb-9b6d-025ef63b4f0a"
+      },
+      "squuid": "62d6822c-92a9-40ef-b7ef-dd345befa790",
+      "state": "active"
+    }
+  ]
 }

@@ -2,7 +2,7 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 80.0,
+      "capitalShares": 100.0,
       "held": {
         "name": "M Medien GmbH",
         "squuid": "5dfbca07-2997-4840-8392-c900da693043"
@@ -14,21 +14,50 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Mittelbayerische Verwaltungs-GmbH",
-        "squuid": "5be1a6b6-0c14-4529-83d0-56ed146743c1"
+        "name": "Verlag Tages-Anzeiger GmbH",
+        "squuid": "5be1a6b6-48e8-424e-98c2-ff6184ef0d6b"
       },
-      "squuid": "61a642cb-884a-4a0d-a6f7-3c0364827c15",
+      "squuid": "6262c732-e365-4893-8dd2-370776711c37",
       "state": "active"
     },
     {
-      "complementaryPartner": true,
       "type": "own",
-      "capitalShares": 80.0,
+      "capitalShares": 100.0,
       "held": {
-        "name": "Mittelbayerischer Verlag KG",
-        "squuid": "5be1a6b6-2c29-4334-b2a6-c487687551a3"
+        "name": "Donau Online GmbH",
+        "squuid": "6086ad2a-6104-438a-9911-c891c262b657"
       },
-      "squuid": "61a64464-10f0-44aa-b609-53135398d33c",
+      "squuid": "62d7cfe7-52e7-4e33-83e5-7dc369018026",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.91,
+      "held": {
+        "name": "dpa Deutsche Presse Agentur GmbH",
+        "squuid": "5be1a6b6-d7c9-45c5-99de-2acb723d2e72"
+      },
+      "squuid": "62d7d229-738a-471b-925e-341e1f7d1bc5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.29,
+      "held": {
+        "name": "Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Radio 2000 KG",
+        "squuid": "5be1a6b6-cc99-4fd3-96f9-d2ef9847c76f"
+      },
+      "squuid": "62d7d437-530c-456e-bb26-17108d2f835f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.31,
+      "held": {
+        "name": "Mediengesellschaft der bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Programm- und Werbegesellschaft",
+        "squuid": "5be1a6b6-c525-4b11-a1b7-9969a9671afb"
+      },
+      "squuid": "62d7d479-b932-4686-958a-f29f9a33827c",
       "state": "active"
     }
   ],
@@ -91,7 +120,7 @@
     },
     {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LfM",
+      "name": "LFM NRW",
       "type": "organization",
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },

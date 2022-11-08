@@ -1,12 +1,35 @@
 {
   "name": "M und M Ehrenklau GmbH & Co. KG",
   "squuid": "6357f209-81d3-46ff-b906-d8399a6637a3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.2381,
+      "held": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "6357f272-a287-4fb3-9bfc-40ff17ec8549",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active"

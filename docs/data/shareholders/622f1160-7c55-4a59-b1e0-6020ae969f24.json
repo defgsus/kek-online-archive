@@ -1,5 +1,6 @@
 {
   "name": "Wolff-Muscate, Johanna",
+  "pseudoCompany": false,
   "squuid": "622f1160-7c55-4a59-b1e0-6020ae969f24",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Holzkirchen",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -33,9 +35,9 @@
     },
     {
       "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "LMK",
+      "name": "Medienanstalt RLP",
       "type": "organization",
-      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+      "fullName": "Medienanstalt Rheinland-Pfalz"
     },
     {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
@@ -56,5 +58,6 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }

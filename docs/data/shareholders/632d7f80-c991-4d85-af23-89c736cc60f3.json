@@ -1,5 +1,6 @@
 {
   "name": "Suder, Ingrid",
+  "pseudoCompany": false,
   "squuid": "632d7f80-c991-4d85-af23-89c736cc60f3",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Mainz",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -33,9 +35,9 @@
     },
     {
       "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "LMK",
+      "name": "Medienanstalt RLP",
       "type": "organization",
-      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+      "fullName": "Medienanstalt Rheinland-Pfalz"
     },
     {
       "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
@@ -56,5 +58,6 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }

@@ -1,7 +1,4 @@
 {
-  "name": "Müller-Dunkmann, Dietmar",
-  "controlDate": "2019-06-19T13:10:48.361Z",
-  "squuid": "5d0a340c-62af-469c-afad-e1a7a36af329",
   "owns": [
     {
       "type": "own",
@@ -12,8 +9,25 @@
       },
       "squuid": "5d0a343c-6f24-4589-b541-bb199892da72",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.3,
+      "held": {
+        "name": "A.H.F. Dunkmann GmbH & Co KG, Verlag der Ostfriesischen Nachrichten in Aurich",
+        "squuid": "5be1a6b6-22df-4769-a423-f1eac95eab7a"
+      },
+      "squuid": "62d54dd5-6104-4f4a-85e8-87080f3cc97f",
+      "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Aurich",
+  "pseudoCompany": false,
+  "name": "Müller-Dunkmann, Dietmar",
+  "naturalPerson": true,
+  "squuid": "5d0a340c-62af-469c-afad-e1a7a36af329",
+  "controlDate": "2019-06-19T13:10:48.361Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -63,7 +77,7 @@
     },
     {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LfM",
+      "name": "LFM NRW",
       "type": "organization",
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
@@ -97,6 +111,5 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ],
-  "state": "active"
+  ]
 }

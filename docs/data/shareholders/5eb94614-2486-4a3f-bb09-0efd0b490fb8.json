@@ -41,9 +41,9 @@
     },
     {
       "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "LMK",
+      "name": "Medienanstalt RLP",
       "type": "organization",
-      "fullName": "Landeszentrale für Medien und Kommunikation Rheinland-Pfalz"
+      "fullName": "Medienanstalt Rheinland-Pfalz"
     },
     {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
@@ -53,7 +53,7 @@
     },
     {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LfM",
+      "name": "LFM NRW",
       "type": "organization",
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
@@ -68,12 +68,42 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 25.0,
       "holder": {
-        "name": "Droste, Manfred",
-        "squuid": "5be1a6b6-a8c2-4a5a-b13d-25f9aab115aa"
+        "name": "Droste, Alexander",
+        "squuid": "5be1a6b6-206a-4a13-9a42-56d19481cd9a"
       },
-      "squuid": "6050a398-ac26-4c9d-ad23-a508a2a23782",
+      "squuid": "6266678d-eb38-4260-900d-6f2304f31bf6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Droste, Felix",
+        "squuid": "5be1a6b6-ddc7-4c0f-82e0-c16879053470"
+      },
+      "squuid": "6266679e-fff8-4af4-8979-0474e46cd597",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Droste, Tilman",
+        "squuid": "5be1a6b6-cf56-4ecd-b343-773da1ff1377"
+      },
+      "squuid": "626667ac-6422-4823-80a4-5d20f852ed59",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Droste-Zobel, Lieselotte",
+        "squuid": "5be1a6b6-ac93-4e9b-baf9-c26cb3022992"
+      },
+      "squuid": "626667bb-598d-4536-b91d-eb595d2aa990",
       "state": "active"
     }
   ]
