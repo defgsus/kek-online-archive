@@ -1,4 +1,8 @@
 {
+  "name": "Evangelisch-Lutherischer Kirchenkreis Mecklenburg",
+  "pseudoCompany": false,
+  "controlDate": "2020-01-21T10:53:19.646Z",
+  "squuid": "5be1a6b6-de3a-4f26-8710-323d7db740c6",
   "owns": [
     {
       "type": "own",
@@ -11,12 +15,6 @@
       "state": "active"
     }
   ],
-  "state": "active",
-  "pseudoCompany": false,
-  "name": "Evangelisch-Lutherischer Kirchenkreis Mecklenburg",
-  "naturalPerson": false,
-  "squuid": "5be1a6b6-de3a-4f26-8710-323d7db740c6",
-  "controlDate": "2020-01-21T10:53:19.646Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -90,15 +88,6 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.kirche-mv.de",
-        "squuid": "5be1a6b1-95cd-4718-b64e-67c8fd8dc368"
-      },
-      "squuid": "5c486f91-daff-408a-bf57-317f5eb2c064",
-      "state": "active"
-    }
-  ]
+  "state": "active",
+  "naturalPerson": false
 }

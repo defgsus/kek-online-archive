@@ -1,4 +1,8 @@
 {
+  "name": "Pommerscher Evangelischer Kirchenkreis",
+  "pseudoCompany": false,
+  "controlDate": "2020-01-21T10:53:06.572Z",
+  "squuid": "5be1a6b6-f020-48d6-8fee-7ded84184de5",
   "owns": [
     {
       "type": "own",
@@ -11,12 +15,6 @@
       "state": "active"
     }
   ],
-  "state": "active",
-  "pseudoCompany": false,
-  "name": "Pommerscher Evangelischer Kirchenkreis",
-  "naturalPerson": false,
-  "squuid": "5be1a6b6-f020-48d6-8fee-7ded84184de5",
-  "controlDate": "2020-01-21T10:53:06.572Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -90,15 +88,6 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.kirche-mv.de",
-        "squuid": "5be1a6b1-95cd-4718-b64e-67c8fd8dc368"
-      },
-      "squuid": "5c486f86-c4a7-4799-8f18-cc309e93de61",
-      "state": "active"
-    }
-  ]
+  "state": "active",
+  "naturalPerson": false
 }

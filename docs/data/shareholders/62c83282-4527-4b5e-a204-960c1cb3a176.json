@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "held": {
-        "name": "Krone-Verlag GmbH & Co Vermögensverwaltung KG",
-        "squuid": "5d308be8-db59-467a-b397-514f3763b1b8"
-      },
-      "squuid": "62c83298-ab55-49dd-9fb7-1cfc7de94c8c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Essen",
   "pseudoCompany": false,
   "street": "Jakob-Funke-Platz",
@@ -22,22 +10,11 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "45127",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "WAZ Ausland Holding GmbH",
-        "squuid": "5d306b00-fd6f-48e9-9f73-3b50a96e77d2"
-      },
-      "squuid": "62c83397-9aa3-4721-a4b7-e27851f4acf4",
-      "state": "active"
-    }
-  ]
+  "zipcode": "45127"
 }
