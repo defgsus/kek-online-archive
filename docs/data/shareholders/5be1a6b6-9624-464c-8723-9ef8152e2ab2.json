@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Verlagsgesellschaft Vogelsberg Verwaltungsgesellschaft mbH",
+        "squuid": "5eda1def-f5b9-4442-a51c-43bd7ae56b4d"
+      },
+      "squuid": "636e2a01-f1c7-482f-8806-d1a3495fcb3f",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Alsfeld ",
   "pseudoCompany": false,
@@ -7,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-9624-464c-8723-9ef8152e2ab2",
-  "controlDate": "2022-06-21T14:36:45.487Z",
+  "controlDate": "2022-11-11T10:45:53.709Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -57,16 +69,6 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "VRM Mittelhessen Holding GmbH & Co KG",
-        "squuid": "5be1a6b6-9c81-4e27-8fd5-9a2ac9fddbdb"
-      },
-      "squuid": "5be1a6b8-e9f0-40d7-8b1b-a53b62b15c2f",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -75,6 +77,26 @@
         "squuid": "5eda1def-f5b9-4442-a51c-43bd7ae56b4d"
       },
       "squuid": "5eda1e1e-f50d-4216-bd9e-3e6d0fb3fbcc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 67.0,
+      "holder": {
+        "name": "Gießener Anzeiger Beteiligungs-GmbH & Co KG",
+        "squuid": "5be1a6b6-bedb-4dd4-a384-b046ff26a9d7"
+      },
+      "squuid": "636e2a65-db01-41fe-8674-17045086155a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.0,
+      "holder": {
+        "name": "Schnitzler Verlags- und Kinne Beteiligungs-GmbH",
+        "squuid": "5be1a6b6-8c30-4a02-ae78-c757180757c2"
+      },
+      "squuid": "636e2a7e-0b04-420e-abb8-9c0b35ad16fd",
       "state": "active"
     }
   ]

@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Bernhard-Göring-Str. ",
+  "name": "LZ Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "636e5b73-20c4-4683-a2a3-a62132809c90",
+  "controlDate": "2022-11-11T14:29:46.710Z",
+  "streetNumber": "152",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "04277",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "LZ Leipziger Zeitung",
+        "squuid": "636e5b82-8771-440b-88a6-f80ca4a45865"
+      },
+      "squuid": "636e5bfd-5c6f-488c-9d7b-d2b42937360b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.l-iz.de",
+        "squuid": "5f7da5c1-406a-48b6-a09e-2dcaa2d4e857"
+      },
+      "squuid": "636e5e0f-1e0a-4277-91cb-b5ad9b557b5e",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Malios, Birgit",
+        "squuid": "636e5df8-f794-4605-864d-d9d80cee0161"
+      },
+      "squuid": "636e5e52-282a-4f3e-a559-ff57f9bf9f55",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 32.33,
+      "holder": {
+        "name": "Dobschütz, Robert",
+        "squuid": "5e4f977a-f2cf-44cf-8948-966dcfa5af3f"
+      },
+      "squuid": "636e5e69-509a-4c85-9b40-ef07587a75e8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.33,
+      "holder": {
+        "name": "Julke, Ralf",
+        "squuid": "5e4f975e-28fa-4871-a6ae-18710aa75a99"
+      },
+      "squuid": "636e5e7c-cc62-4e2f-96fb-c570a7b28e15",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.34,
+      "holder": {
+        "name": "Kulow, Patrick",
+        "squuid": "5e4f976c-4c0b-44df-a1ce-b97805957d5d"
+      },
+      "squuid": "636e5e8e-5024-4988-8218-07697d37f812",
+      "state": "active"
+    }
+  ]
+}
