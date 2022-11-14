@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "7/22",
   "squuid": "61e82aba-aba3-4feb-ab86-562bba6b1bcb",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,7 +21,9 @@
   "name": "www.lebensmittelzeitung.net",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2022-01-19T15:14:11.358Z",
+  "controlDate": "2022-11-14T09:40:36.678Z",
+  "onlineIVWPI": 2661900,
+  "onlineAsOfDateAGOF": "5/22",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +34,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 949800,
+  "onlineAGOF": 230000
 }

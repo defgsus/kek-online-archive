@@ -1,0 +1,105 @@
+{
+  "state": "active",
+  "city": "Ludwigsburg",
+  "pseudoCompany": false,
+  "street": "Lindenstr.",
+  "name": "Presse-Verlag Aktuell GmbH",
+  "naturalPerson": false,
+  "squuid": "63727792-ec53-4152-b782-ec1b36dae91b",
+  "controlDate": "2022-11-14T17:35:42.803Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "71634",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Eglosheimer Nachrichten",
+        "squuid": "637276bb-486a-4887-81de-c6de42c23f91"
+      },
+      "squuid": "637277dc-d0ec-4b46-893c-f15f1ed3a0fb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.eglosheimer-nachrichten.de",
+        "squuid": "6372781d-7f3c-4030-b93d-7b73176f3f11"
+      },
+      "squuid": "6372783b-6e8d-4151-afe3-f9064e4d9f3b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Oßweiler Nachrichten",
+        "squuid": "63727883-eaa7-449d-9a38-b6a07187441a"
+      },
+      "squuid": "637278e5-cceb-4b19-957f-69e1e8b9c86d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ossweiler-nachrichten.de",
+        "squuid": "6372789b-c514-46ea-83e9-c852b9c9b1b8"
+      },
+      "squuid": "63727906-ff79-4a66-b66c-442c95803b95",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ludwigsburger Nachrichten",
+        "squuid": "63727945-76f2-4eb3-b151-422b82d185e1"
+      },
+      "squuid": "637279a1-4d8c-4ea5-b57a-1a4363d730c9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ludwigsburger-nachrichten.info",
+        "squuid": "6372795f-62f3-4bf1-b14e-1c33ea3cd761"
+      },
+      "squuid": "637279df-053e-47a8-aa2b-896c8f6bd76c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Neckarweihinger Nachrichten",
+        "squuid": "63727b55-8f63-4bb5-955a-8203444be2a0"
+      },
+      "squuid": "63727bbb-63dc-43e0-bed3-3f69aac8b802",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.neckarweihinger-nachrichten.de",
+        "squuid": "63727b82-2bab-4dfd-bc5b-e4e38de7b91a"
+      },
+      "squuid": "63727bd8-5cc7-4429-a183-accae030afb8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ludwigsburger Wochenblatt GmbH & Co. KG",
+        "squuid": "63727e59-5616-400b-a08b-79561b8d415d"
+      },
+      "squuid": "63727e91-ba57-4a8b-b9c8-810bc30815aa",
+      "state": "active"
+    }
+  ]
+}
