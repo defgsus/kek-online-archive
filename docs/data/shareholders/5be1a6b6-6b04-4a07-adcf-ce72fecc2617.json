@@ -1,51 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Aßlar",
   "pseudoCompany": false,
   "street": "Dillerberg 1",
   "name": "Gerth Medien GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-6b04-4a07-adcf-ce72fecc2617",
-  "controlDate": "2022-06-21T17:06:49.730Z",
+  "controlDate": "2022-11-15T12:29:52.321Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "35614",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Lydia",
-        "squuid": "5be1a6b1-e319-4db0-99c5-d4e68c41adf9"
-      },
-      "squuid": "5be1a6b9-0611-4133-ad05-26ec7a92fbb7",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.lydia.net",
-        "squuid": "5be1a6b1-bf30-46c6-aad6-d488bb94a10e"
-      },
-      "squuid": "5be1a6b9-718a-48d6-b56d-c6546153524c",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "SCM Verlagsgruppe GmbH",
-        "squuid": "5be1a6b6-ba47-4973-a828-1dff6a251e76"
-      },
-      "squuid": "5be1a6b8-0086-4ccf-99d7-e061075bb6c7",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

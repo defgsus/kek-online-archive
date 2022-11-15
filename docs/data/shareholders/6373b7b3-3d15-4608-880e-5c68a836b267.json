@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Kiel",
+  "pseudoCompany": false,
+  "street": "An der Halle ",
+  "name": "falkemedia Fräulein Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "6373b7b3-3d15-4608-880e-5c68a836b267",
+  "controlDate": "2022-11-15T16:04:26.908Z",
+  "streetNumber": "400",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "24134",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.syltfraeulein.de",
+        "squuid": "6373b77c-b9d5-4020-82b1-724ec551845e"
+      },
+      "squuid": "6373b7cf-b41c-4099-b294-557d687f1a78",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.foerdefraeulein.de",
+        "squuid": "6373b7fa-e2ce-4de1-942e-65db497c1bb9"
+      },
+      "squuid": "6373b865-6e58-4160-bc1a-45a1b415868a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Goukassian, Kassian Alexander",
+        "squuid": "5be1a6b6-ea1f-4952-8711-9499274ffdf9"
+      },
+      "squuid": "6373b936-9c23-4457-b3a3-531af8906842",
+      "state": "active"
+    }
+  ]
+}
