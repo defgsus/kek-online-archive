@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "NNP Verwaltungs-GmbH",
+        "squuid": "637b6fa7-e2c4-4e19-9c8b-816c7f2b32dc"
+      },
+      "squuid": "637b710f-4606-4127-809a-750f22657aff",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Limburg",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "NNP GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "637b6f8a-10ed-41c5-818a-9e26c01f8f4b",
+  "controlDate": "2022-11-21T12:32:33.727Z",
+  "streetNumber": "9",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65549",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mittelhessen.de",
+        "squuid": "5be1a6b1-60ba-4947-bf0c-6ff4f53e7729"
+      },
+      "squuid": "637b6fb9-8a39-4af7-95f0-8094f71876b9",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schnitzler Verlags- und Kinne Beteiligungs-GmbH",
+        "squuid": "5be1a6b6-8c30-4a02-ae78-c757180757c2"
+      },
+      "squuid": "637b706e-7ab8-45d6-84e7-3993fad22752",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "NNP Verwaltungs-GmbH",
+        "squuid": "637b6fa7-e2c4-4e19-9c8b-816c7f2b32dc"
+      },
+      "squuid": "637b7081-1951-4a18-af05-0a2ecd74ae66",
+      "state": "active"
+    }
+  ]
+}
