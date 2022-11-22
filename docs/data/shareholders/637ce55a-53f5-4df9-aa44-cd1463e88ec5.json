@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Aachen",
+  "pseudoCompany": false,
+  "street": "Dresdener Str.",
+  "name": "Super Sonntag Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "637ce55a-53f5-4df9-aa44-cd1463e88ec5",
+  "controlDate": "2022-11-22T15:09:01.014Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "52068",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.supersonntag.de",
+        "squuid": "637ce5d1-cf33-4db5-955b-f521ad42ae56"
+      },
+      "squuid": "637ce5ec-e0f1-47b7-b323-90bcff57827b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 96.21,
+      "holder": {
+        "name": "Medienhaus Aachen GmbH",
+        "squuid": "5be1a6b6-0200-4a40-921b-ce08c00a32ac"
+      },
+      "squuid": "637ce650-d40d-4900-b1d1-e92c1fe5e7f0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.5,
+      "holder": {
+        "name": "Haimüller, Reinhold",
+        "squuid": "637ce590-e26b-4974-a13b-673454352fb3"
+      },
+      "squuid": "637ce65e-8d8a-4733-bc25-819201c63b16",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.29,
+      "holder": {
+        "name": "Zerres, Ernst",
+        "squuid": "637ce577-417e-4c46-bf34-ba7d0cd1f779"
+      },
+      "squuid": "637ce670-4aff-46bb-8083-31e2eb54c5f5",
+      "state": "active"
+    }
+  ]
+}

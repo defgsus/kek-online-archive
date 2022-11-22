@@ -1,6 +1,4 @@
 {
-  "name": "Natur & Heilen Verwaltungs GmbH",
-  "squuid": "62b46904-3ba9-4290-afc8-dc6248e6a6ee",
   "owns": [
     {
       "complementaryPartner": true,
@@ -14,6 +12,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Nikolaistr.",
+  "name": "Natur & Heilen Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "62b46904-3ba9-4290-afc8-dc6248e6a6ee",
+  "controlDate": "2022-11-22T17:04:33.463Z",
+  "streetNumber": "5",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -21,5 +28,17 @@
       "type": "organization"
     }
   ],
-  "state": "active"
+  "zipcode": "80802",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Groß von Trockau, Paula",
+        "squuid": "5be1a6b6-5bdc-4cee-951d-dcdbbb06fd05"
+      },
+      "squuid": "637d017a-a336-4d57-ad31-aa7b3e3452f0",
+      "state": "active"
+    }
+  ]
 }

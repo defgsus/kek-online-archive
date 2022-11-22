@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Infanteriestr.",
@@ -11,54 +11,12 @@
   "streetNumber": "11a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "80797",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "N-Bahn-Magazin",
-        "squuid": "5be1a6b1-87c0-4253-9998-be5eb063fe53"
-      },
-      "squuid": "5be1a6b9-1531-48fe-b3d3-0b8687bc3ab0",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.nbahnmagazin.de",
-        "squuid": "5be1a6b1-70fc-4416-acce-d4018b5bf9b0"
-      },
-      "squuid": "5be1a6b9-756a-42c7-bb90-45fc4a7d544e",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "GeraNova Bruckmann Verlagshaus GmbH",
-        "squuid": "5be1a6b6-ea92-461d-834d-d5d6d281d6cf"
-      },
-      "squuid": "5be1a6b8-83f4-4944-8313-2764fd3d3938",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "GeraMond Publikation GmbH",
-        "squuid": "5ec51d70-e622-42ee-afcb-da50c2274517"
-      },
-      "squuid": "5ec51dc5-8cee-4775-8384-02874e830add",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

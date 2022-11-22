@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Brandenburg/Havel",
   "pseudoCompany": false,
   "street": "Sankt-Annen-Straße",
@@ -10,43 +10,12 @@
   "streetNumber": "38",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "14776",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Märkische Allgemeine (Ausgaben Brandenburg, Potsdam-Mittelmark, Havelland)",
-        "squuid": "5be1a6b1-fcaa-4ad7-a984-fc277cbfb8cc"
-      },
-      "squuid": "5be1a6b9-80c5-453b-87d6-b74b1c1f25f1",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Mein Stadtmagazin",
-        "squuid": "5c63ed49-fa0e-43e6-ab5f-6f3ab854433f"
-      },
-      "squuid": "5c63ed8f-789d-4271-bfc9-ef03ffa94b11",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Märkische Verlags- und Druck-Gesellschaft mbH Potsdam",
-        "squuid": "5be1a6b6-8cd1-46d4-85d9-5e8bbee063fe"
-      },
-      "squuid": "5be1a6b8-e65c-479e-a327-63d69d10e0c3",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
