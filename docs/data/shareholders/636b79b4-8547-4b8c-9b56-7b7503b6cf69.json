@@ -1,12 +1,35 @@
 {
   "name": "Möckl, Moritz Bernhard",
   "squuid": "636b79b4-8547-4b8c-9b56-7b7503b6cf69",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Schüren Beteiligung GmbH & Co. KG",
+        "squuid": "6357f786-953d-427f-b096-aa8606a71ffa"
+      },
+      "squuid": "636b7a1b-cf47-45bd-af2d-6f1f1efbf11f",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active"
