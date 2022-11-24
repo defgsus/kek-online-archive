@@ -1,18 +1,35 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-    "name": "DL",
-    "type": "organization"
+  "pressPublishingIntervals": 4,
+  "state": "archived",
+  "pressMagazineType": {
+    "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
+    "name": "Publikumszeitschrift",
+    "type": "press-magazine-type",
+    "state": "active"
   },
-  "rfPublicPrivate": false,
+  "pressAsOfDate": "2022",
+  "squuid": "637cb739-5057-4e04-b515-77eb081bb7b4",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "name": "www.mrlife.de",
+  "name": "Business & People (Ausgabe Metropolregion Hamburg)",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "Lk Stade, Lk Harburg, Lk Lüneburg",
   "type": "print",
-  "squuid": "637cb739-5057-4e04-b515-77eb081bb7b4",
   "controlDate": "2022-11-22T11:49:18.279Z",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "pressKind": "Regional",
+  "pressType": {
+    "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
+    "name": "Zeitschrift",
+    "type": "press-type",
+    "state": "active"
+  }
 }

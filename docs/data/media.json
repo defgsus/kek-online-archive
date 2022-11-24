@@ -16879,7 +16879,7 @@
     "state": "active"
   },
   {
-    "pressPublishingIntervals": 5,
+    "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "5be1a6b1-d3e3-4544-b212-77f291c272f9",
     "organization": {
@@ -16890,7 +16890,7 @@
     "rfStatewide": false,
     "name": "Nordic Sports",
     "type": "print",
-    "controlDate": "2022-06-24T11:04:12.934Z",
+    "controlDate": "2022-11-24T11:57:17.778Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -16968,7 +16968,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-06-24T11:04:29.905Z",
+    "controlDate": "2022-11-24T11:55:39.077Z",
     "state": "active"
   },
   {
@@ -16987,7 +16987,7 @@
       "state": "active"
     },
     "controlDate": "2022-06-24T11:04:58.461Z",
-    "state": "active"
+    "state": "archived"
   },
   {
     "state": "active",
@@ -36848,7 +36848,7 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "Business & People",
+    "name": "Business & People Ausgabe Metropolregion Hamburg)",
     "rfPublicPrivate": false,
     "type": "print",
     "controlDate": "2022-09-28T11:05:39.742Z",
@@ -52098,22 +52098,24 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    "rfPublicPrivate": false,
+    "pressPublishingIntervals": 4,
+    "state": "archived",
+    "squuid": "637cb739-5057-4e04-b515-77eb081bb7b4",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.mrlife.de",
+    "name": "Business & People (Ausgabe Metropolregion Hamburg)",
+    "rfPublicPrivate": false,
     "type": "print",
-    "squuid": "637cb739-5057-4e04-b515-77eb081bb7b4",
     "controlDate": "2022-11-22T11:49:18.279Z",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
   },
   {
     "state": "active",
@@ -89050,7 +89052,7 @@
     "rfStatewide": false,
     "name": "Nordsee-Zeitung",
     "type": "print",
-    "controlDate": "2021-11-04T15:02:13.562Z",
+    "controlDate": "2022-11-24T13:09:40.953Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -89443,7 +89445,7 @@
     "rfStatewide": false,
     "name": "Norderneyer Badezeitung",
     "type": "print",
-    "controlDate": "2022-06-24T10:44:15.906Z",
+    "controlDate": "2022-11-24T11:52:24.921Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95579,7 +95581,7 @@
     "rfStatewide": false,
     "name": "Norddeutsche Neueste Nachrichten",
     "type": "print",
-    "controlDate": "2022-06-24T10:40:04.970Z",
+    "controlDate": "2022-11-24T11:47:51.249Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95686,7 +95688,7 @@
     "rfStatewide": false,
     "name": "Nordwest-Zeitung",
     "type": "print",
-    "controlDate": "2022-06-24T11:42:53.539Z",
+    "controlDate": "2022-11-24T15:30:36.910Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95709,7 +95711,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-06-24T11:44:06.813Z",
+    "controlDate": "2022-11-24T16:05:55.369Z",
     "state": "active"
   },
   {
@@ -96911,7 +96913,7 @@
     "rfStatewide": false,
     "name": "Norddeutsches Handwerk",
     "type": "print",
-    "controlDate": "2022-06-24T10:19:27.515Z",
+    "controlDate": "2022-11-24T11:51:06.918Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97946,7 +97948,7 @@
     "name": "www.skandinavien.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-14T15:45:30.808Z",
+    "controlDate": "2022-11-24T12:05:35.311Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -106796,6 +106798,30 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "637f6e2c-4a88-4ea1-98ea-b7fef555553c",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.nordsee-zeitung.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-11-24T13:14:27.410Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-ef1a-4d3e-8b7f-6ea4322fb8b2",
@@ -107099,7 +107125,7 @@
     "rfStatewide": false,
     "name": "Nordis - Das Nordeuropa-Magazin",
     "type": "print",
-    "controlDate": "2022-06-24T11:04:41.280Z",
+    "controlDate": "2022-11-24T12:05:08.476Z",
     "pressKind": "Reise",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -108441,6 +108467,26 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "pressPublishingIntervals": 4,
+    "state": "active",
+    "squuid": "637f725f-d4f0-41a5-ac05-c937f8eb85dc",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Business & People (Ausgabe Metropolregion Bremen/Bremerhaven/Weser-Ems)",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2022-11-24T13:32:24.154Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
   },
   {
     "pressPublishingIntervals": 4,
@@ -111935,6 +111981,30 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "637f9028-f648-4da1-b640-486db4d4c942",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.nordwest-sonntagsblatt.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-11-24T15:40:48.787Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "pressPublishingIntervals": 7,
     "state": "active",
     "squuid": "5be1a6b1-cb04-4489-a9f1-8186ed7c72ac",
@@ -113301,6 +113371,30 @@
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2022-07-13T12:00:58.629Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "637f9263-ce46-48d7-b506-28b55dad09c1",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.das-blv.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-11-24T15:49:37.507Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -116138,6 +116232,30 @@
     },
     "controlDate": "2022-06-28T09:34:25.739Z",
     "state": "active"
+  },
+  {
+    "state": "active",
+    "squuid": "637f9455-9fff-4cf0-b19d-bd81891a9ad0",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.friebo.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2022-11-24T15:58:00.161Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
   },
   {
     "organization": {
@@ -123729,7 +123847,7 @@
     "rfStatewide": false,
     "name": "Nordfriesland Tageblatt",
     "type": "print",
-    "controlDate": "2022-06-24T10:49:02.734Z",
+    "controlDate": "2022-11-24T11:53:11.558Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123849,7 +123967,7 @@
     "rfStatewide": false,
     "name": "Norddeutsche Rundschau",
     "type": "print",
-    "controlDate": "2022-06-24T10:43:17.325Z",
+    "controlDate": "2022-11-24T11:50:08.879Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -126489,7 +126607,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2021-06-08T13:46:52.374Z",
+    "controlDate": "2022-11-24T11:50:54.738Z",
     "state": "active"
   },
   {
@@ -126858,7 +126976,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-07-14T15:35:42.586Z",
+    "controlDate": "2022-11-24T11:53:06.718Z",
     "state": "active"
   },
   {
@@ -127238,7 +127356,7 @@
     "rfStatewide": false,
     "name": "Nordkurier",
     "type": "print",
-    "controlDate": "2022-06-24T11:11:55.794Z",
+    "controlDate": "2022-11-24T12:35:36.518Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -127301,7 +127419,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-06-24T11:08:22.457Z",
+    "controlDate": "2022-11-24T12:50:40.587Z",
     "state": "active"
   },
   {

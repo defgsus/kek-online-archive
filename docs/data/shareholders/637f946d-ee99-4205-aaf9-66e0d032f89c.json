@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Friesländer Bote Beteiligungs-GmbH",
+        "squuid": "637f9484-c75a-477b-adb9-967d30b559f3"
+      },
+      "squuid": "637f959e-4111-474d-9590-bc08dd3c0052",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Varel",
+  "pseudoCompany": false,
+  "street": "Schloßstr.",
+  "name": "Friesländer Bote GmbH & Co. KG ",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "637f946d-ee99-4205-aaf9-66e0d032f89c",
+  "controlDate": "2022-11-24T15:58:39.179Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "26316",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.friebo.de",
+        "squuid": "637f9455-9fff-4cf0-b19d-bd81891a9ad0"
+      },
+      "squuid": "637f94a5-5fc9-4bfc-8bb3-4c4a6c085578",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nordwest Media Vermarktungsgesellschaft mbH & Co. KG",
+        "squuid": "637f907b-45ea-4a64-aa67-cc281b3f330a"
+      },
+      "squuid": "637f9530-aaaf-450e-a8b9-327e303d3991",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Friesländer Bote Beteiligungs-GmbH",
+        "squuid": "637f9484-c75a-477b-adb9-967d30b559f3"
+      },
+      "squuid": "637f953d-5a95-41c6-8bd4-042725659cc2",
+      "state": "active"
+    }
+  ]
+}
