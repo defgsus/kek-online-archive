@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Burgschmietstr.",
+  "name": "Verlag Der Marktspiegel GmbH",
+  "naturalPerson": false,
+  "squuid": "638095d4-d347-4705-9307-527050e27ccb",
+  "controlDate": "2022-11-25T10:24:27.847Z",
+  "streetNumber": "2-4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "90419",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.marktspiegel.de",
+        "squuid": "638094ec-821f-402e-a194-a3c9ec6ee284"
+      },
+      "squuid": "638095e5-f138-47a1-bfa0-6f054823ce04",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "PDG Presse und Distribution Gesellschaft mbH & Co. KG",
+        "squuid": "6380979b-9a78-48bb-b60b-aaf3b12522a7"
+      },
+      "squuid": "63809834-ab94-452b-91a6-f31a26ec296e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "MC Verwaltungs-Gesellschaft mbH & Co. Verlags-KG",
+        "squuid": "5ecd11e1-d67e-4b81-a6ea-772166ebdf05"
+      },
+      "squuid": "638098d4-483e-46d8-8df1-3c6386330128",
+      "state": "active"
+    }
+  ]
+}

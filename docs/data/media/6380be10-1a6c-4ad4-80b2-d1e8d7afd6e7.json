@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "6380be10-1a6c-4ad4-80b2-d1e8d7afd6e7",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Blick Punkt Verlags GmbH & Co. KG",
+        "squuid": "6380be70-1483-499b-b02f-f38e38f08a39"
+      },
+      "squuid": "6380bea4-f3d7-4707-885e-3732977eaf99",
+      "state": "active"
+    }
+  ],
+  "name": "www.blick-punkt.com",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-11-25T13:09:34.311Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

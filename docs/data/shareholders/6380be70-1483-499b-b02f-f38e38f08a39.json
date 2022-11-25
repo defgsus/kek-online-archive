@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Rosenheim",
+  "pseudoCompany": false,
+  "street": "Hafnerstr.",
+  "name": "Blick Punkt Verlags GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6380be70-1483-499b-b02f-f38e38f08a39",
+  "controlDate": "2022-11-25T13:10:31.236Z",
+  "streetNumber": "5-13",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "83022",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blick-punkt.com",
+        "squuid": "6380be10-1a6c-4ad4-80b2-d1e8d7afd6e7"
+      },
+      "squuid": "6380bea4-f3d7-4707-885e-3732977eaf99",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 65.0,
+      "holder": {
+        "name": "Pons Aeni Verlag GmbH",
+        "squuid": "6380c015-b701-4d38-bb75-db8f87bcdae8"
+      },
+      "squuid": "6380c030-515e-4da3-a16f-4e918901c9b4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "WWZ Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-af92-4839-96f4-2d8d9e234c83"
+      },
+      "squuid": "6380c03a-e9ef-48d0-80bf-123f5bcb073e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Blick Punkt Verlags Verwaltungs GmbH",
+        "squuid": "6380be88-82d2-4867-89e0-3ec4041b9cbb"
+      },
+      "squuid": "6380c047-0b26-4105-afdf-4989101ba118",
+      "state": "active"
+    }
+  ]
+}
