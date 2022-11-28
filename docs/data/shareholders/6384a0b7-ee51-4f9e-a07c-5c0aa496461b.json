@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Kasseler Str.",
+  "name": "Öko-Test Verlag GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6384a0b7-ee51-4f9e-a07c-5c0aa496461b",
+  "controlDate": "2022-11-28T11:54:10.544Z",
+  "streetNumber": "1a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60486",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.oekotest.de",
+        "squuid": "5be1a6b1-6695-4584-b0fb-2a3ef2605893"
+      },
+      "squuid": "6384a12b-a17e-4ffe-9173-83dbcaa93c4b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Öko-Test-Magazin",
+        "squuid": "5be1a6b1-bb37-420a-bbc2-971dd5adacbe"
+      },
+      "squuid": "6384a275-80c3-4af7-80a0-8eafb12757cf",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Öko-Test AG",
+        "squuid": "5be1a6b6-4874-43dd-8fbc-3ba27494b788"
+      },
+      "squuid": "6384a1b1-e2c5-4730-af91-8e13cb8a1597",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Öko-Test Verwaltungsgesellschaft mbH",
+        "squuid": "6384a111-f59f-4f9f-a5fd-d6494463ff28"
+      },
+      "squuid": "6384a1c2-f76d-46dd-9b36-c70c832c40d8",
+      "state": "active"
+    }
+  ]
+}
