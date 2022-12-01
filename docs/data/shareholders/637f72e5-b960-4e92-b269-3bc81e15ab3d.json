@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Bremerhaven",
+  "pseudoCompany": false,
+  "street": "Hafenstr.",
+  "name": "Nordwestdeutsche Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "637f72e5-b960-4e92-b269-3bc81e15ab3d",
+  "controlDate": "2022-11-24T13:39:58.413Z",
+  "streetNumber": "142",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "27576",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Business & People (Ausgabe Metropolregion Bremen/Bremerhaven/Weser-Ems)",
+        "squuid": "637f725f-d4f0-41a5-ac05-c937f8eb85dc"
+      },
+      "squuid": "637f7330-4000-4b73-8518-73c8a2f503b2",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ditzen GmbH & Co",
+        "squuid": "5be1a6b6-0ee7-47f2-a915-b345cd4ddc28"
+      },
+      "squuid": "637f74b8-dd3c-4d74-9e39-c3002709f500",
+      "state": "active"
+    }
+  ]
+}

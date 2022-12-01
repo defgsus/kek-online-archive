@@ -1,13 +1,40 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Steger-Ohnesorge GbR",
+        "squuid": "6357f1bd-f791-4136-b57d-600d30e61fdd"
+      },
+      "squuid": "636b788d-892b-4b9d-ac87-eaf095d6218a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
   "name": "Ohnesorge II GbR",
+  "naturalPerson": false,
   "squuid": "636b77d4-36f0-4a24-bafc-49c76a880dc8",
+  "controlDate": "2022-11-24T12:22:08.915Z",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
-  ],
-  "state": "active"
+  ]
 }

@@ -1,26 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 16.5,
-      "held": {
-        "name": "Schürmann + Klagges GmbH & Co KG",
-        "squuid": "5be1a6b6-d208-47ad-b8ca-77d54a067954"
-      },
-      "squuid": "5be1a6b8-ad46-48c2-a78a-2823cf352e7e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 49.0,
-      "held": {
-        "name": "Märkischer Verlag GmbH",
-        "squuid": "5eda32f5-ad97-4991-b9c2-dccf27163245"
-      },
-      "squuid": "5eda33e3-6b0b-431c-9ed9-9b19f6a7b04d",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Herne",
   "pseudoCompany": false,
@@ -30,9 +8,10 @@
   "controlDate": "2019-06-12T12:44:32.635Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "credits": "IJK"

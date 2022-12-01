@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Königs Wusterhausen",
   "pseudoCompany": false,
   "street": "Bahnhofstraße",
@@ -10,34 +10,12 @@
   "streetNumber": "17a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "15711",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Märkische Allgemeine (Ausgaben Teltow-Fläming/Dahme-Spreewald)",
-        "squuid": "5be1a6b1-77e6-4127-9d82-5cfb45ac1176"
-      },
-      "squuid": "5be1a6b9-9ed8-4ed9-9c17-05aad6d1ccb4",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Märkische Verlags- und Druck-Gesellschaft mbH Potsdam",
-        "squuid": "5be1a6b6-8cd1-46d4-85d9-5e8bbee063fe"
-      },
-      "squuid": "5be1a6b8-1aa4-4f50-84f3-fc9482cc9283",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

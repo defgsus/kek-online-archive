@@ -1,0 +1,96 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Nordwest-Wochenzeitungen Verwaltungsgesellschaft mbH",
+        "squuid": "637f910d-6993-47ab-bf98-8b5577474922"
+      },
+      "squuid": "637f91cf-22df-4076-a275-89fa5d63c0ee",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "BLV Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "637f9276-66b7-4f21-a8ef-2c511f9401f7"
+      },
+      "squuid": "637f9341-0c13-4788-8137-7e6f0e347a2c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "BLV Verwaltungsgesellschaft mbH",
+        "squuid": "637f928c-2afb-400c-8c94-f0005995b728"
+      },
+      "squuid": "637f93bf-8ed9-4f40-94c9-250c8bd18da8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Friesländer Bote GmbH & Co. KG ",
+        "squuid": "637f946d-ee99-4205-aaf9-66e0d032f89c"
+      },
+      "squuid": "637f9530-aaaf-450e-a8b9-327e303d3991",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Oldenburg",
+  "pseudoCompany": false,
+  "street": "Wilhelmshavener Heerstr.",
+  "name": "Nordwest Media Vermarktungsgesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "637f907b-45ea-4a64-aa67-cc281b3f330a",
+  "controlDate": "2022-11-24T15:41:32.951Z",
+  "streetNumber": "260",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "26125",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nordwest-sonntagsblatt.de",
+        "squuid": "637f9028-f648-4da1-b640-486db4d4c942"
+      },
+      "squuid": "637f9097-e040-44cf-8b61-7f0342cc4c0c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nordwest-Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-6d98-47de-ac59-bdd22da3974d"
+      },
+      "squuid": "637f9128-d213-47da-bbe3-bffe3206b42c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Nordwest-Wochenzeitungen Verwaltungsgesellschaft mbH",
+        "squuid": "637f910d-6993-47ab-bf98-8b5577474922"
+      },
+      "squuid": "637f9136-8404-469b-8e21-2cdcf3933d6f",
+      "state": "active"
+    }
+  ]
+}

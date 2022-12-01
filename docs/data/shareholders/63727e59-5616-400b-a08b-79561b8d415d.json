@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Presse-Verlag Aktuell GmbH",
+        "squuid": "63727792-ec53-4152-b782-ec1b36dae91b"
+      },
+      "squuid": "63727e91-ba57-4a8b-b9c8-810bc30815aa",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ludwigsburg",
+  "pseudoCompany": false,
+  "street": "Lindenstr.",
+  "name": "Ludwigsburger Wochenblatt GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63727e59-5616-400b-a08b-79561b8d415d",
+  "controlDate": "2022-11-14T17:46:42.260Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "71634",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Ludwigsburger Wochenblatt Verwaltungs-GmbH",
+        "squuid": "63727e74-7efd-4037-8094-f6ab173d4b2f"
+      },
+      "squuid": "63727ef3-abd1-4347-801a-c195eb4d03f7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Gerhard Ulmer GmbH",
+        "squuid": "5be1a6b6-7269-4b11-b341-01056320773b"
+      },
+      "squuid": "63727f00-d3c5-41c0-9729-b493b034a8cd",
+      "state": "active"
+    }
+  ]
+}

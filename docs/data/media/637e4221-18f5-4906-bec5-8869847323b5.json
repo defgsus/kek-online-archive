@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "637e4221-18f5-4906-bec5-8869847323b5",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Schwäbisches Tagblatt GmbH",
+        "squuid": "5be1a6b6-73b8-42f0-a5e3-941f9d130ff4"
+      },
+      "squuid": "637e4243-9bb2-4fbf-9db2-f0652ff64bb1",
+      "state": "active"
+    }
+  ],
+  "name": "www.tagblatt-anzeiger.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2022-11-23T15:54:14.959Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

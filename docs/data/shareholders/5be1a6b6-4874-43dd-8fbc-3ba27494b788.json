@@ -1,4 +1,26 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Öko-Test Verlag GmbH & Co. KG",
+        "squuid": "6384a0b7-ee51-4f9e-a07c-5c0aa496461b"
+      },
+      "squuid": "6384a1b1-e2c5-4730-af91-8e13cb8a1597",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Öko-Test Verwaltungsgesellschaft mbH",
+        "squuid": "6384a111-f59f-4f9f-a5fd-d6494463ff28"
+      },
+      "squuid": "6384a22d-03a4-41c5-a336-9bd2713bdfb2",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Frankfurt/M.",
   "pseudoCompany": false,
@@ -6,7 +28,7 @@
   "name": "Öko-Test AG",
   "naturalPerson": false,
   "squuid": "5be1a6b6-4874-43dd-8fbc-3ba27494b788",
-  "controlDate": "2022-07-01T11:45:23.803Z",
+  "controlDate": "2022-11-28T11:59:16.722Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -15,26 +37,6 @@
     }
   ],
   "zipcode": "60486",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.oekotest.de",
-        "squuid": "5be1a6b1-6695-4584-b0fb-2a3ef2605893"
-      },
-      "squuid": "60e83f9a-96c1-4058-9de9-314d1df44bef",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Öko-Test-Magazin",
-        "squuid": "5be1a6b1-bb37-420a-bbc2-971dd5adacbe"
-      },
-      "squuid": "60e84004-758b-4932-9c50-060a7839ede0",
-      "state": "active"
-    }
-  ],
   "credits": "IJK",
   "ownedBy": [
     {

@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Alba Publikation GmbH & Co KG",
-        "squuid": "5be1a6b6-cf6a-4250-a660-63accdad8e8f"
-      },
-      "squuid": "5ec51dc5-8cee-4775-8384-02874e830add",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Infanteriestr.",
@@ -23,22 +10,11 @@
   "streetNumber": "11a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "80797",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "GeraMond Media GmbH",
-        "squuid": "5be1a6b6-fbf6-4066-a631-db3e062c614f"
-      },
-      "squuid": "5ec51e3e-bb13-4769-9677-075a31722c04",
-      "state": "active"
-    }
-  ]
+  "zipcode": "80797"
 }
