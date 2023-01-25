@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Gummersbach",
+  "pseudoCompany": false,
+  "street": "An der Schüttenhöhe",
+  "name": "Oberbergische Anzeigenblatt GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63d13ede-6894-431e-8d11-edc05d60aaa7",
+  "controlDate": "2023-01-25T14:39:36.181Z",
+  "streetNumber": "1a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "51643",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.anzeigen-echo.de",
+        "squuid": "63d13ef0-6fbe-41cc-8c57-a91984cb76c5"
+      },
+      "squuid": "63d13f0f-19c2-4519-8e49-d85db2b46ef0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lokalanzeiger.de",
+        "squuid": "63d153fa-1015-4b6f-a9e7-6f23a08914d3"
+      },
+      "squuid": "63d1542c-b90b-4889-974e-983f2c1b3179",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rheinische Anzeigenblatt GmbH & Co. KG",
+        "squuid": "5be1a6b6-e2af-4c23-bb5d-2a957fb06149"
+      },
+      "squuid": "63d13fcb-5a3c-4d4e-8d32-cebccc7aac7e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Oberbergische Anzeigenblatt Verwaltungs-GmbH",
+        "squuid": "63d13f5a-b99f-46fa-9aaa-4cfabb878389"
+      },
+      "squuid": "63d13fd7-ef0d-416d-9029-0345a0fe81d4",
+      "state": "active"
+    }
+  ]
+}

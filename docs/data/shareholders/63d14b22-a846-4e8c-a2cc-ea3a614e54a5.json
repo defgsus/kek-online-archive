@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Bonner Anzeigenblatt GmbH & Co. KG",
+        "squuid": "63d14f32-2c74-4929-b07f-c8ed24896200"
+      },
+      "squuid": "63d1529d-4320-4747-8774-a50ac5ef41f5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Robert-Kirchhoff-Str.",
+  "name": "Bonner Anzeigenblatt-GmbH",
+  "naturalPerson": false,
+  "squuid": "63d14b22-a846-4e8c-a2cc-ea3a614e54a5",
+  "controlDate": "2023-01-25T16:04:10.998Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53121",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 66.66,
+      "holder": {
+        "name": "Rheinische Anzeigenblatt GmbH & Co. KG",
+        "squuid": "5be1a6b6-e2af-4c23-bb5d-2a957fb06149"
+      },
+      "squuid": "63d15383-5740-418b-9390-d1fc6eb8daff",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "General-Anzeiger Bonn GmbH",
+        "squuid": "5df8d245-a28a-4a77-8e51-8e4f9582e2b7"
+      },
+      "squuid": "63d15391-f459-4571-b580-835c21b29bbb",
+      "state": "active"
+    }
+  ]
+}

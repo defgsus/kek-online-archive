@@ -1,4 +1,17 @@
 {
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Kommanditgesellschaft Hamburg 1 Fernsehen Beteiligungs GmbH & Co.",
+        "squuid": "5be1a6b6-17ea-403a-b4b7-2da6a63e2179"
+      },
+      "squuid": "63a1cd2c-c51a-44ee-a433-a7c7726c208c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Hamburg",
   "pseudoCompany": false,
@@ -10,10 +23,15 @@
   "streetNumber": "80c",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
   "zipcode": "20148",

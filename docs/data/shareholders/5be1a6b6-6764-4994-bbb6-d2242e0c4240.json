@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 74.4,
-      "held": {
-        "name": "Schneemenschen GmbH",
-        "squuid": "5be1a6b6-5d66-4484-b376-3d450201044d"
-      },
-      "squuid": "5be1a6b8-13cb-47ba-b1fd-e81c7a52ea42",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Zweibrücken",
   "pseudoCompany": false,
   "street": "Oberer Sandrech",
@@ -22,23 +10,12 @@
   "streetNumber": "8",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "66482",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Iwanski, Martin",
-        "squuid": "5be1a6b6-eeb2-43c7-bc4a-78b231f1086a"
-      },
-      "squuid": "5be1a6b8-378f-491b-ae89-a17ca85dc4e4",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

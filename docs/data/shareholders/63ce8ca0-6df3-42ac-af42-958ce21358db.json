@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hameln",
+  "pseudoCompany": false,
+  "street": "Baustr.",
+  "name": "Weser-Region Werbeverlag GmbH",
+  "naturalPerson": false,
+  "squuid": "63ce8ca0-6df3-42ac-af42-958ce21358db",
+  "controlDate": "2023-01-23T13:34:37.765Z",
+  "streetNumber": "44",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "31785",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hallo-hameln-pyrmont.de",
+        "squuid": "63ce8c88-ceb6-4763-9b98-e4f0ad881232"
+      },
+      "squuid": "63ce8cb9-4102-4847-a7a9-0e6d3cf4df18",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "C.W. Niemeyer GmbH & Co KG",
+        "squuid": "5be1a6b6-36e5-4fe5-a0fd-c0448be5c392"
+      },
+      "squuid": "63ce8d1b-c51e-4a25-b14e-d19bb13bc119",
+      "state": "active"
+    }
+  ]
+}

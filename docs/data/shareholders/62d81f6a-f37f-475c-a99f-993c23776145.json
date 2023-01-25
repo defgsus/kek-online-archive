@@ -1,6 +1,4 @@
 {
-  "name": "Druckhaus Mainfranken GmbH",
-  "squuid": "62d81f6a-f37f-475c-a99f-993c23776145",
   "owns": [
     {
       "type": "own",
@@ -13,6 +11,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Marktheidenfeld",
+  "pseudoCompany": false,
+  "street": "Nordring",
+  "name": "Druckhaus Mainfranken GmbH",
+  "naturalPerson": false,
+  "squuid": "62d81f6a-f37f-475c-a99f-993c23776145",
+  "controlDate": "2022-12-15T14:04:13.388Z",
+  "streetNumber": "5",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +33,47 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "state": "active"
+  "zipcode": "97828",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Fischer, Thorsten",
+        "squuid": "639b2a25-befd-4820-b240-55405882ff2f"
+      },
+      "squuid": "639b2a81-3862-4846-ad47-46cafce13c36",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Schleunung-Eimann, Tim",
+        "squuid": "639b2a47-8d3b-4b21-a017-325f558b184d"
+      },
+      "squuid": "639b2a90-dc63-4ebd-9393-15a6dda250cc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.5,
+      "holder": {
+        "name": "Schleunung-Eimann, Marion",
+        "squuid": "639b2a5d-c658-410e-9227-c92e4d2add89"
+      },
+      "squuid": "639b2aa1-08d0-4421-8a2d-497e099bc9f4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.5,
+      "holder": {
+        "name": "Schleunung, Christoph",
+        "squuid": "639b2a6b-dab7-49f9-9677-f30f2b85d3fc"
+      },
+      "squuid": "639b2ab3-8430-4704-9fb5-fc4a32055797",
+      "state": "active"
+    }
+  ]
 }

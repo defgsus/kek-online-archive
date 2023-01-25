@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Paul-Lincke-Ufer",
+  "name": "Raufeld Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "639336b7-e0f9-4cb9-abc0-4510f1f12695",
+  "controlDate": "2022-12-09T13:33:59.572Z",
+  "streetNumber": "42/43",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10999",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.funky.de",
+        "squuid": "639338cc-05bf-450c-923f-7109c96c591f"
+      },
+      "squuid": "639338eb-3de4-4648-a4e2-91096c5d9550",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Zentralredaktion GmbH ",
+        "squuid": "5c5d6043-ab67-49ca-8a91-21c28160b7e0"
+      },
+      "squuid": "63933990-3795-4ffc-904e-c76e01566346",
+      "state": "active"
+    }
+  ]
+}

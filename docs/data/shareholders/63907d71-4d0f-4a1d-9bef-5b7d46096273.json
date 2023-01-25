@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Georgenkirchstr.",
+  "name": "evangelische-zeitung.de GbR",
+  "naturalPerson": false,
+  "squuid": "63907d71-4d0f-4a1d-9bef-5b7d46096273",
+  "controlDate": "2022-12-07T11:49:19.996Z",
+  "streetNumber": "69/70",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10249",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.evangelische-zeitung.de",
+        "squuid": "5be1a6b1-1021-4af3-8c74-618afa6386df"
+      },
+      "squuid": "63907d8c-16ac-4812-a095-c302ade4b829",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Evangelischer Presseverband Norddeutschland GmbH",
+        "squuid": "5be1a6b6-c548-44ab-9ad3-d1896609c1c7"
+      },
+      "squuid": "63907e00-efe0-453a-9434-6d731cad12c2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Evangelischer Presseverband für Westfalen und Lippe e.V.",
+        "squuid": "5be1a6b6-6548-4947-82be-7535120d851f"
+      },
+      "squuid": "63907e16-4773-42c5-9948-7f7f9d0a3cfa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Wichern-Verlag GmbH",
+        "squuid": "5be1a6b6-deac-497e-b5ab-9f4f2b07c638"
+      },
+      "squuid": "63907e21-8d4f-4e59-8b22-7e6696726217",
+      "state": "active"
+    }
+  ]
+}

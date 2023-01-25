@@ -1,27 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "THMMS MidCo GmbH",
-        "squuid": "5c51cf21-f371-4b98-b002-c9670bc78efe"
-      },
-      "squuid": "5c51d052-e385-4f97-bcc2-a2ccd3df9c18",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Parship Group GmbH",
-        "squuid": "5c51ce6e-7e66-4fe5-9230-023b1707811e"
-      },
-      "squuid": "6023cd3d-64b5-4be8-bb3a-34b38f390ae6",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Speersort",
@@ -32,28 +10,11 @@
   "streetNumber": "10",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "20095",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "7Love Holding GmbH",
-        "squuid": "5c51d09c-4dc0-4aeb-8ba3-bc3f77848e3c"
-      },
-      "squuid": "5c51d0bc-320e-47c3-81fc-d460c1fc6116",
-      "state": "active"
-    }
-  ]
+  "zipcode": "20095"
 }

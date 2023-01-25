@@ -1,0 +1,65 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.6,
+      "held": {
+        "name": "gesund.de GmbH & Co. KG",
+        "squuid": "61b320a6-94dc-446d-b25a-ab63da05c97a"
+      },
+      "squuid": "63c57fca-e51b-4ea8-a060-67ad4409a62b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.6,
+      "held": {
+        "name": "gesund.de Beteiligungsverwaltungs GmbH",
+        "squuid": "61b320e6-0700-40ae-8fa3-b141f94b53ca"
+      },
+      "squuid": "63c5891b-1373-4efc-912d-f2962b9c9169",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Baierbronn",
+  "pseudoCompany": false,
+  "street": "Konradshöhe",
+  "name": "Isartal Ventures GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63c57e9c-8ba9-4abe-9105-98ecb3c57bdf",
+  "controlDate": "2023-01-16T16:52:26.786Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82065",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Isartalmedien GmbH & Co KG",
+        "squuid": "5c4ed82a-a196-4c5d-92da-885a88f6c18a"
+      },
+      "squuid": "63c58114-f8b1-4816-88fe-46d97d30d98b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Isartal Ventures Beteiligungsgesellschaft mbH",
+        "squuid": "63c580ff-120a-4afe-8e16-3b489bc6c5a5"
+      },
+      "squuid": "63c58121-dcdf-4da4-bf58-ff050c5789f8",
+      "state": "active"
+    }
+  ]
+}

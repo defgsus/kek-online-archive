@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Kehrwieder Verlags GmbH & Co. KG",
+        "squuid": "63d10b85-5775-4ef9-a3c6-aad6caa89d21"
+      },
+      "squuid": "63d10c39-e7f2-4fb3-a088-628ef6acd8dc",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hildesheim",
+  "pseudoCompany": false,
+  "street": "Wallstr.",
+  "name": "Kehrwieder Verlag Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "63d10b9f-0536-46f9-826d-b5a9f066048c",
+  "controlDate": "2023-01-25T11:02:32.466Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "31134",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Gebrüder Gerstenberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-8239-480f-89fa-73f710bd9009"
+      },
+      "squuid": "63d10d22-e8bc-458b-a9a0-8fda8a75f98a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Gerstenberg, Daniel",
+        "squuid": "5be1a6b6-9416-41b7-b5ad-cc8ddc2b417a"
+      },
+      "squuid": "63d10d2e-b7bf-40e0-ad45-442b45b7f876",
+      "state": "active"
+    }
+  ]
+}

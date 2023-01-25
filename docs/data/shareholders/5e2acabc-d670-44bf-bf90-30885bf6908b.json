@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 5.0,
-      "held": {
-        "name": "Berlin Tourismus & Kongress GmbH",
-        "squuid": "5d249ea4-b7b0-40e4-916d-b768ffc90d7c"
-      },
-      "squuid": "5e2acb96-fd05-44fb-ab01-2218790d2f0e",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Potsdam",
   "pseudoCompany": false,
   "street": "Am Neuen Markt",
@@ -22,9 +10,10 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "14467"

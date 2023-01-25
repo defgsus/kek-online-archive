@@ -1,40 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Sony Pictures Entertainment Company",
-        "squuid": "5be1a6b6-82b4-401e-a7cf-8be9e30d4e04"
-      },
-      "squuid": "5be1a6b7-f802-47d0-87a1-0b2da3b83c5d",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "New York, USA",
-  "pseudoCompany": false,
   "name": "Sony Corporation of America",
-  "naturalPerson": false,
-  "squuid": "5be1a6b6-760f-4df3-85ba-30c538b135bc",
+  "pseudoCompany": false,
   "controlDate": "2022-07-14T16:14:33.777Z",
+  "squuid": "5be1a6b6-760f-4df3-85ba-30c538b135bc",
+  "city": "New York, USA",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Sony Americas Holding, Inc.",
-        "squuid": "5be1a6b6-d477-4723-8606-3e54d40965e6"
-      },
-      "squuid": "5be1a6b7-c77e-4e94-9690-16de08474a28",
-      "state": "active"
-    }
-  ]
+  "state": "archived",
+  "naturalPerson": false
 }

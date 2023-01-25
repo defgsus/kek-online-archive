@@ -1,0 +1,74 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Altmühlfranken Verlag GmbH",
+        "squuid": "63d001e6-ba1a-4e73-afbe-d3e72765bafd"
+      },
+      "squuid": "63d00271-0223-4ac9-a1ca-32756b6b46e7",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Nüdingen",
+  "pseudoCompany": false,
+  "street": "Am Pfaffenpfad",
+  "name": "prospega GmbH",
+  "naturalPerson": false,
+  "squuid": "63ce97bf-2d00-4afc-8155-46e90e225226",
+  "controlDate": "2023-01-23T14:24:04.859Z",
+  "streetNumber": "28",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "97720",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenzeitung.de",
+        "squuid": "63ce9821-ca77-45f0-b036-3014570dd22f"
+      },
+      "squuid": "63ce983e-da8d-428e-ad36-9c60a0ac19fb",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "WPV Gesellschaft für Werbung, Presse und Vertrieb mbH",
+        "squuid": "5be1a6b6-066f-451c-b247-87acd547bf32"
+      },
+      "squuid": "63ce98b9-78c2-4d5b-b401-13fbab75657c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Umkehr, Peter",
+        "squuid": "63ce97e4-311f-42ce-a9b6-48240deaf82e"
+      },
+      "squuid": "63ce98c4-a04b-4243-b88d-9ceff8611479",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Ebner, Stefan",
+        "squuid": "63ce980b-bddb-48c4-b65f-36ec34f6b16e"
+      },
+      "squuid": "63ce98d2-6f0f-4fbf-b8f0-1117de0a4584",
+      "state": "active"
+    }
+  ]
+}

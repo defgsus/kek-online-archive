@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63ce7206-da22-4a1c-8a01-a91a233c01b3",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Laumanns Medienservice GmbH & Co. KG",
+        "squuid": "63ce71ba-cddf-4175-9896-c05dd443e51a"
+      },
+      "squuid": "63ce721e-71e7-48c5-a5b3-6f2515fc73bb",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochentip.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-23T11:39:59.726Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -19,19 +19,13 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5e203cc0-aed9-45b8-a272-5c22a5c2f4e6",
-  "controlDate": "2022-07-04T15:20:59.571Z",
+  "controlDate": "2023-01-11T12:26:29.096Z",
   "streetNumber": "4",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "85774",
@@ -77,13 +71,24 @@
       "state": "active"
     },
     {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "ProSiebenSat.1 GP II GmbH",
+        "squuid": "62c30537-5369-4648-9b91-eac6c29b9223"
+      },
+      "squuid": "62c30557-a4cf-4b6f-94b8-0dce1e652aa9",
+      "state": "active"
+    },
+    {
       "type": "own",
       "capitalShares": 30.3,
       "holder": {
-        "name": "Schiffers, Tim",
-        "squuid": "5e203ed6-be2e-4d86-90bd-bcad4a2a44f6"
+        "name": "ParshipMeet Holding GmbH",
+        "squuid": "63beaa43-4ca3-42b1-88d9-20857c390059"
       },
-      "squuid": "5e203f54-883b-4ffd-b291-59d242902e2a",
+      "squuid": "63beaba6-3d19-4d78-9174-a3d16db859aa",
       "state": "active"
     }
   ]

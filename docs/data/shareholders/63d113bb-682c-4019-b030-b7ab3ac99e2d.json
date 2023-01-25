@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Bayreuth",
+  "pseudoCompany": false,
+  "street": "Theodor-Schmidt-Str.",
+  "name": "Neue Bayreuther Anzeigenblattverlags GmbH",
+  "naturalPerson": false,
+  "squuid": "63d113bb-682c-4019-b030-b7ab3ac99e2d",
+  "controlDate": "2023-01-25T11:35:17.190Z",
+  "streetNumber": "17",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "95448",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ws-fz.de",
+        "squuid": "63d11392-bc68-45e5-ab60-3657acc65e87"
+      },
+      "squuid": "63d113d9-8090-4d03-a092-03b27e3fbeb2",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nordbayerischer Kurier Zeitungsverlag GmbH",
+        "squuid": "5c53152b-b3eb-4f9b-919d-edebc741d132"
+      },
+      "squuid": "63d1148f-eb91-489c-b2e3-111e878168f7",
+      "state": "active"
+    }
+  ]
+}

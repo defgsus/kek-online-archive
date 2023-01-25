@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Reutlingen",
+  "pseudoCompany": false,
+  "street": "Beutterstr.",
+  "name": "Reutlinger Wochenblatt GmbH",
+  "naturalPerson": false,
+  "squuid": "6391e7a4-c7c9-488c-a1bb-ee4fcd17ac3e",
+  "controlDate": "2022-12-08T13:36:10.422Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "72764",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stadtmagazin",
+        "squuid": "6391e7b4-d8e8-46d2-93d8-13470e41b323"
+      },
+      "squuid": "6391e7fe-ccc3-4b86-9801-27ad8ab85308",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Buchhandlung Eugen Lachenmann GmbH & Co KG",
+        "squuid": "5be1a6b6-9540-4111-bf03-3717c3fd2dd4"
+      },
+      "squuid": "6391e86f-a1a6-408d-9f34-73f51ff5451a",
+      "state": "active"
+    }
+  ]
+}

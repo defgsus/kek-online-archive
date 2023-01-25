@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Lagoon Media GmbH & Co. KG",
-        "squuid": "5be1a6b6-4e3f-4f0b-8419-0dd7e3c16bde"
-      },
-      "squuid": "5f05c2e6-9c6e-4eeb-862b-da987aa31eb4",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Bechhofen",
   "pseudoCompany": false,
   "street": "Germannstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "25",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "66894",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Lagoon Media GmbH & Co. KG",
-        "squuid": "5be1a6b6-4e3f-4f0b-8419-0dd7e3c16bde"
-      },
-      "squuid": "5f05c38a-9600-41f8-8797-413c0792f3c6",
-      "state": "active"
-    }
-  ]
+  "zipcode": "66894"
 }

@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "held": {
-        "name": "Berlin Tourismus & Kongress GmbH",
-        "squuid": "5d249ea4-b7b0-40e4-916d-b768ffc90d7c"
-      },
-      "squuid": "5e2acb6b-b8b9-48ad-9779-63730b69daf3",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Schönefeld",
   "pseudoCompany": false,
   "name": "Flughafen Berlin-Brandenburg GmbH",
@@ -20,9 +8,10 @@
   "controlDate": "2022-01-07T12:45:42.739Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "12529"

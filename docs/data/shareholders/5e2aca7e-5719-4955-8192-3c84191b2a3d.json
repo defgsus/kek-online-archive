@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 40.0,
-      "held": {
-        "name": "Berlin Tourismus & Kongress GmbH",
-        "squuid": "5d249ea4-b7b0-40e4-916d-b768ffc90d7c"
-      },
-      "squuid": "5e2acb35-3edb-4c87-a40f-dcde482f51bf",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Am Karlsbad",
@@ -22,9 +10,10 @@
   "streetNumber": "11",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "10785"

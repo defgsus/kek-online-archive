@@ -18,7 +18,7 @@
   "name": "Schleunungdruck GmbH",
   "naturalPerson": false,
   "squuid": "60bf5a76-858a-4601-b5f1-964284849b88",
-  "controlDate": "2022-07-20T15:30:09.826Z",
+  "controlDate": "2022-12-15T14:02:42.983Z",
   "streetNumber": "27",
   "organizations": [
     {
@@ -33,5 +33,27 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "97828"
+  "zipcode": "97828",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.4,
+      "holder": {
+        "name": "Druckhaus Mainfranken GmbH",
+        "squuid": "62d81f6a-f37f-475c-a99f-993c23776145"
+      },
+      "squuid": "62d81fa1-c706-4719-a008-97f5d6923aa9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 66.6,
+      "holder": {
+        "name": "Eigenbesitz der Schleunungdruck GmbH",
+        "squuid": "62d81f7e-13a5-4787-8d45-6fe01d3c03c9"
+      },
+      "squuid": "62d81fb6-4af7-4d8f-8576-0d2dfd05bd7c",
+      "state": "active"
+    }
+  ]
 }

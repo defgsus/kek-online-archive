@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 8.5,
-      "held": {
-        "name": "Westfalium Verlag GmbH & Co KG",
-        "squuid": "5be1a6b6-1cea-4e9f-a87a-37a249af11df"
-      },
-      "squuid": "5be1a6b8-e30b-4a7e-bb09-71eea184012f",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Warendorf",
   "pseudoCompany": false,
   "street": "Oststr.",
@@ -23,23 +11,12 @@
   "streetNumber": "24",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "48231",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Salmann, Peter",
-        "squuid": "5be1a6b6-c6f9-4f93-afeb-8341831a7678"
-      },
-      "squuid": "5be1a6b8-7f20-4d36-844c-777d3704fb9c",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

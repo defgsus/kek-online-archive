@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Bergisch Gladbach",
+  "pseudoCompany": false,
+  "street": "Pfaffrather Str.",
+  "name": "Bergisches Handelsblatt GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63d140ba-e24f-4f24-9205-b3e71e462199",
+  "controlDate": "2023-01-25T14:48:07.448Z",
+  "streetNumber": "132",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "51465",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bergisches-handelsblatt.de",
+        "squuid": "63d140ce-75de-49bd-bbf9-6f413a02dfc7"
+      },
+      "squuid": "63d140e4-ab2a-49a5-8470-42f97f0d67d5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rheinische Anzeigenblatt GmbH & Co. KG",
+        "squuid": "5be1a6b6-e2af-4c23-bb5d-2a957fb06149"
+      },
+      "squuid": "63d14189-6d04-45d3-a025-c59b8b35264e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bergisches Handelsblatt Verwaltungs-GmbH",
+        "squuid": "63d14121-65b3-4410-8249-8dcb6f4d8864"
+      },
+      "squuid": "63d14195-c941-402d-98bd-060db9ba8e1c",
+      "state": "active"
+    }
+  ]
+}

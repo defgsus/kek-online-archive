@@ -1,0 +1,82 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Hans Müller VZ Beteiligungen GmbH & Co. KG",
+        "squuid": "6374c349-6318-426f-bde7-5f65d7e7dbf8"
+      },
+      "squuid": "63887865-3769-4fdf-8c41-f726aa651e9d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Pretzfelder Str.",
+  "name": "Hans Müller VZ Beteiligungen Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "63887816-9f14-4ee2-82b8-08ea09379723",
+  "controlDate": "2022-12-16T09:59:02.357Z",
+  "streetNumber": "7-11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "90425",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Oschmann, Gunther",
+        "squuid": "5be1a6b6-5e9d-48fa-b088-265055082ac9"
+      },
+      "squuid": "639c413c-045e-4475-8d68-1b2debe58011",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Oschmann, Constanze",
+        "squuid": "5be1a6b6-649e-43f5-ab9a-1ced442fd834"
+      },
+      "squuid": "639c4151-b77b-49e9-802b-7b53aa6a29b5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Oschmann, Michael",
+        "squuid": "5be1a6b6-2941-49b8-ad22-038b5aa868af"
+      },
+      "squuid": "639c4166-9627-464d-84f6-70e2221b3032",
+      "state": "active"
+    }
+  ]
+}

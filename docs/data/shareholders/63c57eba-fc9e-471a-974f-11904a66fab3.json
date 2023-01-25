@@ -1,0 +1,34 @@
+{
+  "name": "NOVENTI Health SE",
+  "squuid": "63c57eba-fc9e-471a-974f-11904a66fab3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 38.9,
+      "held": {
+        "name": "gesund.de GmbH & Co. KG",
+        "squuid": "61b320a6-94dc-446d-b25a-ab63da05c97a"
+      },
+      "squuid": "63c57fa0-e207-40ea-9307-3b87b9b00bb9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 38.9,
+      "held": {
+        "name": "gesund.de Beteiligungsverwaltungs GmbH",
+        "squuid": "61b320e6-0700-40ae-8fa3-b141f94b53ca"
+      },
+      "squuid": "63c588eb-dcdb-4f30-8b62-5d46bd20d5c6",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active"
+}

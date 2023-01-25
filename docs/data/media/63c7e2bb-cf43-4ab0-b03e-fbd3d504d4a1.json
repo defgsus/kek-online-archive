@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63c7e2bb-cf43-4ab0-b03e-fbd3d504d4a1",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Digitalhaus Franken GmbH",
+        "squuid": "604a46d7-2329-4db3-ab33-adf5784822dc"
+      },
+      "squuid": "63c7e2de-da2b-4c14-b822-fb30cf42a4c5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Mediengruppe Oberfranken Redaktionen GmbH & Co KG",
+        "squuid": "5bf3f388-501e-47f0-8eed-d55ff3346624"
+      },
+      "squuid": "63c7e336-4bb4-4c90-ae7a-8773814fa46f",
+      "state": "active"
+    }
+  ],
+  "name": "www.fraenkischertag.de/bayerischerundschau",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-18T12:14:52.848Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

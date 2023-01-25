@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63d125cf-5c4f-43d0-a234-ea1186ce210a",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Cl. Attenkofer'sche Buch- und Kunstdruckerei Verlagsbuchhandlung Straubing KG",
+        "squuid": "5be1a6b6-f22b-4544-889f-d31615692dc4"
+      },
+      "squuid": "63d126b7-9d88-4597-afc5-e42d769b7e0a",
+      "state": "active"
+    }
+  ],
+  "name": "www.chamland-aktuell.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-25T12:54:20.409Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

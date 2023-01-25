@@ -3,10 +3,11 @@
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Burchardtsr.",
-  "name": "Bauer Lifestyle GmbH",
+  "name": "Bauer Lifestyle KG",
   "naturalPerson": false,
+  "limitedPartnership": true,
   "squuid": "5be1a6b6-446d-466e-9cb0-921496118093",
-  "controlDate": "2022-07-18T13:56:14.936Z",
+  "controlDate": "2023-01-11T14:56:04.951Z",
   "streetNumber": "11",
   "organizations": [
     {
@@ -46,6 +47,17 @@
         "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
       },
       "squuid": "5be1a6b8-c515-4750-ab35-b28b30cec340",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Bauer Komplementär KG",
+        "squuid": "5eaffda5-a775-4f8a-9124-c01ded28585e"
+      },
+      "squuid": "63bece9a-868f-456c-8911-20b58ce8866d",
       "state": "active"
     }
   ]

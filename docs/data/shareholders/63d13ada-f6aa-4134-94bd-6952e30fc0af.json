@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Müllerstr.",
+  "name": "Berliner Abendblatt Medienhaus GmbH",
+  "naturalPerson": false,
+  "squuid": "63d13ada-f6aa-4134-94bd-6952e30fc0af",
+  "controlDate": "2023-01-25T14:22:26.801Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "13353",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.berliner-abendblatt.de",
+        "squuid": "63d13ac0-3830-49fa-b086-97fcd63a1bfe"
+      },
+      "squuid": "63d13af4-e219-40ce-ab7a-aa9d35022b88",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BEM Medien und Beteiligungen GmbH",
+        "squuid": "63d13b93-03a1-4280-8e3d-e24bfc245688"
+      },
+      "squuid": "63d13ba6-c8d5-4d35-a302-2cebcd40ef7d",
+      "state": "active"
+    }
+  ]
+}

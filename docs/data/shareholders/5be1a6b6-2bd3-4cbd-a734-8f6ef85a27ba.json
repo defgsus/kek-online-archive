@@ -78,15 +78,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "www.rck-tv.de",
-        "squuid": "5f33e253-5513-44ee-9bea-5cd1c645151b"
-      },
-      "squuid": "5f33e2a5-adb9-4105-80dd-ebebfe640bd5",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "www.deluxemusic.de",
         "squuid": "5f3e843e-42d2-4306-a6f4-265ecf145bae"
       },
@@ -107,22 +98,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 99.0,
-      "holder": {
-        "name": "High View Holding GmbH",
-        "squuid": "5be1a6b6-1a81-4c5d-8433-3016b4730574"
-      },
-      "squuid": "5be1a6b7-7a11-4f7e-a4f3-c15977447951",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 1.0,
       "holder": {
         "name": "Andmann Media Holding GmbH",
         "squuid": "5be1a6b6-6b3e-41d9-a3d9-4f9cc1eb60e0"
       },
       "squuid": "5be1a6b7-9bef-48f0-a52c-b000bdc45d2b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 99.0,
+      "holder": {
+        "name": "High View Holding GmbH",
+        "squuid": "5be1a6b6-1a81-4c5d-8433-3016b4730574"
+      },
+      "squuid": "637f23fe-83a4-4507-b0fd-a48951faf646",
       "state": "active"
     }
   ]

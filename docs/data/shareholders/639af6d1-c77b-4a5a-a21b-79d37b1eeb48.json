@@ -1,0 +1,82 @@
+{
+  "state": "active",
+  "city": "Greifswald",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "meckpomm.tv GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "639af6d1-c77b-4a5a-a21b-79d37b1eeb48",
+  "controlDate": "2022-12-15T10:29:50.394Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "17489",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fas-tv.de",
+        "squuid": "5f202929-08e9-4d88-9c39-bcc6558e2909"
+      },
+      "squuid": "639af6e1-1323-43f6-9728-1d6593e2c781",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ruegentv.de",
+        "squuid": "5f2028fc-0981-43b1-8f95-5323ec3d1ed4"
+      },
+      "squuid": "639af6f4-a611-46c4-bad8-bd8d64d270e8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.usedomtv.de",
+        "squuid": "5f2032be-907b-4ddc-88d2-0e3f20428ef1"
+      },
+      "squuid": "63b8083a-2ac9-42c9-a0a7-5465b224db22",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "meckpomm.tv Verwaltungs GmbH",
+        "squuid": "639af7a1-b1c6-4d07-8f49-629edb92524f"
+      },
+      "squuid": "639af7b3-fa61-4d5f-8b00-a58f079d8780",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "FAS GmbH",
+        "squuid": "5f2028e9-bd26-4f95-b774-cafafe1b5d77"
+      },
+      "squuid": "639af7c0-662e-4ed8-bc3f-3824ab0cdd56",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "AEP Plückhahn Wolgast GmbH",
+        "squuid": "5f2024de-4b70-413f-af03-7cb78de1f15f"
+      },
+      "squuid": "639af7cd-3f5a-48e4-9bb4-354f48d28dc9",
+      "state": "active"
+    }
+  ]
+}

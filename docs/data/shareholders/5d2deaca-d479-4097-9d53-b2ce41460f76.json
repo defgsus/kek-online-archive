@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Moskau (RU)",
   "pseudoCompany": false,
   "street": "Zubovsky Boulevard",
@@ -10,21 +10,11 @@
   "streetNumber": "4",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "119021",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.sputniknews.com",
-        "squuid": "5d2dea6f-5131-4c84-8d84-6c50edec6470"
-      },
-      "squuid": "5d2deafb-43c3-4d75-a35f-18b9278ca21b",
-      "state": "active"
-    }
-  ]
+  "zipcode": "119021"
 }

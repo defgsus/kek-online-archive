@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "62cebc40-4d65-418e-9a97-1178ec141185",
-  "controlDate": "2022-07-28T12:09:58.019Z",
+  "controlDate": "2022-12-07T14:27:37.185Z",
   "streetNumber": "43",
   "organizations": [
     {
@@ -34,5 +34,78 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "zipcode": "22297"
+  "zipcode": "22297",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Aust, Prof. Norbert",
+        "squuid": "5be1a6b6-dcdf-4594-b9cd-fcb44854de6e"
+      },
+      "squuid": "62e27df4-a4dd-43f0-abc1-d55ef0409780",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.67,
+      "holder": {
+        "name": "Aust, Golo",
+        "squuid": "62e27d39-7a1f-47e7-9897-5729a1a85fd7"
+      },
+      "squuid": "62e27e31-69df-48ce-9395-1997fbc6cad9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.67,
+      "holder": {
+        "name": "Aust, Kaysa",
+        "squuid": "62e27d51-cbec-4574-95d0-8d19eb658745"
+      },
+      "squuid": "62e27e40-4b79-4073-99d4-538c801d4d7b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.67,
+      "holder": {
+        "name": "Aust, Laszlo",
+        "squuid": "62e27d73-3c41-4112-a20e-6d53d726007b"
+      },
+      "squuid": "62e27e57-71a8-4925-8bbd-14271c6540dc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.67,
+      "holder": {
+        "name": "Aust, Martha",
+        "squuid": "62e27d80-3896-4903-a743-17b7816d79c1"
+      },
+      "squuid": "62e27e66-12c7-4591-b25c-1dfca3ea4254",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.67,
+      "holder": {
+        "name": "Aust, Mima",
+        "squuid": "62e27dd7-966c-40ef-b020-64b325f87c19"
+      },
+      "squuid": "62e27e75-c57e-413a-b76d-1130975ade93",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.67,
+      "holder": {
+        "name": "Aust, Tessa",
+        "squuid": "62e27db6-225a-4d64-8614-999f4b1e8a1b"
+      },
+      "squuid": "62e27e86-8763-4b8c-b47f-d4246848434f",
+      "state": "active"
+    }
+  ]
 }

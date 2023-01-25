@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Amsterdamer Str.",
+  "name": "RAG Interactive GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63d12ae5-5ad9-4a18-ac52-dbd4013e804d",
+  "controlDate": "2023-01-25T13:15:32.018Z",
+  "streetNumber": "192",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50735",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rheinische-anzeigenblaetter.de",
+        "squuid": "63d12a57-0e48-4131-a8ef-7a7805a69ba1"
+      },
+      "squuid": "63d12b22-e765-4d5a-8958-1190f350db50",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rheinische Anzeigenblatt GmbH & Co. KG",
+        "squuid": "5be1a6b6-e2af-4c23-bb5d-2a957fb06149"
+      },
+      "squuid": "63d12bcd-6916-420e-9e72-e3592957e651",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "RAG Interactive Verwaltungs-GmbH",
+        "squuid": "63d12afd-6f5f-40a7-9a64-a3e28b12db92"
+      },
+      "squuid": "63d12bdd-060b-4e55-8508-350110f1b5f9",
+      "state": "active"
+    }
+  ]
+}

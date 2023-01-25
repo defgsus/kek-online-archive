@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Wilhelmstr.",
+  "name": "Funke Berlin Wochenblatt GmbH",
+  "naturalPerson": false,
+  "squuid": "63d1314c-2da8-4369-a357-e9bc5894af60",
+  "controlDate": "2023-01-25T13:42:16.952Z",
+  "streetNumber": "139",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10963",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.berliner-woche.de",
+        "squuid": "63d13111-9fcf-40c2-9416-bf4d6714e3f1"
+      },
+      "squuid": "63d13164-b56a-4124-85e6-bc3fe215b1c8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Hamburger Wochenblatt GmbH",
+        "squuid": "63d13228-54a6-40c4-b3ea-2f1978a46efc"
+      },
+      "squuid": "63d1323a-49d7-4e54-929a-d2b3f9a90643",
+      "state": "active"
+    }
+  ]
+}

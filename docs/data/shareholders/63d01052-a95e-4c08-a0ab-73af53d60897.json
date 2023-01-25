@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "StadtZeitung Verwaltungs GmbH",
+        "squuid": "63d01071-294c-4538-815b-2823a22ffc0b"
+      },
+      "squuid": "63d01248-b72d-4268-89ec-76a94db64e7e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Langenmantelstr.",
+  "name": "StadtZeitung GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63d01052-a95e-4c08-a0ab-73af53d60897",
+  "controlDate": "2023-01-24T17:10:32.028Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86153",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.staz.de",
+        "squuid": "63d01026-0a06-4bb7-97b1-c77527208f19"
+      },
+      "squuid": "63d010df-fe0c-4d04-92bb-7d24f45b0f97",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Sixta, Thomas",
+        "squuid": "5be1a6b6-a101-4b65-af00-fa2519b61e52"
+      },
+      "squuid": "63d011de-13ef-49cc-b5a1-07054a105c73",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "StadtZeitung Verwaltungs GmbH",
+        "squuid": "63d01071-294c-4538-815b-2823a22ffc0b"
+      },
+      "squuid": "63d011ea-79ad-4b08-9906-dd2c104f6463",
+      "state": "active"
+    }
+  ]
+}

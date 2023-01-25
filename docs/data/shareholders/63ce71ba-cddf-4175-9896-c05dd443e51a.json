@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Lippstadt",
+  "pseudoCompany": false,
+  "street": "Hansastr.",
+  "name": "Laumanns Medienservice GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63ce71ba-cddf-4175-9896-c05dd443e51a",
+  "controlDate": "2023-01-23T11:40:51.215Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "59557",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochentip.de",
+        "squuid": "63ce7206-da22-4a1c-8a01-a91a233c01b3"
+      },
+      "squuid": "63ce721e-71e7-48c5-a5b3-6f2515fc73bb",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Laumanns Verwaltungs GmbH",
+        "squuid": "5be1a6b6-b890-4cb5-bcd1-8bf4073a1fd6"
+      },
+      "squuid": "63ce72ba-a492-4aa2-ba3e-f9e599c66aa8",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Laumanns Medienservice Verwaltungs GmbH",
+        "squuid": "63ce71d0-cc26-4093-ba41-7afe20d323ea"
+      },
+      "squuid": "63ce72c9-70a1-4ebf-a5eb-daade9468c8f",
+      "state": "active"
+    }
+  ]
+}

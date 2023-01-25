@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63c6cef4-76a1-4d25-a52a-1cbc4f1aedc7",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Presse-Druck- und Verlags-GmbH",
+        "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
+      },
+      "squuid": "63c6d0a4-b767-4d7a-9c4c-9f0963fc9933",
+      "state": "active"
+    }
+  ],
+  "name": "www.mittelschwaebische-nachrichten.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-17T16:44:55.469Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

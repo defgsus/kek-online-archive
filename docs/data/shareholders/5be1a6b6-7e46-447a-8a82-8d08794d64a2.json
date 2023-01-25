@@ -18,7 +18,7 @@
   "name": "Brunswiek Marketing GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-7e46-447a-8a82-8d08794d64a2",
-  "controlDate": "2022-07-12T11:27:58.993Z",
+  "controlDate": "2022-12-06T14:16:52.760Z",
   "streetNumber": "3",
   "organizations": [
     {
@@ -37,12 +37,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 10.0,
       "holder": {
         "name": "Tenzer, Harald",
         "squuid": "5be1a6b6-9edc-4180-8252-94ea5139681e"
       },
       "squuid": "5f04331a-f863-40e3-939c-0fd773827ab5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Volksbank BraWo",
+        "squuid": "62da7b9f-27b2-4b5c-ab54-6d7bd23dec00"
+      },
+      "squuid": "62da7bec-8523-4f7e-8014-134677672050",
       "state": "active"
     }
   ]

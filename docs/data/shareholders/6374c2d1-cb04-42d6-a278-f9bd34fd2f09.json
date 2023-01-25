@@ -1,6 +1,4 @@
 {
-  "name": "Sellwerk Verwaltungs GmbH",
-  "squuid": "6374c2d1-cb04-42d6-a278-f9bd34fd2f09",
   "owns": [
     {
       "complementaryPartner": true,
@@ -14,17 +12,20 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Pretzfelder Str.",
+  "name": "Sellwerk Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "6374c2d1-cb04-42d6-a278-f9bd34fd2f09",
+  "controlDate": "2022-12-01T09:40:52.380Z",
+  "streetNumber": "7-11",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -45,5 +46,17 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active"
+  "zipcode": "90425",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hans Müller VZ Beteiligungen GmbH & Co. KG",
+        "squuid": "6374c349-6318-426f-bde7-5f65d7e7dbf8"
+      },
+      "squuid": "6388774c-70a2-47a7-91c9-1a4136bc64e7",
+      "state": "active"
+    }
+  ]
 }

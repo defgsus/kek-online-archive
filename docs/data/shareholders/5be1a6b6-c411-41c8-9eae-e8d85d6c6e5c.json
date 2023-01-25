@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Meinerzhagen",
   "pseudoCompany": false,
   "street": "Heerstraße 5",
@@ -9,70 +9,12 @@
   "controlDate": "2022-07-20T15:51:34.228Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "58540",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Ski-Magazin",
-        "squuid": "5be1a6b1-052c-435b-a38c-5db3dca87c5c"
-      },
-      "squuid": "5be1a6b9-3201-4bd3-9dce-c80283588d7c",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "wanderlust",
-        "squuid": "5be1a6b1-8742-4d04-bf98-a5d90e8b3727"
-      },
-      "squuid": "5be1a6b9-fcfb-4fc3-93f5-cd87d6d4f1ff",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.skimagazin.de",
-        "squuid": "5be1a6b1-76cc-42b9-96cb-b48d684d59eb"
-      },
-      "squuid": "5be1a6b9-c2b6-443c-bc1a-2574a474acbe",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.snow.de",
-        "squuid": "5be1a6b1-bd3f-46ed-9778-4619d3d788ca"
-      },
-      "squuid": "5be1a6b9-131e-4c3d-abde-2f2e5f83c99a",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.wanderlust-magazin.de",
-        "squuid": "5be1a6b1-7225-4f9e-9a6b-27b7e474528e"
-      },
-      "squuid": "5be1a6b9-85eb-4f67-8fb1-cd9b8f9a9f92",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Brinkmann, Thomas",
-        "squuid": "5be1a6b6-fa4d-40dc-a4cf-87f90d065412"
-      },
-      "squuid": "5be1a6b8-3f19-4a6d-9861-9d7dcc6c2914",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

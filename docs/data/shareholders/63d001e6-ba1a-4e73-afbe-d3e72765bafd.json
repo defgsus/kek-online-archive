@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Weißenburg",
+  "pseudoCompany": false,
+  "street": "Rothenburger Str.",
+  "name": "Altmühlfranken Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "63d001e6-ba1a-4e73-afbe-d3e72765bafd",
+  "controlDate": "2023-01-24T16:07:15.849Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "91781",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenzeitung-online.de",
+        "squuid": "63d0014e-27ea-4e59-8d53-5e015140bdfa"
+      },
+      "squuid": "63d00208-4395-4b7e-83c5-712e2e159e6b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "prospega GmbH",
+        "squuid": "63ce97bf-2d00-4afc-8155-46e90e225226"
+      },
+      "squuid": "63d00271-0223-4ac9-a1ca-32756b6b46e7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Mayer & Söhne Druck- und Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-b8b9-4716-9d86-62dc0bebb7f5"
+      },
+      "squuid": "63d0028b-a2f7-49fc-b0dd-cc4de20ad8f7",
+      "state": "active"
+    }
+  ]
+}

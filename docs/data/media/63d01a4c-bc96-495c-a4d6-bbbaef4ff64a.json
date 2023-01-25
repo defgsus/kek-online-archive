@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63d01a4c-bc96-495c-a4d6-bbbaef4ff64a",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Westfälischer Anzeiger Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-1155-4281-b6ac-c4879ebd2c19"
+      },
+      "squuid": "63d01a65-086b-45a6-9d51-f3b7bf371902",
+      "state": "active"
+    }
+  ],
+  "name": "www.wa-anzeigenblaetter.de/stadtanzeiger-hamm",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-24T17:50:11.072Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

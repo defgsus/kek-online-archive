@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Hofmann Druck Nürnberg GmbH & Co KG",
-        "squuid": "5be1a6b6-fc42-4a4e-9752-e3eabd51c5a4"
-      },
-      "squuid": "6087ca97-f302-4752-a004-8853e70f4799",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Nürnberg",
   "pseudoCompany": false,
   "street": "Emmericher Str.",
@@ -23,22 +10,11 @@
   "streetNumber": "10",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "90411",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Hofmann Druck Nürnberg GmbH & Co KG",
-        "squuid": "5be1a6b6-fc42-4a4e-9752-e3eabd51c5a4"
-      },
-      "squuid": "6087cb51-4571-4ef2-ad68-bfde99e091b4",
-      "state": "active"
-    }
-  ]
+  "zipcode": "90411"
 }

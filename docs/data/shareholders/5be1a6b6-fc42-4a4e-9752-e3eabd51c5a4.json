@@ -1,27 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "VN Verlagsmarketing Nürnberg GmbH",
-        "squuid": "5be1a6b6-eb62-4707-8b86-c0cdebb7d3e5"
-      },
-      "squuid": "5be1a6b8-e65e-4c56-b3b0-6969330f249d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Hofmann Druck Nürnberg Verwaltungs GmbH",
-        "squuid": "6087ca7f-b17f-4cce-a2a2-67264e679c4f"
-      },
-      "squuid": "6087cb51-4571-4ef2-ad68-bfde99e091b4",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Nürnberg",
   "pseudoCompany": false,
   "street": "Emmericher Str. 10",
@@ -32,44 +10,12 @@
   "controlDate": "2022-06-27T13:48:32.910Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "90411",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 95.0,
-      "holder": {
-        "name": "Hofmann, Frank",
-        "squuid": "5be1a6b6-9312-408c-8327-59052ebdf653"
-      },
-      "squuid": "5be1a6b8-5e91-4683-ae59-3cffeb6fcbeb",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 5.0,
-      "holder": {
-        "name": "Hofmann, Günter",
-        "squuid": "5be1a6b6-8994-4661-ba6f-952667317d58"
-      },
-      "squuid": "5be1a6b8-c66a-467b-8203-268c6cc93acd",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Hofmann Druck Nürnberg Verwaltungs GmbH",
-        "squuid": "6087ca7f-b17f-4cce-a2a2-67264e679c4f"
-      },
-      "squuid": "6087ca97-f302-4752-a004-8853e70f4799",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

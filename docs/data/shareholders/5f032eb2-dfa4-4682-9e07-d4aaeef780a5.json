@@ -1,25 +1,12 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "USMedia GmbH & Co KG",
-        "squuid": "5be1a6b6-43aa-4a11-80d4-34885897aff1"
-      },
-      "squuid": "5f032f13-2903-4afe-8107-5e4a5383c258",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Tegernsee",
   "pseudoCompany": false,
   "street": "Hauptstr.",
-  "name": "USMedia Geschäftsführungsgesellschaft mbH",
+  "name": "USMedia GmbH",
   "naturalPerson": false,
   "squuid": "5f032eb2-dfa4-4682-9e07-d4aaeef780a5",
-  "controlDate": "2022-07-14T11:41:59.262Z",
+  "controlDate": "2022-12-15T10:42:17.166Z",
   "streetNumber": "33",
   "organizations": [
     {
@@ -29,15 +16,26 @@
     }
   ],
   "zipcode": "83684",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rund-ums-baby.de",
+        "squuid": "5be1a6b1-9bd0-4b7e-8109-f16937a17064"
+      },
+      "squuid": "639afaf5-25f7-42d1-bf1d-241c50764b70",
+      "state": "active"
+    }
+  ],
   "ownedBy": [
     {
       "type": "own",
       "capitalShares": 100.0,
       "holder": {
-        "name": "USMedia GmbH & Co KG",
-        "squuid": "5be1a6b6-43aa-4a11-80d4-34885897aff1"
+        "name": "Nestlé Deutschland AG",
+        "squuid": "639afa4e-a3d0-4005-afa2-e11c06162833"
       },
-      "squuid": "5f032f4f-2bd5-4ac0-96f1-85217e76dcfa",
+      "squuid": "639afa6a-ea09-433f-ae1d-52f624ad37d4",
       "state": "active"
     }
   ]

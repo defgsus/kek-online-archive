@@ -6,8 +6,14 @@
   "name": "AEP Plückhahn Service GmbH",
   "naturalPerson": false,
   "squuid": "5f9c1188-b333-454c-ac5b-59878e9c75db",
+  "controlDate": "2023-01-06T11:39:46.200Z",
   "streetNumber": "18 b",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
       "name": "MMV",
@@ -24,6 +30,15 @@
         "squuid": "5f9c0d7a-33e5-436b-b0aa-e18c7c63d01d"
       },
       "squuid": "5f9c11bc-b759-405a-982f-6e53ef8d491d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.usedomtv.de",
+        "squuid": "5f2032be-907b-4ddc-88d2-0e3f20428ef1"
+      },
+      "squuid": "63b80830-801f-49de-aa72-2dad7e80593a",
       "state": "active"
     }
   ],

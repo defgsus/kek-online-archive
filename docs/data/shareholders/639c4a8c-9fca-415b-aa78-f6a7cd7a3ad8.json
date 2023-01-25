@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Konstanz",
+  "pseudoCompany": false,
+  "street": "Max-Stromeyer-Str.",
+  "name": "SK ONE GmbH",
+  "naturalPerson": false,
+  "squuid": "639c4a8c-9fca-415b-aa78-f6a7cd7a3ad8",
+  "controlDate": "2022-12-16T10:40:36.418Z",
+  "streetNumber": "178",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "78467",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sweb.de",
+        "squuid": "639c4a23-66d3-4630-a14a-3b9c801985a3"
+      },
+      "squuid": "639c4a9d-7671-464d-8d47-3d2e392dbd73",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Südkurier GmbH",
+        "squuid": "5be1a6b6-04f4-457e-bfa8-553d157046be"
+      },
+      "squuid": "639c4b26-7aae-44ef-af75-921a5f29bb41",
+      "state": "active"
+    }
+  ]
+}

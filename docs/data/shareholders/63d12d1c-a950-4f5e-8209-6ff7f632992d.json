@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Rheinische Anzeigenblatt GmbH & Co. KG",
+        "squuid": "5be1a6b6-e2af-4c23-bb5d-2a957fb06149"
+      },
+      "squuid": "63d12d40-9672-4dc7-a296-007b9b0994b0",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Amsterdamer Str.",
+  "name": "Rheinische Anzeigenblatt GmbH",
+  "naturalPerson": false,
+  "squuid": "63d12d1c-a950-4f5e-8209-6ff7f632992d",
+  "controlDate": "2023-01-25T13:23:36.750Z",
+  "streetNumber": "192",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50735",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "DuMont Regionalmedienholding GmbH & Co KG",
+        "squuid": "5be1a6b6-ef0d-457b-8db1-fea99e30f23e"
+      },
+      "squuid": "63d12d9b-e2e9-4bf8-bde3-2298cf40bc5f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Heinen-Verlag GmbH",
+        "squuid": "5be1a6b6-b9b0-4706-bd6c-15559db4e2d9"
+      },
+      "squuid": "63d12da8-e067-4e03-b72a-b5f0179696f2",
+      "state": "active"
+    }
+  ]
+}

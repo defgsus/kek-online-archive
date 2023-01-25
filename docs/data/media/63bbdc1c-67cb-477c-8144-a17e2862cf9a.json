@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63bbdc1c-67cb-477c-8144-a17e2862cf9a",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Zeitungsverlag GmbH & Co Waiblingen KG",
+        "squuid": "5be1a6b6-7df4-4bc8-b97b-01d70dc592a7"
+      },
+      "squuid": "63bbdc35-99f5-4ab1-83f3-38f15881ee82",
+      "state": "active"
+    }
+  ],
+  "name": "www.zvw.de/mein-wochenblatt",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-09T09:19:30.496Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

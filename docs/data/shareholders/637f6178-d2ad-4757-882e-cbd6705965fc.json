@@ -1,13 +1,39 @@
 {
   "name": "Steger, Dagmar",
+  "pseudoCompany": false,
   "squuid": "637f6178-d2ad-4757-882e-cbd6705965fc",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Steger-Bruhn GbR",
+        "squuid": "636b7801-6459-4bbb-aa83-5cdb295f92e0"
+      },
+      "squuid": "637f61b3-6676-4daf-a3a1-0d446533d934",
+      "state": "active"
+    }
+  ],
+  "city": "Wiesbaden",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }

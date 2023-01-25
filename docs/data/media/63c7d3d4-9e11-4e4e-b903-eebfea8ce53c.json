@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63c7d3d4-9e11-4e4e-b903-eebfea8ce53c",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Badischer Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-5fcf-417d-a43e-0cb555c0d424"
+      },
+      "squuid": "63c7d3ef-ef2d-459e-89f8-e1b90c95aa2a",
+      "state": "active"
+    }
+  ],
+  "name": "www.der-sonntag.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-18T11:11:18.045Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

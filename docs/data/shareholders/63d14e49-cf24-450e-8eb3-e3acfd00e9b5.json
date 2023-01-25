@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Robert-Kirchhoff-Str.",
+  "name": "VWP Verlag für Werbe-Publikationen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63d14e49-cf24-450e-8eb3-e3acfd00e9b5",
+  "controlDate": "2023-01-25T15:45:32.053Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53121",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.extra-blatt.de",
+        "squuid": "63d14e26-7184-4e0f-99c6-8a176187fd76"
+      },
+      "squuid": "63d14e76-c5a1-4e76-9478-ccd3bc55a8e5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bonner Anzeigenblatt GmbH & Co. KG",
+        "squuid": "63d14f32-2c74-4929-b07f-c8ed24896200"
+      },
+      "squuid": "63d14f54-f5fe-48c5-bef9-9d837f0d2ae6",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "VWP Verlag für Werbe-Publikationen Verwaltungs GmbH",
+        "squuid": "63d14f06-e7dd-48a1-ada6-0dccb636dc8c"
+      },
+      "squuid": "63d14f63-8772-47f7-a5cf-b0ba66117de2",
+      "state": "active"
+    }
+  ]
+}

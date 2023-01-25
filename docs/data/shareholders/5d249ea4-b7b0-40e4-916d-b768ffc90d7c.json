@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Am Karlsbad ",
@@ -10,83 +10,11 @@
   "streetNumber": "11",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "10785",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.visitberlin.de",
-        "squuid": "5c54462d-08c1-4fcd-ad44-2cfc2eef0c3b"
-      },
-      "squuid": "5d249ebc-4be5-4231-b062-fc1bf0c2b836",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 15.0,
-      "holder": {
-        "name": "Land Berlin",
-        "squuid": "5e2aca63-6ba8-4ad5-9d2c-f19713e4ea25"
-      },
-      "squuid": "5e2acb1d-fc59-453f-9b85-de9db64928bc",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 40.0,
-      "holder": {
-        "name": "BTM Partnerhotels e. V.",
-        "squuid": "5e2aca7e-5719-4955-8192-3c84191b2a3d"
-      },
-      "squuid": "5e2acb35-3edb-4c87-a40f-dcde482f51bf",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "holder": {
-        "name": "Investitionsbank Berlin",
-        "squuid": "5be1a6b6-bc76-4f3b-953a-a3d36f915c96"
-      },
-      "squuid": "5e2acb51-caae-45f8-b0f9-60252963045e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "holder": {
-        "name": "Flughafen Berlin-Brandenburg GmbH",
-        "squuid": "5e2acad1-215b-4ad8-9457-ae1846f0f9b1"
-      },
-      "squuid": "5e2acb6b-b8b9-48ad-9779-63730b69daf3",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 5.0,
-      "holder": {
-        "name": "Messe Berlin GmbH",
-        "squuid": "5e2acaa3-43cf-450c-8a1b-7712383c4802"
-      },
-      "squuid": "5e2acb84-4ec5-45ef-a6f0-74a46f5a01bf",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 5.0,
-      "holder": {
-        "name": "TMB Tourismus-Marketing GmbH",
-        "squuid": "5e2acabc-d670-44bf-bf90-30885bf6908b"
-      },
-      "squuid": "5e2acb96-fd05-44fb-ab01-2218790d2f0e",
-      "state": "active"
-    }
-  ]
+  "zipcode": "10785"
 }

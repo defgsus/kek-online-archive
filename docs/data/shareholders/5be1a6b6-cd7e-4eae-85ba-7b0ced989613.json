@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Karlsruhe",
   "pseudoCompany": false,
   "street": "An der Raumfabrik 35",
@@ -9,133 +9,12 @@
   "controlDate": "2022-07-04T15:08:26.005Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "76227",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.petspot.de",
-        "squuid": "5be1a6b1-fd31-47e9-a9ed-fc60156fcd83"
-      },
-      "squuid": "5be1a6b9-5f5a-4afc-a196-4afaf98461d3",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.primoleben.de",
-        "squuid": "5be1a6b1-9785-425b-b3f5-ab9d4835f432"
-      },
-      "squuid": "5be1a6b9-0143-4372-8717-c72e4f758890",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 9.6,
-      "holder": {
-        "name": "Gebicke, Marius",
-        "squuid": "5be1a6b6-6993-4228-8fc3-299f2366c89a"
-      },
-      "squuid": "5be1a6b8-69de-4ae1-8bca-cc3b534ec68e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 9.0,
-      "holder": {
-        "name": "Zundel, Tobias",
-        "squuid": "5be1a6b6-9c5e-4402-9eaa-f6af03c5de62"
-      },
-      "squuid": "5be1a6b8-3f30-41a1-9d0d-8a30a54f679d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 6.9,
-      "holder": {
-        "name": "Dorner, Jürgen",
-        "squuid": "5be1a6b6-3ed8-4599-ba3d-47ea09411b8a"
-      },
-      "squuid": "5be1a6b8-c895-4c28-9c94-bffba5bea822",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 5.3,
-      "holder": {
-        "name": "Founders Park GmbH",
-        "squuid": "5be1a6b6-0a00-491b-9229-bfd0da590573"
-      },
-      "squuid": "5be1a6b8-d194-440c-a2bc-5f6b7d650c71",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 7.4,
-      "holder": {
-        "name": "Hoffstaedter, Tobias",
-        "squuid": "5be1a6b6-f38e-4277-a697-d14b0c810aaf"
-      },
-      "squuid": "5be1a6b8-0ee1-43f5-970b-989159eee356",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 4.4,
-      "holder": {
-        "name": "Vogt, Alexander",
-        "squuid": "5be1a6b6-0819-4234-892c-5d4776bbc207"
-      },
-      "squuid": "5be1a6b8-bca0-45a4-9efe-07ebd216bfe1",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.5,
-      "holder": {
-        "name": "Arcaro, Michele Giovanni",
-        "squuid": "5be1a6b6-4da6-467a-b08f-f543d712bd79"
-      },
-      "squuid": "5be1a6b8-2068-45a4-8ee1-f88d12d61767",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 31.0,
-      "holder": {
-        "name": "Klambt Digital GmbH",
-        "squuid": "5be1a6b6-90db-48b8-98e9-ba62901d791b"
-      },
-      "squuid": "5be1a6b8-2afd-4f6f-85b1-d3cfff4c49a3",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 17.6,
-      "holder": {
-        "name": "Seitz, Jürgen",
-        "squuid": "5ef0865a-e807-48eb-ba00-4930bb04b71a"
-      },
-      "squuid": "5ef08679-1464-4961-82fa-62fe003d09bf",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 8.2,
-      "holder": {
-        "name": "Eigenbesitz der Define Media GmbH",
-        "squuid": "61a64f99-531d-4a62-a173-d8b440c1e6ad"
-      },
-      "squuid": "61a64fc8-589c-4fe8-9882-a843eca2742f",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

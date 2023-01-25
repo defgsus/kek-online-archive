@@ -38,12 +38,6 @@
       "type": "organization"
     },
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
@@ -62,5 +56,39 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "90425"
+  "zipcode": "90425",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hans Müller VZ Beteiligungen GmbH & Co. KG",
+        "squuid": "6374c349-6318-426f-bde7-5f65d7e7dbf8"
+      },
+      "squuid": "6374c373-6270-49e4-9327-5eaa7be83760",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Sellwerk Verwaltungs GmbH",
+        "squuid": "6374c2d1-cb04-42d6-a278-f9bd34fd2f09"
+      },
+      "squuid": "6374c383-87db-4a94-b0a1-97a209f15e45",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SR Management GmbH & Co. KG",
+        "squuid": "5f905285-3715-460e-affd-dc041afaea8a"
+      },
+      "squuid": "6374c392-bbb8-463a-a578-26dd7054fc9f",
+      "state": "active"
+    }
+  ]
 }

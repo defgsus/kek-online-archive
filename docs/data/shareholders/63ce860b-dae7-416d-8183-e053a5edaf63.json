@@ -1,0 +1,74 @@
+{
+  "state": "active",
+  "city": "Esslingen",
+  "pseudoCompany": false,
+  "street": "Zeppelinstr.",
+  "name": "Echo Anzeigenblatt GmbH & Co. KG",
+  "naturalPerson": true,
+  "limitedPartnership": true,
+  "squuid": "63ce860b-dae7-416d-8183-e053a5edaf63",
+  "controlDate": "2023-01-23T13:08:20.129Z",
+  "streetNumber": "116",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "73730",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ihr-wochenblatt-echo.de",
+        "squuid": "63ce8654-fc5b-4ff5-95e2-a20c385131e9"
+      },
+      "squuid": "63ce8672-73db-43d6-979b-8eb29a94fe86",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Anzeigenblatt GmbH",
+        "squuid": "63ce86fa-6317-4670-8eb9-f24c9869ec8c"
+      },
+      "squuid": "63ce870e-cf88-4766-9a7f-86753c3b1c06",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Bechtle Graphische Betriebe und Verlagsgesellschaft GmbH & Co KG",
+        "squuid": "5be1a6b6-4792-466e-ae6c-b124e9c6b4ba"
+      },
+      "squuid": "63ce878a-e955-4788-ab14-533ca9e60052",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.0,
+      "holder": {
+        "name": "GO Druck Media Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-4042-452c-96bc-3602172e3e77"
+      },
+      "squuid": "63ce879f-3e5c-444d-b305-7d9912859ef5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.0,
+      "holder": {
+        "name": "Senner Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-e299-4cb4-a84a-a2be3abd7f94"
+      },
+      "squuid": "63ce87b4-3380-4dbd-80c8-f3f4eb71fa5c",
+      "state": "active"
+    }
+  ]
+}

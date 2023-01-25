@@ -5,12 +5,22 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 0.0,
+      "capitalShares": 20.0,
       "held": {
         "name": "Gebhard Ohnesorge GbR",
         "squuid": "5be1a6b6-0adb-4ea0-a261-3c5cf5ec9827"
       },
       "squuid": "5be1a6b7-2dc0-4425-b509-e2b3c13ee9d2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Ohnesorge II GbR",
+        "squuid": "636b77d4-36f0-4a24-bafc-49c76a880dc8"
+      },
+      "squuid": "637f6227-3cbd-4eff-8cf5-cddaf44862d8",
       "state": "active"
     }
   ],
@@ -20,6 +30,18 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",

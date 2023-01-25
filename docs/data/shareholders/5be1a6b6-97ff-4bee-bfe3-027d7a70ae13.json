@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Sony Pictures Entertainment Deutschland GmbH",
+        "squuid": "5be1a6b6-bf9a-4c73-8374-7d6faee44613"
+      },
+      "squuid": "63a489b1-0d4b-4f3b-90d5-2d88ae39bb9e",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "London W1F 9LU, United Kingdom",
   "pseudoCompany": false,
@@ -7,11 +19,17 @@
   "naturalPerson": false,
   "co": "AXN NE,",
   "squuid": "5be1a6b6-97ff-4bee-bfe3-027d7a70ae13",
+  "controlDate": "2023-01-16T13:38:03.896Z",
   "placeOfBusiness": "Sony Pictures Television Deutschland GmbH Networks, Liebigstr. 22, 80538 München",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
       "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
       "type": "organization"
     }
   ],

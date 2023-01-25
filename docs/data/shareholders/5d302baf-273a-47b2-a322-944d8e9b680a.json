@@ -1,7 +1,4 @@
 {
-  "name": "Deutsche Lufthansa AG",
-  "controlDate": "2022-07-19T11:28:57.050Z",
-  "squuid": "5d302baf-273a-47b2-a322-944d8e9b680a",
   "owns": [
     {
       "type": "own",
@@ -14,6 +11,13 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "name": "Deutsche Lufthansa AG",
+  "naturalPerson": false,
+  "squuid": "5d302baf-273a-47b2-a322-944d8e9b680a",
+  "controlDate": "2023-01-12T12:33:11.501Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -26,5 +30,47 @@
       "type": "organization"
     }
   ],
-  "state": "active"
+  "zipcode": "60546",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 3.19,
+      "holder": {
+        "name": "BlackRock, Inc.",
+        "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
+      },
+      "squuid": "63c0007a-91a3-4119-9cdf-240dbe5e88c0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.01,
+      "holder": {
+        "name": "Kühne Aviation GmbH",
+        "squuid": "63c0003d-809e-463a-830c-5943bb67104a"
+      },
+      "squuid": "63c0008b-5875-4375-ad20-60a09f2d875d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.01,
+      "holder": {
+        "name": "KA Logistik Beteiligungen GmbH",
+        "squuid": "63c00057-5a0e-4f62-ac62-8ae12b01fb45"
+      },
+      "squuid": "63c0009a-cd62-4e9b-b3de-67216e8072b6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 71.79,
+      "holder": {
+        "name": "Streubesitz an der Deutschen Lufthansa AG",
+        "squuid": "63bffe70-b0f8-4b75-a7e0-f870c7b8960e"
+      },
+      "squuid": "63c000bf-8d4b-4b82-9319-6918f2d77ba4",
+      "state": "active"
+    }
+  ]
 }

@@ -1,6 +1,4 @@
 {
-  "name": "ProSiebenSat.1 GP II GmbH",
-  "squuid": "62c30537-5369-4648-9b91-eac6c29b9223",
   "owns": [
     {
       "complementaryPartner": true,
@@ -14,18 +12,33 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Unterföhring",
+  "pseudoCompany": false,
+  "street": "Medienallee",
+  "name": "ProSiebenSat.1 GP II GmbH",
+  "naturalPerson": false,
+  "squuid": "62c30537-5369-4648-9b91-eac6c29b9223",
+  "controlDate": "2023-01-11T12:31:15.949Z",
+  "streetNumber": "4",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "state": "active"
+  "zipcode": "85774",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ParshipMeet Holding GmbH",
+        "squuid": "63beaa43-4ca3-42b1-88d9-20857c390059"
+      },
+      "squuid": "63beaca2-30f3-4d46-91e6-1368b45a4a83",
+      "state": "active"
+    }
+  ]
 }

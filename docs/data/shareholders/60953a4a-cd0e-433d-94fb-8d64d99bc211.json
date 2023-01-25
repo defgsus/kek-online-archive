@@ -17,7 +17,7 @@
   "name": "DEVK Rückversicherungs- und Beteiligungs-AG",
   "naturalPerson": false,
   "squuid": "60953a4a-cd0e-433d-94fb-8d64d99bc211",
-  "controlDate": "2022-07-15T09:56:50.996Z",
+  "controlDate": "2023-01-12T10:33:40.385Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -28,6 +28,18 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DEVK Deutsche Eisenbahn Versicherung Sach- und HUK-Versicherungsverein a.G. Betriebliche Sozialeinrichtung der Deutschen Bahn",
+        "squuid": "63bfe31c-979f-41c5-99dd-cc09e649684e"
+      },
+      "squuid": "63bfe359-bce3-42ff-9e81-a30bf21147c9",
+      "state": "active"
     }
   ]
 }

@@ -19,19 +19,13 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-17ea-403a-b4b7-2da6a63e2179",
-  "controlDate": "2022-10-06T11:51:12.787Z",
+  "controlDate": "2022-12-20T14:56:46.650Z",
   "streetNumber": "80 c",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
@@ -75,11 +69,23 @@
     },
     {
       "type": "own",
+      "capitalShares": 50.0,
       "holder": {
         "name": "Hunke, Jürgen",
         "squuid": "633eb535-c0ff-415c-9628-1057d7356bb6"
       },
       "squuid": "63452070-9364-4188-8845-23fdf1ae3d3a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hamburg 1 Fernsehen Beteiligungs GmbH",
+        "squuid": "5efdbdcf-cde4-464f-9f82-305b01ace598"
+      },
+      "squuid": "63a1cd2c-c51a-44ee-a433-a7c7726c208c",
       "state": "active"
     }
   ]

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Dresden",
+  "pseudoCompany": false,
+  "street": "Ostraallee",
+  "name": "MVD Medien Vertrieb Dresden GmbH",
+  "naturalPerson": false,
+  "squuid": "639b1039-d26f-4297-891a-19d27c5a21d4",
+  "controlDate": "2022-12-15T12:17:24.591Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "01067",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dawo-dresden.de",
+        "squuid": "639b100d-c3d6-47a4-8de5-1b33dd17d70d"
+      },
+      "squuid": "639b104b-d948-4815-b8cc-13bcba71960b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "639b1091-c0ee-442a-9ee9-74b51862ec24",
+      "state": "active"
+    }
+  ]
+}

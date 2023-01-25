@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hof",
+  "pseudoCompany": false,
+  "street": "Poststr.",
+  "name": "Blickpunkt Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "63d1156a-1516-46ad-9a98-24b1510efd67",
+  "controlDate": "2023-01-25T11:42:15.244Z",
+  "streetNumber": "9/11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "95028",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenspiegel.digital",
+        "squuid": "63d1153e-e16d-4828-b13f-e0c78d2545b5"
+      },
+      "squuid": "63d11586-98cf-46c0-892f-1c6af8533777",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Frankenpost Verlag GmbH",
+        "squuid": "5be1a6b6-73f5-4250-97c6-a6bfa6880234"
+      },
+      "squuid": "63d11612-0382-442f-90e7-53034e7ad102",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63bbf713-12fe-4c6d-8c8c-fb14f42da1d8",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "WeltN24 GmbH",
+        "squuid": "5be1a6b6-4dcb-4243-9296-0269946f3264"
+      },
+      "squuid": "63bbf737-f610-421d-9a49-aa937d6deed4",
+      "state": "active"
+    }
+  ],
+  "name": "www.welt.de/mediathek/",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-09T11:14:36.931Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

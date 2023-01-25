@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63d0014e-27ea-4e59-8d53-5e015140bdfa",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Altmühlfranken Verlag GmbH",
+        "squuid": "63d001e6-ba1a-4e73-afbe-d3e72765bafd"
+      },
+      "squuid": "63d00208-4395-4b7e-83c5-712e2e159e6b",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenzeitung-online.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-24T16:06:12.371Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

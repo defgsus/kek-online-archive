@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Lörracher Str.",
+  "name": "Freiburger Wochenbericht Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "63c7d4a2-0c0e-469f-80f4-a85ada70e6da",
+  "controlDate": "2023-01-18T11:34:28.139Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "79115",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.freiburger-wochenbericht.de",
+        "squuid": "63c7d447-44e1-4bef-8013-6a9f2a3fa67b"
+      },
+      "squuid": "63c7d4be-020f-4dfd-ae07-88c11482b351",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BZ.medien GmbH & Co KG",
+        "squuid": "5be1a6b6-6f79-45c0-9070-3a78ba6dbc51"
+      },
+      "squuid": "63c7d94c-4ff8-4af2-992a-634f878f5113",
+      "state": "active"
+    }
+  ]
+}

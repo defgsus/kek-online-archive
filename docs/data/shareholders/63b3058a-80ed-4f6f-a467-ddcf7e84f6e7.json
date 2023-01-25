@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Agnes-Pockels-Bogen",
+  "name": "brutkasten GmbH",
+  "naturalPerson": false,
+  "squuid": "63b3058a-80ed-4f6f-a467-ddcf7e84f6e7",
+  "controlDate": "2023-01-02T16:28:48.501Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80992",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "starting up",
+        "squuid": "63b305b2-5f51-4f7c-b886-b584a116dc71"
+      },
+      "squuid": "63b305f7-ba97-4632-b340-c2f9e97ad13b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.starting-up.de",
+        "squuid": "63b3059f-db99-456b-b0fd-008cd1f7458f"
+      },
+      "squuid": "63b30614-11a7-4c2a-a1a4-a5c77df87817",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Brutkasten Media GmbH",
+        "squuid": "63b306d6-7d18-4fe1-9fc5-6b1c928ef584"
+      },
+      "squuid": "63b306e9-00f7-4cd7-a5a9-b4cfb8d1485b",
+      "state": "active"
+    }
+  ]
+}

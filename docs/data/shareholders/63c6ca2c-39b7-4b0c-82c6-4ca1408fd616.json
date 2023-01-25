@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Kleine Grottenau",
+  "name": "vmm Wirtschaftsverlag GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63c6ca2c-39b7-4b0c-82c6-4ca1408fd616",
+  "controlDate": "2023-01-17T16:23:19.467Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86150",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hallo-augsburg.de",
+        "squuid": "63c6ca7c-dead-4dec-80be-c0b44d0fe0a1"
+      },
+      "squuid": "63c6caab-2aa0-4606-acc5-7da2738081e1",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "PDV Inter-Media GmbH",
+        "squuid": "63c6ca67-7fd3-4206-b3bf-ce109daa3bbc"
+      },
+      "squuid": "63c6cbb3-8882-4c83-a6d0-c033fe378a4a",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "vmm Wirtschaftsverlag Verwaltungsgesellschaft mbH",
+        "squuid": "63c6ca50-89c0-4a1e-80e9-ad1ddbdf44ee"
+      },
+      "squuid": "63c6cbc0-1ef3-4fdc-8497-297c80670609",
+      "state": "active"
+    }
+  ]
+}

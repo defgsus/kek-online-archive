@@ -1,0 +1,31 @@
+{
+  "name": "Streubesitz an der DZ Bank AG",
+  "pseudoCompany": true,
+  "squuid": "63bfee66-664a-4110-804f-b2a9b67d1d16",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.3,
+      "held": {
+        "name": "DZ Bank AG",
+        "squuid": "5d302739-70fc-4041-9297-3f9d4a1352d0"
+      },
+      "squuid": "63bfee9e-5d37-4c06-b9be-df75f68f50a6",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

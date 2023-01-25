@@ -1,6 +1,4 @@
 {
-  "name": "Bayerische Telefonbuch-Verlags GmbH",
-  "squuid": "63613fa4-d4b4-4c75-98e9-465154502e80",
   "owns": [
     {
       "complementaryPartner": true,
@@ -14,6 +12,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Fürstenrieder Str.",
+  "name": "Bayerische Telefonbuch-Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "63613fa4-d4b4-4c75-98e9-465154502e80",
+  "controlDate": "2023-01-11T15:06:19.869Z",
+  "streetNumber": "265",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -39,5 +46,17 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active"
+  "zipcode": "81377",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Telefonbuch Verlag Hans Müller GmbH & Co. KG",
+        "squuid": "5f9aabd4-5e70-44d2-b3cc-0f75d497a84f"
+      },
+      "squuid": "63bed0f4-5993-4e82-ba99-14a6ec4073bb",
+      "state": "active"
+    }
+  ]
 }

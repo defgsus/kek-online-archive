@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Robert-Kirchhoff-Str.",
+  "name": "Rhein-Sieg-Anzeigenblatt GmbH",
+  "naturalPerson": false,
+  "squuid": "63d15684-4636-4ca3-b342-ca760c7d12ba",
+  "controlDate": "2023-01-25T16:21:55.375Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53121",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blickpunkt-meckenheim.de",
+        "squuid": "63d156af-cbee-4de6-ac51-f4152d675222"
+      },
+      "squuid": "63d156cd-4f32-4c81-b98c-62f017dfb7c7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schaufenster-bonn.de",
+        "squuid": "63d1569a-2391-4e9c-9cb4-5841e56ff0a0"
+      },
+      "squuid": "63d156e5-330c-4f10-b73a-43efdc3f7413",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bonner Anzeigenblatt GmbH & Co. KG",
+        "squuid": "63d14f32-2c74-4929-b07f-c8ed24896200"
+      },
+      "squuid": "63d15779-42f0-40ff-9397-8924a0185ef1",
+      "state": "active"
+    }
+  ]
+}

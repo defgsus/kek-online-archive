@@ -19,7 +19,7 @@
   "name": "MZV Moderner Zeitschriften-Vertrieb Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "602d18d2-81e2-4eb1-a980-1bfbcaf4a637",
-  "controlDate": "2022-05-13T09:58:32.172Z",
+  "controlDate": "2022-12-01T12:26:12.651Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -32,12 +32,42 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 5.0,
       "holder": {
-        "name": "MZV Moderner Zeitschriften-Vertrieb GmbH & Co KG",
-        "squuid": "5be1a6b6-d629-4694-9339-4f93a8f1274b"
+        "name": "Ecker, Henning",
+        "squuid": "63889cfa-c74e-4b7b-ba8d-3c40ed2da9fa"
       },
-      "squuid": "602d19a9-f58c-49b0-8da9-b69da3606ad0",
+      "squuid": "63889d85-a57f-48ac-aab1-8f5913a79264",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.7,
+      "holder": {
+        "name": "Funke MZV Holding GmbH",
+        "squuid": "5be1a6b6-ed22-4b06-9426-cd3ab7856bf7"
+      },
+      "squuid": "63889d99-e8d0-4f4b-914c-13cfb4fb1bbc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.7,
+      "holder": {
+        "name": "Medienholding Klambt GmbH & Co KG",
+        "squuid": "5be1a6b6-7140-4499-b16b-b5c1288ef7a6"
+      },
+      "squuid": "63889da7-1f51-4021-b168-b478430cd50b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.7,
+      "holder": {
+        "name": "BurdaVerlag GmbH",
+        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
+      },
+      "squuid": "63889dbc-917f-4de9-946c-7e9cee86f6d1",
       "state": "active"
     }
   ]

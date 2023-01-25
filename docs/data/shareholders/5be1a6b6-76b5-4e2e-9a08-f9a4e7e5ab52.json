@@ -17,7 +17,7 @@
   "name": "Universal International Music B.V.",
   "naturalPerson": false,
   "squuid": "5be1a6b6-76b5-4e2e-9a08-f9a4e7e5ab52",
-  "controlDate": "2022-07-15T15:50:43.707Z",
+  "controlDate": "2023-01-06T10:47:03.377Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -25,5 +25,17 @@
       "type": "organization"
     }
   ],
-  "credits": "IJK"
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Universal Music Group N.V.",
+        "squuid": "639859dd-2541-4f10-a7b4-fa03af96cbbc"
+      },
+      "squuid": "63985a12-60a3-4abc-9767-6aa402be41a8",
+      "state": "active"
+    }
+  ]
 }

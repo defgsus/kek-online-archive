@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Garbsen",
+  "pseudoCompany": false,
+  "street": "Robert-Hesse-Str.",
+  "name": "RadioCom Nord GmbH",
+  "naturalPerson": false,
+  "squuid": "638f47f4-a559-454c-8f63-60e895432f12",
+  "controlDate": "2022-12-06T13:49:49.283Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30827",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio21.de/nrw",
+        "squuid": "619e5503-999f-4c78-a66d-15ebb7a8e4aa"
+      },
+      "squuid": "638f480a-095b-4bfb-8dca-1fb2f995eb58",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Radio 21 GmbH & Co. KG",
+        "squuid": "5be1a6b6-d018-4147-bd70-c13114845f19"
+      },
+      "squuid": "638f48f3-8c53-4cd5-9f59-0b6808eeb60d",
+      "state": "active"
+    }
+  ]
+}

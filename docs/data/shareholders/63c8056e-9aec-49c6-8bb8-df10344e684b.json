@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Borken",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "JM Verlags GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63c8056e-9aec-49c6-8bb8-df10344e684b",
+  "controlDate": "2023-01-18T14:48:42.504Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "46325",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.stadtanzeiger-borken.de",
+        "squuid": "63c80588-7db1-46dc-b839-b4e26cfdec7a"
+      },
+      "squuid": "63c805bc-102b-4f15-b7e0-8824a7efc642",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "J. Mergelsberg Vertriebs-GmbH",
+        "squuid": "5eb958ad-b048-4484-b8b1-c63ffc6bdeb9"
+      },
+      "squuid": "63c807de-1994-44ca-99df-c7b258185633",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "J. Mergelsberg GmbH & Co KG",
+        "squuid": "5be1a6b6-430f-441d-b020-109fe5c45968"
+      },
+      "squuid": "63c807e9-e608-4067-903d-742f2fec73e6",
+      "state": "active"
+    }
+  ]
+}

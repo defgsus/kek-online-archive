@@ -1,13 +1,39 @@
 {
   "name": "Bruhn, Prof. Dr. Manfred",
+  "pseudoCompany": false,
   "squuid": "637f6199-4100-41a8-bac9-7703f2c6435d",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Steger-Bruhn GbR",
+        "squuid": "636b7801-6459-4bbb-aa83-5cdb295f92e0"
+      },
+      "squuid": "637f61c3-2e65-4d18-bc7e-db860c769b55",
+      "state": "active"
+    }
+  ],
+  "city": "Basel ",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }

@@ -1,6 +1,4 @@
 {
-  "name": "Hans Müller VZ Beteiligungen GmbH & Co. KG",
-  "squuid": "6374c349-6318-426f-bde7-5f65d7e7dbf8",
   "owns": [
     {
       "type": "own",
@@ -11,19 +9,33 @@
       },
       "squuid": "6374c373-6270-49e4-9327-5eaa7be83760",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Sellwerk Verwaltungs GmbH",
+        "squuid": "6374c2d1-cb04-42d6-a278-f9bd34fd2f09"
+      },
+      "squuid": "6388774c-70a2-47a7-91c9-1a4136bc64e7",
+      "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Nürnberg",
+  "pseudoCompany": false,
+  "street": "Pretzfelder Str.",
+  "name": "Hans Müller VZ Beteiligungen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6374c349-6318-426f-bde7-5f65d7e7dbf8",
+  "controlDate": "2022-12-01T09:44:55.404Z",
+  "streetNumber": "7-11",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -44,5 +56,59 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active"
+  "zipcode": "90425",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Oschmann, Constanze",
+        "squuid": "5be1a6b6-649e-43f5-ab9a-1ced442fd834"
+      },
+      "squuid": "6388783b-e6f8-4941-bdc5-35f5abe597d0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Oschmann, Michael",
+        "squuid": "5be1a6b6-2941-49b8-ad22-038b5aa868af"
+      },
+      "squuid": "63887847-1878-4997-a25a-d7c21d32118a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Oschmann, Gunther",
+        "squuid": "5be1a6b6-5e9d-48fa-b088-265055082ac9"
+      },
+      "squuid": "63887858-ca42-49e1-8af1-4e5eb8083e50",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hans Müller VZ Beteiligungen Verwaltungs-GmbH",
+        "squuid": "63887816-9f14-4ee2-82b8-08ea09379723"
+      },
+      "squuid": "63887865-3769-4fdf-8c41-f726aa651e9d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SR Management GmbH & Co. KG",
+        "squuid": "5f905285-3715-460e-affd-dc041afaea8a"
+      },
+      "squuid": "63887873-9951-4e73-bd3b-00eb94fe306e",
+      "state": "active"
+    }
+  ]
 }

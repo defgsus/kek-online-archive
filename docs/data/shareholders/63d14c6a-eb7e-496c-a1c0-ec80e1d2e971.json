@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Brühl",
+  "pseudoCompany": false,
+  "street": "Uhlstr.",
+  "name": "VSW Verlag Schlossbote/Werbekurier GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63d14c6a-eb7e-496c-a1c0-ec80e1d2e971",
+  "controlDate": "2023-01-25T15:37:38.393Z",
+  "streetNumber": "102",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50321",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schlossbote.de",
+        "squuid": "63d14c3e-99ad-4957-8c06-b686c51a160e"
+      },
+      "squuid": "63d14c80-678b-4fc1-ada3-154a2344448b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rheinische Anzeigenblatt GmbH & Co. KG",
+        "squuid": "5be1a6b6-e2af-4c23-bb5d-2a957fb06149"
+      },
+      "squuid": "63d14d68-2a77-407e-840d-6df7f6c3d905",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "VSW Verlag Schlossbote/Werbekurier Verwaltungs-GmbH",
+        "squuid": "63d14cb5-6e52-4ecd-9d94-8b13d2af44d1"
+      },
+      "squuid": "63d14d76-bfc1-4a22-a8ff-113ab329de02",
+      "state": "active"
+    }
+  ]
+}

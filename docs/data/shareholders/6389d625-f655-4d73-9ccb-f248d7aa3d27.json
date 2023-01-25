@@ -1,0 +1,30 @@
+{
+  "name": "I. Immanuel Diakonie GmbH",
+  "squuid": "6389d625-f655-4d73-9ccb-f248d7aa3d27",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Krankenhaus und Poliklinik Rüdersdorf GmbH",
+        "squuid": "5f3535d3-fa20-4822-a81a-a0cdcef5f57b"
+      },
+      "squuid": "6389d66a-3304-4ae8-b539-ef2ddae7c9bb",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "state": "active"
+}

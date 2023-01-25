@@ -3,35 +3,14 @@
   "pseudoCompany": true,
   "controlDate": "2020-07-08T11:55:21.845Z",
   "squuid": "5e2aca63-6ba8-4ad5-9d2c-f19713e4ea25",
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 15.0,
-      "held": {
-        "name": "Berlin Tourismus & Kongress GmbH",
-        "squuid": "5d249ea4-b7b0-40e4-916d-b768ffc90d7c"
-      },
-      "squuid": "5e2acb1d-fc59-453f-9b85-de9db64928bc",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Messe Berlin GmbH",
-        "squuid": "5e2acaa3-43cf-450c-8a1b-7712383c4802"
-      },
-      "squuid": "60941553-8686-405e-9b33-929dde638923",
-      "state": "active"
-    }
-  ],
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "state": "active",
+  "state": "archived",
   "naturalPerson": false
 }

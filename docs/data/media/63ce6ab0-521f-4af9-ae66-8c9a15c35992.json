@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63ce6ab0-521f-4af9-ae66-8c9a15c35992",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RND RedaktionsNetzwerk Deutschland GmbH",
+        "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d"
+      },
+      "squuid": "63ce6b23-4ff6-40f1-abc6-d94773143254",
+      "state": "active"
+    }
+  ],
+  "name": "AZ am Sonntag",
+  "rfPublicPrivate": false,
+  "type": "print",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "pressEditionsComments": "ab Januar 2023",
+  "pressType": {
+    "squuid": "5be1a6b0-4e68-459d-a5ee-da3974114c2a",
+    "name": "E-Paper",
+    "type": "press-type",
+    "state": "active"
+  }
+}

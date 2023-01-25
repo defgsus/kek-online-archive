@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63d019b1-5567-4d0d-99dd-bbdf0821aecc",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Westfälischer Anzeiger Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-1155-4281-b6ac-c4879ebd2c19"
+      },
+      "squuid": "63d019ce-2eaa-40ae-92ed-ef4ce2d8473d",
+      "state": "active"
+    }
+  ],
+  "name": "www.wa-anzeigenblatter.de/der-bote",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-24T17:47:37.131Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

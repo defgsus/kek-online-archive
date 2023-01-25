@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Cuxhaven",
+  "pseudoCompany": false,
+  "street": "Grodener Chaussee",
+  "name": "EWa Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "63c9498c-9982-442d-9043-413c61b42191",
+  "controlDate": "2023-01-19T13:47:45.401Z",
+  "streetNumber": "34",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "27472",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.elbe-weser-kurier.de",
+        "squuid": "63c94967-5102-418f-8ff6-683c9f50811b"
+      },
+      "squuid": "63c949ef-b3a7-4c93-b108-14e811cc7c7c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 5.75,
+      "holder": {
+        "name": "Fernandes Lomba, Michael",
+        "squuid": "63c949a2-e6d1-4836-985b-816e7342717f"
+      },
+      "squuid": "63c94a4a-bde9-4ae8-a838-d1cd5ef13833",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Schultz, Manfred",
+        "squuid": "63c949c6-d855-4724-ab4a-f15439e61579"
+      },
+      "squuid": "63c94a59-f3d3-48eb-b3d7-2a84df7188b5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 89.25,
+      "holder": {
+        "name": "Cuxhaven-Niederelbe Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-0305-4c47-ae46-3873acf5172c"
+      },
+      "squuid": "63c94a74-ba6d-4e20-b1ab-df2a8eeeb922",
+      "state": "active"
+    }
+  ]
+}

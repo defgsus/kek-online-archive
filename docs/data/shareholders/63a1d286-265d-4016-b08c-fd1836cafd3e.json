@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Konstanz",
+  "pseudoCompany": false,
+  "street": "Am Seerhein",
+  "name": "Labhard Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "63a1d286-265d-4016-b08c-fd1836cafd3e",
+  "controlDate": "2022-12-20T15:24:21.969Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "78467",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bodensee.de",
+        "squuid": "63a1d376-b15e-4655-92e7-1a1a1ffc0672"
+      },
+      "squuid": "63a1d38d-097c-423f-a660-ea952131cf5a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
+        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
+      },
+      "squuid": "63a1d3f8-574b-4d1e-895a-d7f6478e48b5",
+      "state": "active"
+    }
+  ]
+}

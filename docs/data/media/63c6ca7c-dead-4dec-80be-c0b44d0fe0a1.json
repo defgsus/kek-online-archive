@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63c6ca7c-dead-4dec-80be-c0b44d0fe0a1",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "vmm Wirtschaftsverlag GmbH & Co. KG",
+        "squuid": "63c6ca2c-39b7-4b0c-82c6-4ca1408fd616"
+      },
+      "squuid": "63c6caab-2aa0-4606-acc5-7da2738081e1",
+      "state": "active"
+    }
+  ],
+  "name": "www.hallo-augsburg.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-17T16:19:26.608Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -2,12 +2,36 @@
   "name": "Steger, Prof. Dr. Ulrich",
   "pseudoCompany": false,
   "squuid": "5be1a6b6-419c-4227-aa93-cb7cf23026e8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Steger-Bruhn GbR",
+        "squuid": "636b7801-6459-4bbb-aa83-5cdb295f92e0"
+      },
+      "squuid": "637f6153-87f4-473b-8c2d-01e9b68b4039",
+      "state": "active"
+    }
+  ],
+  "city": "Wiesbaden",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active",

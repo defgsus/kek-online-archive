@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "vmm Wirtschaftsverlag GmbH & Co. KG",
+        "squuid": "63c6ca2c-39b7-4b0c-82c6-4ca1408fd616"
+      },
+      "squuid": "63c6cbb3-8882-4c83-a6d0-c033fe378a4a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "vmm Wirtschaftsverlag Verwaltungsgesellschaft mbH",
+        "squuid": "63c6ca50-89c0-4a1e-80e9-ad1ddbdf44ee"
+      },
+      "squuid": "63c6cc49-75f6-45f5-a356-86dcb89d76d3",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Curt-Frenzel-Str.",
+  "name": "PDV Inter-Media GmbH",
+  "naturalPerson": false,
+  "squuid": "63c6ca67-7fd3-4206-b3bf-ce109daa3bbc",
+  "controlDate": "2023-01-17T16:29:45.613Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86167",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Presse-Druck- und Verlags-GmbH",
+        "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
+      },
+      "squuid": "63c6cd68-5d13-40f1-846e-91de52f49f52",
+      "state": "active"
+    }
+  ]
+}

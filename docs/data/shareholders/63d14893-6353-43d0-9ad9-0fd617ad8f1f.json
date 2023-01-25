@@ -1,0 +1,96 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "EWI Euskirchener Werbe-Informationen GmbH & Co. KG",
+        "squuid": "63d1423f-1af1-403b-9052-7463ce50fedc"
+      },
+      "squuid": "63d148a8-53d8-4ee7-86c4-cc6a7fd9ed9c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "EWI Euskirchener Werbe-Informationen Verwaltungs-GmbH",
+        "squuid": "63d1480e-ce4c-4bad-8d0f-4d5b10c69458"
+      },
+      "squuid": "63d14a8e-38b5-4eba-b032-f1849e12ea1d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Werbepost Anzeigenblatt GmbH & Co. KG",
+        "squuid": "63d157ed-e493-4723-9c62-922179b2aa2e"
+      },
+      "squuid": "63d158d4-cb10-482c-962a-71ff45b65d96",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Werbepost Anzeigenblatt Verwaltungs-GmbH",
+        "squuid": "63d1584a-748a-457d-bfc6-6c1389aa4c62"
+      },
+      "squuid": "63d15962-e8fc-4a31-ac78-2cd0b97f074e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Frechen",
+  "pseudoCompany": false,
+  "street": "Europaallee",
+  "name": "Verlag Anzeigen und Informationen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63d14893-6353-43d0-9ad9-0fd617ad8f1f",
+  "controlDate": "2023-01-25T15:29:20.732Z",
+  "streetNumber": "33b",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50226",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenende-frechen.de",
+        "squuid": "63d159ac-e6a2-4022-9b59-3d7cbafd6abf"
+      },
+      "squuid": "63d159d0-d102-4c25-9711-0046a180a2c3",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rheinische Anzeigenblatt GmbH & Co. KG",
+        "squuid": "5be1a6b6-e2af-4c23-bb5d-2a957fb06149"
+      },
+      "squuid": "63d14b54-99d0-4303-861b-054d084b9e03",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Verlag Anzeigen und Informationen Verwaltungs-GmbH",
+        "squuid": "63d14b22-eab0-49b7-b599-1501c6c07587"
+      },
+      "squuid": "63d14b63-b872-4414-853e-7653c5e517db",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63d1153e-e16d-4828-b13f-e0c78d2545b5",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Blickpunkt Verlag GmbH",
+        "squuid": "63d1156a-1516-46ad-9a98-24b1510efd67"
+      },
+      "squuid": "63d11586-98cf-46c0-892f-1c6af8533777",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenspiegel.digital",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-25T11:41:36.145Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

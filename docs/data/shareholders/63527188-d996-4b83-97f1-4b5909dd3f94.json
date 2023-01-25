@@ -1,6 +1,4 @@
 {
-  "name": "SEM Beteiligungs GmbH",
-  "squuid": "63527188-d996-4b83-97f1-4b5909dd3f94",
   "owns": [
     {
       "type": "own",
@@ -13,6 +11,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Grünwald",
+  "pseudoCompany": false,
+  "street": "Am Wildwechsel",
+  "name": "SEM Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "63527188-d996-4b83-97f1-4b5909dd3f94",
+  "controlDate": "2023-01-16T13:23:21.492Z",
+  "streetNumber": "7a",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -25,5 +32,47 @@
       "type": "organization"
     }
   ],
-  "state": "active"
+  "zipcode": "82031",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "S&R Capital GmbH",
+        "squuid": "63c54ee6-50b2-40d3-9f7c-edac525868e1"
+      },
+      "squuid": "63c54f78-12c5-4d3f-ab83-b7de6090f261",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "BM Auctor Projektentwicklungs GmbH",
+        "squuid": "63c54f18-0220-4e7a-80da-954bf7a3f545"
+      },
+      "squuid": "63c54f95-8b6d-4d27-8202-821d8411c76e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "ii Beteiligungs GmbH",
+        "squuid": "63c54f4d-902c-4da2-b03b-689b1605d88e"
+      },
+      "squuid": "63c54fb4-bfad-410b-bd5d-57d0f8b0a488",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "Habermann Vermögensverwaltungs GmbH",
+        "squuid": "63c54e9e-304f-49b9-a421-45646f1467a6"
+      },
+      "squuid": "63c54fcb-e070-4157-8114-24fa2d72b0b5",
+      "state": "active"
+    }
+  ]
 }

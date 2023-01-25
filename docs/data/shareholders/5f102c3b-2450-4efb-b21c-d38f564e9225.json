@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Mittelweg",
@@ -9,21 +9,11 @@
   "streetNumber": "177",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "20148",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.uni-hamburg.de",
-        "squuid": "5f102b72-6593-4228-b280-1fe512dccbcb"
-      },
-      "squuid": "5f102c5a-64d8-4471-b6bb-0e9dce77ddef",
-      "state": "active"
-    }
-  ]
+  "zipcode": "20148"
 }

@@ -19,7 +19,7 @@
   "name": "gesund.de Beteiligungsverwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "61b320e6-0700-40ae-8fa3-b141f94b53ca",
-  "controlDate": "2022-07-07T14:54:33.529Z",
+  "controlDate": "2023-01-13T09:45:25.794Z",
   "streetNumber": "19",
   "organizations": [
     {
@@ -28,5 +28,57 @@
       "type": "organization"
     }
   ],
-  "zipcode": "80993"
+  "zipcode": "80993",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 38.9,
+      "holder": {
+        "name": "ADG Apotheken-Dienstleistungsgesellschaft mbH",
+        "squuid": "63c57e6e-3f7a-4027-9b88-2a54f68cc47c"
+      },
+      "squuid": "63c588d8-43de-44e8-a8e0-c7b821544b1e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 38.9,
+      "holder": {
+        "name": "NOVENTI Health SE",
+        "squuid": "63c57eba-fc9e-471a-974f-11904a66fab3"
+      },
+      "squuid": "63c588eb-dcdb-4f30-8b62-5d46bd20d5c6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.6,
+      "holder": {
+        "name": "Isartal Ventures GmbH & Co. KG",
+        "squuid": "63c57e9c-8ba9-4abe-9105-98ecb3c57bdf"
+      },
+      "squuid": "63c5891b-1373-4efc-912d-f2962b9c9169",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.2,
+      "holder": {
+        "name": "Becton Dickinson Rowa Germany GmbH",
+        "squuid": "63c57e8a-bea2-4b4b-8cac-014145558574"
+      },
+      "squuid": "63c58953-035c-476c-a83b-923b0998e2e5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.4,
+      "holder": {
+        "name": "Sanacorp eG Pharmazeutische Großhandlung",
+        "squuid": "63c57ed3-6a5c-4985-be30-6fa62dbe8cd8"
+      },
+      "squuid": "63c5895e-bfad-49fd-8e79-5d64c7cbdbf6",
+      "state": "active"
+    }
+  ]
 }

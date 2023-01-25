@@ -1,27 +1,17 @@
 {
-  "state": "active",
-  "city": "Collenberg",
-  "pseudoCompany": false,
+  "zipcode": "97903",
   "name": "Spriestersbach, Kai",
-  "naturalPerson": true,
+  "pseudoCompany": false,
   "squuid": "61e566a8-42a5-4549-a4a6-658f15fc6417",
+  "city": "Collenberg",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "97903",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.webmasterpro.de",
-        "squuid": "61e566ba-d654-469f-880c-d06daa406e13"
-      },
-      "squuid": "61e566dc-4d26-4c93-8dae-fbe0a909a13a",
-      "state": "active"
-    }
-  ]
+  "state": "active",
+  "naturalPerson": true
 }

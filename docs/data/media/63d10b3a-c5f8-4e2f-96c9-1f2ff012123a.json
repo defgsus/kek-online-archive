@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63d10b3a-c5f8-4e2f-96c9-1f2ff012123a",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Kehrwieder Verlags GmbH & Co. KG",
+        "squuid": "63d10b85-5775-4ef9-a3c6-aad6caa89d21"
+      },
+      "squuid": "63d10bb8-467d-4aaf-a491-018ded28d044",
+      "state": "active"
+    }
+  ],
+  "name": "www.kehrwieder-verlag.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-25T10:59:50.923Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

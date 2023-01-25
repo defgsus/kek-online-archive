@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Tübingen",
   "pseudoCompany": false,
   "street": "Schweickhardtstr.",
@@ -10,33 +10,11 @@
   "streetNumber": "5a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "72072",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Schöner Südwesten",
-        "squuid": "611b6ffe-9fe3-4902-9f6b-6fed3fd61031"
-      },
-      "squuid": "611b704f-a652-4d87-8550-3d5f89be5731",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "GeraNova Bruckmann Verlagshaus GmbH",
-        "squuid": "5be1a6b6-ea92-461d-834d-d5d6d281d6cf"
-      },
-      "squuid": "611b70c9-adca-4351-a32b-362cc501b844",
-      "state": "active"
-    }
-  ]
+  "zipcode": "72072"
 }

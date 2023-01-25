@@ -12,16 +12,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Adolf Remppis Verlag GmbH & Co KG",
-        "squuid": "5be1a6b6-6c87-4b36-bc2f-8d68f68a93f3"
-      },
-      "squuid": "5be1a6b8-3ffe-43e4-be1c-8852eb2aaee8",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 50.0,
       "held": {
         "name": "Die Redaktion Stuttgarter Zeitung Stuttgarter Nachrichten GmbH",
@@ -42,17 +32,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Zeitungsverlag Marbach Verwaltungs GmbH",
-        "squuid": "5eddfb87-5988-451a-909e-2925d0c97722"
-      },
-      "squuid": "5ee0d320-9bba-41bf-ac38-651c6d0c5fc5",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 16.2,
+      "capitalShares": 16.3,
       "held": {
         "name": "Stuttgarter Presse Funk GmbH",
         "squuid": "5c98ed33-3de6-4a1d-b2fa-4f2782148a39"
@@ -78,7 +58,7 @@
   "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b",
-  "controlDate": "2022-06-29T16:11:52.253Z",
+  "controlDate": "2023-01-03T10:51:53.879Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -443,6 +423,51 @@
         "squuid": "5be1a6b1-c51f-4d6b-923c-0b8996e09665"
       },
       "squuid": "619232c7-fd38-4adf-9e1c-a9f49f957636",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Cannstatter Zeitung",
+        "squuid": "5be1a6b1-d0b5-4313-bfac-4fc70c8e86f3"
+      },
+      "squuid": "63c93f49-5348-4a73-84c6-849cfd3ffe67",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Eßlinger Zeitung",
+        "squuid": "5be1a6b1-de6b-4a9c-90fb-3443a2cda9e3"
+      },
+      "squuid": "63c93f7a-143b-4151-834a-8a4ef5129f0a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Untertürkheimer Zeitung",
+        "squuid": "5be1a6b1-b837-4168-9323-f6810b07e6c2"
+      },
+      "squuid": "63c93f91-02eb-43db-9a62-91dd3db4ffa5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.cannstatter-zeitung.de",
+        "squuid": "5be1a6b1-7385-4ded-a4ce-a0c0176f2dd5"
+      },
+      "squuid": "63c94015-02dc-431e-bd63-3046adba6c48",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.esslinger-zeitung.de",
+        "squuid": "5be1a6b1-8a01-417d-95c4-a3e04eeda105"
+      },
+      "squuid": "63c940f2-572f-4757-87c2-89ea3c606cb8",
       "state": "active"
     }
   ],

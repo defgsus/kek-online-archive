@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Dresden",
+  "pseudoCompany": false,
+  "street": "Ostraallee",
+  "name": "Saxo-Phon GmbH",
+  "naturalPerson": false,
+  "squuid": "639b0f02-6209-407f-8593-c68ff9653441",
+  "controlDate": "2022-12-15T12:12:29.532Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "01067",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.augusto-sachsen.de",
+        "squuid": "639b0ee5-c34b-4c09-88a2-906a5ff4e6ad"
+      },
+      "squuid": "639b0f20-5294-4f91-8adf-b03a5fe834ae",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "639b0fbd-cddd-4fdf-b2de-ffe4f10e2720",
+      "state": "active"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Annaberg-Buchholz",
   "supplierConsortium": false,
   "pseudoCompany": false,
@@ -11,36 +11,11 @@
   "streetNumber": "13",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "09456",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "AB-TV",
-        "squuid": "5c1b6fd7-048e-48e1-b9bf-81207b89c946"
-      },
-      "squuid": "5c543c97-d7ee-4295-a381-a27f1a932a2e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.a-btv.de",
-        "squuid": "5f771934-edbe-4491-ba82-21d2e152ca0e"
-      },
-      "squuid": "5f77197e-3762-42a5-b44c-d5b741bbb85e",
-      "state": "active"
-    }
-  ]
+  "zipcode": "09456"
 }
