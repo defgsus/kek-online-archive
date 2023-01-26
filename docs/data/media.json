@@ -32030,21 +32030,28 @@
     "pressKind": "Konfession"
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "63d165a8-b0c6-45e0-b324-4d2423ab7622",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.das-blv.de",
+    "name": "www.weserreport.de",
+    "rfPublicPrivate": false,
     "type": "online",
-    "squuid": "63d165a8-b0c6-45e0-b324-4d2423ab7622",
-    "state": "active"
+    "controlDate": "2023-01-26T13:04:12.193Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
   },
   {
     "pressPublishingIntervals": 2,
@@ -32807,6 +32814,30 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "63d26657-e557-42cb-ae35-906ce98ffcb5",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.stadtmagazin-bremen.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-01-26T11:39:09.831Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "state": "archived",
     "squuid": "5c1b6fd7-048e-48e1-b9bf-81207b89c946",
     "organization": {
@@ -32897,6 +32928,26 @@
         "state": "active"
       }
     ]
+  },
+  {
+    "pressPublishingIntervals": 12,
+    "state": "active",
+    "squuid": "63d26647-e82a-41f2-b378-9558e09304e5",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Stadtmagazin Bremen",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2023-01-26T11:39:51.035Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
   },
   {
     "state": "active",
@@ -33183,6 +33234,26 @@
     "type": "radio",
     "squuid": "6389b53a-35de-4ea1-8f1d-9d7600283547",
     "state": "active"
+  },
+  {
+    "pressPublishingIntervals": 12,
+    "state": "active",
+    "squuid": "63d26876-7332-4668-ae32-79760ad55ad5",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Handwerk in Bremen",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2023-01-26T11:48:11.230Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
   },
   {
     "state": "active",
@@ -33859,6 +33930,54 @@
   },
   {
     "state": "active",
+    "squuid": "63d27a95-5ce7-4137-b25a-3a2e667069f9",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.delmereport.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-01-26T13:05:44.055Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "63d27aa2-63db-44eb-ba81-a9b28be81d61",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.hammereport.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-01-26T13:06:05.929Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "5d0c8d46-f0ea-44ed-9749-303c79aa6342",
     "organization": {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -33998,6 +34117,26 @@
     "pressKind": "Regional"
   },
   {
+    "pressPublishingIntervals": 8,
+    "state": "active",
+    "squuid": "63d27b21-0518-4e9b-81f4-e50ca7993434",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Quartier",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2023-01-26T13:07:59.838Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
+  },
+  {
     "state": "active",
     "squuid": "5d2d9fc2-860f-4afd-a4c5-fd45c89172e0",
     "organization": {
@@ -34052,6 +34191,30 @@
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2022-12-15T12:41:08.102Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "63d27c46-1f58-4c52-8636-fa34bd9d6a2a",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.aller-report.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-01-26T13:12:44.738Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34164,6 +34327,26 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "pressPublishingIntervals": 3,
+    "state": "active",
+    "squuid": "63d27df4-d1c7-4eed-b9ed-7a993bbb73e8",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Golf Weser-Ems",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2023-01-26T13:19:53.639Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
   },
   {
     "pressPublishingIntervals": 6,
@@ -34368,6 +34551,26 @@
     }
   },
   {
+    "pressPublishingIntervals": 4,
+    "state": "active",
+    "squuid": "63d27e68-478f-487a-9cf8-a16cf43fc38d",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Verden",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2023-01-26T13:21:49.889Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
+  },
+  {
     "state": "active",
     "squuid": "5f1aa6c7-f54a-4774-87ed-a1b4f752e290",
     "organization": {
@@ -34438,6 +34641,26 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "pressPublishingIntervals": 2,
+    "state": "active",
+    "squuid": "63d27eda-00af-49c2-9729-635e88226656",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Mein Delmenhorst",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2023-01-26T13:23:42.380Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
   },
   {
     "state": "active",
@@ -34777,6 +35000,26 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "pressPublishingIntervals": 2,
+    "state": "active",
+    "squuid": "63d27f6e-c888-49cd-9be3-bf09f7c3699f",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Mein Ganderkesee",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2023-01-26T13:26:11.404Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
   },
   {
     "state": "active",
@@ -35489,6 +35732,30 @@
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2022-07-05T16:32:40.225Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "63d28a69-6da7-4b90-b260-ecf3be6c421f",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.rotenburger-rundschau.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-01-26T14:13:13.801Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

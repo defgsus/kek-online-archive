@@ -1,17 +1,35 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-    "name": "DL",
-    "type": "organization"
-  },
-  "rfPublicPrivate": false,
+  "state": "active",
+  "squuid": "63d165a8-b0c6-45e0-b324-4d2423ab7622",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "name": "www.das-blv.de",
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "KPS Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-6ec6-4936-a948-98258f580e4e"
+      },
+      "squuid": "63d27a6e-8e1a-451b-88fb-0aef45308603",
+      "state": "active"
+    }
+  ],
+  "name": "www.weserreport.de",
+  "rfPublicPrivate": false,
   "type": "online",
-  "squuid": "63d165a8-b0c6-45e0-b324-4d2423ab7622",
-  "state": "active"
+  "controlDate": "2023-01-26T13:04:12.193Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
 }

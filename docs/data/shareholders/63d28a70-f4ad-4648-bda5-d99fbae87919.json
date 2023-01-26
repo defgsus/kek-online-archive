@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Rotenburg/Wümme",
+  "pseudoCompany": false,
+  "street": "Große Straße ",
+  "name": "Verlagsgesellschaft Rotenburger Rundschau GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63d28a70-f4ad-4648-bda5-d99fbae87919",
+  "controlDate": "2023-01-26T14:14:37.450Z",
+  "streetNumber": "37",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "27356",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rotenburger-rundschau.de",
+        "squuid": "63d28a69-6da7-4b90-b260-ecf3be6c421f"
+      },
+      "squuid": "63d28a8c-458c-4164-943e-0b8fc2ac5fc1",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Karl Sasse Druck und Verlag der Rotenburger Kreiszeitung und Visselhöveder Nachrichten Buch- und Offsetdruckerei GmbH & Co. KG",
+        "squuid": "5be1a6b6-3957-4acd-9788-3fe9ae2c4e4d"
+      },
+      "squuid": "63d28b75-ad6b-492b-bc80-5b35b8cf2ff1",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Verwaltungsgesellschaft Rotenburger Rundschau GmbH",
+        "squuid": "63d28b49-920e-4498-a1da-d4222923253f"
+      },
+      "squuid": "63d28b82-15d9-4694-ba8c-30bd35cb1603",
+      "state": "active"
+    }
+  ]
+}

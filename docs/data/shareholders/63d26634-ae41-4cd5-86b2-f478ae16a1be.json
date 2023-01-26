@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Bremen",
+  "pseudoCompany": false,
+  "street": "Martinistr.",
+  "name": "Magazinverlag Bremen GmbH",
+  "naturalPerson": false,
+  "squuid": "63d26634-ae41-4cd5-86b2-f478ae16a1be",
+  "controlDate": "2023-01-26T11:41:38.142Z",
+  "streetNumber": "43",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "28195",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.stadtmagazin-bremen.de",
+        "squuid": "63d26657-e557-42cb-ae35-906ce98ffcb5"
+      },
+      "squuid": "63d26672-717a-4af2-82ce-37e86cd0710e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Stadtmagazin Bremen",
+        "squuid": "63d26647-e82a-41f2-b378-9558e09304e5"
+      },
+      "squuid": "63d266e3-fe7f-4e2f-bf7f-7da4344e7b89",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hackmack, Meyer KG",
+        "squuid": "5be1a6b6-c5e8-4aab-b88d-a72ff7b3170d"
+      },
+      "squuid": "63d26783-6ce0-4296-a483-935ee42933eb",
+      "state": "active"
+    }
+  ]
+}

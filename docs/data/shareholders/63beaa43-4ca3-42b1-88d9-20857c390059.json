@@ -1,6 +1,4 @@
 {
-  "name": "ParshipMeet Holding GmbH",
-  "squuid": "63beaa43-4ca3-42b1-88d9-20857c390059",
   "owns": [
     {
       "type": "own",
@@ -33,6 +31,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Speersort",
+  "name": "ParshipMeet Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "63beaa43-4ca3-42b1-88d9-20857c390059",
+  "controlDate": "2023-01-26T11:21:16.754Z",
+  "streetNumber": "10",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -40,5 +47,27 @@
       "type": "organization"
     }
   ],
-  "state": "active"
+  "zipcode": "20095",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "ProSiebenSat.1 Media SE",
+        "squuid": "5be1a6b6-c403-468d-8ebc-b75baf6ebe76"
+      },
+      "squuid": "63d2622f-0194-4142-9ec1-be77e5e929a0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "General Atlantic PD N. V.",
+        "squuid": "63d26275-d61b-4fc0-bf44-56dcd341270b"
+      },
+      "squuid": "63d26288-6920-4642-a1bb-68802856ee5c",
+      "state": "active"
+    }
+  ]
 }
