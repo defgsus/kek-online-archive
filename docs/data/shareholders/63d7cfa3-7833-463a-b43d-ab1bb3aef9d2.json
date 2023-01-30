@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hameln",
+  "pseudoCompany": false,
+  "street": "An der Chaussee",
+  "name": "Verlag Lokalpresse GmbH",
+  "naturalPerson": false,
+  "squuid": "63d7cfa3-7833-463a-b43d-ab1bb3aef9d2",
+  "controlDate": "2023-01-30T14:11:07.924Z",
+  "streetNumber": "1a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "31789",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.celler-kurier.de",
+        "squuid": "63d7cf8c-ee5c-45c7-a61d-3239116e0aab"
+      },
+      "squuid": "63d7cfc9-b697-4621-ae93-4e66edb3ce81",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Celler und Wolfsburger Kurier-Beteiligungs GbR",
+        "squuid": "63d7d047-2a44-452b-9677-3a85bfd73c03"
+      },
+      "squuid": "63d7d059-1607-4f0a-82dd-72b17766faf7",
+      "state": "active"
+    }
+  ]
+}

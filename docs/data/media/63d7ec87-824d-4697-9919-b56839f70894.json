@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63d7ec87-824d-4697-9919-b56839f70894",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Combi Medien Verlag GmbH",
+        "squuid": "63d7e81d-a65c-405c-a6ad-5e0fd97310b1"
+      },
+      "squuid": "63d7ecaa-df6d-4a12-8e88-3e71a2788adc",
+      "state": "active"
+    }
+  ],
+  "name": "www.combi-medien.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-30T16:13:15.969Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

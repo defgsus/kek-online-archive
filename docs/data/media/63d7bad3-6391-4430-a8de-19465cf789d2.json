@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63d7bad3-6391-4430-a8de-19465cf789d2",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Buxtehuder Verlagsgesellschaft mbH",
+        "squuid": "63d7bbee-40df-4848-b875-49c7a3eb4321"
+      },
+      "squuid": "63d7bc09-d383-4a93-b935-e06d439e5a86",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Wochenblatt Verlag Schrader GmbH & Co. KG",
+        "squuid": "63d7bb8e-d480-405b-820e-20120d83383a"
+      },
+      "squuid": "63d7bc19-e56d-46bc-ae07-35bbfb42dfa4",
+      "state": "active"
+    }
+  ],
+  "name": "www.kreiszeitung-wochenblatt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-30T12:45:45.130Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

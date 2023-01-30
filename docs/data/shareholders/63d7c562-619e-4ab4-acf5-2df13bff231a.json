@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Bielefeld",
+  "pseudoCompany": false,
+  "street": "Sudbrackstr.",
+  "name": "Panorama Verlags- und Werbegesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "63d7c562-619e-4ab4-acf5-2df13bff231a",
+  "controlDate": "2023-01-30T13:26:36.921Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "33611",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.owl-am-sonntag.de",
+        "squuid": "63d7c540-6158-4b39-bac6-7e9940bb9481"
+      },
+      "squuid": "63d7c577-c3b7-4308-aa95-df7b89b6a662",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Westfalen-Blatt Vereinigte Zeitungsverlage GmbH & Co. KG",
+        "squuid": "5e1dbf05-b346-426d-a4eb-cfe11f1b031f"
+      },
+      "squuid": "63d7c61a-3502-4f1b-a900-12f43a1e2076",
+      "state": "active"
+    }
+  ]
+}

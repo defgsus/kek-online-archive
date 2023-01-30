@@ -1,13 +1,44 @@
 {
-  "name": "BLV Verwaltungsgesellschaft mbH",
-  "squuid": "63d165d7-49df-4da5-ba38-7e1a41c7cb39",
-  "organizations": [
+  "owns": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "VSI Verlags-Service Ingolstadt GmbH & Co. KG",
+        "squuid": "63d7e7ab-51a7-4a92-aac5-bd0ecf381c09"
+      },
+      "squuid": "63d7e98b-2802-4504-b045-9f39afec8144",
+      "state": "active"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "city": "Ingolstadt",
+  "pseudoCompany": false,
+  "street": "Stauffenbergstr.",
+  "name": "VSI Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "63d165d7-49df-4da5-ba38-7e1a41c7cb39",
+  "controlDate": "2023-01-30T16:02:29.458Z",
+  "streetNumber": "2a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85051",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "PR Medien GmbH & Co KG",
+        "squuid": "5c813792-4153-4500-bfc2-1ae886332d0c"
+      },
+      "squuid": "63d7eaa2-7733-425d-91c0-2fbcd67a9d27",
+      "state": "active"
+    }
+  ]
 }

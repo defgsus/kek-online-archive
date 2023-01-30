@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63d7cc62-a942-4512-aa69-2a91025e343c",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Nibelungen Kurier GmbH",
+        "squuid": "63d7cc7a-7981-4914-b26f-86f6c57fd114"
+      },
+      "squuid": "63d7cc95-1578-448e-a389-e2f80ebd17ca",
+      "state": "active"
+    }
+  ],
+  "name": "www.tip-suedhessen.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-30T13:56:19.355Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

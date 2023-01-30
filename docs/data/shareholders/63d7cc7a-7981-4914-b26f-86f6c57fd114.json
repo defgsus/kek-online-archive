@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Worms",
+  "pseudoCompany": false,
+  "street": "Prinz Carl Anlage",
+  "name": "Verlag Nibelungen Kurier GmbH",
+  "naturalPerson": false,
+  "squuid": "63d7cc7a-7981-4914-b26f-86f6c57fd114",
+  "controlDate": "2023-01-30T13:57:01.527Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "67547",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tip-suedhessen.de",
+        "squuid": "63d7cc62-a942-4512-aa69-2a91025e343c"
+      },
+      "squuid": "63d7cc95-1578-448e-a389-e2f80ebd17ca",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 52.0,
+      "holder": {
+        "name": "Schaller, Dieter",
+        "squuid": "5ef20671-522a-469d-9ee2-683c11535028"
+      },
+      "squuid": "63d7cce0-3dd6-4f76-84fb-844cec1be6c5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "Schaller, Max",
+        "squuid": "63d7ccec-f299-423f-ba16-afa213316b59"
+      },
+      "squuid": "63d7cd0b-9992-4755-b0cb-24a183022403",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "Schaller, Heidemarie",
+        "squuid": "63d7ccf7-0fdd-4639-bb0e-39f685e7feba"
+      },
+      "squuid": "63d7cd16-c43c-43a5-b052-a54c25b5b94f",
+      "state": "active"
+    }
+  ]
+}

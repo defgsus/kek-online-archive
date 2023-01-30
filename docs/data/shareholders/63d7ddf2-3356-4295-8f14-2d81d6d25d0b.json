@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Coburg",
+  "pseudoCompany": false,
+  "street": "Steinweg",
+  "name": "Wochenspiegel Coburg-Sonneberg Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "63d7ddf2-3356-4295-8f14-2d81d6d25d0b",
+  "controlDate": "2023-01-30T15:14:13.289Z",
+  "streetNumber": "51",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "96450",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenspiegel.digital",
+        "squuid": "63d1153e-e16d-4828-b13f-e0c78d2545b5"
+      },
+      "squuid": "63d7de23-17d1-4d18-b29d-3541af55b4a5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wochenspiegel Thüringen GmbH & Co. KG",
+        "squuid": "63d7de0c-6e31-424b-8e46-385686be112d"
+      },
+      "squuid": "63d7def1-23cd-4436-961a-fb4ed29640f6",
+      "state": "active"
+    }
+  ]
+}

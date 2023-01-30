@@ -1,0 +1,64 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Wochenblatt Verlag Schrader GmbH & Co. KG",
+        "squuid": "63d7bb8e-d480-405b-820e-20120d83383a"
+      },
+      "squuid": "63d7bd10-72b0-4bde-a965-28223c90094d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Buchholz",
+  "pseudoCompany": false,
+  "street": "Bendestorfer Str.",
+  "name": "Wochenblatt Verlag Verwaltungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "63d7bbab-6bef-4a6d-aa79-a5d0d487e127",
+  "controlDate": "2023-01-30T12:52:52.255Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "21244",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Martin Schrader Beteiligungs GmbH & Co KG",
+        "squuid": "63d7bbc4-197b-4b5c-943d-cff906ff5692"
+      },
+      "squuid": "63d7be10-ae16-49b3-aeaf-b8eef928bb32",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.2,
+      "holder": {
+        "name": "Hanseatische Verlags-Beteiligungs AG",
+        "squuid": "5be1a6b6-cc4a-4668-bdf1-7ca63bb4815b"
+      },
+      "squuid": "63d7be1c-b871-4c49-9938-02cd5ef93702",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.8,
+      "holder": {
+        "name": "Rheinisch-Westfälische Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-ea73-40a7-ba5c-20b4724bee39"
+      },
+      "squuid": "63d7be2d-d12b-44b4-9f46-1291f8bcabdb",
+      "state": "active"
+    }
+  ]
+}

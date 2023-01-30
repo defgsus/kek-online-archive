@@ -1,13 +1,42 @@
 {
-  "name": "BLV Verlagsgesellschaft mbH & Co. KG",
+  "state": "active",
+  "city": "Ingolstadt",
+  "pseudoCompany": false,
+  "street": "Stauffenbergstr.",
+  "name": "Verlag Bayer. Anzeigenblätter GmbH",
+  "naturalPerson": false,
   "squuid": "63d165bb-3d1a-4268-bbcf-6e9a78ba47d3",
+  "controlDate": "2023-01-30T15:44:15.143Z",
+  "streetNumber": "2a",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
-  "state": "active"
+  "zipcode": "85051",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.donaukurier.de/service/zeitungstitel/izregional",
+        "squuid": "63d7e544-568b-47df-b538-15bb5a351402"
+      },
+      "squuid": "63d7e55d-79d0-4812-89b5-366c7fab2639",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Donaukurier GmbH",
+        "squuid": "5be1a6b6-3086-4afb-99e1-7a3fbde55347"
+      },
+      "squuid": "63d7e61a-643a-4422-afd4-a716c9e71e58",
+      "state": "active"
+    }
+  ]
 }

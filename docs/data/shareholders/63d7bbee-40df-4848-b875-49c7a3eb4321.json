@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Buxtehude",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Neue Buxtehuder Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "63d7bbee-40df-4848-b875-49c7a3eb4321",
+  "controlDate": "2023-01-30T13:10:01.396Z",
+  "streetNumber": "46",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "21614",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kreiszeitung-wochenblatt.de",
+        "squuid": "63d7bad3-6391-4430-a8de-19465cf789d2"
+      },
+      "squuid": "63d7bc09-d383-4a93-b935-e06d439e5a86",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 62.4,
+      "holder": {
+        "name": "Wochenblatt Verlag Schrader GmbH & Co. KG",
+        "squuid": "63d7bb8e-d480-405b-820e-20120d83383a"
+      },
+      "squuid": "63d7c21b-bad7-4063-bc3c-6114f2534aef",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 37.6,
+      "holder": {
+        "name": "Martin Schrader Beteiligungs GmbH & Co KG",
+        "squuid": "63d7bbc4-197b-4b5c-943d-cff906ff5692"
+      },
+      "squuid": "63d7c22b-f29a-40d8-94e3-f1235fc96d68",
+      "state": "active"
+    }
+  ]
+}

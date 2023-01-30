@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Martin Schrader Beteiligungs GmbH & Co KG",
+        "squuid": "63d7bbc4-197b-4b5c-943d-cff906ff5692"
+      },
+      "squuid": "63d7bf47-ea55-4363-92e4-0448676b0338",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Buchholz",
+  "pseudoCompany": false,
+  "street": "Bendestorfer Str.",
+  "name": "M + B Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "63d7beff-3977-4bab-b73b-7f9d8cc8493f",
+  "controlDate": "2023-01-30T13:05:09.742Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "21244",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schrader, Martin",
+        "squuid": "63d7bbd7-8d30-43d3-91d5-f47adede880e"
+      },
+      "squuid": "63d7c160-e147-4f03-bd9e-a6408eb097f2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Schrader, Brunhilde",
+        "squuid": "63d7bf12-61a8-4e8d-b440-58410ec82c70"
+      },
+      "squuid": "63d7c16c-6eb7-487d-a0d6-e187c5479310",
+      "state": "active"
+    }
+  ]
+}

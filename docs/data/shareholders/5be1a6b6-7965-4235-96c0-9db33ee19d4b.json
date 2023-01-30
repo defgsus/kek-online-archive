@@ -1,4 +1,26 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Kinzig.News GmbH",
+        "squuid": "63d7b124-4d4d-450e-9ff3-a289252fb7ce"
+      },
+      "squuid": "63d7b1be-eaca-49bc-89a3-6db8de3a1ee2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "GZ Medien GmbH",
+        "squuid": "63d7b25d-6d07-49c1-a3ea-b41d03edd6b8"
+      },
+      "squuid": "63d7b2d1-3e7a-43e0-ac4e-442ea2bf9203",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Gelnhausen",
   "pseudoCompany": false,
@@ -33,6 +55,15 @@
         "squuid": "5be1a6b1-7539-46dd-9111-0e238f381b8d"
       },
       "squuid": "5be1a6b9-8785-47ef-8644-62b7c74d33ff",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bote.de",
+        "squuid": "63d7affd-c4ce-4012-8f60-92e9f5fd4cd7"
+      },
+      "squuid": "63d7b049-2a0d-41e0-afec-57c3d4b43add",
       "state": "active"
     }
   ],

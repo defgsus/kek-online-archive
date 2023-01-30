@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Darmstadt",
+  "pseudoCompany": false,
+  "street": "Marktplatz",
+  "name": "Combi Medien Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "63d7e81d-a65c-405c-a6ad-5e0fd97310b1",
+  "controlDate": "2023-01-30T16:15:27.421Z",
+  "streetNumber": "3",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "64283",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.combi-medien.de",
+        "squuid": "63d7ec87-824d-4697-9919-b56839f70894"
+      },
+      "squuid": "63d7ecaa-df6d-4a12-8e88-3e71a2788adc",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "M von A & C GmbH",
+        "squuid": "5f3a8df2-82f0-4e57-9b3d-d7e09c9233f4"
+      },
+      "squuid": "63d7ed6f-599d-4b13-904a-c53d526bea1d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Ulrich Diehl Verlag und Medienservice GmbH",
+        "squuid": "63d7eda3-e5f0-4f3d-b677-7c3d41bd1d0c"
+      },
+      "squuid": "63d7edc3-4659-40e1-806c-bce23c846437",
+      "state": "active"
+    }
+  ]
+}

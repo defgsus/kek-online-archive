@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Wochenspiegel Coburg-Sonneberg Verlag GmbH",
+        "squuid": "63d7ddf2-3356-4295-8f14-2d81d6d25d0b"
+      },
+      "squuid": "63d7def1-23cd-4436-961a-fb4ed29640f6",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Suhl",
+  "pseudoCompany": false,
+  "street": "Schützenstr.",
+  "name": "Wochenspiegel Thüringen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63d7de0c-6e31-424b-8e46-385686be112d",
+  "controlDate": "2023-01-30T15:17:04.148Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "98527",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenspiegel.digital",
+        "squuid": "63d1153e-e16d-4828-b13f-e0c78d2545b5"
+      },
+      "squuid": "63d7de2f-a3cf-4696-b9b1-99e7a14349d7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Suhler Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-8f0e-479f-9854-3193606b8fe0"
+      },
+      "squuid": "63d7e010-7520-447f-b6e8-35afb7fa3a4b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Wochenspiegel Thüringen Verwaltungs GmbH",
+        "squuid": "63d7df65-31f7-4a39-a4fe-b71adf2a0fa3"
+      },
+      "squuid": "63d7e01b-5e95-4595-8fa3-40064f073a6b",
+      "state": "active"
+    }
+  ]
+}
