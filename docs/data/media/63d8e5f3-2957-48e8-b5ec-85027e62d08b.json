@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63d8e5f3-2957-48e8-b5ec-85027e62d08b",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "ORA Ostruhr-Anzeigenblattgesellschaft mbH & Co. KG",
+        "squuid": "63d8e6b5-5639-4098-9e6f-ff93164df7e4"
+      },
+      "squuid": "63d8e927-5a11-4bf8-b68c-a14b007c99cf",
+      "state": "active"
+    }
+  ],
+  "name": "www.kurier-zum-sonntag.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-31T10:10:21.027Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

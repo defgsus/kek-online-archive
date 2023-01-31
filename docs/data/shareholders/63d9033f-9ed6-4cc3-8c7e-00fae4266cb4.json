@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Karlsruhe",
+  "pseudoCompany": false,
+  "street": "Linkenheimer Landstr.",
+  "name": "Der Kurier Südwestdeutsche Druck- und Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "63d9033f-9ed6-4cc3-8c7e-00fae4266cb4",
+  "controlDate": "2023-01-31T12:02:57.437Z",
+  "streetNumber": "133",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "76149",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bnn.de/epaper-kurier",
+        "squuid": "63d90303-2173-4cb7-9750-a11eeeb55dca"
+      },
+      "squuid": "63d9034f-7c8d-4bfc-9bf1-dbbffc03b5cd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Badische Neueste Nachrichten Badendruck GmbH",
+        "squuid": "5be1a6b6-9388-43c6-a9f6-a4d926c6c384"
+      },
+      "squuid": "63d903f5-1928-4b62-b1dd-fb628c4db90d",
+      "state": "active"
+    }
+  ]
+}

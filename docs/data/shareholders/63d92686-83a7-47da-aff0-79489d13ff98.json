@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Osnabrück",
+  "pseudoCompany": false,
+  "street": "Große Str.",
+  "name": "NOZ Digital GmbH",
+  "naturalPerson": false,
+  "squuid": "63d92686-83a7-47da-aff0-79489d13ff98",
+  "controlDate": "2023-01-31T14:35:19.775Z",
+  "streetNumber": "17-19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "49074",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lokale-wochenzeitungen.de/express",
+        "squuid": "63d92620-9d88-48df-a04f-d73fae6deeac"
+      },
+      "squuid": "63d92699-7180-434e-8cc5-58cf4e6d0b3e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.krams-online.de",
+        "squuid": "63d9160c-dc91-4472-95af-1426084e9156"
+      },
+      "squuid": "63d926ac-b461-45ba-8479-434b0e8f081c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Neue Osnabrücker Zeitung GmbH & Co. KG",
+        "squuid": "5be1a6b6-11e0-4409-8a35-b11600f37cca"
+      },
+      "squuid": "63d9279a-056b-4d9b-ad26-ee0d75cd4783",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "squuid": "63d917d2-84c5-4698-b813-c45f7a74f670",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Hermann Millizer GmbH",
+        "squuid": "5be1a6b6-1576-49ad-a2a1-769cecc7a4a7"
+      },
+      "squuid": "63d91819-338c-4dda-bb8b-c4cf2d89b6f4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Emmy Riedel Buchdruckerei und Verlag GmbH",
+        "squuid": "5be1a6b6-4388-4b34-b047-6e3d7f3b8ed5"
+      },
+      "squuid": "63d91877-411f-4ea0-97a7-8d02b8e1526d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Nordbayerische Anzeigenverwaltung GmbH",
+        "squuid": "63d90671-aa9e-4530-ab5e-ade6c640c1bf"
+      },
+      "squuid": "63d918ca-8cbc-4fcf-9572-41a693eee7c4",
+      "state": "active"
+    }
+  ],
+  "name": "www.wa-wochenanzeiger.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-31T13:30:46.823Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

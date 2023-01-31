@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63d92620-9d88-48df-a04f-d73fae6deeac",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Zeitungsverlag Schwerin GmbH & Co KG",
+        "squuid": "5be1a6b6-e6d3-47f9-840b-22227f54a800"
+      },
+      "squuid": "63d92668-2eca-4979-bd8f-541115e31ccf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NOZ Digital GmbH",
+        "squuid": "63d92686-83a7-47da-aff0-79489d13ff98"
+      },
+      "squuid": "63d92699-7180-434e-8cc5-58cf4e6d0b3e",
+      "state": "active"
+    }
+  ],
+  "name": "www.lokale-wochenzeitungen.de/express",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-01-31T14:31:46.567Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
