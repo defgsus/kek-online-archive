@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63da911a-caf2-452b-a3c7-637265e8571c",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Osnabrücker Zeitung GmbH & Co. KG",
+        "squuid": "5be1a6b6-11e0-4409-8a35-b11600f37cca"
+      },
+      "squuid": "63da912e-acb0-4bf0-a7c4-0f260908a2c8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NOZ Digital GmbH",
+        "squuid": "63d92686-83a7-47da-aff0-79489d13ff98"
+      },
+      "squuid": "63da9137-2690-4a90-9e45-01f5aba94154",
+      "state": "active"
+    }
+  ],
+  "name": "www.el-kurier.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T16:19:43.635Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Haar",
+  "pseudoCompany": false,
+  "street": "Münchener Str. ",
+  "name": "Hallo-Verlag GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63da65c8-14e0-4aa4-931a-b72070fedb21",
+  "controlDate": "2023-02-01T13:16:45.207Z",
+  "streetNumber": "17",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85540",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hallo-verlag.de",
+        "squuid": "63da6598-bb5a-4a0c-ae26-90125189cfb2"
+      },
+      "squuid": "63da6606-850b-4f8f-897a-010952c1538c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hallo-Verlag Verwaltungsgesellschaft mbH",
+        "squuid": "63da65e4-7454-4c76-bed0-2f0d7dd1a543"
+      },
+      "squuid": "63da66a1-b021-483a-a142-812f85192395",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zeitungsverlag Oberbayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-baa5-4644-bd90-1f917d261023"
+      },
+      "squuid": "63da66b9-ccdc-4763-92f7-8626c229ef87",
+      "state": "active"
+    }
+  ]
+}

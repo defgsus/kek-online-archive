@@ -29,6 +29,16 @@
       },
       "squuid": "5ff4364e-6a30-48d6-98e2-90dd06a8456d",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Gessler GmbH",
+        "squuid": "5ebbab47-f073-4bb7-857f-5b976b3bf5bb"
+      },
+      "squuid": "6312144e-4b66-43b3-bce0-66634e5dadeb",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -42,6 +52,11 @@
   "controlDate": "2022-09-02T14:28:26.575Z",
   "streetNumber": "53",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -66,16 +81,76 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "Medienanstalt RLP",
+      "type": "organization",
+      "fullName": "Medienanstalt Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
       "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
       "name": "LFK",
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     },
     {
+      "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+      "name": "brema",
+      "type": "organization",
+      "fullName": "Bremische Landesmedienanstalt"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LFM NRW",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
       "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
       "name": "MMV",
       "type": "organization",
       "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    {
+      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+      "name": "MSA",
+      "type": "organization",
+      "fullName": "Medienanstalt Sachsen-Anhalt"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
   "zipcode": "88045",
@@ -83,7 +158,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 31.5,
+      "capitalShares": 31.07,
       "holder": {
         "name": "Gessler, Andreas",
         "squuid": "5be1a6b6-12c5-4d8c-9085-1dab6cc6ee53"
@@ -93,17 +168,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 10.2,
-      "holder": {
-        "name": "Gessler, Elisabeth",
-        "squuid": "5be1a6b6-ea55-452f-8d94-b8f8ad39a48b"
-      },
-      "squuid": "5be1a6b8-430c-4c8a-addb-339d73bed1f3",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 15.7,
+      "capitalShares": 15.74,
       "holder": {
         "name": "Gessler, Carola",
         "squuid": "5be1a6b6-9f41-4cc3-8959-4bd9576a089c"
@@ -113,7 +178,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 2.8,
+      "capitalShares": 2.84,
       "holder": {
         "name": "Auer, Dominik",
         "squuid": "5be1a6b6-f1ae-4526-9d4e-2a181bffa6cb"
@@ -123,7 +188,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 15.7,
+      "capitalShares": 15.74,
       "holder": {
         "name": "Gessler, Thomas",
         "squuid": "5be1a6b6-44d8-412a-8827-60a1c0d79ddc"
@@ -133,7 +198,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 15.7,
+      "capitalShares": 15.74,
       "holder": {
         "name": "Böhme, Irene",
         "squuid": "5be1a6b6-ae5d-44d4-b6cd-f8922a924031"
@@ -143,7 +208,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 5.6,
+      "capitalShares": 16.03,
       "holder": {
         "name": "Herrmann, Christina",
         "squuid": "5be1a6b6-8b55-4bf6-84b4-ed5b186947f6"
@@ -153,7 +218,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 2.8,
+      "capitalShares": 2.84,
       "holder": {
         "name": "Auer, Franziska",
         "squuid": "5be1a6b6-81c3-4d50-9676-4195a7fd8dc7"

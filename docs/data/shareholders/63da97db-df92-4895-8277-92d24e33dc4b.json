@@ -1,0 +1,76 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Klaus Merse Verwaltungs-GmbH, ",
+        "squuid": "63da9808-ea8a-49fd-b11d-ee2fd9048aaa"
+      },
+      "squuid": "63da9d84-57a1-44d3-8d14-c67c05771b2a",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Elmshorn",
+  "pseudoCompany": false,
+  "street": "Schulstr.",
+  "name": "Klaus Merse Verlag GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63da97db-df92-4895-8277-92d24e33dc4b",
+  "controlDate": "2023-02-01T17:05:11.556Z",
+  "streetNumber": "26-28",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "25335",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.holsteiner-allgemeine.de",
+        "squuid": "63da9b80-ecb1-4b0b-8246-77552fa0a07f"
+      },
+      "squuid": "63da9b99-9c90-4b5a-ae2d-63102f275def",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Kopp & Thomas Verlag GmbH",
+        "squuid": "63da97f4-ac0d-41d8-83f3-f45776b6ad23"
+      },
+      "squuid": "63da9cd0-794a-44cb-8971-833b395ceb0a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "medien holding:nord gmbh",
+        "squuid": "5be1a6b6-3a49-498e-ac48-b7da3a2e673b"
+      },
+      "squuid": "63da9cdd-cb28-4171-bdf9-d0ab928f02c6",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Klaus Merse Verwaltungs-GmbH, ",
+        "squuid": "63da9808-ea8a-49fd-b11d-ee2fd9048aaa"
+      },
+      "squuid": "63da9ce8-90d3-4f19-9524-d694c0eecd80",
+      "state": "active"
+    }
+  ]
+}

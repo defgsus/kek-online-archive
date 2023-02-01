@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63da8dd6-9a0b-4332-a834-af0b756265ed",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Südholstein Anzeigenblatt GmbH",
+        "squuid": "63da8bd8-e42d-49d4-9c4e-e20603fbdd90"
+      },
+      "squuid": "63da8dec-c2e5-4db3-995e-d66b88921f20",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NOZ Digital GmbH",
+        "squuid": "63d92686-83a7-47da-aff0-79489d13ff98"
+      },
+      "squuid": "63da8df3-fb34-46c7-a37e-b9cd83010a23",
+      "state": "active"
+    }
+  ],
+  "name": "www.lokale-wochenzeitungen.de/umschau",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T16:05:51.782Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

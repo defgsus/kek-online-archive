@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63da87ae-edeb-47a0-bc9b-86b8e4ace7bb",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Kieler Zeitung Verlags- und Druckerei KG GmbH & Co",
+        "squuid": "5be1a6b6-4710-4293-8149-c314bcc4d3b9"
+      },
+      "squuid": "63da87d7-dd2c-49ca-8a88-7a674613c30f",
+      "state": "active"
+    }
+  ],
+  "name": "www.kielerexpress-online.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T15:39:35.725Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

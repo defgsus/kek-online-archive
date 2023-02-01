@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63da8b26-f4e0-47e0-9c5e-1b6ab3c39364",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "sh:z Schleswig-Holsteinischer Zeitungsverlag GmbH & Co KG",
+        "squuid": "5be1a6b6-5d33-48ab-a772-58018e1c1510"
+      },
+      "squuid": "63da8b3f-e148-4029-ac98-a2e38e23076a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NOZ Digital GmbH",
+        "squuid": "63d92686-83a7-47da-aff0-79489d13ff98"
+      },
+      "squuid": "63da8b49-5b79-449d-823e-adbcd2e72c15",
+      "state": "active"
+    }
+  ],
+  "name": "www.lokale-wochenzeitungen.de/hallo-sylt",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T15:54:24.312Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

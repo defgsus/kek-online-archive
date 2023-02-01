@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Lützelbach",
+  "pseudoCompany": false,
+  "street": "Nelkenstr.",
+  "name": "Odenwälder Journal Medienhaus GmbH",
+  "naturalPerson": false,
+  "squuid": "63da4fe6-35c6-4103-895c-7a09fffe70d3",
+  "controlDate": "2023-02-01T11:42:45.188Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "64750",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.odw-journal.de",
+        "squuid": "63da5003-5887-49b6-b1c8-2bccd5c68caf"
+      },
+      "squuid": "63da5019-d003-4393-9fca-90be1ed73dd1",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "M von A & C GmbH",
+        "squuid": "5f3a8df2-82f0-4e57-9b3d-d7e09c9233f4"
+      },
+      "squuid": "63da507b-8f57-403c-a0ae-f87c9c0ed379",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Zaborowski, Volker",
+        "squuid": "63da50c8-243b-42f2-99e3-53fe856c363e"
+      },
+      "squuid": "63da50da-5852-481f-b609-1255bf76bd01",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Schneider, René",
+        "squuid": "63da50a9-aa42-4450-a3d3-affb433aca40"
+      },
+      "squuid": "63da50e5-85e8-4184-9864-2876b2197dfd",
+      "state": "active"
+    }
+  ]
+}

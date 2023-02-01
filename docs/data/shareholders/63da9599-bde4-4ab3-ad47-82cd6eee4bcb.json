@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "TW Wochenspiegel Verwaltungs-GmbH",
+        "squuid": "63da95ac-8dce-4900-8cc2-327704ab48ed"
+      },
+      "squuid": "63da96f8-006c-4011-9deb-19e64fcd4131",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Monschau",
+  "pseudoCompany": false,
+  "street": "Hans-Georg-Weiss-Str.",
+  "name": "TW Wochenspiegel GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63da9599-bde4-4ab3-ad47-82cd6eee4bcb",
+  "controlDate": "2023-02-01T16:39:56.599Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "52156",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenspiegellive.de",
+        "squuid": "63da945d-6ae6-4a24-9ea1-1f5e5db5504c"
+      },
+      "squuid": "63da95be-120e-4713-9f49-e5d6e98f1ba0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "WM-Beteiligungs- und Verwaltungs-GmbH & Co KG",
+        "squuid": "5be1a6b6-066d-4a9c-8fc5-81ac88fa3508"
+      },
+      "squuid": "63da9655-0f58-4c80-80f0-37c61423de5d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "TW Wochenspiegel Verwaltungs-GmbH",
+        "squuid": "63da95ac-8dce-4900-8cc2-327704ab48ed"
+      },
+      "squuid": "63da9661-5483-4811-8585-50bdac10b6b5",
+      "state": "active"
+    }
+  ]
+}

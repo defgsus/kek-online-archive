@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63da8a6b-d457-4bc6-b7d7-fe99b29580f6",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "sh:z Schleswig-Holsteinischer Zeitungsverlag GmbH & Co KG",
+        "squuid": "5be1a6b6-5d33-48ab-a772-58018e1c1510"
+      },
+      "squuid": "63da8a89-323e-4bc7-bb72-5ef56e7165d3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NOZ Digital GmbH",
+        "squuid": "63d92686-83a7-47da-aff0-79489d13ff98"
+      },
+      "squuid": "63da8a92-5042-4a23-8b93-a11bdf5a7cb0",
+      "state": "active"
+    }
+  ],
+  "name": "www.lokale-wochenzeitungen.de/hallo",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T15:51:17.082Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

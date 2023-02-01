@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63da8ff8-a5d5-4028-b415-0a9cd6a1bc85",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Osnabrücker Zeitung GmbH & Co. KG",
+        "squuid": "5be1a6b6-11e0-4409-8a35-b11600f37cca"
+      },
+      "squuid": "63da90b7-0f7e-4ac7-bdd1-eace5db22951",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NOZ Digital GmbH",
+        "squuid": "63d92686-83a7-47da-aff0-79489d13ff98"
+      },
+      "squuid": "63da90bf-396d-498f-a3ce-762744176d07",
+      "state": "active"
+    }
+  ],
+  "name": "www.osnabruecker-nachrichten.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T16:18:08.194Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

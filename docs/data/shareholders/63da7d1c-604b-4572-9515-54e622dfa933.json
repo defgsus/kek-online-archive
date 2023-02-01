@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Peterssteinweg",
+  "name": "Leipzig Media GmbH",
+  "naturalPerson": false,
+  "squuid": "63da7d1c-604b-4572-9515-54e622dfa933",
+  "controlDate": "2023-02-01T14:55:31.929Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "04107",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sachsen-sonntag.de",
+        "squuid": "63da7ce8-bc6c-47d8-ba46-0c622f4b7e9c"
+      },
+      "squuid": "63da7d3b-e6a8-4b1e-ae55-4eb636456efa",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Leipziger Verlags- und Druckereigesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-e3d7-48f4-a702-9fec71b10041"
+      },
+      "squuid": "63da7dc1-d810-48ea-9b31-f6feccc4725b",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63da6598-bb5a-4a0c-ae26-90125189cfb2",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Hallo-Verlag GmbH & Co. KG",
+        "squuid": "63da65c8-14e0-4aa4-931a-b72070fedb21"
+      },
+      "squuid": "63da6606-850b-4f8f-897a-010952c1538c",
+      "state": "active"
+    }
+  ],
+  "name": "www.hallo-verlag.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T13:15:24.228Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

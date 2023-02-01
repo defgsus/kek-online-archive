@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63da60eb-619a-464c-98e7-81fa67bcf12f",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Boyens Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-f39e-45c4-a5ce-2ccf9d91d5b1"
+      },
+      "squuid": "63da6105-4542-4d99-8e2a-b8a80ddcb42c",
+      "state": "active"
+    }
+  ],
+  "name": "www.anzeiger-am-sonntag.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T12:54:09.503Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

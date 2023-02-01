@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Obertshausen",
+  "pseudoCompany": false,
+  "street": "Bieberer Str.",
+  "name": "Rhein Main Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "63da4c58-ce49-4611-8165-3b25c060fb1e",
+  "controlDate": "2023-02-01T11:29:16.507Z",
+  "streetNumber": "137",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "63179",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rheinmainverlag.de",
+        "squuid": "63da4cd6-f66c-4819-bac7-9a21b109269a"
+      },
+      "squuid": "63da4cf1-8c92-4978-99d1-8e2b394cb8c7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.der-frankfurter.de",
+        "squuid": "63da4ec2-88aa-4fb6-9399-6d96a7997891"
+      },
+      "squuid": "63da4ed9-22aa-4305-a289-21e183e50fb0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "EGRO-Direktwerbung GmbH",
+        "squuid": "5be1a6b6-5043-4571-9285-522e3bbdf93d"
+      },
+      "squuid": "63da4d3f-ef63-43ca-89bf-3353e6cf600b",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63da8d2f-bb90-4a64-a1c2-7d261fa205e1",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Südholstein Anzeigenblatt GmbH",
+        "squuid": "63da8bd8-e42d-49d4-9c4e-e20603fbdd90"
+      },
+      "squuid": "63da8d47-3bea-4247-94a3-7ea5dbc4c67f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NOZ Digital GmbH",
+        "squuid": "63d92686-83a7-47da-aff0-79489d13ff98"
+      },
+      "squuid": "63da8d51-cb78-427d-b1da-5a53d616371c",
+      "state": "active"
+    }
+  ],
+  "name": "www.lokale-wochenzeitungen.de/markt",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T16:03:05.220Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

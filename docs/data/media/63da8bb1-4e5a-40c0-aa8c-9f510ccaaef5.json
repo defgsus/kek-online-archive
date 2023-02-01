@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63da8bb1-4e5a-40c0-aa8c-9f510ccaaef5",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Südholstein Anzeigenblatt GmbH",
+        "squuid": "63da8bd8-e42d-49d4-9c4e-e20603fbdd90"
+      },
+      "squuid": "63da8bf6-3381-4fed-8823-7fdcf12d3d21",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NOZ Digital GmbH",
+        "squuid": "63d92686-83a7-47da-aff0-79489d13ff98"
+      },
+      "squuid": "63da8bff-b8c4-4e72-85ce-f8eb3c60b87d",
+      "state": "active"
+    }
+  ],
+  "name": "www.lokale-wochenzeitungen.de/heimatspiegel",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T15:57:24.561Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

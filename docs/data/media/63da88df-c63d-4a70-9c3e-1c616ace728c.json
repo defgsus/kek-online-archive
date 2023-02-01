@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63da88df-c63d-4a70-9c3e-1c616ace728c",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "sh:z Schleswig-Holsteinischer Zeitungsverlag GmbH & Co KG",
+        "squuid": "5be1a6b6-5d33-48ab-a772-58018e1c1510"
+      },
+      "squuid": "63da88fd-7710-44b5-b089-69af11d2f665",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NOZ Digital GmbH",
+        "squuid": "63d92686-83a7-47da-aff0-79489d13ff98"
+      },
+      "squuid": "63da8907-cb2c-450c-a05e-347b8da991fa",
+      "state": "active"
+    }
+  ],
+  "name": "www.lokale-wochenzeitungen.de/hallo-eckernfoerde",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T15:44:41.924Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

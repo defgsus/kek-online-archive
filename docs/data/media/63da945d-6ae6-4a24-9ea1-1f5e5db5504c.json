@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "squuid": "63da945d-6ae6-4a24-9ea1-1f5e5db5504c",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Weiss-Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-5354-4ec6-b0ac-76cf646f1681"
+      },
+      "squuid": "63da9496-504d-4ded-9e71-33dc0d2083f1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "S-W Verlag GmbH & Co. KG für Lokalinformationen",
+        "squuid": "5be1a6b6-9dfa-4e7a-a187-34251fc1bcf5"
+      },
+      "squuid": "63da9522-00ef-4c1c-98bd-48bb5c17d615",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "TW Wochenspiegel GmbH & Co. KG",
+        "squuid": "63da9599-bde4-4ab3-ad47-82cd6eee4bcb"
+      },
+      "squuid": "63da95be-120e-4713-9f49-e5d6e98f1ba0",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenspiegellive.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-01T16:34:15.407Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

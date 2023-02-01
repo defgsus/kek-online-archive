@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 13.3,
+      "held": {
+        "name": "Wochenkurier Lokalverlag Verwaltungs-GmbH",
+        "squuid": "63da779d-cf81-4698-8698-beb4818e42a8"
+      },
+      "squuid": "63da7a49-4cd8-449f-beec-30f02ad84702",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Elsterheide",
+  "pseudoCompany": false,
+  "street": "Geierswalder Str.",
+  "name": "Wochenkurier Lokalverlag GmbH & Co. KG ",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63da773a-b680-48cf-b4d8-88e542dced55",
+  "controlDate": "2023-02-01T14:31:04.441Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "02979",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenkurier.info",
+        "squuid": "63da774f-d8fa-4e5c-92ec-9db80ad01b9f"
+      },
+      "squuid": "63da776a-8ba7-427f-b6de-676ea3369e7d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "WM-Beteiligungs- und Verwaltungs-GmbH & Co KG",
+        "squuid": "5be1a6b6-066d-4a9c-8fc5-81ac88fa3508"
+      },
+      "squuid": "63da78a1-7ec2-4faf-b817-bcd7cf61c7ae",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Wochenkurier Lokalverlag Verwaltungs-GmbH",
+        "squuid": "63da779d-cf81-4698-8698-beb4818e42a8"
+      },
+      "squuid": "63da78ab-b677-40b4-b38f-633e58a84362",
+      "state": "active"
+    }
+  ]
+}
