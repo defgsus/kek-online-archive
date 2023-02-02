@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Emsdetten",
+  "pseudoCompany": false,
+  "street": "Vennweg ",
+  "name": "Wir in Detten GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63dbe342-9f58-4363-8ca2-4d9ae1782f4f",
+  "controlDate": "2023-02-02T16:24:33.156Z",
+  "streetNumber": "98b",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "48282",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wirin.de",
+        "squuid": "63dbe356-704c-4a3e-9ba8-666fd0383a5d"
+      },
+      "squuid": "63dbe370-f079-4004-b0ac-7557b9e9c299",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Altmeppen Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-83d8-4e1a-9f74-04e98897c91b"
+      },
+      "squuid": "63dbe45c-5c7d-4a3e-ba4f-cfb52ca98a59",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Sechsundsechzigste J-M-P Vermögensverwaltungsgesellschaft mbH",
+        "squuid": "63dbdd1e-97c2-4f4d-8d7b-952f7c1a2600"
+      },
+      "squuid": "63dbe46b-520c-4622-9dd9-de3147bff5ba",
+      "state": "active"
+    }
+  ]
+}

@@ -283,7 +283,7 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "Südwest Presse Zollern-Alb-Kurier/Schmiecha Zeitung",
+    "name": "Südwest Presse Zolleralbkreis/Schmiecha Zeitung",
     "type": "print",
     "squuid": "63d0fba2-c1e7-4a2a-abda-45bc5b4e6a14",
     "pressPublishingIntervals": 312,
@@ -45041,6 +45041,7 @@
       "type": "organization",
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
+    "rfStatewide": false,
     "name": "Sportradio NRW",
     "type": "radio",
     "squuid": "61b33488-fd57-4956-9f55-51d7f9b87b65",
@@ -56573,6 +56574,30 @@
     "type": "online",
     "squuid": "62aafc4a-c6b9-41b1-87e1-a938807773d4",
     "state": "archived"
+  },
+  {
+    "state": "active",
+    "squuid": "63dbe356-704c-4a3e-9ba8-666fd0383a5d",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.wirin.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-02-02T16:22:51.492Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
   },
   {
     "state": "active",
@@ -91640,20 +91665,17 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LFM NRW",
-      "type": "organization",
-      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "62e272ee-0473-4dbf-a683-55f2804147a2",
     "organization": {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
       "name": "LFM NRW",
       "type": "organization",
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
+    "rfStatewide": false,
     "name": "NOXX",
+    "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
       "name": "auf Sendung",
@@ -91661,8 +91683,12 @@
       "state": "active"
     },
     "type": "radio",
-    "squuid": "62e272ee-0473-4dbf-a683-55f2804147a2",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LFM NRW",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    }
   },
   {
     "pressPublishingIntervals": 312,

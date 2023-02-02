@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Sonntagszeitung Wesermarsch Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "63dbdbf3-868c-4d90-ac42-61a814554e06"
+      },
+      "squuid": "63dbdd4e-d990-45f6-bfb3-74794979678e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Brake",
+  "pseudoCompany": false,
+  "street": "Breite Straße",
+  "name": "Sonntagszeitung Wesermarsch Verlagsgesellschaft Beteiligungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "63dbdc3d-32c2-4fd9-b729-dd4c55dab56f",
+  "controlDate": "2023-02-02T15:57:34.016Z",
+  "streetNumber": "26",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "26919",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Bremervörder Zeitung Verlagsgesellschaft Borgardt GmbH & Co KG",
+        "squuid": "5be1a6b6-864d-4119-b576-cfd654d4ca81"
+      },
+      "squuid": "63dbddc8-5216-4f1f-87b3-b1ca14d7c584",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "holder": {
+        "name": "Nordwest Media Vermarktungsgesellschaft mbH & Co. KG",
+        "squuid": "637f907b-45ea-4a64-aa67-cc281b3f330a"
+      },
+      "squuid": "63dbdf19-18dd-431f-b9c4-1ff0448e13d5",
+      "state": "active"
+    }
+  ]
+}
