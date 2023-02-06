@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Kassel",
+  "pseudoCompany": false,
+  "street": "Frankfurter Str.",
+  "name": "NHW Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "63e0d264-fc92-458f-9886-a503f2b7a9d1",
+  "controlDate": "2023-02-06T10:12:31.804Z",
+  "streetNumber": "168",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "34121",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nh-wochenzeitungen.de",
+        "squuid": "63e0d1f3-fe65-4c35-8076-0584f43fc036"
+      },
+      "squuid": "63e0d27b-70d0-4b6a-8eb0-32f63a768d2a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlag Dierichs GmbH & Co. KG",
+        "squuid": "5be1a6b6-6af6-4d18-aba5-e87517df7d54"
+      },
+      "squuid": "63e0d30d-0839-4e59-86be-2674d76a9a5f",
+      "state": "active"
+    }
+  ]
+}

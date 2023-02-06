@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Dudenstr.",
+  "name": "Badische Anzeigen Verlags-GmbH",
+  "naturalPerson": false,
+  "squuid": "63e11e01-bde9-49b6-82ae-bd63df1ce1c6",
+  "controlDate": "2023-02-06T15:35:50.772Z",
+  "streetNumber": "12-26",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "68167",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.baz-medien.de",
+        "squuid": "63e11de5-ee23-4ab7-ad63-056ac8cccc44"
+      },
+      "squuid": "63e11e17-50f1-40ab-8ba5-fd4343e1c4b1",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Haas Medienbeteiligung GmbH",
+        "squuid": "63e11ed6-cf09-458f-b88a-a1ac8bbfab26"
+      },
+      "squuid": "63e11ee9-28b7-4589-b7fa-fb60b983f05a",
+      "state": "active"
+    }
+  ]
+}

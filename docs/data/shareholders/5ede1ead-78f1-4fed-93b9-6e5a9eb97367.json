@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "Weser Verlag GmbH & Co. KG",
+        "squuid": "63e0c6c8-f470-4c8f-8838-8eec8ed36c77"
+      },
+      "squuid": "63e0c8a2-2358-48e9-a0e3-923df20a651b",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Minden",
   "pseudoCompany": false,
@@ -61,6 +73,15 @@
         "squuid": "637ba1b9-ef4d-4215-8ec6-0be48aaf3384"
       },
       "squuid": "637ba261-72d2-46ea-b67c-e97e11322850",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.weserspucker.de",
+        "squuid": "63e0c63d-1274-453f-a09c-e6b19a0f5338"
+      },
+      "squuid": "63e0c75c-3384-4178-81af-fcdeff3951a4",
       "state": "active"
     }
   ],

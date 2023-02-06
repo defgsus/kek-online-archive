@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63e0f41e-d6d8-4a16-96b9-341918d5a2d8",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Anzeigenblätter GmbH Chemnitz",
+        "squuid": "63e0f40b-c83c-40cd-9c53-4eb834a82504"
+      },
+      "squuid": "63e0f442-34ba-4163-bbf0-1a1eb841c1f1",
+      "state": "active"
+    }
+  ],
+  "name": "www.blick.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-06T12:36:01.651Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

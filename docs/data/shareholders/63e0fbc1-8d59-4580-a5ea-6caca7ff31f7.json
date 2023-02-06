@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Erfurt",
+  "pseudoCompany": false,
+  "street": "Gottstetter Landstr.",
+  "name": "Funke Thüringen Wochenblatt GmbH",
+  "naturalPerson": false,
+  "squuid": "63e0fbc1-8d59-4580-a5ea-6caca7ff31f7",
+  "controlDate": "2023-02-06T14:48:56.756Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "99092",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.meinanzeiger.de",
+        "squuid": "63e0fb71-680b-4dfc-8c13-cd8a79398dc7"
+      },
+      "squuid": "63e0fbd2-00a7-40a0-906a-2b056ad307db",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Thüringen Verlag GmbH",
+        "squuid": "6093d9b9-fe17-4ffa-956c-cd26af79a1c1"
+      },
+      "squuid": "63e113b8-2766-4784-ab4f-4e1cc0521d64",
+      "state": "active"
+    }
+  ]
+}

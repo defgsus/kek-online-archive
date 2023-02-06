@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63e0fa05-eba8-4722-9632-1c44149d6136",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Wochenspiegel Thüringen GmbH & Co. KG",
+        "squuid": "63d7de0c-6e31-424b-8e46-385686be112d"
+      },
+      "squuid": "63e0fa1f-4fc9-4143-ab30-8601ea9d8e3a",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenspiegel-thueringen.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-06T13:01:04.148Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

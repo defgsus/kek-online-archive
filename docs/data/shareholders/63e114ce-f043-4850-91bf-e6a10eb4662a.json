@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Hildburghausen",
+  "pseudoCompany": false,
+  "street": "Untere Marktstr.",
+  "name": "Kurier-Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "63e114ce-f043-4850-91bf-e6a10eb4662a",
+  "controlDate": "2023-02-06T14:56:05.072Z",
+  "streetNumber": "17",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "98646",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rundschau.info",
+        "squuid": "63e11464-7513-4c5b-852d-8158e15a0b9f"
+      },
+      "squuid": "63e114e8-d9f1-4274-ae18-3a703ba2adf6",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 9.0,
+      "holder": {
+        "name": "prospega GmbH",
+        "squuid": "63ce97bf-2d00-4afc-8155-46e90e225226"
+      },
+      "squuid": "63e11593-ad76-4066-a2e6-911ef7b90737",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 9.0,
+      "holder": {
+        "name": "Mediengruppe Oberfranken Zeitungsverlage GmbH & Co KG",
+        "squuid": "5be1a6b6-1ba9-4404-8b0b-eacd59f83952"
+      },
+      "squuid": "63e115a7-4803-4735-9652-30b2fef3da20",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 82.0,
+      "holder": {
+        "name": "Mediengruppe Oberfranken - Zeitungsverlage Verwaltung GmbH",
+        "squuid": "5eb55471-a568-47c8-b2a8-4847ee915596"
+      },
+      "squuid": "63e115b6-9bbd-4ddf-9fd1-8801c17ffdf7",
+      "state": "active"
+    }
+  ]
+}

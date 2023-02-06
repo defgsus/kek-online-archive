@@ -1,0 +1,76 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Weser Verlag Verwaltungs GmbH",
+        "squuid": "63e0c835-0ede-4674-b28d-faee18b45326"
+      },
+      "squuid": "63e0c91f-95a3-400f-bde3-ea001aa33dd8",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Bielefeld",
+  "pseudoCompany": false,
+  "street": "Sudbrackstr.",
+  "name": "Weser Verlag GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63e0c6c8-f470-4c8f-8838-8eec8ed36c77",
+  "controlDate": "2023-02-06T09:28:44.336Z",
+  "streetNumber": "14-18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "33611",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.weserspucker.de",
+        "squuid": "63e0c63d-1274-453f-a09c-e6b19a0f5338"
+      },
+      "squuid": "63e0c764-770c-4c19-8b41-df3a4cfe2739",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Weser Verlag Verwaltungs GmbH",
+        "squuid": "63e0c835-0ede-4674-b28d-faee18b45326"
+      },
+      "squuid": "63e0c896-b731-411a-92ac-219ca9a041f5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Bruns Verlags-GmbH & Co. KG",
+        "squuid": "5ede1ead-78f1-4fed-93b9-6e5a9eb97367"
+      },
+      "squuid": "63e0c8a2-2358-48e9-a0e3-923df20a651b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "Panorama Verlags- und Werbegesellschaft mbH",
+        "squuid": "63d7c562-619e-4ab4-acf5-2df13bff231a"
+      },
+      "squuid": "63e0c8af-d4b3-4cd9-878c-e2937dc902ca",
+      "state": "active"
+    }
+  ]
+}

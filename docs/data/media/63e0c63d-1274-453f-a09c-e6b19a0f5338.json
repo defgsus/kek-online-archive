@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63e0c63d-1274-453f-a09c-e6b19a0f5338",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bruns Verlags-GmbH & Co. KG",
+        "squuid": "5ede1ead-78f1-4fed-93b9-6e5a9eb97367"
+      },
+      "squuid": "63e0c75c-3384-4178-81af-fcdeff3951a4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Weser Verlag GmbH & Co. KG",
+        "squuid": "63e0c6c8-f470-4c8f-8838-8eec8ed36c77"
+      },
+      "squuid": "63e0c764-770c-4c19-8b41-df3a4cfe2739",
+      "state": "active"
+    }
+  ],
+  "name": "www.weserspucker.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-06T09:20:06.633Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

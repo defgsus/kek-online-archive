@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Chemnitz",
+  "pseudoCompany": false,
+  "street": "Heinrich-Lorenz-Str.",
+  "name": "kommunikation & design verlag gmbh chemnitz",
+  "naturalPerson": false,
+  "squuid": "63e0f732-95c8-4f1f-8ebb-6fcc59648094",
+  "controlDate": "2023-02-06T12:51:18.555Z",
+  "streetNumber": "2-4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "09120",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenendspiegel.de",
+        "squuid": "63e0f749-a1c5-4f51-a1e1-ae9173cb1042"
+      },
+      "squuid": "63e0f78f-2dd4-4168-b502-5a919efbe77c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlagsgesellschaft BERGstraße mbH Aue",
+        "squuid": "63e0f764-f193-4c27-8606-aa949b8e0788"
+      },
+      "squuid": "63e0f819-5066-48e3-88df-050fd6a2d5c0",
+      "state": "active"
+    }
+  ]
+}

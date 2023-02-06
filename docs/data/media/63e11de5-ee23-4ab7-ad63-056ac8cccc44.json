@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63e11de5-ee23-4ab7-ad63-056ac8cccc44",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Badische Anzeigen Verlags-GmbH",
+        "squuid": "63e11e01-bde9-49b6-82ae-bd63df1ce1c6"
+      },
+      "squuid": "63e11e17-50f1-40ab-8ba5-fd4343e1c4b1",
+      "state": "active"
+    }
+  ],
+  "name": "www.baz-medien.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-06T15:34:35.199Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

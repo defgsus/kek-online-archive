@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Chemnitz",
+  "pseudoCompany": false,
+  "street": "Brückenstr.",
+  "name": "Verlag Anzeigenblätter GmbH Chemnitz",
+  "naturalPerson": false,
+  "squuid": "63e0f40b-c83c-40cd-9c53-4eb834a82504",
+  "controlDate": "2023-02-06T12:37:15.159Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "09111",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blick.de",
+        "squuid": "63e0f41e-d6d8-4a16-96b9-341918d5a2d8"
+      },
+      "squuid": "63e0f442-34ba-4163-bbf0-1a1eb841c1f1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.erzgebirge.de",
+        "squuid": "63e0f50e-9068-4ee9-9bdb-34152d6ee730"
+      },
+      "squuid": "63e0f525-151a-4c92-81a6-f7a920dc2cf5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Chemnitzer Verlag und Druck GmbH & Co KG",
+        "squuid": "5be1a6b6-cfcd-42de-a2aa-c349ee9aa887"
+      },
+      "squuid": "63e0f4be-8e7c-4da9-a8ac-0c298f45cf02",
+      "state": "active"
+    }
+  ]
+}
