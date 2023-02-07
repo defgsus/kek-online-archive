@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hallstadt",
+  "pseudoCompany": false,
+  "street": "Biegenhofstr.",
+  "name": "Wochenblatt Bamberg GmbH",
+  "naturalPerson": false,
+  "squuid": "63e22265-78f3-4360-9a61-c2a42060a371",
+  "controlDate": "2023-02-07T10:06:02.359Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "96105",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wobla.net",
+        "squuid": "63e2219d-09cc-49d0-b971-a213a22662b3"
+      },
+      "squuid": "63e22282-b3a2-419c-8ba0-c0da6b991efe",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mayer & Söhne Druck- und Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-b8b9-4716-9d86-62dc0bebb7f5"
+      },
+      "squuid": "63e222ff-181b-4d2a-9ede-7cc3308c4034",
+      "state": "active"
+    }
+  ]
+}

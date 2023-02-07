@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63e231eb-5f1d-4df3-b99a-2d7373b3fac3",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Amper-Kurier GmbH",
+        "squuid": "5be1a6b6-c8a4-4698-af6c-a97bf8c61028"
+      },
+      "squuid": "63e23215-497b-405e-bee2-154b187a498e",
+      "state": "active"
+    }
+  ],
+  "name": "www.amper-kurier.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-07T11:12:04.459Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

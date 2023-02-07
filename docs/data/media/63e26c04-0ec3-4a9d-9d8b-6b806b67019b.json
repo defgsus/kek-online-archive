@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63e26c04-0ec3-4a9d-9d8b-6b806b67019b",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SDZ Druck und Medien GmbH",
+        "squuid": "5be1a6b6-1d7f-4bb0-91e5-6ee4accea502"
+      },
+      "squuid": "63e26c37-5374-481f-a9ab-b8cf60878eb0",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenpost.info",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-07T15:19:40.601Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

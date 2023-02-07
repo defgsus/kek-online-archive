@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Gießen",
+  "pseudoCompany": false,
+  "street": "Marburger Str.",
+  "name": "Verlags- und Werbestudio Busse GmbH",
+  "naturalPerson": false,
+  "squuid": "63e24f45-5ed3-452a-b09f-17298900f7ad",
+  "controlDate": "2023-02-07T13:18:48.101Z",
+  "streetNumber": "18-20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "35390",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sonntag-morgenmagazin.de",
+        "squuid": "63e24f6c-fbc4-45c8-9bf5-9e71c0dfa5ad"
+      },
+      "squuid": "63e24f86-6fe7-4a8f-b38f-6592b4c09a69",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mittelhessische Druck- und Verlagshaus GmbH & Co KG",
+        "squuid": "5be1a6b6-f5fa-42a0-9e08-3357bfdc4167"
+      },
+      "squuid": "63e24ffb-4bfa-4fbd-b507-575da37da98a",
+      "state": "active"
+    }
+  ]
+}

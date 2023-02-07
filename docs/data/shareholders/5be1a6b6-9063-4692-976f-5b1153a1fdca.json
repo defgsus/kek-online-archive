@@ -1,4 +1,26 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MGV Mediengestaltungs- und Vermarktungs GmbH & Co. KG",
+        "squuid": "63e22a46-0181-45b6-ace7-61dabb479fa7"
+      },
+      "squuid": "63e22b2e-73f6-448b-b6a1-981f0f346e98",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MGV Mediengestaltung und Vermarktung Verwaltungs-GmbH",
+        "squuid": "63e22abb-fab2-41c2-94c4-80f4e72341e1"
+      },
+      "squuid": "63e22bb6-b22c-4f2b-b265-faf030f771e2",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Fulda",
   "pseudoCompany": false,
@@ -60,6 +82,42 @@
         "squuid": "5be1a6b1-1132-48b7-a255-a6580fb76d6d"
       },
       "squuid": "5be1a6b9-cd39-4da0-9ecf-120f45bb8e19",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Fuldaer Zeitung am Sonntag",
+        "squuid": "63e22c3b-6a3f-407c-8b2b-fdb8d7887ce9"
+      },
+      "squuid": "63e22cbb-68ea-473d-a2a5-d50ac1d1d203",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hünfelder Zeitung am Sonntag",
+        "squuid": "63e22c54-bc58-4fc0-b58a-cb8222adc223"
+      },
+      "squuid": "63e22ce7-ae23-4f49-b3dd-48bb4029fece",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kinzigtal Nachrichten am Sonntag",
+        "squuid": "63e22c70-92c8-4ede-8351-b282bbde83a1"
+      },
+      "squuid": "63e22d19-9a4b-4744-bbcf-2afcb6c6b832",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schlitzer Bote am Sonntag",
+        "squuid": "63e22c84-ee76-4a22-bef1-a83a6e632306"
+      },
+      "squuid": "63e22d3f-de64-440b-b546-1c8fbaf409b1",
       "state": "active"
     }
   ],

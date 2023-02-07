@@ -2,7 +2,7 @@
   "rfRepresentative": "Peter Tietzki",
   "state": "active",
   "rfShoppingChannel": false,
-  "rfParentalAdvisor": "Sergej Davidoff",
+  "rfParentalAdvisor": "Valeria Dobralskaya",
   "rfStartDate": "01.11.2015",
   "rfFreePay": false,
   "squuid": "5be1a6b1-4b93-4992-8e2c-0c327e2b2cf6",
@@ -24,7 +24,7 @@
       "state": "active"
     }
   ],
-  "name": "Telebom",
+  "name": "TeleBom",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
@@ -46,18 +46,19 @@
     "type": "organization",
     "fullName": "Medienanstalt Berlin-Brandenburg"
   },
-  "description": "Russischsprachiges Spartenprogramm, das Cartoons und Zeichentrickfilme für Kinder und Jugendliche zeigt. Telebom (täglich 6-10 Uhr und 14-18 Uhr) teilt sich den Sendeplatz mit Teledom (täglich 10-14 Uhr und 18-6 Uhr), einem Spartenprogramm, das russische Fernsehserien ausstrahlt.",
-  "rfLicenseUntil": "08.11.2022",
+  "description": "Russischsprachiges Spartenprogramm, das Cartoons und Zeichentrickfilme für Kinder und Jugendliche zeigt. TeleBom (täglich 6-10 Uhr und 14-18 Uhr) teilt sich den Sendeplatz mit TeleDom (täglich 10-14 Uhr und 18-6 Uhr), einem Spartenprogramm, das russische Fernsehserien ausstrahlt.",
+  "rfLicenseUntil": "unbefristet",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
+  "rfLicensed": "16.12.2022",
   "platformOperators": [
     {
       "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
-      "name": "Vodafone Kabel Deutschland GmbH",
+      "name": "GIGA TV Cable / Vodafone Kabel Deutschland GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
@@ -68,7 +69,7 @@
     },
     {
       "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
-      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "name": "Magenta TV / Deutsche Telekom GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
@@ -78,19 +79,8 @@
       "state": "active"
     },
     {
-      "squuid": "5be1a6b0-2315-4639-ad7e-4ee0ca15d951",
-      "name": "Unitymedia",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
-        "name": "Kabel",
-        "type": "distribution-type"
-      },
-      "state": "active"
-    },
-    {
       "squuid": "5be1a6b0-ec5e-4d1d-aeab-25f09a97bf67",
-      "name": "Tele Columbus AG",
+      "name": "PΫUR / Tele Columbus AG",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
@@ -101,7 +91,7 @@
     },
     {
       "squuid": "5be1a6b0-31b3-4da1-94f0-3f3fa687a473",
-      "name": "Eutelsat S.A.",
+      "name": "Eutelsat / Eutelsat S.A.",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
@@ -111,7 +101,8 @@
       "state": "active"
     }
   ],
-  "accessibilityEmail": "info@kinomir.tv",
+  "rfLicenseFrom": "09.11.2022",
+  "accessibilityEmail": "info@rtvd.de",
   "languages": [
     {
       "squuid": "5be1a6ae-3a32-4cbf-8912-333503b9d1e8",

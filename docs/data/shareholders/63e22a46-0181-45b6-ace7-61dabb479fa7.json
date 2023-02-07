@@ -1,0 +1,63 @@
+{
+  "state": "active",
+  "city": "Fulda",
+  "pseudoCompany": false,
+  "street": "Frankfurter Str.",
+  "name": "MGV Mediengestaltungs- und Vermarktungs GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63e22a46-0181-45b6-ace7-61dabb479fa7",
+  "controlDate": "2023-02-07T10:41:24.167Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "36043",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.marktkorb.de",
+        "squuid": "63e22930-0129-4671-b534-010652aec543"
+      },
+      "squuid": "63e22a61-4f5d-41ab-b6aa-1751ac39a550",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochen-bote.de",
+        "squuid": "63e229ad-5e22-49ba-83a3-d57a0dc16e24"
+      },
+      "squuid": "63e22a7a-8ee8-4701-a787-8326c92ca967",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "MGV Mediengestaltung und Vermarktung Verwaltungs-GmbH",
+        "squuid": "63e22abb-fab2-41c2-94c4-80f4e72341e1"
+      },
+      "squuid": "63e22b21-bf51-40b2-b357-6a9d2749b7e6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlag Parzeller GmbH & Co KG",
+        "squuid": "5be1a6b6-9063-4692-976f-5b1153a1fdca"
+      },
+      "squuid": "63e22b2e-73f6-448b-b6a1-981f0f346e98",
+      "state": "active"
+    }
+  ]
+}

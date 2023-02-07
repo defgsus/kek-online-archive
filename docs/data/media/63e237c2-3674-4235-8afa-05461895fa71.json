@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63e237c2-3674-4235-8afa-05461895fa71",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Mitteldeutsche Verlags- und Druckhaus GmbH",
+        "squuid": "5be1a6b6-4ee8-46d0-8536-8c87c634d596"
+      },
+      "squuid": "63e237e6-2a66-41dc-b3a9-c43235f22d7b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Wochenspiegel-Verlags-Gesellschaft mbH & Co. KG",
+        "squuid": "63e238cb-85a1-4130-9475-59832f379112"
+      },
+      "squuid": "63e238e1-a88e-4735-b1b9-afcf336dacca",
+      "state": "active"
+    }
+  ],
+  "name": "www.generalanzeiger.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-07T11:36:44.048Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

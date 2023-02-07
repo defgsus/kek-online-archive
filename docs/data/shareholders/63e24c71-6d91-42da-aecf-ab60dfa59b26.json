@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Gießen",
+  "pseudoCompany": false,
+  "street": "Marburger Str.",
+  "name": "MVM GmbH",
+  "naturalPerson": false,
+  "squuid": "63e24c71-6d91-42da-aecf-ab60dfa59b26",
+  "controlDate": "2023-02-07T13:08:53.269Z",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "35390",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.neue-wochenpost.de",
+        "squuid": "63e24c84-468a-461d-af38-a99cb7fdff8a"
+      },
+      "squuid": "63e24ca2-d6ab-4b48-adf1-5a5e122c9250",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mittelhessische Druck- und Verlagshaus GmbH & Co KG",
+        "squuid": "5be1a6b6-f5fa-42a0-9e08-3357bfdc4167"
+      },
+      "squuid": "63e24da2-2112-4794-8da1-e3b1a9a94821",
+      "state": "active"
+    }
+  ]
+}

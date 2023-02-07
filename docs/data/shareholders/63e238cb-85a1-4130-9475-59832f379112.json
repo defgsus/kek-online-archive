@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Halle",
+  "pseudoCompany": false,
+  "street": "Delitzscher Str.",
+  "name": "Wochenspiegel-Verlags-Gesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63e238cb-85a1-4130-9475-59832f379112",
+  "controlDate": "2023-02-07T11:43:21.956Z",
+  "streetNumber": "65",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "06112",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.generalanzeiger.de",
+        "squuid": "63e237c2-3674-4235-8afa-05461895fa71"
+      },
+      "squuid": "63e238e1-a88e-4735-b1b9-afcf336dacca",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenspiegel-web.de",
+        "squuid": "63e23626-74ab-41d2-8d75-a613378792cf"
+      },
+      "squuid": "63e238f5-317a-42c3-aace-1cd584111cc1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.supersonntag-web.de",
+        "squuid": "63e237b3-2504-4d6c-8cf8-41efd640bb60"
+      },
+      "squuid": "63e23907-c5f1-40b5-b374-1609153fe585",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Wochenspiegel-Verlags-GmbH",
+        "squuid": "63e2394f-bf9f-4c90-b7b3-ef0ead0a4a02"
+      },
+      "squuid": "63e239e0-97f3-4730-a5ee-907aec340dae",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Mediengruppe Mitteldeutsche Zeitung GmbH & Co KG",
+        "squuid": "5be1a6b6-3e2f-47c5-8dbc-8019b8dfe45b"
+      },
+      "squuid": "63e23a6f-4343-4a76-b94b-b5159c9e1a03",
+      "state": "active"
+    }
+  ]
+}
