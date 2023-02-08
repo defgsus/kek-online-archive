@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63e3ca1e-af8a-44f9-82ca-a38ce825938f",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Madsack Medien Hannover GmbH & Co. KG",
+        "squuid": "63e3ca42-7122-44e3-8fd3-b5196b28773d"
+      },
+      "squuid": "63e3ca74-16f2-4a8b-9c44-eb8f3fe0c212",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenblaetter.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-08T16:14:25.644Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

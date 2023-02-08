@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Langenhagen",
+  "pseudoCompany": false,
+  "street": "Marktplatz",
+  "name": "Extra Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "63e3cf74-db05-4475-ba94-da6e26fe14af",
+  "controlDate": "2023-02-08T16:37:10.794Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30853",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.extra-verlag.de",
+        "squuid": "63e3cf45-9d1c-4eb1-841f-a88a67789ca5"
+      },
+      "squuid": "63e3cf84-fd31-4a0c-8a74-989eba00fbe1",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.6,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "63e3d027-7e56-4e24-b3ca-130b96dabe8f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.9,
+      "holder": {
+        "name": "Baedeker, Brigitte",
+        "squuid": "5be1a6b6-f0e0-4cbc-a7b1-d1086ecde8fb"
+      },
+      "squuid": "63e3d03a-218b-422d-a724-b88cd311d93b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.9,
+      "holder": {
+        "name": "Cellesche Zeitung Schweiger & Pick Verlag Pfingsten GmbH & Co. KG",
+        "squuid": "5be1a6b6-1830-46a1-ac52-73c3fa740a75"
+      },
+      "squuid": "63e3d050-6bff-435c-bf38-0e98af5a1339",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.5,
+      "holder": {
+        "name": "J. Hoffmann GmbH & Co KG",
+        "squuid": "5be1a6b6-f510-4e21-936a-e3cd3b4719a3"
+      },
+      "squuid": "63e3d06f-9e31-4a74-941a-bab66ca95762",
+      "state": "active"
+    }
+  ]
+}

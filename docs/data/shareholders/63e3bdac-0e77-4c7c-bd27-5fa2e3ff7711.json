@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "elbe Wochenblatt Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "63e3bd8d-d7c9-4af6-bcda-fbbaa2555dd9"
+      },
+      "squuid": "63e3bfc4-c8d6-4123-b914-5889650b7fea",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Theodor-Yorck-Str.",
+  "name": "Verwaltungsgesellschaft elbe Wochenblatt mbH",
+  "naturalPerson": false,
+  "squuid": "63e3bdac-0e77-4c7c-bd27-5fa2e3ff7711",
+  "controlDate": "2023-02-08T15:30:11.931Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "21079",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 75.2,
+      "holder": {
+        "name": "Kieler Zeitung Verwaltungs GmbH & Co. Beteiligungs KG",
+        "squuid": "5be1a6b6-1c0e-42af-9022-68be9f160fa8"
+      },
+      "squuid": "63e3c093-6ebc-4d69-a609-6cb37cfee16c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.8,
+      "holder": {
+        "name": "Funke Hamburger Wochenblatt GmbH",
+        "squuid": "63d13228-54a6-40c4-b3ea-2f1978a46efc"
+      },
+      "squuid": "63e3c0d1-c3ca-4aa5-b6b2-3aa382fa20d4",
+      "state": "active"
+    }
+  ]
+}

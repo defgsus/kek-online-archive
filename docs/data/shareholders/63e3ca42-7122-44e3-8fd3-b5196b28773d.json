@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "August-Madsack-Str.",
+  "name": "Madsack Medien Hannover GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63e3ca42-7122-44e3-8fd3-b5196b28773d",
+  "controlDate": "2023-02-08T16:16:13.403Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30559",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenblaetter.de",
+        "squuid": "63e3ca1e-af8a-44f9-82ca-a38ce825938f"
+      },
+      "squuid": "63e3ca74-16f2-4a8b-9c44-eb8f3fe0c212",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.umschau-garbsen.de",
+        "squuid": "63e3cc60-452f-4042-b421-f2be23079618"
+      },
+      "squuid": "63e3cc98-6bf2-4a49-bd7b-536d1c120a7a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.umschau-seelze.de",
+        "squuid": "63e3cc6f-5e01-4d71-9feb-385e5bb9aee4"
+      },
+      "squuid": "63e3ccb0-e995-4a8f-aca4-97547b8f5891",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Beteiligungsgesellschaft Neue Zeitung mbH & Co. KG",
+        "squuid": "5be1a6b6-fe2d-4bc5-8b1d-ed6471f16ef3"
+      },
+      "squuid": "63e3cb5d-f061-4e1c-ab2b-9f3867edaea3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Neue Anzeigenblatt Verlags-GmbH",
+        "squuid": "63e3ca59-c615-44aa-8732-a4b90ebb9db4"
+      },
+      "squuid": "63e3cb6f-f04e-44e6-abf4-9af7ce0c757c",
+      "state": "active"
+    }
+  ]
+}

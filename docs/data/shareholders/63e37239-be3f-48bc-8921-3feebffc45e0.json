@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Göttingen",
+  "pseudoCompany": false,
+  "street": "Wiesenstr.",
+  "name": "EXTRA-TIP Werbungs- und Vertriebsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "63e37239-be3f-48bc-8921-3feebffc45e0",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "37073",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.extratip-goettingen.de",
+        "squuid": "63e37431-2c12-4be5-8182-238cb85f2cbe"
+      },
+      "squuid": "63e37462-ad29-48c7-878a-bbbfa6fcd608",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Göttinger Tageblatt GmbH & Co. KG",
+        "squuid": "5be1a6b6-df12-40ce-9518-f463bea5e8d8"
+      },
+      "squuid": "63e374c5-d201-498a-acf1-b836926d2add",
+      "state": "active"
+    }
+  ]
+}

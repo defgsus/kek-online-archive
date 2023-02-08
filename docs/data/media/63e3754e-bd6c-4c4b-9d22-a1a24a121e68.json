@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63e3754e-bd6c-4c4b-9d22-a1a24a121e68",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Göttinger Tageblatt GmbH & Co. KG",
+        "squuid": "5be1a6b6-df12-40ce-9518-f463bea5e8d8"
+      },
+      "squuid": "63e37569-3fbf-4e4f-8ce2-0bcf24bc2baf",
+      "state": "active"
+    }
+  ],
+  "name": "www.hallo-eichsfeld.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-08T10:11:33.757Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
