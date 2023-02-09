@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Bad Hersfeld",
+  "pseudoCompany": false,
+  "street": "Benno-Schilde-Platz",
+  "name": "Hero Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "63e4e21d-4bb2-4392-8a82-623979e460b3",
+  "controlDate": "2023-02-09T12:09:36.095Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "36251",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kreisanzeiger-hersfeld.de",
+        "squuid": "63e4e1fb-8e5f-4525-88ae-a0a0bac926ac"
+      },
+      "squuid": "63e4e234-52f6-4115-bf33-d80fbcaa68e8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "MBG Medien Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-d29e-400c-b3d1-1de422ecf822"
+      },
+      "squuid": "63e4e306-2ab6-40d0-aef4-a78f575f923b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Ott-Verlag GmbH",
+        "squuid": "5be1a6b6-69ea-4f92-b45d-db349af2aa53"
+      },
+      "squuid": "63e4e312-cc9f-4694-8b6c-f4fb9eb82d0f",
+      "state": "active"
+    }
+  ]
+}

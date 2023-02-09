@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Lauf",
+  "pseudoCompany": false,
+  "street": "Nürnberger Str.",
+  "name": "PZ/HZ Wochenzeitung GmbH & Co. oHG",
+  "naturalPerson": false,
+  "squuid": "63e4dfd3-24ce-45c4-9cef-a56e504db8c8",
+  "controlDate": "2023-02-09T12:00:14.927Z",
+  "streetNumber": "19",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "91207",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wip-verlag.de",
+        "squuid": "63e4df7f-647a-4a6b-9f2f-de1ac830d619"
+      },
+      "squuid": "63e4dfeb-ce22-449a-9605-011e7e527359",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Pfeiffer Verlag und Medienservice GmbH & Co. KG",
+        "squuid": "5be1a6b6-ef99-4634-836e-dfecf0d08f20"
+      },
+      "squuid": "63e4e0d4-4d23-4a68-87fe-5e83cfb621d4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Verlag Hans Fahner GmbH & Co KG",
+        "squuid": "5be1a6b6-1d03-4bcb-9e43-4bf5c5e6aadd"
+      },
+      "squuid": "63e4e0e3-85da-438a-8226-6d4518349cf1",
+      "state": "active"
+    }
+  ]
+}

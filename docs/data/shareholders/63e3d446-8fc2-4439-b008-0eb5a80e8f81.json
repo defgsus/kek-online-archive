@@ -1,6 +1,4 @@
 {
-  "name": "Marktspiegel-Beteiligungs GbR",
-  "squuid": "63e3d446-8fc2-4439-b008-0eb5a80e8f81",
   "owns": [
     {
       "type": "own",
@@ -13,6 +11,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Celle",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Marktspiegel-Beteiligungs GbR",
+  "naturalPerson": false,
+  "squuid": "63e3d446-8fc2-4439-b008-0eb5a80e8f81",
+  "controlDate": "2023-02-09T10:19:23.289Z",
+  "streetNumber": "1-3",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,5 +27,37 @@
       "type": "organization"
     }
   ],
-  "state": "active"
+  "zipcode": "29221",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Blätterwald GbR",
+        "squuid": "63e4c90c-988f-43ad-b3fb-5f74b02b1cf6"
+      },
+      "squuid": "63e4c946-dc7c-4608-88e4-ee3de87d7870",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Frohsinn GbR",
+        "squuid": "63e4c91f-c652-42ef-9eed-6bf34f9b5685"
+      },
+      "squuid": "63e4c953-724a-4285-927a-7f3f96c7910a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "MARNICCAM GmbH",
+        "squuid": "5be1a6b6-5035-4bc4-8e3e-1bd9184b3f79"
+      },
+      "squuid": "63e4c966-b660-40f8-9c66-359d5194a7fe",
+      "state": "active"
+    }
+  ]
 }
