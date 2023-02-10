@@ -17865,6 +17865,30 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "63e62e1a-7a96-4ffa-b48c-beb805718d5e",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.moinmoin.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-02-10T11:44:35.821Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29288,6 +29312,7 @@
     "pressKind": "Regional"
   },
   {
+    "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "639c88cb-be86-4e75-adfa-f61811801979",
     "organization": {
