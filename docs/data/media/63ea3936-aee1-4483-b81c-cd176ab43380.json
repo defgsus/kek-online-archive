@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63ea3936-aee1-4483-b81c-cd176ab43380",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke NRW Wochenblatt GmbH",
+        "squuid": "5d30489b-dd64-4853-88b2-3bcdc5902f06"
+      },
+      "squuid": "63ea394c-9bc0-48e1-a014-8ce7524e729e",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenblatt-herne.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-13T13:21:04.532Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

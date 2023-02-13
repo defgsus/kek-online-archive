@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63ea3eb1-9c3b-4b86-91db-f61cac5d2e5c",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke NRW Wochenblatt GmbH",
+        "squuid": "5d30489b-dd64-4853-88b2-3bcdc5902f06"
+      },
+      "squuid": "63ea3ec6-2748-4d91-adf9-1c9637f111bc",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenanzeiger-hilden.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-13T13:44:26.833Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

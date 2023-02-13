@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63ea3f3a-7562-426e-ba4c-1712aea13e81",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke NRW Wochenblatt GmbH",
+        "squuid": "5d30489b-dd64-4853-88b2-3bcdc5902f06"
+      },
+      "squuid": "63ea3f51-f4e4-4a7d-b865-1ed4474c2d9d",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenanzeiger-monheim.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-13T13:46:42.038Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

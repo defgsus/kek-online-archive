@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63ea152e-dd02-4143-a8d7-56c04349f893",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag für Anzeigenblätter GmbH",
+        "squuid": "5ef46a4f-538b-468e-b583-e5cb76ab586d"
+      },
+      "squuid": "63ea154a-3421-4c68-bc74-ac5df516a8f4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Wochenblatt-Verlag Limburg GmbH & Co. KG",
+        "squuid": "63d0132a-481a-4c60-bd7a-73a9f5a9b6c5"
+      },
+      "squuid": "63ea1590-878a-4a63-8151-d38fbd8e395a",
+      "state": "active"
+    }
+  ],
+  "name": "www.der-lokalanzeiger.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-13T10:47:20.439Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

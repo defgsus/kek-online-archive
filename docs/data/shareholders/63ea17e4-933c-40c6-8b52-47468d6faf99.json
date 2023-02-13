@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Wochenblatt-Verlag Limburg GmbH & Co. KG",
+        "squuid": "63d0132a-481a-4c60-bd7a-73a9f5a9b6c5"
+      },
+      "squuid": "63ea1802-b52a-4335-b7f9-20167f4d9504",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Limburg",
+  "pseudoCompany": false,
+  "street": "Joseph-Schneider-Str.",
+  "name": "Wochenblatt-Verlag Limburg Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "63ea17e4-933c-40c6-8b52-47468d6faf99",
+  "controlDate": "2023-02-13T11:20:54.482Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65549",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 91.0,
+      "holder": {
+        "name": "Verlag für Anzeigenblätter GmbH",
+        "squuid": "5ef46a4f-538b-468e-b583-e5cb76ab586d"
+      },
+      "squuid": "63ea18d8-2de9-412d-8374-fa2c5b9b1f09",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 9.0,
+      "holder": {
+        "name": "Frankfurter Societäts-Medien GmbH",
+        "squuid": "5be1a6b6-503e-4911-aa84-57f6b2a9ce64"
+      },
+      "squuid": "63ea18e7-89ab-4e03-85cf-85faa0e1677a",
+      "state": "active"
+    }
+  ]
+}

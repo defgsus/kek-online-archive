@@ -1,13 +1,64 @@
 {
-  "name": "SK One GmbH",
+  "state": "active",
+  "city": "Limburg",
+  "pseudoCompany": false,
+  "street": "Joseph-Schneider-Str.",
+  "name": "Wochenblatt-Verlag Limburg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
   "squuid": "63d0132a-481a-4c60-bd7a-73a9f5a9b6c5",
+  "controlDate": "2023-02-13T10:58:17.127Z",
+  "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
-  "state": "active"
+  "zipcode": "65549",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.der-lokalanzeiger.de",
+        "squuid": "63ea152e-dd02-4143-a8d7-56c04349f893"
+      },
+      "squuid": "63ea1590-878a-4a63-8151-d38fbd8e395a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Wochenblatt-Verlag Limburg Verwaltungs-GmbH",
+        "squuid": "63ea17e4-933c-40c6-8b52-47468d6faf99"
+      },
+      "squuid": "63ea1802-b52a-4335-b7f9-20167f4d9504",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 91.0,
+      "holder": {
+        "name": "Verlag für Anzeigenblätter GmbH",
+        "squuid": "5ef46a4f-538b-468e-b583-e5cb76ab586d"
+      },
+      "squuid": "63ea1810-0942-48f1-81c3-762c4d027693",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 9.0,
+      "holder": {
+        "name": "Frankfurter Societäts-Medien GmbH",
+        "squuid": "5be1a6b6-503e-4911-aa84-57f6b2a9ce64"
+      },
+      "squuid": "63ea1826-ea73-496d-8e8d-9b5f5340a826",
+      "state": "active"
+    }
+  ]
 }
