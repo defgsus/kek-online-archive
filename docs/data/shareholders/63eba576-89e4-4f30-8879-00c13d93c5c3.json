@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Amsterdamer Str.",
+  "name": "Kölner Anzeigenblatt GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63eba576-89e4-4f30-8879-00c13d93c5c3",
+  "controlDate": "2023-02-14T15:16:59.346Z",
+  "streetNumber": "192",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50735",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.express-die-woche.de",
+        "squuid": "63eba526-cb98-4c34-a406-b6a83220c77d"
+      },
+      "squuid": "63eba58c-b9c5-4830-9453-cfdf50a56832",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kölner Anzeigenblatt Verwaltungs-GmbH",
+        "squuid": "63eba619-22d7-4d58-92c6-c8e060601db7"
+      },
+      "squuid": "63eba641-b4eb-4367-a356-cf998a91984e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rheinische Anzeigenblatt GmbH & Co. KG",
+        "squuid": "5be1a6b6-e2af-4c23-bb5d-2a957fb06149"
+      },
+      "squuid": "63eba658-ef86-4e10-a263-2841e9a9a3c5",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Dormagen",
+  "pseudoCompany": false,
+  "street": "Römerstr.",
+  "name": "Druck + Verlag Josef Wegener GmbH",
+  "naturalPerson": false,
+  "squuid": "63eba798-430b-4a62-9b30-d1825b4319d5",
+  "controlDate": "2023-02-14T15:26:44.717Z",
+  "streetNumber": "18",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "41539",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.meindormagen.de",
+        "squuid": "63eba783-b6b7-4da5-ab5b-d7fbc4f967dc"
+      },
+      "squuid": "63eba7ae-5682-44ab-8021-01e9fc9658e6",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Girardet Verlag KG",
+        "squuid": "5be1a6b6-ff67-4dcc-b8b6-874d94ac176f"
+      },
+      "squuid": "63eba864-4552-46c8-af39-e42e76e8a202",
+      "state": "active"
+    }
+  ]
+}
