@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Ratzeburg",
+  "pseudoCompany": false,
+  "street": "Heinrich-Hertz-Str.",
+  "name": "Markt-Verlag Karlheinz Bude GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63eccb2f-006f-42fd-abd0-e03d2a9cd654",
+  "controlDate": "2023-02-15T12:14:43.945Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "23909",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lokale-wochenzeitungen.de/markt/ratzeburg-moelln",
+        "squuid": "63eccaf7-e996-47e7-aef6-60de26a298e5"
+      },
+      "squuid": "63eccc7e-f0fc-4e4a-ba21-205480e3c3fc",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Lübecker Nachrichten GmbH",
+        "squuid": "5be1a6b6-5f57-4d0e-8b37-abfb3fd9e0e9"
+      },
+      "squuid": "63eccd36-68cb-4582-9499-5a359d8b6f15",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "medien holding:nord gmbh",
+        "squuid": "5be1a6b6-3a49-498e-ac48-b7da3a2e673b"
+      },
+      "squuid": "63eccd4e-5fb7-490c-b893-50bc5a5e5db8",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Markt-Verlag Karlheinz Bude GmbH",
+        "squuid": "63eccb3e-350e-4ddd-b737-03258a8576ed"
+      },
+      "squuid": "63eccd5b-0907-4a66-a535-3ee398e76382",
+      "state": "active"
+    }
+  ]
+}

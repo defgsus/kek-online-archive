@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Lübeck",
+  "pseudoCompany": false,
+  "street": "Herrenholz",
+  "name": "Ostsee Anzeigenblattverlag GmbH",
+  "naturalPerson": false,
+  "squuid": "63ecce62-ed23-4fec-9a16-9941e78e5457",
+  "controlDate": "2023-02-15T12:22:32.217Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "23556",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenspiegel-online.de",
+        "squuid": "63ecce47-a39a-4f12-9eae-6d4adb3759a7"
+      },
+      "squuid": "63ecce79-3179-4dfb-8d04-c5a4a5041625",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Lübecker Nachrichten GmbH",
+        "squuid": "5be1a6b6-5f57-4d0e-8b37-abfb3fd9e0e9"
+      },
+      "squuid": "63eccee6-2583-4aca-8a0b-38a6b79e1a95",
+      "state": "active"
+    }
+  ]
+}

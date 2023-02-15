@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Markt-Verlag Karlheinz Bude GmbH & Co. KG",
+        "squuid": "63eccb2f-006f-42fd-abd0-e03d2a9cd654"
+      },
+      "squuid": "63eccd5b-0907-4a66-a535-3ee398e76382",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Ratzeburg",
+  "pseudoCompany": false,
+  "street": "Heinrich-Hertz-Str.",
+  "name": "Markt-Verlag Karlheinz Bude GmbH",
+  "naturalPerson": false,
+  "squuid": "63eccb3e-350e-4ddd-b737-03258a8576ed",
+  "controlDate": "2023-02-15T12:18:03.692Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "23909",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Lübecker Nachrichten GmbH",
+        "squuid": "5be1a6b6-5f57-4d0e-8b37-abfb3fd9e0e9"
+      },
+      "squuid": "63eccde7-ca79-4797-a240-6b10b999ae98",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "medien holding:nord gmbh",
+        "squuid": "5be1a6b6-3a49-498e-ac48-b7da3a2e673b"
+      },
+      "squuid": "63eccdf5-5104-42c6-bdf0-064df2f184e5",
+      "state": "active"
+    }
+  ]
+}

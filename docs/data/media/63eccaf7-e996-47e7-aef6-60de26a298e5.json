@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "63eccaf7-e996-47e7-aef6-60de26a298e5",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Markt-Verlag Karlheinz Bude GmbH & Co. KG",
+        "squuid": "63eccb2f-006f-42fd-abd0-e03d2a9cd654"
+      },
+      "squuid": "63eccc7e-f0fc-4e4a-ba21-205480e3c3fc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NOZ Digital GmbH",
+        "squuid": "63d92686-83a7-47da-aff0-79489d13ff98"
+      },
+      "squuid": "63eccc99-7051-4f03-a9db-6de67d04175b",
+      "state": "active"
+    }
+  ],
+  "name": "www.lokale-wochenzeitungen.de/markt/ratzeburg-moelln",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-15T12:07:57.440Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

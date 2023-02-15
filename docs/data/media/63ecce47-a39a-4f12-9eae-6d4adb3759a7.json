@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63ecce47-a39a-4f12-9eae-6d4adb3759a7",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ostsee Anzeigenblattverlag GmbH",
+        "squuid": "63ecce62-ed23-4fec-9a16-9941e78e5457"
+      },
+      "squuid": "63ecce79-3179-4dfb-8d04-c5a4a5041625",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenspiegel-online.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-15T12:22:00.813Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

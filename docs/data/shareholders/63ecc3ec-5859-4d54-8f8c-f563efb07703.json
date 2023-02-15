@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Werner-Otto-Straße",
+  "name": "Otto GmbH & Co KG",
+  "naturalPerson": false,
+  "squuid": "63ecc3ec-5859-4d54-8f8c-f563efb07703",
+  "streetNumber": "1-7",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22179",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "OTTO Live-Shopping",
+        "squuid": "63ecc40e-3bda-4dba-be7b-e682b555872a"
+      },
+      "squuid": "63ecc640-974c-43a9-aa63-b099e3433227",
+      "state": "active"
+    }
+  ]
+}

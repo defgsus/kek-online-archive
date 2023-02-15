@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Mohrenstraße",
+  "name": "PASSION TV GmbH",
+  "naturalPerson": false,
+  "squuid": "63ec9658-04e6-44a4-9765-0e7a93434262",
+  "streetNumber": "23",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50670",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "BonGusto",
+        "squuid": "5be1a6b1-e0d7-4d93-ad23-f845d3046b19"
+      },
+      "squuid": "63ec96af-546c-48bc-8dba-4af6ecaca7c7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schütte, Jörg",
+        "squuid": "5be1a6b6-884e-4c49-83ab-18ecc01e91c5"
+      },
+      "squuid": "63ec9766-afab-4da2-99a2-c6bbd91b5bed",
+      "state": "active"
+    }
+  ]
+}

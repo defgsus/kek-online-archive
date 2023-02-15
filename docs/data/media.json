@@ -32490,6 +32490,45 @@
   },
   {
     "state": "active",
+    "squuid": "63ecc40e-3bda-4dba-be7b-e682b555872a",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "OTTO Live-Shopping",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-6b1a-4de6-924f-727ccb20e81b",
+      "name": "Teleshopping",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
     "squuid": "63d156af-cbee-4de6-ac51-f4152d675222",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -32868,6 +32907,25 @@
     }
   },
   {
+    "pressPublishingIntervals": 52,
+    "state": "active",
+    "squuid": "63ecc7a7-2899-4013-a82d-062328409ebb",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "LN am Montag",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2023-02-15T11:53:18.300Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  },
+  {
     "state": "active",
     "squuid": "5c54618d-1b74-4417-b924-cd2ea4067a12",
     "organization": {
@@ -33097,6 +33155,30 @@
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2022-10-26T14:32:50.725Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "63eccaf7-e996-47e7-aef6-60de26a298e5",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.lokale-wochenzeitungen.de/markt/ratzeburg-moelln",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-02-15T12:07:57.440Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33839,6 +33921,30 @@
     "type": "radio",
     "squuid": "5c76b77b-2443-4cbb-a6e8-17dadbf11b0f",
     "state": "active"
+  },
+  {
+    "state": "active",
+    "squuid": "63ecce47-a39a-4f12-9eae-6d4adb3759a7",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.wochenspiegel-online.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-02-15T12:22:00.813Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
   },
   {
     "state": "active",
@@ -34592,6 +34698,30 @@
       "name": "SLM",
       "type": "organization",
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "63ecdeff-2b05-4a9f-b7f6-f37a4c212224",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.wob24.net",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-02-15T13:32:55.144Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
     }
   },
   {
@@ -69727,7 +69857,7 @@
       "type": "organization"
     },
     "rfStatewide": true,
-    "name": "Rock TV",
+    "name": "Deluxe Rock",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
