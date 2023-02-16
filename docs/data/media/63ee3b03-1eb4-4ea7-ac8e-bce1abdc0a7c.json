@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "63ee3b03-1eb4-4ea7-ac8e-bce1abdc0a7c",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Reutlinger Wochenblatt GmbH",
+        "squuid": "6391e7a4-c7c9-488c-a1bb-ee4fcd17ac3e"
+      },
+      "squuid": "63ee3b1c-5953-4bd5-8ce9-ccd47f6fc1d3",
+      "state": "active"
+    }
+  ],
+  "name": "www.reutlinger-wochenblatt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-02-16T14:17:46.179Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
