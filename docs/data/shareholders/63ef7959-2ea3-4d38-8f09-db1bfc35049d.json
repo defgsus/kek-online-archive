@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Freising",
+  "pseudoCompany": false,
+  "street": "Münchner Str.",
+  "name": "Merkur tz Media GmbH",
+  "naturalPerson": false,
+  "squuid": "63ef7959-2ea3-4d38-8f09-db1bfc35049d",
+  "controlDate": "2023-02-17T12:59:50.190Z",
+  "streetNumber": "7",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85354",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.meine-anzeigenzeitung.de",
+        "squuid": "62a8b5e7-ec50-4a01-a7f0-5e2328a61ef3"
+      },
+      "squuid": "63ef79b5-113a-47c5-9389-b46d3eae4d04",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.freising-online.de",
+        "squuid": "63ef79a0-2da9-4ff9-8495-5404ec507fbb"
+      },
+      "squuid": "63ef79f4-9bc2-4ee7-bcde-8269f2c1477a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dachauer-rundschau.de",
+        "squuid": "63ef865f-d417-432d-b7fa-64895bda0c6e"
+      },
+      "squuid": "63ef8696-2e38-4554-88b8-b2b20de6ec62",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kreisboten-Verlag Mühlfellner KG",
+        "squuid": "62a89bec-01a0-4d7d-9fba-bde58a6d035b"
+      },
+      "squuid": "63ef8375-92ad-4b35-8090-cbbd076926bc",
+      "state": "active"
+    }
+  ]
+}
