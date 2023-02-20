@@ -26890,7 +26890,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5c542133-c5fd-443c-96c0-6d0c77cd8fcc",
     "organization": {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -39614,6 +39614,45 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "state": "active",
+    "squuid": "63f38a65-874b-4b66-bf2b-611234c3ec35",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "Deluxe Lounge HD",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-10a1-4d0f-be3f-dc7e8cdd350a",
+      "name": "Spartenprogramm (Musik)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
   },
   {
     "pressPublishingIntervals": 312,
