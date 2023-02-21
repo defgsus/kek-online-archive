@@ -3,15 +3,15 @@
   "state": "active",
   "rfShoppingChannel": false,
   "rfParentalAdvisor": "Annalena Kriens",
-  "rfStartDate": "01.11.2007",
-  "rfFreePay": false,
+  "rfStartDate": "01.02.2023",
+  "rfFreePay": true,
   "squuid": "5be1a6b1-27d0-4009-a59a-950269466d20",
   "organization": {
     "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
     "name": "KEK",
     "type": "organization"
   },
-  "accessibilityUrl": "https://www.rck-tv.de/rck.html",
+  "accessibilityUrl": "https://deluxemusic.de/sender/deluxe-rock/",
   "rfStatewide": true,
   "operatedBy": [
     {
@@ -28,8 +28,8 @@
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
-    "name": "Sendebetrieb eingestellt",
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -46,7 +46,7 @@
     "type": "organization",
     "fullName": "Medienanstalt Berlin-Brandenburg"
   },
-  "description": "Spartenprogramm für Musikinteressierte zwischen 15 und 60 Jahren",
+  "description": "Rockmusik mit Rock Classics, Crossover und den neuen Trends",
   "rfLicenseUntil": "unbefristet",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -55,7 +55,20 @@
     "state": "active"
   },
   "rfLicensed": "19.09.2014",
-  "accessibilityEmail": "info@rck-tv.de",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra / Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "accessibilityEmail": " info@hi-media.de",
   "languages": [
     {
       "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",

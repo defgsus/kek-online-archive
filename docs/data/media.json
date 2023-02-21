@@ -39624,11 +39624,11 @@
       "type": "organization"
     },
     "rfStatewide": true,
-    "name": "Deluxe Lounge HD",
+    "name": "Deluxe Lounge",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
-      "name": "Sendebetrieb eingestellt",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -40319,6 +40319,45 @@
   },
   {
     "state": "active",
+    "squuid": "63f488e4-45ee-4215-9ee1-65f601e27731",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "One Terra",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
     "squuid": "5f1adabf-694a-43bd-a362-e204be6d2bcf",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -40363,6 +40402,45 @@
   },
   {
     "state": "active",
+    "squuid": "63f48900-11ba-4128-8c7a-46e5b3a82ca8",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "R-Adventure Channel",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
     "squuid": "61150b0c-6986-4559-8890-d64b84e78d76",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -40386,6 +40464,84 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "63f488be-4e2c-41c8-b025-3171794e0d05",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "XPLORE",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
+    "squuid": "63f488d3-7341-464d-822e-8cabb674f9c9",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "Hip Trips",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
     "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "5bec22d8-ee66-44d0-9048-34ba1f6054a1",
@@ -40404,6 +40560,162 @@
       "type": "organization"
     },
     "pressKind": "Magazin"
+  },
+  {
+    "state": "active",
+    "squuid": "63f48939-94b2-4e83-83f5-80a44b88d984",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "Crime Mania",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
+    "squuid": "63f4895a-826c-47be-8e38-ee431a99c9d5",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "Series non stop",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
+    "squuid": "63f48911-c083-4163-8b0e-3d59b4e467eb",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "History-TV",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
+    "squuid": "63f48927-6b9c-43e3-9bf9-fdad4b814607",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "Animals-TV",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
   },
   {
     "pressPublishingIntervals": 12,
@@ -40426,6 +40738,84 @@
     "pressKind": "Wirtschaft"
   },
   {
+    "state": "active",
+    "squuid": "63f4888d-19d2-4ef0-9cf1-99d2050713a5",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "Deluxe Rap",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-10a1-4d0f-be3f-dc7e8cdd350a",
+      "name": "Spartenprogramm (Musik)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
+    "squuid": "63f488a7-2613-4446-bd60-bcf84feaf3f7",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "Deluxe Charts",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-10a1-4d0f-be3f-dc7e8cdd350a",
+      "name": "Spartenprogramm (Musik)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
     "pressPublishingIntervals": 312,
     "matchedNames": [
       "Zeitungsgruppe Münsterland "
@@ -40446,6 +40836,84 @@
       "name": "DL",
       "type": "organization"
     }
+  },
+  {
+    "state": "active",
+    "squuid": "63f48852-ea5a-4bc4-bebf-351ba4ddfd8b",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "Deluxe Dance",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-10a1-4d0f-be3f-dc7e8cdd350a",
+      "name": "Spartenprogramm (Musik)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
+    "squuid": "63f48875-907c-4cdf-9270-94f6e9cb606a",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "Deluxe Flashback",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-10a1-4d0f-be3f-dc7e8cdd350a",
+      "name": "Spartenprogramm (Musik)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
   },
   {
     "state": "active",
@@ -40668,6 +41136,84 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "state": "active",
+    "squuid": "63f48971-c622-4235-9dd4-9d78b5ee70fb",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "Rediscover",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
+    "squuid": "63f4898b-ad2b-4b61-bbfa-cad24a088194",
+    "organization": {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    "rfStatewide": true,
+    "name": "Costumes only",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfCategory": {
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
+      "type": "program-category",
+      "state": "active"
+    },
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
   },
   {
     "state": "active",
@@ -62370,8 +62916,8 @@
     },
     "type": "tv",
     "rfCategory": {
-      "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
-      "name": "Spartenprogramm (Information/Dokumentation)",
+      "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+      "name": "Spartenprogramm (Unterhaltung)",
       "type": "program-category",
       "state": "active"
     },
@@ -70211,8 +70757,8 @@
     "name": "Deluxe Rock",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
-      "name": "Sendebetrieb eingestellt",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },

@@ -11,7 +11,7 @@
     "name": "KEK",
     "type": "organization"
   },
-  "accessibilityUrl": "https://deluxemusic.de/",
+  "accessibilityUrl": "https://deluxemusic.de/sender/deluxe-lounge/",
   "rfStatewide": true,
   "operatedBy": [
     {
@@ -24,11 +24,11 @@
       "state": "active"
     }
   ],
-  "name": "Deluxe Lounge HD",
+  "name": "Deluxe Lounge",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
-    "name": "Sendebetrieb eingestellt",
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -45,9 +45,22 @@
     "type": "organization",
     "fullName": "Medienanstalt Berlin-Brandenburg"
   },
-  "description": "Musikspartenprogramm mit Schwerpunkt Lounge, Down Beat, Chill Out und Ambient. Gesendet werden Landschafts- und Stadtaufnahmen mit entspannter Lounge-Musik. Das Programm richtet sich an Musikinteressierte zwischen 25 und 49 Jahren.",
+  "description": "Musikspartenprogramm mit Schwerpunkt Lounge, Down Beat, Chill Out und Ambient. Gesendet werden Landschafts- und Stadtaufnahmen mit entspannter Lounge-Musik.",
   "rfLicenseUntil": "unbefristet",
   "rfLicensed": "19.09.2014",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-c433-49e9-b390-5073f0f89b78",
+      "name": "waipu.tv / EXARING AG",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
   "accessibilityEmail": "info@hi-media.de",
   "languages": [
     {

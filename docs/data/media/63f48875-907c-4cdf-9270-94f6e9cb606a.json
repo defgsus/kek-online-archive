@@ -1,0 +1,74 @@
+{
+  "rfRepresentative": "Alexander Trauttmansdorff",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Annalena Kriens",
+  "rfStartDate": "01.02.2023",
+  "rfFreePay": true,
+  "squuid": "63f48875-907c-4cdf-9270-94f6e9cb606a",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://deluxemusic.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Channel Factory GmbH",
+        "squuid": "63f487d5-9569-4e8c-ad9d-2c00cabc375f"
+      },
+      "squuid": "63f493c4-0dc3-4f92-9d26-8f4515b6227b",
+      "state": "active"
+    }
+  ],
+  "name": "Deluxe Flashback",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-10a1-4d0f-be3f-dc7e8cdd350a",
+    "name": "Spartenprogramm (Musik)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Musikvideoclips der Stilrichtung Pop der 1980er bis 2010er Jahre",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "25.01.2023",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra / Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "25.01.2023",
+  "accessibilityEmail": " info@hi-media.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}
