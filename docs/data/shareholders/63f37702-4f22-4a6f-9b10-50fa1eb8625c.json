@@ -3,7 +3,29 @@
   "pseudoCompany": false,
   "squuid": "63f37702-4f22-4a6f-9b10-50fa1eb8625c",
   "placeOfBusiness": "Zypern",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 29.31,
+      "held": {
+        "name": "tmc Content Group AG",
+        "squuid": "5be1a6b6-69bb-4f9a-9f1d-2977263dc31a"
+      },
+      "squuid": "63f37834-afdd-4801-a163-d7d4eda6d75a",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
