@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Potsdam",
+  "pseudoCompany": false,
+  "street": "Friedrich-Engels-Str.",
+  "name": "Brandenburg Media GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "63f743fc-14f3-4e34-8610-dba2e35e5187",
+  "controlDate": "2023-02-23T11:01:54.862Z",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14473",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenspiegel-brb.de",
+        "squuid": "63f74341-1b28-40d4-a6a7-fe1a0d36098c"
+      },
+      "squuid": "63f74414-7d41-44b9-a3a1-f2964fc0ebc9",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Brandenburg Media Beteiligungsgesellschaft mbH",
+        "squuid": "63f74797-17fa-4bc4-a840-e7d83484c2e1"
+      },
+      "squuid": "63f7480a-95ca-41bd-b63d-89d54848c6e1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Märkische Verlags- und Druck-Gesellschaft mbH Potsdam",
+        "squuid": "5be1a6b6-8cd1-46d4-85d9-5e8bbee063fe"
+      },
+      "squuid": "63f74819-b89e-4586-9dee-d4e41b48e2fa",
+      "state": "active"
+    }
+  ]
+}
