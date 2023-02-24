@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Bamberg",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr.",
+  "name": "Anzeigenblatt Bamberg GmbH",
+  "naturalPerson": false,
+  "squuid": "63f8bcc4-1895-499a-9445-2da754dc57d2",
+  "controlDate": "2023-02-24T13:48:57.830Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "96050",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.franken-aktuell.de",
+        "squuid": "63e227d6-b3ad-4e78-b194-ef35cd0f6bec"
+      },
+      "squuid": "63f8bd95-a945-425e-a92f-cb2f976c3582",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Mediengruppe Oberfranken Zeitungsverlage GmbH & Co KG",
+        "squuid": "5be1a6b6-1ba9-4404-8b0b-eacd59f83952"
+      },
+      "squuid": "63f8c0ba-c334-4a3f-a83e-d0ab9999e9fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "PDG Presse und Distribution Gesellschaft mbH & Co. KG",
+        "squuid": "6380979b-9a78-48bb-b60b-aaf3b12522a7"
+      },
+      "squuid": "63f8c0c5-d3b2-40ea-af23-2fff5f934672",
+      "state": "active"
+    }
+  ]
+}

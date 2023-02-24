@@ -1,13 +1,52 @@
 {
-  "name": "AGM Produktions- und Vermarktungs GmbH",
+  "state": "active",
+  "city": "Coburg",
+  "pseudoCompany": false,
+  "street": "Hindenburgstr.",
+  "name": "Wochenzeitung Coburg GmbH",
+  "naturalPerson": false,
   "squuid": "63d9451b-15e2-4d4a-9e58-a19f20385f13",
+  "controlDate": "2023-02-24T13:38:52.642Z",
+  "streetNumber": "3a",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
-  "state": "active"
+  "zipcode": "96450",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.franken-aktuell.de",
+        "squuid": "63e227d6-b3ad-4e78-b194-ef35cd0f6bec"
+      },
+      "squuid": "63f8bc85-7e26-427f-a7bf-6099c3d5b6cc",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "prospega GmbH",
+        "squuid": "63ce97bf-2d00-4afc-8155-46e90e225226"
+      },
+      "squuid": "63f8be56-6419-4980-a612-4c1588c080dd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Mediengruppe Oberfranken - Anzeigenblattverlage GmbH & Co. KG",
+        "squuid": "63f8bd13-4734-4866-b8b7-451e24770710"
+      },
+      "squuid": "63f8be6b-8767-4168-af80-5ef59159b844",
+      "state": "active"
+    }
+  ]
 }
