@@ -2,12 +2,23 @@
   "name": "FM Rundfunkprogrammanbietergesellschaft mbH",
   "pseudoCompany": false,
   "squuid": "5be1a6b6-ea96-44de-9112-318e72389935",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "Neumarkter Wochenblatt-Verlags GmbH",
+        "squuid": "64007480-f372-4d7e-b68d-7c19471eabf6"
+      },
+      "squuid": "6400751c-f10e-4902-bce9-1429298192d1",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "state": "active",

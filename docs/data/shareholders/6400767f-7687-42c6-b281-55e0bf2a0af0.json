@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Neuss",
+  "pseudoCompany": false,
+  "street": "Moselstr.",
+  "name": "Kurier-Verlag GmbH (Neuss)",
+  "naturalPerson": false,
+  "squuid": "6400767f-7687-42c6-b281-55e0bf2a0af0",
+  "controlDate": "2023-03-02T10:19:43.240Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "41464",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.stadt-kurier.de",
+        "squuid": "6400769f-2e30-4151-9897-20e53e42b331"
+      },
+      "squuid": "640076bd-a2ab-436a-95cc-bbd2b76f5ae0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kaarster-stadtspiegel.de",
+        "squuid": "640076f7-c1c2-488b-8e86-d29c5f3fded9"
+      },
+      "squuid": "6400770b-6112-45db-b5ae-6859a588c123",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.erft-kurier.de",
+        "squuid": "64007907-9ae1-49e8-ab66-99ad513b5adc"
+      },
+      "squuid": "64007922-764e-4524-901f-d8acc1a887ef",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.top-kurier.de",
+        "squuid": "6400795e-b5ae-487e-863c-2f3b69e40ba5"
+      },
+      "squuid": "64007977-c4f8-4f43-a7d1-373891bf4836",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rheinische Post Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-4061-47cb-94a3-bca00300d22a"
+      },
+      "squuid": "64007819-2a77-4b43-9d67-1cb257d75966",
+      "state": "active"
+    }
+  ]
+}

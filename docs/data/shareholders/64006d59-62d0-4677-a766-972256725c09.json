@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Schadowstr.",
+  "name": "City Anzeigenblatt GmbH",
+  "naturalPerson": false,
+  "squuid": "64006d59-62d0-4677-a766-972256725c09",
+  "controlDate": "2023-03-02T09:33:59.750Z",
+  "streetNumber": "11b",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "40212",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.duesseldorfer-anzeiger.de",
+        "squuid": "64006d28-c70b-49dd-8d0f-714af355d709"
+      },
+      "squuid": "64006d75-6d92-47d9-8949-23a7e9d9a409",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Panorama Anzeigenblatt GmbH",
+        "squuid": "64006d66-cf4e-4c38-9a5f-962b1602e94e"
+      },
+      "squuid": "64006db8-ab26-466f-a21f-e9f034295aee",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "state": "active",
+  "city": "Velbert",
+  "street": "Friedrichstr.",
+  "name": "Super Tipp Medien GmbH",
+  "squuid": "64006796-aa8b-47ac-aa94-931b4d36566d",
+  "controlDate": "2023-03-02T09:09:18.376Z",
+  "streetNumber": "138a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "42551",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.supertipp-online.de",
+        "squuid": "6400677e-16ef-4913-bb55-4bce2d9d8545"
+      },
+      "squuid": "640067ae-5596-4d47-9016-129c483525e4",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 25.1,
+      "holder": {
+        "name": "ME Invest GmbH",
+        "squuid": "63d13c63-66ac-4502-a297-b4aba148505d"
+      },
+      "squuid": "640067fe-50c8-4912-82f7-ecfb6ad863a1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 74.9,
+      "holder": {
+        "name": "M von A & C GmbH",
+        "squuid": "5f3a8df2-82f0-4e57-9b3d-d7e09c9233f4"
+      },
+      "squuid": "64006813-7353-4f84-a41d-0e97a5174cc7",
+      "state": "active"
+    }
+  ]
+}

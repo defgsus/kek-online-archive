@@ -1,0 +1,96 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Mecklenburger Blitz Verwaltungs GmbH",
+        "squuid": "6400bace-772b-4350-9eec-c22b77943273"
+      },
+      "squuid": "6400bdad-525d-4070-812e-79c32a8a73c6",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Neubrandenburg",
+  "pseudoCompany": false,
+  "street": "Feldstr.",
+  "name": "Mecklenburger Blitz Verlag und Werbeagentur GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6400baaf-f9ad-4287-89cf-b3f540659340",
+  "controlDate": "2023-03-02T15:07:52.470Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "17033",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blitzverlag.de",
+        "squuid": "6400ba15-dc38-4341-b050-d4ee7b95d47d"
+      },
+      "squuid": "6400bbb9-ae9f-4e46-b309-9dee26b95fa4",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Mecklenburger Blitz Verwaltungs GmbH",
+        "squuid": "6400bace-772b-4350-9eec-c22b77943273"
+      },
+      "squuid": "6400bc26-ca57-4ee1-9c4f-589e14ab607e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Ostsee-Zeitung GmbH & Co KG",
+        "squuid": "5be1a6b6-04e2-4d51-8ef8-ee27d3fe7b73"
+      },
+      "squuid": "6400bc54-477f-42f2-938c-5491e2df1511",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Zeitungsverlag Schwerin GmbH & Co KG",
+        "squuid": "5be1a6b6-e6d3-47f9-840b-22227f54a800"
+      },
+      "squuid": "6400bc61-4cfd-45bf-89bd-08403f946e0f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Nordkurier Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-2919-4398-9b38-8299ccaf8b7d"
+      },
+      "squuid": "6400bccb-6dfb-4ea0-8a63-47acfaa95991",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Boyens Medien Beteiligungs GmbH & Co. KG",
+        "squuid": "5be1a6b6-5b88-4791-a0f1-cf0edc2ad925"
+      },
+      "squuid": "6400bcd8-dd06-425e-b474-e2b15f5f4737",
+      "state": "active"
+    }
+  ]
+}

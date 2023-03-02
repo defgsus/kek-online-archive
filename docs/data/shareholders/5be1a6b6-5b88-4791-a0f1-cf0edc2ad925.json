@@ -9,6 +9,16 @@
       },
       "squuid": "5be1a6b7-991e-4cbe-bd37-aad84a5b333c",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Mecklenburger Blitz Verlag und Werbeagentur GmbH & Co. KG",
+        "squuid": "6400baaf-f9ad-4287-89cf-b3f540659340"
+      },
+      "squuid": "6400bcd8-dd06-425e-b474-e2b15f5f4737",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -17,8 +27,15 @@
   "street": "Wulf-Isebrand-Platz",
   "name": "Boyens Medien Beteiligungs GmbH & Co. KG",
   "naturalPerson": false,
+  "limitedPartnership": true,
   "squuid": "5be1a6b6-5b88-4791-a0f1-cf0edc2ad925",
+  "controlDate": "2023-03-02T15:24:58.176Z",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",

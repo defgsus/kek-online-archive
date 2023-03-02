@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "6400c82b-d641-4025-9d7f-db22badbc9c9",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Nordwestdeutsche Verlagsgesellschaft mbH",
+        "squuid": "637f72e5-b960-4e92-b269-3bc81e15ab3d"
+      },
+      "squuid": "6400c84b-c3d5-48c5-8168-4bc533dcc7fe",
+      "state": "active"
+    }
+  ],
+  "name": "www.sonntagsjournal.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-03-02T16:00:46.701Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Neumarkt",
+  "pseudoCompany": false,
+  "street": "Holzgartenstr.",
+  "name": "Neumarkter Wochenblatt-Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "64007480-f372-4d7e-b68d-7c19471eabf6",
+  "controlDate": "2023-03-02T10:05:17.512Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "92318",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenblatt-neumarkt.de",
+        "squuid": "64007492-7966-4db5-99e3-c2d42ad60424"
+      },
+      "squuid": "640074a8-c88f-4bd1-8fb0-50d6a514ad0d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "PDG Presse und Distribution Gesellschaft mbH & Co. KG",
+        "squuid": "6380979b-9a78-48bb-b60b-aaf3b12522a7"
+      },
+      "squuid": "64007509-0bc2-4795-8c7a-0327eaf3f9a7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "FM Rundfunkprogrammanbietergesellschaft mbH",
+        "squuid": "5be1a6b6-ea96-44de-9112-318e72389935"
+      },
+      "squuid": "6400751c-f10e-4902-bce9-1429298192d1",
+      "state": "active"
+    }
+  ]
+}
