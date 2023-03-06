@@ -2,12 +2,34 @@
   "name": "Trauttmansdorff, Maria Theresia",
   "pseudoCompany": false,
   "squuid": "63f38100-9eec-47ba-8ff5-9d634c988ca7",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.5,
+      "held": {
+        "name": "AT Media Holding GmbH",
+        "squuid": "637f221a-2732-49ef-87e1-eb7b0f7dd6d5"
+      },
+      "squuid": "63f3813e-f27e-4e21-99c4-5fca2a5884fe",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
   "state": "active",
