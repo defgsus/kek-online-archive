@@ -6,7 +6,7 @@
   "name": "HV Fernsehbetriebs GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-398d-47f1-93c6-6ab898a4b5c5",
-  "otherMediaActivities": "Alexander Trauttmansdorff, der Geschäftsführer der HV Fernsehbetriebs GmbH, ist auch Geschäftsführer der Just Music Fernsehbetriebs GmbH, welche die Zulassungen für die Programme Jukebox, RCK TV, Deluxe Music und H2D hält. Die High View Holding GmbH hält 99 % der Anteile an der Just Music Fernsehbetriebs GmbH.",
+  "otherMediaActivities": "",
   "controlDate": "2022-10-14T13:39:04.039Z",
   "streetNumber": "2",
   "organizations": [
@@ -40,20 +40,19 @@
       },
       "squuid": "5f33ebf9-f594-4bec-b3df-447bc8ca857c",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.justcooking.tv",
+        "squuid": "6408b7c3-68e5-402c-aca8-a73bf0848759"
+      },
+      "squuid": "6408b7f4-521c-4e41-85b6-0ab9bd58611d",
+      "state": "active"
     }
   ],
   "credits": "Beschluss der KEK vom 09.01.2018, Az.: KEK 932",
   "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 93.0,
-      "holder": {
-        "name": "High View Holding GmbH",
-        "squuid": "5be1a6b6-1a81-4c5d-8433-3016b4730574"
-      },
-      "squuid": "5be1a6b7-d36e-4c2e-8fee-ed1b17715ea4",
-      "state": "active"
-    },
     {
       "type": "own",
       "capitalShares": 7.0,
@@ -62,6 +61,16 @@
         "squuid": "6087d720-52ba-40db-8566-6031ef6a7797"
       },
       "squuid": "6087d754-8e89-4c95-a5f9-854b116d352a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 93.0,
+      "holder": {
+        "name": "High View GmbH",
+        "squuid": "5be1a6b6-e79a-4eb6-a721-0a69e892e6e9"
+      },
+      "squuid": "63f383ac-bab9-468f-8ad8-bd60564df449",
       "state": "active"
     }
   ]
