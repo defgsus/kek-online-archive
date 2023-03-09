@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Leer",
+  "pseudoCompany": false,
+  "street": "Maiburger Str.",
+  "name": "SonntagsReport GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6409c703-9b64-4a1c-87c3-ecaf7e5a4cf9",
+  "controlDate": "2023-03-09T11:47:39.406Z",
+  "streetNumber": "8",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "26789",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sonntags-report.de",
+        "squuid": "6409c6c4-791d-4ec3-98aa-60a7c7a7bfab"
+      },
+      "squuid": "6409c73b-bda0-4bc8-bbb3-e3068d9ccf3d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SonntagsReport Beteiligungsgesellschaft mbH",
+        "squuid": "6409c71e-f0ef-403a-ab72-9362180bcf34"
+      },
+      "squuid": "6409c7b1-9244-41d4-a9aa-e33f0bc23c47",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ZGO Zeitungsgruppe Ostfriesland GmbH",
+        "squuid": "5be1a6b6-00d8-4861-8b6e-588d866c8560"
+      },
+      "squuid": "6409c7bd-68d4-4d33-b9ed-1bfc7dbda4c6",
+      "state": "active"
+    }
+  ]
+}

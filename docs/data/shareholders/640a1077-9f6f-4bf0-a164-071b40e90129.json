@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Saarbrücken",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr.",
+  "name": "Saarländische Wochenblatt Verlagsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "640a1077-9f6f-4bf0-a164-071b40e90129",
+  "controlDate": "2023-03-09T17:00:37.242Z",
+  "streetNumber": "11-23",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "66117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochenspiegelonline.de",
+        "squuid": "640a1039-4764-4a49-babb-6732e36f3494"
+      },
+      "squuid": "640a1099-ae69-4ec7-b21d-0d84b74adc93",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Saarbrücker Zeitung Medienhaus GmbH",
+        "squuid": "5be1a6b6-7b22-4bc2-abdb-c97a7151bc88"
+      },
+      "squuid": "640a1162-529d-40b4-a548-544904a48601",
+      "state": "active"
+    }
+  ]
+}
