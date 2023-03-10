@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "640b4273-0c14-4e89-8719-3fc754c0bc14",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Rundschau Verlagsgesellschaft mbH",
+        "squuid": "640b428f-b97d-4028-88bf-70947fd9c0dc"
+      },
+      "squuid": "640b42ab-2de8-4d0f-8191-6a5c2d3e6cb3",
+      "state": "active"
+    }
+  ],
+  "name": "www.wuppertaler-rundschau.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-03-10T14:45:39.888Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
