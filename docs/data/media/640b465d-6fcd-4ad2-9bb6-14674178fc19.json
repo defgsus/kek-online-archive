@@ -1,17 +1,43 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-    "name": "DL",
-    "type": "organization"
-  },
-  "rfPublicPrivate": false,
+  "state": "active",
+  "squuid": "640b465d-6fcd-4ad2-9bb6-14674178fc19",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "name": "www.reutlinger-wochenblatt.de",
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "WochenSchau GmbH",
+        "squuid": "640b466b-7a0e-4a9f-888e-69aee9e35ea8"
+      },
+      "squuid": "641069b2-735c-443f-bd4f-bf62b2db2327",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NOZ Digital GmbH",
+        "squuid": "63d92686-83a7-47da-aff0-79489d13ff98"
+      },
+      "squuid": "64106aaf-9358-4adf-8fb9-d436391ac18c",
+      "state": "active"
+    }
+  ],
+  "name": "www.diewochenschau.de",
+  "rfPublicPrivate": false,
   "type": "online",
-  "squuid": "640b465d-6fcd-4ad2-9bb6-14674178fc19",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
 }

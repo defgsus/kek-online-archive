@@ -54618,7 +54618,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "63da894c-e620-4b7e-96db-3e1fcf4a5188",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -60276,9 +60276,15 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.reutlinger-wochenblatt.de",
+    "name": "www.diewochenschau.de",
     "type": "online",
     "squuid": "640b465d-6fcd-4ad2-9bb6-14674178fc19",
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    },
     "state": "active"
   },
   {
@@ -60362,6 +60368,24 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "WAZ am Sonntag",
+    "type": "print",
+    "squuid": "641056f7-9a4a-4134-9d5b-4fb1410c2d77",
+    "pressPublishingIntervals": 52,
+    "state": "active"
   },
   {
     "state": "active",
@@ -60464,6 +60488,24 @@
         "state": "active"
       }
     ]
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "SN am Sonntag",
+    "type": "print",
+    "squuid": "6410564e-1c16-4e25-b7ed-5389993d6ae9",
+    "pressPublishingIntervals": 52,
+    "state": "active"
   },
   {
     "state": "active",
