@@ -1,5 +1,6 @@
 {
   "name": "Bues, Christian Heino",
+  "pseudoCompany": false,
   "squuid": "62a0a64f-9c03-4ab1-8d4e-3d2bd98193a7",
   "owns": [
     {
@@ -11,14 +12,42 @@
       },
       "squuid": "62a0a666-d379-4a05-8b86-77099144e9ee",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.8,
+      "held": {
+        "name": "Boyens Medienholding GmbH & Co KG",
+        "squuid": "5be1a6b6-f5f0-48ad-8847-5d7559363910"
+      },
+      "squuid": "6332fbd5-722c-41b9-99ce-de1ca2739569",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.78,
+      "held": {
+        "name": "Boyens Medien Beteiligungs GmbH & Co. KG",
+        "squuid": "5be1a6b6-5b88-4791-a0f1-cf0edc2ad925"
+      },
+      "squuid": "6400c041-ab48-43f6-aba6-774566b7444a",
+      "state": "active"
     }
   ],
+  "city": "Heide",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }

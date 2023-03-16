@@ -2,7 +2,7 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 26.6,
+      "capitalShares": 20.8,
       "held": {
         "name": "Boyens Medienholding GmbH & Co KG",
         "squuid": "5be1a6b6-f5f0-48ad-8847-5d7559363910"
@@ -12,12 +12,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 17.9,
+      "capitalShares": 12.9,
       "held": {
         "name": "Boyens Verwaltungsgesellschaft mbH",
         "squuid": "5ebbdfd7-f613-46c9-ad95-eb61744b25f9"
       },
       "squuid": "5ebbe156-44d7-40ea-afa0-3b45fc9a6dd1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.85,
+      "held": {
+        "name": "Boyens Medien Beteiligungs GmbH & Co. KG",
+        "squuid": "5be1a6b6-5b88-4791-a0f1-cf0edc2ad925"
+      },
+      "squuid": "6400c01d-c655-485a-9aae-129290fc2bad",
       "state": "active"
     }
   ],
@@ -33,6 +43,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "credits": "IJK"
