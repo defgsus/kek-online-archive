@@ -1,6 +1,34 @@
 {
-  "name": "Genius Brands International, Inc.",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 48.17,
+      "held": {
+        "name": "Your Family Entertainment AG",
+        "squuid": "5be1a6b6-9886-4c70-bfdf-c8c0fdbe4fa8"
+      },
+      "squuid": "6408bf44-3f8f-425d-9029-3546fd3f9e2f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
   "pseudoCompany": false,
+  "name": "Genius Brands International, Inc.",
+  "naturalPerson": false,
+  "squuid": "62fb78e1-ba43-4eaa-881f-402dcbe1f830",
+  "otherMediaActivities": "Die Genius Brands International, Inc. ist ein globales Content- und Markenmanagement-Unternehmen, das Multimedia-Inhalte für Kinder erstellt und lizenziert. ",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
   "ownedBy": [
     {
       "type": "own",
@@ -32,17 +60,5 @@
       "squuid": "62fb7b22-81cb-4964-9bf7-b055f357bff4",
       "state": "active"
     }
-  ],
-  "squuid": "62fb78e1-ba43-4eaa-881f-402dcbe1f830",
-  "organizations": [
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
-    }
-  ],
-  "state": "active",
-  "otherMediaActivities": "Die Genius Brands International, Inc. ist ein globales Content- und Markenmanagement-Unternehmen, das Multimedia-Inhalte für Kinder erstellt und lizenziert. ",
-  "naturalPerson": false
+  ]
 }
