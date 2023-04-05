@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Schweinfurt",
+  "pseudoCompany": false,
+  "street": "Luitpoldstr.",
+  "name": "SAZ Verlag GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "642d89c3-6489-424f-828f-6e50c193656a",
+  "controlDate": "2023-04-05T14:50:22.853Z",
+  "streetNumber": "47",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "97421",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.saz-verlag.de",
+        "squuid": "642d8a74-eca2-4db0-bac4-7e182eb1e397"
+      },
+      "squuid": "642d8a8d-05c9-46a5-bba4-09d69869ce87",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SAZ Beteiligung und Verwaltungsgesellschaft mbH",
+        "squuid": "642d89ed-f734-4929-95b5-7d0a882c9c78"
+      },
+      "squuid": "642d8af9-5178-4c4f-9030-fa1809f643a8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Hertlein, Bernd",
+        "squuid": "642d8a1d-3fb4-47de-b721-f080fa0f43e2"
+      },
+      "squuid": "642d8b06-fbcb-4e61-b8b5-c60d96c25d15",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "MF Anzeigenblatt Verlag und Beteiligung GmbH",
+        "squuid": "642d8a4a-78ba-4bf3-b6dd-d144b3675029"
+      },
+      "squuid": "642d8b14-613f-4776-bc97-18354e9c1ed4",
+      "state": "active"
+    }
+  ]
+}

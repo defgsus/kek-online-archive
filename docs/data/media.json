@@ -63316,6 +63316,30 @@
   },
   {
     "state": "active",
+    "squuid": "642d8a74-eca2-4db0-bac4-7e182eb1e397",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.saz-verlag.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-04-05T14:49:29.046Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "5be1a6b1-17ed-477d-8519-f495c87bf27a",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -63808,6 +63832,25 @@
       "name": "Online Medienangebot",
       "type": "online-offer-type",
       "state": "active"
+    }
+  },
+  {
+    "pressPublishingIntervals": 52,
+    "state": "active",
+    "squuid": "642d6785-a2c2-43a6-9369-f01bcc0b69c2",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Die Sonntagszeitung",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2023-04-05T12:20:28.984Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   },
   {
