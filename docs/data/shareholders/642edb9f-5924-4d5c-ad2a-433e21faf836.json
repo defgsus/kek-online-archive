@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Bad Segeberg",
+  "pseudoCompany": false,
+  "street": "Kurhausstr.",
+  "name": "Basses Blatt Verlag GmbH",
+  "naturalPerson": false,
+  "squuid": "642edb9f-5924-4d5c-ad2a-433e21faf836",
+  "controlDate": "2023-04-06T14:48:57.889Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "23795",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.basses-blatt.de",
+        "squuid": "642edb92-49dc-4c18-9b0c-34f30fbdbda8"
+      },
+      "squuid": "642edbbc-f331-47c6-8f88-58f4a6c5648d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Lübecker Nachrichten GmbH",
+        "squuid": "5be1a6b6-5f57-4d0e-8b37-abfb3fd9e0e9"
+      },
+      "squuid": "642edc0e-e019-4d41-acaf-41461a75c620",
+      "state": "active"
+    }
+  ]
+}
