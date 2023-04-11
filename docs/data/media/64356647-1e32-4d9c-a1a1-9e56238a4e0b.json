@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "64356647-1e32-4d9c-a1a1-9e56238a4e0b",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Druck- und Verlagshaus Hüpke & Sohn Weserland-Verlag GmbH",
+        "squuid": "5be1a6b6-9aea-4e05-a044-57210f8f9a59"
+      },
+      "squuid": "6435665c-87f8-4b6b-9da1-13886ae147fd",
+      "state": "active"
+    }
+  ],
+  "name": "www.schaufenster-epaper.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-04-11T13:53:16.731Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Siegen",
+  "pseudoCompany": false,
+  "street": "Obergraben",
+  "name": "Siegerländer Wochen-Anzeiger GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "64351791-7549-4897-ad99-ffb0626c9940",
+  "controlDate": "2023-04-11T08:18:32.483Z",
+  "streetNumber": "39",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "57072",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.swa-siegerland.de",
+        "squuid": "64351767-3ef7-402f-bb6b-c0434136756d"
+      },
+      "squuid": "643517c9-cf74-44cd-b5f8-3de81950d4cb",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Siegerländer Wochen-Anzeiger Verwaltungs-GmbH",
+        "squuid": "643517a8-c367-47cb-899c-93985ae20368"
+      },
+      "squuid": "643518f7-ce1a-4fb5-834a-effa30e58f43",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Vorländer GmbH & Co. KG",
+        "squuid": "643518e1-72f6-443c-a4e4-dff43503fd27"
+      },
+      "squuid": "64351905-90b8-446f-9dfa-cfdb5ca29474",
+      "state": "active"
+    }
+  ]
+}
