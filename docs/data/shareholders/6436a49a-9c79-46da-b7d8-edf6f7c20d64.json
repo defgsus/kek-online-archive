@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "Velbert",
+  "pseudoCompany": false,
+  "street": "Friedrichstr.",
+  "name": "Ruhr Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "6436a49a-9c79-46da-b7d8-edf6f7c20d64",
+  "controlDate": "2023-04-12T12:33:05.201Z",
+  "streetNumber": "138a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "42551",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mein-herne.com",
+        "squuid": "6436a48e-3c27-4b12-946b-8a610bcaa5b0"
+      },
+      "squuid": "6436a4b5-5766-4637-a85f-43cd33f273ce",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mein-gelsenkirchen.com",
+        "squuid": "6436a6a1-d012-4027-bad5-05e2cecc1136"
+      },
+      "squuid": "6436a6bb-d021-4e77-bd2b-58e578faaa5d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 62.5,
+      "holder": {
+        "name": "M von A & C GmbH",
+        "squuid": "5f3a8df2-82f0-4e57-9b3d-d7e09c9233f4"
+      },
+      "squuid": "6436a53a-cb10-4101-81f6-0c93a41da565",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Super Tipp Medien GmbH",
+        "squuid": "64006796-aa8b-47ac-aa94-931b4d36566d"
+      },
+      "squuid": "6436a54e-3493-4b14-8415-2829ccfea6a7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "Röder, Markus",
+        "squuid": "6436a564-b2c9-47db-85ef-32910a6f5988"
+      },
+      "squuid": "6436a575-9c89-4634-a0e7-18abc3a29575",
+      "state": "active"
+    }
+  ]
+}

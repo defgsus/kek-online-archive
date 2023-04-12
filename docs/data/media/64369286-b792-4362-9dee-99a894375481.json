@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "64369286-b792-4362-9dee-99a894375481",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Mannheimer Wochenblatt Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "643692be-2393-4ba9-8dbd-46d028db7abe"
+      },
+      "squuid": "643692d0-ebac-43d6-8d2e-8868c2f1b2bf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SÜWE Vertriebs- und Dienstleistungs-Gesellschaft mbH & Co. KG",
+        "squuid": "615aeec4-d1be-47d0-993a-5643eb5e271b"
+      },
+      "squuid": "643692d9-3ed9-4ea5-92a0-077eafa2b021",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenblatt-reporter.de/wochenblatt-mannheim",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-04-12T11:14:22.313Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

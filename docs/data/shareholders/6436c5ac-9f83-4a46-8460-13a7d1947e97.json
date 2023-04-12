@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Wolfenbüttel",
+  "pseudoCompany": false,
+  "street": "Großer Zimmerhof",
+  "name": "Verlag Schaufenster GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6436c5ac-9f83-4a46-8460-13a7d1947e97",
+  "controlDate": "2023-04-12T14:55:14.395Z",
+  "streetNumber": "25",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "38300",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.schaufenster-wf.de",
+        "squuid": "6436c587-b4b4-4df4-a97e-ddcf45486d90"
+      },
+      "squuid": "6436c5e8-129c-4c72-a199-3540a1d4b5a4",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Neue Anzeigenblatt Verlags-GmbH",
+        "squuid": "63e3ca59-c615-44aa-8732-a4b90ebb9db4"
+      },
+      "squuid": "6436c72c-7e3f-48af-9fa4-cbcb7cdb975e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 74.9,
+      "holder": {
+        "name": "Beteiligungsgesellschaft Neue Zeitung mbH & Co. KG",
+        "squuid": "5be1a6b6-fe2d-4bc5-8b1d-ed6471f16ef3"
+      },
+      "squuid": "6436c74f-5952-47bc-8835-4125345c3c70",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.1,
+      "holder": {
+        "name": "Henke, Hans-Michael",
+        "squuid": "6436c76a-2ea8-45f8-9dfa-cca3c022b337"
+      },
+      "squuid": "6436c781-97fe-45e9-8ee0-b9ccd234c236",
+      "state": "active"
+    }
+  ]
+}

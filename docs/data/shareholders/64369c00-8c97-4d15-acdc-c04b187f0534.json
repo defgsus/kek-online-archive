@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Eschwege",
+  "pseudoCompany": false,
+  "street": "Herrengasse",
+  "name": "Wochenzeitungs-Verlag Eschwege GmbH",
+  "naturalPerson": false,
+  "squuid": "64369c00-8c97-4d15-acdc-c04b187f0534",
+  "controlDate": "2023-04-12T11:55:53.737Z",
+  "streetNumber": "1-5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "37269",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.marktspiegel-stadtkurier.de",
+        "squuid": "64369bdc-cf78-467a-8b03-8c7f3363a00d"
+      },
+      "squuid": "64369c1d-c5e3-4565-98a9-ffa511349eb4",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Werra Verlag Kluthe GmbH & Co KG",
+        "squuid": "5be1a6b6-0634-43d8-bfc2-65e20cf1ea5d"
+      },
+      "squuid": "64369ca6-17ae-4692-a06e-2137d1564779",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Krefeld",
+  "pseudoCompany": false,
+  "street": "Königstr.",
+  "name": "City Anzeigenblatt Krefeld GmbH",
+  "naturalPerson": false,
+  "squuid": "6436a2b8-3632-49e4-9385-645d12a79872",
+  "controlDate": "2023-04-12T12:24:59.682Z",
+  "streetNumber": "40",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "47798",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mein-krefeld.de",
+        "squuid": "6436a2a8-da32-467a-9a21-35a1f14a89d8"
+      },
+      "squuid": "6436a2d4-2de6-42c8-bdbc-fa243e6279d3",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Panorama Anzeigenblatt GmbH",
+        "squuid": "64006d66-cf4e-4c38-9a5f-962b1602e94e"
+      },
+      "squuid": "6436a35e-3b8d-4e7f-8de2-811eeb2b52c1",
+      "state": "active"
+    }
+  ]
+}

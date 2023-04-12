@@ -1,0 +1,47 @@
+{
+  "pressPublishingIntervals": 52,
+  "state": "active",
+  "squuid": "6436b5cc-b568-4b4f-b0f8-d82c8d0b599e",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
+      },
+      "squuid": "6436b5ef-198f-48d4-a462-120cf5d25b10",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke Zentralredaktion GmbH ",
+        "squuid": "5c5d6043-ab67-49ca-8a91-21c28160b7e0"
+      },
+      "squuid": "6436b5fa-55d5-4fb6-9e0e-390fcad1b44a",
+      "state": "active"
+    }
+  ],
+  "name": "NRZ am Sonntag",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "nur als ePaper",
+  "type": "print",
+  "controlDate": "2023-04-12T13:44:50.867Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "pressType": {
+    "squuid": "5be1a6b0-4e68-459d-a5ee-da3974114c2a",
+    "name": "E-Paper",
+    "type": "press-type",
+    "state": "active"
+  }
+}
