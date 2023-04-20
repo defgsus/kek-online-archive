@@ -1,79 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Bielefeld",
   "pseudoCompany": false,
   "street": "Höfeweg 40",
   "name": "Klocke Verlag GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-aa9f-4dc4-a5f4-1646545682fc",
-  "controlDate": "2022-09-02T10:01:23.876Z",
+  "controlDate": "2023-04-20T10:39:33.090Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "33619",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "A la carte",
-        "squuid": "5be1a6b1-107b-404b-8e42-d4a3d06a69c4"
-      },
-      "squuid": "5be1a6b9-9053-452e-9723-fa8383ce3599",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Hideaways",
-        "squuid": "5be1a6b1-005f-491a-b949-a80ce1d3f187"
-      },
-      "squuid": "5be1a6b9-f984-4e77-9b16-d6814bd4f7bb",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.living-fine.de",
-        "squuid": "5be1a6b1-a0c4-4538-8f54-c073399f696e"
-      },
-      "squuid": "5be1a6b9-499a-4221-80c8-0f71878d83e6",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "High Life",
-        "squuid": "5e32ea50-4965-4506-be55-7d85bb152cea"
-      },
-      "squuid": "5e32ea93-b680-48fd-8239-61a21e8587fe",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 90.0,
-      "holder": {
-        "name": "Klocke, Thomas",
-        "squuid": "5be1a6b6-36e6-43ed-b4be-79def8135718"
-      },
-      "squuid": "5be1a6b8-7cba-47cc-afd2-d32312b6118e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "holder": {
-        "name": "Klocke, Martina",
-        "squuid": "5be1a6b6-8373-4237-8947-f23387d349a7"
-      },
-      "squuid": "5be1a6b8-a822-423a-863a-1307d07b1448",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

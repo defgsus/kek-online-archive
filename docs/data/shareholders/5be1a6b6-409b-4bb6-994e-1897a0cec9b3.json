@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Ostfildern",
   "pseudoCompany": false,
   "street": "Zeppelinstraße",
@@ -10,109 +10,12 @@
   "streetNumber": "35/1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "73760",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Motorrad Magazin MO",
-        "squuid": "5be1a6b1-1792-4db6-b740-51dcb4c6679e"
-      },
-      "squuid": "5be1a6b9-0205-431d-b025-3f91c9262234",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "BMW Motorräder",
-        "squuid": "5be1a6b1-a177-4d82-87c0-347b705ab8c9"
-      },
-      "squuid": "5be1a6b9-1e57-4892-b145-2990231c6327",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Klassik Motorrad",
-        "squuid": "5be1a6b1-eb76-4327-aab4-ee237f079d84"
-      },
-      "squuid": "5be1a6b9-242d-450c-b77b-f725c686869b",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.mo-web.de",
-        "squuid": "5be1a6b1-c9bf-474e-9842-63cb085cbcf9"
-      },
-      "squuid": "5be1a6b9-ca96-44a1-9638-bb1ade02dfde",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "9ELF",
-        "squuid": "611fa023-5288-4b1c-86c0-0780750e6019"
-      },
-      "squuid": "611fa07e-5560-41ae-859b-5b3a074108d5",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.9elf-magazin.de",
-        "squuid": "611fa03c-74fc-48b6-8667-fa9d1493fb02"
-      },
-      "squuid": "611fa09a-f80c-4078-90f4-4a53cedbba9a",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "holder": {
-        "name": "Schermer, Sabine",
-        "squuid": "5be1a6b6-61c5-4ee6-ae26-fed42209810f"
-      },
-      "squuid": "5be1a6b8-5b3c-4af1-bb77-5bdaaacdb463",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "holder": {
-        "name": "Soppa, Jochen",
-        "squuid": "5be1a6b6-a067-4893-83a6-89eb98cbc9ab"
-      },
-      "squuid": "5be1a6b8-fe33-4f0e-bf07-998a0b15a5a1",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "holder": {
-        "name": "Riedel, Wolf-Martin",
-        "squuid": "5be1a6b6-f813-4150-8734-53811002abf6"
-      },
-      "squuid": "5be1a6b8-c309-4a40-9fc7-82d667390ecf",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "holder": {
-        "name": "Illg, Andreas",
-        "squuid": "5be1a6b6-a2a9-4142-99c3-7b1d26cd569a"
-      },
-      "squuid": "5be1a6b8-a9ca-4c1b-b514-acc6f087dbd4",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

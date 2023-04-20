@@ -3,10 +3,11 @@
   "city": "Aachen",
   "pseudoCompany": false,
   "street": "Dresdener Str.",
-  "name": "Super Sonntag Verlag GmbH",
+  "name": "Verlag Aachener Anzeigenblatt GmbH & Co. KG",
   "naturalPerson": false,
+  "limitedPartnership": true,
   "squuid": "637ce55a-53f5-4df9-aa44-cd1463e88ec5",
-  "controlDate": "2022-11-22T15:09:01.014Z",
+  "controlDate": "2023-04-20T14:07:24.898Z",
   "streetNumber": "3",
   "organizations": [
     {
@@ -30,7 +31,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 96.21,
+      "capitalShares": 50.0,
       "holder": {
         "name": "Medienhaus Aachen GmbH",
         "squuid": "5be1a6b6-0200-4a40-921b-ce08c00a32ac"
@@ -40,7 +41,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 2.5,
+      "capitalShares": 2.04,
       "holder": {
         "name": "Haimüller, Reinhold",
         "squuid": "637ce590-e26b-4974-a13b-673454352fb3"
@@ -50,12 +51,33 @@
     },
     {
       "type": "own",
-      "capitalShares": 1.29,
+      "capitalShares": 1.02,
       "holder": {
         "name": "Zerres, Ernst",
         "squuid": "637ce577-417e-4c46-bf34-ba7d0cd1f779"
       },
       "squuid": "637ce670-4aff-46bb-8083-31e2eb54c5f5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Aachener Anzeigenblatt Beteiligungsgesellschaft mbH",
+        "squuid": "644147f6-3ca6-4cbb-8be8-4272ef2ef6b5"
+      },
+      "squuid": "64414812-1064-4ea5-978b-6744829ac9b1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 46.95,
+      "holder": {
+        "name": "WM-Beteiligungs- und Verwaltungs-GmbH & Co KG",
+        "squuid": "5be1a6b6-066d-4a9c-8fc5-81ac88fa3508"
+      },
+      "squuid": "64414898-737d-4949-974f-8c88a1eca676",
       "state": "active"
     }
   ]

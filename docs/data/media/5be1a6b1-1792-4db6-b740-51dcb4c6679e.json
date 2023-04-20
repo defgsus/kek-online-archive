@@ -1,6 +1,6 @@
 {
   "pressPublishingIntervals": 11,
-  "state": "active",
+  "state": "archived",
   "rfShoppingChannel": false,
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
@@ -8,7 +8,7 @@
     "type": "press-magazine-type",
     "state": "active"
   },
-  "pressAsOfDate": "IV/21",
+  "pressAsOfDate": "",
   "squuid": "5be1a6b1-1792-4db6-b740-51dcb4c6679e",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -16,22 +16,11 @@
     "type": "organization"
   },
   "rfStatewide": false,
-  "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Mo Medien Verlag GmbH",
-        "squuid": "5be1a6b6-409b-4bb6-994e-1897a0cec9b3"
-      },
-      "squuid": "5be1a6b9-0205-431d-b025-3f91c9262234",
-      "state": "active"
-    }
-  ],
   "name": "Motorrad Magazin MO",
-  "pressEditionsIVW": true,
+  "pressEditionsIVW": false,
   "pressDistributionArea": "bundesweit",
   "type": "print",
-  "controlDate": "2022-09-02T09:50:02.211Z",
+  "controlDate": "2023-04-20T10:28:05.783Z",
   "pressKind": "Motor",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -39,7 +28,8 @@
     "type": "online-offer-type",
     "state": "active"
   },
-  "pressEditionsSold": 18549,
+  "pressEditionsComments": "Verlagsangabe",
+  "pressEditionsSold": 20000,
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",
