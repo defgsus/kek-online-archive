@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Westenhellweg",
+  "name": "Lensing Media GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "644a36ea-ef7f-46ee-82d2-30afa172f946",
+  "controlDate": "2023-04-27T09:18:21.116Z",
+  "streetNumber": "86-88",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "44137",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "JLW Beteiligungsgesellschaft OHG",
+        "squuid": "5ff31565-552e-4741-aa75-94a872365916"
+      },
+      "squuid": "644a3e6d-df2c-4c60-99cb-45b867f27e1b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Lensing-Wolff, Lambert",
+        "squuid": "5be1a6b6-b70c-4576-a912-05e7dabdff6c"
+      },
+      "squuid": "644a3e7f-e19a-430a-a2c3-994697466274",
+      "state": "active"
+    }
+  ]
+}

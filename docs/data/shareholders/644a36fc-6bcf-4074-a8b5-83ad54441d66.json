@@ -1,0 +1,65 @@
+{
+  "state": "active",
+  "city": "Dortmund",
+  "pseudoCompany": false,
+  "street": "Westenhellweg ",
+  "name": "Lensing Media Beteiligungs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "644a36fc-6bcf-4074-a8b5-83ad54441d66",
+  "controlDate": "2023-04-27T09:14:29.635Z",
+  "streetNumber": "86-88",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "zipcode": "44137",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Lensing-Wolff, Lambert",
+        "squuid": "5be1a6b6-b70c-4576-a912-05e7dabdff6c"
+      },
+      "squuid": "644a3d6a-b400-4992-adc9-2ea15a3269f9",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "JLW Beteiligungsgesellschaft OHG",
+        "squuid": "5ff31565-552e-4741-aa75-94a872365916"
+      },
+      "squuid": "644a3d85-0e17-4f9c-be21-9673d0ab985e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "DAS GmbH",
+        "squuid": "644a3c7d-43d7-46ac-807c-5a742e478613"
+      },
+      "squuid": "644a3d95-f8f8-4fd3-84d3-1fcf05c1efbc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "HCH GmbH",
+        "squuid": "644a3c8a-21b2-44f0-9a65-c13aafe989f0"
+      },
+      "squuid": "644a3db3-7afd-4d1b-8ae9-3ba2b700e376",
+      "state": "active"
+    }
+  ]
+}
