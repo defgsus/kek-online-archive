@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "held": {
+        "name": "Ruhr-Nachrichten Verlag & Co. KG",
+        "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793"
+      },
+      "squuid": "644a3750-d302-4c05-a745-a0b2dc02b59e",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Dortmund",
   "pseudoCompany": false,
@@ -11,10 +23,21 @@
   "streetNumber": "86-88",
   "organizations": [
     {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LFM NRW",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
   "zipcode": "44137",

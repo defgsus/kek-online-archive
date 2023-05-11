@@ -10,44 +10,15 @@
   "streetNumber": "145",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "78479",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Videoaktiv",
-        "squuid": "5be1a6b1-bbee-4f89-95b7-54c064978a20"
-      },
-      "squuid": "5be1a6b9-1889-4663-a824-0a98b14b6657",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.videoaktiv.de",
-        "squuid": "5be1a6b1-d63e-40aa-a953-74e40368a141"
-      },
-      "squuid": "5be1a6b9-e422-4597-978b-6dbc31ca8e6f",
-      "state": "active"
-    }
-  ],
   "credits": "IJK",
   "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 1.0,
-      "holder": {
-        "name": "Graf, Robert",
-        "squuid": "5be1a6b6-4cab-4fea-8e11-e09d12d60858"
-      },
-      "squuid": "5be1a6b8-cc5f-4e5d-ab8c-7c72b05b6a5f",
-      "state": "active"
-    },
     {
       "type": "own",
       "capitalShares": 33.0,
@@ -56,26 +27,6 @@
         "squuid": "5be1a6b6-d9fe-49a2-a2e5-29c62a15e9bf"
       },
       "squuid": "5be1a6b8-21e4-463a-9d46-a3affe7653d1",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 33.0,
-      "holder": {
-        "name": "Sauer, Joachim",
-        "squuid": "5be1a6b6-b684-4cdc-a7bf-a6a0aa5e229a"
-      },
-      "squuid": "5be1a6b8-3ba6-4e67-af2e-31dd32b2be35",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 33.0,
-      "holder": {
-        "name": "Ernst, Hans",
-        "squuid": "5be1a6b6-d37b-427b-ac78-ca6e399e5c4d"
-      },
-      "squuid": "5be1a6b8-ad5c-480b-927d-0aacd7333880",
       "state": "active"
     }
   ]

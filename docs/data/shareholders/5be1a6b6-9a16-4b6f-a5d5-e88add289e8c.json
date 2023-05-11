@@ -12,14 +12,14 @@
     }
   ],
   "state": "active",
-  "city": "Berlin",
+  "city": "Hamburg",
   "pseudoCompany": false,
-  "street": "Schlesische Straße",
-  "name": "Aeria Games GmbH",
+  "street": "Behringstr.",
+  "name": "gamigo Publishing GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-9a16-4b6f-a5d5-e88add289e8c",
-  "controlDate": "2022-09-28T09:46:51.173Z",
-  "streetNumber": "27",
+  "controlDate": "2023-05-11T09:30:44.327Z",
+  "streetNumber": "16B",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -27,7 +27,18 @@
       "type": "organization"
     }
   ],
-  "zipcode": "10997",
+  "zipcode": "22765",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.deutschland-spielt.de",
+        "squuid": "61fd2b5f-75d5-4266-b27c-f63cf57c1a9d"
+      },
+      "squuid": "645cb8cc-43b8-4500-b942-e62397600dda",
+      "state": "active"
+    }
+  ],
   "credits": "Beschluss der KEK vom 19.09.2017, Az.: KEK 929, und Bescheid der mabb vom 29.09.2017",
   "ownedBy": [
     {
