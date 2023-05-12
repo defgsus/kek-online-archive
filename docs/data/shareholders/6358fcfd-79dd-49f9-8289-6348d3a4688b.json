@@ -18,7 +18,7 @@
   "name": "ASS Vermögensverwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "6358fcfd-79dd-49f9-8289-6348d3a4688b",
-  "controlDate": "2022-11-10T13:37:23.030Z",
+  "controlDate": "2023-05-12T10:05:59.307Z",
   "streetNumber": "10",
   "organizations": [
     {
@@ -104,5 +104,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "40789"
+  "zipcode": "40789",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schmidt, Axel",
+        "squuid": "636cfefa-213a-4886-b1a9-e8494e98bc9c"
+      },
+      "squuid": "636cff64-52ae-4190-81bb-83f4a3463638",
+      "state": "active"
+    }
+  ]
 }
