@@ -1,5 +1,5 @@
 {
-  "rfRepresentative": "Henning Wolf ",
+  "rfRepresentative": "Mathias Illig",
   "state": "active",
   "rfShoppingChannel": false,
   "rfFreePay": true,
@@ -10,19 +10,29 @@
     "type": "organization",
     "fullName": "Medienanstalt Mecklenburg-Vorpommern"
   },
+  "accessibilityUrl": "http://guestrowtv.de",
   "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
       "holder": {
-        "name": "Wolf, Henning",
+        "name": "Illig, Mathias",
         "squuid": "5f20373d-5d9d-4dfb-a23d-2127a4793efc"
       },
       "squuid": "5fb53974-0264-4176-8b7e-3e1d34e9b1c0",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Illig, Mathias ",
+        "squuid": "63cac90d-e1ac-45b6-b5c8-7a886ae10a39"
+      },
+      "squuid": "63cac9ca-4265-41ac-af7f-2f9e82364e56",
+      "state": "active"
     }
   ],
-  "name": "GüstrowTV",
+  "name": "Güstrow TV",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
     "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -37,11 +47,12 @@
     "type": "organization",
     "fullName": "Medienanstalt Mecklenburg-Vorpommern"
   },
-  "description": "GüstrowTV ist ein privates, kommerzielles, lokales/regionales Fernsehprogramm für den Großraum Güstrow. ",
-  "rfLicenseUntil": "31.12.2022",
-  "rfLicensed": "28.11.2012",
-  "rfLicenseFrom": "Medienausschuss Mecklenburg-Vorpommern (MAMV)",
-  "rfAddress": "GüstrowTV\nZum Schwanenhals 10\n18273 Güstrow",
+  "description": "Güstrow TV ist ein privates, kommerzielles, lokales/regionales Fernsehprogramm für den Großraum Güstrow. ",
+  "rfLicenseUntil": "31.12.2032",
+  "rfLicensed": "16.12.2022",
+  "rfLicenseFrom": "01.01.2023",
+  "rfAddress": "GüstrowTV\nGlasewitzer Chaussee 18\n18273 Güstrow",
+  "accessibilityEmail": "info@guestrow.tv",
   "languages": [
     {
       "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",

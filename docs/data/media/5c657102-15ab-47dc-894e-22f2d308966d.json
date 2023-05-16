@@ -11,7 +11,7 @@
     "type": "organization",
     "fullName": "Medienanstalt Mecklenburg-Vorpommern"
   },
-  "accessibilityUrl": "https://mv1.tv/",
+  "accessibilityUrl": "https://mv1.tv",
   "rfStatewide": false,
   "operatedBy": [
     {
@@ -45,9 +45,18 @@
     "type": "organization",
     "fullName": "Medienanstalt Mecklenburg-Vorpommern"
   },
-  "rfLicenseUntil": "31.03.2022",
-  "rfLicensed": "29.03.2012",
-  "rfLicenseFrom": "Medienausschuss Mecklenburg-Vorpommern (MAMV)",
+  "description": "MV1 ist ein privates, kommerzielles, landesweit in Kabelanlagen zu empfangenes Fernsehprogramm der Sparte Unterhaltung in Mecklenburg-Vorpommern. ",
+  "rfLicenseUntil": "31.03.2032",
+  "rfLicensed": "07.03.2022",
+  "rfLicenseFrom": "01.04.2022",
   "rfAddress": "Juni Media GmbH & Co. KG\nJoachim-Jungius-Straße 9\n18059 Rostock",
-  "accessibilityEmail": "info@mv1.tv"
+  "accessibilityEmail": "info@mv1.tv",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
 }

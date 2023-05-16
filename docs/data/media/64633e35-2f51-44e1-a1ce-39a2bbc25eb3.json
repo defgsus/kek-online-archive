@@ -1,7 +1,6 @@
 {
   "state": "active",
-  "rfShoppingChannel": false,
-  "squuid": "5be1a6b1-7385-4ded-a4ce-a0c0176f2dd5",
+  "squuid": "64633e35-2f51-44e1-a1ce-39a2bbc25eb3",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -14,23 +13,19 @@
         "name": "Bechtle Graphische Betriebe und Verlagsgesellschaft GmbH & Co KG",
         "squuid": "5be1a6b6-4792-466e-ae6c-b124e9c6b4ba"
       },
-      "squuid": "5e42d4f3-f9a0-420e-8c15-64df3f66db6c",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
-        "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b"
-      },
-      "squuid": "63c94015-02dc-431e-bd63-3046adba6c48",
+      "squuid": "64633e59-a8cc-471b-999e-5dccf86730fc",
       "state": "active"
     }
   ],
-  "name": "www.cannstatter-zeitung.de",
-  "pressEditionsIVW": false,
+  "name": "www.zwiebel-es.de",
+  "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-05-16T08:22:20.977Z",
+  "controlDate": "2023-05-16T08:27:08.927Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",

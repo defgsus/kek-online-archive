@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Berliner Philharmonie gGmbH",
-        "squuid": "5be1a6b6-5ff8-48a5-81b5-05192ec87e87"
-      },
-      "squuid": "5be1a6b8-bfd9-4a75-81c2-89e3c954b9ee",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "name": "Stiftung Berliner Philharmoniker",
@@ -20,9 +8,10 @@
   "controlDate": "2019-04-23T10:14:13.174Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "credits": "IJK"

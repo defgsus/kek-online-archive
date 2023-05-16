@@ -1,27 +1,30 @@
 {
-  "rfRepresentative": "Petra Lemcke",
+  "rfRepresentative": "Ralph van Gülick",
   "state": "active",
-  "rfStartDate": "14.12.2015",
-  "squuid": "60db24f3-2353-4bb0-9e09-5010757e05fd",
+  "rfShoppingChannel": false,
+  "rfStartDate": "01.02.2023",
+  "rfFreePay": true,
+  "squuid": "6463ae33-862d-48eb-884c-89dd32be7773",
   "organization": {
     "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
     "name": "MMV",
     "type": "organization",
     "fullName": "Medienanstalt Mecklenburg-Vorpommern"
   },
-  "accessibilityUrl": "https://www.sunshine-live.de/",
+  "accessibilityUrl": "https://www.tvrostock.de",
+  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
       "holder": {
-        "name": "sunshine live GmbH & Co. KG",
-        "squuid": "5be1a6b6-06f0-4bd6-88b6-746783f187c3"
+        "name": "Regio TV Stuttgart GmbH & Co. KG",
+        "squuid": "5d42caf7-0022-4587-bddb-9a42a391a3cf"
       },
-      "squuid": "60db268c-9145-4d0f-a490-a22ea2647cd9",
+      "squuid": "6463af55-0349-468c-9993-9f8709f8e8d7",
       "state": "active"
     }
   ],
-  "name": "sunshine live (Mecklenburg-Vorpommern)",
+  "name": "tv.rostock",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
     "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -29,19 +32,19 @@
     "type": "broadcast-status",
     "state": "active"
   },
-  "type": "radio",
+  "type": "tv",
   "rfSupervisingAuthority": {
     "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
     "name": "MMV",
     "type": "organization",
     "fullName": "Medienanstalt Mecklenburg-Vorpommern"
   },
-  "description": "sunshine live ist ein privates, kommerzielles Hörfunkprogramm. In Mecklenburg-Vorpommern ist sunshine live in Rostock und Stralsund über UKW zu empfangen.",
-  "rfLicenseUntil": "31.12.2024",
-  "rfLicensed": "09.02.2015",
-  "rfLicenseFrom": "01.01.2015",
-  "rfAddress": "sunshine live GmbH & Co. KG\nHafenstraße 49\n68159 Mannheim",
-  "accessibilityEmail": "radio@sunshine-live.de",
+  "description": "tv.rostock ist ein privates, kommerzielles, lokales/regionales Fernsehprogramm für den Großraum Rostock. ",
+  "rfLicenseUntil": "31.01.2033",
+  "rfLicensed": "26.01.2023",
+  "rfLicenseFrom": "01.02.2023",
+  "rfAddress": "Regio TV Stuttgart GmbH & Co. KG Niederlassung Rostock\nNobelstraße 50 a/b\n18059 Rostock",
+  "accessibilityEmail": "info@tvrostock.de",
   "languages": [
     {
       "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",

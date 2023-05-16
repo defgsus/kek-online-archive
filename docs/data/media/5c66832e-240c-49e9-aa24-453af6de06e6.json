@@ -39,10 +39,18 @@
     "type": "organization",
     "fullName": "Medienanstalt Mecklenburg-Vorpommern"
   },
-  "description": "Radio Paradiso ist ein privates, kommerzielles Hörfunkprogramm. \n\nEs ist in Rostock auf der UKW-Frequenz 89,7 MHz zu hören.\nSendestart: 25.11.2015\n\nIn Schwerin ist Radio Paradiso auf der UKW-Frequenz 103,9 MHz zu empfangen.\nSendestart: 03.02.2016\n\nIn Stralsund ist Radio Paradiso auf der UKW-Frequenz 103,6 MHz zu empfangen.\nSendestart: 18.05.2016",
+  "description": "Radio Paradiso Nord ist ein privates, kommerzielles Hörfunkprogramm. In Mecklenburg-Vorpommern ist Radio Paradiso Nord in Rostock, Schwerin und Stralsund über UKW zu empfangen.",
   "rfLicenseUntil": "31.12.2024 ",
   "rfLicensed": "09.02.2015",
-  "rfLicenseFrom": "Medienausschuss Mecklenburg-Vorpommern (MAMV)",
+  "rfLicenseFrom": "01.01.2015",
   "rfAddress": "Evangelischer Presseverband Norddeutschland GmbH\nGartenstraße 20\n24103 Kiel",
-  "accessibilityEmail": "paradiso@paradiso.de"
+  "accessibilityEmail": "paradiso@paradiso.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
 }
