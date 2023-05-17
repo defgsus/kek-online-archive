@@ -7,7 +7,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "637f9276-66b7-4f21-a8ef-2c511f9401f7",
-  "controlDate": "2022-11-24T15:50:39.065Z",
+  "controlDate": "2023-05-17T10:44:44.235Z",
   "streetNumber": "41",
   "organizations": [
     {
@@ -30,16 +30,6 @@
   ],
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Nordwest Media Vermarktungsgesellschaft mbH & Co. KG",
-        "squuid": "637f907b-45ea-4a64-aa67-cc281b3f330a"
-      },
-      "squuid": "637f9341-0c13-4788-8137-7e6f0e347a2c",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -48,6 +38,16 @@
         "squuid": "637f928c-2afb-400c-8c94-f0005995b728"
       },
       "squuid": "637f9353-ddef-4775-8206-b0e468a838a6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "KPS Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-6ec6-4936-a948-98258f580e4e"
+      },
+      "squuid": "6464b036-7aa5-41db-b014-435e2e280993",
       "state": "active"
     }
   ]

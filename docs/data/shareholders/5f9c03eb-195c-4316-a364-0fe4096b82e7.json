@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Rostock",
   "pseudoCompany": false,
   "street": "Nobelstraße ",
@@ -10,33 +10,11 @@
   "streetNumber": "50 a/b",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "18059",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.tvrostock.de",
-        "squuid": "5f203383-65af-47a5-b064-2f0991f414e3"
-      },
-      "squuid": "6093b971-64ec-4a94-9a8d-d05759b17d0c",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Matthias Mück",
-        "squuid": "5fa28a77-f215-4a42-8412-4edd8ea2d90e"
-      },
-      "squuid": "5fa28ade-7f40-46e0-9fe6-0ef6267d2db4",
-      "state": "active"
-    }
-  ]
+  "zipcode": "18059"
 }

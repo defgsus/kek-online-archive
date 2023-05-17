@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "6050dde6-aa19-43fe-83cf-3e4b6b5cf943",
-  "controlDate": "2022-09-26T09:34:54.000Z",
+  "controlDate": "2023-05-17T08:28:24.874Z",
   "streetNumber": "43",
   "organizations": [
     {
@@ -34,5 +34,48 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "60313"
+  "zipcode": "60313",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Beyond Capital Partners GP GmbH",
+        "squuid": "6050de2a-242a-4f6b-b196-c43d2aeff11b"
+      },
+      "squuid": "63317266-588a-43e6-8b9e-b6feccaa5eab",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Oschkinat, Volker",
+        "squuid": "62c3090e-be1a-4272-893b-f70e3c5cc4a9"
+      },
+      "squuid": "63317275-b5e0-4a86-ab6a-72b2e70e1b0c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Eibes, Karsten",
+        "squuid": "62c308fa-958d-4f50-99c2-b4405032fdff"
+      },
+      "squuid": "63317285-f2cd-4ef2-b77c-7473db2e421c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Kauter, Christoph",
+        "squuid": "63317221-0459-41fe-8411-7bb3aab720c9"
+      },
+      "squuid": "63317293-09f4-42f9-8efe-d410c75889b4",
+      "state": "active"
+    }
+  ]
 }

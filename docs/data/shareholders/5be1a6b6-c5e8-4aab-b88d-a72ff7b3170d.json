@@ -19,6 +19,16 @@
       },
       "squuid": "5c4f11d7-fb3e-4726-bf59-b71c8afd0945",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Magazinverlag Bremen GmbH",
+        "squuid": "63d26634-ae41-4cd5-86b2-f478ae16a1be"
+      },
+      "squuid": "63d26783-6ce0-4296-a483-935ee42933eb",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -29,7 +39,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-c5e8-4aab-b88d-a72ff7b3170d",
-  "controlDate": "2023-01-13T09:57:50.403Z",
+  "controlDate": "2023-05-17T14:23:58.049Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -119,7 +129,7 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "complementaryPartner": true,
+      "complementaryPartner": false,
       "type": "own",
       "capitalShares": 50.0,
       "holder": {
@@ -130,7 +140,7 @@
       "state": "active"
     },
     {
-      "complementaryPartner": true,
+      "complementaryPartner": false,
       "type": "own",
       "capitalShares": 50.0,
       "holder": {
@@ -138,6 +148,28 @@
         "squuid": "5be1a6b6-1aaf-4ea6-9c51-3a48d684aaf3"
       },
       "squuid": "5be1a6b8-26cd-4f2f-82f1-42a269eac3f7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Gätjen, Bernhard",
+        "squuid": "63c12ad5-2de8-4051-ac21-e7c3f07c3888"
+      },
+      "squuid": "63c12af5-4377-45fd-ab9d-f59129742cd5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Becker, Jochen",
+        "squuid": "63c12ab3-c65e-4609-afda-9e7a301b3a17"
+      },
+      "squuid": "63c12b0a-db79-42f5-8c11-cd166de171ca",
       "state": "active"
     }
   ]

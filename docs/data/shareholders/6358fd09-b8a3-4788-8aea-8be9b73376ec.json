@@ -18,7 +18,7 @@
   "name": "BR Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "6358fd09-b8a3-4788-8aea-8be9b73376ec",
-  "controlDate": "2022-11-10T13:41:29.672Z",
+  "controlDate": "2023-05-17T13:24:44.741Z",
   "streetNumber": "10",
   "organizations": [
     {
@@ -104,5 +104,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "40789"
+  "zipcode": "40789",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Revers, Burkhard",
+        "squuid": "636cffe5-e92a-4acd-8d7d-1e69c7fee5e6"
+      },
+      "squuid": "636cfff6-8842-4c67-b251-dc74a04a9d02",
+      "state": "active"
+    }
+  ]
 }
