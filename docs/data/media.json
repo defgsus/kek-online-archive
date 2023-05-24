@@ -501,7 +501,7 @@
     "rfStatewide": false,
     "name": "Sulzbach-Rosenberger Zeitung",
     "type": "print",
-    "controlDate": "2022-09-09T15:37:22.102Z",
+    "controlDate": "2023-05-24T13:33:56.347Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -524,7 +524,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-11T12:11:27.590Z",
+    "controlDate": "2023-05-24T13:41:59.644Z",
     "state": "active"
   },
   {
@@ -9049,7 +9049,7 @@
     "name": "www.de24live.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2023-01-06T10:35:41.082Z",
+    "controlDate": "2023-05-24T10:10:30.643Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -9523,7 +9523,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-07-19T10:33:08.392Z",
+    "controlDate": "2023-05-24T09:11:40.508Z",
     "state": "active"
   },
   {
@@ -9727,7 +9727,7 @@
     "rfStatewide": false,
     "name": "der Freitag",
     "type": "print",
-    "controlDate": "2022-10-10T11:25:18.950Z",
+    "controlDate": "2023-05-24T13:19:38.164Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -9775,7 +9775,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-10T11:26:59.609Z",
+    "controlDate": "2023-05-24T13:22:07.205Z",
     "state": "active"
   },
   {
@@ -9856,7 +9856,7 @@
       "state": "active"
     },
     "controlDate": "2022-10-11T13:15:10.677Z",
-    "state": "active"
+    "state": "archived"
   },
   {
     "organization": {
@@ -12259,7 +12259,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-27T13:25:04.345Z",
+    "controlDate": "2023-05-24T09:21:10.164Z",
     "state": "active"
   },
   {
@@ -18252,7 +18252,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 6,
+    "pressPublishingIntervals": 9,
     "state": "active",
     "squuid": "5be1a6b1-1c5b-41c5-a391-a9399f472097",
     "organization": {
@@ -18263,7 +18263,7 @@
     "rfStatewide": false,
     "name": "Mein schönes Blatt",
     "type": "print",
-    "controlDate": "2022-11-17T12:50:35.665Z",
+    "controlDate": "2023-05-24T11:09:03.710Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -18284,7 +18284,7 @@
     "rfStatewide": false,
     "name": "Meine Woche",
     "type": "print",
-    "controlDate": "2022-11-17T13:47:52.652Z",
+    "controlDate": "2023-05-24T11:12:13.246Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -19430,7 +19430,7 @@
     "name": "www.hubu.fm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-11-07T09:56:39.233Z",
+    "controlDate": "2023-05-24T10:13:06.208Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -21160,7 +21160,7 @@
     "name": "www.apolloradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-15T13:20:19.392Z",
+    "controlDate": "2023-05-24T14:42:50.702Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -22130,6 +22130,50 @@
   },
   {
     "state": "active",
+    "squuid": "646de126-5eb1-4a0f-8e0b-db12223ed1b1",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.familienzeit-magazin.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-05-24T10:05:59.053Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "pressPublishingIntervals": 2,
+    "state": "active",
+    "squuid": "646de141-a702-447b-aa88-621cf83f765f",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Familienzeit",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2023-05-24T10:05:48.956Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Regional"
+  },
+  {
+    "state": "active",
     "squuid": "63ea341e-fbff-4518-814e-d21f5e46a299",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22689,6 +22733,30 @@
       "type": "organization"
     },
     "pressKind": "Wirtschaft"
+  },
+  {
+    "state": "active",
+    "squuid": "646deb7e-96df-4732-a5f9-5bd41298623c",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.magazine.dewezet.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-05-24T10:48:36.127Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
   },
   {
     "state": "active",
@@ -24097,6 +24165,24 @@
     "pressKind": "Kinder"
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "#oberpfälzerin",
+    "type": "print",
+    "squuid": "646e168d-11e6-40f7-b7ec-18fda6283dba",
+    "pressKind": "Regional",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "610c0fef-58e1-4498-8652-722273666226",
     "organization": {
@@ -24406,7 +24492,7 @@
   },
   {
     "pressPublishingIntervals": 6,
-    "state": "active",
+    "state": "archived",
     "squuid": "610d1621-4624-4201-bf15-f30fc173fd56",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -24755,6 +24841,30 @@
     "type": "tv",
     "squuid": "5cb884da-bdb0-4633-ae90-d46c7b8257bd",
     "state": "active"
+  },
+  {
+    "state": "active",
+    "squuid": "646e25e0-57c4-430a-9216-e3dea76bc74e",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.ardmediathek.de/daserste",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-05-24T14:57:48.186Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
   },
   {
     "state": "active",
@@ -26306,7 +26416,7 @@
     "name": "www.antenneniederrhein.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-15T12:37:38.222Z",
+    "controlDate": "2023-05-24T14:36:05.115Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27533,7 +27643,7 @@
     "name": "www.ardkultur.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-20T13:10:21.632Z",
+    "controlDate": "2023-05-24T15:00:46.606Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30346,7 +30456,7 @@
     "name": "Beste Woche",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2023-01-10T16:46:21.458Z",
+    "controlDate": "2023-05-24T11:06:05.685Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30742,7 +30852,7 @@
     "name": "www.deichstube.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-11T11:10:55.935Z",
+    "controlDate": "2023-05-24T10:14:42.699Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30882,7 +30992,7 @@
     "name": "www.anna.fm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-13T13:32:00.081Z",
+    "controlDate": "2023-05-24T14:05:20.971Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33861,7 +33971,7 @@
     "name": "www.socratesmagazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-12-21T16:39:25.617Z",
+    "controlDate": "2023-05-24T11:22:37.365Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34821,7 +34931,7 @@
     "name": "www.del.org",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-11T11:32:02.104Z",
+    "controlDate": "2023-05-24T16:00:41.813Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37207,10 +37317,10 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.arcarde-xxl.de",
+    "name": "www.arcade-xxl.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-16T14:20:36.336Z",
+    "controlDate": "2023-05-24T14:51:19.353Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38110,7 +38220,7 @@
     "name": "www.ardmediathek.de/one",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-04T13:07:13.416Z",
+    "controlDate": "2023-05-24T14:59:15.523Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40058,7 +40168,7 @@
     "name": "www.antennemuenster.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-15T12:31:59.017Z",
+    "controlDate": "2023-05-24T14:33:49.367Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40082,7 +40192,7 @@
     "name": "www.die-deutsche-wirtschaft.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-13T09:43:43.116Z",
+    "controlDate": "2023-05-24T10:08:25.463Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -69670,7 +69780,7 @@
     "name": "Bavarian Times",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2023-04-25T13:04:24.779Z",
+    "controlDate": "2023-05-24T13:49:57.131Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -70522,7 +70632,7 @@
     "name": "Abenteuer Familie",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2023-04-25T13:04:39.808Z",
+    "controlDate": "2023-05-24T13:48:17.139Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -77144,7 +77254,7 @@
     "rfStatewide": false,
     "name": "Der Neue Tag",
     "type": "print",
-    "controlDate": "2022-10-11T12:08:19.767Z",
+    "controlDate": "2023-05-24T13:33:13.961Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83642,7 +83752,7 @@
     "rfStatewide": false,
     "name": "Camping",
     "type": "print",
-    "controlDate": "2022-09-29T09:18:11.622Z",
+    "controlDate": "2023-05-24T09:25:11.780Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85194,7 +85304,7 @@
     "rfStatewide": false,
     "name": "Dewezet",
     "type": "print",
-    "controlDate": "2022-10-13T08:59:32.276Z",
+    "controlDate": "2023-05-24T10:32:46.222Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -85217,7 +85327,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-13T09:02:40.214Z",
+    "controlDate": "2023-05-24T10:37:19.630Z",
     "state": "active"
   },
   {
@@ -89937,7 +90047,7 @@
     "name": "www.mygolf.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-11-22T11:36:38.188Z",
+    "controlDate": "2023-05-24T16:01:48.949Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90300,7 +90410,7 @@
     "name": "www.dazn.com/de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-11T10:48:18.797Z",
+    "controlDate": "2023-05-24T09:13:14.198Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90388,7 +90498,7 @@
     "rfStatewide": false,
     "name": "WIRtschaft in Sachsen",
     "type": "print",
-    "controlDate": "2023-01-09T14:56:43.385Z",
+    "controlDate": "2023-05-24T09:51:24.646Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90412,7 +90522,7 @@
     "rfStatewide": false,
     "name": "Sächsische Zeitung (Ausgabe Dresden)",
     "type": "print",
-    "controlDate": "2023-01-03T17:02:57.135Z",
+    "controlDate": "2023-05-24T09:43:17.802Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -90435,7 +90545,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-12-15T11:59:51.527Z",
+    "controlDate": "2023-05-24T09:48:24.967Z",
     "state": "active"
   },
   {
@@ -93234,7 +93344,7 @@
     "rfStatewide": false,
     "name": "Garten Flora",
     "type": "print",
-    "controlDate": "2022-10-27T13:23:42.764Z",
+    "controlDate": "2023-05-24T09:18:14.095Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93255,7 +93365,7 @@
     "rfStatewide": false,
     "name": "Grün",
     "type": "print",
-    "controlDate": "2022-11-02T12:55:14.585Z",
+    "controlDate": "2023-05-24T09:19:38.901Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93300,7 +93410,7 @@
     "rfStatewide": false,
     "name": "Freizeit direkt",
     "type": "print",
-    "controlDate": "2022-10-26T11:25:05.391Z",
+    "controlDate": "2023-05-24T11:06:54.115Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93345,7 +93455,7 @@
     "rfStatewide": false,
     "name": "Freizeit pur",
     "type": "print",
-    "controlDate": "2022-10-26T11:36:00.323Z",
+    "controlDate": "2023-05-24T11:07:53.684Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93366,7 +93476,7 @@
     "rfStatewide": false,
     "name": "Neue Freizeit",
     "type": "print",
-    "controlDate": "2022-11-23T12:36:19.470Z",
+    "controlDate": "2023-05-24T11:13:13.132Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93387,7 +93497,7 @@
     "rfStatewide": false,
     "name": "neue Pause",
     "type": "print",
-    "controlDate": "2022-11-23T12:45:08.278Z",
+    "controlDate": "2023-05-24T11:14:52.397Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93408,7 +93518,7 @@
     "rfStatewide": false,
     "name": "neues für die Frau",
     "type": "print",
-    "controlDate": "2022-11-23T15:15:16.915Z",
+    "controlDate": "2023-05-24T11:15:20.020Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93429,7 +93539,7 @@
     "rfStatewide": false,
     "name": "Revue der Woche",
     "type": "print",
-    "controlDate": "2022-12-08T13:45:17.883Z",
+    "controlDate": "2023-05-24T11:16:59.286Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94552,7 +94662,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-11T13:09:46.017Z",
+    "controlDate": "2023-05-24T15:11:25.899Z",
     "state": "active"
   },
   {
@@ -94570,7 +94680,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-11T13:15:03.225Z",
+    "controlDate": "2023-05-24T15:13:49.117Z",
     "state": "active"
   },
   {
@@ -95614,7 +95724,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-09-16T14:22:05.562Z",
+    "controlDate": "2023-05-24T14:54:35.097Z",
     "state": "active"
   },
   {
@@ -96471,7 +96581,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-09-15T13:18:30.247Z",
+    "controlDate": "2023-05-24T14:41:11.878Z",
     "state": "active"
   },
   {
@@ -97767,7 +97877,7 @@
     "name": "www.antennebrandenburg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-15T12:27:01.696Z",
+    "controlDate": "2023-05-24T14:29:16.685Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -98332,7 +98442,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-11T11:14:20.386Z",
+    "controlDate": "2023-05-24T10:17:00.482Z",
     "state": "active"
   },
   {
@@ -98623,7 +98733,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-11-02T15:06:36.400Z",
+    "controlDate": "2023-05-24T16:01:42.435Z",
     "state": "active"
   },
   {
@@ -105804,7 +105914,7 @@
     "rfStatewide": false,
     "name": "Sächsische Zeitung (Ausgaben Görlitz, Zittau, Löbau, Weißwasser, Niesky)",
     "type": "print",
-    "controlDate": "2023-01-04T09:36:24.130Z",
+    "controlDate": "2023-05-24T09:37:49.817Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -105844,7 +105954,7 @@
     "rfStatewide": false,
     "name": "Sächsische Zeitung (Ausgaben Freital, Pirna, Sebnitz, Dippoldiswalde)",
     "type": "print",
-    "controlDate": "2023-01-04T09:35:02.056Z",
+    "controlDate": "2023-05-24T09:40:10.366Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -105864,7 +105974,7 @@
     "rfStatewide": false,
     "name": "Sächsische Zeitung (Ausgaben Dresdner und Meißner Land, Meißen, Großenhain, Riesa)",
     "type": "print",
-    "controlDate": "2023-01-04T09:33:36.837Z",
+    "controlDate": "2023-05-24T09:36:55.743Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -105904,7 +106014,7 @@
     "rfStatewide": false,
     "name": "Döbelner Anzeiger",
     "type": "print",
-    "controlDate": "2022-10-19T11:58:55.821Z",
+    "controlDate": "2023-05-24T09:35:17.886Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -108679,7 +108789,7 @@
     "rfStatewide": false,
     "name": "Pyrmonter Nachrichten",
     "type": "print",
-    "controlDate": "2022-10-13T09:01:43.089Z",
+    "controlDate": "2023-05-24T10:32:21.535Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -111719,7 +111829,7 @@
     "name": "www.altmark-woche.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2023-01-25T10:27:15.000Z",
+    "controlDate": "2023-05-24T13:54:58.778Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -112506,7 +112616,7 @@
     "name": "www.augusto-sachsen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-12-15T12:12:00.413Z",
+    "controlDate": "2023-05-24T10:00:42.495Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -112846,7 +112956,7 @@
     "name": "www.dawo-dresden.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-12-15T12:17:00.434Z",
+    "controlDate": "2023-05-24T09:59:01.570Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -113077,7 +113187,7 @@
     "name": "www.wirtschaft-in-sachsen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-12-15T12:19:59.724Z",
+    "controlDate": "2023-05-24T09:51:42.672Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -114416,7 +114526,7 @@
     "name": "www.anzeigen-echo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2023-01-25T14:38:45.980Z",
+    "controlDate": "2023-05-24T14:39:46.891Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -115654,7 +115764,7 @@
     "name": "www.ardmediathek.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-04T13:07:08.110Z",
+    "controlDate": "2023-05-24T14:59:07.680Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -117430,7 +117540,7 @@
     "name": "www.echo24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-19T13:00:53.612Z",
+    "controlDate": "2023-05-24T10:55:09.727Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -117926,7 +118036,7 @@
     "name": "www.deltaradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-11T11:44:12.598Z",
+    "controlDate": "2023-05-24T11:00:58.519Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -122185,7 +122295,7 @@
     "name": "www.amazing-discoveries.org",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-13T12:54:23.254Z",
+    "controlDate": "2023-05-24T13:58:53.475Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -122263,7 +122373,7 @@
     "name": "www.animalplanet.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-13T13:21:49.051Z",
+    "controlDate": "2023-05-24T14:00:17.520Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -122311,7 +122421,7 @@
     "name": "www.ansbachplus.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-11-15T16:39:47.810Z",
+    "controlDate": "2023-05-24T14:08:15.032Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126070,7 +126180,7 @@
     "name": "www.bnn.de/epaper-kurier",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2023-01-31T12:01:15.560Z",
+    "controlDate": "2023-05-24T13:25:28.900Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126326,7 +126436,7 @@
     "name": "www.am-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2023-01-31T12:49:49.511Z",
+    "controlDate": "2023-05-24T13:55:28.570Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126562,7 +126672,7 @@
     "name": "www.leichtathletik.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-11-14T10:02:11.014Z",
+    "controlDate": "2023-05-24T16:16:19.427Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126889,7 +126999,7 @@
     "name": "www.dejure.org",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-11T11:30:51.679Z",
+    "controlDate": "2023-05-24T10:50:28.455Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130129,7 +130239,7 @@
     "name": "www.dctp.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-11T10:51:49.491Z",
+    "controlDate": "2023-05-24T09:27:34.457Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130882,7 +130992,7 @@
     "name": "www.aschaffenburg.news",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-16T15:17:31.065Z",
+    "controlDate": "2023-05-24T15:04:37.999Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131499,7 +131609,7 @@
     "name": "www.arabella-bayern.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-16T09:48:05.284Z",
+    "controlDate": "2023-05-24T14:49:52.755Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132611,7 +132721,7 @@
     "name": "www.ard.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-04T13:05:39.117Z",
+    "controlDate": "2023-05-24T14:58:42.702Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135373,7 +135483,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 10,
+    "pressPublishingIntervals": 9,
     "state": "active",
     "squuid": "5e3a9ae8-e8e2-4a7d-a51f-9803935031c8",
     "organization": {
@@ -135384,7 +135494,7 @@
     "name": "Leo",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2023-04-25T13:05:39.282Z",
+    "controlDate": "2023-05-24T13:50:32.055Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135476,7 +135586,7 @@
     "name": "gesund & vital",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2023-04-25T13:05:20.800Z",
+    "controlDate": "2023-05-24T13:51:07.486Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136099,7 +136209,7 @@
     "name": "www.ardaudiothek.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-07-04T13:08:47.585Z",
+    "controlDate": "2023-05-24T14:59:23.064Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136215,7 +136325,7 @@
     "name": "www.antenneduesseldorf.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-15T12:27:55.745Z",
+    "controlDate": "2023-05-24T14:30:49.260Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137631,7 +137741,7 @@
     "name": "www.antenne-mainz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-14T09:38:01.297Z",
+    "controlDate": "2023-05-24T14:12:08.185Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137943,7 +138053,7 @@
     "name": "www.antenne-trier.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-14T09:57:15.179Z",
+    "controlDate": "2023-05-24T14:09:48.294Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138149,7 +138259,7 @@
     "name": "www.antenne-pirmasens.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-14T09:40:49.861Z",
+    "controlDate": "2023-05-24T14:15:27.178Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141405,7 +141515,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "62ade9b6-3c0a-4efc-9fb2-31a1a8d6e53c",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -141944,7 +142054,7 @@
     "name": "www.onetz.de/owz",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2023-01-23T11:21:09.713Z",
+    "controlDate": "2023-05-24T13:43:19.435Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142168,7 +142278,7 @@
     "name": "www.antenne1-neckarburg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-15T10:50:55.782Z",
+    "controlDate": "2023-05-24T14:28:22.847Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144010,7 +144120,7 @@
     "name": "www.antenne-zweibruecken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-09-14T09:58:49.352Z",
+    "controlDate": "2023-05-24T14:14:19.173Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

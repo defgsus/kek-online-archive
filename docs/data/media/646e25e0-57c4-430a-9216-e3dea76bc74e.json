@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "646e25e0-57c4-430a-9216-e3dea76bc74e",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)",
+        "squuid": "5be1a6b6-c5dc-4a3d-ad7b-deaabd587214"
+      },
+      "squuid": "646e2601-c108-4372-93b6-1e25a8ada91f",
+      "state": "active"
+    }
+  ],
+  "name": "www.ardmediathek.de/daserste",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-05-24T14:57:48.186Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
