@@ -10,34 +10,14 @@
   "streetNumber": "86",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "14057",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.schlager.de",
-        "squuid": "622f58ee-ba07-4197-bdff-16b52f0e7132"
-      },
-      "squuid": "622f591d-0025-42d8-b61d-9f7c1b2da395",
-      "state": "active"
-    }
-  ],
   "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 80.7,
-      "holder": {
-        "name": "Nebel, Gregor",
-        "squuid": "622f5a6c-1db9-47d4-b406-dab0c4721564"
-      },
-      "squuid": "622f5a86-75c4-4578-a0a7-37eabf254a22",
-      "state": "active"
-    },
     {
       "type": "own",
       "capitalShares": 10.0,
@@ -66,16 +46,6 @@
         "squuid": "639b3d65-306e-4a34-9fba-a08a642f2381"
       },
       "squuid": "639b3da8-f21c-4dbc-badb-2148b787cca9",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 4.5,
-      "holder": {
-        "name": "Zilling, Manfred",
-        "squuid": "639b3d51-9828-437a-bd92-b80a02b5077a"
-      },
-      "squuid": "639b3db5-964a-45ac-9d35-4576da4ac931",
       "state": "active"
     }
   ]
