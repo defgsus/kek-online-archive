@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Skyline Medien Saarland GmbH",
-        "squuid": "5be1a6b6-69df-469c-b088-fcfa158399af"
-      },
-      "squuid": "5be1a6b7-8deb-4540-b937-e4cd6449af2b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Stuttgart",
   "pseudoCompany": false,
   "street": "Kronenstraße",
@@ -22,70 +10,12 @@
   "streetNumber": "24",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
-      "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
     }
   ],
   "zipcode": "70173",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "bigBuddy",
-        "squuid": "5be1a6b1-796b-4131-b7fc-ec65ec82242f"
-      },
-      "squuid": "5be1a6b9-4896-49c4-accd-e127781b1374",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.bigfm.de",
-        "squuid": "5c51a868-a04d-4a48-a03a-13f8944d0282"
-      },
-      "squuid": "5c51a8b7-62f2-4278-975e-399ad2c40341",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "bigFM (Berlin-Brandenburg)",
-        "squuid": "5cb49ea2-abbe-4e10-8d08-5ef7ae2892b4"
-      },
-      "squuid": "5cb4a01e-1430-4956-ad46-61cbc16c4d41",
-      "state": "active"
-    }
-  ],
-  "credits": "LMS",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Audiotainment Südwest GmbH & Co. KG",
-        "squuid": "6023df17-5ffb-4374-a0dd-4013ac8b5f6f"
-      },
-      "squuid": "6023df6f-242c-4bc6-87a6-d6c199fa6a3d",
-      "state": "active"
-    }
-  ]
+  "credits": "LMS"
 }

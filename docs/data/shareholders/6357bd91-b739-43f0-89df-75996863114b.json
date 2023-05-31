@@ -1,5 +1,6 @@
 {
   "name": "Wilhelm, Ulrich Georg",
+  "pseudoCompany": false,
   "squuid": "6357bd91-b739-43f0-89df-75996863114b",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Berlin",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -24,12 +26,6 @@
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
-      "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     {
       "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
@@ -50,5 +46,6 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }
