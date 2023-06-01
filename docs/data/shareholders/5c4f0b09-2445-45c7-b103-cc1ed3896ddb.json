@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "Frag Mutti GmbH",
-        "squuid": "5c4f0abc-1462-4b61-8ef3-4d047349f2c2"
-      },
-      "squuid": "5c4f0bcc-3bf7-4d09-8775-6bedd4c8fec9",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Brackenheim",
-  "pseudoCompany": false,
   "name": "Nicolussi Moro, Ina Manuela",
-  "naturalPerson": true,
-  "squuid": "5c4f0b09-2445-45c7-b103-cc1ed3896ddb",
+  "pseudoCompany": false,
   "controlDate": "2019-07-05T08:26:38.809Z",
+  "squuid": "5c4f0b09-2445-45c7-b103-cc1ed3896ddb",
+  "city": "Brackenheim",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "state": "archived",
+  "naturalPerson": true
 }

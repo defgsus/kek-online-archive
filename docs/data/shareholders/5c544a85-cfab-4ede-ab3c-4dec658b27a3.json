@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Hohenzollerndamm",
@@ -10,33 +10,11 @@
   "streetNumber": "10",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "10717",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.autogazette.de",
-        "squuid": "5c544a74-890b-4f24-9000-2e5dad3cbcb7"
-      },
-      "squuid": "5c544b08-db57-4b59-a69f-a3739897d21f",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Mertens, Frank",
-        "squuid": "5c544a90-eee2-46ed-9c33-232566ce7930"
-      },
-      "squuid": "5c544b4a-396e-4aa2-a03b-f95c6422114b",
-      "state": "active"
-    }
-  ]
+  "zipcode": "10717"
 }

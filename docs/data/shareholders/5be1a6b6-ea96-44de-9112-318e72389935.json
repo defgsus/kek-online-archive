@@ -1,7 +1,4 @@
 {
-  "name": "FM Rundfunkprogrammanbietergesellschaft mbH",
-  "pseudoCompany": false,
-  "squuid": "5be1a6b6-ea96-44de-9112-318e72389935",
   "owns": [
     {
       "type": "own",
@@ -14,6 +11,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Neumarkt",
+  "pseudoCompany": false,
+  "street": "Holzgartenstr.",
+  "name": "FM Rundfunkprogrammanbietergesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-ea96-44de-9112-318e72389935",
+  "controlDate": "2023-06-01T10:59:20.143Z",
+  "streetNumber": "8",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -21,6 +27,17 @@
       "type": "organization"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "zipcode": "92318",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "PDG Presse und Distribution Gesellschaft mbH & Co. KG",
+        "squuid": "6380979b-9a78-48bb-b60b-aaf3b12522a7"
+      },
+      "squuid": "64787a61-02c1-449e-8ebe-193b7dba9648",
+      "state": "active"
+    }
+  ]
 }

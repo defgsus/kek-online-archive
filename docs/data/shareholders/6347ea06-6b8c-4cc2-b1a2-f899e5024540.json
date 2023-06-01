@@ -18,7 +18,7 @@
   "name": "fons securis aerarium GmbH",
   "naturalPerson": false,
   "squuid": "6347ea06-6b8c-4cc2-b1a2-f899e5024540",
-  "controlDate": "2022-10-28T08:07:04.893Z",
+  "controlDate": "2023-06-01T11:35:20.777Z",
   "streetNumber": "10",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "71332"
+  "zipcode": "71332",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hacker, Dr. Mark",
+        "squuid": "5efcac9e-14fd-47f2-8161-3cf105d4e05e"
+      },
+      "squuid": "635b8dab-5b66-42d0-8c49-60358728044d",
+      "state": "active"
+    }
+  ]
 }

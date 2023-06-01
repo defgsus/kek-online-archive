@@ -314,7 +314,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-25T10:29:26.836Z",
+    "controlDate": "2023-06-01T12:34:59.207Z",
     "state": "active"
   },
   {
@@ -9319,12 +9319,12 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-26T11:49:34.640Z",
+    "controlDate": "2023-06-01T13:49:22.657Z",
     "state": "active"
   },
   {
     "pressPublishingIntervals": 3,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-9d0b-4f54-9244-35d322237c35",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -9355,7 +9355,7 @@
     "rfStatewide": false,
     "name": "Focus Style",
     "type": "print",
-    "controlDate": "2022-10-24T15:26:10.188Z",
+    "controlDate": "2023-06-01T11:29:12.636Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -9376,7 +9376,7 @@
     "rfStatewide": false,
     "name": "Focus Gesundheit",
     "type": "print",
-    "controlDate": "2022-10-24T15:18:44.426Z",
+    "controlDate": "2023-06-01T11:29:51.255Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -9387,7 +9387,7 @@
   },
   {
     "pressPublishingIntervals": 3,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-e314-4715-9c50-fc41b3721c23",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -9949,7 +9949,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-10T11:35:11.306Z",
+    "controlDate": "2023-06-01T11:39:54.295Z",
     "state": "active"
   },
   {
@@ -11774,7 +11774,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-21T14:58:46.108Z",
+    "controlDate": "2023-06-01T09:40:09.144Z",
     "state": "active"
   },
   {
@@ -11948,7 +11948,7 @@
   },
   {
     "pressPublishingIntervals": 6,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-80cc-4538-8b5b-f095e3fed3e2",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -12002,7 +12002,7 @@
       "state": "active"
     },
     "controlDate": "2022-10-25T10:13:52.398Z",
-    "state": "active"
+    "state": "archived"
   },
   {
     "pressPublishingIntervals": 6,
@@ -12061,7 +12061,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Allgemeine Quarterly",
     "type": "print",
-    "controlDate": "2022-10-25T10:32:46.491Z",
+    "controlDate": "2023-06-01T12:45:06.515Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -23315,7 +23315,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 4,
+    "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "5be993d5-64e0-49dd-a324-5c7e66c9b2ae",
     "organization": {
@@ -23326,7 +23326,7 @@
     "name": "Gluten free",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2022-11-01T16:41:53.810Z",
+    "controlDate": "2023-06-01T13:28:08.016Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -23539,27 +23539,28 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "63ea51e1-ad56-4324-bfb0-02d02ad317ca",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     },
     "name": "www.der-kurier.info",
+    "rfPublicPrivate": false,
     "type": "online",
-    "squuid": "63ea51e1-ad56-4324-bfb0-02d02ad317ca",
+    "controlDate": "2023-06-01T10:10:08.240Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
       "type": "online-offer-type",
       "state": "active"
-    },
-    "state": "active"
+    }
   },
   {
     "state": "active",
@@ -26328,7 +26329,7 @@
     "name": "www.finanztip.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-26T10:24:50.026Z",
+    "controlDate": "2023-06-01T10:31:34.072Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27180,7 +27181,7 @@
     "pressKind": "Magazin"
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5c4f0aae-8c45-4a9d-a262-0f1f16b532fc",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -27190,7 +27191,7 @@
     "name": "www.frag-mutti.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-26T14:10:44.731Z",
+    "controlDate": "2023-06-01T11:48:23.368Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27477,7 +27478,7 @@
     "name": "www.fashiondaily.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-25T09:18:02.295Z",
+    "controlDate": "2023-06-01T13:40:02.138Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30992,7 +30993,7 @@
     "name": "www.femotion.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-25T13:42:36.354Z",
+    "controlDate": "2023-06-01T10:18:16.239Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32554,7 +32555,7 @@
     "name": "www.galaxy-mittelfranken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-28T08:41:08.200Z",
+    "controlDate": "2023-06-01T13:36:51.181Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38401,7 +38402,7 @@
     "name": "www.smartwohnen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-21T15:00:39.381Z",
+    "controlDate": "2023-06-01T09:40:15.849Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38463,7 +38464,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 3,
+    "pressPublishingIntervals": 2,
     "state": "active",
     "squuid": "6352b48e-7c72-4a2b-89eb-e3c9e06af3c0",
     "organization": {
@@ -38474,7 +38475,7 @@
     "name": "Smart Wohnen",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2022-10-21T15:02:34.389Z",
+    "controlDate": "2023-06-01T09:37:56.917Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38566,7 +38567,7 @@
     "name": "Wohnmobil & Reisen",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2022-10-21T15:05:46.456Z",
+    "controlDate": "2023-06-01T09:38:45.659Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40848,7 +40849,7 @@
     "name": "www.focusbusiness.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-24T15:13:32.036Z",
+    "controlDate": "2023-06-01T11:34:42.419Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -62793,7 +62794,7 @@
     "name": "www.goodnews4.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-11-02T15:15:34.198Z",
+    "controlDate": "2023-06-01T14:03:32.951Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -72955,7 +72956,7 @@
     "rfStatewide": false,
     "name": "Fehmarnsches Tageblatt",
     "type": "print",
-    "controlDate": "2022-10-24T08:43:55.918Z",
+    "controlDate": "2023-06-01T10:07:20.374Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -73023,7 +73024,7 @@
     "rfStatewide": false,
     "name": "Heiligenhafener Post",
     "type": "print",
-    "controlDate": "2022-11-04T11:06:23.219Z",
+    "controlDate": "2023-06-01T10:08:55.191Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -73063,7 +73064,7 @@
     "rfStatewide": false,
     "name": "Flensborg Avis",
     "type": "print",
-    "controlDate": "2022-10-24T14:45:05.378Z",
+    "controlDate": "2023-06-01T10:47:21.962Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -73251,7 +73252,7 @@
     "rfStatewide": false,
     "name": "Frankenpost",
     "type": "print",
-    "controlDate": "2022-10-25T10:26:01.891Z",
+    "controlDate": "2023-06-01T12:34:23.697Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -73292,7 +73293,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Allgemeine Metropol",
     "type": "print",
-    "controlDate": "2022-10-25T10:31:39.130Z",
+    "controlDate": "2023-06-01T12:44:47.432Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -73352,7 +73353,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Allgemeine Zeitung",
     "type": "print",
-    "controlDate": "2022-10-25T10:33:51.599Z",
+    "controlDate": "2023-06-01T12:46:16.476Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -73375,7 +73376,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Allgemeine Sonntagszeitung",
     "type": "print",
-    "controlDate": "2022-10-25T10:32:57.854Z",
+    "controlDate": "2023-06-01T12:45:49.228Z",
     "pressKind": "Sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -73399,7 +73400,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-25T09:24:02.572Z",
+    "controlDate": "2023-06-01T12:47:51.412Z",
     "state": "active"
   },
   {
@@ -73414,7 +73415,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Neue Presse",
     "type": "print",
-    "controlDate": "2022-10-25T10:43:52.163Z",
+    "controlDate": "2023-06-01T13:01:08.032Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -78535,7 +78536,7 @@
     "rfStatewide": false,
     "name": "Focus",
     "type": "print",
-    "controlDate": "2022-10-24T15:06:13.140Z",
+    "controlDate": "2023-06-01T11:21:57.000Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -78559,7 +78560,7 @@
     "rfStatewide": false,
     "name": "Focus Money",
     "type": "print",
-    "controlDate": "2022-10-24T15:20:02.662Z",
+    "controlDate": "2023-06-01T11:22:37.312Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -78583,7 +78584,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-24T15:10:08.816Z",
+    "controlDate": "2023-06-01T11:33:12.747Z",
     "state": "active"
   },
   {
@@ -81481,7 +81482,7 @@
     "rfStatewide": false,
     "name": "Freundin",
     "type": "print",
-    "controlDate": "2022-10-26T11:48:14.008Z",
+    "controlDate": "2023-06-01T13:47:53.045Z",
     "pressKind": "Frauen, zweiwö¶.",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -83529,7 +83530,7 @@
     "state": "active"
   },
   {
-    "pressPublishingIntervals": 12,
+    "pressPublishingIntervals": 4,
     "state": "active",
     "squuid": "5be1a6b1-b325-44e3-bf68-ffadc71f88b5",
     "organization": {
@@ -83540,7 +83541,7 @@
     "rfStatewide": false,
     "name": "Fit for Fun",
     "type": "print",
-    "controlDate": "2022-10-24T14:37:46.441Z",
+    "controlDate": "2023-06-01T10:39:43.040Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -87068,7 +87069,7 @@
     "rfStatewide": false,
     "name": "Freizeitwoche",
     "type": "print",
-    "controlDate": "2022-10-26T11:45:21.786Z",
+    "controlDate": "2023-06-01T13:33:57.618Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89278,7 +89279,7 @@
     "rfStatewide": false,
     "name": "MAINfeeling",
     "type": "print",
-    "controlDate": "2022-11-15T17:06:55.111Z",
+    "controlDate": "2023-06-01T13:03:15.594Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90862,7 +90863,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-26T10:16:16.985Z",
+    "controlDate": "2023-06-01T10:28:07.135Z",
     "state": "active"
   },
   {
@@ -90877,7 +90878,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Rundschau",
     "type": "print",
-    "controlDate": "2022-10-25T10:51:15.851Z",
+    "controlDate": "2023-06-01T12:56:04.930Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -90924,7 +90925,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-25T10:54:11.264Z",
+    "controlDate": "2023-06-01T12:56:37.147Z",
     "state": "active"
   },
   {
@@ -93111,7 +93112,7 @@
     "rfStatewide": false,
     "name": "Family Home",
     "type": "print",
-    "controlDate": "2022-10-21T14:58:29.975Z",
+    "controlDate": "2023-06-01T09:36:55.352Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93393,7 +93394,7 @@
     "rfStatewide": false,
     "name": "Der Hund",
     "type": "print",
-    "controlDate": "2022-10-10T11:34:56.820Z",
+    "controlDate": "2023-06-01T11:39:02.075Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95493,7 +95494,7 @@
     "name": "www.friebo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-11-24T15:58:00.161Z",
+    "controlDate": "2023-06-01T13:59:58.497Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -96042,7 +96043,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-26T14:24:47.832Z",
+    "controlDate": "2023-06-01T13:12:49.635Z",
     "state": "active"
   },
   {
@@ -96182,7 +96183,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-07-14T15:44:07.040Z",
+    "controlDate": "2023-06-01T10:16:21.184Z",
     "state": "active"
   },
   {
@@ -96200,7 +96201,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-25T13:41:03.077Z",
+    "controlDate": "2023-06-01T10:15:17.678Z",
     "state": "active"
   },
   {
@@ -98944,7 +98945,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-26T10:26:25.815Z",
+    "controlDate": "2023-06-01T10:32:22.771Z",
     "state": "active"
   },
   {
@@ -99924,7 +99925,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-26T10:37:11.820Z",
+    "controlDate": "2023-06-01T10:45:08.943Z",
     "state": "active"
   },
   {
@@ -105268,7 +105269,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-24T14:45:26.069Z",
+    "controlDate": "2023-06-01T10:47:54.489Z",
     "state": "active"
   },
   {
@@ -106732,7 +106733,7 @@
     "rfStatewide": false,
     "name": "Höchster Kreisblatt",
     "type": "print",
-    "controlDate": "2022-11-07T09:15:39.217Z",
+    "controlDate": "2023-06-01T13:01:19.748Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -106752,7 +106753,7 @@
     "rfStatewide": false,
     "name": "Taunus Zeitung",
     "type": "print",
-    "controlDate": "2023-01-04T11:59:18.473Z",
+    "controlDate": "2023-06-01T13:01:32.916Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -106815,7 +106816,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-25T10:47:56.900Z",
+    "controlDate": "2023-06-01T13:01:51.124Z",
     "state": "active"
   },
   {
@@ -109924,7 +109925,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-10-24T08:45:07.950Z",
+    "controlDate": "2023-06-01T10:10:48.389Z",
     "state": "active"
   },
   {
@@ -109942,7 +109943,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2022-11-04T11:07:07.175Z",
+    "controlDate": "2023-06-01T10:11:31.243Z",
     "state": "active"
   },
   {
@@ -117387,7 +117388,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5c544a74-890b-4f24-9000-2e5dad3cbcb7",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -124162,7 +124163,7 @@
     "name": "www.fcbayern.com/fcbayerntv/de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-25T09:25:50.387Z",
+    "controlDate": "2023-06-01T09:52:14.091Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -124218,7 +124219,7 @@
     "name": "www.filstalwelle.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-26T10:12:08.393Z",
+    "controlDate": "2023-06-01T10:24:46.921Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -129869,7 +129870,7 @@
     "name": "www.radiofrankfurt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-12-07T10:39:22.408Z",
+    "controlDate": "2023-06-01T12:42:01.693Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134448,7 +134449,7 @@
     "name": "Focus E-Bike",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2022-10-24T15:15:44.660Z",
+    "controlDate": "2023-06-01T11:26:00.276Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136554,7 +136555,7 @@
     "name": "www.freiburger-wochenbericht.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2023-01-18T11:14:41.667Z",
+    "controlDate": "2023-06-01T13:30:46.726Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139475,6 +139476,23 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.fcbayern.com/de/club/bayern-magazin",
+    "type": "online",
+    "squuid": "64786abe-0b1e-4839-b125-588453969aae",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "5f969c54-2156-4b3b-95ea-238827270b6b",
     "organization": {
@@ -139711,7 +139729,7 @@
     "name": "www.frf24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-27T08:37:42.357Z",
+    "controlDate": "2023-06-01T13:58:15.777Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142557,6 +142575,30 @@
   },
   {
     "state": "active",
+    "squuid": "64789d04-193f-43b4-9084-2aea30d81703",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.glutenfree-magazin.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2023-06-01T13:28:43.653Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "61545c05-2c61-4e95-8ba5-8734b86c6539",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -144094,7 +144136,7 @@
   },
   {
     "pressPublishingIntervals": 2,
-    "state": "active",
+    "state": "archived",
     "squuid": "62eced7e-e0d8-4441-b41f-9ff345d04800",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -144104,7 +144146,7 @@
     "name": "Focus fit und gesund",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2022-08-05T10:14:27.294Z",
+    "controlDate": "2023-06-01T11:30:14.538Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144609,7 +144651,7 @@
     "name": "www.fupa.net/region/sachsen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2022-10-27T10:42:46.189Z",
+    "controlDate": "2023-06-01T11:47:30.186Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

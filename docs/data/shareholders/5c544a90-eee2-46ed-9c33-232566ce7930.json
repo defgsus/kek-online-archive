@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "FM Autoportal GmbH",
-        "squuid": "5c544a85-cfab-4ede-ab3c-4dec658b27a3"
-      },
-      "squuid": "5c544b4a-396e-4aa2-a03b-f95c6422114b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Berlin",
-  "pseudoCompany": false,
   "name": "Mertens, Frank",
-  "naturalPerson": true,
-  "squuid": "5c544a90-eee2-46ed-9c33-232566ce7930",
+  "pseudoCompany": false,
   "controlDate": "2019-07-03T14:49:10.078Z",
+  "squuid": "5c544a90-eee2-46ed-9c33-232566ce7930",
+  "city": "Berlin",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "state": "archived",
+  "naturalPerson": true
 }
