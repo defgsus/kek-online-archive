@@ -3,11 +3,21 @@
   "squuid": "60093f50-b5c8-45f8-84cb-1df76845a7c2",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.oldiewelle.com",
+        "squuid": "5f9177bf-127f-4f91-9b9f-01bbc6deae08"
+      },
+      "squuid": "647a0228-b3b8-4562-8c59-7bcd6315ac0c",
+      "state": "active"
+    }
+  ]
 }

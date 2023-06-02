@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Ismaning",
   "pseudoCompany": false,
   "street": "Münchener Straße",
@@ -10,42 +10,11 @@
   "streetNumber": "101/09",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "85737",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.gong.de",
-        "squuid": "62ab4068-85ac-4a53-9251-605fa75ee961"
-      },
-      "squuid": "62fcef19-c8a3-44cf-984d-e49092ba4936",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.tvfuermich.de",
-        "squuid": "5be1a6b1-3215-47af-b55e-89016600d584"
-      },
-      "squuid": "62fcf217-5da5-4ff6-9df4-6974752839cd",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Gong Verlag GmbH",
-        "squuid": "5be1a6b6-53f8-4684-b1de-1947f404b78f"
-      },
-      "squuid": "5e219c1f-4130-4961-b10f-8ed492a19ad4",
-      "state": "active"
-    }
-  ]
+  "zipcode": "85737"
 }
