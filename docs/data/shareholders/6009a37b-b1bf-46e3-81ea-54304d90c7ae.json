@@ -19,7 +19,7 @@
   "name": "Gerhard Borchers Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "6009a37b-b1bf-46e3-81ea-54304d90c7ae",
-  "controlDate": "2022-09-08T11:50:39.655Z",
+  "controlDate": "2023-06-06T13:44:19.892Z",
   "streetNumber": "40",
   "organizations": [
     {
@@ -39,5 +39,17 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "74592"
+  "zipcode": "74592",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Borchers, Gerhard",
+        "squuid": "5c655e1b-c0f4-40f4-a83e-ce7fad58eae7"
+      },
+      "squuid": "6319d747-80f9-4d20-8c0c-704bf4c4a3d4",
+      "state": "active"
+    }
+  ]
 }

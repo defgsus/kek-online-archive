@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Velgast",
   "pseudoCompany": false,
   "street": "Hauptstr.",
@@ -10,21 +10,11 @@
   "streetNumber": "31",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "18469",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.grimmen.tv",
-        "squuid": "5f2027f6-2156-4b2b-9a4f-4f4311dcaec9"
-      },
-      "squuid": "5f202835-884f-4184-afe7-56ebdef4819b",
-      "state": "active"
-    }
-  ]
+  "zipcode": "18469"
 }
