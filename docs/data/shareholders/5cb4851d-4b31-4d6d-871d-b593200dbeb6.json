@@ -1,8 +1,12 @@
 {
-  "name": "Freies BürgerRadio Slubfurt e.V.",
-  "pseudoCompany": false,
-  "squuid": "5cb4851d-4b31-4d6d-871d-b593200dbeb6",
+  "state": "active",
   "city": "Frankfurt/Oder",
+  "pseudoCompany": false,
+  "street": "Am Kleitspark ",
+  "name": "Freies BürgerRadio Slubfurt e.V.",
+  "naturalPerson": false,
+  "squuid": "5cb4851d-4b31-4d6d-871d-b593200dbeb6",
+  "streetNumber": "12",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -16,7 +20,7 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "state": "active",
+  "zipcode": "15230",
   "operates": [
     {
       "type": "operate",
@@ -35,7 +39,33 @@
       },
       "squuid": "5f96bbc7-f377-442b-99a2-b93cf300153d",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Ginseng",
+        "squuid": "5f056a13-fee7-48b8-9aa1-71e85a5a73a1"
+      },
+      "squuid": "64804542-7441-49a2-ba7a-e60cae8d03f9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Woltersdorf",
+        "squuid": "64804631-e2a2-4bf8-854c-7ccc19c2216b"
+      },
+      "squuid": "64804756-0628-4b2b-b029-d5f861cc6e33",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radiokombinat Brandenburg",
+        "squuid": "648047bc-feb3-4f1c-812c-6d7590522952"
+      },
+      "squuid": "648048ef-1606-4862-919b-81364a900916",
+      "state": "active"
     }
-  ],
-  "naturalPerson": false
+  ]
 }

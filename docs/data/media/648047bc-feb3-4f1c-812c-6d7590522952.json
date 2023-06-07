@@ -1,0 +1,50 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "31.05.2023",
+  "squuid": "648047bc-feb3-4f1c-812c-6d7590522952",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Freies BürgerRadio Slubfurt e.V.",
+        "squuid": "5cb4851d-4b31-4d6d-871d-b593200dbeb6"
+      },
+      "squuid": "648048ef-1606-4862-919b-81364a900916",
+      "state": "active"
+    }
+  ],
+  "name": "Radiokombinat Brandenburg",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "rfLicenseUntil": "31.12.2024",
+  "rfLicensed": "28.04.2023",
+  "rfLicenseFrom": "01.01.2024",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

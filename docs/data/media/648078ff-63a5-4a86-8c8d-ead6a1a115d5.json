@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "648078ff-63a5-4a86-8c8d-ead6a1a115d5",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Heidenheimer Zeitung GmbH & Co KG",
+        "squuid": "5be1a6b6-ed0e-4ba4-8ca3-c1e11c5e420b"
+      },
+      "squuid": "64807915-3cbb-4118-a094-cd2cf9065591",
+      "state": "active"
+    }
+  ],
+  "name": "www.hz.de/noise",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-06-07T12:33:07.520Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "SKB Stadtfernsehen - Kabelrundfunk Brandenburg a. d. Havel GmbH",
+        "squuid": "5c5d547b-f7b9-4e0f-8b71-950463a5dbec"
+      },
+      "squuid": "63c80df1-4488-4dbd-a9bc-f770840287bc",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Potsdam",
   "pseudoCompany": false,
@@ -6,7 +18,7 @@
   "name": "Hauptstadt TV GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-0925-4614-bd1c-0b8415ce30fa",
-  "controlDate": "2022-11-03T13:19:47.065Z",
+  "controlDate": "2023-06-07T11:26:21.470Z",
   "streetNumber": "7",
   "organizations": [
     {
@@ -46,32 +58,12 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 48.0,
-      "holder": {
-        "name": "Hoffbauer-Stiftung",
-        "squuid": "5be1a6b6-04e5-4ab5-8e72-b1371ad61c50"
-      },
-      "squuid": "5be1a6b7-4ae6-4f5f-928b-20250140d9e2",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 26.0,
+      "capitalShares": 100.0,
       "holder": {
         "name": "Pösselt, Ullrich",
         "squuid": "5f0588a9-00f6-4a40-9bd3-77c534779af4"
       },
       "squuid": "5f058958-75fa-4470-bbf4-ebdccb37be61",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 26.0,
-      "holder": {
-        "name": "Horlitz Unternehmensberatungs- und Vermögensverwaltungsgesellschaft mbH",
-        "squuid": "62c70be1-213b-4c54-8594-e0f3c01f8ba8"
-      },
-      "squuid": "62c70c07-a881-4637-95fe-2fc133ebbee5",
       "state": "active"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Nierstein",
   "pseudoCompany": false,
   "street": "Rheinallee 60",
@@ -9,82 +9,12 @@
   "controlDate": "2022-09-19T12:26:19.743Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "55283",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.azubiworld.com",
-        "squuid": "5be1a6b1-89b9-4ff8-bde2-d6c8c7df1398"
-      },
-      "squuid": "5be1a6b9-4e9d-488e-95ac-0c8cfcfcd50a",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.spielfilm.de",
-        "squuid": "5be1a6b1-1109-45c2-ae2c-1376d813d5b0"
-      },
-      "squuid": "5be1a6b9-f3c5-4dda-8f13-6cf38e5161e1",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.baumagazin.de",
-        "squuid": "5be1a6b1-fce8-4925-8057-1dea48ea149d"
-      },
-      "squuid": "5be1a6b9-5b17-434e-8dbc-8bd822420b24",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 16.0,
-      "holder": {
-        "name": "Saal, Daniel",
-        "squuid": "5be1a6b6-99af-4f2b-bc54-d88c46265e50"
-      },
-      "squuid": "5be1a6b8-7a21-4ceb-8154-b319a7d05ddd",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 16.0,
-      "holder": {
-        "name": "Küenle, Andreas",
-        "squuid": "5be1a6b6-7394-4bc2-ac85-b6d22a260179"
-      },
-      "squuid": "5be1a6b8-1eb2-48d3-8e43-d2543c9c7368",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 16.0,
-      "holder": {
-        "name": "Schramm, Marcel",
-        "squuid": "5be1a6b6-9c3a-4683-ab01-0389ab21200f"
-      },
-      "squuid": "5be1a6b8-54cb-4d9f-aaf7-cad5c37926cc",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 52.0,
-      "holder": {
-        "name": "Nagel, Jutta",
-        "squuid": "5be1a6b6-d815-4de6-89a5-e743ffd29db2"
-      },
-      "squuid": "5eecb527-ba45-43ff-bb79-40f911190b08",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
