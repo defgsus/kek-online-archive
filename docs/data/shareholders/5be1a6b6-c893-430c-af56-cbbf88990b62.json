@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 15.0,
-      "held": {
-        "name": "Zeitschriften VVG Verlags- und Verwaltungsgesellschaft mbH & Co KG",
-        "squuid": "5be1a6b6-6adf-4bf6-843a-7d94dc355999"
-      },
-      "squuid": "5be1a6b8-70f6-40ee-9d2d-2f70a58d94ef",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Bad Homburg",
   "pseudoCompany": false,
   "street": "Siemensstr.",
@@ -22,43 +10,12 @@
   "streetNumber": "6",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "61352",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 33.33,
-      "holder": {
-        "name": "Kuhn, Thomas",
-        "squuid": "5be1a6b6-bda1-4581-a9ad-8ade349be4f6"
-      },
-      "squuid": "5be1a6b8-d4bd-4fb2-902d-a78902edc452",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 33.33,
-      "holder": {
-        "name": "Kuhn, Michael",
-        "squuid": "5be1a6b6-7d53-40b3-b91e-acf587a8f7a6"
-      },
-      "squuid": "5be1a6b8-e275-4b07-9ace-7a40d0bb3234",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 33.33,
-      "holder": {
-        "name": "Kuhn, Stefan",
-        "squuid": "5be1a6b6-a373-4f87-85e9-22506188ea1e"
-      },
-      "squuid": "5be1a6b8-0f53-4c5c-9bbd-e90f7d85a191",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

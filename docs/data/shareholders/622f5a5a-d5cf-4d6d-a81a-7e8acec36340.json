@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "held": {
-        "name": "Deutsche Medienportale GmbH",
-        "squuid": "622f58e1-052f-4e6d-98e1-ec06880fa411"
-      },
-      "squuid": "622f5a93-4065-4d91-8f75-f4c2a1e7f506",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Axel-Springer-Straße",
@@ -28,27 +16,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "10969",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 65.0,
-      "holder": {
-        "name": "Wünsch, Marko",
-        "squuid": "5be1a6b6-d974-406d-a54d-dfac2ab1a8ed"
-      },
-      "squuid": "622f5ba5-29bd-417b-84c5-ee3a42f29336",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 30.0,
-      "holder": {
-        "name": "Otremba, Ken",
-        "squuid": "622f5c2f-6991-4033-bcf2-d21ee4d1f4b9"
-      },
-      "squuid": "622f5c51-1cd8-4598-a73b-9070b0e010b8",
-      "state": "active"
-    }
-  ]
+  "zipcode": "10969"
 }

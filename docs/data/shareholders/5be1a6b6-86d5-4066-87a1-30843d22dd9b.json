@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Arabellastraße",
@@ -11,44 +11,12 @@
   "streetNumber": "23",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "81925",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.bongusto.de",
-        "squuid": "5f116362-b081-45c9-836b-840dad2e40ba"
-      },
-      "squuid": "5f1163a8-f475-4c1e-b915-9032752ec8f5",
-      "state": "active"
-    }
-  ],
-  "credits": "Beschluss der KEK vom 13.06.2017, Az.: KEK 919, und Bescheid der LfM vom 11.07.2017",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 16.5,
-      "holder": {
-        "name": "Schütte, Jörg",
-        "squuid": "5be1a6b6-884e-4c49-83ab-18ecc01e91c5"
-      },
-      "squuid": "5be1a6b7-887a-421a-a3e5-cfff397beb40",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 83.5,
-      "holder": {
-        "name": "Burda Studios GmbH",
-        "squuid": "5be1a6b6-4c91-4595-bb0c-8cbcd2ded565"
-      },
-      "squuid": "5be1a6b7-eab6-483e-8766-8abd82316e6b",
-      "state": "active"
-    }
-  ]
+  "credits": "Beschluss der KEK vom 13.06.2017, Az.: KEK 919, und Bescheid der LfM vom 11.07.2017"
 }

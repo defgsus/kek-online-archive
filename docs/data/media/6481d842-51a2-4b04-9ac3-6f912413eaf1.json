@@ -1,7 +1,7 @@
 {
   "state": "active",
-  "squuid": "5d36ee2b-825b-46b4-bd4b-c852b7719957",
-  "marketReach": 0.06408865443484833,
+  "onlineAsOfDateIVW": "3/23",
+  "squuid": "6481d842-51a2-4b04-9ac3-6f912413eaf1",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -11,17 +11,18 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Bundesministerium für Arbeit und Soziales (BMAS)/Öffentlichkeitsarbeit und Internet",
-        "squuid": "5d36ed5f-dec6-4fe9-95f4-a3428249db06"
+        "name": "Weka Media Publishing GmbH",
+        "squuid": "5be1a6b6-d7e5-4290-beef-98e4db08cdd1"
       },
-      "squuid": "5d36ee52-5deb-4570-86df-5177143c27c4",
+      "squuid": "6481d8c2-9534-4bb2-aa11-113f5fbabc10",
       "state": "active"
     }
   ],
-  "name": "www.bmas.de",
+  "name": "www.connect-living.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-06-08T09:07:09.707Z",
+  "controlDate": "2023-06-08T13:32:58.277Z",
+  "onlineIVWPI": 3401700,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -32,5 +33,6 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 1326000
 }

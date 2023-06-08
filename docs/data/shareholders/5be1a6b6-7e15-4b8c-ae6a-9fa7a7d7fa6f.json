@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Bad Homburg",
   "note": "Seit Juni 2022 im Insolvenzverfahren",
   "pseudoCompany": false,
@@ -10,44 +10,12 @@
   "controlDate": "2022-09-06T14:26:09.988Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "61352",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.bleibgesund.de",
-        "squuid": "62336368-9dcc-4a38-9ab5-aa7e8ad7a67a"
-      },
-      "squuid": "62336381-4b4f-461d-9857-1f5152b71a43",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "VVG Gesellschaft zur Verlagsbeteiligung und Verwaltung mbH",
-        "squuid": "5be1a6b6-9ff8-4350-b65a-f586658d2ba5"
-      },
-      "squuid": "5be1a6b8-d1a8-4845-8b46-4dfd19d46d11",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Zeitschriften VVG Verlags- und Verwaltungsgesellschaft mbH & Co KG",
-        "squuid": "5be1a6b6-6adf-4bf6-843a-7d94dc355999"
-      },
-      "squuid": "5be1a6b8-932d-421a-99b4-e3a1feb27485",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
