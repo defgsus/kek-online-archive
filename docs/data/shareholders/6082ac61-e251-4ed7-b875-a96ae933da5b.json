@@ -1,375 +1,370 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 5.8,
-      "held": {
-        "name": "Interactive Media CCSP GmbH",
-        "squuid": "6082ab8f-1306-4342-8d34-3e17040975c5"
+  "schema": "{#schema.core.OptionalKey{:k :profile/operatedBy} [{#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :relation/holder} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/held} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, #schema.core.OptionalKey{:k :relation/squuid} Uuid, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active), #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}], #schema.core.OptionalKey{:k :shareholder/zipcode} java.lang.String, #schema.core.OptionalKey{:k :shareholder/note} java.lang.String, #schema.core.OptionalKey{:k :shareholder/corporationName} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/pseudoCompany} java.lang.Boolean, #schema.core.OptionalKey{:k :shareholder/limitedPartnership} java.lang.Boolean, #schema.core.OptionalKey{:k :item/controlDate} java.util.Date, #schema.core.OptionalKey{:k :shareholder/street} java.lang.String, #schema.core.OptionalKey{:k :shareholder/supplierConsortium} java.lang.Boolean, #schema.core.OptionalKey{:k :profile/ownedBy} [{#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :relation/holder} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/held} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, #schema.core.OptionalKey{:k :relation/squuid} Uuid, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active), #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}], #schema.core.OptionalKey{:k :item/archiveDate} java.util.Date, :shareholder/squuid Uuid, #schema.core.OptionalKey{:k :shareholder/placeOfBusiness} java.lang.String, #schema.core.OptionalKey{:k :profile/owns} [{#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :relation/holder} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/held} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, #schema.core.OptionalKey{:k :relation/squuid} Uuid, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active), #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}], #schema.core.OptionalKey{:k :shareholder/credits} java.lang.String, #schema.core.OptionalKey{:k :shareholder/city} java.lang.String, #schema.core.OptionalKey{:k :shareholder/co} java.lang.String, :shareholder/organizations [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active), #schema.core.OptionalKey{:k :shareholder/streetNumber} java.lang.String, #schema.core.OptionalKey{:k :profile/operates} [{#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :relation/holder} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/held} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, #schema.core.OptionalKey{:k :relation/squuid} Uuid, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active), #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}], #schema.core.OptionalKey{:k :shareholder/otherMediaActivities} java.lang.String, #schema.core.OptionalKey{:k :shareholder/naturalPerson} java.lang.Boolean}",
+  "errors": {
+    "organizations": "missing-required-key"
+  },
+  "type": "compojure.api.exception/response-validation",
+  "coercion": "schema",
+  "value": {
+    "owns": [
+      {
+        "squuid": "6086acc7-40e0-4121-9e78-16bb51e516e5",
+        "type": "own",
+        "capitalShares": 100.0,
+        "state": "active",
+        "held": {
+          "squuid": "6082ac89-3710-415d-a512-b67fcefe233c",
+          "name": "OMS-Online Marketing Service Beteiligungsgesellschaft mbH"
+        }
+      }
+    ],
+    "state": "active",
+    "city": "Düsseldorf",
+    "pseudoCompany": false,
+    "street": "Theodorstr.",
+    "name": "OMS-Online Marketing Service GmbH & Co. KG",
+    "naturalPerson": false,
+    "limitedPartnership": true,
+    "squuid": "6082ac61-e251-4ed7-b875-a96ae933da5b",
+    "controlDate": "2023-01-16T10:30:38.007Z",
+    "streetNumber": "180",
+    "zipcode": "40472",
+    "ownedBy": [
+      {
+        "squuid": "6086a57c-c052-4502-b34b-8ab4ccccb4dd",
+        "type": "own",
+        "complementaryPartner": true,
+        "capitalShares": 0.0,
+        "state": "active",
+        "holder": {
+          "squuid": "6082ac89-3710-415d-a512-b67fcefe233c",
+          "name": "OMS-Online Marketing Service Beteiligungsgesellschaft mbH"
+        }
       },
-      "squuid": "6082accb-7a3a-43b0-8cad-584337eb9a0d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "OMS-Online Marketing Service Beteiligungsgesellschaft mbH",
-        "squuid": "6082ac89-3710-415d-a512-b67fcefe233c"
+      {
+        "squuid": "6086a5aa-6e5a-4a43-b2bf-8772882c8599",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c",
+          "name": "Aschendorff Medien GmbH & Co. KG"
+        }
       },
-      "squuid": "6086acc7-40e0-4121-9e78-16bb51e516e5",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Düsseldorf",
-  "pseudoCompany": false,
-  "street": "Theodorstr.",
-  "name": "OMS-Online Marketing Service GmbH & Co. KG",
-  "naturalPerson": false,
-  "limitedPartnership": true,
-  "squuid": "6082ac61-e251-4ed7-b875-a96ae933da5b",
-  "controlDate": "2023-01-16T10:30:38.007Z",
-  "streetNumber": "180",
-  "organizations": [
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    }
-  ],
-  "zipcode": "40472",
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "OMS-Online Marketing Service Beteiligungsgesellschaft mbH",
-        "squuid": "6082ac89-3710-415d-a512-b67fcefe233c"
+      {
+        "squuid": "6086a5c7-1f9a-4482-9b84-7dcdc08be6af",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-5fcf-417d-a43e-0cb555c0d424",
+          "name": "Badischer Verlag GmbH & Co KG"
+        }
       },
-      "squuid": "6086a57c-c052-4502-b34b-8ab4ccccb4dd",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "Aschendorff Medien GmbH & Co. KG",
-        "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c"
+      {
+        "squuid": "6086a5e4-2744-4abe-982d-d1f1627ac815",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-f22b-4544-889f-d31615692dc4",
+          "name": "Cl. Attenkofer'sche Buch- und Kunstdruckerei Verlagsbuchhandlung Straubing KG"
+        }
       },
-      "squuid": "6086a5aa-6e5a-4a43-b2bf-8772882c8599",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "Badischer Verlag GmbH & Co KG",
-        "squuid": "5be1a6b6-5fcf-417d-a43e-0cb555c0d424"
+      {
+        "squuid": "6086a602-97dd-4b8b-89c3-01021cddb0d1",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-f74a-4cc9-8e59-248e7f10c1a5",
+          "name": "Dr. Haas GmbH"
+        }
       },
-      "squuid": "6086a5c7-1f9a-4482-9b84-7dcdc08be6af",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "Cl. Attenkofer'sche Buch- und Kunstdruckerei Verlagsbuchhandlung Straubing KG",
-        "squuid": "5be1a6b6-f22b-4544-889f-d31615692dc4"
+      {
+        "squuid": "6086a624-f4c5-4ff0-b445-63b09d15c87c",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-73f5-4250-97c6-a6bfa6880234",
+          "name": "Frankenpost Verlag GmbH"
+        }
       },
-      "squuid": "6086a5e4-2744-4abe-982d-d1f1627ac815",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "Dr. Haas GmbH",
-        "squuid": "5be1a6b6-f74a-4cc9-8e59-248e7f10c1a5"
+      {
+        "squuid": "6086a63f-06c4-41bb-b7b6-d409092e0560",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5df8d245-a28a-4a77-8e51-8e4f9582e2b7",
+          "name": "General-Anzeiger Bonn GmbH"
+        }
       },
-      "squuid": "6086a602-97dd-4b8b-89c3-01021cddb0d1",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "Frankenpost Verlag GmbH",
-        "squuid": "5be1a6b6-73f5-4250-97c6-a6bfa6880234"
+      {
+        "squuid": "6086a652-2c5b-4ffa-8169-89d6b00451c3",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-4101-48cc-94c1-224d9edfe288",
+          "name": "Heilbronner Stimme GmbH & Co KG"
+        }
       },
-      "squuid": "6086a624-f4c5-4ff0-b445-63b09d15c87c",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "General-Anzeiger Bonn GmbH",
-        "squuid": "5df8d245-a28a-4a77-8e51-8e4f9582e2b7"
+      {
+        "squuid": "6086a671-a3f7-4cdf-9225-cbce416ed322",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-e3d7-48f4-a702-9fec71b10041",
+          "name": "Leipziger Verlags- und Druckereigesellschaft mbH & Co. KG"
+        }
       },
-      "squuid": "6086a63f-06c4-41bb-b7b6-d409092e0560",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "Heilbronner Stimme GmbH & Co KG",
-        "squuid": "5be1a6b6-4101-48cc-94c1-224d9edfe288"
+      {
+        "squuid": "6086a698-904f-42cb-aa65-6cd814b5af5e",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-0200-4a40-921b-ce08c00a32ac",
+          "name": "Medienhaus Aachen GmbH"
+        }
       },
-      "squuid": "6086a652-2c5b-4ffa-8169-89d6b00451c3",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "Leipziger Verlags- und Druckereigesellschaft mbH & Co. KG",
-        "squuid": "5be1a6b6-e3d7-48f4-a702-9fec71b10041"
+      {
+        "squuid": "6086a6b8-35bf-425c-bfcd-64d8e43ba47a",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1",
+          "name": "Münchener Zeitungs-Verlag GmbH & Co. KG"
+        }
       },
-      "squuid": "6086a671-a3f7-4cdf-9225-cbce416ed322",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "Medienhaus Aachen GmbH",
-        "squuid": "5be1a6b6-0200-4a40-921b-ce08c00a32ac"
+      {
+        "squuid": "6086a6d2-6b4b-450c-8de9-7485c40ae40d",
+        "type": "own",
+        "capitalShares": 0.05,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-efc8-47d9-8b22-b1cb175ddbbe",
+          "name": "Echo Zeitungen GmbH"
+        }
       },
-      "squuid": "6086a698-904f-42cb-aa65-6cd814b5af5e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "Münchener Zeitungs-Verlag GmbH & Co. KG",
-        "squuid": "5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1"
+      {
+        "squuid": "6086a73d-e815-4e24-809a-5376c295484e",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-9a6a-4235-a5d2-f080b726ddef",
+          "name": "Neue Pressegesellschaft mbH & Co. KG"
+        }
       },
-      "squuid": "6086a6b8-35bf-425c-bfcd-64d8e43ba47a",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.05,
-      "holder": {
-        "name": "Echo Zeitungen GmbH",
-        "squuid": "5be1a6b6-efc8-47d9-8b22-b1cb175ddbbe"
+      {
+        "squuid": "6086a761-a346-421b-8053-6d5017f27d6a",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f",
+          "name": "Passauer Neue Presse GmbH"
+        }
       },
-      "squuid": "6086a6d2-6b4b-450c-8de9-7485c40ae40d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "Neue Pressegesellschaft mbH & Co. KG",
-        "squuid": "5be1a6b6-9a6a-4235-a5d2-f080b726ddef"
+      {
+        "squuid": "6086a78e-387d-41ca-8610-bbb8ca8bf85c",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6",
+          "name": "Presse-Druck- und Verlags-GmbH"
+        }
       },
-      "squuid": "6086a73d-e815-4e24-809a-5376c295484e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "Passauer Neue Presse GmbH",
-        "squuid": "5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
+      {
+        "squuid": "6086a7ab-495a-47cd-9ce8-b33a3a81ee22",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-0812-4100-b36e-793f33daf6b0",
+          "name": "RP Digital GmbH"
+        }
       },
-      "squuid": "6086a761-a346-421b-8053-6d5017f27d6a",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "Presse-Druck- und Verlags-GmbH",
-        "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
+      {
+        "squuid": "6086a7c3-277b-4db6-97f3-c62c535dcdad",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-2e57-495f-afbc-e091b08abc00",
+          "name": "Remscheider Medienhaus GmbH & Co. KG"
+        }
       },
-      "squuid": "6086a78e-387d-41ca-8610-bbb8ca8bf85c",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "RP Digital GmbH",
-        "squuid": "5be1a6b6-0812-4100-b36e-793f33daf6b0"
+      {
+        "squuid": "6086a7e2-0c2f-41df-b7a7-dde2bd1bad8f",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-63c7-407b-b983-bdf7d0a4327d",
+          "name": "Schwarzwälder Bote Mediengesellschaft mbH"
+        }
       },
-      "squuid": "6086a7ab-495a-47cd-9ce8-b33a3a81ee22",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "Remscheider Medienhaus GmbH & Co. KG",
-        "squuid": "5be1a6b6-2e57-495f-afbc-e091b08abc00"
+      {
+        "squuid": "6086a80a-7fe8-478f-9e11-c846dc42de48",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-29a2-48cb-b73e-40122f032f42",
+          "name": "SV Medienproduktion GmbH & Co KG"
+        }
       },
-      "squuid": "6086a7c3-277b-4db6-97f3-c62c535dcdad",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "Schwarzwälder Bote Mediengesellschaft mbH",
-        "squuid": "5be1a6b6-63c7-407b-b983-bdf7d0a4327d"
+      {
+        "squuid": "6086a837-4a05-49f9-87ac-c2ee6509a07f",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-dbc4-427d-afe3-fd230ac2eeb8",
+          "name": "Verlag Nürnberger Presse Druckhaus Nürnberg GmbH & Co KG"
+        }
       },
-      "squuid": "6086a7e2-0c2f-41df-b7a7-dde2bd1bad8f",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "SV Medienproduktion GmbH & Co KG",
-        "squuid": "5be1a6b6-29a2-48cb-b73e-40122f032f42"
+      {
+        "squuid": "6086a847-fa10-4560-937f-c005a4b18ea9",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e",
+          "name": "Verlagsgesellschaft Madsack GmbH & Co. KG"
+        }
       },
-      "squuid": "6086a80a-7fe8-478f-9e11-c846dc42de48",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "Verlag Nürnberger Presse Druckhaus Nürnberg GmbH & Co KG",
-        "squuid": "5be1a6b6-dbc4-427d-afe3-fd230ac2eeb8"
+      {
+        "squuid": "6086a86a-9b60-4283-8665-743e6ddcadb7",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-415d-4a70-8991-2d894c374633",
+          "name": "Westdeutsche Zeitung GmbH & Co KG"
+        }
       },
-      "squuid": "6086a837-4a05-49f9-87ac-c2ee6509a07f",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
-        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      {
+        "squuid": "6086a888-8a1a-4ca1-8d2f-2d64d364a250",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "5d4162e3-7faf-4b3e-897d-fc105ba0eed8",
+          "name": "Medien Hub Bremen-Nordwest GmbH"
+        }
       },
-      "squuid": "6086a847-fa10-4560-937f-c005a4b18ea9",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "Westdeutsche Zeitung GmbH & Co KG",
-        "squuid": "5be1a6b6-415d-4a70-8991-2d894c374633"
+      {
+        "squuid": "6086ad46-b950-4a9c-9196-0bd0de5d9d7b",
+        "type": "own",
+        "capitalShares": 0.05,
+        "state": "active",
+        "holder": {
+          "squuid": "6086ad2a-6104-438a-9911-c891c262b657",
+          "name": "Donau Online GmbH"
+        }
       },
-      "squuid": "6086a86a-9b60-4283-8665-743e6ddcadb7",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "Medien Hub Bremen-Nordwest GmbH",
-        "squuid": "5d4162e3-7faf-4b3e-897d-fc105ba0eed8"
+      {
+        "squuid": "6086ae76-c4e5-4c09-ade5-d4df0f1243e9",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "6086ae5b-5910-4d1d-9c23-bb4cb2a81acd",
+          "name": "MHS Digital GmbH"
+        }
       },
-      "squuid": "6086a888-8a1a-4ca1-8d2f-2d64d364a250",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.05,
-      "holder": {
-        "name": "Donau Online GmbH",
-        "squuid": "6086ad2a-6104-438a-9911-c891c262b657"
+      {
+        "squuid": "6086afc1-22ad-4ff0-ac28-a51461e9adec",
+        "type": "own",
+        "capitalShares": 0.05,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-4ee8-46d0-8536-8c87c634d596",
+          "name": "Mitteldeutsche Verlags- und Druckhaus GmbH"
+        }
       },
-      "squuid": "6086ad46-b950-4a9c-9196-0bd0de5d9d7b",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "MHS Digital GmbH",
-        "squuid": "6086ae5b-5910-4d1d-9c23-bb4cb2a81acd"
+      {
+        "squuid": "6086b032-4893-4e49-9310-780f2d69e811",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "6086b017-2ec8-4344-a998-4bc0af8d8e9a",
+          "name": "OWL-Digital GmbH & Co. KG"
+        }
       },
-      "squuid": "6086ae76-c4e5-4c09-ade5-d4df0f1243e9",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.05,
-      "holder": {
-        "name": "Mitteldeutsche Verlags- und Druckhaus GmbH",
-        "squuid": "5be1a6b6-4ee8-46d0-8536-8c87c634d596"
+      {
+        "squuid": "6086b2b8-09d2-4a22-aef5-e0b4574e1b42",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "6086b268-cbce-4cd7-9cc2-c13c110946f3",
+          "name": "ProServ GmbH & Co. KG"
+        }
       },
-      "squuid": "6086afc1-22ad-4ff0-ac28-a51461e9adec",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "OWL-Digital GmbH & Co. KG",
-        "squuid": "6086b017-2ec8-4344-a998-4bc0af8d8e9a"
+      {
+        "squuid": "6086b4d1-6461-49ea-8c69-3d20d361f99a",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "6086b4b6-34ac-4d4c-be61-cc7a83707cb7",
+          "name": "Rhein-Main.Net GmbH"
+        }
       },
-      "squuid": "6086b032-4893-4e49-9310-780f2d69e811",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "ProServ GmbH & Co. KG",
-        "squuid": "6086b268-cbce-4cd7-9cc2-c13c110946f3"
+      {
+        "squuid": "6086b5cb-4ea0-47b2-910f-66fdc856a44c",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "holder": {
+          "squuid": "6086b5af-421f-4e0e-861b-c56a1fa49b0c",
+          "name": "Temming Produktionsgesellschaft mbH"
+        }
       },
-      "squuid": "6086b2b8-09d2-4a22-aef5-e0b4574e1b42",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "Rhein-Main.Net GmbH",
-        "squuid": "6086b4b6-34ac-4d4c-be61-cc7a83707cb7"
+      {
+        "squuid": "6086b902-1161-4f42-9797-e572247197f8",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "6086b8ea-2402-4127-b1c8-de60d1d49e58",
+          "name": "VRM Corporate Solutions GmbH"
+        }
       },
-      "squuid": "6086b4d1-6461-49ea-8c69-3d20d361f99a",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "holder": {
-        "name": "Temming Produktionsgesellschaft mbH",
-        "squuid": "6086b5af-421f-4e0e-861b-c56a1fa49b0c"
+      {
+        "squuid": "6086bb1a-6a76-4adf-8eb4-089452321a89",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "6086baf0-c888-4996-a2e3-7ec0ff1c7b80",
+          "name": "nordclick GmbH & Co. KG"
+        }
       },
-      "squuid": "6086b5cb-4ea0-47b2-910f-66fdc856a44c",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "VRM Corporate Solutions GmbH",
-        "squuid": "6086b8ea-2402-4127-b1c8-de60d1d49e58"
-      },
-      "squuid": "6086b902-1161-4f42-9797-e572247197f8",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "nordclick GmbH & Co. KG",
-        "squuid": "6086baf0-c888-4996-a2e3-7ec0ff1c7b80"
-      },
-      "squuid": "6086bb1a-6a76-4adf-8eb4-089452321a89",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.82,
-      "holder": {
-        "name": "Ruhr-Nachrichten Verlag & Co. KG",
-        "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793"
-      },
-      "squuid": "63c525d0-3eac-4475-a5c1-1e594c67257c",
-      "state": "active"
-    }
+      {
+        "squuid": "63c525d0-3eac-4475-a5c1-1e594c67257c",
+        "type": "own",
+        "capitalShares": 3.82,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793",
+          "name": "Ruhr-Nachrichten Verlag & Co. KG"
+        }
+      }
+    ]
+  },
+  "in": [
+    "response",
+    "body"
   ]
 }

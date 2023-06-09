@@ -1,53 +1,58 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 2.91,
-      "held": {
-        "name": "OMS-Online Marketing Service GmbH & Co. KG",
-        "squuid": "6082ac61-e251-4ed7-b875-a96ae933da5b"
+  "schema": "{#schema.core.OptionalKey{:k :profile/operatedBy} [{#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :relation/holder} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/held} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, #schema.core.OptionalKey{:k :relation/squuid} Uuid, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active), #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}], #schema.core.OptionalKey{:k :shareholder/zipcode} java.lang.String, #schema.core.OptionalKey{:k :shareholder/note} java.lang.String, #schema.core.OptionalKey{:k :shareholder/corporationName} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/pseudoCompany} java.lang.Boolean, #schema.core.OptionalKey{:k :shareholder/limitedPartnership} java.lang.Boolean, #schema.core.OptionalKey{:k :item/controlDate} java.util.Date, #schema.core.OptionalKey{:k :shareholder/street} java.lang.String, #schema.core.OptionalKey{:k :shareholder/supplierConsortium} java.lang.Boolean, #schema.core.OptionalKey{:k :profile/ownedBy} [{#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :relation/holder} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/held} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, #schema.core.OptionalKey{:k :relation/squuid} Uuid, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active), #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}], #schema.core.OptionalKey{:k :item/archiveDate} java.util.Date, :shareholder/squuid Uuid, #schema.core.OptionalKey{:k :shareholder/placeOfBusiness} java.lang.String, #schema.core.OptionalKey{:k :profile/owns} [{#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :relation/holder} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/held} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, #schema.core.OptionalKey{:k :relation/squuid} Uuid, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active), #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}], #schema.core.OptionalKey{:k :shareholder/credits} java.lang.String, #schema.core.OptionalKey{:k :shareholder/city} java.lang.String, #schema.core.OptionalKey{:k :shareholder/co} java.lang.String, :shareholder/organizations [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active), #schema.core.OptionalKey{:k :shareholder/streetNumber} java.lang.String, #schema.core.OptionalKey{:k :profile/operates} [{#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :relation/holder} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/held} {#schema.core.OptionalKey{:k :relation/complementaryPartner} java.lang.Boolean, #schema.core.OptionalKey{:k :relation/type} (enum :own :operate), #schema.core.OptionalKey{:k :relation/capitalShares} java.lang.Double, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :relation/holder} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :item/organizations} [{:preset/squuid Uuid, :preset/name java.lang.String, :preset/type (enum :press-type :program-category :organization :press-magazine-type :online-offer-type :distribution-type :language :broadcast-status :platform-operator), #schema.core.OptionalKey{:k :preset/fullName} java.lang.String, #schema.core.OptionalKey{:k :preset/distributionType} {:preset/squuid java.util.UUID, :preset/name java.lang.String, #schema.core.OptionalKey{:k :preset/type} (eq :distribution-type), #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active)}], #schema.core.OptionalKey{:k :shareholder/name} java.lang.String, #schema.core.OptionalKey{:k :relation/held} {(enum :relation/squuid :media/squuid :shareholder/squuid) Uuid, #schema.core.OptionalKey{:k :media/name} java.lang.String, #schema.core.OptionalKey{:k :shareholder/name} java.lang.String}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, Any Uuid, #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}, #schema.core.OptionalKey{:k :relation/liabilitySum} java.lang.Double, #schema.core.OptionalKey{:k :relation/squuid} Uuid, #schema.core.OptionalKey{:k :item/state} (enum :archived :pending :active), #schema.core.OptionalKey{:k :relation/votingShares} java.lang.Double}], #schema.core.OptionalKey{:k :shareholder/otherMediaActivities} java.lang.String, #schema.core.OptionalKey{:k :shareholder/naturalPerson} java.lang.Boolean}",
+  "errors": {
+    "organizations": "missing-required-key"
+  },
+  "type": "compojure.api.exception/response-validation",
+  "coercion": "schema",
+  "value": {
+    "owns": [
+      {
+        "squuid": "6086a888-8a1a-4ca1-8d2f-2d64d364a250",
+        "type": "own",
+        "capitalShares": 2.91,
+        "state": "active",
+        "held": {
+          "squuid": "6082ac61-e251-4ed7-b875-a96ae933da5b",
+          "name": "OMS-Online Marketing Service GmbH & Co. KG"
+        }
+      }
+    ],
+    "state": "active",
+    "city": "Bremen",
+    "pseudoCompany": false,
+    "street": "Wachtstraße",
+    "name": "Medien Hub Bremen-Nordwest GmbH",
+    "naturalPerson": false,
+    "squuid": "5d4162e3-7faf-4b3e-897d-fc105ba0eed8",
+    "controlDate": "2023-01-12T12:58:23.265Z",
+    "streetNumber": "17-24",
+    "zipcode": "28195",
+    "ownedBy": [
+      {
+        "squuid": "5d416399-cac5-494e-8a92-ab6e1fb404bd",
+        "type": "own",
+        "capitalShares": 50.0,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-d195-4cf4-a6a4-906cfae4b85f",
+          "name": "Bremer Tageszeitungen AG"
+        }
       },
-      "squuid": "6086a888-8a1a-4ca1-8d2f-2d64d364a250",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Bremen",
-  "pseudoCompany": false,
-  "street": "Wachtstraße",
-  "name": "Medien Hub Bremen-Nordwest GmbH",
-  "naturalPerson": false,
-  "squuid": "5d4162e3-7faf-4b3e-897d-fc105ba0eed8",
-  "controlDate": "2023-01-12T12:58:23.265Z",
-  "streetNumber": "17-24",
-  "organizations": [
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    }
-  ],
-  "zipcode": "28195",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Bremer Tageszeitungen AG",
-        "squuid": "5be1a6b6-d195-4cf4-a6a4-906cfae4b85f"
-      },
-      "squuid": "5d416399-cac5-494e-8a92-ab6e1fb404bd",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Nordwest-Zeitung Verlagsgesellschaft mbH & Co KG",
-        "squuid": "5be1a6b6-b2f4-4429-bd16-474ad6037163"
-      },
-      "squuid": "5d4163b1-0d03-4956-87f7-0b1ba924e0fc",
-      "state": "active"
-    }
+      {
+        "squuid": "5d4163b1-0d03-4956-87f7-0b1ba924e0fc",
+        "type": "own",
+        "capitalShares": 50.0,
+        "state": "active",
+        "holder": {
+          "squuid": "5be1a6b6-b2f4-4429-bd16-474ad6037163",
+          "name": "Nordwest-Zeitung Verlagsgesellschaft mbH & Co KG"
+        }
+      }
+    ]
+  },
+  "in": [
+    "response",
+    "body"
   ]
 }
