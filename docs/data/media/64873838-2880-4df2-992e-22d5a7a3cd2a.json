@@ -1,8 +1,6 @@
 {
   "state": "active",
-  "onlineAsOfDateIVW": "",
-  "rfShoppingChannel": false,
-  "squuid": "5be1a6b1-13a8-43ca-b6b4-16b4b0c96138",
+  "squuid": "64873838-2880-4df2-992e-22d5a7a3cd2a",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -12,23 +10,26 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Jahr Artopé Media GmbH & Co. KG",
-        "squuid": "609296a5-9ae9-44d6-99a4-26ad69ecedfb"
+        "name": "Klarner Medien GmbH",
+        "squuid": "5d31b7cf-4501-49b7-aa68-f9b43897b7a1"
       },
-      "squuid": "609297c5-e7c1-45c3-94f8-53e630a6c9a5",
+      "squuid": "64873851-7233-4d23-83cb-1ba2c5665162",
       "state": "active"
     }
   ],
-  "name": "www.golfmagazin.de",
-  "pressEditionsIVW": false,
+  "name": "www.deutscheins.de",
+  "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-06-12T10:05:47.755Z",
-  "onlineIVWPI": 0,
+  "controlDate": "2023-06-12T15:22:42.421Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  },
-  "onlineVisitsIVW": 0
+  }
 }
