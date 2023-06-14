@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Stockholm (SWE)",
   "pseudoCompany": false,
   "street": "Hamngatan",
@@ -10,21 +10,11 @@
   "streetNumber": "15",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "11147",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.maginepro.com",
-        "squuid": "5d304a75-79c3-42ce-a747-4660fa4f1a81"
-      },
-      "squuid": "5d304ae6-d0f4-4117-8c31-66d1d4dacc6f",
-      "state": "active"
-    }
-  ]
+  "zipcode": "11147"
 }

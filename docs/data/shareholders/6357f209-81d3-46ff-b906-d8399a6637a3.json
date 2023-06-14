@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "6357f209-81d3-46ff-b906-d8399a6637a3",
-  "controlDate": "2022-11-09T09:44:42.957Z",
+  "controlDate": "2023-06-14T11:36:07.812Z",
   "streetNumber": "10",
   "organizations": [
     {
@@ -40,5 +40,58 @@
       "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "36304"
+  "zipcode": "36304",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 52.0,
+      "holder": {
+        "name": "Ehrenklau, Friedrich Martin",
+        "squuid": "5ef9bdf0-8550-492b-bd93-fb4d69b97f72"
+      },
+      "squuid": "636b764a-bd51-4552-bfdd-359fadb65d2c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Ehrenklau, Anna Kristin",
+        "squuid": "5ef9bd94-536d-4084-985d-dadc08372c0d"
+      },
+      "squuid": "636b765b-3f9f-473e-8a10-4bc19b8f52ea",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Ehrenklau, Johanna",
+        "squuid": "5ef9bda1-e9bc-4bbc-845f-1419a210c208"
+      },
+      "squuid": "636b7668-a7ff-4270-9cf8-169c1a40d835",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Ehrenklau, Katharina",
+        "squuid": "5ef9bdb6-8b98-4c25-8e67-c31f1da3409e"
+      },
+      "squuid": "636b7679-fcbf-400a-a4b2-50dc8e1c76cc",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Ehrenklau Druck GmbH",
+        "squuid": "5ef9bd3c-9df7-4b77-a582-08401a622a32"
+      },
+      "squuid": "636b7686-0f14-4df1-986c-9c275684e371",
+      "state": "active"
+    }
+  ]
 }
