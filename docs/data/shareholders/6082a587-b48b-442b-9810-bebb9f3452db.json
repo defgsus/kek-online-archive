@@ -1,17 +1,4 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "MAIRDUMONT NETLETIX GmbH & Co KG",
-        "squuid": "5be1a6b6-3a64-4e2d-a3b5-07e7a24264a6"
-      },
-      "squuid": "6082a5a0-d6d3-4a12-81d9-d016155cb8e5",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Hamburg",
   "pseudoCompany": false,
@@ -23,22 +10,11 @@
   "streetNumber": "8-9",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "20457",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Ströer Digital Group GmbH",
-        "squuid": "6082a85c-3624-4345-bca6-010da1a73eff"
-      },
-      "squuid": "6082a895-edbc-4f4e-9244-496cc1516c50",
-      "state": "active"
-    }
-  ]
+  "zipcode": "20457"
 }

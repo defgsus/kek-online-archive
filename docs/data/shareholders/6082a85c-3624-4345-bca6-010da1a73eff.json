@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Ströer Digital Media GmbH",
-        "squuid": "6082a587-b48b-442b-9810-bebb9f3452db"
-      },
-      "squuid": "6082a895-edbc-4f4e-9244-496cc1516c50",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Köln",
   "pseudoCompany": false,
   "street": "Ströer Allee",
@@ -22,22 +10,11 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "50999",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Interactive Media CCSP GmbH",
-        "squuid": "6082ab8f-1306-4342-8d34-3e17040975c5"
-      },
-      "squuid": "6082abaf-47d6-4577-b9de-56b9d82a8e9b",
-      "state": "active"
-    }
-  ]
+  "zipcode": "50999"
 }

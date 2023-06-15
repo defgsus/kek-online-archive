@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Ströer Digital Group GmbH",
-        "squuid": "6082a85c-3624-4345-bca6-010da1a73eff"
-      },
-      "squuid": "6082abaf-47d6-4577-b9de-56b9d82a8e9b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Köln",
   "pseudoCompany": false,
   "street": "Ströer Allee",
@@ -22,22 +10,11 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "50999",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Ströer Digital Publishing GmbH",
-        "squuid": "5be1a6b6-bcab-4cbe-82df-bf0be2b34cd8"
-      },
-      "squuid": "6082acbb-77b4-4fc5-b1f5-addf559c9795",
-      "state": "active"
-    }
-  ]
+  "zipcode": "50999"
 }

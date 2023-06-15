@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "held": {
-        "name": "Media Partisans GmbH",
-        "squuid": "62fd0387-0961-41a2-973c-2c6454249cbb"
-      },
-      "squuid": "62fd0424-1cf9-45f7-ac55-a586f5bb1936",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Potsdam",
   "pseudoCompany": false,
   "street": "Am Palais Lichtenau",
@@ -22,22 +10,11 @@
   "streetNumber": "4a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "14469",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Schilling, Peter",
-        "squuid": "62fd065b-6982-4a8f-8808-9847ac2181fc"
-      },
-      "squuid": "62fd066d-e57d-4e5e-bdf2-682f41681d53",
-      "state": "active"
-    }
-  ]
+  "zipcode": "14469"
 }
