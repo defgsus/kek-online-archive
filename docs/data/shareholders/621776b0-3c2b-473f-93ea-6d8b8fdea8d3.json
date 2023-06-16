@@ -1,4 +1,26 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Kinzig.News GmbH",
+        "squuid": "63d7b124-4d4d-450e-9ff3-a289252fb7ce"
+      },
+      "squuid": "63d7b1cb-c607-4eb8-81e8-59d6af7c500a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Medienkontor M. Angelstein Verwaltungs GmbH",
+        "squuid": "621776ce-ff46-4dee-9bb9-ef9fb2b70402"
+      },
+      "squuid": "648c6cb1-097b-42e2-ab28-2f286a1e8475",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Fulda",
   "pseudoCompany": false,
@@ -7,7 +29,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "621776b0-3c2b-473f-93ea-6d8b8fdea8d3",
-  "controlDate": "2022-11-30T15:15:09.920Z",
+  "controlDate": "2023-06-16T14:07:46.338Z",
   "streetNumber": "23",
   "organizations": [
     {
@@ -38,6 +60,36 @@
         "squuid": "621776ce-ff46-4dee-9bb9-ef9fb2b70402"
       },
       "squuid": "621777c1-0ba0-4ab1-a6dd-331603e6ab1a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Kern, Renate",
+        "squuid": "648c6d0d-e3fb-454a-8761-2311235e2d70"
+      },
+      "squuid": "648c6d4c-1ffe-4dd3-b291-ce66d71fb3e4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.5,
+      "holder": {
+        "name": "Urbin, Hendrik",
+        "squuid": "648c6d3b-c4b9-4c8f-97ce-535b29c106be"
+      },
+      "squuid": "648c6d6a-4236-4e4d-927e-11abf8b42a40",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.5,
+      "holder": {
+        "name": "Stadtfeld, Christian",
+        "squuid": "648c6d23-373c-4c44-bd7c-1bc45d188c94"
+      },
+      "squuid": "648c6d7a-2883-46e9-acf5-031d32a03f9c",
       "state": "active"
     }
   ]
