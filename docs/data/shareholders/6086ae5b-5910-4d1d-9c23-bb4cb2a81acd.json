@@ -25,9 +25,20 @@
     "name": "MHS Digital GmbH",
     "naturalPerson": false,
     "squuid": "6086ae5b-5910-4d1d-9c23-bb4cb2a81acd",
-    "controlDate": "2023-01-13T14:05:17.571Z",
+    "controlDate": "2023-06-19T09:46:19.435Z",
     "streetNumber": "150",
     "zipcode": "70567",
+    "operates": [
+      {
+        "squuid": "6490256e-6b60-4d9e-825c-28c641aa77b9",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "64902503-9b0a-429b-8fb0-c7c98ff746bb",
+          "name": "www.mhsdigital.de"
+        }
+      }
+    ],
     "ownedBy": [
       {
         "squuid": "6086af0d-449d-4d82-a63f-99b7669a0d7e",
