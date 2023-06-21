@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 5.44,
-      "held": {
-        "name": "rkw Radio Königs Wusterhausen GmbH & Co. KG",
-        "squuid": "5be1a6b6-69e0-4daf-a710-83e0f0e54de7"
-      },
-      "squuid": "5be1a6b7-61e4-4b31-ba3a-0852bb99f25d",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Hamm",
   "pseudoCompany": false,
   "street": "Kamener Straße",
@@ -22,39 +10,12 @@
   "streetNumber": "196",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "59077",
-  "credits": "mabb",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "CHH GmbH",
-        "squuid": "5be1a6b6-970d-47e7-ba17-d80fe5f444ba"
-      },
-      "squuid": "5be1a6b7-d270-4867-b2a5-21470e2a03be",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "GWT Grundwert Thüringen GmbH",
-        "squuid": "5be1a6b6-4be9-4fe5-a129-17d672388b5f"
-      },
-      "squuid": "5be1a6b7-b7b9-48f9-a991-34839696ba89",
-      "state": "active"
-    }
-  ]
+  "credits": "mabb"
 }
