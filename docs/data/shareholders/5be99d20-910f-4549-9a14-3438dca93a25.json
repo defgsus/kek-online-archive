@@ -1,79 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Bonn",
   "pseudoCompany": false,
   "street": "Theaterstraße",
   "name": "Outdoorwelten GmbH",
   "naturalPerson": false,
   "squuid": "5be99d20-910f-4549-9a14-3438dca93a25",
-  "controlDate": "2022-11-28T13:41:38.655Z",
+  "controlDate": "2023-06-22T14:31:15.047Z",
   "streetNumber": "22",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "53111",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "wandermagazin",
-        "squuid": "5be99b65-af89-4e65-86c1-976b82fb6650"
-      },
-      "squuid": "5be99d37-a912-4b38-a76d-20d001a5183d",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.wandermagazin.de",
-        "squuid": "5be99c60-1699-4bf6-97e6-8fd7441d5996"
-      },
-      "squuid": "5be99d4f-2195-4d56-815c-cafdc527b69e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.outdoor-welten.de",
-        "squuid": "60a257e7-4930-4ab5-9ce8-1a9e8667c992"
-      },
-      "squuid": "60a25807-c460-490f-8e8c-7463d210b3a0",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Outdoor Welten",
-        "squuid": "62beb6ca-fd66-47d9-950e-3df75f252e9a"
-      },
-      "squuid": "62beb706-be6a-464c-937e-5c56ac5c1311",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 60.0,
-      "holder": {
-        "name": "Double-U Marketing & Consulting GmbH",
-        "squuid": "5be99e21-f0fc-4ec7-8515-f1f71acbf824"
-      },
-      "squuid": "5be99e35-a21a-4313-9374-4e08325e54b6",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 40.0,
-      "holder": {
-        "name": "Sänger, Michael",
-        "squuid": "5be99def-bc46-417d-b281-db86a38e7e08"
-      },
-      "squuid": "5be99e4c-55db-4e89-91c1-f7f0e61bdf81",
-      "state": "active"
-    }
-  ]
+  "zipcode": "53111"
 }

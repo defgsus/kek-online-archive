@@ -1,38 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 4.2,
-      "held": {
-        "name": "Outdooractive AG",
-        "squuid": "5c504de6-3214-40ac-8a43-3504deb452ec"
-      },
-      "squuid": "5c50503e-9b63-442e-9a35-a338cc7a5312",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Wimmer Beteiligungen GmbH",
-        "squuid": "5c504e2b-6291-4074-a508-1d05b8ceeef6"
-      },
-      "squuid": "5c5050d9-7870-4371-8460-0bd0e95cfa82",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Bad Hindelang",
-  "pseudoCompany": false,
   "name": "Wimmer, Hartmut",
-  "naturalPerson": true,
-  "squuid": "5c504dfe-9a23-49b8-a543-a611f5d1a944",
+  "pseudoCompany": false,
   "controlDate": "2019-07-08T15:21:07.808Z",
+  "squuid": "5c504dfe-9a23-49b8-a543-a611f5d1a944",
+  "city": "Bad Hindelang",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "state": "archived",
+  "naturalPerson": true
 }

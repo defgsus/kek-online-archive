@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Zittau",
   "note": "Keine Gesellschafterliste beim zuständigen Amtsgericht Dresden hinterlegt",
   "pseudoCompany": false,
@@ -7,25 +7,15 @@
   "name": "Oberlausitzer Filmproduktions GmbH",
   "naturalPerson": false,
   "squuid": "5f7ee97b-9566-4882-a8ff-fe95a7335e7c",
-  "controlDate": "2022-11-28T11:07:38.390Z",
+  "controlDate": "2023-06-22T11:20:16.400Z",
   "streetNumber": "18a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "02763",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.oberlausitztv.de",
-        "squuid": "5f7ee90b-f35a-42e6-bd89-4ae62742f2f2"
-      },
-      "squuid": "5f7ee98f-0b10-4a59-af49-6b0c4674c727",
-      "state": "active"
-    }
-  ]
+  "zipcode": "02763"
 }

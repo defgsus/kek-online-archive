@@ -1,0 +1,30 @@
+{
+  "name": "Stahlbau Zwickau GmbH",
+  "squuid": "6493d7c7-768b-4efa-ad87-ffd6496b3960",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "held": {
+        "name": "Radio Zwickau Verwaltungs-, Programm-, Produktions- und Werbegesellschaft mbH",
+        "squuid": "5f8d909c-ad67-4dcc-a0e4-72445eada22c"
+      },
+      "squuid": "6493d7ef-9fcf-4381-8278-3f93005ed0f8",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "state": "active"
+}

@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 18.2,
-      "held": {
-        "name": "Outdooractive AG",
-        "squuid": "5c504de6-3214-40ac-8a43-3504deb452ec"
-      },
-      "squuid": "5c50502d-1ac2-4148-b21a-64a8d488132a",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Immenstadt",
   "pseudoCompany": false,
   "street": "Missener Straße ",
@@ -22,22 +10,11 @@
   "streetNumber": "18",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "87509",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Wimmer, Hartmut",
-        "squuid": "5c504dfe-9a23-49b8-a543-a611f5d1a944"
-      },
-      "squuid": "5c5050d9-7870-4371-8460-0bd0e95cfa82",
-      "state": "active"
-    }
-  ]
+  "zipcode": "87509"
 }

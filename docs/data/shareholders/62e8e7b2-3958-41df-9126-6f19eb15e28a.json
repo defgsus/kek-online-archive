@@ -18,7 +18,7 @@
   "name": "O. Schmidt Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "62e8e7b2-3958-41df-9126-6f19eb15e28a",
-  "controlDate": "2022-10-26T09:17:48.186Z",
+  "controlDate": "2023-06-22T11:05:12.050Z",
   "streetNumber": "10",
   "organizations": [
     {
@@ -104,5 +104,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "40789"
+  "zipcode": "40789",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Meyer-Tüllmann, Dr. Odile",
+        "squuid": "6358fb24-79eb-40a7-a25a-a37205ab1f6f"
+      },
+      "squuid": "6358fb3a-d6e4-45e6-a39c-9978ff0d3260",
+      "state": "active"
+    }
+  ]
 }
