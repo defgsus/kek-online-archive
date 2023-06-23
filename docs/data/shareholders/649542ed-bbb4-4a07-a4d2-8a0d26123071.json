@@ -1,0 +1,49 @@
+{
+  "name": "DAZCAY Ltd.",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "DAZN Group Ltd.",
+        "squuid": "5be1a6b6-95c4-4a3e-bad9-dcca8856a599"
+      },
+      "squuid": "6495449d-5dfd-4985-84a7-f2d6c9650696",
+      "state": "active"
+    }
+  ],
+  "squuid": "649542ed-bbb4-4a07-a4d2-8a0d26123071",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "DAZN Sports Media Ltd.",
+        "squuid": "5be1a6b6-308f-4dd2-b0c5-fd2d40b179b6"
+      },
+      "squuid": "64954401-8ccf-4b3c-b928-7db8cf7418ac",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Perform Holdings 2 LLC",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Access Industries, Inc.",
+        "squuid": "5be1a6b6-c2ea-4a9e-b4fe-7824708a9b57"
+      },
+      "squuid": "64954a7c-d541-4a05-ba1e-250d9e944f34",
+      "state": "active"
+    }
+  ],
+  "squuid": "649546a4-6b8b-4644-93d9-b3610f3da727",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.98,
+      "held": {
+        "name": "DAZN Group Ltd.",
+        "squuid": "5be1a6b6-95c4-4a3e-bad9-dcca8856a599"
+      },
+      "squuid": "649547d3-dfc4-4bde-a085-d699a642185f",
+      "state": "active"
+    }
+  ],
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
+}

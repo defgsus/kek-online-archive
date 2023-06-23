@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Marko Wünsch",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Ines Brilla",
+  "rfFreePay": true,
+  "squuid": "6495881d-dde7-4c48-8598-481fd6fd0982",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.deutsches-musik-fernsehen.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Deutsches Musik Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8fbd-4a98-b2e4-97a2545044f0"
+      },
+      "squuid": "64958879-c073-4357-9f2f-0a016bf88a8b",
+      "state": "active"
+    }
+  ],
+  "name": "Doku-TV",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Unterhaltungsspartenprogramm, bestehend aus Serien, Spielfilmen, Dokumentationen, Magazinen, Reportagen",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "28.04.2023",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra / Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "28.04.2023",
+  "accessibilityEmail": "post@deutsches-musik-fernsehen.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

@@ -1,40 +1,7 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "KKR Traviata Aggregator L.P.",
-        "squuid": "5e39450a-307c-4473-a6db-f9306d4bebf9"
-      },
-      "squuid": "62737d15-42ef-49f3-a742-be7bac00eae6",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": false,
   "name": "KKR Group Partnership L.P.",
-  "naturalPerson": false,
-  "squuid": "62737c3e-559f-4951-9727-325dd53240e7",
+  "pseudoCompany": false,
   "controlDate": "2023-06-12T14:58:35.161Z",
-  "organizations": [
-    {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
-    }
-  ],
   "ownedBy": [
     {
       "type": "own",
@@ -46,5 +13,16 @@
       "squuid": "62737da9-775b-4678-93c8-13dd9b773e76",
       "state": "active"
     }
-  ]
+  ],
+  "squuid": "62737c3e-559f-4951-9727-325dd53240e7",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "state": "active",
+  "naturalPerson": false
 }

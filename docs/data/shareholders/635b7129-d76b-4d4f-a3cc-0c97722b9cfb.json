@@ -1,19 +1,4 @@
 {
-  "name": "Pijnenburg Investments B.V.",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Pijnenburg, Sjef",
-        "squuid": "635b713e-2d38-4726-a8dd-af26a87bab5e"
-      },
-      "squuid": "635b73c0-aa73-446a-8ec0-6fe8c4a4f197",
-      "state": "active"
-    }
-  ],
-  "squuid": "635b7129-d76b-4d4f-a3cc-0c97722b9cfb",
   "owns": [
     {
       "type": "own",
@@ -26,6 +11,12 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Pijnenburg Investments B.V.",
+  "naturalPerson": false,
+  "squuid": "635b7129-d76b-4d4f-a3cc-0c97722b9cfb",
+  "controlDate": "2023-06-23T13:26:12.489Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -38,6 +29,16 @@
       "type": "organization"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Pijnenburg, Sjef",
+        "squuid": "635b713e-2d38-4726-a8dd-af26a87bab5e"
+      },
+      "squuid": "635b73c0-aa73-446a-8ec0-6fe8c4a4f197",
+      "state": "active"
+    }
+  ]
 }
