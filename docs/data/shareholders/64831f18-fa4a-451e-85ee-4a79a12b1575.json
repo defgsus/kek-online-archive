@@ -1,12 +1,45 @@
 {
   "name": "Vatter, Lina",
   "squuid": "64831f18-fa4a-451e-85ee-4a79a12b1575",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 8.3,
+      "held": {
+        "name": "Horst Vatter Verwaltungsgesellschaft mbH",
+        "squuid": "5efc450b-6dea-4b7d-97e1-7e2f8bcba9fc"
+      },
+      "squuid": "64831fb7-0801-49fa-8fe3-43a6eaf8c3a0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.3,
+      "held": {
+        "name": "Horst Vatter Beteiligungsgesellschaft mbH & Co. KG",
+        "squuid": "5ef9a6a5-edbb-4713-aed7-6974a0aba1fb"
+      },
+      "squuid": "6483206e-e41c-4a68-8eb0-bf3623061821",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active"

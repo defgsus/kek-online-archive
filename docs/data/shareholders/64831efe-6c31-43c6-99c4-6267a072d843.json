@@ -1,12 +1,45 @@
 {
   "name": "Vatter-Kock, Christine Beatrix",
   "squuid": "64831efe-6c31-43c6-99c4-6267a072d843",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.2,
+      "held": {
+        "name": "Horst Vatter Verwaltungsgesellschaft mbH",
+        "squuid": "5efc450b-6dea-4b7d-97e1-7e2f8bcba9fc"
+      },
+      "squuid": "64831f60-de87-44be-85bd-8cf575344930",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.2,
+      "held": {
+        "name": "Horst Vatter Beteiligungsgesellschaft mbH & Co. KG",
+        "squuid": "5ef9a6a5-edbb-4713-aed7-6974a0aba1fb"
+      },
+      "squuid": "64832028-f360-40f5-94b9-e1af2f3b7f4a",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active"

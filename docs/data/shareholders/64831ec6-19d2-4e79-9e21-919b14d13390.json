@@ -1,12 +1,45 @@
 {
   "name": "Vatter, Felix",
   "squuid": "64831ec6-19d2-4e79-9e21-919b14d13390",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 8.3,
+      "held": {
+        "name": "Horst Vatter Verwaltungsgesellschaft mbH",
+        "squuid": "5efc450b-6dea-4b7d-97e1-7e2f8bcba9fc"
+      },
+      "squuid": "64831f7f-f192-4f34-8090-ccbeb78c9664",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.3,
+      "held": {
+        "name": "Horst Vatter Beteiligungsgesellschaft mbH & Co. KG",
+        "squuid": "5ef9a6a5-edbb-4713-aed7-6974a0aba1fb"
+      },
+      "squuid": "64832060-91b9-4638-acb2-92ff1ff9f382",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active"

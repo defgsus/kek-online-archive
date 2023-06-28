@@ -1,12 +1,29 @@
 {
   "name": "Laabs, Daniel",
   "squuid": "64887192-0392-4fc6-8af1-6cba207f8509",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Laabs GmbH",
+        "squuid": "5cadbf42-242d-4b34-8e3d-d05e7487c212"
+      },
+      "squuid": "648871e3-0df9-43a0-933c-d70d7eed0fd6",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
   "state": "active"
