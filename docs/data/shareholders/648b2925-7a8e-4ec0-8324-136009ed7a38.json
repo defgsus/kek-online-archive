@@ -1,12 +1,35 @@
 {
   "name": "Krieghoff, Waltraud",
   "squuid": "648b2925-7a8e-4ec0-8324-136009ed7a38",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.0,
+      "held": {
+        "name": "MBG Medien Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-d29e-400c-b3d1-1de422ecf822"
+      },
+      "squuid": "648b2942-c968-43ef-936a-20520bd37a2e",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active"
