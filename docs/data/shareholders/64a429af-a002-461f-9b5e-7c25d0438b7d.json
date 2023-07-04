@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Reutlingen",
+  "pseudoCompany": false,
+  "street": "Burgplatz",
+  "name": "GEA Publishing und Media Services GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "64a429af-a002-461f-9b5e-7c25d0438b7d",
+  "controlDate": "2023-07-04T14:17:46.430Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "72764",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Alblust",
+        "squuid": "64a42930-dbac-4e1f-a690-2fbb69fc1061"
+      },
+      "squuid": "64a429c1-9233-42c2-a5d4-add2795f830a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Reutlinger Generalanzeiger Verlags-GmbH & Co KG",
+        "squuid": "5be1a6b6-b2a4-4e47-80ab-e7f4b265c112"
+      },
+      "squuid": "64a42aa1-a628-4061-b180-c7007dd3f160",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "GEA Publishing und Media Services Verwaltungs GmbH",
+        "squuid": "64a42ac0-394d-4098-b9eb-812097b853ca"
+      },
+      "squuid": "64a42ad7-3d9a-4a7a-b968-151972643081",
+      "state": "active"
+    }
+  ]
+}

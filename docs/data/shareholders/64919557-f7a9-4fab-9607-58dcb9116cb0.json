@@ -1,12 +1,35 @@
 {
   "name": "Twer, Thoren",
   "squuid": "64919557-f7a9-4fab-9607-58dcb9116cb0",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 32.33,
+      "held": {
+        "name": "Mittelrhein LastMileGmbH",
+        "squuid": "5be1a6b6-93ad-4f68-8875-b7f7186f450b"
+      },
+      "squuid": "6491958b-a5db-42c6-9713-68e438efee1c",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "Medienanstalt RLP",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
     }
   ],
   "state": "active"
