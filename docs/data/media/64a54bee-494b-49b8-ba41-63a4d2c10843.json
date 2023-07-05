@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "64a54bee-494b-49b8-ba41-63a4d2c10843",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Madsack Travel GmbH & Co. KG",
+        "squuid": "64a54bc5-e43e-4be3-8a82-6efa07bfa423"
+      },
+      "squuid": "64a54c10-79b1-4f69-b5fa-696941cb1ac8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RND RedaktionsNetzwerk Deutschland GmbH",
+        "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d"
+      },
+      "squuid": "64a54c1a-86f0-42fe-bfe0-da029e9445a5",
+      "state": "active"
+    }
+  ],
+  "name": "www.reisereporter.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-07-05T10:54:46.486Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

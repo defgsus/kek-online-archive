@@ -1,0 +1,66 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Madsack Travel Verwaltungs-GmbH",
+        "squuid": "64a54be0-298d-41ee-be6e-daf6b093129f"
+      },
+      "squuid": "64a54d3b-449a-4f6c-abd1-726d0dabd142",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "August-Madsack-Str.",
+  "name": "Madsack Travel GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "64a54bc5-e43e-4be3-8a82-6efa07bfa423",
+  "controlDate": "2023-07-05T10:55:49.095Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30559",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.reisereporter.de",
+        "squuid": "64a54bee-494b-49b8-ba41-63a4d2c10843"
+      },
+      "squuid": "64a54c10-79b1-4f69-b5fa-696941cb1ac8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "64a54cc8-5da5-4662-9393-26344a2f5e6f",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Madsack Travel Verwaltungs-GmbH",
+        "squuid": "64a54be0-298d-41ee-be6e-daf6b093129f"
+      },
+      "squuid": "64a54cd7-7901-4b0b-a4fa-b5163e88503f",
+      "state": "active"
+    }
+  ]
+}

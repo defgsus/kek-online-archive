@@ -18,7 +18,7 @@
   "name": "S + R Holding GmbH",
   "naturalPerson": false,
   "squuid": "62e8e83f-4e2c-4085-b922-03aa05381f02",
-  "controlDate": "2022-10-26T09:22:25.668Z",
+  "controlDate": "2023-07-05T14:47:23.752Z",
   "streetNumber": "10",
   "organizations": [
     {
@@ -104,5 +104,27 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "40789"
+  "zipcode": "40789",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 64.6,
+      "holder": {
+        "name": "ASS Vermögensverwaltungs GmbH",
+        "squuid": "6358fcfd-79dd-49f9-8289-6348d3a4688b"
+      },
+      "squuid": "6358fd3a-1cb8-4dad-a513-25f3d8c75e96",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.4,
+      "holder": {
+        "name": "BR Verwaltungs GmbH",
+        "squuid": "6358fd09-b8a3-4788-8aea-8be9b73376ec"
+      },
+      "squuid": "6358fd5d-c8c0-44dd-bf51-2f13105e9d2f",
+      "state": "active"
+    }
+  ]
 }
