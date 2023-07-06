@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "6357f786-953d-427f-b096-aa8606a71ffa",
-  "controlDate": "2022-11-09T09:55:00.833Z",
+  "controlDate": "2023-07-06T10:10:34.646Z",
   "streetNumber": "55",
   "organizations": [
     {
@@ -40,5 +40,48 @@
       "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "35037"
+  "zipcode": "35037",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schüren Verlag GmbH",
+        "squuid": "636b7998-c4c8-49de-a087-97108e1a6615"
+      },
+      "squuid": "636b7a09-bc25-4f96-a725-78796695a66e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Möckl, Moritz Bernhard",
+        "squuid": "636b79b4-8547-4b8c-9b56-7b7503b6cf69"
+      },
+      "squuid": "636b7a1b-cf47-45bd-af2d-6f1f1efbf11f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Möckl, Sybille",
+        "squuid": "636b79c9-e36c-43f8-989a-a73a1e6d8e11"
+      },
+      "squuid": "636b7a2d-5feb-4003-b9f2-d471c5c01528",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Walter, Nicolas",
+        "squuid": "636b79ee-3835-465b-a661-1668f07435de"
+      },
+      "squuid": "636b7a3b-711e-4bac-9610-50ef64f87ff8",
+      "state": "active"
+    }
+  ]
 }

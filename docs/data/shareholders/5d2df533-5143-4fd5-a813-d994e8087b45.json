@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Barcelona (E)",
   "pseudoCompany": false,
   "street": "Calle Roc Boronat",
@@ -10,30 +10,11 @@
   "streetNumber": "117",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "08018",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.softonic.com",
-        "squuid": "5d2df510-3a4f-49ac-9965-38de0adf02c6"
-      },
-      "squuid": "5d2df553-b362-4fdb-a5c7-0934ab2d1c7a",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.filehippo.com",
-        "squuid": "5d356d90-7cf2-454b-87bd-4b20c87d079c"
-      },
-      "squuid": "6359053a-c827-419f-b82f-1f9f52651329",
-      "state": "active"
-    }
-  ]
+  "zipcode": "08018"
 }

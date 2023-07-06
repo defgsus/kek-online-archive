@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "SJV Segel Journal Verlag GmbH",
-        "squuid": "5c62b52f-57d1-4db6-a05b-c29b77f75810"
-      },
-      "squuid": "5c62b5e7-e741-488a-b0bc-c9fe59d44e6b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Bad Schwartau",
   "pseudoCompany": false,
   "street": "Gutenbergstr.",
@@ -22,33 +10,12 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "23611",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Jahr Media GmbH & Co KG",
-        "squuid": "5be1a6b6-5664-4486-a5c5-07a45ecc7012"
-      },
-      "squuid": "5be1a6b8-3aef-474d-af86-8f0b6ea9b877",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Ebner Media Group GmbH & Co KG",
-        "squuid": "5be1a6b6-84e9-4f17-a677-1e326d5da9f2"
-      },
-      "squuid": "5d10e3a3-aebc-437e-90ce-da6579361354",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

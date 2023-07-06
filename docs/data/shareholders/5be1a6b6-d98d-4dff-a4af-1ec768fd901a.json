@@ -9,6 +9,16 @@
       },
       "squuid": "5be1a6b7-de41-4f8c-82a2-199a6a8a20bd",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Schüren Verlag GmbH",
+        "squuid": "636b7998-c4c8-49de-a087-97108e1a6615"
+      },
+      "squuid": "637f5fdf-0fbf-4271-91ce-8756408c36eb",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -18,7 +28,7 @@
   "name": "Schüren Media GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-d98d-4dff-a4af-1ec768fd901a",
-  "controlDate": "2022-10-25T14:49:16.215Z",
+  "controlDate": "2023-07-06T10:11:18.106Z",
   "streetNumber": "55",
   "organizations": [
     {
@@ -43,22 +53,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 24.0,
-      "holder": {
-        "name": "Schüren, Annette",
-        "squuid": "5ef9a82c-cd0b-4430-8f1f-8162b9957ec3"
-      },
-      "squuid": "5ef9a847-136e-480d-85a2-da08515786be",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 76.0,
       "holder": {
         "name": "Schüren, Norbert",
         "squuid": "5ef9a81f-7697-415d-88a2-17f6219295a4"
       },
       "squuid": "5ef9a855-b5a6-4d20-9e24-ac9a4d39b018",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "Schüren Beteiligung GmbH & Co. KG",
+        "squuid": "6357f786-953d-427f-b096-aa8606a71ffa"
+      },
+      "squuid": "6357f7ae-c4e7-41c8-8824-2f5664d0aea3",
       "state": "active"
     }
   ]

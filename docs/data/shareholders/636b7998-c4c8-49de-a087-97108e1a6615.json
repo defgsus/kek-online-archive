@@ -19,7 +19,7 @@
   "name": "Schüren Verlag GmbH",
   "naturalPerson": false,
   "squuid": "636b7998-c4c8-49de-a087-97108e1a6615",
-  "controlDate": "2022-11-24T12:11:31.681Z",
+  "controlDate": "2023-07-06T10:12:21.881Z",
   "streetNumber": "55",
   "organizations": [
     {
@@ -40,5 +40,17 @@
       "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "35037"
+  "zipcode": "35037",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schüren Media GmbH",
+        "squuid": "5be1a6b6-d98d-4dff-a4af-1ec768fd901a"
+      },
+      "squuid": "637f5fdf-0fbf-4271-91ce-8756408c36eb",
+      "state": "active"
+    }
+  ]
 }
