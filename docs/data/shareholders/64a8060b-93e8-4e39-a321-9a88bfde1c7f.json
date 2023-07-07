@@ -1,0 +1,54 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Singener Wochenblatt GmbH & Co. KG",
+        "squuid": "64a805f7-835c-4071-88f2-bb7332855699"
+      },
+      "squuid": "64a80790-f816-492b-841d-4e612bb41454",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Singen",
+  "pseudoCompany": false,
+  "street": "Hadwigstr.",
+  "name": "Singener Wochenblatt Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "64a8060b-93e8-4e39-a321-9a88bfde1c7f",
+  "controlDate": "2023-07-07T12:41:49.574Z",
+  "streetNumber": "2a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "78224",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.5,
+      "holder": {
+        "name": "Frese Beteiligungen GmbH & Co.",
+        "squuid": "64a80629-1e75-4c29-a78d-6044360cc585"
+      },
+      "squuid": "64a80865-46d8-463f-a034-1ea9a71061cc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.5,
+      "holder": {
+        "name": "Südkurier GmbH",
+        "squuid": "5be1a6b6-04f4-457e-bfa8-553d157046be"
+      },
+      "squuid": "64a80892-acc3-4e25-8a18-d273f097d31d",
+      "state": "active"
+    }
+  ]
+}

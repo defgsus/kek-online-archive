@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "64a805e3-24e4-4295-b9ee-d9174099e0af",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Singener Wochenblatt GmbH & Co. KG",
+        "squuid": "64a805f7-835c-4071-88f2-bb7332855699"
+      },
+      "squuid": "64a80659-de90-4ad9-8be1-6709ccf82f34",
+      "state": "active"
+    }
+  ],
+  "name": "www.wochenblatt.net",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-07-07T12:34:12.130Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

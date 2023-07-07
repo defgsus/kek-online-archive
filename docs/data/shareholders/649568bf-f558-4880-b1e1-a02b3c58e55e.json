@@ -1,12 +1,36 @@
 {
   "name": "Fuldaer Actiendruckerei Verwaltungs GmbH",
   "squuid": "649568bf-f558-4880-b1e1-a02b3c58e55e",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Parzeller & Co KG vormals Fuldaer Actiendruckerei KG",
+        "squuid": "5be1a6b6-2de4-47f0-a027-0764d8812869"
+      },
+      "squuid": "649568eb-3e96-415c-8541-0a0f8afb0037",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active"

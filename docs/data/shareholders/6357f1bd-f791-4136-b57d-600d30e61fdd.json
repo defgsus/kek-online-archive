@@ -17,7 +17,7 @@
   "name": "Steger-Ohnesorge GbR",
   "naturalPerson": false,
   "squuid": "6357f1bd-f791-4136-b57d-600d30e61fdd",
-  "controlDate": "2022-11-09T09:52:27.947Z",
+  "controlDate": "2023-07-07T10:40:31.577Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -35,6 +35,28 @@
       "name": "LPR Hessen",
       "type": "organization",
       "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Steger-Bruhn GbR",
+        "squuid": "636b7801-6459-4bbb-aa83-5cdb295f92e0"
+      },
+      "squuid": "636b787f-78bc-48f2-8316-a5272829038c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Ohnesorge II GbR",
+        "squuid": "636b77d4-36f0-4a24-bafc-49c76a880dc8"
+      },
+      "squuid": "636b788d-892b-4b9d-ac87-eaf095d6218a",
+      "state": "active"
     }
   ]
 }

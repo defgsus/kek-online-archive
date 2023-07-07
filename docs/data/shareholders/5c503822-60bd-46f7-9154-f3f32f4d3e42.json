@@ -2,7 +2,7 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 73.6,
+      "capitalShares": 100.0,
       "held": {
         "name": "TargetVideo Parenting Media GmbH",
         "squuid": "5c503703-27e7-4be5-9e54-888cb8968027"
@@ -18,7 +18,7 @@
   "name": "TargetVideo GmbH",
   "naturalPerson": false,
   "squuid": "5c503822-60bd-46f7-9154-f3f32f4d3e42",
-  "controlDate": "2022-11-03T12:20:57.731Z",
+  "controlDate": "2023-07-07T16:01:48.157Z",
   "streetNumber": "12",
   "organizations": [
     {
@@ -27,5 +27,27 @@
       "type": "organization"
     }
   ],
-  "zipcode": "80539"
+  "zipcode": "80539",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 84.0,
+      "holder": {
+        "name": "MG 21 Consulting UG",
+        "squuid": "64a837b8-897d-4041-ad96-ef52d6241c8a"
+      },
+      "squuid": "64a837f8-8353-4395-9b8a-50efc7d4ee24",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Puzzle Pictures GmbH",
+        "squuid": "64a837d7-c6b4-4ae3-85a5-c614492c47f8"
+      },
+      "squuid": "64a83805-b094-40d1-b91c-bf912a0878d9",
+      "state": "active"
+    }
+  ]
 }
