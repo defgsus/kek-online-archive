@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 75.0,
+      "held": {
+        "name": "Tip Berlin Media Group GmbH",
+        "squuid": "5be1a6b6-1833-4087-91be-d030f3078caf"
+      },
+      "squuid": "64abe194-d8df-4c74-95ff-7c0c6c15ec3d",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Kurfürstendamm",
+  "name": "Morgenroth Capital GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "64abe17e-bb33-4e3d-8447-e2d932ac2f37",
+  "controlDate": "2023-07-10T10:52:55.762Z",
+  "streetNumber": "178",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10707",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Morgenroth GmbH & Co. KG",
+        "squuid": "64abe3c9-21e9-4256-9dd1-416490369d81"
+      },
+      "squuid": "64abe3e5-92b3-4dd4-bd89-dae5ef47efc8",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Morgenroth Verwaltungs GmbH",
+        "squuid": "64abe3bb-0b77-4175-b698-a699b5626500"
+      },
+      "squuid": "64abe3ef-b709-4b4a-918b-dc9d2cf487c7",
+      "state": "active"
+    }
+  ]
+}

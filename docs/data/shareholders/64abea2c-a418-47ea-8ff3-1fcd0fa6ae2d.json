@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "Transfermarkt Verwaltungs GmbH",
+        "squuid": "5f059c15-7f0b-46a8-b827-84b0a532a129"
+      },
+      "squuid": "64abea44-aace-4cb4-8b64-ab0db1e1122e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "Transfermarkt GmbH & Co KG",
+        "squuid": "5be1a6b6-e50d-423a-bf4d-ed907211e84c"
+      },
+      "squuid": "64abea7d-ea3f-4acd-b678-8dad623b3875",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Axel-Springer-Str.",
+  "name": "Axel Springer Deutschland GmbH",
+  "naturalPerson": false,
+  "squuid": "64abea2c-a418-47ea-8ff3-1fcd0fa6ae2d",
+  "controlDate": "2023-07-10T11:31:55.370Z",
+  "streetNumber": "65",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10888",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Axel Springer SE",
+        "squuid": "5be1a6b6-5c1b-48b1-ad15-85241452bf42"
+      },
+      "squuid": "64abec71-269f-4637-8b04-33ad2c4fb927",
+      "state": "active"
+    }
+  ]
+}

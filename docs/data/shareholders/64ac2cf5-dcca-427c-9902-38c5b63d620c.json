@@ -1,0 +1,82 @@
+{
+  "state": "active",
+  "city": "Osnabrück",
+  "pseudoCompany": false,
+  "street": "Schillerstr.",
+  "name": "Verlagsgruppe Bistumspresse GmbH",
+  "naturalPerson": false,
+  "squuid": "64ac2cf5-dcca-427c-9902-38c5b63d620c",
+  "controlDate": "2023-07-10T16:09:53.152Z",
+  "streetNumber": "15",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "49074",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.aussicht.online",
+        "squuid": "64ac2cd1-7e6b-4407-bfc8-435081580716"
+      },
+      "squuid": "64ac2d16-73f8-42b8-979a-f6198814b54c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Bischöflicher Stuhl zu Osnabrück",
+        "squuid": "5f0c1d4d-8cc8-4775-886c-3b507b3b4c32"
+      },
+      "squuid": "64ac2e18-673e-4e97-98da-c0b3c1de077e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Gesellschaft für kirchliche Publizistik Mainz mbH & Co KG",
+        "squuid": "5be1a6b6-9882-48d4-bf8d-72b03e4a45a5"
+      },
+      "squuid": "64ac2e47-4afb-4fc4-8f8a-1e9233bd016e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "St. Benno Buch und Zeitschriften Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-f526-4c2b-97dd-963ff9ac7d56"
+      },
+      "squuid": "64ac2e54-90e6-4ce5-bad2-11292dbfdfd7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Bernward Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-8e7f-47f3-8dca-6064edc287cc"
+      },
+      "squuid": "64ac2e64-d679-446e-bea1-8b1699f955db",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Eigenbesitz der Verlagsgruppe Bistumspresse GmbH",
+        "squuid": "64ac2ded-1a38-4f0f-be98-16f42ecf8f99"
+      },
+      "squuid": "64ac2e82-4aca-4dcc-ae87-32615da0e5a9",
+      "state": "active"
+    }
+  ]
+}

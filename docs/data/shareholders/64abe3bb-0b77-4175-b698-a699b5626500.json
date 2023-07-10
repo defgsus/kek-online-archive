@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Morgenroth Capital GmbH & Co. KG",
+        "squuid": "64abe17e-bb33-4e3d-8447-e2d932ac2f37"
+      },
+      "squuid": "64abe3ef-b709-4b4a-918b-dc9d2cf487c7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Morgenroth GmbH & Co. KG",
+        "squuid": "64abe3c9-21e9-4256-9dd1-416490369d81"
+      },
+      "squuid": "64abe54e-91cf-485a-915b-5131b98b24c5",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Kurfürstendamm",
+  "name": "Morgenroth Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "64abe3bb-0b77-4175-b698-a699b5626500",
+  "controlDate": "2023-07-10T10:58:32.312Z",
+  "streetNumber": "178",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10707",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Morgenroth GmbH & Co. KG",
+        "squuid": "64abe3c9-21e9-4256-9dd1-416490369d81"
+      },
+      "squuid": "64abe4a7-c854-4d5a-ab41-063a73a4a595",
+      "state": "active"
+    }
+  ]
+}
