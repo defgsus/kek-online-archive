@@ -1,8 +1,4 @@
 {
-  "name": "Vykup Holdings Ltd.",
-  "pseudoCompany": false,
-  "squuid": "63f3771e-3249-4b1e-b6c9-9b87f8f3783f",
-  "placeOfBusiness": "Zypern",
   "owns": [
     {
       "type": "own",
@@ -15,6 +11,13 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Vykup Holdings Ltd.",
+  "naturalPerson": false,
+  "squuid": "63f3771e-3249-4b1e-b6c9-9b87f8f3783f",
+  "controlDate": "2023-07-11T10:57:58.181Z",
+  "placeOfBusiness": "Zypern",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -32,7 +35,5 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ],
-  "state": "active",
-  "naturalPerson": false
+  ]
 }
