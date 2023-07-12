@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "64ae6e01-05e0-4623-b0a7-a45dfa5a9fd8",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Hamburg GmbH & Co. KG",
+        "squuid": "5be1a6b6-afbf-4f56-89af-d512d75aaf49"
+      },
+      "squuid": "64ae6e1d-2ad9-44a7-87e8-52de31ff87d7",
+      "state": "active"
+    }
+  ],
+  "name": "www.caravan.fm",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-07-12T09:10:30.888Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

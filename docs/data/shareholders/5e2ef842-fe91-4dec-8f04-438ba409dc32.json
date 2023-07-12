@@ -19,7 +19,7 @@
   "name": "Wälischmiller Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "5e2ef842-fe91-4dec-8f04-438ba409dc32",
-  "controlDate": "2022-10-13T14:16:40.017Z",
+  "controlDate": "2023-07-12T10:15:44.019Z",
   "streetNumber": "2",
   "organizations": [
     {
@@ -48,12 +48,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 25.0,
       "holder": {
         "name": "Wälischmiller, Max Josef",
         "squuid": "5be1a6b6-ee36-4fa7-87e5-cd4b02fb65e0"
       },
       "squuid": "5e2efa9c-a066-4fbd-a16d-fe7d0a14581c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Wälischmiller, Felix",
+        "squuid": "63481d2d-2549-458f-9927-7bae2ea0fc88"
+      },
+      "squuid": "63481dc8-1ee8-4001-9c78-8da3efc39fe7",
       "state": "active"
     }
   ]
