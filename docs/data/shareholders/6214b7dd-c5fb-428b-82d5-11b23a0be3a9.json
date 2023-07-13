@@ -1,30 +1,16 @@
 {
   "name": "Nibbe, Bodo",
+  "pseudoCompany": false,
   "squuid": "6214b7dd-c5fb-428b-82d5-11b23a0be3a9",
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "held": {
-        "name": "Radio München gUG (haftungsbeschränkt)",
-        "squuid": "5f92dddc-2512-43d7-b865-48a694c606d2"
-      },
-      "squuid": "6214b847-c493-4aa1-a615-cc7ce5d28a21",
-      "state": "active"
-    }
-  ],
+  "city": "München",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }

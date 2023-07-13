@@ -1,12 +1,29 @@
 {
   "name": "Imagesound Limited",
   "squuid": "649d9082-43cc-46a2-8ed3-7c419fcc5228",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radiopark GmbH & Co. KG",
+        "squuid": "5be1a6b6-f5f4-4b01-ab8c-5ed6762ee788"
+      },
+      "squuid": "649d90ac-4fee-464e-9c9d-da0f11eef9fe",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
   "state": "active"

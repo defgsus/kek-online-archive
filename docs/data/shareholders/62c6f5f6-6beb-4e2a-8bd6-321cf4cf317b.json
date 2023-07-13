@@ -23,28 +23,23 @@
   "streetNumber": "7-11",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
-    },
-    {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
-      "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "90425"
+  "zipcode": "90425",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Sellwerk GmbH & Co. KG",
+        "squuid": "62c6f5d3-b90a-4f49-a0f7-c982ad822b84"
+      },
+      "squuid": "6482fc9a-5a1d-4190-8c4f-980e0bd25ee1",
+      "state": "active"
+    }
+  ]
 }
