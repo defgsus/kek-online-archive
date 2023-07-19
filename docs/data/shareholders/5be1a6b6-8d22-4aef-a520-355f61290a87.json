@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.9,
+      "held": {
+        "name": "Your Family Entertainment AG",
+        "squuid": "5be1a6b6-9886-4c70-bfdf-c8c0fdbe4fa8"
+      },
+      "squuid": "64ae862a-23e9-4a11-8447-8ad9b81d2a00",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "München",
   "pseudoCompany": false,
@@ -9,10 +21,14 @@
   "streetNumber": "9",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "zipcode": "80333"

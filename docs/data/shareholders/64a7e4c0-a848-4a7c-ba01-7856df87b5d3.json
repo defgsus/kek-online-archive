@@ -1,12 +1,28 @@
 {
   "name": "Stadt Frankfurt/M.",
   "squuid": "64a7e4c0-a848-4a7c-ba01-7856df87b5d3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Stadtwerke Frankfurt am Main Holding GmbH",
+        "squuid": "5d302b9d-484e-4e3d-8629-6e995713a616"
+      },
+      "squuid": "64a7e4d8-c8f2-4658-a97b-2d8031d6db43",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "state": "active"

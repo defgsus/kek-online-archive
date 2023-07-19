@@ -1,7 +1,24 @@
 {
   "name": "Eigenbesitz der Roularta Media Group N.V.",
   "squuid": "64a55d4b-fd24-4aed-961c-429901b11f69",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.45,
+      "held": {
+        "name": "Roularta Media Group N.V.",
+        "squuid": "5be1a6b6-b278-460a-a1ef-4bf1799ebfbb"
+      },
+      "squuid": "64a55e22-8f28-44c6-89dd-f7edc0509b4a",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
