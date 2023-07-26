@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Pulsnitz",
   "supplierConsortium": false,
   "pseudoCompany": false,
@@ -11,22 +11,11 @@
   "streetNumber": "9",
   "organizations": [
     {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "01896",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Regionale Kabelzeitung",
-        "squuid": "5c57e753-d96f-491a-9e48-82bb4b669f72"
-      },
-      "squuid": "5c57e785-c685-4ce4-8825-f80d2db40235",
-      "state": "active"
-    }
-  ]
+  "zipcode": "01896"
 }

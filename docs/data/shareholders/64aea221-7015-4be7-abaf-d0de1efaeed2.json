@@ -1,12 +1,45 @@
 {
   "name": "Hinzer, Christina",
   "squuid": "64aea221-7015-4be7-abaf-d0de1efaeed2",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Zone 7 GmbH & Co. KG",
+        "squuid": "5be1a6b6-58fc-460a-96a4-a6b530ba1fee"
+      },
+      "squuid": "64aea255-214c-436e-93af-45613fb170bb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Zone 7 Verwaltungs GmbH",
+        "squuid": "5f3ba70f-c5dd-4c4a-a92b-1bd626a39caa"
+      },
+      "squuid": "64aea278-cfe2-44b9-a787-f35add263092",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "Medienanstalt RLP",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Rheinland-Pfalz"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
   "state": "active"

@@ -1,0 +1,49 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "2021",
+  "rfFreePay": true,
+  "squuid": "64c1125a-81f7-4d22-a566-4b2827f57b3b",
+  "organization": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "F.i.S. Fernsehen in Sachsen GmbH",
+        "squuid": "5be1a6b6-6862-4161-a24b-8c72ce892cea"
+      },
+      "squuid": "64c113e5-00ca-4cca-926e-f9951007cb63",
+      "state": "active"
+    }
+  ],
+  "name": "SACHSEN FERNSEHEN Vogtland",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-063c-4208-94e1-5216fef7a724",
+    "name": "Vollprogramm",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "rfLicenseUntil": "31.01.2029",
+  "rfLicensed": "02.02.2021",
+  "rfLicenseFrom": "01.02.2021"
+}

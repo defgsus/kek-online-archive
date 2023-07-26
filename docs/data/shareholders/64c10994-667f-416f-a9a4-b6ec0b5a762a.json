@@ -1,0 +1,60 @@
+{
+  "name": "SAT-Kabel Satelliten- und Kabelfernsehanlagen/Industrievertretung GmbH",
+  "squuid": "64c10994-667f-416f-a9a4-b6ec0b5a762a",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "state": "active",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kabelzeitung Adelsberg",
+        "squuid": "5d0b6841-b3dd-4af3-8477-db07125be70f"
+      },
+      "squuid": "64c10a9c-3d9d-472b-9a7b-e17393c0e3a2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Burgstädter Kabelzeitung",
+        "squuid": "5be1a6b1-297c-4714-82cd-abd92a33f772"
+      },
+      "squuid": "64c10af1-d26c-4ef2-b0a3-8f35e844e333",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kabelzeitung Lunzenau",
+        "squuid": "5d0b68e2-4215-4cc4-965a-9b5659cbd55b"
+      },
+      "squuid": "64c10b3b-2e96-460e-89b3-f5d7a4b60725",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Peniger Kabelzeitung (PeKeZet)",
+        "squuid": "5d0b6a5d-48c1-4925-9d26-b0b313ece201"
+      },
+      "squuid": "64c10ba7-23bb-4b0a-9145-8ecd90a11def",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Infokanal Ottendorf-Okrilla",
+        "squuid": "5d023b26-fc82-4bd0-b5fe-acf49d6838c5"
+      },
+      "squuid": "64c10cd6-542c-4e29-89d8-25185f03a26c",
+      "state": "active"
+    }
+  ]
+}

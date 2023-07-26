@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Obergurig",
   "supplierConsortium": false,
   "pseudoCompany": false,
@@ -10,31 +10,11 @@
   "streetNumber": "22",
   "organizations": [
     {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "02692",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "oko",
-        "squuid": "5c58120a-f303-4e6d-b0c6-3edd95eee846"
-      },
-      "squuid": "5c5812c8-1b30-43f8-a599-f7b27d1f3970",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "AIFO",
-        "squuid": "5c581a61-0bc5-49c4-8078-fc081f229ca9"
-      },
-      "squuid": "5c581af8-8269-409e-996a-f2c889156100",
-      "state": "active"
-    }
-  ]
+  "zipcode": "02692"
 }

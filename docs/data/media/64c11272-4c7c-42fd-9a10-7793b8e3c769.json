@@ -1,0 +1,49 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "2023",
+  "rfFreePay": true,
+  "squuid": "64c11272-4c7c-42fd-9a10-7793b8e3c769",
+  "organization": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Fernsehen in Dresden GmbH",
+        "squuid": "5be1a6b6-84ba-4a5c-9d21-ea5fb602619f"
+      },
+      "squuid": "64c1134a-c7da-42b4-a42f-c8c4fdd35ada",
+      "state": "active"
+    }
+  ],
+  "name": "SACHSEN FERNSEHEN Lausitz",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-063c-4208-94e1-5216fef7a724",
+    "name": "Vollprogramm",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+    "name": "SLM",
+    "type": "organization",
+    "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+  },
+  "rfLicenseUntil": "30.06.2032",
+  "rfLicensed": "03.07.2023",
+  "rfLicenseFrom": "01.07.2023"
+}

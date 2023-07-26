@@ -1,0 +1,24 @@
+{
+  "name": "MyTVplus Fernsehproduktions GmbH",
+  "squuid": "64c10f04-6e02-41b1-9b8d-b95ea3bd679a",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "state": "active",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "MyTVplus",
+        "squuid": "5c581406-3d7c-4a5a-a911-aee208c47151"
+      },
+      "squuid": "64c10f38-d459-4a01-b8da-20a2f83ae34a",
+      "state": "active"
+    }
+  ]
+}

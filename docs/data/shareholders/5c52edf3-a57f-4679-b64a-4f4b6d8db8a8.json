@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Heidenau",
   "note": "Vorstandsvorsitzender: Erik Menz",
   "supplierConsortium": false,
@@ -11,22 +11,11 @@
   "streetNumber": "2",
   "organizations": [
     {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "01809",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Heidenau TV",
-        "squuid": "5c1cda14-0d35-49f9-b287-045587da5558"
-      },
-      "squuid": "5c52ef50-1b12-4dbe-b8ba-7ed1b8a5ca3b",
-      "state": "active"
-    }
-  ]
+  "zipcode": "01809"
 }
