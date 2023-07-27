@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "64c22f5a-eda5-45bc-a47d-56095e316de7",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Antenne Bayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-5d70-4275-a2da-4ea50ee1b6af"
+      },
+      "squuid": "64c22f76-3387-4e2e-9e5d-56905706d978",
+      "state": "active"
+    }
+  ],
+  "name": "www.oldie-antenne.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2023-07-27T08:48:35.040Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

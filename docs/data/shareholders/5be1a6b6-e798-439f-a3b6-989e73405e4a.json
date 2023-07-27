@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Pirna",
   "pseudoCompany": false,
   "street": "Gerichtsstraße",
@@ -10,67 +10,11 @@
   "streetNumber": "4a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "01796",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Prohlis-TV",
-        "squuid": "5be1a6b1-8aa4-453f-8968-62ad2832e320"
-      },
-      "squuid": "5be1a6b9-f6b0-4419-8ef7-553188945a89",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Pirna-TV",
-        "squuid": "5d0b5aed-4060-4fae-9477-0b30fc0f7809"
-      },
-      "squuid": "5d0b5c0b-75f4-4fe6-bf90-adadfc8b08af",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.pirna-tv.de",
-        "squuid": "5f7ee4e8-2f92-4d09-a53b-19e6acc9fe70"
-      },
-      "squuid": "5f7ee518-5f4a-4589-9455-ed51011b0e41",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Thume, Dominique",
-        "squuid": "5be1a6b6-ad13-4ce2-afef-ba4245483bed"
-      },
-      "squuid": "5e4fa96e-2c7c-4a04-9910-e08e7fc0438b",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "fahrwerkfilm GmbH",
-        "squuid": "5f7ee61c-d0c7-4d07-b7da-640c8ba1bd92"
-      },
-      "squuid": "5f7ee65e-24d8-4dba-8605-f564863c4193",
-      "state": "active"
-    }
-  ]
+  "zipcode": "01796"
 }

@@ -1,12 +1,28 @@
 {
   "name": "Gunz, Dietmar",
   "squuid": "64c0ead0-6971-449d-aeb0-25ff0a9bdc29",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.06,
+      "held": {
+        "name": "FTI Finanzholding GmbH",
+        "squuid": "64be3682-ff24-4fce-91af-627843c14da8"
+      },
+      "squuid": "64c0eb1e-420c-4517-aec0-8704b6d29770",
+      "state": "active"
+    }
+  ],
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "state": "active"

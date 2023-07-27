@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Zittau",
   "note": "Radio Oberlausitz International",
   "pseudoCompany": false,
@@ -10,36 +10,11 @@
   "streetNumber": "12",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "02763",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Radio Oberlausitz International",
-        "squuid": "5d0b75ac-63b0-45a2-875b-30125fd598c8"
-      },
-      "squuid": "5d0b76a8-e096-43f0-9758-0fcaf9406dd8",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.radio-oberlausitz-international.de",
-        "squuid": "5f7ef1c1-2a6a-49af-ae01-43ffc1ef62d2"
-      },
-      "squuid": "5f7ef29c-9eb8-4e68-a621-70239dfca2ca",
-      "state": "active"
-    }
-  ]
+  "zipcode": "02763"
 }
