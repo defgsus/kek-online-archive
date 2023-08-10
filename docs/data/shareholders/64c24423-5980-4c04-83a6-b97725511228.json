@@ -1,12 +1,35 @@
 {
   "name": "Bogen, Rico",
   "squuid": "64c24423-5980-4c04-83a6-b97725511228",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.0,
+      "held": {
+        "name": "Bogen GmbH",
+        "squuid": "64ad5828-18f8-4701-9ce2-4e7f0fdf8abd"
+      },
+      "squuid": "64c2448b-7858-4005-a3f1-f4d287db4535",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active"

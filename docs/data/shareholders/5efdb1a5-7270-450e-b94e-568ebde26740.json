@@ -2,13 +2,36 @@
   "name": "Kirmse, Thomas",
   "pseudoCompany": false,
   "squuid": "5efdb1a5-7270-450e-b94e-568ebde26740",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "MDK Management & design Kirmse GmbH",
+        "squuid": "64ad587c-5161-405d-bce7-4b27080f24b0"
+      },
+      "squuid": "64c24570-cf80-4732-84d8-74c946931995",
+      "state": "active"
+    }
+  ],
   "city": "Leipzig",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active",

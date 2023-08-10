@@ -1,12 +1,35 @@
 {
   "name": "Bogen, Kathrin",
   "squuid": "64c24418-2002-4913-a25a-c73a60ccb6da",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Bogen GmbH",
+        "squuid": "64ad5828-18f8-4701-9ce2-4e7f0fdf8abd"
+      },
+      "squuid": "64c24472-788a-4df3-bd83-68af0f1cb567",
+      "state": "active"
+    }
+  ],
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "LPR Hessen",
+      "type": "organization",
+      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "state": "active"
