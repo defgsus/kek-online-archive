@@ -2,16 +2,6 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 37.5,
-      "held": {
-        "name": "Volks.TV Verwaltung GmbH",
-        "squuid": "5be1a6b6-329f-4d8b-b464-17da8ebff983"
-      },
-      "squuid": "5be1a6b8-7487-4b5f-8692-f30be896e8a7",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 12.0,
       "held": {
         "name": "DFA NRW Holding GmbH",
@@ -34,14 +24,15 @@
   "streetNumber": "82",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
       "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
