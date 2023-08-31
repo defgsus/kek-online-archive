@@ -1,0 +1,75 @@
+{
+  "rfRepresentative": "Alice Mascia",
+  "state": "active",
+  "sharesInfo": "KEK 1154",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Thomas Krumrey",
+  "rfStartDate": "01.12.2022",
+  "rfFreePay": true,
+  "squuid": "64f07b5e-e2e3-4965-baef-e22a6d878159",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.dazn.com/de",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "DAZN DACH GmbH",
+        "squuid": "5ce64e36-cd7f-4914-b720-b6ec442d403d"
+      },
+      "squuid": "64f08236-4e11-4aa4-8e92-da99f6cf65c3",
+      "state": "active"
+    }
+  ],
+  "name": "DAZN FAST",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Sportspartenprogramm mit Dokumentationen, Interviews, Shows und Fußball-Partien aus internationalen Ligen im zeitversetzten „Re-Live“-Modus.",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "18.07.2023",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-c433-49e9-b390-5073f0f89b78",
+      "name": "waipu.tv / EXARING AG",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "18.07.2023",
+  "accessibilityEmail": "help@dazn.com",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

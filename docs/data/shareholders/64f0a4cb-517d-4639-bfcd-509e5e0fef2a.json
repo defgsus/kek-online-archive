@@ -1,0 +1,46 @@
+{
+  "name": "Radio WSW GmbH",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 65.32,
+      "holder": {
+        "name": "Fernsehen in Dresden GmbH",
+        "squuid": "5be1a6b6-84ba-4a5c-9d21-ea5fb602619f"
+      },
+      "squuid": "64f0a51e-327c-4d13-8db6-d4a373a1156f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 34.68,
+      "holder": {
+        "name": "Jung, Rico",
+        "squuid": "5be1a6b6-32ce-4003-b9b3-bf0730c9e3b6"
+      },
+      "squuid": "64f0a531-b4a1-411a-bb87-b51a3d6deebb",
+      "state": "active"
+    }
+  ],
+  "squuid": "64f0a4cb-517d-4639-bfcd-509e5e0fef2a",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "state": "active",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio WSW",
+        "squuid": "5be1a6b1-8a94-4c96-8c3b-8f2b89f33a87"
+      },
+      "squuid": "64f0a4e6-7040-4332-ae62-15de8b5d8c30",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "rfRepresentative": "Alexander Trauttmansdorff",
+  "state": "active",
+  "sharesInfo": "KEK 1161",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Julia Hofmann",
+  "rfStartDate": "01.06.2023",
+  "rfFreePay": true,
+  "squuid": "64f09fee-5463-4d18-94aa-cda84fe01a74",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://justcooking.tv",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "High View GmbH",
+        "squuid": "5be1a6b6-e79a-4eb6-a721-0a69e892e6e9"
+      },
+      "squuid": "64f0a435-7af0-468f-b521-828f9f19eb9a",
+      "state": "active"
+    }
+  ],
+  "name": "Just Cooking",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Unterhaltungsspartenprogramm, das sich an Kochbegeisterte wendet. Gesendet werden Kochshows, Dokumentationen und Sendungen rund ums Essen und Kochen.",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "20.06.2023",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra / Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-c433-49e9-b390-5073f0f89b78",
+      "name": "waipu.tv / EXARING AG",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "20.06.2023",
+  "accessibilityEmail": "info@justcooking.tv",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

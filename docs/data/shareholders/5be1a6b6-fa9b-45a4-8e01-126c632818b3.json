@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Weißwasser",
   "supplierConsortium": false,
   "pseudoCompany": false,
@@ -11,63 +11,11 @@
   "streetNumber": "54a",
   "organizations": [
     {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "02943",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Radio WSW",
-        "squuid": "5be1a6b1-8a94-4c96-8c3b-8f2b89f33a87"
-      },
-      "squuid": "5be1a6b9-7cd4-41fd-b705-fe8c1f68e4c6",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Radio WSW - TV",
-        "squuid": "5c581eb4-ea74-4a9e-b851-69102699e5a8"
-      },
-      "squuid": "5c5822d0-ee31-4464-977c-47950a966480",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 34.68,
-      "holder": {
-        "name": "Jurk, Egbert",
-        "squuid": "5be1a6b6-e35e-4415-b76c-5e2e8a73e279"
-      },
-      "squuid": "5e4fa9d4-9ff2-40d6-ad63-9e4e91a7f3a3",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 34.68,
-      "holder": {
-        "name": "Jung, Rico",
-        "squuid": "5be1a6b6-32ce-4003-b9b3-bf0730c9e3b6"
-      },
-      "squuid": "5e4faa36-c121-47f1-a788-b6a6d3d083fe",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 30.64,
-      "holder": {
-        "name": "Europor Massivhaus GmbH",
-        "squuid": "5be1a6b6-1d23-4c69-ae5d-5ba96e8eeb80"
-      },
-      "squuid": "5e4faa50-63f4-47b3-9cdc-ab7ee1460028",
-      "state": "active"
-    }
-  ]
+  "zipcode": "02943"
 }
