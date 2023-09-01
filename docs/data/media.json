@@ -35827,7 +35827,7 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     "rfStatewide": false,
-    "name": "SecondRadio",
+    "name": "SecondRadio UG",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -80353,6 +80353,31 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "name": "Rundfunk-Kombinat Sachsen",
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "squuid": "64f1d4e1-17d1-4778-8751-e531f1a0f064",
+    "state": "active"
+  },
+  {
     "pressPublishingIntervals": 262,
     "matchedNames": [
       "taz die tageszeitung"
@@ -82258,6 +82283,25 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "name": "STAR FM MAXIMUM ROCK Sachsen",
+    "type": "radio",
+    "squuid": "64f1d85d-684b-41df-8dc2-23e223c64419",
+    "state": "active"
   },
   {
     "organization": {
@@ -122364,8 +122408,8 @@
     "name": "Radio Galaxy Sachsen",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-      "name": "Noch nicht auf Sendung",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -122588,8 +122632,8 @@
     "name": "89.0 RTL (Sachsen)",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-      "name": "Noch nicht auf Sendung",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -122745,8 +122789,8 @@
     "name": "Radio Teddy (Sachsen)",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-      "name": "Noch nicht auf Sendung",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -122795,8 +122839,8 @@
     "name": "JAM FM Sachsen",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-      "name": "Noch nicht auf Sendung",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -124547,7 +124591,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5c581eb4-ea74-4a9e-b851-69102699e5a8",
     "organization": {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -124559,8 +124603,8 @@
     "name": "Radio WSW - TV",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-      "name": "auf Sendung",
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
       "type": "broadcast-status",
       "state": "active"
     },

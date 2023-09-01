@@ -1,0 +1,28 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "street": "Paul-Gruner-Straße",
+  "name": "Sächsischer Landesverband Freier Radios e.V.",
+  "squuid": "64f1d5b3-10d3-4995-823d-577d88fc152f",
+  "streetNumber": "62",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04107",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rundfunk-Kombinat Sachsen",
+        "squuid": "64f1d4e1-17d1-4778-8751-e531f1a0f064"
+      },
+      "squuid": "64f1d60b-8278-40a6-b8b5-a45354fe510a",
+      "state": "active"
+    }
+  ]
+}
