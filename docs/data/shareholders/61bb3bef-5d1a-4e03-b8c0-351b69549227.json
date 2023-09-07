@@ -1,5 +1,6 @@
 {
   "name": "Schmidt, Gerd",
+  "pseudoCompany": false,
   "squuid": "61bb3bef-5d1a-4e03-b8c0-351b69549227",
   "owns": [
     {
@@ -13,11 +14,18 @@
       "state": "active"
     }
   ],
+  "city": "Leipzig",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -26,5 +34,6 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }

@@ -1,5 +1,6 @@
 {
   "name": "Zimmermann, Peter",
+  "pseudoCompany": false,
   "squuid": "61bb3c0c-409e-44fc-b5fe-e9c00332f0df",
   "owns": [
     {
@@ -11,13 +12,30 @@
       },
       "squuid": "62963342-8afb-4d9c-8b26-8eb6934ccaf6",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Willi Lau Industries UG",
+        "squuid": "634ed3aa-4c9d-4de4-9fe4-8ce8a35a48d1"
+      },
+      "squuid": "63501742-916c-4037-b432-69688549df52",
+      "state": "active"
     }
   ],
+  "city": "Leipzig",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -26,5 +44,6 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "naturalPerson": true
 }
