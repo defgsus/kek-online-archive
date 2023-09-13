@@ -90,9 +90,9 @@
     },
     {
       "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "LPR Hessen",
+      "name": "Medienanstalt Hessen",
       "type": "organization",
-      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Medienanstalt Hessen"
     },
     {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
@@ -138,12 +138,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 99.8,
       "holder": {
         "name": "Schwenk Medien Holding GmbH",
         "squuid": "5be1a6b6-bb57-49cb-9c94-3a89e3ac01d0"
       },
       "squuid": "5be1a6b8-35b1-41df-a6d9-4fd224162ce3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.2,
+      "holder": {
+        "name": "Schwenk, Stephan",
+        "squuid": "5be1a6b6-fb21-4b9a-9e14-d7e66a4720bb"
+      },
+      "squuid": "64abcfb2-5f5e-4ba7-b239-4b552bcd2236",
       "state": "active"
     }
   ]

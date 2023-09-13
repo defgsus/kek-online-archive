@@ -34,10 +34,32 @@
     },
     {
       "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "LPR Hessen",
+      "name": "Medienanstalt Hessen",
       "type": "organization",
-      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Medienanstalt Hessen"
     }
   ],
-  "zipcode": "04103"
+  "zipcode": "04103",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Kirmse, Thomas",
+        "squuid": "5efdb1a5-7270-450e-b94e-568ebde26740"
+      },
+      "squuid": "64c24570-cf80-4732-84d8-74c946931995",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Kirmse, Katrin",
+        "squuid": "64c24580-a4c0-429c-bce4-3b3f4995b790"
+      },
+      "squuid": "64c24643-494f-40e0-a07a-e8506cc5f3db",
+      "state": "active"
+    }
+  ]
 }

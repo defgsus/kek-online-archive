@@ -5,7 +5,7 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 55.0,
+      "capitalShares": 0.0,
       "held": {
         "name": "Lokal-Radio Cottbus GmbH",
         "squuid": "5be1a6b6-9417-45d2-b1c0-971ab49e6394"
@@ -32,9 +32,20 @@
       },
       "squuid": "5be1a6b8-038f-4388-8bef-eb3550e95cf0",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.2,
+      "held": {
+        "name": "The Radio Group Holding GmbH",
+        "squuid": "5be1a6b6-0b31-4cd0-88b2-e247324913be"
+      },
+      "squuid": "64abcfb2-5f5e-4ba7-b239-4b552bcd2236",
+      "state": "active"
     }
   ],
   "city": "Nürnberg",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -55,9 +66,9 @@
     },
     {
       "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "LPR Hessen",
+      "name": "Medienanstalt Hessen",
       "type": "organization",
-      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Medienanstalt Hessen"
     },
     {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
@@ -78,6 +89,5 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }

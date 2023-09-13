@@ -46,9 +46,9 @@
     },
     {
       "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "LPR Hessen",
+      "name": "Medienanstalt Hessen",
       "type": "organization",
-      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Medienanstalt Hessen"
     },
     {
       "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
@@ -105,5 +105,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "38104"
+  "zipcode": "38104",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Medien Union GmbH Ludwigshafen",
+        "squuid": "5be1a6b6-c7c8-4983-84f6-ada451aec436"
+      },
+      "squuid": "64c2479c-2978-4972-8b2e-17bac8036792",
+      "state": "active"
+    }
+  ]
 }

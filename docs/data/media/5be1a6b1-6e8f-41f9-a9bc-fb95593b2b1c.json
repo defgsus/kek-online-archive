@@ -1,8 +1,8 @@
 {
-  "rfRepresentative": "Klaus Popa, Sven Fockner, Paulin Giurgi, Wolfgang Schick",
+  "rfRepresentative": "Klaus Popa, Paulin Giurgi, Wolfgang Schick",
   "state": "active",
   "rfShoppingChannel": false,
-  "rfParentalAdvisor": "Joachim Lippert",
+  "rfParentalAdvisor": "Naila Warning",
   "rfStartDate": "März 2009",
   "rfFreePay": true,
   "squuid": "5be1a6b1-6e8f-41f9-a9bc-fb95593b2b1c",
@@ -42,9 +42,9 @@
   },
   "rfSupervisingAuthority": {
     "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-    "name": "LPR Hessen",
+    "name": "Medienanstalt Hessen",
     "type": "organization",
-    "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+    "fullName": "Medienanstalt Hessen"
   },
   "description": "Spartenprogramm mit Schwerpunkt auf religiösen Themen",
   "rfLicenseUntil": "06.02.2024",
@@ -57,19 +57,8 @@
   "rfLicensed": "16.05.2019",
   "platformOperators": [
     {
-      "squuid": "5be1a6b0-2315-4639-ad7e-4ee0ca15d951",
-      "name": "Unitymedia",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
-        "name": "Kabel",
-        "type": "distribution-type"
-      },
-      "state": "active"
-    },
-    {
       "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
-      "name": "Astra Deutschland GmbH",
+      "name": "Astra / Astra Deutschland GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
@@ -85,17 +74,6 @@
       "distributionType": {
         "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
         "name": "OTT",
-        "type": "distribution-type"
-      },
-      "state": "active"
-    },
-    {
-      "squuid": "5be1a6b0-d7a7-4bd8-a6c4-89a1eb1c79a0",
-      "name": "Lokale Kabelnetze (veraltet)",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
-        "name": "Kabel",
         "type": "distribution-type"
       },
       "state": "active"

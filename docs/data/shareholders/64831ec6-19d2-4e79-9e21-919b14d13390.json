@@ -1,5 +1,6 @@
 {
   "name": "Vatter, Felix",
+  "pseudoCompany": false,
   "squuid": "64831ec6-19d2-4e79-9e21-919b14d13390",
   "owns": [
     {
@@ -23,6 +24,8 @@
       "state": "active"
     }
   ],
+  "city": "München",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -37,10 +40,10 @@
     },
     {
       "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "LPR Hessen",
+      "name": "Medienanstalt Hessen",
       "type": "organization",
-      "fullName": "Hessische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Medienanstalt Hessen"
     }
   ],
-  "state": "active"
+  "naturalPerson": true
 }
