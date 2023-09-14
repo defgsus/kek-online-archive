@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Chemnitz",
   "note": "",
   "supplierConsortium": false,
@@ -14,35 +14,12 @@
   "streetNumber": "15",
   "organizations": [
     {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "09111",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "SACHSEN FERNSEHEN Vogtland",
-        "squuid": "64c1125a-81f7-4d22-a566-4b2827f57b3b"
-      },
-      "squuid": "64c113e5-00ca-4cca-926e-f9951007cb63",
-      "state": "active"
-    }
-  ],
-  "credits": "SLM",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "HAESWE GmbH",
-        "squuid": "5be1a6b6-a309-4585-b5b2-491d732594db"
-      },
-      "squuid": "5be1a6b8-1bf4-4fc9-ba5c-96939d9e814b",
-      "state": "active"
-    }
-  ]
+  "credits": "SLM"
 }
