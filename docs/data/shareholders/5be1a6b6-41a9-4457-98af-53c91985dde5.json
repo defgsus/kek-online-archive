@@ -18,7 +18,7 @@
   "name": "1&1 Telecommunication SE",
   "naturalPerson": false,
   "squuid": "5be1a6b6-41a9-4457-98af-53c91985dde5",
-  "controlDate": "2023-05-10T08:53:02.212Z",
+  "controlDate": "2023-09-22T14:33:28.003Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -31,12 +31,32 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 78.32,
       "holder": {
         "name": "United Internet AG",
         "squuid": "5be1a6b6-31a4-4dcb-803b-bd766012a357"
       },
       "squuid": "5be1a6b8-b1f5-4c5a-b0bf-425951d7776d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.26,
+      "holder": {
+        "name": "Eigenbesitz der 1&1 Telecommunication SE",
+        "squuid": "650da616-a0ae-4243-831c-7b982cd9c9ba"
+      },
+      "squuid": "650da648-4f08-4087-9fe5-c40887d8451f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 21.42,
+      "holder": {
+        "name": "Streubesitz an der 1&1 Telecommunication SE",
+        "squuid": "650da632-5148-4a6d-954e-22ecbe1f1041"
+      },
+      "squuid": "650da679-c40b-4b32-a7ba-8a3bae587651",
       "state": "active"
     }
   ]
