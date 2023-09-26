@@ -6,7 +6,7 @@
   "name": "ad hoc news Portal Aktiengesellschaft",
   "naturalPerson": false,
   "squuid": "5be1a6b6-1469-48c8-a637-2a8bd157dfb5",
-  "controlDate": "2023-05-10T11:50:02.073Z",
+  "controlDate": "2023-09-26T11:11:06.421Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +26,17 @@
       "state": "active"
     }
   ],
-  "credits": "IJK"
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "trading-house.net AG",
+        "squuid": "6512c022-877d-48fc-86f0-9dbd6ae0c133"
+      },
+      "squuid": "6512c06c-5bfb-480c-997c-8c9f0c09f813",
+      "state": "active"
+    }
+  ]
 }
