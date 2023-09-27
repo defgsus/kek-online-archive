@@ -1,39 +1,4 @@
 {
-  "name": "Anbietergemeinschaft der gemeinnützigen, kulturellen und kirchlichen Institutionen",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 2.15,
-      "holder": {
-        "name": "Diözese Passau K.d.ö.R.",
-        "squuid": "5be1a6b6-77cd-4f1e-a8b9-73fda58c3ae4"
-      },
-      "squuid": "5be1a6b7-2a71-4472-b988-50b6265c67d6",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 2.15,
-      "holder": {
-        "name": "Evangelisches Bildungswerk im Dekanat Passau",
-        "squuid": "5be1a6b6-92a0-4960-af31-577d040c5612"
-      },
-      "squuid": "5be1a6b7-a21a-4556-a4e9-8326dbeef8c2",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.13,
-      "holder": {
-        "name": "ebiz GmbH",
-        "squuid": "5ca5f485-2f5b-480e-9ff5-23fe9505c952"
-      },
-      "squuid": "5ca5f4a7-f242-47ee-b4b2-e675d703971a",
-      "state": "active"
-    }
-  ],
-  "squuid": "5be1a6b6-a812-4351-a6f9-7dfdb287eeb8",
   "owns": [
     {
       "type": "own",
@@ -56,6 +21,12 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Anbietergemeinschaft der gemeinnützigen, kulturellen und kirchlichen Institutionen",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a812-4351-a6f9-7dfdb287eeb8",
+  "controlDate": "2023-09-27T09:55:22.133Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -93,6 +64,36 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 2.15,
+      "holder": {
+        "name": "Diözese Passau K.d.ö.R.",
+        "squuid": "5be1a6b6-77cd-4f1e-a8b9-73fda58c3ae4"
+      },
+      "squuid": "5be1a6b7-2a71-4472-b988-50b6265c67d6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.15,
+      "holder": {
+        "name": "Evangelisches Bildungswerk im Dekanat Passau",
+        "squuid": "5be1a6b6-92a0-4960-af31-577d040c5612"
+      },
+      "squuid": "5be1a6b7-a21a-4556-a4e9-8326dbeef8c2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.13,
+      "holder": {
+        "name": "ebiz GmbH",
+        "squuid": "5ca5f485-2f5b-480e-9ff5-23fe9505c952"
+      },
+      "squuid": "5ca5f4a7-f242-47ee-b4b2-e675d703971a",
+      "state": "active"
+    }
+  ]
 }
