@@ -1,24 +1,13 @@
 {
   "name": "Nürburgring Holding GmbH",
   "squuid": "651d6ce4-8179-40ea-9bc8-82938cf5cb4e",
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 60.0,
-      "held": {
-        "name": "VLN VV GmbH & Co. KG",
-        "squuid": "5fd4004a-fc02-4e89-adec-ab42e6e45b2f"
-      },
-      "squuid": "651d7111-275a-43d3-b63d-c8e68fb3220b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ]
 }
