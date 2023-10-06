@@ -3,10 +3,10 @@
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Mehringdamm 33",
-  "name": "Axel Springer Mediahouse Berlin GmbH",
+  "name": "Mediahouse Berlin GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-76a0-431d-8d98-a87fa233ed68",
-  "controlDate": "2023-05-15T11:17:27.879Z",
+  "controlDate": "2023-10-06T09:59:30.129Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -75,12 +75,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 20.0,
       "holder": {
         "name": "Axel Springer SE",
         "squuid": "5be1a6b6-5c1b-48b1-ad15-85241452bf42"
       },
       "squuid": "5be1a6b8-4847-495c-b2bd-a3111f394d90",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Kalb, Petra",
+        "squuid": "649085c6-6081-4cda-b8d4-11e620b87368"
+      },
+      "squuid": "649085ee-c860-4ba5-900d-e7c5daea303f",
       "state": "active"
     }
   ]

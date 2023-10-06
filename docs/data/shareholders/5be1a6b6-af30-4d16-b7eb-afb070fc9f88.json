@@ -1,4 +1,36 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "WeltN24 GmbH",
+        "squuid": "5be1a6b6-4dcb-4243-9296-0269946f3264"
+      },
+      "squuid": "651415a0-a01b-43d3-9fda-c353d9bbbe01",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "Transfermarkt GmbH & Co KG",
+        "squuid": "5be1a6b6-e50d-423a-bf4d-ed907211e84c"
+      },
+      "squuid": "65144641-3394-4966-bb55-d562308e6b97",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "Transfermarkt Verwaltungs GmbH",
+        "squuid": "5f059c15-7f0b-46a8-b827-84b0a532a129"
+      },
+      "squuid": "65144656-38a9-47ba-979d-5503916d4e5f",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Berlin",
   "pseudoCompany": false,
@@ -6,7 +38,7 @@
   "name": "Axel Springer Deutschland GmbH ",
   "naturalPerson": false,
   "squuid": "5be1a6b6-af30-4d16-b7eb-afb070fc9f88",
-  "controlDate": "2023-05-17T10:07:20.482Z",
+  "controlDate": "2023-10-06T09:48:13.975Z",
   "streetNumber": "65",
   "organizations": [
     {
