@@ -1,8 +1,4 @@
 {
-  "name": "Bankhaus Metzler",
-  "pseudoCompany": false,
-  "controlDate": "2021-12-06T10:21:56.264Z",
-  "squuid": "5d302751-406c-4463-a0a8-fe7dc124b9fb",
   "owns": [
     {
       "type": "own",
@@ -15,6 +11,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Untermainanlage",
+  "name": "Bankhaus Metzler",
+  "naturalPerson": false,
+  "squuid": "5d302751-406c-4463-a0a8-fe7dc124b9fb",
+  "controlDate": "2023-10-09T10:51:11.911Z",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -27,6 +32,5 @@
       "type": "organization"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "zipcode": "60329"
 }

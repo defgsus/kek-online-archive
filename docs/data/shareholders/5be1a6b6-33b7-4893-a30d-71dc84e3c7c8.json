@@ -1,29 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 12.5,
-      "held": {
-        "name": "OL-Regionalfernseh GmbH",
-        "squuid": "5be1a6b6-42b4-4977-aff4-13791fb90bd1"
-      },
-      "squuid": "5e4fa82e-6b89-4fc0-890d-3177660cdb7b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Hainewalde",
   "note": "Herr Schüttig ist wohl verstorben – keine Änderungsanzeige durch Veranstalter",
-  "pseudoCompany": false,
   "name": "Schüttig, Berndt",
-  "naturalPerson": true,
+  "pseudoCompany": false,
   "squuid": "5be1a6b6-33b7-4893-a30d-71dc84e3c7c8",
+  "city": "Hainewalde",
+  "state": "active",
   "organizations": [
     {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

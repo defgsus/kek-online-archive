@@ -1,7 +1,4 @@
 {
-  "name": "Bahja AG",
-  "pseudoCompany": false,
-  "squuid": "63c57c76-7ec9-414f-8ee1-f1c7d3faf1bb",
   "owns": [
     {
       "type": "own",
@@ -14,7 +11,13 @@
       "state": "active"
     }
   ],
+  "state": "active",
   "city": "Samnaum (CH)",
+  "pseudoCompany": false,
+  "name": "Bahja AG",
+  "naturalPerson": false,
+  "squuid": "63c57c76-7ec9-414f-8ee1-f1c7d3faf1bb",
+  "controlDate": "2023-10-09T10:39:32.737Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -26,7 +29,5 @@
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "state": "active",
-  "naturalPerson": false
+  ]
 }
