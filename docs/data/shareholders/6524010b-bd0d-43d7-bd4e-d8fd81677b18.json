@@ -1,13 +1,29 @@
 {
   "name": "Republic of Singapore",
   "squuid": "6524010b-bd0d-43d7-bd4e-d8fd81677b18",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.97,
+      "held": {
+        "name": "Bayer AG",
+        "squuid": "5ce2b67a-b645-48a8-80c9-697b6d21514e"
+      },
+      "squuid": "65240139-b367-44e1-b37b-96a56b30d611",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
