@@ -1,19 +1,21 @@
 {
-  "name": "Streubesitz an der MFE-MEDIAFOREUROPE N. V.",
+  "name": "Streubesitz an der MFE MEDIAFOREUROPE N. V.",
   "controlDate": "2021-12-29T14:07:29.493Z",
   "squuid": "6093bdf7-7900-48a6-8bd8-9174908f1955",
   "owns": [
     {
       "type": "own",
-      "capitalShares": 23.42,
+      "capitalShares": 25.8,
       "held": {
-        "name": "MFE-MEDIAFOREUROPE N. V.",
+        "name": "MFE MEDIAFOREUROPE N. V.",
         "squuid": "5e303067-ee73-4e4c-9496-f3aec4626bc0"
       },
       "squuid": "6093bf22-b6f4-47fa-aa80-296cf2ee6f7e",
-      "state": "active"
+      "state": "active",
+      "votingShares": 26.7
     }
   ],
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -49,6 +51,5 @@
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ],
-  "state": "active"
+  ]
 }

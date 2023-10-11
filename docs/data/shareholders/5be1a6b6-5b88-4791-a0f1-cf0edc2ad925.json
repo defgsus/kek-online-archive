@@ -29,7 +29,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-5b88-4791-a0f1-cf0edc2ad925",
-  "controlDate": "2023-03-02T15:24:58.176Z",
+  "controlDate": "2023-10-11T12:19:45.628Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -43,5 +43,99 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "25746"
+  "zipcode": "25746",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Boyens Verwaltungsgesellschaft mbH",
+        "squuid": "5ebbdfd7-f613-46c9-ad95-eb61744b25f9"
+      },
+      "squuid": "6400bfcc-42f3-4a49-a5d9-b2839b957508",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Boyens, Sönke",
+        "squuid": "5ebbdfba-e4fd-4ebc-a267-972e226b3ae6"
+      },
+      "squuid": "6400bfdf-fc2f-432e-bb0f-55dd13e88f02",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.13,
+      "holder": {
+        "name": "Frauen, Dr. Martin",
+        "squuid": "5be1a6b6-60e2-47b2-a006-d4046bb89212"
+      },
+      "squuid": "6400bff3-8471-4485-8d4d-fa118120fbb4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.82,
+      "holder": {
+        "name": "Frauen, Henrik",
+        "squuid": "5ebbe1f8-f6fc-4bdc-8151-82a540aca30a"
+      },
+      "squuid": "6400c009-798f-4a0c-b110-3cd05665183e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.85,
+      "holder": {
+        "name": "Bues, Heino",
+        "squuid": "5be1a6b6-529f-425f-b4ba-c871bd2309b3"
+      },
+      "squuid": "6400c01d-c655-485a-9aae-129290fc2bad",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.78,
+      "holder": {
+        "name": "Bues, Christian Heino",
+        "squuid": "62a0a64f-9c03-4ab1-8d4e-3d2bd98193a7"
+      },
+      "squuid": "6400c041-ab48-43f6-aba6-774566b7444a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.6,
+      "holder": {
+        "name": "Boyens, Inken",
+        "squuid": "5be1a6b6-c716-4402-8481-c74e2c616847"
+      },
+      "squuid": "6400c058-cddc-44db-9298-c5e17afc63ac",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 13.57,
+      "holder": {
+        "name": "Boyens, Elke",
+        "squuid": "5be1a6b6-ec9d-4970-988e-f86d50b0b767"
+      },
+      "squuid": "6400c06e-d473-4c2c-93da-db913e871f1d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.25,
+      "holder": {
+        "name": "Brandt, Antje",
+        "squuid": "5be1a6b6-021e-45ec-a021-671693b79e8b"
+      },
+      "squuid": "6400c07f-760a-48f4-b3d6-58f9050a369d",
+      "state": "active"
+    }
+  ]
 }

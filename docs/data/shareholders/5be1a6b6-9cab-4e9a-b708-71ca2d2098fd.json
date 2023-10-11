@@ -12,13 +12,14 @@
     },
     {
       "type": "own",
-      "capitalShares": 7.1,
+      "capitalShares": 7.0,
       "held": {
         "name": "Comcast Corporation",
         "squuid": "5be1a6b6-af31-4675-bfe5-541d276d90b2"
       },
       "squuid": "5be1a6b7-62c6-499f-9e58-a9d2eb57c92b",
-      "state": "active"
+      "state": "active",
+      "votingShares": 4.7
     },
     {
       "type": "own",
@@ -34,7 +35,7 @@
       "type": "own",
       "capitalShares": 4.47,
       "held": {
-        "name": "Daimler AG",
+        "name": "Mercedes-Benz Group AG",
         "squuid": "5be1a6b6-4684-4c43-b22b-32d4686264f0"
       },
       "squuid": "5be1a6b8-2465-483c-b313-b9e95ddab42c",
@@ -42,7 +43,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 4.74,
+      "capitalShares": 6.61,
       "held": {
         "name": "freenet AG",
         "squuid": "5be1a6b6-a84d-4be4-a38a-701020554b5d"
@@ -92,7 +93,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 3.41,
+      "capitalShares": 3.63,
       "held": {
         "name": "United Internet AG",
         "squuid": "5be1a6b6-31a4-4dcb-803b-bd766012a357"
@@ -108,16 +109,6 @@
         "squuid": "5d2de0aa-f270-44de-811e-63aca2c6e92d"
       },
       "squuid": "5d2de267-cd52-44bc-a3e6-86eb7d7537dc",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.11,
-      "held": {
-        "name": "Fraport AG",
-        "squuid": "5d30270b-4a67-4bc0-83ea-e8fd643870b2"
-      },
-      "squuid": "5d302c56-1e7e-4903-934b-b6f46a41266f",
       "state": "active"
     },
     {
@@ -172,12 +163,52 @@
     },
     {
       "type": "own",
-      "capitalShares": 4.53,
+      "capitalShares": 5.38,
       "held": {
         "name": "Deutsche Bank AG",
         "squuid": "5f1019f9-0cec-4117-9db6-06777350ca73"
       },
       "squuid": "5f17fb5c-e4e0-41c2-a05c-05d85faf265c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.8,
+      "held": {
+        "name": "Warner Bros. Discovery, Inc.",
+        "squuid": "5be1a6b6-fde0-477e-bfdd-f31e32676b3b"
+      },
+      "squuid": "61e6ba03-189c-4df6-baa2-4816f9b1f1b2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.59,
+      "held": {
+        "name": "Deutsche Börse AG",
+        "squuid": "61e6ef3f-1098-499a-b061-6327eb545487"
+      },
+      "squuid": "61e6f3be-468d-44fd-9638-e0da72f8c3a6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.45,
+      "held": {
+        "name": "Genius Brands International, Inc.",
+        "squuid": "62fb78e1-ba43-4eaa-881f-402dcbe1f830"
+      },
+      "squuid": "62fb7b22-81cb-4964-9bf7-b055f357bff4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.14,
+      "held": {
+        "name": "Deutsche Lufthansa AG",
+        "squuid": "5d302baf-273a-47b2-a322-944d8e9b680a"
+      },
+      "squuid": "63c0007a-91a3-4119-9cdf-240dbe5e88c0",
       "state": "active"
     }
   ],
@@ -187,7 +218,7 @@
   "name": "BlackRock, Inc.",
   "naturalPerson": false,
   "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd",
-  "controlDate": "2022-01-11T16:59:51.081Z",
+  "controlDate": "2023-10-11T10:18:55.587Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",

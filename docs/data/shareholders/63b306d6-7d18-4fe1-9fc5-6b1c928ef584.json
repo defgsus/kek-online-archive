@@ -17,12 +17,34 @@
   "name": "Brutkasten Media GmbH",
   "naturalPerson": false,
   "squuid": "63b306d6-7d18-4fe1-9fc5-6b1c928ef584",
-  "controlDate": "2023-05-17T14:58:04.846Z",
+  "controlDate": "2023-10-11T14:00:03.440Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 76.0,
+      "holder": {
+        "name": "VGN Medienholding GmbH",
+        "squuid": "5d2c50ba-9d72-4053-853b-bb8869992089"
+      },
+      "squuid": "6526aa52-c4a2-423f-b236-0c641c5ed9fc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "Jovicevic, Dejan",
+        "squuid": "6526aa36-f2ab-4839-b188-b6262c7dbeb5"
+      },
+      "squuid": "6526aa63-f61e-4ecf-84e7-1512f790ccf5",
+      "state": "active"
     }
   ]
 }
