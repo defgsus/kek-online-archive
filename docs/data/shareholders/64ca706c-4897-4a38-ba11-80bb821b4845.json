@@ -1,6 +1,13 @@
 {
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Völckerstr.",
   "name": "Carlsen Verlag GmbH",
+  "naturalPerson": false,
   "squuid": "64ca706c-4897-4a38-ba11-80bb821b4845",
+  "controlDate": "2023-10-12T10:47:46.666Z",
+  "streetNumber": "14-20",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -8,7 +15,7 @@
       "type": "organization"
     }
   ],
-  "state": "active",
+  "zipcode": "22765",
   "operates": [
     {
       "type": "operate",
@@ -17,6 +24,18 @@
         "squuid": "64ca6fe2-dede-4ccd-ab06-a5075041301d"
       },
       "squuid": "64ca7086-e2dc-4043-a43b-d3f386d385ad",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bonnier Media Deutschland GmbH",
+        "squuid": "6527cf3b-fc6d-4ab0-bed0-f5a5b18a40c4"
+      },
+      "squuid": "6527cf4f-fc80-485b-a758-268e8c6d9b43",
       "state": "active"
     }
   ]
