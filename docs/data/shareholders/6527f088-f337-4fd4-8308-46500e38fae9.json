@@ -1,13 +1,29 @@
 {
   "name": "Rein, Mark A.",
   "squuid": "6527f088-f337-4fd4-8308-46500e38fae9",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 62.0,
+      "held": {
+        "name": "ClipMyHorse.TV International GmbH",
+        "squuid": "5be1a6b6-dc32-4114-9294-1270b077ded8"
+      },
+      "squuid": "6527f0a0-4dfe-4d38-997e-6d16dcbf653b",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
