@@ -1,13 +1,30 @@
 {
   "name": "Lüghausen, Brigitte",
   "squuid": "6527d54d-82fa-4279-ade6-e4febf0c1a36",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Central FM Media GmbH",
+        "squuid": "5f182233-100e-4066-a16a-c3a3bbfbeeb1"
+      },
+      "squuid": "6527d580-8eca-437e-bc75-035a6a58b71c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LFM NRW",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ]
 }
