@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Freiburg",
   "pseudoCompany": false,
   "street": "Lörracher Str.",
@@ -10,33 +10,11 @@
   "streetNumber": "3",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "79115",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.freiburger-wochenbericht.de",
-        "squuid": "63c7d447-44e1-4bef-8013-6a9f2a3fa67b"
-      },
-      "squuid": "63c7d4be-020f-4dfd-ae07-88c11482b351",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "BZ.medien GmbH & Co KG",
-        "squuid": "5be1a6b6-6f79-45c0-9070-3a78ba6dbc51"
-      },
-      "squuid": "63c7d94c-4ff8-4af2-992a-634f878f5113",
-      "state": "active"
-    }
-  ]
+  "zipcode": "79115"
 }

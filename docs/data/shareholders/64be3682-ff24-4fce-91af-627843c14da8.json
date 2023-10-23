@@ -18,7 +18,7 @@
   "name": "FTI Finanzholding GmbH",
   "naturalPerson": false,
   "squuid": "64be3682-ff24-4fce-91af-627843c14da8",
-  "controlDate": "2023-07-26T09:34:52.915Z",
+  "controlDate": "2023-10-23T16:08:54.794Z",
   "streetNumber": "32",
   "organizations": [
     {
@@ -32,5 +32,57 @@
       "type": "organization"
     }
   ],
-  "zipcode": "82152"
+  "zipcode": "82152",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 6.03,
+      "holder": {
+        "name": "Jouni, Rula",
+        "squuid": "64c0eac3-06f7-4ee4-8573-4415d109b2c0"
+      },
+      "squuid": "64c0eb0d-91cf-4c61-8ea9-8f124463a5f7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.06,
+      "holder": {
+        "name": "Gunz, Dietmar",
+        "squuid": "64c0ead0-6971-449d-aeb0-25ff0a9bdc29"
+      },
+      "squuid": "64c0eb1e-420c-4517-aec0-8704b6d29770",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.8,
+      "holder": {
+        "name": "FTI Touristik GmbH",
+        "squuid": "64a5654b-aac2-4536-9c93-ce22791daa23"
+      },
+      "squuid": "64c0eb2d-3ce7-4fc7-9936-5fd7b5ea0fb8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.1,
+      "holder": {
+        "name": "SOSTNT Luxembourg S.á.r.l.",
+        "squuid": "5cda7bcf-78a8-431c-8823-ec6333215de9"
+      },
+      "squuid": "64c0eb3f-2eeb-4ce4-83ce-0ad22c64a339",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.01,
+      "holder": {
+        "name": "Streubesitz an der FTI Finanzholding GmbH",
+        "squuid": "64c0eae8-8a33-4752-a063-234533dbd3d7"
+      },
+      "squuid": "64c0eb4c-fd90-431e-be51-62a92b540625",
+      "state": "active"
+    }
+  ]
 }

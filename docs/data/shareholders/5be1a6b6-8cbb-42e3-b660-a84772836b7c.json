@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Köln",
   "note": "Stand: 6/2023",
   "pseudoCompany": false,
@@ -11,79 +11,12 @@
   "streetNumber": "26",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "Medienanstalt Hessen",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Hessen"
-    },
-    {
-      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LFM NRW",
-      "type": "organization",
-      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
-    },
-    {
-      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-      "name": "MA HSH",
-      "type": "organization",
-      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "50823",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "lulu.fm",
-        "squuid": "5be1a6b1-d266-406c-ad0d-535f8a9ed8d1"
-      },
-      "squuid": "5be1a6b9-dd5f-4d25-a5ef-7f8757067c7f",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "lulu.fm (Hamburg)",
-        "squuid": "5d1b6910-a32b-4399-9a61-a02764fc83e0"
-      },
-      "squuid": "5d1b6b22-611a-4288-a7be-7ec07c78c47c",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.lulu.fm",
-        "squuid": "5f1824ab-d856-4859-a1f3-2b74e75ca4f8"
-      },
-      "squuid": "5f1824df-3349-48cb-aae3-0a86696fe3b7",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "lulu.fm (Hessen)",
-        "squuid": "5f2bc7b5-2597-4d13-b157-0be030537ddb"
-      },
-      "squuid": "5f2bc956-4a97-492c-bdb9-4a64f51001d7",
-      "state": "active"
-    }
-  ],
-  "credits": "SLM",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Weiler, Frank",
-        "squuid": "5be1a6b6-e103-4bdd-aef5-3b0a52ebd4a1"
-      },
-      "squuid": "5be1a6b8-262f-46da-84b4-daaf445df2bc",
-      "state": "active"
-    }
-  ]
+  "credits": "SLM"
 }
