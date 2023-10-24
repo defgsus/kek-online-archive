@@ -9,6 +9,16 @@
       },
       "squuid": "64a56571-a18a-47f7-abbe-0956361a12a4",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.8,
+      "held": {
+        "name": "FTI Finanzholding GmbH",
+        "squuid": "64be3682-ff24-4fce-91af-627843c14da8"
+      },
+      "squuid": "64c0eb2d-3ce7-4fc7-9936-5fd7b5ea0fb8",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -18,7 +28,7 @@
   "name": "FTI Touristik GmbH",
   "naturalPerson": false,
   "squuid": "64a5654b-aac2-4536-9c93-ce22791daa23",
-  "controlDate": "2023-07-24T08:31:28.332Z",
+  "controlDate": "2023-10-24T08:54:54.471Z",
   "streetNumber": "88",
   "organizations": [
     {
@@ -32,5 +42,27 @@
       "type": "organization"
     }
   ],
-  "zipcode": "80339"
+  "zipcode": "80339",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 92.4,
+      "holder": {
+        "name": "FTI Finanzholding GmbH",
+        "squuid": "64be3682-ff24-4fce-91af-627843c14da8"
+      },
+      "squuid": "64be36ce-6e66-44aa-9a80-2405973d59f8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.6,
+      "holder": {
+        "name": "Eigenbesitz der FTI Touristik GmbH",
+        "squuid": "64be3699-4a01-4921-a5d6-048fb526bfc1"
+      },
+      "squuid": "64be36de-b832-4370-9d64-e5282e33f791",
+      "state": "active"
+    }
+  ]
 }
