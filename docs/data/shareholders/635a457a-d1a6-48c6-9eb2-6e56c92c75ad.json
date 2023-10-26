@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 5.0,
-      "held": {
-        "name": "Happy Story GmbH",
-        "squuid": "5e6235e3-af5f-45eb-a497-37177c6f8c3c"
-      },
-      "squuid": "635a45a3-0eba-4016-945b-7a556d220912",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Grafing",
   "pseudoCompany": false,
   "street": "Franziska-Zellner-Weg",
@@ -22,32 +10,11 @@
   "streetNumber": "12",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "85567",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.7,
-      "holder": {
-        "name": "Ditterich, Johannes",
-        "squuid": "635a4806-eed3-4be4-995b-368f3c8e46b3"
-      },
-      "squuid": "635a4868-1824-4ca7-b505-314781d975ec",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 49.3,
-      "holder": {
-        "name": "Ditterich, Sabine",
-        "squuid": "635a4811-5603-4b32-a20a-39827617d9f3"
-      },
-      "squuid": "635a4875-84ed-4f45-9b22-df18a47e864f",
-      "state": "active"
-    }
-  ]
+  "zipcode": "85567"
 }
