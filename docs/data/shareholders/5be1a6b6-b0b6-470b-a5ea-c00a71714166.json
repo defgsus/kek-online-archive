@@ -12,15 +12,15 @@
     }
   ],
   "state": "active",
-  "city": "Erfurt",
+  "city": "Weimar",
   "pseudoCompany": false,
-  "street": "Mehringstraße",
+  "street": "Schwanseestr.",
   "name": "LandesWelle Thüringen GmbH & Co. KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-b0b6-470b-a5ea-c00a71714166",
-  "controlDate": "2023-06-13T14:32:03.724Z",
-  "streetNumber": "5",
+  "controlDate": "2023-11-03T11:26:28.943Z",
+  "streetNumber": "143",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34,7 +34,7 @@
       "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
-  "zipcode": "99086",
+  "zipcode": "99427",
   "operates": [
     {
       "type": "operate",
@@ -119,16 +119,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.04,
-      "holder": {
-        "name": "Koch, Dr. Günther",
-        "squuid": "5be1a6b6-0438-4b02-b208-187330a585cd"
-      },
-      "squuid": "5be1a6b7-4702-463f-94d6-652ffd26d78e",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 31.18,
       "holder": {
         "name": "REGOLD GmbH & Co. KG",
@@ -146,6 +136,16 @@
         "squuid": "5f296061-19a8-4460-8577-f4dde104824f"
       },
       "squuid": "5f296107-2100-4c6c-b2e4-3bb664bca109",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.04,
+      "holder": {
+        "name": "Brenner, Dr. Harald",
+        "squuid": "5be1a6b6-1083-4ac8-9499-5d18b78ca801"
+      },
+      "squuid": "64887dcc-306c-430d-9c5e-3ceb3e47110d",
       "state": "active"
     }
   ]
