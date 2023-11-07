@@ -1,20 +1,46 @@
 {
-  "name": "Max Aicher Stahl AG",
-  "pseudoCompany": false,
-  "controlDate": "2023-01-13T13:26:19.199Z",
-  "squuid": "6092b0d1-a222-48ea-acd2-1ed74b2731f9",
   "owns": [
     {
       "type": "own",
-      "capitalShares": 9.15,
+      "capitalShares": 9.85,
       "held": {
         "name": "Verbundbau Mitterfelden GmbH",
         "squuid": "5ca745e7-b333-4fe3-bdf4-8a44ed104a09"
       },
       "squuid": "6092b10d-4820-4fc4-9466-d83d26a02260",
       "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Max Aicher GmbH & Co. KG",
+        "squuid": "5ca745c6-66e2-40b4-b287-313423622b76"
+      },
+      "squuid": "648b20db-ad09-4496-9bcb-037c87938ee7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "held": {
+        "name": "Max Aicher Umwelt GmbH",
+        "squuid": "6092af84-b0fc-43c0-bd93-9103ec01f75b"
+      },
+      "squuid": "648b22ac-8339-4e97-b19b-c54306a250be",
+      "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Freilassing",
+  "pseudoCompany": false,
+  "street": "Teisenbergstr.",
+  "name": "Max Aicher Stahl AG",
+  "naturalPerson": false,
+  "squuid": "6092b0d1-a222-48ea-acd2-1ed74b2731f9",
+  "controlDate": "2023-11-07T11:31:14.145Z",
+  "streetNumber": "7",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -28,6 +54,5 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "zipcode": "83395"
 }

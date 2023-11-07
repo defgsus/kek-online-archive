@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5ca745c6-66e2-40b4-b287-313423622b76",
-  "controlDate": "2023-06-15T14:30:53.809Z",
+  "controlDate": "2023-11-07T11:29:28.602Z",
   "streetNumber": "7",
   "organizations": [
     {
@@ -48,9 +48,9 @@
       "state": "active"
     },
     {
-      "complementaryPartner": true,
+      "complementaryPartner": false,
       "type": "own",
-      "capitalShares": 0.0,
+      "capitalShares": 0.37,
       "holder": {
         "name": "Max Aicher Umwelt GmbH",
         "squuid": "6092af84-b0fc-43c0-bd93-9103ec01f75b"
@@ -59,13 +59,24 @@
       "state": "active"
     },
     {
+      "complementaryPartner": true,
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 0.0,
       "holder": {
-        "name": "Aicher, Max",
-        "squuid": "5ca745ef-2a76-449e-8739-6a5995fa65f9"
+        "name": "Max Aicher Stahl AG",
+        "squuid": "6092b0d1-a222-48ea-acd2-1ed74b2731f9"
       },
-      "squuid": "6092affe-23aa-4bcf-8d51-2166d7c3d92a",
+      "squuid": "648b20db-ad09-4496-9bcb-037c87938ee7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 99.63,
+      "holder": {
+        "name": "Max Aicher Stiftung",
+        "squuid": "6092b0c0-fad8-437d-96a4-18f872dbb6fd"
+      },
+      "squuid": "648b21c6-dc3f-4049-9a51-1a24a51a93df",
       "state": "active"
     }
   ]
