@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "OK! Verlag Verwaltungsgesellschaft mbH",
-        "squuid": "5ecfc3b1-6321-4252-bdf1-ee7fd06412cc"
-      },
-      "squuid": "5ecfc450-4e6f-4f10-af83-6ab8babd40bd",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Gänsemarkt 24",
@@ -19,84 +7,15 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-de64-47c9-98b2-6d2e320f11b0",
-  "controlDate": "2023-06-22T12:33:23.868Z",
+  "controlDate": "2023-11-10T12:17:27.483Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "20354",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Jolie",
-        "squuid": "5be1a6b1-f374-48a2-ba5d-be3be76f7a3e"
-      },
-      "squuid": "5be1a6b9-6a97-459f-bacf-e753b85b1c6a",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "OK!",
-        "squuid": "5be1a6b1-db4e-4453-b7f2-8d63deb038f8"
-      },
-      "squuid": "5be1a6b9-18fa-45eb-abfb-8aebac4c9972",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.ok-magazin.de",
-        "squuid": "5be1a6b1-e186-4184-bec8-bdfd4ec91965"
-      },
-      "squuid": "5be1a6b9-cc60-4527-a0cc-222467222f29",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.jolie.de",
-        "squuid": "5be1a6b1-4479-41b1-be75-f9ca87273f5b"
-      },
-      "squuid": "5be1a6b9-8db0-46c6-a304-636e92863b28",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.maedchen.de",
-        "squuid": "5be1a6b1-de3c-4d27-abab-8cd2589e7c43"
-      },
-      "squuid": "5be1a6b9-1a33-4900-b4ae-e22adf07b5de",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Medienholding Klambt GmbH & Co KG",
-        "squuid": "5be1a6b6-7140-4499-b16b-b5c1288ef7a6"
-      },
-      "squuid": "5be1a6b8-582e-4133-b926-a9a616fe550d",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "OK! Verlag Verwaltungsgesellschaft mbH",
-        "squuid": "5ecfc3b1-6321-4252-bdf1-ee7fd06412cc"
-      },
-      "squuid": "5ecfc3d1-a386-4596-b275-ef764190e27b",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

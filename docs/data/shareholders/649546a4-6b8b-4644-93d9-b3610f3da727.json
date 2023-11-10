@@ -1,19 +1,4 @@
 {
-  "name": "Perform Holdings 2 LLC",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Access Industries, Inc.",
-        "squuid": "5be1a6b6-c2ea-4a9e-b4fe-7824708a9b57"
-      },
-      "squuid": "64954a7c-d541-4a05-ba1e-250d9e944f34",
-      "state": "active"
-    }
-  ],
-  "squuid": "649546a4-6b8b-4644-93d9-b3610f3da727",
   "owns": [
     {
       "type": "own",
@@ -26,6 +11,12 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Perform Holdings 2 LLC",
+  "naturalPerson": false,
+  "squuid": "649546a4-6b8b-4644-93d9-b3610f3da727",
+  "controlDate": "2023-11-10T15:55:38.286Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -44,6 +35,16 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Access Industries, Inc.",
+        "squuid": "5be1a6b6-c2ea-4a9e-b4fe-7824708a9b57"
+      },
+      "squuid": "64954a7c-d541-4a05-ba1e-250d9e944f34",
+      "state": "active"
+    }
+  ]
 }
