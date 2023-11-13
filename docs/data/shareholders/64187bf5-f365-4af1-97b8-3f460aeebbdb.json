@@ -4,10 +4,10 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Acolendo Ltd.",
-        "squuid": "63f5ea64-8ecb-4512-b605-f815327b1d29"
+        "name": "PPF a.s.",
+        "squuid": "64958204-e4a7-4250-ae35-3bf516a668a4"
       },
-      "squuid": "64187d3a-a0d8-4533-bb3b-f6b6b170a978",
+      "squuid": "649582b5-20b2-4763-a80f-da36a30797f6",
       "state": "active"
     }
   ],
@@ -17,7 +17,7 @@
   "name": "PPF Group N.V.",
   "naturalPerson": false,
   "squuid": "64187bf5-f365-4af1-97b8-3f460aeebbdb",
-  "controlDate": "2023-04-03T12:50:43.530Z",
+  "controlDate": "2023-11-13T11:02:45.642Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -52,6 +52,38 @@
       "name": "MA HSH",
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 98.93,
+      "holder": {
+        "name": "Kellnerová, Renáta",
+        "squuid": "642acb34-94b5-4bef-90d7-4fc96e01288f"
+      },
+      "squuid": "642acbe8-3ad7-4c33-a150-2ed9f7280113",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.535,
+      "holder": {
+        "name": "Bartonícek, Ladislav",
+        "squuid": "642acb6d-5e76-4947-b440-d86a80b3d376"
+      },
+      "squuid": "642acc02-8fe7-4507-8f08-7aff22172530",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.535,
+      "holder": {
+        "name": "Duvieusart, Jean-Pascal",
+        "squuid": "642acb9b-9991-4ad9-b061-d4180070a3ba"
+      },
+      "squuid": "642acc1d-0982-4d63-bf62-fcf9f3ce179d",
+      "state": "active"
     }
   ]
 }
