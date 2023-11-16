@@ -27,7 +27,7 @@
   "name": "Roularta Media Group N.V.",
   "naturalPerson": false,
   "squuid": "5be1a6b6-b278-460a-a1ef-4bf1799ebfbb",
-  "controlDate": "2023-07-05T12:11:33.605Z",
+  "controlDate": "2023-11-16T15:28:38.507Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -124,5 +124,57 @@
       "state": "active"
     }
   ],
-  "credits": "IJK"
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 71.17,
+      "holder": {
+        "name": "Koinon N.V.",
+        "squuid": "64a55d63-b7b8-49ed-9689-9f037d15f226"
+      },
+      "squuid": "64a55de0-16c7-4800-96e9-c0a56dfafdd7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.97,
+      "holder": {
+        "name": "SA West Investment Holding",
+        "squuid": "64a55d8b-30a3-4bc2-8112-92d67f3e2c3c"
+      },
+      "squuid": "64a55df3-dfee-4305-bc79-40ec91eb9340",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Capfi Delen Asset Management N.V.",
+        "squuid": "64a55db2-df0b-4b07-ad58-907657c52248"
+      },
+      "squuid": "64a55e0d-cf3c-43b6-a7b9-1643c764e221",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.45,
+      "holder": {
+        "name": "Eigenbesitz der Roularta Media Group N.V.",
+        "squuid": "64a55d4b-fd24-4aed-961c-429901b11f69"
+      },
+      "squuid": "64a55e22-8f28-44c6-89dd-f7edc0509b4a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.41,
+      "holder": {
+        "name": "Streubesitz an der Roularta Media Group N.V.",
+        "squuid": "64a55d2d-291b-4a4d-aba4-13cc422dc0e3"
+      },
+      "squuid": "64a55e55-0c3d-4192-bab7-f17bc6e1b0fd",
+      "state": "active"
+    }
+  ]
 }
