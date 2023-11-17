@@ -18,7 +18,7 @@
   "name": "RT/Raiffeisen Touristik Group GmbH",
   "naturalPerson": false,
   "squuid": "5cda7c06-ddde-49ca-abf3-e191216338c3",
-  "controlDate": "2023-07-05T12:37:21.539Z",
+  "controlDate": "2023-11-17T10:22:03.051Z",
   "streetNumber": "4a",
   "organizations": [
     {
@@ -36,7 +36,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 74.9,
+      "capitalShares": 42.5,
       "holder": {
         "name": "SOSTNT Luxembourg S.á.r.l.",
         "squuid": "5cda7bcf-78a8-431c-8823-ec6333215de9"
@@ -46,12 +46,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 25.1,
+      "capitalShares": 40.8,
       "holder": {
         "name": "VR meine Raiffeisenbank eG",
         "squuid": "5cda7c28-2d33-4dcb-bb23-ac78ed10c3b0"
       },
       "squuid": "5cda7ead-66aa-449a-839a-33bca8f1e685",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.7,
+      "holder": {
+        "name": "FTI Touristik GmbH",
+        "squuid": "64a5654b-aac2-4536-9c93-ce22791daa23"
+      },
+      "squuid": "64a56571-a18a-47f7-abbe-0956361a12a4",
       "state": "active"
     }
   ]

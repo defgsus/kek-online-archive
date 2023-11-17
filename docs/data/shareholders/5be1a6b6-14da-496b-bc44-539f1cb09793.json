@@ -84,7 +84,7 @@
       "type": "own",
       "capitalShares": 5.0,
       "held": {
-        "name": "Zeitungsdruckerei Rubens GmbH & Co KG",
+        "name": "Rubens 1845 GmbH & Co KG",
         "squuid": "5be1a6b6-f038-4e3f-a435-3be4287a6c9f"
       },
       "squuid": "5be1a6b8-aa13-4c3c-a87b-5498f6a82072",
@@ -244,7 +244,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "ORA Ostruhr-Anzeigenblattgesellschaft mbH & Co. KG",
+        "name": "Ostruhr-Anzeigenblattgesellschaft mbH & Co. KG",
         "squuid": "63d8e6b5-5639-4098-9e6f-ff93164df7e4"
       },
       "squuid": "63d8e9b4-1106-4de0-9ab0-433ab5e7dd24",
@@ -260,7 +260,7 @@
   "limitedPartnership": true,
   "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793",
   "otherMediaActivities": "Holding",
-  "controlDate": "2023-04-27T08:44:20.537Z",
+  "controlDate": "2023-11-17T11:14:31.132Z",
   "streetNumber": "86",
   "organizations": [
     {
@@ -286,12 +286,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 80.0,
       "holder": {
-        "name": "Verlag Lambert Lensing GmbH",
-        "squuid": "5be1a6b6-98e4-4e9d-8891-ad44917886f7"
+        "name": "Lensing Media GmbH & Co. KG",
+        "squuid": "644a36ea-ef7f-46ee-82d2-30afa172f946"
       },
-      "squuid": "5be1a6b8-162c-4275-a664-155c3f7c34d4",
+      "squuid": "644a3750-d302-4c05-a745-a0b2dc02b59e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Lensing Media Beteiligungs KG",
+        "squuid": "644a36fc-6bcf-4074-a8b5-83ad54441d66"
+      },
+      "squuid": "644a3762-3067-470e-a967-d67fdf38b7cf",
       "state": "active"
     },
     {
@@ -299,21 +309,10 @@
       "type": "own",
       "capitalShares": 0.0,
       "holder": {
-        "name": "LLW Verwaltungsgesellschaft mbH",
-        "squuid": "5ec4fbd9-0542-4628-bc14-54b5c307350d"
+        "name": "JLW Beteiligungsgesellschaft OHG",
+        "squuid": "5ff31565-552e-4741-aa75-94a872365916"
       },
-      "squuid": "5ec4fbf9-9901-42df-90ce-474b8f5b4fdc",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Lensing-Wolff, Lambert",
-        "squuid": "5be1a6b6-b70c-4576-a912-05e7dabdff6c"
-      },
-      "squuid": "5ec4fc08-9dfc-49bc-bca8-3b46be0d1206",
+      "squuid": "644a377e-3ddc-4020-90d8-61fa673c25f8",
       "state": "active"
     }
   ]
