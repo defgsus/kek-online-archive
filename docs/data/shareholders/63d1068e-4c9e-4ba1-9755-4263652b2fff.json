@@ -18,7 +18,7 @@
   "name": "Schneider Medien GmbH",
   "naturalPerson": false,
   "squuid": "63d1068e-4c9e-4ba1-9755-4263652b2fff",
-  "controlDate": "2023-07-06T07:54:55.746Z",
+  "controlDate": "2023-11-21T12:52:35.666Z",
   "streetNumber": "11",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "14532"
+  "zipcode": "14532",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schneider, Uwe",
+        "squuid": "5be1a6b6-d64d-41e1-a94d-02352dcde9d5"
+      },
+      "squuid": "64a6739b-18f3-4fc6-aeef-f0be415e3014",
+      "state": "active"
+    }
+  ]
 }
