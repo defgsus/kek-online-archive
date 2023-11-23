@@ -1,20 +1,31 @@
 {
   "name": "SOSTNT Luxembourg S.á.r.l.",
   "pseudoCompany": false,
-  "controlDate": "2023-07-06T15:44:06.541Z",
+  "controlDate": "2023-11-23T14:43:50.908Z",
   "squuid": "5cda7bcf-78a8-431c-8823-ec6333215de9",
   "owns": [
     {
       "type": "own",
-      "capitalShares": 74.9,
+      "capitalShares": 42.5,
       "held": {
         "name": "RT/Raiffeisen Touristik Group GmbH",
         "squuid": "5cda7c06-ddde-49ca-abf3-e191216338c3"
       },
       "squuid": "5cda7e8a-5275-4abc-b4c2-ab41ffe6773c",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 75.1,
+      "held": {
+        "name": "FTI Finanzholding GmbH",
+        "squuid": "64be3682-ff24-4fce-91af-627843c14da8"
+      },
+      "squuid": "64c0eb3f-2eeb-4ce4-83ce-0ad22c64a339",
+      "state": "active"
     }
   ],
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -27,6 +38,5 @@
       "type": "organization"
     }
   ],
-  "state": "active",
   "naturalPerson": false
 }

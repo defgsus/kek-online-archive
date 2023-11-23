@@ -17,7 +17,7 @@
   "name": "Stadtwerke Frankfurt am Main Holding GmbH",
   "naturalPerson": false,
   "squuid": "5d302b9d-484e-4e3d-8629-6e995713a616",
-  "controlDate": "2023-07-07T10:10:29.636Z",
+  "controlDate": "2023-11-23T16:01:29.410Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -30,5 +30,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "60311"
+  "zipcode": "60311",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Frankfurt/M.",
+        "squuid": "64a7e4c0-a848-4a7c-ba01-7856df87b5d3"
+      },
+      "squuid": "64a7e4d8-c8f2-4658-a97b-2d8031d6db43",
+      "state": "active"
+    }
+  ]
 }

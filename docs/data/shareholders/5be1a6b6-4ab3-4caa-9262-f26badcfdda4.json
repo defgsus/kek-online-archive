@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Unterföhring",
   "pseudoCompany": false,
   "street": "Medienallee",
@@ -7,56 +7,16 @@
   "naturalPerson": false,
   "squuid": "5be1a6b6-4ab3-4caa-9262-f26badcfdda4",
   "otherMediaActivities": "",
-  "controlDate": "2023-07-06T11:29:36.283Z",
+  "controlDate": "2023-11-23T11:20:41.390Z",
   "streetNumber": "7",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "85774",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.sat1emotions.de",
-        "squuid": "5f33e18e-741b-44fa-8e0b-ab78d1690a4f"
-      },
-      "squuid": "5f33e1bb-942b-408e-887f-da0d05de5b42",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.prosiebenfun.de",
-        "squuid": "5f33e676-797f-4732-b9ac-72d9c6ed58cf"
-      },
-      "squuid": "5f33e6c7-5cf1-472b-933e-0000ea6cc939",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.kabeleinsclassics.de",
-        "squuid": "5f7d7c56-3e54-421e-96ed-d9a96aa533d4"
-      },
-      "squuid": "5f7d7d28-eb11-4def-b58f-929b2b4f6cad",
-      "state": "active"
-    }
-  ],
-  "credits": "Beschluss der KEK vom 05.12.2017, Az.: KEK 937",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Seven.One Entertainment Group GmbH",
-        "squuid": "5be1a6b6-ee3d-454b-96df-68a8cdac19d3"
-      },
-      "squuid": "5be1a6b7-31e2-4c61-a30f-8fee860b7043",
-      "state": "active"
-    }
-  ]
+  "credits": "Beschluss der KEK vom 05.12.2017, Az.: KEK 937"
 }
