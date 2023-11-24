@@ -1,8 +1,30 @@
 {
   "name": "Streubesitz an der Obotritia KGaA",
   "squuid": "654e3273-e5e8-472f-be2b-3effe1e724c7",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 60.95,
+      "held": {
+        "name": "Obotritia Capital KGaA",
+        "squuid": "5be1a6b6-636a-4801-b4e9-c0b3eae60c94"
+      },
+      "squuid": "654e33c4-6bb3-4b47-8478-27e90c7b59c6",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",

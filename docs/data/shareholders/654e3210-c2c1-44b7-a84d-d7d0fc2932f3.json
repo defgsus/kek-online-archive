@@ -1,8 +1,30 @@
 {
   "name": "EFa Vermögensverwaltungs KG",
   "squuid": "654e3210-c2c1-44b7-a84d-d7d0fc2932f3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.44,
+      "held": {
+        "name": "Obotritia Capital KGaA",
+        "squuid": "5be1a6b6-636a-4801-b4e9-c0b3eae60c94"
+      },
+      "squuid": "654e3388-db49-4c1e-a778-bc4311ac8405",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",

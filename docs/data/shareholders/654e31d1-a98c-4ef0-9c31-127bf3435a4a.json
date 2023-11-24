@@ -1,8 +1,30 @@
 {
   "name": "Midgard Beteiligungsgesellschaft mbH",
   "squuid": "654e31d1-a98c-4ef0-9c31-127bf3435a4a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.0,
+      "held": {
+        "name": "Obotritia Capital KGaA",
+        "squuid": "5be1a6b6-636a-4801-b4e9-c0b3eae60c94"
+      },
+      "squuid": "654e3370-4fa8-4ff8-bf98-754efe3cc4d3",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
