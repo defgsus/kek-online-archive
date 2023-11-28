@@ -1,13 +1,71 @@
 {
-  "name": "vsb VerteilService Bayern GmbH",
-  "squuid": "65520718-c94a-4473-b6e3-438962878fc3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "held": {
+        "name": "DAI Regionalfunk Ingolstadt GmbH",
+        "squuid": "5be1a6b6-1e76-486a-9c0b-cdae152af0e2"
+      },
+      "squuid": "655207e7-bbc5-4db0-947c-5d1bee5be2de",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "VSI Verlags-Service Ingolstadt GmbH & Co. KG",
+        "squuid": "63d7e7ab-51a7-4a92-aac5-bd0ecf381c09"
+      },
+      "squuid": "6565d581-236a-4789-8024-e083a54ef486",
+      "state": "active"
+    }
+  ],
   "state": "active",
+  "city": "Ingolstadt",
+  "pseudoCompany": false,
+  "street": "Stauffenbergstr.",
+  "name": "vsb VerteilService Bayern GmbH",
+  "naturalPerson": false,
+  "squuid": "65520718-c94a-4473-b6e3-438962878fc3",
+  "controlDate": "2023-11-28T11:49:19.255Z",
+  "streetNumber": "2a",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
-  ]
+  ],
+  "zipcode": "85051"
 }

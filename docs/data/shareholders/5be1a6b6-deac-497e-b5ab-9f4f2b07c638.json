@@ -1,9 +1,9 @@
 {
   "owns": [
     {
-      "complementaryPartner": true,
+      "complementaryPartner": false,
       "type": "own",
-      "capitalShares": 4.23955534,
+      "capitalShares": 4.5,
       "held": {
         "name": "Radio Paradiso GmbH & Co. KG",
         "squuid": "5be1a6b6-f3bc-43d6-9d76-6f69bc5dec0d"
@@ -13,12 +13,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 2.93,
+      "capitalShares": 3.85,
       "held": {
         "name": "Radio Paradiso Verwaltungs GmbH",
         "squuid": "5f352e18-eaac-4abd-a6c4-a07784da5dd1"
       },
       "squuid": "5f76f1f5-b7be-4c6d-9333-37dc293d9872",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "evangelische-zeitung.de GbR",
+        "squuid": "63907d71-4d0f-4a1d-9bef-5b7d46096273"
+      },
+      "squuid": "63907e21-8d4f-4e59-8b22-7e6696726217",
       "state": "active"
     }
   ],
@@ -29,7 +39,7 @@
   "name": "Wichern-Verlag GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-deac-497e-b5ab-9f4f2b07c638",
-  "controlDate": "2022-10-13T10:17:28.475Z",
+  "controlDate": "2023-11-28T15:10:42.055Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

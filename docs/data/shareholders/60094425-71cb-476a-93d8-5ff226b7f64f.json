@@ -1,13 +1,96 @@
 {
-  "name": "Unser Radio Deggendorf GmbH & Co. KG",
-  "squuid": "60094425-71cb-476a-93d8-5ff226b7f64f",
-  "organizations": [
+  "owns": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Unser Radio Deggendorf Programmanbieter Verwaltungs-GmbH",
+        "squuid": "656483ed-16df-4b90-b7e2-be3e9a629cca"
+      },
+      "squuid": "65648541-353f-4408-8ac9-9dbbb426d2e8",
+      "state": "active"
     }
   ],
-  "state": "active"
+  "state": "active",
+  "city": "Deggendorf",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Unser Radio Deggendorf Programmanbieter GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "60094425-71cb-476a-93d8-5ff226b7f64f",
+  "controlDate": "2023-11-27T11:56:40.165Z",
+  "streetNumber": "28",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "94469",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.oldiewelle.com",
+        "squuid": "5f9177bf-127f-4f91-9b9f-01bbc6deae08"
+      },
+      "squuid": "6564821f-a36a-4561-9caa-a7e2eeea1be7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Unser Radio Deggendorf Programmanbieter Verwaltungs-GmbH",
+        "squuid": "656483ed-16df-4b90-b7e2-be3e9a629cca"
+      },
+      "squuid": "65648418-2b38-4ffd-8b91-ddf5440eaaaa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.33,
+      "holder": {
+        "name": "Aktuelle Welle Westliches Niederbayern Programm und Werbe GmbH",
+        "squuid": "5be1a6b6-15b3-4228-8660-7f53ca3bcca4"
+      },
+      "squuid": "6564842e-5796-43fa-a5d1-09c87bf3b705",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 9.69,
+      "holder": {
+        "name": "Diözese Passau K.d.ö.R.",
+        "squuid": "5be1a6b6-77cd-4f1e-a8b9-73fda58c3ae4"
+      },
+      "squuid": "65648466-7e3b-4305-a157-41e53a3d0e0b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.98,
+      "holder": {
+        "name": "Tele Regional Antenne Passau Hörfunkanbieter GmbH",
+        "squuid": "5be1a6b6-3997-4dea-9ac1-6ab3f4f04f07"
+      },
+      "squuid": "65648478-f932-48f9-9a1a-c22ad4f4d6bd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Passauer Neue Medien GmbH",
+        "squuid": "5be1a6b6-f56c-41fa-9f86-24320b611288"
+      },
+      "squuid": "6564848f-75af-4b7a-adae-04cb1b0f9cc6",
+      "state": "active"
+    }
+  ]
 }

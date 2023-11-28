@@ -1,37 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 35.0,
-      "held": {
-        "name": "DAI Regionalfunk Ingolstadt GmbH",
-        "squuid": "5be1a6b6-1e76-486a-9c0b-cdae152af0e2"
-      },
-      "squuid": "5c81399f-c5cf-45e6-8cac-3399a52d460d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "VSI Verlags-Service Ingolstadt GmbH & Co. KG",
-        "squuid": "63d7e7ab-51a7-4a92-aac5-bd0ecf381c09"
-      },
-      "squuid": "63d7e9da-5468-412f-b941-338126b84764",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "VSI Verwaltungs GmbH",
-        "squuid": "63d165d7-49df-4da5-ba38-7e1a41c7cb39"
-      },
-      "squuid": "63d7eaa2-7733-425d-91c0-2fbcd67a9d27",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Ingolstadt",
   "pseudoCompany": false,
   "street": "Stauffenbergstr.",
@@ -43,63 +11,11 @@
   "streetNumber": "2a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
-    },
-    {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
-      "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "85051",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Donaukurier GmbH",
-        "squuid": "5be1a6b6-3086-4afb-99e1-7a3fbde55347"
-      },
-      "squuid": "5cd411ed-dfd4-43ba-b398-ebccc03b6c50",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "PR Medien Beteiligungs GmbH",
-        "squuid": "5f90483a-0b10-4a9d-a6b5-9ab324ffebec"
-      },
-      "squuid": "603cfa49-1a47-423f-91cb-ef29bec5dcbc",
-      "state": "active"
-    }
-  ]
+  "zipcode": "85051"
 }

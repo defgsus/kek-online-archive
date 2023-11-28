@@ -1,19 +1,4 @@
 {
-  "name": "Waffles Lau Industries UG",
-  "controlDate": "2023-07-11T11:03:14.107Z",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Zimmermann, Peter",
-        "squuid": "61bb3c0c-409e-44fc-b5fe-e9c00332f0df"
-      },
-      "squuid": "62963342-8afb-4d9c-8b26-8eb6934ccaf6",
-      "state": "active"
-    }
-  ],
-  "squuid": "61bb3b81-6033-4334-8d0b-9542c6d80d70",
   "owns": [
     {
       "type": "own",
@@ -26,6 +11,15 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Saalfelder Str.",
+  "name": "Waffles Lau Industries UG",
+  "naturalPerson": false,
+  "squuid": "61bb3b81-6033-4334-8d0b-9542c6d80d70",
+  "controlDate": "2023-11-28T12:09:05.655Z",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -45,5 +39,17 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active"
+  "zipcode": "04179",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Zimmermann, Peter",
+        "squuid": "61bb3c0c-409e-44fc-b5fe-e9c00332f0df"
+      },
+      "squuid": "62963342-8afb-4d9c-8b26-8eb6934ccaf6",
+      "state": "active"
+    }
+  ]
 }

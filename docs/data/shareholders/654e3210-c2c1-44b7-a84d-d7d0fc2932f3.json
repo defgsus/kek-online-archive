@@ -1,6 +1,4 @@
 {
-  "name": "EFa Vermögensverwaltungs KG",
-  "squuid": "654e3210-c2c1-44b7-a84d-d7d0fc2932f3",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,15 @@
     }
   ],
   "state": "active",
+  "city": "Potsdam",
+  "pseudoCompany": false,
+  "street": "Domstr.",
+  "name": "EFa Vermögensverwaltungs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "654e3210-c2c1-44b7-a84d-d7d0fc2932f3",
+  "controlDate": "2023-11-27T09:18:49.296Z",
+  "streetNumber": "11",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -31,5 +38,6 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "zipcode": "14482"
 }

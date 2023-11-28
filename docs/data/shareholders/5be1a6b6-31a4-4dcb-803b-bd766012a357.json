@@ -2,7 +2,7 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 78.32,
       "held": {
         "name": "1&1 Telecommunication SE",
         "squuid": "5be1a6b6-41a9-4457-98af-53c91985dde5"
@@ -18,7 +18,7 @@
   "name": "United Internet AG",
   "naturalPerson": false,
   "squuid": "5be1a6b6-31a4-4dcb-803b-bd766012a357",
-  "controlDate": "2023-05-10T08:56:54.986Z",
+  "controlDate": "2023-11-27T11:15:25.754Z",
   "streetNumber": "57",
   "organizations": [
     {
@@ -43,22 +43,12 @@
     },
     {
       "type": "own",
-      "capitalShares": 37.45,
+      "capitalShares": 36.15,
       "holder": {
         "name": "Streubesitz an der United Internet AG",
         "squuid": "5be1a6b6-cfbd-48f1-b8bd-3cfdaa540af2"
       },
       "squuid": "5be1a6b8-ad53-4197-94a7-1d3dda6b4f58",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.63,
-      "holder": {
-        "name": "BlackRock, Inc.",
-        "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
-      },
-      "squuid": "5d1f1694-6dd6-4140-9442-40bdf1e1074b",
       "state": "active"
     },
     {
@@ -79,6 +69,16 @@
         "squuid": "63627af5-2e24-4a94-aa61-42cbf16906ea"
       },
       "squuid": "63627b14-3ed7-445e-bd35-742e8c5e3dab",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.93,
+      "holder": {
+        "name": "Bank of America Corporation",
+        "squuid": "5be1a6b6-153e-4a7e-aaf7-a5668a094638"
+      },
+      "squuid": "65647d20-7a9f-40d1-84fa-f73bc38ade0c",
       "state": "active"
     }
   ]
