@@ -1,13 +1,37 @@
 {
   "name": "Schierholz, Frank",
   "squuid": "6554aa23-650a-400c-9b45-ed3ba98b053e",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
+        "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f"
+      },
+      "squuid": "6554aa4a-1df9-490d-9be9-9ea932144c25",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
     }
   ]
 }
