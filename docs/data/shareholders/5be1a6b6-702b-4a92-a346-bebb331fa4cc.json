@@ -12,14 +12,31 @@
       },
       "squuid": "5be1a6b7-da6d-49a9-95c7-0b0d0d17b4b0",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.63,
+      "held": {
+        "name": "rkw Radio Königs Wusterhausen GmbH & Co. KG",
+        "squuid": "5be1a6b6-69e0-4daf-a710-83e0f0e54de7"
+      },
+      "squuid": "65561ecd-f7f9-4d06-aa4e-c883ea8701f5",
+      "state": "active"
     }
   ],
   "city": "Wildau",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
       "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -28,6 +45,5 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }
