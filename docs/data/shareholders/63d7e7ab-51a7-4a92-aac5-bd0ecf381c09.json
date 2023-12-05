@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "VSI Verwaltungs GmbH",
-        "squuid": "63d165d7-49df-4da5-ba38-7e1a41c7cb39"
-      },
-      "squuid": "6565d5b1-a683-41ee-a02b-dc8396057c13",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Ingolstadt",
   "pseudoCompany": false,
   "street": "Stauffenbergstr.",
@@ -23,44 +11,11 @@
   "streetNumber": "2a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "85051",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.bayrischestaferl.de",
-        "squuid": "63d7e786-46df-44e9-b5ff-a19ee7930ed1"
-      },
-      "squuid": "63d7e7be-7caa-4c6a-9095-bbc281201216",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "VSI Verwaltungs GmbH",
-        "squuid": "63d165d7-49df-4da5-ba38-7e1a41c7cb39"
-      },
-      "squuid": "63d7e98b-2802-4504-b045-9f39afec8144",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "vsb VerteilService Bayern GmbH",
-        "squuid": "65520718-c94a-4473-b6e3-438962878fc3"
-      },
-      "squuid": "6565d581-236a-4789-8024-e083a54ef486",
-      "state": "active"
-    }
-  ]
+  "zipcode": "85051"
 }

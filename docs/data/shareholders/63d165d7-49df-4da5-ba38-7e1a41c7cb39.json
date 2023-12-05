@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "VSI Verlags-Service Ingolstadt GmbH & Co. KG",
-        "squuid": "63d7e7ab-51a7-4a92-aac5-bd0ecf381c09"
-      },
-      "squuid": "63d7e98b-2802-4504-b045-9f39afec8144",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Ingolstadt",
   "pseudoCompany": false,
   "street": "Stauffenbergstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "2a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "85051",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "VSI Verlags-Service Ingolstadt GmbH & Co. KG",
-        "squuid": "63d7e7ab-51a7-4a92-aac5-bd0ecf381c09"
-      },
-      "squuid": "6565d5b1-a683-41ee-a02b-dc8396057c13",
-      "state": "active"
-    }
-  ]
+  "zipcode": "85051"
 }

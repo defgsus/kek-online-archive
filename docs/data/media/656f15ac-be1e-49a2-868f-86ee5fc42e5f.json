@@ -1,6 +1,7 @@
 {
   "state": "active",
-  "squuid": "63e11749-97c1-46ce-9def-ede49086a52a",
+  "onlineAsOfDateIVW": "10/23",
+  "squuid": "656f15ac-be1e-49a2-868f-86ee5fc42e5f",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +11,18 @@
     {
       "type": "operate",
       "holder": {
-        "name": "ZLP Zeitungsring Lokalpresse Bad Vilbel GmbH",
-        "squuid": "63e11784-e618-4925-9e01-08d700ea7a63"
+        "name": "Motor Presse Stuttgart GmbH & Co. KG",
+        "squuid": "5be1a6b6-99ba-4261-b3c0-411c299e72ae"
       },
-      "squuid": "63e11824-20d3-406a-9d73-dd06d9b338f9",
+      "squuid": "656f15e8-b6d1-4813-a0b9-9f39e8e5f758",
       "state": "active"
     }
   ],
-  "name": "www.bad-vilbeler-anzeiger.de",
+  "name": "www.bike-x.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-12-05T11:41:47.279Z",
+  "controlDate": "2023-12-05T12:21:07.865Z",
+  "onlineIVWPI": 1762000,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +33,6 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 671400
 }

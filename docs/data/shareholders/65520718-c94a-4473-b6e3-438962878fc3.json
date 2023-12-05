@@ -9,16 +9,6 @@
       },
       "squuid": "655207e7-bbc5-4db0-947c-5d1bee5be2de",
       "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "VSI Verlags-Service Ingolstadt GmbH & Co. KG",
-        "squuid": "63d7e7ab-51a7-4a92-aac5-bd0ecf381c09"
-      },
-      "squuid": "6565d581-236a-4789-8024-e083a54ef486",
-      "state": "active"
     }
   ],
   "state": "active",
@@ -67,5 +57,16 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "85051"
+  "zipcode": "85051",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bayrischestaferl.de",
+        "squuid": "63d7e786-46df-44e9-b5ff-a19ee7930ed1"
+      },
+      "squuid": "656f1862-a38b-4b91-a1c7-3dc3ed62d5c3",
+      "state": "active"
+    }
+  ]
 }
