@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Wilhelm-Leuschner-Str.",
+  "name": "Der Vermögensberater Verlags- und Servicegesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "6571d384-62e7-4d83-8ece-027e7926b207",
+  "controlDate": "2023-12-07T14:17:24.945Z",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "60329",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Der Vermögensberater",
+        "squuid": "6571d2f9-6ee0-4396-bf38-71d5d9a335f5"
+      },
+      "squuid": "6571d3b8-2ff7-41cd-96c0-30a87284a883",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Deutsche Vermögensberatung AG ",
+        "squuid": "5f02dd72-8c1b-4faa-a1b0-236f43af03f4"
+      },
+      "squuid": "6571d49f-b436-4a39-b13e-233b33d6586b",
+      "state": "active"
+    }
+  ]
+}

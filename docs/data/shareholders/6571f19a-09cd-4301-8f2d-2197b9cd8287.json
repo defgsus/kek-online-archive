@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Offenburg",
+  "pseudoCompany": false,
+  "street": "Hubert-Burda-Platz",
+  "name": "wir unternehmen medien GmbH",
+  "naturalPerson": false,
+  "squuid": "6571f19a-09cd-4301-8f2d-2197b9cd8287",
+  "controlDate": "2023-12-07T16:26:04.176Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "77652",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wirunternehmenmedien.de",
+        "squuid": "6571f185-e9e2-4584-b3de-afe55793dad5"
+      },
+      "squuid": "6571f1b9-9f34-4384-95b0-5dd02db8f307",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Burda GmbH",
+        "squuid": "5be1a6b6-b032-4c21-b688-486e01ca11bd"
+      },
+      "squuid": "6571f37e-c043-4a7c-a187-4503f695af02",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Beranek Glandt Enterprises GmbH",
+        "squuid": "6571f369-59f1-42eb-8c7f-31fae61aba75"
+      },
+      "squuid": "6571f38b-1548-49f3-b1a3-acb62311c450",
+      "state": "active"
+    }
+  ]
+}
