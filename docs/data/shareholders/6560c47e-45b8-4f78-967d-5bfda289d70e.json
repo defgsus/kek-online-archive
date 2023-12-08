@@ -1,13 +1,36 @@
 {
   "name": "UNA 541. Equity Management GmbH",
   "squuid": "6560c47e-45b8-4f78-967d-5bfda289d70e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "TBD Technische Baudienstleistungen GmbH & Co. KG",
+        "squuid": "5be1a6b6-cd6f-4442-be48-0bec6169f2c3"
+      },
+      "squuid": "6560c4bb-1e12-404c-bfe2-c290fab04ccb",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
+      "type": "organization",
+      "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ]
 }
