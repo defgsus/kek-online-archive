@@ -1,7 +1,6 @@
 {
   "state": "active",
-  "onlineAsOfDateIVW": "10/23",
-  "squuid": "5f293963-a40d-428f-b4e3-8412eb11a732",
+  "squuid": "657884e0-57e0-4b05-b1ed-39ea9553590d",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -11,19 +10,26 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Burda Hearst Publishing GmbH",
-        "squuid": "5be1a6b6-3496-4989-acc7-550ba289e334"
+        "name": "Digitalhaus Franken GmbH",
+        "squuid": "604a46d7-2329-4db3-ab33-adf5784822dc"
       },
-      "squuid": "5f293988-707a-4209-aae0-a672238e9801",
+      "squuid": "65788630-0120-4b88-905c-082ab7ea1d44",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Kitzinger Verlag & Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-fba5-477a-89b6-bd205e4dacaa"
+      },
+      "squuid": "6578863a-05b9-4e35-ac05-2d85ed8f4fae",
       "state": "active"
     }
   ],
-  "name": "www.esquire.de",
+  "name": "www.fraenkischertag.de/diekitzinger",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-12-12T13:13:42.531Z",
-  "onlineIVWPI": 1443400,
-  "onlineAsOfDateAGOF": "",
+  "controlDate": "2023-12-12T16:10:30.908Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -34,7 +40,5 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  },
-  "onlineVisitsIVW": 1338000,
-  "onlineAGOF": 0
+  }
 }

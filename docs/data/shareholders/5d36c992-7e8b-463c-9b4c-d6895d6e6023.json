@@ -1,24 +1,13 @@
 {
   "name": "Eigenbesitz der Freshmilk NetTV GmbH",
   "squuid": "5d36c992-7e8b-463c-9b4c-d6895d6e6023",
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 33.0,
-      "held": {
-        "name": "Freshmilk NetTV GmbH",
-        "squuid": "5d3574d7-a6f3-48ff-921b-e9fd29f386c3"
-      },
-      "squuid": "5d36c9cc-cc4d-4bef-9cf6-2b56d75025e6",
-      "state": "active"
-    }
-  ],
+  "state": "archived",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ],
-  "state": "active"
+  ]
 }

@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "held": {
-        "name": "Freshmilk NetTV GmbH",
-        "squuid": "5d3574d7-a6f3-48ff-921b-e9fd29f386c3"
-      },
-      "squuid": "5d35769a-8f7c-4ccc-87cc-057955e51e52",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Berlin",
-  "pseudoCompany": false,
   "name": "Imgenberg, Klaas",
-  "naturalPerson": true,
-  "squuid": "5d357665-fdab-4c50-a98b-9ec6b04b0c72",
+  "pseudoCompany": false,
   "controlDate": "2019-07-22T08:41:27.299Z",
+  "squuid": "5d357665-fdab-4c50-a98b-9ec6b04b0c72",
+  "city": "Berlin",
+  "state": "archived",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

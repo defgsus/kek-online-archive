@@ -1,7 +1,6 @@
 {
   "state": "active",
-  "onlineAsOfDateIVW": "10/23",
-  "squuid": "5f293963-a40d-428f-b4e3-8412eb11a732",
+  "squuid": "6578847d-d84d-4952-8613-a855c52bca6c",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -11,19 +10,26 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Burda Hearst Publishing GmbH",
-        "squuid": "5be1a6b6-3496-4989-acc7-550ba289e334"
+        "name": "Digitalhaus Franken GmbH",
+        "squuid": "604a46d7-2329-4db3-ab33-adf5784822dc"
       },
-      "squuid": "5f293988-707a-4209-aae0-a672238e9801",
+      "squuid": "65788662-402c-4618-a377-4223ec2f2ec7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "KVG Kissinger Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-9b9d-4090-a46d-799c33724bf9"
+      },
+      "squuid": "6578866b-dc68-4ab8-8a4f-8319890eed1a",
       "state": "active"
     }
   ],
-  "name": "www.esquire.de",
+  "name": "www.fraenkischertag.de/saalezeitung",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-12-12T13:13:42.531Z",
-  "onlineIVWPI": 1443400,
-  "onlineAsOfDateAGOF": "",
+  "controlDate": "2023-12-12T16:11:55.016Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -34,7 +40,5 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  },
-  "onlineVisitsIVW": 1338000,
-  "onlineAGOF": 0
+  }
 }

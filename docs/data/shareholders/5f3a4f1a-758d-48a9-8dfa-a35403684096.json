@@ -1,6 +1,7 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Frankfurt/M.",
+  "note": "Eröffnung des Insolvenzverfahren durch Beschluss des Amtsgerichts Frankfurt am Main (Az. 810 IN 610/23 J) vom 04.09.2023 ",
   "pseudoCompany": false,
   "street": "Taunustor",
   "name": "JOKE FM Radio Broadcast GmbH",
@@ -10,48 +11,11 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "60310",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.jokefm.de",
-        "squuid": "5f3a4e54-5264-44bd-979e-395539c16e2c"
-      },
-      "squuid": "5f3a4f46-810b-4352-9fcb-aec52a759bc6",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "JOKE FM - Comedy und Hits",
-        "squuid": "64f86f14-107b-4693-9fd5-56996f29a2c3"
-      },
-      "squuid": "64f86f7d-a491-49ff-b04d-cfae6fb64401",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Nugget Pictures S. à. r. L.",
-        "squuid": "5f3a5024-b176-46b3-8f05-fa3602282904"
-      },
-      "squuid": "5f3a5058-74ca-4a69-bb91-f53840ee7bd8",
-      "state": "active"
-    }
-  ]
+  "zipcode": "60310"
 }
