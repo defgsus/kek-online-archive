@@ -8,7 +8,7 @@
     "type": "press-magazine-type",
     "state": "active"
   },
-  "pressAsOfDate": "II/22",
+  "pressAsOfDate": "I/23",
   "squuid": "5be1a6b1-e319-4db0-99c5-d4e68c41adf9",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -16,11 +16,22 @@
     "type": "organization"
   },
   "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SCM Verlagsgruppe GmbH",
+        "squuid": "5be1a6b6-ba47-4973-a828-1dff6a251e76"
+      },
+      "squuid": "64a69683-4903-458f-a788-a49dc83ad790",
+      "state": "active"
+    }
+  ],
   "name": "Lydia",
   "pressEditionsIVW": true,
   "pressDistributionArea": "bundesweit",
   "type": "print",
-  "controlDate": "2022-11-15T12:29:02.597Z",
+  "controlDate": "2023-12-15T17:31:12.284Z",
   "pressKind": "sonstige",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -28,7 +39,7 @@
     "type": "online-offer-type",
     "state": "active"
   },
-  "pressEditionsSold": 37451,
+  "pressEditionsSold": 36073,
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",
