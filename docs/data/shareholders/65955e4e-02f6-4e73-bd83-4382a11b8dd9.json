@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "August-Madsack-Str.",
+  "name": "Madsack Medienagentur GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "65955e4e-02f6-4e73-bd83-4382a11b8dd9",
+  "controlDate": "2024-01-03T13:23:41.934Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30559",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Niedersächsische Wirtschaft",
+        "squuid": "65955e3b-f53c-4d59-a32f-ed234e55a6ce"
+      },
+      "squuid": "65955f70-3676-4b4d-8844-b453df80e510",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "6595613f-d40a-4a3a-8aef-b93c46a4cae3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "MMS Madsack Medien Service GmbH",
+        "squuid": "65955e65-bc93-4731-a5e5-15406229a7e0"
+      },
+      "squuid": "6595614d-316d-45ba-a45b-c3647f233b73",
+      "state": "active"
+    }
+  ]
+}
