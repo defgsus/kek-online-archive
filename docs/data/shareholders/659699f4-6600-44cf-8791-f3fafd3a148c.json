@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Infanteriestr.",
+  "name": "PM Wissen Media GmbH",
+  "naturalPerson": false,
+  "squuid": "659699f4-6600-44cf-8791-f3fafd3a148c",
+  "controlDate": "2024-01-04T11:48:50.943Z",
+  "streetNumber": "11a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80797",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "P.M.",
+        "squuid": "5be1a6b1-3a2f-4cef-a64e-c4c1b8a3d044"
+      },
+      "squuid": "65969aa3-f6bd-4228-9a79-4f9ad516ed52",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "P.M. History",
+        "squuid": "5be1a6b1-99c2-4c02-9bfd-6e4a070866d4"
+      },
+      "squuid": "65969c41-b152-493a-8d27-43c0247c54c9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "P.M. Logik Trainer",
+        "squuid": "60819783-5e0b-427d-b1ae-30002a3f07ef"
+      },
+      "squuid": "65969c6a-6115-4ddc-bb1b-0e6a8fe9145f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "P.M. Schneller Schlau",
+        "squuid": "5be1a6b1-a0e3-4e77-aad4-a75c6c205b82"
+      },
+      "squuid": "65969c92-0f66-45a3-b9fd-9b54e902254b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "GeraNova Bruckmann Verlagshaus GmbH",
+        "squuid": "5be1a6b6-ea92-461d-834d-d5d6d281d6cf"
+      },
+      "squuid": "65969b8b-eed5-4472-bba9-18ca37c6bf7d",
+      "state": "active"
+    }
+  ]
+}
