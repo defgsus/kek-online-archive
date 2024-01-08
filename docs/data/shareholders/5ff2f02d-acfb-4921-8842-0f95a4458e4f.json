@@ -1,10 +1,12 @@
 {
   "state": "active",
   "city": "Leipzig",
-  "street": "Engertstraße",
+  "pseudoCompany": false,
+  "street": "Universitätsstraße",
   "name": "Wolffberg International Media GmbH",
+  "naturalPerson": false,
   "squuid": "5ff2f02d-acfb-4921-8842-0f95a4458e4f",
-  "streetNumber": "5",
+  "streetNumber": "14",
   "organizations": [
     {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -13,15 +15,27 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "04177",
+  "zipcode": "04109",
   "operates": [
     {
       "type": "operate",
       "held": {
-        "name": "Driver's Pop Delivery (DPD-Radio)",
+        "name": "DRIVER`S RADIO",
         "squuid": "5ff2ecb3-9321-43b9-b8eb-c8c130ff92cb"
       },
       "squuid": "5ff2f06a-90d4-46c4-ac7a-2b22a576b509",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "WOLFFBERG Management Communication GmbH",
+        "squuid": "634ec144-11c8-4fd1-b3fd-1342598403d6"
+      },
+      "squuid": "634ec169-6a6a-41d0-8f28-00a57d12dd62",
       "state": "active"
     }
   ]
