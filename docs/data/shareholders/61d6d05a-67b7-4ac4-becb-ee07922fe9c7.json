@@ -1,27 +1,17 @@
 {
-  "state": "active",
-  "city": "Dornbirn (A)",
-  "pseudoCompany": false,
   "name": "Molindo GmbH",
-  "naturalPerson": false,
-  "squuid": "61d6d05a-67b7-4ac4-becb-ee07922fe9c7",
+  "pseudoCompany": false,
   "controlDate": "2023-11-08T14:06:50.329Z",
+  "squuid": "61d6d05a-67b7-4ac4-becb-ee07922fe9c7",
+  "city": "Dornbirn (A)",
+  "state": "archived",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.songtexte.com",
-        "squuid": "5c4eff28-dafa-4ce1-bdef-294d471ba05b"
-      },
-      "squuid": "61d6d06f-6153-4c0b-80c8-4ffac3ecd172",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

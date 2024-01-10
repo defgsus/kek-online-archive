@@ -1,6 +1,7 @@
 {
   "state": "active",
-  "squuid": "5c5846b4-a31b-4ba8-8b85-5359100f570d",
+  "onlineAsOfDateIVW": "10/23",
+  "squuid": "659e9c01-b131-4ae6-b517-65b23dd81688",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +11,18 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Funke Medien Niedersachsen GmbH",
-        "squuid": "5be1a6b6-09ab-484b-9101-6d223b5a7c82"
+        "name": "Funke Digital GmbH",
+        "squuid": "5be1a6b6-7e9f-4303-9e08-72753c2153a3"
       },
-      "squuid": "5c58478b-82c8-4d04-88f1-fea7d677328a",
+      "squuid": "659e9c53-cf40-4609-b65b-375bdd57fd08",
       "state": "active"
     }
   ],
-  "name": "www.standort38.de",
+  "name": "www.schlager.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2024-01-10T17:11:29.773Z",
+  "controlDate": "2024-01-10T13:31:02.363Z",
+  "onlineIVWPI": 931700,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +33,6 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 530600
 }

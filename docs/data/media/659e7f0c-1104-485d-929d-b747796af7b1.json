@@ -1,18 +1,26 @@
 {
-  "state": "archived",
-  "onlineAsOfDateIVW": "7/22",
-  "squuid": "5c4eff28-dafa-4ce1-bdef-294d471ba05b",
+  "state": "active",
+  "squuid": "659e7f0c-1104-485d-929d-b747796af7b1",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "name": "www.songtexte.com",
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "VRM GmbH & Co KG",
+        "squuid": "5be1a6b6-17dc-47b0-87cc-2b1436e1a864"
+      },
+      "squuid": "659e7f35-89b7-4ce7-8fc4-bd782225485f",
+      "state": "active"
+    }
+  ],
+  "name": "www.hessentoday.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-06-20T12:57:12.218Z",
-  "onlineIVWPI": 9053400,
-  "onlineAsOfDateAGOF": "5/22",
+  "controlDate": "2024-01-10T11:27:15.849Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -23,7 +31,5 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  },
-  "onlineVisitsIVW": 5148700,
-  "onlineAGOF": 2030000
+  }
 }
