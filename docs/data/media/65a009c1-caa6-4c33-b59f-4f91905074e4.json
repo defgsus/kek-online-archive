@@ -1,6 +1,7 @@
 {
   "state": "active",
-  "squuid": "63e3cc6f-5e01-4d71-9feb-385e5bb9aee4",
+  "onlineAsOfDateIVW": "10/23",
+  "squuid": "65a009c1-caa6-4c33-b59f-4f91905074e4",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +11,18 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Madsack Medien Hannover GmbH & Co. KG",
-        "squuid": "63e3ca42-7122-44e3-8fd3-b5196b28773d"
+        "name": "Holzmann Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-5e72-4a25-89b4-8eba7a00d090"
       },
-      "squuid": "63e3ccb0-e995-4a8f-aca4-97547b8f5891",
+      "squuid": "65a00cfb-117a-4c5e-8132-1d8a63b9d12e",
       "state": "active"
     }
   ],
-  "name": "www.umschau-seelze.de",
+  "name": "www.tophotel.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2024-01-11T16:57:34.283Z",
+  "controlDate": "2024-01-11T15:43:47.315Z",
+  "onlineIVWPI": 178600,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -31,5 +33,7 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 99000,
+  "onlineComments": "IVW-geprüftes Angebot"
 }

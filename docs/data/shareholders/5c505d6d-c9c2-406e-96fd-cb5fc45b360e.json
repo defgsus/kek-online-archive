@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "arvato direct services GmbH",
-        "squuid": "5c505d0f-917c-4502-9baa-86437bf9530d"
-      },
-      "squuid": "5c505f12-22e3-45ee-9291-28d5816a3dbe",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Gütersloh",
   "pseudoCompany": false,
   "street": "Carl-Bertelsmann-Str.",
@@ -22,22 +10,11 @@
   "streetNumber": "270",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "33335",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Bertelsmann SE & Co. KGaA",
-        "squuid": "5be1a6b6-aa3c-4c8d-b521-b32f5a0cda76"
-      },
-      "squuid": "5c505f62-a3e5-4155-9d6c-a51defe1d9fd",
-      "state": "active"
-    }
-  ]
+  "zipcode": "33335"
 }

@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "rtv media group GmbH ",
-        "squuid": "5c505c49-41f4-4e8b-be9e-9bd6c0615357"
-      },
-      "squuid": "5c505e65-0ded-4de3-919b-e57c794ba385",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Neumarkter Straße ",
@@ -22,22 +10,11 @@
   "streetNumber": "22",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "81673",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "arvato distribution GmbH",
-        "squuid": "5c505d0f-917c-4502-9baa-86437bf9530d"
-      },
-      "squuid": "5c505ebc-1ae3-4289-9d2b-c4d9be71e7ec",
-      "state": "active"
-    }
-  ]
+  "zipcode": "81673"
 }

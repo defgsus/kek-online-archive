@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Nürnberg",
   "pseudoCompany": false,
   "street": "Breslauer Str.",
@@ -10,33 +10,11 @@
   "streetNumber": "300",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "90471",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.tvtv.de",
-        "squuid": "5c530a3a-2ea9-4aad-91b7-0a30ccdc2e09"
-      },
-      "squuid": "5c530ab2-9c09-4ee9-af41-82235cc79096",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "rewards arvato services GmbH",
-        "squuid": "5c505c94-289e-44bc-bfcf-14af4392ba13"
-      },
-      "squuid": "5c505e65-0ded-4de3-919b-e57c794ba385",
-      "state": "active"
-    }
-  ]
+  "zipcode": "90471"
 }
