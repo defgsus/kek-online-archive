@@ -1,6 +1,6 @@
 {
-  "rfRepresentative": "Frank Hoffmann, Dr. Ulf Poschardt, Christian Nienhaus, Claus Strunz",
-  "state": "active",
+  "rfRepresentative": "Frank Hoffmann, Dr. Ulf Poschardt, Merrit Kraus, Claus Strunz",
+  "state": "archived",
   "sharesInfo": "KEK 1106",
   "rfShoppingChannel": false,
   "rfParentalAdvisor": "Felix Seidel",
@@ -14,17 +14,6 @@
   },
   "accessibilityUrl": "https://www.bild.de/corporate/site/bild-de",
   "rfStatewide": true,
-  "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "WeltN24 GmbH",
-        "squuid": "5be1a6b6-4dcb-4243-9296-0269946f3264"
-      },
-      "squuid": "6155b8e9-60aa-4461-bfe3-0d318a0a0d47",
-      "state": "active"
-    }
-  ],
   "name": "BILD",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
@@ -52,7 +41,7 @@
   "platformOperators": [
     {
       "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
-      "name": "Vodafone Kabel Deutschland GmbH",
+      "name": "GIGA TV Cable / Vodafone Kabel Deutschland GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
@@ -63,7 +52,7 @@
     },
     {
       "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
-      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "name": "Magenta TV / Deutsche Telekom GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
@@ -74,7 +63,7 @@
     },
     {
       "squuid": "5be1a6b0-2fa4-4160-a33b-8b51c00997a4",
-      "name": "Vodafone Kabel Deutschland GmbH (GIGA TV)",
+      "name": "GIGA TV Net / Vodafone Kabel Deutschland GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
@@ -84,19 +73,19 @@
       "state": "active"
     },
     {
-      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
-      "name": "Sky",
+      "squuid": "5be1a6b0-ec5e-4d1d-aeab-25f09a97bf67",
+      "name": "PΫUR / Tele Columbus AG",
       "type": "platform-operator",
       "distributionType": {
-        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
-        "name": "Programmplattform",
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
         "type": "distribution-type"
       },
       "state": "active"
     },
     {
       "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
-      "name": "Astra Deutschland GmbH",
+      "name": "Astra / Astra Deutschland GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
@@ -112,6 +101,17 @@
       "distributionType": {
         "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
         "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-c433-49e9-b390-5073f0f89b78",
+      "name": "waipu.tv / EXARING AG",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
         "type": "distribution-type"
       },
       "state": "active"

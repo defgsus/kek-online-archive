@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Stuttgart",
   "pseudoCompany": false,
   "street": "Kornbergstr. 44",
@@ -9,63 +9,12 @@
   "controlDate": "2023-11-29T16:09:28.426Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "70176",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "yaez",
-        "squuid": "5be1a6b1-867c-4b8b-a353-f716f990a4fe"
-      },
-      "squuid": "5be1a6b9-026b-480c-a238-deeea09cd3fe",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.yaez.de",
-        "squuid": "5be1a6b1-d6c4-41ac-a2a8-5482e993e54e"
-      },
-      "squuid": "5be1a6b9-cb28-4d68-bf9a-7b0bfe4c72e4",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 33.3,
-      "holder": {
-        "name": "Burghardt, Janos",
-        "squuid": "5be1a6b6-8dd3-4bb6-b243-d6e2a04a2240"
-      },
-      "squuid": "5be1a6b8-8edf-45ac-a67e-29e87132099d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 33.3,
-      "holder": {
-        "name": "Keller, Simon",
-        "squuid": "5be1a6b6-85f7-4c9c-822e-1c25217ad515"
-      },
-      "squuid": "5be1a6b8-212c-4399-9816-4deb67708afa",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 33.3,
-      "holder": {
-        "name": "Hartung, Michael",
-        "squuid": "5be1a6b6-72e3-4426-a8de-1919cafe35e2"
-      },
-      "squuid": "5be1a6b8-3391-4209-b358-89979e3caeaf",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

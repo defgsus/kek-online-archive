@@ -24,6 +24,13 @@
   "name": "MDR Kultur",
   "pressEditionsIVW": false,
   "rfPublicPrivate": true,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "rfDirector": "Ralf Ludwig",
   "type": "radio",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -31,5 +38,13 @@
     "type": "online-offer-type",
     "state": "active"
   },
-  "accessibilityEmail": "Publikumsservice@mdr.de"
+  "accessibilityEmail": "Publikumsservice@mdr.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
 }
