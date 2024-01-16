@@ -1,6 +1,7 @@
 {
   "name": "Bayerischer Rundfunk (für die ARD)",
   "squuid": "619b767e-8c81-4156-b758-b501dc6a8fa8",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -8,7 +9,6 @@
       "type": "organization"
     }
   ],
-  "state": "active",
   "operates": [
     {
       "type": "operate",
@@ -17,6 +17,15 @@
         "squuid": "5c6c2eec-2387-4fcf-b02e-62cc822d57d7"
       },
       "squuid": "619b769d-8ca1-4310-aab2-5bb0ee2f77a2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ardalpha.de",
+        "squuid": "65a6ac65-2498-4913-bbb2-47f6386a6199"
+      },
+      "squuid": "65a6ac8a-f873-4d37-a97b-b6b922559132",
       "state": "active"
     }
   ]

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "65a677d5-c291-4ef6-93a2-c6fff42ad4a9",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Heise Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-dea3-4150-8ba6-7e255764afee"
+      },
+      "squuid": "65a677fd-6011-46a1-8114-d65f6477063d",
+      "state": "active"
+    }
+  ],
+  "name": "www.heise.de/ct",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-01-16T12:34:44.643Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
