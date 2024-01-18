@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Oberhaching",
+  "pseudoCompany": false,
+  "street": "Grünwalder Weg",
+  "name": "Fiction First GmbH",
+  "naturalPerson": false,
+  "squuid": "65a7db42-d643-4b27-bac6-d71abf7a4ec9",
+  "controlDate": "2024-01-17T13:53:47.677Z",
+  "streetNumber": "28d",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82041",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.axn.de",
+        "squuid": "65a7db0a-f53c-425b-9314-561cc7bc89fb"
+      },
+      "squuid": "65a7dba6-78a5-4cd2-a3e0-af7e5004420c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Columbia Pictures Corporation Limited",
+        "squuid": "5be1a6b6-97ff-4bee-bfe3-027d7a70ae13"
+      },
+      "squuid": "65a7dc70-a8a5-471c-9500-471e7b98a4a6",
+      "state": "active"
+    }
+  ]
+}

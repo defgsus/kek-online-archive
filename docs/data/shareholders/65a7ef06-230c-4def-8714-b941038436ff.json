@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Ismaning",
+  "pseudoCompany": false,
+  "street": "Münchener Str.",
+  "name": "Funke National Brands Digital GmbH",
+  "naturalPerson": false,
+  "squuid": "65a7ef06-230c-4def-8714-b941038436ff",
+  "streetNumber": "101",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85737",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.beautytv.de",
+        "squuid": "5f7aec61-12ee-4230-990d-1a4048d82edf"
+      },
+      "squuid": "65a7ef33-d674-4b49-85fb-1913fb98b8c7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Mediengruppe GmbH & Co. KGaA",
+        "squuid": "5be1a6b6-6d6f-4b05-b3c4-8202f7c67653"
+      },
+      "squuid": "65a7eff6-153b-45b4-ae54-02a1acb502ec",
+      "state": "active"
+    }
+  ]
+}
