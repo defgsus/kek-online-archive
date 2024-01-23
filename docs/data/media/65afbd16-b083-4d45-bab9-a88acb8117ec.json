@@ -1,15 +1,26 @@
 {
-  "state": "archived",
-  "squuid": "5f7b236a-54b5-4d34-8e6a-a2a985db0ee9",
+  "state": "active",
+  "squuid": "65afbd16-b083-4d45-bab9-a88acb8117ec",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "name": "www.camp-tv.de",
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "amazing discoveries e.V.",
+        "squuid": "5be1a6b6-4254-42cb-a449-7aa419eb6bd9"
+      },
+      "squuid": "65afbd31-9950-46a3-ac9e-3f75495b8416",
+      "state": "active"
+    }
+  ],
+  "name": "www.daswort.tv",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-12-06T14:33:57.905Z",
+  "controlDate": "2024-01-23T13:20:33.208Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
