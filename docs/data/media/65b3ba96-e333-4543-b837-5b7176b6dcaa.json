@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "65b3ba96-e333-4543-b837-5b7176b6dcaa",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Medienhaus Aachen GmbH",
+        "squuid": "5be1a6b6-0200-4a40-921b-ce08c00a32ac"
+      },
+      "squuid": "65b3bab5-d0af-4152-9c3d-df7287ebb3ae",
+      "state": "active"
+    }
+  ],
+  "name": "www.stolberger-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-01-26T13:58:53.965Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

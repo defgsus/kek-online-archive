@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "65b3b906-65af-43fe-9a42-0a3a9ce11207",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Medienhaus Aachen GmbH",
+        "squuid": "5be1a6b6-0200-4a40-921b-ce08c00a32ac"
+      },
+      "squuid": "65b3b934-6ef3-442a-8277-0fcf3a48e76e",
+      "state": "active"
+    }
+  ],
+  "name": "www.eschweiler-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-01-26T13:52:33.590Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
