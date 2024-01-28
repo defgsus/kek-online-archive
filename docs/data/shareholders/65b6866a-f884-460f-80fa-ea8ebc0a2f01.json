@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Weiden",
+  "pseudoCompany": false,
+  "street": "Weigelstr.",
+  "name": "Oberpfalz Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "65b6866a-f884-460f-80fa-ea8ebc0a2f01",
+  "controlDate": "2024-01-28T16:58:56.451Z",
+  "streetNumber": "16",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "92637",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.amberger-zeitung.de",
+        "squuid": "65b6855f-671d-4820-afce-177eb9f9e82a"
+      },
+      "squuid": "65b686e3-4eda-40e6-8be8-522942ab7aca",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.onetz.de",
+        "squuid": "5be1a6b1-39b2-4b19-8918-7f02a3e6b7d9"
+      },
+      "squuid": "65b686ff-4315-4f97-8df5-6872c5dcf861",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.onetz.de/owz",
+        "squuid": "63ce6d96-355e-4f06-b6a5-254543169c46"
+      },
+      "squuid": "65b6871b-bea7-4b2c-9809-ab001f7929fc",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Der neue Tag - Oberpfälzischer Kurier Druck- und Verlagshaus GmbH",
+        "squuid": "5be1a6b6-ad84-44f3-8258-e132afd0a441"
+      },
+      "squuid": "65b687cd-f7fa-44d6-9a63-a7b5aa656cf7",
+      "state": "active"
+    }
+  ]
+}
