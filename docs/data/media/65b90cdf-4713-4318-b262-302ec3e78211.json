@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65b90cdf-4713-4318-b262-302ec3e78211",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Allgäuer Zeitungsverlag GmbH",
+        "squuid": "5be1a6b6-9e2f-4de5-839b-a9064817ea96"
+      },
+      "squuid": "65b90d1a-1595-45cb-a7e2-739a0e4a5e2b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Presse-Druck- und Verlags-GmbH",
+        "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
+      },
+      "squuid": "65b90d42-639a-4c8f-b92d-7ce4fc5f785e",
+      "state": "active"
+    }
+  ],
+  "name": "www.buchloer-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-01-30T14:51:40.565Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
