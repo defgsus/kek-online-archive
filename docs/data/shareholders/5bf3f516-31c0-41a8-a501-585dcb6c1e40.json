@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Bamberg",
   "pseudoCompany": false,
   "street": "Gutenbergstr.",
@@ -11,53 +11,11 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "96050",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.infranken.de",
-        "squuid": "5be1a6b1-1f3a-41ae-9d0e-4090a0a24ffb"
-      },
-      "squuid": "5bf3f530-b365-4906-8aa7-7b95f2458a9e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.inrlp.de",
-        "squuid": "61c33b8d-4597-4be7-9b68-752b572097c0"
-      },
-      "squuid": "61c33bac-b676-416f-94c3-8c7f42a4ab00",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Mediengruppe Oberfranken Zeitungsverlage GmbH & Co KG",
-        "squuid": "5be1a6b6-1ba9-4404-8b0b-eacd59f83952"
-      },
-      "squuid": "5bf401db-30fc-45f7-b64c-5aa8b14d617d",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "inFranken.de Verwaltung GmbH",
-        "squuid": "5efc655c-0339-4bda-9898-08499c146e50"
-      },
-      "squuid": "5efc6582-4861-4e68-8e25-c5382c6ad998",
-      "state": "active"
-    }
-  ]
+  "zipcode": "96050"
 }

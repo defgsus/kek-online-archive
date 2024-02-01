@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65bbb703-7255-4608-926f-5fc0bd6c6d2b",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Münchener Zeitungs-Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1"
+      },
+      "squuid": "65bbb724-59b6-438a-bd49-dd5831c796d7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "65bbb72d-2917-4024-8218-667212af7e66",
+      "state": "active"
+    }
+  ],
+  "name": "www.dachauer-nachrichten.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-01T15:21:44.389Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
