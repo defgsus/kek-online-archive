@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65bcf9e3-dc29-4120-81a0-f82fa4b158a7",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Kreiszeitung Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-490a-4fa8-9053-eee04d29612a"
+      },
+      "squuid": "65bcfa08-b3f7-4ee3-8c5c-3e48ac6985f3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "65bcfa12-4406-4a68-872a-7ae78360a283",
+      "state": "active"
+    }
+  ],
+  "name": "www.diepholzer-kreisblatt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-02T14:19:22.451Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

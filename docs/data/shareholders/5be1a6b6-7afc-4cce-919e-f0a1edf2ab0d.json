@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Dieburger Anzeiger Verwaltungsgesellschaft mbH",
-        "squuid": "5ec3d548-fd5f-4963-aa54-e517ccd39240"
-      },
-      "squuid": "5ec3d5e7-88d4-46f1-8c1e-6fbdfed3da74",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Darmstadt",
   "pseudoCompany": false,
   "street": "Berliner Allee",
@@ -23,54 +11,12 @@
   "streetNumber": "65",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "64295",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Dieburger Anzeiger",
-        "squuid": "5be1a6b1-6a4b-4d8b-974e-105768e78a7b"
-      },
-      "squuid": "5be1a6b9-6340-4592-ad36-5e93c92cde19",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.vrm-wochenblaetter.de",
-        "squuid": "63d01d14-eebe-4395-9dc5-6056b961d37f"
-      },
-      "squuid": "63e27e38-288a-4609-9ffe-ccb84588b9ce",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Dieburger Anzeiger Verwaltungsgesellschaft mbH",
-        "squuid": "5ec3d548-fd5f-4963-aa54-e517ccd39240"
-      },
-      "squuid": "5ec3d561-5590-46df-9ad1-aea7dcc0f04d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Echo Zeitungen GmbH",
-        "squuid": "5be1a6b6-efc8-47d9-8b22-b1cb175ddbbe"
-      },
-      "squuid": "6246e5d3-1925-49c3-ae40-de67e64b631a",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

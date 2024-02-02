@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "65bd103f-8650-48c3-9194-153e45331c3b",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "DDV Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
+      },
+      "squuid": "65bd106c-fd5f-4ff7-a5bb-1b079a92b708",
+      "state": "active"
+    }
+  ],
+  "name": "www.doebelner-anzeiger.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-02T15:54:57.997Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
