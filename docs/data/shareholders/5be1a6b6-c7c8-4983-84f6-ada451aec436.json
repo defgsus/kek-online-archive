@@ -223,6 +223,26 @@
   ],
   "zipcode": "67059",
   "corporationName": "Medien Union",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Freie Presse",
+        "squuid": "5be1a6b1-656c-471b-a4c4-6e5ed9ecf361"
+      },
+      "squuid": "65c1099b-53b7-4243-94cb-ca428be192e5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.freiepresse.de",
+        "squuid": "5be1a6b1-9556-46ac-901b-3c79f2dbdf57"
+      },
+      "squuid": "65c10ac1-8405-48c6-990d-0a7b4b83eaa6",
+      "state": "active"
+    }
+  ],
   "credits": "IJK",
   "ownedBy": [
     {
