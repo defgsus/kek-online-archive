@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "squuid": "65c21dfb-d6f5-48a7-9e7d-96a8b100ec42",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Fränkische Nachrichten Verlags-GmbH",
+        "squuid": "5be1a6b6-4a27-4bec-add6-c8af4d2d9a1f"
+      },
+      "squuid": "65c21e31-b618-4b95-81aa-0f6470ee8799",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Mannheimer Morgen Großdruckerei und Verlag GmbH",
+        "squuid": "5be1a6b6-ad5a-4f35-9ae0-44805ba7c400"
+      },
+      "squuid": "65c21e40-38dd-4d5b-931e-82dd08179370",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Funke Zentralredaktion GmbH ",
+        "squuid": "5c5d6043-ab67-49ca-8a91-21c28160b7e0"
+      },
+      "squuid": "65c21e4c-e424-47da-a791-9d64ce288d23",
+      "state": "active"
+    }
+  ],
+  "name": "www.tauber-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-06T11:55:14.343Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
