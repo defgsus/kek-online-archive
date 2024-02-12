@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65ca5071-b970-441e-a962-138fa7b7cd9a",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "OVB GmbH & Co KG",
+        "squuid": "5be1a6b6-4e9d-431b-9bf5-0aa39448717c"
+      },
+      "squuid": "65ca50a4-293b-4131-a04b-acf3f9984cdf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "65ca50ae-c0ff-4db3-bfc5-737a79b424ff",
+      "state": "active"
+    }
+  ],
+  "name": "www.mangfall-bote.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-12T17:08:11.771Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

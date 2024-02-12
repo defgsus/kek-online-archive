@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "squuid": "65ca2b7f-9ab8-4adf-b4a3-506e13dfeb50",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Lahrer Zeitung GmbH",
+        "squuid": "5be1a6b6-f18f-49c3-bcf2-fec95b06738c"
+      },
+      "squuid": "65ca2b99-3cfb-47e3-8594-e6c2170d5456",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Schwarzwälder Bote Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-63c7-407b-b983-bdf7d0a4327d"
+      },
+      "squuid": "65ca2ba8-fc5a-48b9-975e-337d9da6015d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b"
+      },
+      "squuid": "65ca2bd7-5f99-4ebc-b53a-53defc080093",
+      "state": "active"
+    }
+  ],
+  "name": "www.lahrer-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-12T14:30:34.122Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
