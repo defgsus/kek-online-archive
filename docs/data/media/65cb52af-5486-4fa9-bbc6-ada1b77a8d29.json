@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65cb52af-5486-4fa9-bbc6-ada1b77a8d29",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Dierichs GmbH & Co. KG",
+        "squuid": "5be1a6b6-6af6-4d18-aba5-e87517df7d54"
+      },
+      "squuid": "65cb52c6-8330-419a-93ba-6b0b2565b842",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "65cb52cf-95a7-4bed-8460-658d185f923c",
+      "state": "active"
+    }
+  ],
+  "name": "www.melsunger-allgemeine.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-13T11:29:59.766Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
