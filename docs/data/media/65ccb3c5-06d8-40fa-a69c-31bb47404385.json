@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65ccb3c5-06d8-40fa-a69c-31bb47404385",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "OVB GmbH & Co KG",
+        "squuid": "5be1a6b6-4e9d-431b-9bf5-0aa39448717c"
+      },
+      "squuid": "65ccb3df-6986-49df-9ce6-30f2d3097146",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "65ccb3e9-9b96-472f-8f6e-6da43e5759e0",
+      "state": "active"
+    }
+  ],
+  "name": "www.muehldorfer-anzeiger.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-14T12:36:32.439Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
