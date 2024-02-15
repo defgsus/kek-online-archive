@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65ce2937-b53c-4b8d-ab9b-1a4f435854ff",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Dierichs GmbH & Co. KG",
+        "squuid": "5be1a6b6-6af6-4d18-aba5-e87517df7d54"
+      },
+      "squuid": "65ce294f-3756-43a0-a6c4-e473ef16e55b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "65ce2958-9ab5-43ee-9ac1-06caf7ecf9b5",
+      "state": "active"
+    }
+  ],
+  "name": "www.northeimer-neueste-nachrichten.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-15T15:09:47.716Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
