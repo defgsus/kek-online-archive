@@ -1,44 +1,66 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "OTZ II GmbH",
-        "squuid": "5c6c07f1-80f6-4b27-97fa-4458273cf0f5"
-      },
-      "squuid": "5c6c0877-7dad-47a7-8d3f-ce1f82609add",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Ostthüringer Zeitung Verlag II GmbH & Co. KG",
-        "squuid": "5c6c05b3-f954-4c35-8d5e-4fc8a36d1380"
-      },
-      "squuid": "5ee213ab-d1de-47ef-b2f4-29108b0ec38b",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Gera",
   "pseudoCompany": false,
-  "street": "Bahnhofstraße 18",
+  "street": "Johannisstr.",
   "name": "OTZ Ostthüringer Zeitung Verlag GmbH & Co KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-7895-45b4-82b7-21f476e3a07e",
   "controlDate": "2023-11-10T13:50:19.016Z",
+  "streetNumber": "8",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "07545",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "OTZ am Sonntag",
+        "squuid": "63ee28c7-de46-4e22-85ef-0e21258ae093"
+      },
+      "squuid": "65d36e3b-7b83-47a8-9293-a5fbe1e72d52",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ostthüringer Zeitung",
+        "squuid": "5be1a6b1-4ca4-407b-b429-74db910c2ac3"
+      },
+      "squuid": "65d36e5c-2cd4-4045-9374-88ebe7526931",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Schmöllner Nachrichten",
+        "squuid": "5be1a6b1-05a6-4a39-98e4-5319d210c1f9"
+      },
+      "squuid": "65d36e74-8a6f-49a4-864c-38882ffc40ca",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.otz.de",
+        "squuid": "5be1a6b1-43c5-4f0c-ae8d-2b5a3ecfd03a"
+      },
+      "squuid": "65d36e88-0af0-4c1c-b68b-d01ee6251613",
+      "state": "active"
+    }
+  ],
   "credits": "IJK",
   "ownedBy": [
     {

@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65d37e4e-ab09-4290-bfce-6b030131b734",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Potsdamer Zeitungsverlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-8510-4beb-9eed-3216a050ae74"
+      },
+      "squuid": "65d37e6d-4b33-414d-81f5-06d2d5b21a3a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Der Tagesspiegel GmbH",
+        "squuid": "5be1a6b6-6728-4fff-bb24-5700d8fdb1c6"
+      },
+      "squuid": "65d37e78-ce04-4423-9363-50558a5f3fe5",
+      "state": "active"
+    }
+  ],
+  "name": "www.pnn.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-19T16:14:14.890Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

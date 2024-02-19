@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65d35cec-d110-458e-bd93-9eb2cc5ade16",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Märkisches Medienhaus GmbH & Co KG",
+        "squuid": "5be1a6b6-77a9-41c7-a6e8-f04daa097183"
+      },
+      "squuid": "65d35d08-50e6-4e0a-892c-dfff43fb8c9d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Berliner Redaktionsgesellschaft mbH",
+        "squuid": "5d035e6b-9d10-4d11-8eab-6decd6b79aae"
+      },
+      "squuid": "65d35d14-2641-4538-8b99-b748cf19686f",
+      "state": "active"
+    }
+  ],
+  "name": "www.oranienburger-generalanzeiger.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-19T13:51:48.017Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
