@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "65d756be-5add-4d71-ace0-46231455a6d2",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Cl. Attenkofer'sche Buch- und Kunstdruckerei Verlagsbuchhandlung Straubing KG",
+        "squuid": "5be1a6b6-f22b-4544-889f-d31615692dc4"
+      },
+      "squuid": "65d756d6-eef3-4c50-b6fc-620a0fc9ac6f",
+      "state": "active"
+    }
+  ],
+  "name": "www.regensburger-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-22T14:14:28.274Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
