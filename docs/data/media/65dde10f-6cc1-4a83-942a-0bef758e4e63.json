@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65dde10f-6cc1-4a83-942a-0bef758e4e63",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Märkisches Medienhaus GmbH & Co KG",
+        "squuid": "5be1a6b6-77a9-41c7-a6e8-f04daa097183"
+      },
+      "squuid": "65dde133-2ea3-495c-aef2-e12b7265fefa",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Berliner Redaktionsgesellschaft mbH",
+        "squuid": "5d035e6b-9d10-4d11-8eab-6decd6b79aae"
+      },
+      "squuid": "65dde13f-e0f7-49fe-ae8a-bf90ad5b1479",
+      "state": "active"
+    }
+  ],
+  "name": "www.ruppiner-anzeiger.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-27T13:18:22.777Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
