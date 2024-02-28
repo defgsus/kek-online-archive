@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65df15de-6a7c-417a-b610-18d5f052ac63",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Nürnberger Presse Druckhaus Nürnberg GmbH & Co KG",
+        "squuid": "5be1a6b6-dbc4-427d-afe3-fd230ac2eeb8"
+      },
+      "squuid": "65df1612-4891-423e-a317-ed475f21268b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Hermann Millizer GmbH",
+        "squuid": "5be1a6b6-1576-49ad-a2a1-769cecc7a4a7"
+      },
+      "squuid": "65df161b-2b2a-43b1-97ea-3d4d71bb4fc7",
+      "state": "active"
+    }
+  ],
+  "name": "www.schwabacher-tagblatt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-28T11:16:00.870Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
