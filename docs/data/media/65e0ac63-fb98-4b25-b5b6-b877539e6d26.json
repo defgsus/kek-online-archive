@@ -1,0 +1,53 @@
+{
+  "state": "active",
+  "squuid": "65e0ac63-fb98-4b25-b5b6-b877539e6d26",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RND RedaktionsNetzwerk Deutschland GmbH",
+        "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d"
+      },
+      "squuid": "65e0ac87-cca1-43af-a2b0-df709223379e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Kieler Zeitung Verlags- und Druckerei KG GmbH & Co",
+        "squuid": "5be1a6b6-4710-4293-8149-c314bcc4d3b9"
+      },
+      "squuid": "65e0acc2-26c8-4e27-a74f-2a99efb49059",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "65e0ace3-318d-493b-9b2c-1d1edd687173",
+      "state": "active"
+    }
+  ],
+  "name": "www.segeberger-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-02-29T16:10:19.311Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
