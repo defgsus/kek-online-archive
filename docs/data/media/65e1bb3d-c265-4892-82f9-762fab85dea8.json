@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65e1bb3d-c265-4892-82f9-762fab85dea8",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Suhler Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-8f0e-479f-9854-3193606b8fe0"
+      },
+      "squuid": "65e1bb82-5f30-4a34-b34e-bba2944b9eac",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b"
+      },
+      "squuid": "65e1bb94-9534-4cc2-8f60-9f454a263bee",
+      "state": "active"
+    }
+  ],
+  "name": "www.suedthueringer-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-03-01T11:25:56.452Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
