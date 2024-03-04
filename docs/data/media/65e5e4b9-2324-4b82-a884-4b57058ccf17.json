@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65e5e4b9-2324-4b82-a884-4b57058ccf17",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Kreiszeitung Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-490a-4fa8-9053-eee04d29612a"
+      },
+      "squuid": "65e5e4dc-3141-4f12-9804-4815ed495db4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "65e5e4e5-6297-418a-a065-77e691028278",
+      "state": "active"
+    }
+  ],
+  "name": "www.thedinghaeuser-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-03-04T15:12:03.380Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

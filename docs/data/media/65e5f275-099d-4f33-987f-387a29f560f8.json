@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65e5f275-099d-4f33-987f-387a29f560f8",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Nürnberger Presse Druckhaus Nürnberg GmbH & Co KG",
+        "squuid": "5be1a6b6-dbc4-427d-afe3-fd230ac2eeb8"
+      },
+      "squuid": "65e5f2bf-f663-4d15-ada6-6d3d1cbc02d5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "J. Christian Leidel GmbH",
+        "squuid": "5be1a6b6-1066-4e16-b274-b78c32e71974"
+      },
+      "squuid": "65e5f2c9-d590-4732-93d8-090db5de643c",
+      "state": "active"
+    }
+  ],
+  "name": "www.treuchtlinger-kurier.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-03-04T16:11:25.945Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
