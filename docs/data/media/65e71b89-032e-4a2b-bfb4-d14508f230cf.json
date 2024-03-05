@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65e71b89-032e-4a2b-bfb4-d14508f230cf",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bechtle Graphische Betriebe und Verlagsgesellschaft GmbH & Co KG",
+        "squuid": "5be1a6b6-4792-466e-ae6c-b124e9c6b4ba"
+      },
+      "squuid": "65e71bb0-6a4a-4510-af12-5cdb417ebc6f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b"
+      },
+      "squuid": "65e71bc3-077f-4b44-916e-61c3747b734b",
+      "state": "active"
+    }
+  ],
+  "name": "www.untertuerkheimer-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-03-05T13:18:09.607Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
