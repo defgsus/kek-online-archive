@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65eb12b1-479e-458e-92ac-476237ed0c02",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NNP GmbH & Co. KG",
+        "squuid": "637b6f8a-10ed-41c5-818a-9e26c01f8f4b"
+      },
+      "squuid": "65eb12d1-5af8-416f-bb35-761240466901",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "VRM GmbH & Co KG",
+        "squuid": "5be1a6b6-17dc-47b0-87cc-2b1436e1a864"
+      },
+      "squuid": "65eb12dc-a8f4-4ec4-b227-d58bcbe5cc0e",
+      "state": "active"
+    }
+  ],
+  "name": "www.nnp.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-03-08T13:29:36.955Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

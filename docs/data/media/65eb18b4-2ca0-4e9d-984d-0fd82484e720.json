@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65eb18b4-2ca0-4e9d-984d-0fd82484e720",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Nürnberger Presse Druckhaus Nürnberg GmbH & Co KG",
+        "squuid": "5be1a6b6-dbc4-427d-afe3-fd230ac2eeb8"
+      },
+      "squuid": "65eb18cf-b172-4def-9c2b-be663c718a4e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Braun & Elbel GmbH & Co. KG",
+        "squuid": "5be1a6b6-311b-4fe2-a7ef-15fbffd2750d"
+      },
+      "squuid": "65eb18f3-8687-49f5-bb35-53f3061832a6",
+      "state": "active"
+    }
+  ],
+  "name": "www.weissenburger-tagblatt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-03-08T13:55:05.871Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

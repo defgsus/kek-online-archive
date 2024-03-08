@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65eb120f-1525-40a1-a4ce-ae80bf559acb",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "VRM GmbH & Co KG",
+        "squuid": "5be1a6b6-17dc-47b0-87cc-2b1436e1a864"
+      },
+      "squuid": "65eb122a-f663-4626-9ef5-c2f551490bea",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "NNP GmbH & Co. KG",
+        "squuid": "637b6f8a-10ed-41c5-818a-9e26c01f8f4b"
+      },
+      "squuid": "65eb1232-a7e4-430b-a714-4862883a2889",
+      "state": "active"
+    }
+  ],
+  "name": "www.weilburger-tageblatt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-03-08T13:26:45.290Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
