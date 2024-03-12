@@ -1,13 +1,27 @@
 {
-  "name": "Niemeyer Rundfunk UG",
+  "zipcode": "14641",
+  "name": "Niemeyer Rundfunk GmbH",
+  "street": "Berliner Straße",
   "squuid": "6399a41f-9e30-4381-9fca-264aa0bd5311",
+  "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "state": "active"
+  "streetNumber": "9",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Trigger.FM",
+        "squuid": "6399a454-696c-40ba-9c66-d5047b9b0038"
+      },
+      "squuid": "65f03411-214f-484c-bd7d-b48cc60a1c3e",
+      "state": "active"
+    }
+  ]
 }
