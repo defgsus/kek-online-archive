@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65f1932a-10e9-4454-8815-89e33e80531a",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Nürnberger Presse Druckhaus Nürnberg GmbH & Co KG",
+        "squuid": "5be1a6b6-dbc4-427d-afe3-fd230ac2eeb8"
+      },
+      "squuid": "65f193bb-e343-4c72-94c3-27fae0a949d4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Fränkische Landeszeitung GmbH",
+        "squuid": "5be1a6b6-603e-4daa-9117-0f773abf368b"
+      },
+      "squuid": "65f1946f-4237-4714-a978-4d153e5c3af6",
+      "state": "active"
+    }
+  ],
+  "name": "www.windsheimer-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-03-13T11:52:19.391Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

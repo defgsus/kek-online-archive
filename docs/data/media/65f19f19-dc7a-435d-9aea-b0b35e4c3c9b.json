@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "65f19f19-dc7a-435d-9aea-b0b35e4c3c9b",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Dierichs GmbH & Co. KG",
+        "squuid": "5be1a6b6-6af6-4d18-aba5-e87517df7d54"
+      },
+      "squuid": "65f19f2f-a1df-4e89-b0d4-bd862aa71a65",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "65f19f38-1ecf-413c-bc54-8483173e5120",
+      "state": "active"
+    }
+  ],
+  "name": "www.wolfhager-allgemeine.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-03-13T12:42:08.655Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
