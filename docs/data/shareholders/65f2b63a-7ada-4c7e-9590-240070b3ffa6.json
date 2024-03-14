@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Paris",
+  "street": "rue de Rivoli",
+  "name": "FG Concept",
+  "squuid": "65f2b63a-7ada-4c7e-9590-240070b3ffa6",
+  "placeOfBusiness": "Frankreich",
+  "streetNumber": "51",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "75001",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "FG CHIC. Berlin",
+        "squuid": "65f2a987-812c-412a-b6c8-32d38e5223d4"
+      },
+      "squuid": "65f2b668-24a3-4a02-a79b-672e05cbdb22",
+      "state": "active"
+    }
+  ]
+}
