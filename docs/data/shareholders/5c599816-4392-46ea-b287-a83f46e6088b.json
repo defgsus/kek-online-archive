@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Lausmann, Günther",
-        "squuid": "5c599816-4392-46ea-b287-a83f46e6088b"
-      },
-      "squuid": "5c599af0-95bd-422a-bc55-56fb8ab7a9d6",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Bad Wilsnack",
   "supplierConsortium": false,
   "pseudoCompany": false,
@@ -22,34 +10,11 @@
   "streetNumber": "7",
   "organizations": [
     {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "19336",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Infokanal Bad Wilsnack",
-        "squuid": "5c59983d-c28e-48fe-b58d-5ec03ce4a799"
-      },
-      "squuid": "5c599a34-f974-486d-bd8e-08e793a50bcf",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Lausmann, Günther",
-        "squuid": "5c599816-4392-46ea-b287-a83f46e6088b"
-      },
-      "squuid": "5c599af0-95bd-422a-bc55-56fb8ab7a9d6",
-      "state": "active"
-    }
-  ]
+  "zipcode": "19336"
 }
