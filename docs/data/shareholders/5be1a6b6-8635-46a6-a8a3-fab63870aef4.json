@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Grolmannstraße",
@@ -9,35 +9,12 @@
   "streetNumber": "40",
   "organizations": [
     {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "10623",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Hit104",
-        "squuid": "5cb4a235-59c7-467c-95d8-5ea9ec3c048f"
-      },
-      "squuid": "5cb4a349-90c7-43b9-87a7-a99cf6ab4a56",
-      "state": "active"
-    }
-  ],
-  "credits": "mabb",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Silva, Cristovao",
-        "squuid": "5be1a6b6-2b0e-4e12-aaf9-18eb88e27776"
-      },
-      "squuid": "5be1a6b7-61c5-460a-95c9-d8271e9e3964",
-      "state": "active"
-    }
-  ]
+  "credits": "mabb"
 }
