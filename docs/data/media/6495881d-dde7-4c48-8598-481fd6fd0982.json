@@ -3,6 +3,7 @@
   "state": "active",
   "rfShoppingChannel": false,
   "rfParentalAdvisor": "Ines Brilla",
+  "rfStartDate": "01.01.2024",
   "rfFreePay": true,
   "squuid": "6495881d-dde7-4c48-8598-481fd6fd0982",
   "organization": {
@@ -23,11 +24,11 @@
       "state": "active"
     }
   ],
-  "name": "Doku-TV",
+  "name": "DOKUSAT",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-    "name": "Noch nicht auf Sendung",
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -48,6 +49,28 @@
   "rfLicenseUntil": "unbefristet",
   "rfLicensed": "28.04.2023",
   "platformOperators": [
+    {
+      "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
+      "name": "GIGA TV Cable / Vodafone Kabel Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-ec5e-4d1d-aeab-25f09a97bf67",
+      "name": "PΫUR / Tele Columbus AG",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
     {
       "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
       "name": "Astra / Astra Deutschland GmbH",
