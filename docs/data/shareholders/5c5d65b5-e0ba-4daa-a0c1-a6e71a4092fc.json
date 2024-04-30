@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Karlsbergallee",
@@ -9,36 +9,11 @@
   "streetNumber": "27",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "14089",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Spandau TV",
-        "squuid": "5c5d65c3-2a34-4d9b-8bd1-87b51a3e92b3"
-      },
-      "squuid": "5c5d6963-9f76-4ab0-b4e4-aac0b67bb68b",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.spandau-tv.de",
-        "squuid": "5f7f1743-44db-4270-a1a9-1046e6f03153"
-      },
-      "squuid": "5f7f17bb-dc2f-4492-a7c5-b6fe3afe8bcb",
-      "state": "active"
-    }
-  ]
+  "zipcode": "14089"
 }
