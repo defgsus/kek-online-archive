@@ -1,19 +1,4 @@
 {
-  "name": "123tv Invest GmbH",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "iMedia&123tv Holding GmbH",
-        "squuid": "620a14c1-ab98-44c4-994b-24a7f1a06171"
-      },
-      "squuid": "620a1671-5d0d-4e94-82d1-f167c82a0ec5",
-      "state": "active"
-    }
-  ],
-  "squuid": "620a146b-4a29-4e7b-b3c7-837b903c01ac",
   "owns": [
     {
       "type": "own",
@@ -27,6 +12,11 @@
     }
   ],
   "state": "active",
+  "pseudoCompany": false,
+  "name": "123tv Invest GmbH",
+  "naturalPerson": false,
+  "squuid": "620a146b-4a29-4e7b-b3c7-837b903c01ac",
+  "controlDate": "2024-05-02T14:01:11.837Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -39,5 +29,16 @@
       "type": "organization"
     }
   ],
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "iMedia&123tv Holding GmbH",
+        "squuid": "620a14c1-ab98-44c4-994b-24a7f1a06171"
+      },
+      "squuid": "620a1671-5d0d-4e94-82d1-f167c82a0ec5",
+      "state": "active"
+    }
+  ]
 }

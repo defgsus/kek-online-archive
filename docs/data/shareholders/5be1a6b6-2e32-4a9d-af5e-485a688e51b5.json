@@ -125,16 +125,6 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "BCN Brand Community Network GmbH",
-        "squuid": "5e6b5b43-18de-41e7-ac8c-187bfd7b7b4d"
-      },
-      "squuid": "5e6b5c6d-7785-453e-bdac-99f2c67718f9",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "BurdaVerlag Data Publishing GmbH, Deutsches Institut für Qualität und Finanzen",
         "squuid": "6332c440-52a7-4645-a979-21c4a59fd18e"
       },
@@ -175,6 +165,17 @@
     }
   ],
   "zipcode": "81925",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "ADAC Motorwelt",
+        "squuid": "5be1a6b1-d8f7-4ccf-9ada-30de28f0d729"
+      },
+      "squuid": "66338577-d463-4607-8052-bb127267802a",
+      "state": "active"
+    }
+  ],
   "credits": "IJK",
   "ownedBy": [
     {
