@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Bielefeld",
+  "pseudoCompany": false,
+  "street": "Obere Wende",
+  "name": "MainSent GmbH",
+  "naturalPerson": false,
+  "squuid": "6634d84d-5dd4-4e4c-b77e-63770e003071",
+  "controlDate": "2024-05-03T12:32:03.384Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "33739",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nextg.tv",
+        "squuid": "6634d85d-f6cc-406a-94f7-e8b80d5ecf47"
+      },
+      "squuid": "6634d8cd-9821-40c3-b268-fb6d3af603e7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "ID Metropolen News GmbH",
+        "squuid": "5ecd04cd-1105-41ef-a205-d30dc50f8fbd"
+      },
+      "squuid": "6634da14-6659-4050-b449-0c962b4064b6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Rosenstengel, Henning",
+        "squuid": "6634d9f1-e79b-4d7e-a6d8-39eeb4ed33c6"
+      },
+      "squuid": "6634da25-6670-49d2-9c1d-1e5d30600761",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Görges, Leon",
+        "squuid": "6634d9fd-4018-4118-9716-8fa249248263"
+      },
+      "squuid": "6634da34-bb5a-4cea-8daf-003ed6d0bf65",
+      "state": "active"
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "3/24",
   "squuid": "62a8b5e7-ec50-4a01-a7f0-5e2328a61ef3",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -10,26 +11,18 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Ippen Digital GmbH & Co KG",
+        "name": "Ippen Digital GmbH & Co. KG",
         "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
       },
       "squuid": "62a8b601-0686-4862-9ed4-0fab0f772540",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Merkur tz Media GmbH",
-        "squuid": "63ef7959-2ea3-4d38-8f09-db1bfc35049d"
-      },
-      "squuid": "63ef79b5-113a-47c5-9389-b46d3eae4d04",
       "state": "active"
     }
   ],
   "name": "www.meine-anzeigenzeitung.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2024-01-03T09:06:22.548Z",
+  "controlDate": "2024-05-03T12:40:24.178Z",
+  "onlineIVWPI": 72500,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -41,5 +34,5 @@
     "type": "online-offer-type",
     "state": "active"
   },
-  "onlineComments": "siehe unter www.ippen.media"
+  "onlineComments": "Nutzungsdaten siehe auch unter www.ippen.media"
 }

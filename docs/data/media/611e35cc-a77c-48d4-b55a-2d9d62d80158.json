@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "3/24",
   "squuid": "611e35cc-a77c-48d4-b55a-2d9d62d80158",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -19,7 +20,7 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Ippen Digital GmbH & Co KG",
+        "name": "Ippen Digital GmbH & Co. KG",
         "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
       },
       "squuid": "611e35f8-9768-4c79-bf84-4cb97611fc4d",
@@ -29,17 +30,19 @@
   "name": "www.bgland24.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-12-05T16:23:26.378Z",
+  "controlDate": "2024-05-03T11:35:21.757Z",
+  "onlineIVWPI": 2783800,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
+  "description": "Überregionale Inhalte des Portals von der Zentralredaktion der Ippen-Verlagsgruppe München (Ippen Digital GmbH & Co. KG)",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "onlineComments": "siehe unter www.ippen.media"
+  "onlineComments": "Nutzungsdaten siehe auch unter www.ippen.media"
 }

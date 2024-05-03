@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Dudenstr.",
+  "name": "Südwest24 GmbH",
+  "naturalPerson": false,
+  "squuid": "6634d2aa-e2e6-4cef-9cc2-44d9cbdb046e",
+  "controlDate": "2024-05-03T12:07:19.879Z",
+  "streetNumber": "12-26",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "68167",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.suedwest24.de",
+        "squuid": "6634d29f-9b29-489f-ab72-06617299db64"
+      },
+      "squuid": "6634d30a-d15e-4067-a1c1-3b3c2c2b0ec1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.baden24.de",
+        "squuid": "6634f8bc-b0f0-49c6-9d64-278a2ac03bbb"
+      },
+      "squuid": "6634f945-89fa-4fdf-93f9-8d05ec1a67f5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Dr. Haas GmbH",
+        "squuid": "5be1a6b6-f74a-4cc9-8e59-248e7f10c1a5"
+      },
+      "squuid": "6634d3ed-d5c8-4745-a4ab-c9600e9585d4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "BZ.medien GmbH & Co KG",
+        "squuid": "5be1a6b6-6f79-45c0-9070-3a78ba6dbc51"
+      },
+      "squuid": "6634d3fe-d40f-4847-9da7-65e82169fbc6",
+      "state": "active"
+    }
+  ]
+}

@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 84.0,
-      "held": {
-        "name": "TargetVideo GmbH",
-        "squuid": "5c503822-60bd-46f7-9154-f3f32f4d3e42"
-      },
-      "squuid": "64a837f8-8353-4395-9b8a-50efc7d4ee24",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Icking",
   "pseudoCompany": false,
   "street": "Else-Rosenfeld-Weg",
@@ -22,22 +10,11 @@
   "streetNumber": "6",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "82057",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Gall, Maximilian",
-        "squuid": "64a838e8-311b-4d7e-b3aa-038deaaf9682"
-      },
-      "squuid": "64a83931-62b3-48cc-81ce-9c717564a989",
-      "state": "active"
-    }
-  ]
+  "zipcode": "82057"
 }

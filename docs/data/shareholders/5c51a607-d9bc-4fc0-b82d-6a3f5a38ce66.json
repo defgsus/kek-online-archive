@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Serienjunkies Verwaltung GmbH",
-        "squuid": "5f044a54-2454-4fe2-b60a-578fc753bd24"
-      },
-      "squuid": "5f044ac8-6ada-4567-b9c0-82f914f4e792",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "note": "in Liquidation",
   "pseudoCompany": false,
@@ -24,44 +12,11 @@
   "streetNumber": "35",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "10243",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.serienjunkies.de",
-        "squuid": "5c51a61d-c8ee-430a-9f0b-56483df8b882"
-      },
-      "squuid": "5c51a672-c5ed-4b83-b418-3e55d9a0dcee",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Glas, Mariano",
-        "squuid": "5c51a75b-dbbd-4e68-91da-ec1fbaafeeb1"
-      },
-      "squuid": "5c51a788-a20a-43c2-9bec-2a65d43eba3f",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Serienjunkies Verwaltung GmbH",
-        "squuid": "5f044a54-2454-4fe2-b60a-578fc753bd24"
-      },
-      "squuid": "5f044a7a-40ba-40bf-81ba-a86648d26e9f",
-      "state": "active"
-    }
-  ]
+  "zipcode": "10243"
 }

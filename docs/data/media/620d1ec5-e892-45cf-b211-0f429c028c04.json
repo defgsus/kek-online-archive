@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "3/24",
   "squuid": "620d1ec5-e892-45cf-b211-0f429c028c04",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -10,7 +11,7 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Ippen Digital GmbH & Co KG",
+        "name": "Ippen Digital GmbH & Co. KG",
         "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
       },
       "squuid": "620d1f0e-f610-44a8-a8df-ee5e3d2db024",
@@ -29,17 +30,19 @@
   "name": "www.24royal.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-11-30T15:01:52.329Z",
+  "controlDate": "2024-05-03T11:08:49.739Z",
+  "onlineIVWPI": 169400,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
+  "description": "Inhalte des Portals teilweise von der Zentralredaktion der Ippen-Verlagsgruppe München (Ippen Digital GmbH & Co. KG)",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "onlineComments": "siehe unter www.ippen.media"
+  "onlineComments": "Nutzungsdaten siehe auch unter www.ippen.media"
 }

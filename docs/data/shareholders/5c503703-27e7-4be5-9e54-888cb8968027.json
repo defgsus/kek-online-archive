@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Von-der-Tann-Straße ",
@@ -10,33 +10,11 @@
   "streetNumber": "12",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "80539",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.hallo-eltern.de",
-        "squuid": "5c5036dc-16b0-4603-b35e-16ab55044bdc"
-      },
-      "squuid": "5c503750-1db7-4293-a45f-9e5d95cbf6c8",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "TargetVideo GmbH",
-        "squuid": "5c503822-60bd-46f7-9154-f3f32f4d3e42"
-      },
-      "squuid": "5c5038fd-a10e-4869-abf8-519093e018f0",
-      "state": "active"
-    }
-  ]
+  "zipcode": "80539"
 }

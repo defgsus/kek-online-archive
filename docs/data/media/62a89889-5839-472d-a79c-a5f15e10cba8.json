@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "3/24",
   "squuid": "62a89889-5839-472d-a79c-a5f15e10cba8",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -19,7 +20,7 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Ippen Digital GmbH & Co KG",
+        "name": "Ippen Digital GmbH & Co. KG",
         "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
       },
       "squuid": "62a898c5-d1bf-4f73-a556-f5d6b093ba3b",
@@ -29,17 +30,19 @@
   "name": "www.bw24.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-12-06T14:26:44.836Z",
+  "controlDate": "2024-05-03T11:16:12.575Z",
+  "onlineIVWPI": 2246400,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
+  "description": "Inhalte des Portals teilweise von der Zentralredaktion der Ippen-Verlagsgruppe München (Ippen Digital GmbH & Co. KG)",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "onlineComments": "siehe unter www.ippen.media"
+  "onlineComments": "Nutzungsdaten siehe auch unter www.ippen.media"
 }

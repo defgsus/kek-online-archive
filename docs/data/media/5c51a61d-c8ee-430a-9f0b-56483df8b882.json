@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "onlineAsOfDateIVW": "",
+  "onlineAsOfDateIVW": "3/24",
   "squuid": "5c51a61d-c8ee-430a-9f0b-56483df8b882",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -11,24 +11,34 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Serienjunkies GmbH & Co. KG",
-        "squuid": "5c51a607-d9bc-4fc0-b82d-6a3f5a38ce66"
+        "name": "ID Metropolen News GmbH",
+        "squuid": "5ecd04cd-1105-41ef-a205-d30dc50f8fbd"
       },
-      "squuid": "5c51a672-c5ed-4b83-b418-3e55d9a0dcee",
+      "squuid": "6634d4de-299c-4b59-87f8-c354a51b8799",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co. KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "6634d4f6-44a0-4766-8b2d-9380e30a6dc2",
       "state": "active"
     }
   ],
   "name": "www.serienjunkies.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2024-01-10T14:09:31.786Z",
-  "onlineIVWPI": 0,
+  "controlDate": "2024-05-03T12:11:33.364Z",
+  "onlineIVWPI": 2654700,
   "onlineAsOfDateAGOF": "",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
+  "description": "Inhalte des Portals teilweise von der Zentralredaktion der Ippen-Verlagsgruppe München (Ippen Digital GmbH & Co. KG)",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
@@ -36,5 +46,6 @@
     "state": "active"
   },
   "onlineVisitsIVW": 0,
+  "onlineComments": "Nutzungsdaten siehe auch unter www.ippen.media",
   "onlineAGOF": 0
 }
