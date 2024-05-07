@@ -29,7 +29,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5cc70c37-5b94-4790-b253-0f68d1d16df7",
-  "controlDate": "2024-04-03T11:14:22.568Z",
+  "controlDate": "2024-05-07T11:28:01.783Z",
   "streetNumber": "2",
   "organizations": [
     {
@@ -47,16 +47,6 @@
   "zipcode": "48653",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Roß, Nina",
-        "squuid": "5be1a6b6-e7e7-48e9-8eda-9c149391dcb0"
-      },
-      "squuid": "5cc711f4-c912-4dd1-b110-4f1a7b390f9d",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -65,6 +55,16 @@
         "squuid": "5eb02e63-46c5-4701-a9f7-e429e5f3c85d"
       },
       "squuid": "5eb02e8f-60c6-4369-911f-8b6a7ea40bc8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Westfälische Medien Holding AG",
+        "squuid": "5e1dbf6a-1c4a-47cf-92d6-f85fa7fded35"
+      },
+      "squuid": "660d3a04-fe32-47a6-9500-9e365a99ca43",
       "state": "active"
     }
   ]
