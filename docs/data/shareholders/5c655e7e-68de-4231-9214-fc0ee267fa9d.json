@@ -1,23 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 70.0,
-      "held": {
-        "name": "Cotec GmbH",
-        "squuid": "5c655d89-98c3-42f1-885e-af2653a31d02"
-      },
-      "squuid": "5c66767f-923c-433a-828a-7fd503b3ac3e",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Kirchberg",
-  "supplierConsortium": false,
-  "pseudoCompany": false,
   "name": "Thurau, Siegfried",
-  "naturalPerson": true,
+  "pseudoCompany": false,
+  "supplierConsortium": false,
   "squuid": "5c655e7e-68de-4231-9214-fc0ee267fa9d",
+  "city": "Kirchberg",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -25,5 +12,6 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

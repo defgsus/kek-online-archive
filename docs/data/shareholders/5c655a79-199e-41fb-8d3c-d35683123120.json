@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 4.31,
-      "held": {
-        "name": "airtango AG",
-        "squuid": "5c655920-a5da-47d4-a6cc-5755e49eb9f1"
-      },
-      "squuid": "5c656350-f703-4d79-a577-62659754f671",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Kirchberg",
   "supplierConsortium": false,
   "pseudoCompany": false,
@@ -30,28 +18,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "74592",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Borchers, Gerhard",
-        "squuid": "5c655e1b-c0f4-40f4-a83e-ce7fad58eae7"
-      },
-      "squuid": "5c667590-c545-4683-863f-528ab66f62a2",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Gerhard Borchers Verwaltungs GmbH",
-        "squuid": "6009a37b-b1bf-46e3-81ea-54304d90c7ae"
-      },
-      "squuid": "6009a3a1-e909-4484-9eab-1198293c223e",
-      "state": "active"
-    }
-  ]
+  "zipcode": "74592"
 }

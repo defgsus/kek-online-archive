@@ -1,23 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 46.56,
-      "held": {
-        "name": "USP Technologie GmbH & Co. KG",
-        "squuid": "5c655d4d-1cec-4ff5-acb7-0906a22fa2b8"
-      },
-      "squuid": "5c6675f6-c45a-46eb-8d5d-eea7204329be",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Crailsheim",
-  "pseudoCompany": false,
   "name": "airtango 1 GbR",
-  "naturalPerson": false,
-  "squuid": "5c655e46-02bd-4809-8733-943c4929d957",
+  "pseudoCompany": false,
   "controlDate": "2023-09-26T13:53:52.237Z",
+  "squuid": "5c655e46-02bd-4809-8733-943c4929d957",
+  "city": "Crailsheim",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -26,66 +13,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 16.66,
-      "holder": {
-        "name": "Kröper, Peter",
-        "squuid": "60099cd5-369a-407f-8701-3af7b469c859"
-      },
-      "squuid": "60099d0d-2d6b-4796-ac24-29517f2be627",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 16.66,
-      "holder": {
-        "name": "Lauton, Bernd",
-        "squuid": "60099cef-f3a2-4bb9-9ffb-20e4d47d9039"
-      },
-      "squuid": "60099d22-e5b9-41a3-85b3-32fa54b4f838",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 16.66,
-      "holder": {
-        "name": "Theobaldt, Wolfgang",
-        "squuid": "60099cbf-3232-4ca4-971d-aee6cadafaf6"
-      },
-      "squuid": "60099d32-130c-4347-aa85-e62b1c836a8e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 16.66,
-      "holder": {
-        "name": "Mayer, Rolf",
-        "squuid": "60099c8d-9803-44d2-ba1a-d0418399e34a"
-      },
-      "squuid": "60099d48-4e72-4046-ac8a-520f24a4372e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 16.66,
-      "holder": {
-        "name": "Schumm, Ulrich",
-        "squuid": "60099ca8-6885-4634-a1a5-d6e5eb17e94c"
-      },
-      "squuid": "60099d58-b057-4164-ba9d-71adb5281e56",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 16.66,
-      "holder": {
-        "name": "Lang, Hemann",
-        "squuid": "60099c6e-2d62-4b61-8ea4-d27637718680"
-      },
-      "squuid": "60099d6c-38b0-4ea1-b677-a994ea4d91ed",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

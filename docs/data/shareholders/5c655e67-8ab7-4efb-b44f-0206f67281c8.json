@@ -1,23 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "SimLo Beteiligungs GmbH",
-        "squuid": "5c655d78-a451-416f-ad61-734b02aef9bf"
-      },
-      "squuid": "5c667645-f0fe-49de-bcb4-695fd0cc1afd",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "München",
-  "supplierConsortium": false,
-  "pseudoCompany": false,
   "name": "Lotter, Simon",
-  "naturalPerson": true,
+  "pseudoCompany": false,
+  "supplierConsortium": false,
   "squuid": "5c655e67-8ab7-4efb-b44f-0206f67281c8",
+  "city": "München",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -25,5 +12,6 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

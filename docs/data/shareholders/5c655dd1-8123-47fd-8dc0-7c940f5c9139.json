@@ -1,23 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "Wasserschloss Erkenbrechtshausen GmbH",
-        "squuid": "5c655949-746e-4216-9113-d07f37cc9c35"
-      },
-      "squuid": "5c6674f0-4241-4835-b2da-c58f6cf0b386",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Crailsheim",
-  "supplierConsortium": false,
-  "pseudoCompany": false,
   "name": "Knödler, Steffen",
-  "naturalPerson": true,
+  "pseudoCompany": false,
+  "supplierConsortium": false,
   "squuid": "5c655dd1-8123-47fd-8dc0-7c940f5c9139",
+  "city": "Crailsheim",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -25,5 +12,6 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

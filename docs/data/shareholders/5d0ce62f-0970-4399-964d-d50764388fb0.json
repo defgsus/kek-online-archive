@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 3.44,
-      "held": {
-        "name": "zooplus AG",
-        "squuid": "5d0ce44c-a345-481b-845f-5f29983f0969"
-      },
-      "squuid": "5d0ce7cb-5bc0-4c4c-92d9-fa57b7f6968b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "London (GB)",
-  "pseudoCompany": false,
   "name": "Adelphi Capital LLP",
-  "naturalPerson": false,
-  "squuid": "5d0ce62f-0970-4399-964d-d50764388fb0",
+  "pseudoCompany": false,
   "controlDate": "2023-09-26T11:31:06.917Z",
+  "squuid": "5d0ce62f-0970-4399-964d-d50764388fb0",
+  "city": "London (GB)",
+  "state": "archived",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": false
 }

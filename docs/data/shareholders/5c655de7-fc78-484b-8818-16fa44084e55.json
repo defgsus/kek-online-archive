@@ -1,33 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "DoHa GmbH",
-        "squuid": "5c65595e-a159-430c-879c-60769e27eadb"
-      },
-      "squuid": "5c667528-f46b-4533-9fd0-aa0d672d13d8",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 1.0,
-      "held": {
-        "name": "Wasserschloss Erkenbrechtshausen GmbH",
-        "squuid": "5c655949-746e-4216-9113-d07f37cc9c35"
-      },
-      "squuid": "60096e9f-0c8d-4858-b9d9-3b90a2de4cb9",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Crailsheim",
-  "supplierConsortium": false,
-  "pseudoCompany": false,
   "name": "Knödler, Harald",
-  "naturalPerson": true,
+  "pseudoCompany": false,
+  "supplierConsortium": false,
   "squuid": "5c655de7-fc78-484b-8818-16fa44084e55",
+  "city": "Crailsheim",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -35,5 +12,6 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }
