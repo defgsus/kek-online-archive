@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Kempten",
   "pseudoCompany": false,
   "street": "Heisinger Str.",
@@ -10,34 +10,12 @@
   "streetNumber": "14",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "87437",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.all-in.de",
-        "squuid": "5be1a6b1-18e0-4d81-b736-66ce7f1a14cb"
-      },
-      "squuid": "5be1a6b9-e82f-4b98-a9ff-260974495cb4",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Allgäuer Zeitungsverlag GmbH",
-        "squuid": "5be1a6b6-9e2f-4de5-839b-a9064817ea96"
-      },
-      "squuid": "5be1a6b8-2630-43be-bb93-b10c0b86530c",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

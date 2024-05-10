@@ -1,19 +1,4 @@
 {
-  "name": "Alpine General Partner Ingenio CV, LLC",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Weaver, Graham",
-        "squuid": "627117b7-601c-466d-9ff1-59b2ee107392"
-      },
-      "squuid": "6271261c-b391-42e1-bc2c-92b86435ee8f",
-      "state": "active"
-    }
-  ],
-  "squuid": "627117a1-3393-4892-bb8f-7eacb3c30a8a",
   "owns": [
     {
       "type": "own",
@@ -28,6 +13,11 @@
     }
   ],
   "state": "active",
+  "pseudoCompany": false,
+  "name": "Alpine General Partner Ingenio CV, LLC",
+  "naturalPerson": false,
+  "squuid": "627117a1-3393-4892-bb8f-7eacb3c30a8a",
+  "controlDate": "2024-05-10T12:11:33.737Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -46,5 +36,16 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Weaver, Graham",
+        "squuid": "627117b7-601c-466d-9ff1-59b2ee107392"
+      },
+      "squuid": "6271261c-b391-42e1-bc2c-92b86435ee8f",
+      "state": "active"
+    }
+  ]
 }

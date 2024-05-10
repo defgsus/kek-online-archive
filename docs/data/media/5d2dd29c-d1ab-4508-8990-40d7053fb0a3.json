@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "3/24",
   "squuid": "5d2dd29c-d1ab-4508-8990-40d7053fb0a3",
   "marketReach": 0.19204969069779143,
   "organization": {
@@ -11,7 +12,7 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Akademische Arbeitsgemeinschaft Verlagsgesellschaft mbH",
+        "name": "Wolters Kluwer Steuertipps GmbH",
         "squuid": "5d2dd28c-f09e-4d19-b0a4-6f752409ab5c"
       },
       "squuid": "5d2dd2ce-3a22-4804-a9f5-7c81f3dded3d",
@@ -21,7 +22,8 @@
   "name": "www.steuertipps.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2024-01-10T17:27:17.683Z",
+  "controlDate": "2024-05-10T10:28:30.905Z",
+  "onlineIVWPI": 44600,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -32,5 +34,6 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  }
+  },
+  "onlineVisitsIVW": 37700
 }

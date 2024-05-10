@@ -1,42 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Dachau",
   "pseudoCompany": false,
   "street": "Konrad-Adenauer-Str.",
   "name": "Amper-Bote GmbH",
   "naturalPerson": false,
   "squuid": "63d7e18b-76c4-4428-887d-fd9188b11a62",
-  "controlDate": "2023-09-27T09:40:51.389Z",
+  "controlDate": "2024-05-10T14:50:58.524Z",
   "streetNumber": "19",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "85221",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.amper-bote.de",
-        "squuid": "63d7e16e-0d00-4ec1-963f-020569f30881"
-      },
-      "squuid": "63d7e3c9-212a-4225-a3cd-f3b737c70308",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Donaukurier GmbH",
-        "squuid": "5be1a6b6-3086-4afb-99e1-7a3fbde55347"
-      },
-      "squuid": "63d7e4c9-d8df-4449-9d0d-c35598880ec5",
-      "state": "active"
-    }
-  ]
+  "zipcode": "85221"
 }

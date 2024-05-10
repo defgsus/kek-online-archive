@@ -1,28 +1,17 @@
 {
-  "state": "active",
-  "onlineAsOfDateIVW": "3/23",
+  "state": "archived",
+  "onlineAsOfDateIVW": "10/23",
   "squuid": "61e81c6c-ab40-4efd-9f17-b90f008f1da7",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Akademische Arbeitsgemeinschaft Verlagsgesellschaft mbH",
-        "squuid": "5d2dd28c-f09e-4d19-b0a4-6f752409ab5c"
-      },
-      "squuid": "61e81c86-6073-4b5f-a2ad-3c8948b62373",
-      "state": "active"
-    }
-  ],
   "name": "www.steuernetz.de",
   "rfPublicPrivate": false,
   "type": "online",
   "controlDate": "2023-05-11T11:02:12.701Z",
-  "onlineIVWPI": 54400,
+  "onlineIVWPI": 39500,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -34,5 +23,5 @@
     "type": "online-offer-type",
     "state": "active"
   },
-  "onlineVisitsIVW": 37300
+  "onlineVisitsIVW": 33400
 }
