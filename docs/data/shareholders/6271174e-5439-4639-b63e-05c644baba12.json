@@ -1,19 +1,4 @@
 {
-  "name": "Apollo Management, L.P.",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Apollo Global Management, Inc.",
-        "squuid": "6271176b-13e4-402c-93b7-e172464cd613"
-      },
-      "squuid": "62712564-19c6-4f9e-a610-c896d73e9971",
-      "state": "active"
-    }
-  ],
-  "squuid": "6271174e-5439-4639-b63e-05c644baba12",
   "owns": [
     {
       "type": "own",
@@ -27,6 +12,11 @@
     }
   ],
   "state": "active",
+  "pseudoCompany": false,
+  "name": "Apollo Management, L.P.",
+  "naturalPerson": false,
+  "squuid": "6271174e-5439-4639-b63e-05c644baba12",
+  "controlDate": "2024-05-11T11:37:21.034Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -45,5 +35,16 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Apollo Global Management, Inc.",
+        "squuid": "6271176b-13e4-402c-93b7-e172464cd613"
+      },
+      "squuid": "62712564-19c6-4f9e-a610-c896d73e9971",
+      "state": "active"
+    }
+  ]
 }

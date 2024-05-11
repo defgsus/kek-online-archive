@@ -1,0 +1,64 @@
+{
+  "state": "active",
+  "city": "Ismaning",
+  "pseudoCompany": false,
+  "street": "Münchener Str.",
+  "name": "Rock Antenne GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "663f31ad-2575-4939-ba50-9d678cf013c0",
+  "controlDate": "2024-05-11T08:54:18.692Z",
+  "streetNumber": "101c",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85737",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.rockantenne.de",
+        "squuid": "5f03232b-8605-4dc3-8ba3-784533b74827"
+      },
+      "squuid": "663f31c5-8bd2-4d0b-8279-447e07b30340",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 81.5,
+      "holder": {
+        "name": "Antenne Bayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-5d70-4275-a2da-4ea50ee1b6af"
+      },
+      "squuid": "663f3393-af5f-4b83-9d28-7a5c843bee4c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.5,
+      "holder": {
+        "name": "NWZ Funk und Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-e74c-47af-9e67-66b48a57e0a8"
+      },
+      "squuid": "663f33d0-2e11-4011-af45-5b197377a452",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Rock Antenne Verwaltungs GmbH",
+        "squuid": "5f03225b-4983-4b1d-8d7f-c5d7315a7281"
+      },
+      "squuid": "663f3406-8a8f-47e0-91ee-c3f52fbc7b1c",
+      "state": "active"
+    }
+  ]
+}

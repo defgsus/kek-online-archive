@@ -1,4 +1,17 @@
 {
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Rock Antenne GmbH & Co. KG",
+        "squuid": "663f31ad-2575-4939-ba50-9d678cf013c0"
+      },
+      "squuid": "663f3406-8a8f-47e0-91ee-c3f52fbc7b1c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Ismaning",
   "pseudoCompany": false,
@@ -10,10 +23,9 @@
   "streetNumber": "101c",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "zipcode": "85737",
