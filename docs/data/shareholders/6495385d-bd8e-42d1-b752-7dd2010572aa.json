@@ -1,8 +1,4 @@
 {
-  "name": "Atwater Capital Fund I, LP",
-  "pseudoCompany": false,
-  "squuid": "6495385d-bd8e-42d1-b752-7dd2010572aa",
-  "placeOfBusiness": "USA",
   "owns": [
     {
       "type": "own",
@@ -15,6 +11,13 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Atwater Capital Fund I, LP",
+  "naturalPerson": false,
+  "squuid": "6495385d-bd8e-42d1-b752-7dd2010572aa",
+  "controlDate": "2024-05-14T12:21:54.718Z",
+  "placeOfBusiness": "USA",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -32,7 +35,5 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ],
-  "state": "active",
-  "naturalPerson": false
+  ]
 }
