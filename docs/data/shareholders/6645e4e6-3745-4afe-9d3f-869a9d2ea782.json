@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Kempten",
+  "pseudoCompany": false,
+  "street": "Lindauer Str.",
+  "name": "AllgäuHIT e.K.",
+  "naturalPerson": false,
+  "squuid": "6645e4e6-3745-4afe-9d3f-869a9d2ea782",
+  "controlDate": "2024-05-16T10:52:30.223Z",
+  "streetNumber": "6",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "87439",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.allgaeuhit.de",
+        "squuid": "5f844cc2-f498-4ada-85f0-4b42b0284bb9"
+      },
+      "squuid": "6645e4fb-3d57-4032-99d5-338cd1b7684a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Häuslinger, Thomas",
+        "squuid": "5be1a6b6-b16f-4783-83e2-3ab588db0ed9"
+      },
+      "squuid": "6645e572-44b8-45e7-a477-ccdf0754c66d",
+      "state": "active"
+    }
+  ]
+}

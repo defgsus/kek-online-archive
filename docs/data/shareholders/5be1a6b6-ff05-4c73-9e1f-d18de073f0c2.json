@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Fellbach",
   "pseudoCompany": false,
   "street": "Höhenstr. 17",
@@ -7,147 +7,15 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-ff05-4c73-9e1f-d18de073f0c2",
-  "controlDate": "2023-10-19T15:13:41.054Z",
+  "controlDate": "2024-05-16T10:27:52.017Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "70736",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Althaus modernisieren",
-        "squuid": "5be1a6b1-e98a-4452-aa9a-4089e3b47c8e"
-      },
-      "squuid": "5be1a6b9-3009-48d4-93e6-a4f1ad8b253f",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "bauen.",
-        "squuid": "5be1a6b1-d8fe-457c-95e8-b91e5bfef449"
-      },
-      "squuid": "5be1a6b9-9fe7-4d3d-b011-1da64231759e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "HausbauHelden",
-        "squuid": "5be1a6b1-f72e-4fae-8497-88dd9e6497a2"
-      },
-      "squuid": "5be1a6b9-33aa-4ff0-8147-9193c09dabbd",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Bauen & Renovieren",
-        "squuid": "5be1a6b1-c0b1-45ad-a157-15823691d493"
-      },
-      "squuid": "5be1a6b9-0566-4d14-92ba-3af28da17251",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Schwimmbad + Sauna",
-        "squuid": "5be1a6b1-05e4-4784-9658-40c4c8f4fce0"
-      },
-      "squuid": "5be1a6b9-1df8-490e-85d8-16847220fe6c",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.hausbauhelden.de",
-        "squuid": "5be1a6b1-61d8-4920-9b18-3beff85d993f"
-      },
-      "squuid": "5be1a6b9-37cb-4674-8d7a-77d2980ece04",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.renovieren.de",
-        "squuid": "5be1a6b1-b524-4670-9dea-2893f23a91e8"
-      },
-      "squuid": "5be1a6b9-d683-4a43-ab3e-a5ed6e78d876",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.schwimmbad.de",
-        "squuid": "5be1a6b1-884d-4aba-80f2-c083b35030c8"
-      },
-      "squuid": "5be1a6b9-ae73-4121-b1ac-0d13060ba53b",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.kuecheundarchitektur.de",
-        "squuid": "5be1a6b1-3cbb-4c96-b82a-a1216c6bad7d"
-      },
-      "squuid": "5be1a6b9-280b-459c-898d-bf1c420d4029",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "#H4F - homes4future",
-        "squuid": "5e3a90aa-3e57-4f55-9833-758ff4537e39"
-      },
-      "squuid": "5e3a9102-d35f-484f-8e4d-50d3026b92a3",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.smartlive.de",
-        "squuid": "6101300d-2b8c-493b-adf6-76e1cedd18db"
-      },
-      "squuid": "6101302d-8d2a-4e66-85dc-a5f0d5cc6f31",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "smartlive",
-        "squuid": "630600ba-86e7-4ac7-9e09-ee794747c45d"
-      },
-      "squuid": "630600f8-b187-4a9e-a532-2e7c029401a9",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Intermedia Vermögensverwaltungs GmbH",
-        "squuid": "5be1a6b6-633f-4ddb-8c89-bd5cf7810e34"
-      },
-      "squuid": "5be1a6b8-c27b-4df2-bd81-0759369793ee",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Bauhelden Media Verwaltungsgesellschaft mbH",
-        "squuid": "5eb178ac-ed6c-48f9-8384-caf04e88cbf4"
-      },
-      "squuid": "5eb178c9-dcfb-445b-b8f9-01fc38d949b7",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

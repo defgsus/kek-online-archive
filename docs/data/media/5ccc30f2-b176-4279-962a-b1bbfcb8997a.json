@@ -20,14 +20,20 @@
   "name": "www.fudder.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2023-12-04T17:06:10.995Z",
-  "onlineIVWPI": 2000000,
+  "controlDate": "2024-05-16T09:20:35.754Z",
+  "onlineIVWPI": 0,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "onlineVisitsIVW": 500000,
-  "onlineComments": "Nutzerdaten laut Verlagsangaben",
-  "onlineAGOF": 150000
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
+  "onlineVisitsIVW": 0,
+  "onlineComments": "",
+  "onlineAGOF": 0
 }

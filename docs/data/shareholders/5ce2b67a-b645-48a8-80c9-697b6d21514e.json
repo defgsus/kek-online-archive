@@ -28,7 +28,7 @@
   "name": "Bayer AG",
   "naturalPerson": false,
   "squuid": "5ce2b67a-b645-48a8-80c9-697b6d21514e",
-  "controlDate": "2023-10-09T13:34:24.184Z",
+  "controlDate": "2024-05-16T13:21:15.243Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -56,12 +56,32 @@
     },
     {
       "type": "own",
-      "capitalShares": 92.83,
+      "capitalShares": 85.82,
       "holder": {
         "name": "Streubesitz an der Bayer AG",
         "squuid": "5ce2bb0d-fce2-49ea-b8c5-becc74d56a60"
       },
       "squuid": "5ce2bb33-4488-40cd-915d-62da9df43db8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.04,
+      "holder": {
+        "name": "Massachusetts Financial Services Company",
+        "squuid": "5be1a6b6-ab6d-48ec-9d29-2b63f7ab2964"
+      },
+      "squuid": "652400a4-5639-4c2f-b391-9c2fb48c1c62",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.97,
+      "holder": {
+        "name": "Republic of Singapore",
+        "squuid": "6524010b-bd0d-43d7-bd4e-d8fd81677b18"
+      },
+      "squuid": "65240139-b367-44e1-b37b-96a56b30d611",
       "state": "active"
     }
   ]
