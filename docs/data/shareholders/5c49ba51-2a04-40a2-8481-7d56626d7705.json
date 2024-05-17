@@ -2,16 +2,6 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 21.9,
-      "held": {
-        "name": "Vermögensverwaltungs- und Treuhandgesellschaft der Industriegewerkschaft Bergbau und Energie mbH",
-        "squuid": "5c49b89e-2b3a-40ad-b25c-d6b29d84333f"
-      },
-      "squuid": "5c49bbaf-0e0f-4dc1-acbf-8c0b4d149f25",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 21.3,
       "held": {
         "name": "Treuhandverwaltung der Nachfolge des Verbandes der Fabrikarbeiter Deutschlands GmbH",
@@ -33,6 +23,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ]
 }

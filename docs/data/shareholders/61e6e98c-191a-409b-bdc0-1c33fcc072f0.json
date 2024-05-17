@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Stuttgart",
   "pseudoCompany": false,
   "street": "Vaihingerstr.",
@@ -9,33 +9,11 @@
   "streetNumber": "95",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "70567",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "srgt (SchwarzRotGold TV)",
-        "squuid": "61e6e9ee-6be8-49ea-878c-57a1cf9ee031"
-      },
-      "squuid": "61e6ebea-ae75-49c0-ae9c-56f7d2649bf1",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Geissler, Dr. Werner Wilfried",
-        "squuid": "61e6e9af-8c09-462d-8fc9-c5632ab90e29"
-      },
-      "squuid": "61e6ec4d-f1cd-4086-8732-d9bea754b165",
-      "state": "active"
-    }
-  ]
+  "zipcode": "70567"
 }

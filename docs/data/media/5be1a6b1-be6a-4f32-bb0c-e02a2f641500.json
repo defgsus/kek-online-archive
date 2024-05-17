@@ -3,6 +3,7 @@
   "state": "active",
   "rfShoppingChannel": false,
   "rfParentalAdvisor": "Till Faber",
+  "rfStartDate": "Mai 2020",
   "rfFreePay": true,
   "squuid": "5be1a6b1-be6a-4f32-bb0c-e02a2f641500",
   "organization": {
@@ -23,19 +24,19 @@
       "state": "active"
     }
   ],
-  "name": "Aristo HD",
+  "name": "Aristo TV",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-    "name": "Noch nicht auf Sendung",
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
   "type": "tv",
   "rfCategory": {
-    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
-    "name": "Spartenprogramm (Unterhaltung)",
+    "squuid": "5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8",
+    "name": "Spartenprogramm (Information/Dokumentation)",
     "type": "program-category",
     "state": "active"
   },
@@ -45,7 +46,7 @@
     "type": "organization",
     "fullName": "Medienanstalt Hessen"
   },
-  "description": "Spartenprogramm, bei dem familientaugliche Serien, Spielfilme und Dokumentationsformate für eine breite Zielgruppe ausgestrahlt werden.",
+  "description": "Dokusender mit Inhalten, die auch auf ANIXE+ und ANIXE HD Serie ausgestrahlt werden",
   "rfLicenseUntil": "01.02.2027",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -54,6 +55,30 @@
     "state": "active"
   },
   "rfLicensed": "02.02.2017",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra / Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
   "rfLicenseFrom": "02.02.2017",
   "accessibilityEmail": "info@ar-mediaservice.tv ",
   "languages": [
