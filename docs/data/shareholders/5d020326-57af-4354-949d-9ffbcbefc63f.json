@@ -1,29 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 30.0,
-      "held": {
-        "name": "BLK-TV UG (haftungsbeschränkt)",
-        "squuid": "5f295855-1efa-471e-bddd-971311da5c15"
-      },
-      "squuid": "5f29595d-d157-4912-8527-1c7b0e9240f8",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Hohenmölsen",
-  "pseudoCompany": false,
   "name": "Mittag, Maud",
-  "naturalPerson": true,
+  "pseudoCompany": false,
   "squuid": "5d020326-57af-4354-949d-9ffbcbefc63f",
+  "city": "Hohenmölsen",
+  "state": "active",
   "organizations": [
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
-    },
     {
       "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
       "name": "MSA",
@@ -41,5 +22,6 @@
       "squuid": "5d020364-8055-4414-94e7-baf4fb484bce",
       "state": "active"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

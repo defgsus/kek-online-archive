@@ -9,6 +9,16 @@
       },
       "squuid": "5f0d8c9e-4bba-46f9-aed5-bb6c80501d8e",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Channel21 Holding AG",
+        "squuid": "5be1a6b6-72e2-41db-a450-66b439cab218"
+      },
+      "squuid": "664dd3c2-698f-47d2-9cc7-beb3c4377aba",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -22,26 +32,32 @@
   "streetNumber": "7",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "82031",
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 80.0,
       "holder": {
         "name": "Beier, Wilhelm",
         "squuid": "5f05dc53-68a7-42a8-8e59-30fd1b7d6f02"
       },
       "squuid": "5f101b48-43ba-44d8-b99c-04b403e42677",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.3,
+      "holder": {
+        "name": "Beier, Elisabeth",
+        "squuid": "664dd454-4ef4-40ce-b53d-bf892a9fe752"
+      },
+      "squuid": "664dd49d-b9e9-4895-a8c3-a3bd1a15002d",
       "state": "active"
     }
   ]

@@ -2,11 +2,11 @@
   "matchedNames": [
     "NatGeo Wild"
   ],
-  "rfRepresentative": "Roger Crotti, Chakira H. Gavazzi",
+  "rfRepresentative": "Chakira Gavazzi, Eun Kyung Park",
   "state": "active",
   "rfShoppingChannel": false,
-  "rfParentalAdvisor": "",
-  "rfStartDate": "2009 (ital. Lizenz), 01.07.2012 (Lizenz mabb)",
+  "rfParentalAdvisor": "Stefanie Glanz",
+  "rfStartDate": "07.01.2009",
   "rfFreePay": false,
   "squuid": "5be1a6b1-0c8d-4a7d-b88e-c24ee12f477d",
   "marketReach": 0.1,
@@ -28,7 +28,7 @@
       "state": "active"
     }
   ],
-  "name": "National Geographic Wild Channel (NAT GEO WILD)",
+  "name": "National Geographic Wild (NAT GEO WILD)",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
@@ -62,7 +62,7 @@
   "platformOperators": [
     {
       "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
-      "name": "Vodafone Kabel Deutschland GmbH",
+      "name": "GIGA TV Cable / Vodafone Kabel Deutschland GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
@@ -73,7 +73,7 @@
     },
     {
       "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
-      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "name": "Magenta TV / Deutsche Telekom GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
@@ -83,12 +83,23 @@
       "state": "active"
     },
     {
-      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
-      "name": "Sky",
+      "squuid": "5be1a6b0-2fa4-4160-a33b-8b51c00997a4",
+      "name": "GIGA TV Net / Vodafone Kabel Deutschland GmbH",
       "type": "platform-operator",
       "distributionType": {
-        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
-        "name": "Programmplattform",
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5e7b9563-98d5-457b-afe1-2403a5dacf39",
+      "name": "1&1 HD TV / 1&1 Telecom GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
         "type": "distribution-type"
       },
       "state": "active"

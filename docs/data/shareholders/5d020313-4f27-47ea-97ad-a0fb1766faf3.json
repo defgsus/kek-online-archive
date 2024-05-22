@@ -1,29 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "BLK-TV UG (haftungsbeschränkt)",
-        "squuid": "5f295855-1efa-471e-bddd-971311da5c15"
-      },
-      "squuid": "5f295950-01fb-4c87-89d8-e4df5018922d",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Leipzig",
-  "pseudoCompany": false,
   "name": "Barfuß, Steffen",
-  "naturalPerson": true,
+  "pseudoCompany": false,
   "squuid": "5d020313-4f27-47ea-97ad-a0fb1766faf3",
+  "city": "Leipzig",
+  "state": "active",
   "organizations": [
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
-    },
     {
       "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
       "name": "MSA",
@@ -41,5 +22,6 @@
       "squuid": "5d020353-8239-46c6-b396-2be0017092c5",
       "state": "active"
     }
-  ]
+  ],
+  "naturalPerson": true
 }
