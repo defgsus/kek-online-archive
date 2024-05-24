@@ -113,13 +113,14 @@
   ],
   "state": "active",
   "city": "Dresden",
+  "note": "Verlag inzwischen von der Verlagsgesellschaft Madsack GmbH & Co. KG übernommen. Die sich daraus ergebende Änderung der Konzernzuordnung der Sächsischen Zeitung und ihrer weiteren Lokalausgaben, der Dresdner und Chemnitzer Morgenpost sowie der Onlineportale www.saechsische.de und www.tag24.de ist im bisherigen Medienvielfaltsmonitor noch nicht berücksichtigt.",
   "pseudoCompany": false,
   "street": "Ostra-Allee 20",
   "name": "DDV Mediengruppe GmbH & Co KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e",
-  "controlDate": "2023-10-13T11:08:31.959Z",
+  "controlDate": "2024-05-24T12:57:49.016Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151,26 +152,6 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 60.0,
-      "holder": {
-        "name": "RM Hamburg Holding GmbH",
-        "squuid": "5be1a6b6-6647-418f-be7f-faee8268574e"
-      },
-      "squuid": "5be1a6b8-7ee4-4848-a7e4-0824d1f71943",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 40.0,
-      "holder": {
-        "name": "Deutsche Druck- und Verlagsgesellschaft mbH (DDVG)",
-        "squuid": "5be1a6b6-a5cc-47e1-ad55-477c084b25cb"
-      },
-      "squuid": "5be1a6b8-9ed4-4493-96f8-e2eb80555f58",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -179,6 +160,16 @@
         "squuid": "5ebd1bf7-19f4-4a29-9383-5e0156acc5b7"
       },
       "squuid": "5ebd1df8-30af-472b-86b6-671fb2eb7716",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "6647482b-0f1e-46b1-a55b-400820802eb3",
       "state": "active"
     }
   ]
