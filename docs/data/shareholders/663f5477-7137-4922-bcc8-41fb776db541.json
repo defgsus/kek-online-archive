@@ -1,13 +1,30 @@
 {
   "name": "Wiewel, Susanne",
   "squuid": "663f5477-7137-4922-bcc8-41fb776db541",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.67,
+      "held": {
+        "name": "Anzeiger-Verlag Soest GmbH",
+        "squuid": "5ee372e0-3abc-4437-b24f-8830726f4243"
+      },
+      "squuid": "663f54a0-2053-4b71-bfe6-4b22acc01021",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LFM NRW",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ]
 }

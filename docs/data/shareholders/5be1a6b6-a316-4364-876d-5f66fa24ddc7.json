@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Koblenz",
   "pseudoCompany": false,
   "street": "Friedrich-Ebert-Ring",
@@ -10,45 +10,12 @@
   "streetNumber": "54",
   "organizations": [
     {
-      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "Medienanstalt RLP",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Rheinland-Pfalz"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "58068",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Antenne Koblenz 98.0",
-        "squuid": "5be1a6b1-44f9-4ad5-8d4a-7032caf8ae0d"
-      },
-      "squuid": "5be1a6b9-cbe7-4513-aa64-eb955db899e9",
-      "state": "active"
-    }
-  ],
-  "credits": "LMK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 75.0,
-      "holder": {
-        "name": "The Radio Group Holding GmbH",
-        "squuid": "5be1a6b6-0b31-4cd0-88b2-e247324913be"
-      },
-      "squuid": "5be1a6b7-1744-443a-b3be-3b37e575621d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "holder": {
-        "name": "The Radio Group GmbH",
-        "squuid": "5be1a6b6-412b-4ae5-b2e9-ec72b2cdc4d3"
-      },
-      "squuid": "619d1641-e5b7-47b7-8478-9d094da03d3c",
-      "state": "active"
-    }
-  ]
+  "credits": "LMK"
 }
