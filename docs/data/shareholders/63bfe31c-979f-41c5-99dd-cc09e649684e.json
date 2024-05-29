@@ -1,7 +1,4 @@
 {
-  "name": "DEVK Deutsche Eisenbahn Versicherung Sach- und HUK-Versicherungsverein a.G. Betriebliche Sozialeinrichtung der Deutschen Bahn",
-  "pseudoCompany": false,
-  "squuid": "63bfe31c-979f-41c5-99dd-cc09e649684e",
   "owns": [
     {
       "type": "own",
@@ -14,7 +11,13 @@
       "state": "active"
     }
   ],
+  "state": "active",
   "city": "Köln",
+  "pseudoCompany": false,
+  "name": "DEVK Deutsche Eisenbahn Versicherung Sach- und HUK-Versicherungsverein a.G. Betriebliche Sozialeinrichtung der Deutschen Bahn",
+  "naturalPerson": false,
+  "squuid": "63bfe31c-979f-41c5-99dd-cc09e649684e",
+  "controlDate": "2024-05-29T10:19:43.955Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -26,7 +29,5 @@
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "state": "active",
-  "naturalPerson": false
+  ]
 }

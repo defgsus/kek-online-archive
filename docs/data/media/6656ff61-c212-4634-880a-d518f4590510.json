@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "6656ff61-c212-4634-880a-d518f4590510",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Deutsches Musik Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-8fbd-4a98-b2e4-97a2545044f0"
+      },
+      "squuid": "6656ff77-622f-4714-bae2-a35bf47e5a55",
+      "state": "active"
+    }
+  ],
+  "name": "www.dokusat.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-05-29T10:11:52.027Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
