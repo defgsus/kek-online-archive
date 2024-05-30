@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 60.0,
-      "held": {
-        "name": "EFA Tankstellenbetriebe GmbH",
-        "squuid": "5d35cb3b-c933-49e1-ab73-23c5be9a4119"
-      },
-      "squuid": "5f3bee27-76f4-406c-b2a6-07362389440c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Ettlingen",
   "pseudoCompany": false,
   "street": "Hertzstr.",
@@ -23,39 +11,11 @@
   "streetNumber": "27",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "76275",
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Emil Fahrer Verwaltungs GmbH",
-        "squuid": "5fbd2e33-b643-420b-b45a-12f86228ed7a"
-      },
-      "squuid": "5fbd2e66-d10e-4b0c-89f3-7760c26702cb",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Fahrer, Wolfgang",
-        "squuid": "5f3bee0f-2107-488f-bc11-95788b344d27"
-      },
-      "squuid": "5fbd2e73-9ffa-4e28-8367-5569c15c538b",
-      "state": "active"
-    }
-  ]
+  "zipcode": "76275"
 }
