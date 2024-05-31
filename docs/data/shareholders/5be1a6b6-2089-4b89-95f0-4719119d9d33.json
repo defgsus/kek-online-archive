@@ -1,52 +1,21 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Hannover",
   "pseudoCompany": false,
   "street": "Karl-Wiechert-Allee",
   "name": "eMedia GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-2089-4b89-95f0-4719119d9d33",
-  "controlDate": "2023-10-19T11:07:53.499Z",
+  "controlDate": "2024-05-31T14:28:59.991Z",
   "streetNumber": "10",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "30625",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "retro Gamer",
-        "squuid": "5be1a6b1-9a8e-41fc-9388-2834442f14f3"
-      },
-      "squuid": "5be1a6b9-9d6a-41df-bbaf-8434e6d74cbb",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Space - Das Weltraum-Magazin",
-        "squuid": "5be1a6b1-a911-41f8-86ef-02eea105ad10"
-      },
-      "squuid": "5be1a6b9-adc6-49e3-85bc-ba2e313aa745",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Heise Medien GmbH & Co. KG",
-        "squuid": "5be1a6b6-dea3-4150-8ba6-7e255764afee"
-      },
-      "squuid": "5be1a6b8-9447-47d5-8f14-fc5f45c23de3",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

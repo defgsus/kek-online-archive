@@ -3,13 +3,15 @@
   "state": "active",
   "rfShoppingChannel": false,
   "rfParentalAdvisor": "Gerhard Weiß",
-  "rfFreePay": true,
+  "rfStartDate": "2023",
+  "rfFreePay": false,
   "squuid": "63f48971-c622-4235-9dd4-9d78b5ee70fb",
   "organization": {
     "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
     "name": "KEK",
     "type": "organization"
   },
+  "accessibilityUrl": "https://www.highview.com/",
   "rfStatewide": true,
   "operatedBy": [
     {
@@ -25,8 +27,8 @@
   "name": "Rediscover",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-    "name": "Noch nicht auf Sendung",
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -43,11 +45,24 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "description": "Oldies und Kultfilme aus verschiedenen Genres, u. a. Krimi, Drama, Action, Fantasy, Abenteuer",
+  "description": "Action- und Entertainmentsender mit US-Erfolgsserien, Action- und Crime-Serien",
   "rfLicenseUntil": "unbefristet",
   "rfLicensed": "25.01.2023",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-4a91-45e5-b9ed-2abbf093d6de",
+      "name": "HD+ / HD Plus GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
   "rfLicenseFrom": "25.01.2023",
-  "accessibilityEmail": "info@hi-media.de",
+  "accessibilityEmail": "kf@highview.com",
   "languages": [
     {
       "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",

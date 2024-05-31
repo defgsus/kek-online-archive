@@ -2,7 +2,8 @@
   "rfRepresentative": "Alexander Trauttmansdorff",
   "state": "active",
   "rfShoppingChannel": false,
-  "rfParentalAdvisor": "Gerhard Weiß",
+  "rfParentalAdvisor": "Julia Hofmann",
+  "rfStartDate": "2023",
   "rfFreePay": true,
   "squuid": "63f48900-11ba-4128-8c7a-46e5b3a82ca8",
   "organization": {
@@ -10,7 +11,7 @@
     "name": "KEK",
     "type": "organization"
   },
-  "accessibilityUrl": "https://deluxemusic.de/",
+  "accessibilityUrl": "https://www.highview.com/",
   "rfStatewide": true,
   "operatedBy": [
     {
@@ -26,8 +27,8 @@
   "name": "R-Adventure Channel",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-    "name": "Noch nicht auf Sendung",
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -44,11 +45,35 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "description": "Dokumentationen und Reportagen sportlicher Höchstleistungen von Athleten und Athletinnen",
+  "description": "Dokumentationen aus der Welt des Extremsports und Abenteuern aus verschiedenen Sportarten ",
   "rfLicenseUntil": "unbefristet",
   "rfLicensed": "25.01.2023",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-24b4-4d13-8a22-0c8d2f905c50",
+      "name": "Astra / Astra Deutschland GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6b0-4a91-45e5-b9ed-2abbf093d6de",
+      "name": "HD+ / HD Plus GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
+        "name": "Satellit",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
   "rfLicenseFrom": "25.01.2023",
-  "accessibilityEmail": "info@hi-media.de",
+  "accessibilityEmail": "kf@highview.com",
   "languages": [
     {
       "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",

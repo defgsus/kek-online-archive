@@ -1,13 +1,20 @@
 {
   "state": "active",
   "city": "Köln",
-  "street": "Theodor-Heuss-Ring",
+  "pseudoCompany": false,
+  "street": "Gustav-Heinemann-Ufer",
   "name": "NRW Audio GmbH & Co. KG ",
   "naturalPerson": false,
+  "limitedPartnership": true,
   "squuid": "62e77c1e-8d4c-4f03-9965-9f4964d8faec",
   "placeOfBusiness": "Köln",
-  "streetNumber": "23",
+  "streetNumber": "74A",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
       "name": "LFM NRW",
@@ -15,7 +22,7 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
-  "zipcode": "50668",
+  "zipcode": "50968",
   "operates": [
     {
       "type": "operate",
@@ -25,12 +32,21 @@
       },
       "squuid": "62e77c42-6376-4000-a99b-271ac636310d",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nrw1.de",
+        "squuid": "6659718d-02c8-454c-af17-0f9e85baddcc"
+      },
+      "squuid": "665971b6-258c-4960-9de2-df2feba37c05",
+      "state": "active"
     }
   ],
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 24.5,
+      "capitalShares": 34.127,
       "holder": {
         "name": "Antenne NRW GmbH & Co. KG",
         "squuid": "618d061b-b42a-42a2-8bdb-b956f64723f6"
@@ -40,7 +56,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 24.5,
+      "capitalShares": 16.333,
       "holder": {
         "name": "radio NRW GmbH",
         "squuid": "5be1a6b6-4e8f-44fd-b055-21d0337b962b"
@@ -50,7 +66,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 7.0,
+      "capitalShares": 4.667,
       "holder": {
         "name": "KISS FM Radio GmbH & Co. KG",
         "squuid": "5be1a6b6-0ccc-4bcb-bfac-59dbc7e5a376"
@@ -60,7 +76,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 6.5,
+      "capitalShares": 4.333,
       "holder": {
         "name": "METROPOL FM GmbH",
         "squuid": "5be1a6b6-f3b1-43e2-ada8-d877ac037057"
@@ -70,7 +86,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 6.0,
+      "capitalShares": 4.167,
       "holder": {
         "name": "Radio TEDDY GmbH & Co. KG",
         "squuid": "5be1a6b6-d1b6-4b42-b474-290b5f4298c9"
@@ -80,17 +96,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 5.0,
-      "holder": {
-        "name": "ROCK ANTENNE GmbH & Co. KG",
-        "squuid": "5be1a6b6-1640-4e2c-9d60-ee7bc798fdc9"
-      },
-      "squuid": "6319a314-2ea1-4eb4-a005-e7b46dbc29ab",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 5.0,
+      "capitalShares": 3.333,
       "holder": {
         "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
         "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
@@ -100,7 +106,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 1.0,
+      "capitalShares": 0.0,
       "holder": {
         "name": "Plattform für regionale Musikwirtschaft GmbH",
         "squuid": "5be1a6b6-74f2-4b0c-b4a2-df3bb96f2492"
@@ -110,7 +116,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 9.0,
+      "capitalShares": 14.035,
       "holder": {
         "name": "ffnrw GmbH",
         "squuid": "6319a413-a0b1-41c8-a3bc-e8976e4d6a3f"
@@ -120,7 +126,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 7.0,
+      "capitalShares": 9.605,
       "holder": {
         "name": "Radio 21 GmbH & Co. KG",
         "squuid": "5be1a6b6-d018-4147-bd70-c13114845f19"
@@ -130,12 +136,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 3.5,
+      "capitalShares": 0.0,
       "holder": {
-        "name": "Arabella NRW GbR",
-        "squuid": "6319b280-8571-4db7-bbad-ad4c9ad16f36"
+        "name": "Westfälischer Anzeiger Verlagsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-1155-4281-b6ac-c4879ebd2c19"
       },
-      "squuid": "6319b529-9d41-42fb-a466-39c6235876ce",
+      "squuid": "64956e68-c74d-44c1-a632-a2b9c16f8066",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.167,
+      "holder": {
+        "name": "Die Neue Welle Beteiligungs- und Verwaltungsgesellschaft mbH",
+        "squuid": "5be1a6b6-91ce-43a5-be72-79eee118b011"
+      },
+      "squuid": "64956ec0-5b86-4706-9d61-3104f7d5f3e6",
       "state": "active"
     }
   ]

@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Verwaltungsgesellschaft Emder Zeitung mbH",
-        "squuid": "5ec525fe-9b0c-41fb-900e-3a33beb87901"
-      },
-      "squuid": "5ec5269a-0621-4fb9-ac04-69a80f811a3e",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Emden",
   "pseudoCompany": false,
   "street": "Ringstr. 17a",
@@ -22,63 +10,12 @@
   "controlDate": "2023-10-19T11:06:32.621Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "26721",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Emder Zeitung",
-        "squuid": "5be1a6b1-4638-4437-9dff-b6af75170d7f"
-      },
-      "squuid": "5be1a6b9-ef0d-49c5-af7a-94f7f0ba868d",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.emderzeitung.de",
-        "squuid": "5be1a6b1-5bca-4e06-b5fd-02f1b31acb08"
-      },
-      "squuid": "5be1a6b9-46ad-41e5-ab28-7b35e74829d3",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.nordwest-sonntagsblatt.de",
-        "squuid": "637f9028-f648-4da1-b640-486db4d4c942"
-      },
-      "squuid": "63dbda82-99a3-4781-b60e-d7e94ae5b07e",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Verwaltungsgesellschaft Emder Zeitung mbH",
-        "squuid": "5ec525fe-9b0c-41fb-900e-3a33beb87901"
-      },
-      "squuid": "5ec52613-2092-43f7-9738-f408a8bf6e50",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Nordwest-Zeitung Verlagsgesellschaft mbH & Co KG",
-        "squuid": "5be1a6b6-b2f4-4429-bd16-474ad6037163"
-      },
-      "squuid": "60784c4f-fb69-4fff-b7c2-4e22d663b1be",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

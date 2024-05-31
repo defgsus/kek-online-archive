@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "654e3210-c2c1-44b7-a84d-d7d0fc2932f3",
-  "controlDate": "2023-11-27T09:18:49.296Z",
+  "controlDate": "2024-05-31T10:47:01.983Z",
   "streetNumber": "11",
   "organizations": [
     {
@@ -39,5 +39,68 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "14482"
+  "zipcode": "14482",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Elgeti, Rolf",
+        "squuid": "5f27ca92-9aa8-4211-a18f-b0e09af91da0"
+      },
+      "squuid": "656461cb-83d6-48cf-bcb2-3b077b6170fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Elgeti, Angelika",
+        "squuid": "65646136-91f2-4cd3-843e-b151e603c3d5"
+      },
+      "squuid": "656461dc-e731-4327-9506-ca2f326725cc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Elgeti, Florentine",
+        "squuid": "65646183-69ce-43ea-a719-8ba1dc0e3a62"
+      },
+      "squuid": "656461ef-87aa-4e10-86cb-a263857ad987",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Elgeti, Julius",
+        "squuid": "6564616f-6179-41c5-af6d-b98c8c8c799e"
+      },
+      "squuid": "65646200-bb39-453d-8a5c-c374fc3292b7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Elgeti, Louisa",
+        "squuid": "6564615d-833d-4570-a8c2-6feb8fee8dab"
+      },
+      "squuid": "65646211-5a60-45cf-a403-b016446c83d2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Elgeti, Philipp",
+        "squuid": "65646143-de78-4b67-8e1a-cb6bff38e97c"
+      },
+      "squuid": "65646221-b49f-4ed3-89fc-1a73580800a3",
+      "state": "active"
+    }
+  ]
 }
