@@ -4,26 +4,6 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "EWI Euskirchener Werbe-Informationen GmbH & Co. KG",
-        "squuid": "63d1423f-1af1-403b-9052-7463ce50fedc"
-      },
-      "squuid": "63d148a8-53d8-4ee7-86c4-cc6a7fd9ed9c",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "EWI Euskirchener Werbe-Informationen Verwaltungs-GmbH",
-        "squuid": "63d1480e-ce4c-4bad-8d0f-4d5b10c69458"
-      },
-      "squuid": "63d14a8e-38b5-4eba-b032-f1849e12ea1d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "Werbepost Anzeigenblatt GmbH & Co. KG",
         "squuid": "63d157ed-e493-4723-9c62-922179b2aa2e"
       },
@@ -56,6 +36,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "50226",
@@ -67,6 +53,15 @@
         "squuid": "63d159ac-e6a2-4022-9b59-3d7cbafd6abf"
       },
       "squuid": "63d159d0-d102-4c25-9711-0046a180a2c3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blickpunkt-euskirchen.de",
+        "squuid": "63d14252-8ac9-4dfa-8fde-5be6459668fe"
+      },
+      "squuid": "665d914e-3741-48bf-8d06-e089f409d742",
       "state": "active"
     }
   ],

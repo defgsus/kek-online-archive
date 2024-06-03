@@ -1,44 +1,20 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "EWI Euskirchener Werbe-Informationen GmbH & Co. KG",
-        "squuid": "63d1423f-1af1-403b-9052-7463ce50fedc"
-      },
-      "squuid": "63d148b4-fa9f-4ca5-a5c2-5941407ff8a1",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Brühl",
   "pseudoCompany": false,
   "street": "Uhlstr.",
   "name": "EWI Euskirchener Werbe-Informationen Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "63d1480e-ce4c-4bad-8d0f-4d5b10c69458",
-  "controlDate": "2023-10-19T14:48:04.196Z",
+  "controlDate": "2024-06-03T09:40:31.741Z",
   "streetNumber": "102",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "50321",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Verlag Anzeigen und Informationen GmbH & Co. KG",
-        "squuid": "63d14893-6353-43d0-9ad9-0fd617ad8f1f"
-      },
-      "squuid": "63d14a8e-38b5-4eba-b032-f1849e12ea1d",
-      "state": "active"
-    }
-  ]
+  "zipcode": "50321"
 }

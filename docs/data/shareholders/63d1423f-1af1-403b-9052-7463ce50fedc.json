@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Brühl",
   "pseudoCompany": false,
   "street": "Uhlstr.",
@@ -7,48 +7,15 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "63d1423f-1af1-403b-9052-7463ce50fedc",
-  "controlDate": "2023-10-19T14:48:01.203Z",
+  "controlDate": "2024-06-03T09:40:27.544Z",
   "streetNumber": "102",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "50321",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.blickpunkt-euskirchen.de",
-        "squuid": "63d14252-8ac9-4dfa-8fde-5be6459668fe"
-      },
-      "squuid": "63d147dc-558e-4cf2-8a69-cfe1d135b1e4",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Verlag Anzeigen und Informationen GmbH & Co. KG",
-        "squuid": "63d14893-6353-43d0-9ad9-0fd617ad8f1f"
-      },
-      "squuid": "63d148a8-53d8-4ee7-86c4-cc6a7fd9ed9c",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "EWI Euskirchener Werbe-Informationen Verwaltungs-GmbH",
-        "squuid": "63d1480e-ce4c-4bad-8d0f-4d5b10c69458"
-      },
-      "squuid": "63d148b4-fa9f-4ca5-a5c2-5941407ff8a1",
-      "state": "active"
-    }
-  ]
+  "zipcode": "50321"
 }
