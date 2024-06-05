@@ -2,8 +2,30 @@
   "name": "Beier, Michael",
   "pseudoCompany": false,
   "squuid": "664dd467-7ddf-4482-9b3b-8fcdd0fdbad8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.7,
+      "held": {
+        "name": "Themis Beteiligungs-Aktiengesellschaft",
+        "squuid": "5f0d8c37-535b-499d-b507-6276b2cc126d"
+      },
+      "squuid": "664dd4b6-2be2-4e66-ae6b-5b7bfb4fce05",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",

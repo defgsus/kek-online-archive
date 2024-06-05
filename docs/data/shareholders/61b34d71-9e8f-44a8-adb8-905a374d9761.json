@@ -1,33 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "KW Acquisition GmbH",
-        "squuid": "5be1a6b6-5680-4dc9-acbf-f82ae4e0e7f1"
-      },
-      "squuid": "61b34d9a-75f4-4bd2-9cc3-540116ec9a27",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Amsterdam (NL)",
-  "pseudoCompany": false,
   "name": "AMC International Productions B. V.",
-  "naturalPerson": false,
-  "squuid": "61b34d71-9e8f-44a8-adb8-905a374d9761",
+  "pseudoCompany": false,
   "controlDate": "2023-09-27T09:36:46.545Z",
+  "squuid": "61b34d71-9e8f-44a8-adb8-905a374d9761",
+  "city": "Amsterdam (NL)",
+  "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": false
 }
