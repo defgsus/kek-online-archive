@@ -19,7 +19,7 @@
   "name": "G. Braun Immobilien Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "5f9a9c47-d1e4-4aa5-8ba3-08b9b962d75c",
-  "controlDate": "2023-10-24T15:05:43.853Z",
+  "controlDate": "2024-06-06T11:26:21.210Z",
   "streetNumber": "14-18",
   "organizations": [
     {
@@ -50,12 +50,32 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 33.33,
       "holder": {
-        "name": "Erbengemeinschaft Antonia Cobanli, Marie-Sophie Jagwitz-Biegnitz und Marie-Therese Jagwitz-Biegnitz",
-        "squuid": "647dd6c9-e3c0-49a1-824c-a8edc3cfd0bb"
+        "name": "Cobanli, Antonia",
+        "squuid": "5f9a9c80-ecad-4696-911d-f5ee0f8614e8"
       },
-      "squuid": "647dd6f0-2f4a-4d2e-8a0c-ec0c3ca7b40f",
+      "squuid": "6537ddd0-c2af-475f-a977-4683518fbf05",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "von Jagwitz-Biegnitz, Marie-Sophie",
+        "squuid": "6391d324-e58d-4f78-b2ce-9744cc35bce0"
+      },
+      "squuid": "6537dde0-a700-4022-9be9-4e3080257373",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "von Jagwitz-Biegnitz, Marie-Therese",
+        "squuid": "6391d316-d56d-463f-830b-551a09fd5896"
+      },
+      "squuid": "6537ddf4-46e8-42fd-bb23-994348714b5b",
       "state": "active"
     }
   ]
