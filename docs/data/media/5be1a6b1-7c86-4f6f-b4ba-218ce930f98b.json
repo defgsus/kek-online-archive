@@ -2,7 +2,7 @@
   "rfRepresentative": "Marc Nissen",
   "state": "active",
   "rfShoppingChannel": false,
-  "rfParentalAdvisor": "Markus Weiß",
+  "rfParentalAdvisor": "Janine Busch",
   "rfStartDate": "2016",
   "rfFreePay": true,
   "squuid": "5be1a6b1-7c86-4f6f-b4ba-218ce930f98b",
@@ -47,7 +47,7 @@
     "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
   },
   "description": "Fernsehspartenprogramm mit täglichen Livestreams, in denen im Multiplayer-Modus sogenannte \"Let's Plays\" verschiedener Computerspiele erfolgen; Verbreitung ausschließlich über das Internet",
-  "rfLicenseUntil": "21.05.2028",
+  "rfLicenseUntil": "unbefristet",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
@@ -68,5 +68,13 @@
       "state": "active"
     }
   ],
-  "rfLicenseFrom": "22.05.2018"
+  "rfLicenseFrom": "22.05.2018",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
 }

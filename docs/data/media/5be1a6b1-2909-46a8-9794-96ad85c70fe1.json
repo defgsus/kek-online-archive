@@ -1,5 +1,5 @@
 {
-  "rfRepresentative": "Nicole Agudo Berbel",
+  "rfRepresentative": "Bert Habets (Vorsitzender), Henrik Pabst, Dr. Stefan Endriß",
   "state": "active",
   "sharesInfo": "KEK 1167",
   "rfShoppingChannel": false,
@@ -25,7 +25,7 @@
       "state": "active"
     }
   ],
-  "name": "Kabel Eins CLASSICS",
+  "name": "Kabel Eins Classics",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
@@ -55,7 +55,7 @@
     "type": "online-offer-type",
     "state": "active"
   },
-  "rfLicensed": "",
+  "rfLicensed": "07.09.2023",
   "platformOperators": [
     {
       "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
@@ -80,19 +80,19 @@
       "state": "active"
     },
     {
-      "squuid": "5be1a6b0-2fa4-4160-a33b-8b51c00997a4",
-      "name": "GIGA TV Net / Vodafone Kabel Deutschland GmbH",
+      "squuid": "5be1a6b0-a0a1-4251-9c3a-feb4abfd58cc",
+      "name": "NetCologne / NetCologne Gesellschaft für Telekommunikation mbH",
       "type": "platform-operator",
       "distributionType": {
-        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
-        "name": "IPTV",
+        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
+        "name": "Kabel",
         "type": "distribution-type"
       },
       "state": "active"
     },
     {
-      "squuid": "5be1a6b0-a0a1-4251-9c3a-feb4abfd58cc",
-      "name": "NetCologne / NetCologne Gesellschaft für Telekommunikation mbH",
+      "squuid": "5be1a6b0-ec5e-4d1d-aeab-25f09a97bf67",
+      "name": "PΫUR / Tele Columbus AG",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
@@ -113,6 +113,17 @@
       "state": "active"
     },
     {
+      "squuid": "5be1a6b0-c433-49e9-b390-5073f0f89b78",
+      "name": "waipu.tv / EXARING AG",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
       "squuid": "5be1a6b0-2a80-4b57-9a14-77c549d0ed24",
       "name": "Prime Video / Amazon Instant Video Germany GmbH",
       "type": "platform-operator",
@@ -122,8 +133,42 @@
         "type": "distribution-type"
       },
       "state": "active"
+    },
+    {
+      "squuid": "5e7b9563-98d5-457b-afe1-2403a5dacf39",
+      "name": "1&1 HD TV / 1&1 Telecom GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5e7b9563-2cbd-4017-b9b5-6e547f075c79",
+      "name": "Joyn / Joyn GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5e7b9563-7477-42ba-8a52-f8a71e6d769a",
+      "name": "M-net / M-Net Telekommunikations GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
     }
   ],
+  "rfLicenseFrom": "",
   "accessibilityEmail": "info@seven.one",
   "languages": [
     {

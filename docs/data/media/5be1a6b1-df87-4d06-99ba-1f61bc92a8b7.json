@@ -1,9 +1,9 @@
 {
   "rfRepresentative": "Remzi Ketenci",
   "state": "active",
-  "sharesInfo": "KEK 1049/1095",
+  "sharesInfo": "KEK 1182",
   "rfShoppingChannel": false,
-  "rfParentalAdvisor": "Ayse Akbulut",
+  "rfParentalAdvisor": "Mustfa Küre",
   "rfStartDate": "21.03.2011",
   "rfFreePay": true,
   "squuid": "5be1a6b1-df87-4d06-99ba-1f61bc92a8b7",
@@ -18,7 +18,7 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Itep Pictures GmbH",
+        "name": "ITEP PICTURES GmbH",
         "squuid": "5be1a6b6-fbe5-46cc-a723-ad476f2dbf06"
       },
       "squuid": "5be1a6b9-0a72-4848-96b8-c2268025bb64",
@@ -67,22 +67,23 @@
         "type": "distribution-type"
       },
       "state": "active"
-    },
-    {
-      "squuid": "5be1a6b0-31bf-4695-b24e-b6d26d9113b1",
-      "name": "Türksat / Turksat A.S.",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0",
-        "name": "Satellit",
-        "type": "distribution-type"
-      },
-      "state": "active"
     }
   ],
   "rfLicenseFrom": "30.03.2021",
   "accessibilityEmail": "info@mceu.tv",
   "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    },
     {
       "squuid": "5be1a6ae-5f26-4c8a-8dbe-f0997863285f",
       "name": "Türkisch",
