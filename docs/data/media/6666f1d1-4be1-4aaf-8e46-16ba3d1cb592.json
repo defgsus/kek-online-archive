@@ -1,0 +1,47 @@
+{
+  "pressPublishingIntervals": 52,
+  "state": "active",
+  "squuid": "6666f1d1-4be1-4aaf-8e46-16ba3d1cb592",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RND RedaktionsNetzwerk Deutschland GmbH",
+        "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d"
+      },
+      "squuid": "6666f200-50a9-4858-a451-f91874652c55",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Haller Kreisblatt Verlags-GmbH",
+        "squuid": "5be1a6b6-74c0-4578-9c26-b2c91711672a"
+      },
+      "squuid": "6666f20a-5d1e-46da-bdde-387351131687",
+      "state": "active"
+    }
+  ],
+  "name": "HK am Sonntag",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "nur als ePaper",
+  "type": "print",
+  "controlDate": "2024-06-10T12:30:20.434Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "pressType": {
+    "squuid": "5be1a6b0-4e68-459d-a5ee-da3974114c2a",
+    "name": "E-Paper",
+    "type": "press-type",
+    "state": "active"
+  }
+}
