@@ -1,19 +1,4 @@
 {
-  "name": "Ingenio Holding Company, LLC",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Alpine Investors Ingenio CV, L.P.",
-        "squuid": "62711589-df14-44eb-bd7d-3c6209921dc2"
-      },
-      "squuid": "62711c22-14ff-4c39-bab3-8a01025861cb",
-      "state": "active"
-    }
-  ],
-  "squuid": "627114f8-3a68-4bef-a27e-f443ed0ccd0f",
   "owns": [
     {
       "type": "own",
@@ -27,6 +12,11 @@
     }
   ],
   "state": "active",
+  "pseudoCompany": false,
+  "name": "Ingenio Holding Company, LLC",
+  "naturalPerson": false,
+  "squuid": "627114f8-3a68-4bef-a27e-f443ed0ccd0f",
+  "controlDate": "2024-06-12T13:27:42.441Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -45,5 +35,16 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Alpine Investors Ingenio CV, L.P.",
+        "squuid": "62711589-df14-44eb-bd7d-3c6209921dc2"
+      },
+      "squuid": "62711c22-14ff-4c39-bab3-8a01025861cb",
+      "state": "active"
+    }
+  ]
 }

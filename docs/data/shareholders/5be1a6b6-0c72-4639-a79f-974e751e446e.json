@@ -1,51 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Arabella Str. 23",
   "name": "Internet Magazin Verlag GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-0c72-4639-a79f-974e751e446e",
-  "controlDate": "2023-10-30T09:13:31.159Z",
+  "controlDate": "2024-06-12T14:56:55.079Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "81925",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Das Haus",
-        "squuid": "5be1a6b1-3510-4a0e-9e46-98c71170e63c"
-      },
-      "squuid": "5be1a6b9-c293-4555-8606-16092fde411c",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.haus.de",
-        "squuid": "5be1a6b1-e4e0-4c89-b362-403f7ddd5516"
-      },
-      "squuid": "5be1a6b9-75d1-4f65-98d0-115c0e7042da",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "BurdaVerlag GmbH",
-        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
-      },
-      "squuid": "5be1a6b8-2e78-41ef-a3a1-6de297df5088",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
