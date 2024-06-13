@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "J. Weck GmbH u. Co KG",
-        "squuid": "5be1a6b6-498e-40b9-a27c-2e66d825c193"
-      },
-      "squuid": "5eda1729-dec7-40fc-9b13-1f5ca1a8af40",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Wehr",
   "pseudoCompany": false,
   "street": "Wehratalstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "3",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "79664",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "J. Weck GmbH u. Co KG",
-        "squuid": "5be1a6b6-498e-40b9-a27c-2e66d825c193"
-      },
-      "squuid": "5eda179b-e1d3-43a4-bf93-b973accb704c",
-      "state": "active"
-    }
-  ]
+  "zipcode": "79664"
 }

@@ -1,13 +1,36 @@
 {
   "name": "Bauer, Dr. Christoph",
   "squuid": "66586287-b715-41e0-b12e-4695d8ab8df0",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "DuMont Geschäftsführungs-GmbH",
+        "squuid": "5eb93ea2-35af-42b3-83e8-7ab82c60f966"
+      },
+      "squuid": "665862f6-77ce-4179-8f9a-d7f2a45f96f0",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LFM NRW",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ]
 }

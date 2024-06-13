@@ -2,12 +2,22 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 4.92,
+      "capitalShares": 4.93,
       "held": {
         "name": "Baden TV GmbH",
         "squuid": "5d35c713-a955-4d81-a4b4-86acf2ac33a0"
       },
       "squuid": "5d35cd98-ba5a-45b2-b0e3-1021257a5181",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "INFO - Das Magazin Pforzheim GmbH",
+        "squuid": "666abf20-202e-4108-b4a2-8fae566e50e4"
+      },
+      "squuid": "666abfbd-9d9d-4b7a-8cdc-daa28d052dff",
       "state": "active"
     }
   ],
@@ -19,7 +29,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-ca56-4d28-88af-dd06a71b26bc",
-  "controlDate": "2023-10-30T09:58:00.651Z",
+  "controlDate": "2024-06-13T09:27:44.556Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -65,10 +75,10 @@
     {
       "type": "operate",
       "held": {
-        "name": "www.stadtklar.de",
-        "squuid": "640a0e7d-478f-42d3-8d13-f2fca6bfb9d4"
+        "name": "www.vital-region.de",
+        "squuid": "666ac03d-8c2f-465d-b531-d32b86269a8c"
       },
-      "squuid": "640a0e9d-f428-4fac-aa50-59311dff834e",
+      "squuid": "666ac056-08c1-47d9-b532-3d17db7cf3f3",
       "state": "active"
     }
   ],
@@ -76,32 +86,12 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 51.0,
+      "capitalShares": 100.0,
       "holder": {
         "name": "PZ Media GmbH & Co KG",
         "squuid": "5be1a6b6-70a5-476e-bc57-f86c7340f944"
       },
       "squuid": "5be1a6b8-db21-45d2-befb-94ec2165bd73",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 24.5,
-      "holder": {
-        "name": "Jablonski, Ingrid",
-        "squuid": "5be1a6b6-0975-4064-8c7f-1f70d39a69da"
-      },
-      "squuid": "5be1a6b8-f46a-4352-a67d-dac15eb316cf",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 24.5,
-      "holder": {
-        "name": "Kiefer, Klaus",
-        "squuid": "5be1a6b6-754e-40d9-a945-f1179b8e8bdb"
-      },
-      "squuid": "5be1a6b8-1169-486f-aac5-5f65fe692b88",
       "state": "active"
     },
     {

@@ -1,0 +1,47 @@
+{
+  "pressPublishingIntervals": 52,
+  "state": "active",
+  "squuid": "666ad248-cb7c-45c8-a163-c562b7498588",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RND RedaktionsNetzwerk Deutschland GmbH",
+        "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d"
+      },
+      "squuid": "666ad274-7da8-4c9c-ba0e-77d91c442d38",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "J. Hoffmann GmbH & Co KG",
+        "squuid": "5be1a6b6-f510-4e21-936a-e3cd3b4719a3"
+      },
+      "squuid": "666ad27c-419e-4702-900a-60613231407f",
+      "state": "active"
+    }
+  ],
+  "name": "DH am Sonntag",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "nur als ePaper",
+  "type": "print",
+  "controlDate": "2024-06-13T11:04:46.982Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "pressType": {
+    "squuid": "5be1a6b0-4e68-459d-a5ee-da3974114c2a",
+    "name": "E-Paper",
+    "type": "press-type",
+    "state": "active"
+  }
+}

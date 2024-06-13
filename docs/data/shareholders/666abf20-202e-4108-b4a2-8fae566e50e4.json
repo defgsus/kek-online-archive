@@ -1,0 +1,60 @@
+{
+  "state": "active",
+  "city": "Pforzheim",
+  "pseudoCompany": false,
+  "street": "Poststr.",
+  "name": "INFO - Das Magazin Pforzheim GmbH",
+  "naturalPerson": false,
+  "squuid": "666abf20-202e-4108-b4a2-8fae566e50e4",
+  "controlDate": "2024-06-13T09:44:41.092Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "75172",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "INFO",
+        "squuid": "666abeb8-9a8d-4d8e-9da8-44b1792ecd57"
+      },
+      "squuid": "666abf30-56d9-4b88-9144-738dcfa6ebec",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wirtschaftskraft.de",
+        "squuid": "666ac0ad-b391-4b7c-a8fe-786d629b2805"
+      },
+      "squuid": "666ac0c9-0b33-4ada-b425-38ade49a16d8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.stadtklar.de",
+        "squuid": "640a0e7d-478f-42d3-8d13-f2fca6bfb9d4"
+      },
+      "squuid": "666ac13e-bd3f-4ab0-bb34-c9247aeac102",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "J. Esslinger GmbH & Co KG",
+        "squuid": "5be1a6b6-ca56-4d28-88af-dd06a71b26bc"
+      },
+      "squuid": "666abfbd-9d9d-4b7a-8cdc-daa28d052dff",
+      "state": "active"
+    }
+  ]
+}
