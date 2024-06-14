@@ -1,13 +1,36 @@
 {
   "name": "Strehle, Barbara",
   "squuid": "6659d6ce-8ddd-4d38-9df2-60a68997b4ca",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Elmar Wibmer OHG",
+        "squuid": "5be1a6b6-94fe-43fe-8c4d-e45ab2fd47af"
+      },
+      "squuid": "6659d730-3297-4973-8c47-7670831465a9",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }

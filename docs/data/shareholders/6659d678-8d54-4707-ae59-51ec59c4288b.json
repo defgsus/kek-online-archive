@@ -1,13 +1,36 @@
 {
   "name": "Wibmer, Elmar",
   "squuid": "6659d678-8d54-4707-ae59-51ec59c4288b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Elmar Wibmer OHG",
+        "squuid": "5be1a6b6-94fe-43fe-8c4d-e45ab2fd47af"
+      },
+      "squuid": "6659d6f7-1bd6-4d9c-b7ed-71ab8335d184",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }

@@ -1,72 +1,21 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Mainz",
   "pseudoCompany": false,
   "street": "Kaiserstr.",
   "name": "Kirchheim & Co GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-1c8f-4212-ba4d-4454c5b14975",
-  "controlDate": "2023-11-02T10:22:34.714Z",
+  "controlDate": "2024-06-14T13:33:54.633Z",
   "streetNumber": "41",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "55116",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Diabetes-Journal",
-        "squuid": "5be1a6b1-3a26-4474-855e-8a7978ed0db7"
-      },
-      "squuid": "5be1a6b9-bccd-47e7-8162-13997e7b326f",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.diabetes-online.de",
-        "squuid": "5be1a6b1-e7dc-46f9-b377-e6da7aed6fcf"
-      },
-      "squuid": "5be1a6b9-fc97-463e-ae1d-64643a194526",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 47.4,
-      "holder": {
-        "name": "Erbengemeinschaft nach Josefine Winter (Stefanie Winter und Monica Winter)",
-        "squuid": "5be1a6b6-d7b3-4552-871b-6a80fc155afd"
-      },
-      "squuid": "5be1a6b8-9150-4a5a-85bf-7a8659260a43",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 26.3,
-      "holder": {
-        "name": "Schlüter, Katrin",
-        "squuid": "5be1a6b6-6211-4107-916a-5ad23899561a"
-      },
-      "squuid": "5be1a6b8-e514-4ffc-b9be-1e6a12c14a22",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 26.3,
-      "holder": {
-        "name": "Schlüter, Eva",
-        "squuid": "5be1a6b6-fd9e-4078-8638-0d8eda2290b4"
-      },
-      "squuid": "5be1a6b8-6196-4323-b98e-a00256216107",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

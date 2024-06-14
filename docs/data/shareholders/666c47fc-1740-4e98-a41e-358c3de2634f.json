@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Wiesbaden",
+  "pseudoCompany": false,
+  "street": "Unter den Eichen",
+  "name": "MedTrix GmbH",
+  "naturalPerson": false,
+  "squuid": "666c47fc-1740-4e98-a41e-358c3de2634f",
+  "controlDate": "2024-06-14T13:44:31.716Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "65195",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Diabetes-Journal",
+        "squuid": "5be1a6b1-3a26-4474-855e-8a7978ed0db7"
+      },
+      "squuid": "666c480e-55c2-4d25-927e-379fadc71a49",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.diabetes-online.de",
+        "squuid": "5be1a6b1-e7dc-46f9-b377-e6da7aed6fcf"
+      },
+      "squuid": "666c485d-b696-4d77-8ff4-90fac18d84f8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Süddeutscher Verlag Hüthig Fachinformationen GmbH",
+        "squuid": "61f2a1b5-f8e6-4940-baee-f38226ebe808"
+      },
+      "squuid": "666c49a6-584e-46c6-a821-cf0c72257ed5",
+      "state": "active"
+    }
+  ]
+}
