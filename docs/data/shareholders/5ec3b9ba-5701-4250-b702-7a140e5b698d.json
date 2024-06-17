@@ -1,17 +1,4 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Kitzinger Verlag & Medien GmbH & Co KG",
-        "squuid": "5be1a6b6-fba5-477a-89b6-bd205e4dacaa"
-      },
-      "squuid": "5ec3b9d5-0056-4ca5-8ca0-30b125c433f0",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Bamberg",
   "pseudoCompany": false,
@@ -19,13 +6,14 @@
   "name": "Kitzinger Heimatzeitungen Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "5ec3b9ba-5701-4250-b702-7a140e5b698d",
-  "controlDate": "2023-11-02T10:27:44.491Z",
+  "controlDate": "2024-06-17T08:06:57.205Z",
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "96050",
@@ -34,10 +22,10 @@
       "type": "own",
       "capitalShares": 100.0,
       "holder": {
-        "name": "Kitzinger Verlag & Medien GmbH & Co KG",
-        "squuid": "5be1a6b6-fba5-477a-89b6-bd205e4dacaa"
+        "name": "mgo Lokale Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-1ba9-4404-8b0b-eacd59f83952"
       },
-      "squuid": "5ec3ba46-0fd6-49ed-9f40-81f90bd6fd16",
+      "squuid": "666feeca-651c-4cac-b3bf-eb609096fbba",
       "state": "active"
     }
   ]
