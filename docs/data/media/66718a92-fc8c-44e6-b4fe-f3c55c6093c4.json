@@ -1,21 +1,18 @@
 {
   "pressPublishingIntervals": 10,
   "state": "active",
-  "rfShoppingChannel": false,
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
     "name": "Publikumszeitschrift",
     "type": "press-magazine-type",
     "state": "active"
   },
-  "pressAsOfDate": "",
-  "squuid": "5be1a6b1-706c-49d9-90e4-f5f369dc5858",
+  "squuid": "66718a92-fc8c-44e6-b4fe-f3c55c6093c4",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
@@ -23,24 +20,24 @@
         "name": "Köln.Sport Verlag GmbH",
         "squuid": "5be1a6b6-bf37-481e-b431-d081b386ed9d"
       },
-      "squuid": "5be1a6b9-31c4-4506-bc72-3e7099887e4e",
+      "squuid": "66718b02-784a-49b5-904a-a5a126e1c6e4",
       "state": "active"
     }
   ],
-  "name": "Basket",
+  "name": "BoxSport",
   "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
   "pressDistributionArea": "bundesweit",
   "type": "print",
-  "controlDate": "2024-06-18T13:22:31.455Z",
-  "pressKind": "Sport",
-  "onlineOfferType": {
-    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
-    "name": "Online Medienangebot",
-    "type": "online-offer-type",
-    "state": "active"
+  "controlDate": "2024-06-18T13:24:39.365Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
   },
+  "pressKind": "Sport",
   "pressEditionsComments": "Auflage laut Verlagsangabe",
-  "pressEditionsSold": 26000,
+  "pressEditionsSold": 10000,
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",
