@@ -1,8 +1,31 @@
 {
   "name": "Streubesitz an der AMC Networks Inc.",
   "squuid": "66605abc-5945-4b27-82d0-2c4ca413f632",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 52.58,
+      "held": {
+        "name": "AMC Networks Inc.",
+        "squuid": "5be1a6b6-fab9-42b3-9ccd-42be9f4d2df7"
+      },
+      "squuid": "66605b20-a004-409d-a8b0-0bae2c9cdd80",
+      "state": "active",
+      "votingShares": 21.28
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",

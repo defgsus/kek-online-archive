@@ -1,8 +1,31 @@
 {
   "name": "Dolan Family Group",
   "squuid": "66605a14-b35f-43c8-a63f-417d0edd13a7",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 28.61,
+      "held": {
+        "name": "AMC Networks Inc.",
+        "squuid": "5be1a6b6-fab9-42b3-9ccd-42be9f4d2df7"
+      },
+      "squuid": "66605a58-4a46-439e-809f-bf092c0baea9",
+      "state": "active",
+      "votingShares": 78.72
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",

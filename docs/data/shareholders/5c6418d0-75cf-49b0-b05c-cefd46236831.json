@@ -1,51 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Flensburg",
   "pseudoCompany": false,
   "street": "Fördestraße",
   "name": "magazin media:nord GmbH",
   "naturalPerson": false,
   "squuid": "5c6418d0-75cf-49b0-b05c-cefd46236831",
-  "controlDate": "2023-11-06T15:47:53.742Z",
+  "controlDate": "2024-06-19T14:55:19.979Z",
   "streetNumber": "20",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "24944",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Landgang",
-        "squuid": "5c6417e4-4484-4f60-ae92-962697249547"
-      },
-      "squuid": "5c6418e9-c034-4bb8-a40b-15eeda9e6ce3",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Finesse - Das Gourmet & Lifestyle-Magazin",
-        "squuid": "5c641e00-841c-4b4f-83d8-d9368c59cec1"
-      },
-      "squuid": "5c641e70-6e3c-4f39-8687-f4a14e116ac3",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "medien holding:nord gmbh",
-        "squuid": "5be1a6b6-3a49-498e-ac48-b7da3a2e673b"
-      },
-      "squuid": "617934bd-0582-40e8-831b-3dbefa6d4a37",
-      "state": "active"
-    }
-  ]
+  "zipcode": "24944"
 }
