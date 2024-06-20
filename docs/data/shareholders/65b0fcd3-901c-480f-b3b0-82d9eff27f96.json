@@ -1,13 +1,29 @@
 {
   "name": "Genius Holding GmbH & Co. KG",
   "squuid": "65b0fcd3-901c-480f-b3b0-82d9eff27f96",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Genius Beteiligungs GmbH",
+        "squuid": "65b0fcc0-e55f-4a91-a91a-0ce711abf38b"
+      },
+      "squuid": "6661c030-8d28-4451-a599-0aabf720c72d",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

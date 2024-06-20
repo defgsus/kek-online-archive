@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "WIM Programm GmbH",
-        "squuid": "660f8ebd-ea04-4a45-be0b-d606fa8276b2"
-      },
-      "squuid": "6617992c-210f-4e91-a3e3-a51eb47213f8",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Leipzig",
   "pseudoCompany": false,
   "street": "Universitätsstraße",
@@ -21,23 +9,11 @@
   "streetNumber": "14",
   "organizations": [
     {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "04109",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "WOLFFBERG Management Communication GmbH",
-        "squuid": "634ec144-11c8-4fd1-b3fd-1342598403d6"
-      },
-      "squuid": "634ec169-6a6a-41d0-8f28-00a57d12dd62",
-      "state": "active"
-    }
-  ]
+  "zipcode": "04109"
 }

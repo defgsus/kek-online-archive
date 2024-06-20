@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "city": "Leipzig",
+  "note": "vertreten durch die Geschäftsführer Boris Lochthofen und Alexander Kind",
+  "pseudoCompany": false,
+  "street": "Universitätsstraße",
+  "name": "Rockworld Digital GmbH",
+  "naturalPerson": false,
+  "squuid": "6673f960-53df-48fe-8106-2e5aebbe2d72",
+  "placeOfBusiness": "Leipzig",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "04109",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "STAR FM MAXIMUM ROCK national",
+        "squuid": "6673f9b2-2b74-49b2-8dcc-a21781f27a13"
+      },
+      "squuid": "6673fa53-a85c-479e-8cf8-51f4effb0be0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "FEMOTION GmbH",
+        "squuid": "60643af2-2747-40e0-b1d5-73ffdd5f5d4c"
+      },
+      "squuid": "6673fac7-b250-4893-8c14-d7bf7d191610",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Star FM GmbH & Co. KG",
+        "squuid": "5be1a6b6-d6bc-4680-a37b-5bd97a65f4e0"
+      },
+      "squuid": "6673fadb-7834-42ef-bf68-e00a02859e8d",
+      "state": "active"
+    }
+  ]
+}

@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Rockworld Digital GmbH",
+        "squuid": "6673f960-53df-48fe-8106-2e5aebbe2d72"
+      },
+      "squuid": "6673fadb-7834-42ef-bf68-e00a02859e8d",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Nürnberg",
   "supplierConsortium": false,
@@ -21,6 +33,12 @@
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "zipcode": "90443",
