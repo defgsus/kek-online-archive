@@ -1,6 +1,4 @@
 {
-  "name": "Genius Holding GmbH & Co. KG",
-  "squuid": "65b0fcd3-901c-480f-b3b0-82d9eff27f96",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,15 @@
     }
   ],
   "state": "active",
+  "city": "Limburg",
+  "pseudoCompany": false,
+  "street": "Im Dachsstück",
+  "name": "Genius Holding GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "65b0fcd3-901c-480f-b3b0-82d9eff27f96",
+  "controlDate": "2024-06-21T11:31:14.787Z",
+  "streetNumber": "8",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -25,5 +32,6 @@
       "name": "DL",
       "type": "organization"
     }
-  ]
+  ],
+  "zipcode": "65549"
 }

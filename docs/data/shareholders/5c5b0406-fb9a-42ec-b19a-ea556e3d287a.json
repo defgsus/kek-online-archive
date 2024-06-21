@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Cottbus",
   "supplierConsortium": false,
   "pseudoCompany": false,
@@ -11,78 +11,11 @@
   "streetNumber": "2",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "03046",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "lausitz.tv",
-        "squuid": "5c5b0573-2586-47af-8620-05a90a03adda"
-      },
-      "squuid": "5c5b0aea-dc56-46fd-8024-7e96b5d07fa4",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.lausitz-tv.de",
-        "squuid": "5f364da7-59ba-4e52-86a4-af005e032fb1"
-      },
-      "squuid": "5f364dfe-15ab-4392-aa5b-009928381e89",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 48.0,
-      "holder": {
-        "name": "Scharf, Bernd",
-        "squuid": "5c5b0370-64bf-4451-90ff-3ad6d6b3f87e"
-      },
-      "squuid": "5c5b0b69-2e6b-482e-9797-ac71746e3f09",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 26.0,
-      "holder": {
-        "name": "WVG Wärmeversorgungs GmbH",
-        "squuid": "5c5b02fd-b7c3-40a6-abaa-31829d75de0b"
-      },
-      "squuid": "5c5b0bd8-0cae-4523-9896-fd75b3267bea",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 13.0,
-      "holder": {
-        "name": "Urbanski, Kathleen",
-        "squuid": "6560cb03-a527-46fb-ba20-0b71c2d231d0"
-      },
-      "squuid": "6560cb62-2672-4f62-8d01-fa774e8b5366",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 13.0,
-      "holder": {
-        "name": "Ertner, Christin",
-        "squuid": "6560cb15-6213-49c9-b27d-3d5c70598f87"
-      },
-      "squuid": "6560cb72-94e8-40dc-ad1e-55fbb62498e0",
-      "state": "active"
-    }
-  ]
+  "zipcode": "03046"
 }
