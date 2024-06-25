@@ -1,13 +1,24 @@
 {
   "name": "Kind, Matthias",
   "squuid": "667562fe-128a-43a2-b6d5-ce6364fd8877",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MARNICCAM GmbH",
+        "squuid": "5be1a6b6-5035-4bc4-8e3e-1bd9184b3f79"
+      },
+      "squuid": "66756331-9044-4e7b-8f3e-7f6e87f7a897",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
