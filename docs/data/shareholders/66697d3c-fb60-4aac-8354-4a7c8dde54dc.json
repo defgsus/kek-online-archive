@@ -1,13 +1,29 @@
 {
   "name": "HSE24 Beteiligungs GmbH",
   "squuid": "66697d3c-fb60-4aac-8354-4a7c8dde54dc",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Home Shopping Europe GmbH",
+        "squuid": "5be1a6b6-6b0a-40c6-80c6-8a89d58ab53a"
+      },
+      "squuid": "66697de3-4f00-4d0c-9340-db89f0b259d8",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

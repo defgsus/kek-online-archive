@@ -1,13 +1,29 @@
 {
   "name": "Repac, Mitja",
   "squuid": "6675657c-44db-4503-9645-d021a7d9b73b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.9,
+      "held": {
+        "name": "Genius Holding GmbH & Co. KG",
+        "squuid": "65b0fcd3-901c-480f-b3b0-82d9eff27f96"
+      },
+      "squuid": "66756609-b33a-4d7a-a7fa-1bc2583bef5f",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

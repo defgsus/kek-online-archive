@@ -1,13 +1,29 @@
 {
   "name": "Repac, Sabrina",
   "squuid": "6675659d-6a7e-41a7-88a8-8c6b7fb19a5a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.9,
+      "held": {
+        "name": "Genius Holding GmbH & Co. KG",
+        "squuid": "65b0fcd3-901c-480f-b3b0-82d9eff27f96"
+      },
+      "squuid": "6675662e-9e61-4c3f-8b24-abbdbc59ba92",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

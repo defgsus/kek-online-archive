@@ -39,6 +39,16 @@
       },
       "squuid": "5ee9b587-b299-409c-8855-5efaf2b0e371",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "MPH Lifestyle Verwaltungs-GmbH",
+        "squuid": "667bef0c-e2b3-4b36-aae0-e6549fe1deb2"
+      },
+      "squuid": "667beff9-c250-4631-a31a-98d4be1784c9",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -49,7 +59,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-99ba-4261-b3c0-411c299e72ae",
-  "controlDate": "2023-11-08T14:22:30.385Z",
+  "controlDate": "2024-06-26T11:51:29.565Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -60,6 +70,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "70174",
@@ -176,7 +192,7 @@
     {
       "type": "operate",
       "held": {
-        "name": "Outdoor",
+        "name": "outdoor",
         "squuid": "5be1a6b1-d3cc-4d48-b8ba-92f5ef457b34"
       },
       "squuid": "5be1a6b9-fc3d-45e4-a417-70d6b45dc048",
@@ -486,6 +502,24 @@
         "squuid": "656f15ac-be1e-49a2-868f-86ee5fc42e5f"
       },
       "squuid": "656f15e8-b6d1-4813-a0b9-9f39e8e5f758",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.2x45.de",
+        "squuid": "667bf7ef-b3ef-4f7f-8858-f21becb00d28"
+      },
+      "squuid": "667bf806-61c4-41e6-a84d-0363f4d4ab0a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.upfit.de",
+        "squuid": "667bf817-2ca0-4567-a879-fef3227c5a9c"
+      },
+      "squuid": "667bf830-d938-4c89-abe1-0ed63b3af345",
       "state": "active"
     }
   ],

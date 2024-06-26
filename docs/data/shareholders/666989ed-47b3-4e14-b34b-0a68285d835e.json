@@ -1,13 +1,42 @@
 {
   "name": "Elser Immoblilien Und Beteiligungen GmbH & Co. KG ",
   "squuid": "666989ed-47b3-4e14-b34b-0a68285d835e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "held": {
+        "name": "Karl Elser GmbH, Buch- und Zeitungsverlag",
+        "squuid": "5be1a6b6-0b28-465d-85cc-0aa7f8b34e92"
+      },
+      "squuid": "66698a2c-50b0-4207-95c0-40ac53c438f0",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ]
 }

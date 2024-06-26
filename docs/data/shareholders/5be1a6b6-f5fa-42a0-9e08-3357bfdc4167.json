@@ -54,16 +54,6 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "MVM GmbH",
-        "squuid": "63e24c71-6d91-42da-aecf-ab60dfa59b26"
-      },
-      "squuid": "63e24da2-2112-4794-8da1-e3b1a9a94821",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "Verlags- und Werbestudio Busse GmbH",
         "squuid": "63e24f45-5ed3-452a-b09f-17298900f7ad"
       },
@@ -89,12 +79,18 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-f5fa-42a0-9e08-3357bfdc4167",
-  "controlDate": "2023-11-08T12:14:59.986Z",
+  "controlDate": "2024-06-26T08:25:44.908Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "35390",

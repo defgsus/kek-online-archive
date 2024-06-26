@@ -1,16 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Home Shopping Europe GmbH",
-        "squuid": "5be1a6b6-6b0a-40c6-80c6-8a89d58ab53a"
-      },
-      "squuid": "5be1a6b7-ef4a-4c42-85ec-9aa8f2f8e005",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Frankfurt/M.",
   "pseudoCompany": false,
@@ -22,15 +10,23 @@
   "streetNumber": "2-4",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "60306"
+  "zipcode": "60306",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ARDIAN France S.A.",
+        "squuid": "663f5d5a-3531-4e62-b997-4935059378e3"
+      },
+      "squuid": "663f5d74-7eb7-4b3d-a89d-0f0e5de5bcca",
+      "state": "active"
+    }
+  ]
 }
