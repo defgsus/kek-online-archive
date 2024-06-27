@@ -1,11 +1,11 @@
 {
-  "name": "Hoermann, Stefan",
+  "name": "Hoermann, Stephan",
   "squuid": "60d490a3-4b25-443d-86a8-caf99b3c575c",
   "owns": [
     {
-      "complementaryPartner": true,
+      "complementaryPartner": false,
       "type": "own",
-      "capitalShares": 0.0,
+      "capitalShares": 51.0,
       "held": {
         "name": "Hoermann Verlag GmbH & Co KG",
         "squuid": "5be1a6b6-576c-405d-a5d6-b0f16a30a9ac"
@@ -14,6 +14,7 @@
       "state": "active"
     }
   ],
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,6 +27,5 @@
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
-  ],
-  "state": "active"
+  ]
 }

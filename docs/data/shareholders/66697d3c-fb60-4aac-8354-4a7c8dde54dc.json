@@ -1,6 +1,4 @@
 {
-  "name": "HSE24 Beteiligungs GmbH",
-  "squuid": "66697d3c-fb60-4aac-8354-4a7c8dde54dc",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Ismaning",
+  "pseudoCompany": false,
+  "street": "Münchener Str.",
+  "name": "HSE24 Beteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "66697d3c-fb60-4aac-8354-4a7c8dde54dc",
+  "controlDate": "2024-06-27T10:41:18.359Z",
+  "streetNumber": "101h",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -24,6 +30,19 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "zipcode": "85737",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "HSE24 Finance & Service GmbH",
+        "squuid": "667d42a4-c58c-4074-ab5b-335c68fc734a"
+      },
+      "squuid": "667d42bd-e3ef-4487-bd35-945614f4908b",
+      "state": "active"
     }
   ]
 }
