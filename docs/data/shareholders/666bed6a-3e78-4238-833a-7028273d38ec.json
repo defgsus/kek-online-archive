@@ -1,13 +1,30 @@
 {
   "name": "F-World GmbH",
   "squuid": "666bed6a-3e78-4238-833a-7028273d38ec",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Flyeralarm Industries GmbH",
+        "squuid": "66585731-c4a2-4d5c-a993-0c5830be2d74"
+      },
+      "squuid": "666bedef-4148-4760-926b-14aaac8541bd",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }
