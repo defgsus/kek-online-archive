@@ -1,47 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "WPV Gesellschaft für Werbung, Presse und Vertrieb mbH",
-        "squuid": "5be1a6b6-066f-451c-b247-87acd547bf32"
-      },
-      "squuid": "5be1a6b7-95ca-46a0-bcc9-d5b1c0804ccf",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.56,
-      "held": {
-        "name": "Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Radio 2000 KG",
-        "squuid": "5be1a6b6-cc99-4fd3-96f9-d2ef9847c76f"
-      },
-      "squuid": "5d1090aa-5b83-4824-bea3-e6b1773658bf",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "KMG Kissinger Mediengesellschaft mbH",
-        "squuid": "5ee352e5-308f-4cfe-9af9-ab7bc8188218"
-      },
-      "squuid": "5fa126cb-0a15-4047-b94b-cb10a650cba3",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.57,
-      "held": {
-        "name": "Mediengesellschaft der bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Programm- und Werbegesellschaft",
-        "squuid": "5be1a6b6-c525-4b11-a1b7-9969a9671afb"
-      },
-      "squuid": "60d2103c-ee1c-470a-846a-18ab0d42bef0",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Bad Kissingen",
   "pseudoCompany": false,
   "street": "Theresienstr. 19",
@@ -52,76 +10,12 @@
   "controlDate": "2024-06-21T15:05:31.315Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
-    },
-    {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
-      "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
-    },
-    {
-      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LFM NRW",
-      "type": "organization",
-      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
-    },
-    {
-      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-      "name": "TLM",
-      "type": "organization",
-      "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
   "zipcode": "97688",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Mediengruppe Oberfranken GmbH & Co. KG",
-        "squuid": "5be1a6b6-77ea-4cc0-b206-105ee3aec7f8"
-      },
-      "squuid": "5be1a6b8-0858-4809-a975-0087bc1a574e",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "KMG Kissinger Mediengesellschaft mbH",
-        "squuid": "5ee352e5-308f-4cfe-9af9-ab7bc8188218"
-      },
-      "squuid": "5ee352fd-54d9-427a-bb19-2f7f618d5695",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "NRW Audio Verwaltungs GmbH",
+        "squuid": "66597352-82de-466f-9c63-48ce93d12587"
+      },
+      "squuid": "666fea44-8eb3-40c2-934a-ae9f40ab3b5f",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Köln",
   "pseudoCompany": false,
@@ -7,6 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "62e77c1e-8d4c-4f03-9965-9f4964d8faec",
+  "controlDate": "2024-07-02T08:12:32.791Z",
   "placeOfBusiness": "Köln",
   "streetNumber": "74A",
   "organizations": [
@@ -106,26 +119,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Plattform für regionale Musikwirtschaft GmbH",
-        "squuid": "5be1a6b6-74f2-4b0c-b4a2-df3bb96f2492"
-      },
-      "squuid": "6319a366-1fe6-4c4f-a94e-a0cac22fbff1",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 14.035,
-      "holder": {
-        "name": "ffnrw GmbH",
-        "squuid": "6319a413-a0b1-41c8-a3bc-e8976e4d6a3f"
-      },
-      "squuid": "6319aed5-fce6-4439-a3b0-b5b85eb20875",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 9.605,
       "holder": {
         "name": "Radio 21 GmbH & Co. KG",
@@ -136,22 +129,43 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Westfälischer Anzeiger Verlagsgesellschaft mbH & Co. KG",
-        "squuid": "5be1a6b6-1155-4281-b6ac-c4879ebd2c19"
-      },
-      "squuid": "64956e68-c74d-44c1-a632-a2b9c16f8066",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 1.167,
       "holder": {
         "name": "Die Neue Welle Beteiligungs- und Verwaltungsgesellschaft mbH",
         "squuid": "5be1a6b6-91ce-43a5-be72-79eee118b011"
       },
       "squuid": "64956ec0-5b86-4706-9d61-3104f7d5f3e6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 14.035,
+      "holder": {
+        "name": "Funk & Fernsehen Nordwestdeutschland GmbH & Co. KG",
+        "squuid": "5be1a6b6-6d31-40f9-81d9-39e930c9b6cb"
+      },
+      "squuid": "66597a66-6747-4fa8-9c60-5378fc38745b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.233,
+      "holder": {
+        "name": "Rock Antenne GmbH & Co. KG",
+        "squuid": "663f31ad-2575-4939-ba50-9d678cf013c0"
+      },
+      "squuid": "66597ab1-b559-4f3a-97ad-cee5bd6d0be0",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "NRW Audio Verwaltungs GmbH",
+        "squuid": "66597352-82de-466f-9c63-48ce93d12587"
+      },
+      "squuid": "66597adb-4232-4903-9eb9-faece76ecbc4",
       "state": "active"
     }
   ]
