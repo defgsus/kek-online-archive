@@ -1,6 +1,4 @@
 {
-  "name": "PHOENIX Deutschland Holding GmbH",
-  "squuid": "6512c246-78c6-4821-877a-692dbf07447b",
   "owns": [
     {
       "type": "own",
@@ -14,11 +12,32 @@
     }
   ],
   "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Pfingstweidstr.",
+  "name": "PHOENIX Deutschland Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "6512c246-78c6-4821-877a-692dbf07447b",
+  "controlDate": "2024-07-03T10:34:44.960Z",
+  "streetNumber": "10-12",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "zipcode": "68199",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Phoenix Pharmahandel GmbH & Co. KG",
+        "squuid": "668529bc-70bb-40ee-9422-596e9872201c"
+      },
+      "squuid": "668529f8-a625-419f-8a96-26eed65ea25b",
+      "state": "active"
     }
   ]
 }

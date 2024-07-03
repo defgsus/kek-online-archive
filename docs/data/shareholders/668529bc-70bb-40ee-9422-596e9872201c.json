@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "PHOENIX Deutschland Holding GmbH",
+        "squuid": "6512c246-78c6-4821-877a-692dbf07447b"
+      },
+      "squuid": "668529f8-a625-419f-8a96-26eed65ea25b",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Pfingstweidstr.",
+  "name": "Phoenix Pharmahandel GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "668529bc-70bb-40ee-9422-596e9872201c",
+  "controlDate": "2024-07-03T10:50:10.851Z",
+  "streetNumber": "10-12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "68199",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Phoenix Verwaltungs GmbH",
+        "squuid": "66852cc2-6dd0-43e1-be47-cb12183b71e8"
+      },
+      "squuid": "66852da7-4223-4224-9065-764213eaae2f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Phoenix Pharma SE",
+        "squuid": "66852cd9-6a54-4820-b15c-805f3413e84c"
+      },
+      "squuid": "66852dbe-57d0-4ee1-9f47-d3d06cd0e225",
+      "state": "active"
+    }
+  ]
+}

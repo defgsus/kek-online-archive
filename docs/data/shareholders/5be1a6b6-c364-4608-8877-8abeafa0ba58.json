@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Coswig",
   "pseudoCompany": false,
   "street": "Lindenauer Straße",
@@ -10,58 +10,11 @@
   "streetNumber": "15",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "01640",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Coswiger Infokanal K3",
-        "squuid": "5be1a6b1-adfb-40f1-93d2-46abca494dc2"
-      },
-      "squuid": "5be1a6b9-7cc3-46c6-8b99-f6da5a47f8f6",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.regionalfernsehen-coswig.de",
-        "squuid": "5f7b2678-0399-4688-b50e-d33059a5f590"
-      },
-      "squuid": "5f7b26a7-8187-4030-85b7-07c39919e3c7",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Günzel, Silvio",
-        "squuid": "5be1a6b6-a011-45ef-9d63-67d61af5c284"
-      },
-      "squuid": "5e4fa110-ece8-4ad5-b512-8cf7986060ee",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Schreiber, Henri",
-        "squuid": "5be1a6b6-a1c3-4cb9-825e-b3c285e53762"
-      },
-      "squuid": "5e4fa11c-b56b-41a9-a1ba-0b2431f40db2",
-      "state": "active"
-    }
-  ]
+  "zipcode": "01640"
 }
