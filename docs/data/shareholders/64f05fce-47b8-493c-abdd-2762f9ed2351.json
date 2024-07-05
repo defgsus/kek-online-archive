@@ -1,19 +1,4 @@
 {
-  "name": "Reedstreet Ventures GmbH",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Seifert, Christian (Dyn)",
-        "squuid": "64f05f83-9213-4285-af95-bb9e12b0b362"
-      },
-      "squuid": "64f0679c-8e3e-4341-8cce-a2bc2b1bc460",
-      "state": "active"
-    }
-  ],
-  "squuid": "64f05fce-47b8-493c-abdd-2762f9ed2351",
   "owns": [
     {
       "type": "own",
@@ -27,6 +12,11 @@
     }
   ],
   "state": "active",
+  "pseudoCompany": false,
+  "name": "Reedstreet Ventures GmbH",
+  "naturalPerson": false,
+  "squuid": "64f05fce-47b8-493c-abdd-2762f9ed2351",
+  "controlDate": "2024-07-05T13:38:07.667Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -39,5 +29,16 @@
       "type": "organization"
     }
   ],
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Seifert, Christian (Dyn)",
+        "squuid": "64f05f83-9213-4285-af95-bb9e12b0b362"
+      },
+      "squuid": "64f0679c-8e3e-4341-8cce-a2bc2b1bc460",
+      "state": "active"
+    }
+  ]
 }

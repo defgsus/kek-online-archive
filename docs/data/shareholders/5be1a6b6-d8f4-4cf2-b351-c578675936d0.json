@@ -30,7 +30,7 @@
   "naturalPerson": false,
   "limitedPartnership": false,
   "squuid": "5be1a6b6-d8f4-4cf2-b351-c578675936d0",
-  "controlDate": "2023-11-16T10:21:06.731Z",
+  "controlDate": "2024-07-05T15:20:55.085Z",
   "streetNumber": "1-7",
   "organizations": [
     {
@@ -139,12 +139,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 50.0,
       "holder": {
-        "name": "Erbengemeinschaft Valdo Lehari (Valdo Lehari jun., Jan Lehari, Elga Lehari-Reichling)",
-        "squuid": "5be1a6b6-1d4a-41e9-b8bf-71aa6b6d95ec"
+        "name": "Lehari, Valdo jun.",
+        "squuid": "5be1a6b6-969e-499e-8c1f-9d3176296037"
       },
-      "squuid": "5be1a6b8-1acf-4412-aed2-8a7a3c5b9942",
+      "squuid": "6555ecf8-e0c9-405a-995f-54469bddfadd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Lehari-Reichling, Elga",
+        "squuid": "5be1a6b6-f425-4e63-b154-0c834d72cbcd"
+      },
+      "squuid": "6555ed0b-80b5-42ce-ad49-32e8f10ed072",
       "state": "active"
     }
   ]
