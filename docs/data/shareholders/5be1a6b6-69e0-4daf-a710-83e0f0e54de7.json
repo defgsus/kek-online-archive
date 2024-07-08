@@ -9,7 +9,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-69e0-4daf-a710-83e0f0e54de7",
-  "controlDate": "2023-11-16T11:25:04.962Z",
+  "controlDate": "2024-07-08T09:47:18.738Z",
   "streetNumber": "116",
   "organizations": [
     {
@@ -58,7 +58,7 @@
       "state": "active"
     },
     {
-      "complementaryPartner": true,
+      "complementaryPartner": false,
       "type": "own",
       "capitalShares": 37.52,
       "holder": {
@@ -79,9 +79,9 @@
       "state": "active"
     },
     {
-      "complementaryPartner": true,
+      "complementaryPartner": false,
       "type": "own",
-      "capitalShares": 22.73,
+      "capitalShares": 21.75,
       "holder": {
         "name": "Schulte & Enkmann Medien-Service GmbH",
         "squuid": "5be1a6b6-5f91-41c6-b5ca-62e6a5d49961"
@@ -130,35 +130,14 @@
       "state": "active"
     },
     {
+      "complementaryPartner": false,
       "type": "own",
-      "capitalShares": 1.63,
-      "holder": {
-        "name": "Musikschule Roberto Seeliger",
-        "squuid": "5be1a6b6-431b-4cf6-a8df-f55d0cd656e3"
-      },
-      "squuid": "5be1a6b7-7b39-43f4-b208-edc43cdd0bf3",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 5.0,
+      "capitalShares": 5.65,
       "holder": {
         "name": "Gödecke, Cornelia",
         "squuid": "5d30449b-7961-4485-a0f7-231e53b1b1d1"
       },
       "squuid": "5d3044e2-5d54-4278-a165-832c59662411",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 5.1,
-      "holder": {
-        "name": "Richter, Tina und Effert, Jan in Erbengemeinschaft",
-        "squuid": "5d3045bb-da4b-43aa-b917-8557f45db921"
-      },
-      "squuid": "5d3045e5-6197-4701-9248-28803494c6db",
       "state": "active"
     },
     {
@@ -170,6 +149,36 @@
         "squuid": "60b75905-73c5-4e38-81ff-e227ed1e321b"
       },
       "squuid": "60b7598d-f551-4a39-b75a-5b68484c7e90",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.44,
+      "holder": {
+        "name": "Effert, Udo",
+        "squuid": "65561e11-1fa4-442f-865c-386018ccd999"
+      },
+      "squuid": "65561e4d-86b9-4a4a-b46d-d5536144eb8d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.63,
+      "holder": {
+        "name": "Seeliger, Roberto",
+        "squuid": "5be1a6b6-702b-4a92-a346-bebb331fa4cc"
+      },
+      "squuid": "65561ecd-f7f9-4d06-aa4e-c883ea8701f5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.44,
+      "holder": {
+        "name": "GWB Grundwert Brandenburg GmbH",
+        "squuid": "65561f97-13f9-4317-bfaa-39b23f9ccd7e"
+      },
+      "squuid": "65561fb6-fe25-4f64-a523-2de35d21d8b8",
       "state": "active"
     }
   ]
