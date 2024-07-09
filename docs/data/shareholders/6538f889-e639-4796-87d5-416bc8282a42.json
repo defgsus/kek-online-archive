@@ -28,7 +28,7 @@
   "name": "Schlütersche Fachmedien GmbH",
   "naturalPerson": false,
   "squuid": "6538f889-e639-4796-87d5-416bc8282a42",
-  "controlDate": "2023-11-08T11:25:39.073Z",
+  "controlDate": "2024-07-09T09:01:00.282Z",
   "streetNumber": "7",
   "organizations": [
     {
@@ -114,5 +114,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "30173"
+  "zipcode": "30173",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schlütersche Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-ab2f-4125-892a-a0cb21e23142"
+      },
+      "squuid": "654b7093-bcba-4d33-b035-9b117b3657a0",
+      "state": "active"
+    }
+  ]
 }
