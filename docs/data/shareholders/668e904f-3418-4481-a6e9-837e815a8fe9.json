@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Johannes-Brahms-Platz",
+  "name": "Statista GmbH",
+  "naturalPerson": false,
+  "squuid": "668e904f-3418-4481-a6e9-837e815a8fe9",
+  "controlDate": "2024-07-10T13:48:29.277Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "20355",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.statista.de",
+        "squuid": "668e9043-43e5-4c02-88d1-6984acfb8a6e"
+      },
+      "squuid": "668e9077-5810-4bf3-8802-373f540a3b3d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ströer Content Group GmbH",
+        "squuid": "5be1a6b6-710a-4e14-ad65-f50014a6c653"
+      },
+      "squuid": "668e91a9-0224-4bc0-8c27-0cea43791694",
+      "state": "active"
+    }
+  ]
+}
