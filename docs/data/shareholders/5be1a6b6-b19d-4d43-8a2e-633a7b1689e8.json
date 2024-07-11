@@ -19,7 +19,7 @@
   "name": "The History Channel (Germany) Holdings GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-b19d-4d43-8a2e-633a7b1689e8",
-  "controlDate": "2023-11-24T16:42:02.032Z",
+  "controlDate": "2024-07-11T11:12:30.744Z",
   "streetNumber": "47a",
   "organizations": [
     {
@@ -38,12 +38,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 50.0,
       "holder": {
         "name": "AETN Holding, Inc.",
         "squuid": "5be1a6b6-b6fc-45b7-8cf2-f027769eaff8"
       },
       "squuid": "5be1a6b8-530b-49a1-8cd9-5d6ddf149ee1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Hearst LT, Inc.",
+        "squuid": "5be1a6b6-892a-48c6-8ffd-bcbce6f9b4a6"
+      },
+      "squuid": "66599e13-07cd-4b9d-93a3-01b88fb720be",
       "state": "active"
     }
   ]

@@ -19,7 +19,7 @@
   "name": "Temming GmbH",
   "naturalPerson": false,
   "squuid": "65d619e4-6056-42fa-8bfc-ee3c2717c96e",
-  "controlDate": "2024-04-03T11:17:38.064Z",
+  "controlDate": "2024-07-11T10:32:21.483Z",
   "streetNumber": "24-28",
   "organizations": [
     {
@@ -34,5 +34,17 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
-  "zipcode": "46399"
+  "zipcode": "46399",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ruhr-Nachrichten Verlag & Co. KG",
+        "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793"
+      },
+      "squuid": "660d3acd-4810-4370-b198-24a4003d95ff",
+      "state": "active"
+    }
+  ]
 }
