@@ -1,0 +1,70 @@
+{
+  "state": "active",
+  "city": "Celle",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Dresdener Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "669107f4-3f2c-4630-bd6b-e9fa31f97e22",
+  "controlDate": "2024-07-12T10:48:14.932Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "29221",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "DNN am Sonntag",
+        "squuid": "63da7c35-c94e-4061-853f-cf9514840709"
+      },
+      "squuid": "66910820-e80e-44ee-9e45-fac3f945ac1a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Dresdner Neueste Nachrichten",
+        "squuid": "5be1a6b1-6fa9-403c-9793-35b10a97816f"
+      },
+      "squuid": "6691083f-c210-46f4-b96d-a985733aabcf",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dnn.de",
+        "squuid": "5be1a6b1-0a0b-42ac-b845-1914e17d572f"
+      },
+      "squuid": "66910861-75bf-479b-8d3c-34e3fa86de2f",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Pfingsten, Ernst Andreas",
+        "squuid": "5be1a6b6-9ec6-4eb2-9ada-59fae32f49b3"
+      },
+      "squuid": "66910a31-d612-49d9-bb7c-cf07012d7478",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Heyer, Werner",
+        "squuid": "63d7d316-5fe5-40fa-8017-692ebbed6ad9"
+      },
+      "squuid": "66910a5f-6d7c-44d8-b8ce-3d34959c1873",
+      "state": "active"
+    }
+  ]
+}

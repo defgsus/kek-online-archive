@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Celle",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Döbelner Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "66910c03-0e27-46ab-b9ca-2c6ecebc3606",
+  "controlDate": "2024-07-12T11:02:01.442Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "29221",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Döbelner Allgemeine Zeitung",
+        "squuid": "5be1a6b1-13f6-4a3e-9941-546938f0b7ca"
+      },
+      "squuid": "66910c61-17cc-4598-8e39-b17b2896a5f8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.doebelner-allgemeine-zeitung.de",
+        "squuid": "65bd0f83-e9c7-47d5-ad9f-74dbaedc1355"
+      },
+      "squuid": "66914bcf-e14b-45e5-94b3-68d697cc54ad",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Pfingsten, Ernst Andreas",
+        "squuid": "5be1a6b6-9ec6-4eb2-9ada-59fae32f49b3"
+      },
+      "squuid": "66910d1a-2cec-4bb0-872b-4bbba0a1709d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Heyer, Werner",
+        "squuid": "63d7d316-5fe5-40fa-8017-692ebbed6ad9"
+      },
+      "squuid": "66910d26-7d46-47d2-a989-993caed6dfa3",
+      "state": "active"
+    }
+  ]
+}

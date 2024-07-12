@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Dresden",
   "pseudoCompany": false,
   "street": "Dr.-Külz-Ring 12",
@@ -7,66 +7,15 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-a1f0-46fa-aed9-1d6c744d4666",
-  "controlDate": "2023-11-27T12:50:28.964Z",
+  "controlDate": "2024-07-12T10:30:46.733Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "01067",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Dresdner Neueste Nachrichten",
-        "squuid": "5be1a6b1-6fa9-403c-9793-35b10a97816f"
-      },
-      "squuid": "5be1a6b9-aed7-4ea3-bea1-9494d8ca6921",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.dnn.de",
-        "squuid": "5be1a6b1-0a0b-42ac-b845-1914e17d572f"
-      },
-      "squuid": "5be1a6b9-bfd1-4dba-b4ac-25687cca6072",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "DNN am Sonntag",
-        "squuid": "63da7c35-c94e-4061-853f-cf9514840709"
-      },
-      "squuid": "65c21325-0dde-4156-8e2a-1edabff84584",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Verlag Dresdner Nachrichten Verwaltungs GmbH",
-        "squuid": "5be1a6b6-4dbb-4f9e-81ca-4b0f81580342"
-      },
-      "squuid": "5be1a6b8-51e1-4f3d-bd8d-27dde5f42d06",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Leipziger Verlags- und Druckereigesellschaft mbH & Co. KG",
-        "squuid": "5be1a6b6-e3d7-48f4-a702-9fec71b10041"
-      },
-      "squuid": "5ec50391-3ef5-45db-bad9-f2c9d426cc53",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
