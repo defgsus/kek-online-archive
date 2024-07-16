@@ -1,13 +1,34 @@
 {
   "name": "SIGNA Medien GmbH",
   "squuid": "6683ffb0-5e8d-463f-ad34-7a1a2b5a89e1",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "OTZ Ostthüringer Zeitung Verlag Verwaltungs-GmbH",
+        "squuid": "5ee213ea-4ea5-4f5b-a253-092eacacf273"
+      },
+      "squuid": "6683ffe0-f05e-4adb-81f8-a1b7be7c25ff",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "OTZ Ostthüringer Zeitung Verlag GmbH & Co KG",
+        "squuid": "5be1a6b6-7895-45b4-82b7-21f476e3a07e"
+      },
+      "squuid": "6683fffd-3a5d-4658-9d2f-8cd94a866d23",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
