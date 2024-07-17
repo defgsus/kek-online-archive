@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Hannover",
   "pseudoCompany": false,
   "name": "IG Bergbau, Chemie, Energie",
@@ -8,22 +8,12 @@
   "controlDate": "2020-06-04T13:22:42.122Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "30030",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Kompakt",
-        "squuid": "5be1a6b1-834a-422a-ad32-90c565f7a0ed"
-      },
-      "squuid": "5be1a6b9-237f-4984-9c88-0197caf510d7",
-      "state": "active"
-    }
-  ],
   "credits": "IJK"
 }

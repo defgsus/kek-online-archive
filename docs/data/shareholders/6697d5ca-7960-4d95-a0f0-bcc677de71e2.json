@@ -1,0 +1,61 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Friesenweg",
+  "name": "Salon Creative Media GmbH",
+  "naturalPerson": false,
+  "squuid": "6697d5ca-7960-4d95-a0f0-bcc677de71e2",
+  "controlDate": "2024-07-17T14:35:52.477Z",
+  "streetNumber": "4",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22763",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Salon",
+        "squuid": "5be1a6b1-cf41-4b51-8123-89b3d1fb859c"
+      },
+      "squuid": "6697d612-b160-4583-a7de-dfc70b1ea85d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.salon-magazin.de",
+        "squuid": "6697d5f1-f842-4c2d-b9ff-8e10fa90744a"
+      },
+      "squuid": "6697d66a-cd83-4dca-ada5-161b0575a893",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Haeseler, Anne",
+        "squuid": "6697d741-3c36-4128-9189-b20072f1668f"
+      },
+      "squuid": "6697d7c5-32e1-4e41-bdc9-aa06c8e6fbb7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Haeseler, Daniel",
+        "squuid": "6697d74b-8f1f-4b95-a12c-c826de3ecb17"
+      },
+      "squuid": "6697d7d1-4f10-4d13-bf55-567453dd83f9",
+      "state": "active"
+    }
+  ]
+}
