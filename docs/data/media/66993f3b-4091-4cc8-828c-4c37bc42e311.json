@@ -1,0 +1,47 @@
+{
+  "pressPublishingIntervals": 52,
+  "state": "active",
+  "squuid": "66993f3b-4091-4cc8-828c-4c37bc42e311",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RND RedaktionsNetzwerk Deutschland GmbH",
+        "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d"
+      },
+      "squuid": "66993f77-49e2-433b-aaf4-95f68572972b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Echo Zeitungen GmbH",
+        "squuid": "5be1a6b6-efc8-47d9-8b22-b1cb175ddbbe"
+      },
+      "squuid": "66993f83-2705-4b3d-bdf7-43ee45cf4e11",
+      "state": "active"
+    }
+  ],
+  "name": "Echo am Sonntag",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "nur als ePaper",
+  "type": "print",
+  "controlDate": "2024-07-18T16:14:05.913Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "pressType": {
+    "squuid": "5be1a6b0-4e68-459d-a5ee-da3974114c2a",
+    "name": "E-Paper",
+    "type": "press-type",
+    "state": "active"
+  }
+}

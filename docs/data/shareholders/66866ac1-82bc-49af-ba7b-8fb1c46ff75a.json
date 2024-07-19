@@ -1,13 +1,29 @@
 {
   "name": "Amundi Asset Management",
   "squuid": "66866ac1-82bc-49af-ba7b-8fb1c46ff75a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "held": {
+        "name": "PUMA SE",
+        "squuid": "5be1a6b6-f4dc-408b-8b70-0589d25a76c7"
+      },
+      "squuid": "66866ad8-4564-4882-8bf3-bca7ca4d2f0e",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

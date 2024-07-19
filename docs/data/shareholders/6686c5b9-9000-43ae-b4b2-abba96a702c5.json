@@ -1,13 +1,30 @@
 {
   "name": "Geltinger, Andreas",
   "squuid": "6686c5b9-9000-43ae-b4b2-abba96a702c5",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Radio München gUG (haftungsbeschränkt)",
+        "squuid": "5f92dddc-2512-43d7-b865-48a694c606d2"
+      },
+      "squuid": "6686c5d2-9fb7-4e01-87bd-4fc17fdf3b6c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }
