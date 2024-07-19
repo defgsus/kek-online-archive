@@ -1,13 +1,29 @@
 {
   "name": "Raiffeisen Vertriebs GmbH",
   "squuid": "668bca10-dd43-493c-a5c5-d2afced5da94",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 16.7,
+      "held": {
+        "name": "RT/Raiffeisen Touristik Group GmbH",
+        "squuid": "5cda7c06-ddde-49ca-abf3-e191216338c3"
+      },
+      "squuid": "668bca5b-3bac-4f51-be4c-9121d42556cb",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
