@@ -1,6 +1,4 @@
 {
-  "name": "Raiffeisen Vertriebs GmbH",
-  "squuid": "668bca10-dd43-493c-a5c5-d2afced5da94",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Burghausen",
+  "pseudoCompany": false,
+  "street": "Burgkirchener Str.",
+  "name": "Raiffeisen Vertriebs GmbH",
+  "naturalPerson": false,
+  "squuid": "668bca10-dd43-493c-a5c5-d2afced5da94",
+  "controlDate": "2024-07-23T08:12:46.144Z",
+  "streetNumber": "143",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -25,5 +31,6 @@
       "name": "DL",
       "type": "organization"
     }
-  ]
+  ],
+  "zipcode": "84489"
 }
