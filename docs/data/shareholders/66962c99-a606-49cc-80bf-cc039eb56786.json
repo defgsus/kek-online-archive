@@ -1,13 +1,36 @@
 {
   "name": "Mangelsdorff, Dr. Ralf",
   "squuid": "66962c99-a606-49cc-80bf-cc039eb56786",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.94,
+      "held": {
+        "name": "WMP GmbH & Co. Medienbeteiligungs KG",
+        "squuid": "5be1a6b6-f8bf-471c-9d8c-93eded23b295"
+      },
+      "squuid": "66962cfa-4161-4cfc-aa24-876e11301f65",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
     }
   ]
 }
