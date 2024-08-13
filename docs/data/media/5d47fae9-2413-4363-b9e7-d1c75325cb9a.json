@@ -24,6 +24,12 @@
   ],
   "name": "METROPOL FM (bundesweit)",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -33,8 +39,8 @@
   },
   "rfLicenseUntil": "unbefristet",
   "rfLicensed": "10.11.2017",
-  "rfLicenseFrom": "11.11.2017",
-  "rfAddress": "Markgrafenstr. 11, 10969 Berlin",
+  "rfLicenseFrom": "",
+  "rfAddress": "Potsdamer Str. 141, 10783 Berlin",
   "accessibilityEmail": "info@metropolfm.de",
   "languages": [
     {

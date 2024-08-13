@@ -11,6 +11,17 @@
   },
   "accessibilityUrl": "https://www.antenne-landau.de/",
   "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "The Radio Group GmbH",
+        "squuid": "5be1a6b6-412b-4ae5-b2e9-ec72b2cdc4d3"
+      },
+      "squuid": "66bb20ce-a9b2-442f-95d7-98d0df767d41",
+      "state": "active"
+    }
+  ],
   "name": "Antenne Pfalz 94.2",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
@@ -27,7 +38,8 @@
     "type": "organization",
     "fullName": "Medienanstalt Rheinland-Pfalz"
   },
-  "rfLicenseUntil": "31.05.2028",
+  "description": "Lokalkette",
+  "rfLicenseUntil": "unbefristet",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
@@ -37,5 +49,13 @@
   "rfLicensed": "05.12.2017",
   "rfLicenseFrom": "01.06.2018",
   "rfAddress": "Am Altenhof 11-13 \n67655 Kaiserslautern",
-  "accessibilityEmail": "info@antenne-landau.de"
+  "accessibilityEmail": "info@antenne-landau.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
 }

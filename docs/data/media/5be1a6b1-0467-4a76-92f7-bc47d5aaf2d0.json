@@ -2,7 +2,7 @@
   "matchedNames": [
     "bigFM HOT MUSIC RADIO"
   ],
-  "rfRepresentative": "Kristian Kropp",
+  "rfRepresentative": "Tobias Heger",
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-0467-4a76-92f7-bc47d5aaf2d0",
@@ -48,12 +48,23 @@
     "type": "organization",
     "fullName": "Medienanstalt Rheinland-Pfalz"
   },
+  "description": "Musikspartenprogramm / Jugendradio mit Landesbezug",
+  "rfLicenseUntil": "unbefristet",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
+  "rfLicensed": "18.03.2011",
   "rfAddress": "Turmstr. 10 \n67059 Ludwigshafen",
-  "accessibilityEmail": "stuttgart@big-fm.de"
+  "accessibilityEmail": "",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
 }

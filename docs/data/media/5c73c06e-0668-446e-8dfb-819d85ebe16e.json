@@ -1,5 +1,5 @@
 {
-  "rfRepresentative": "Stephan Schwenk, Normann Küntzler, Doreen Gesierich",
+  "rfRepresentative": "Stephan Schwenk",
   "state": "active",
   "rfShoppingChannel": false,
   "rfStartDate": "01.07.2010",
@@ -10,9 +10,20 @@
     "type": "organization",
     "fullName": "Medienanstalt Rheinland-Pfalz"
   },
-  "accessibilityUrl": "https://www.cityradio-trier.de/",
+  "accessibilityUrl": "",
   "rfStatewide": false,
-  "name": "City Radio Trier",
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "The Radio Group GmbH",
+        "squuid": "5be1a6b6-412b-4ae5-b2e9-ec72b2cdc4d3"
+      },
+      "squuid": "66bb26c4-deb2-48c4-83c5-2f70785d9285",
+      "state": "active"
+    }
+  ],
+  "name": "Antenne Trier",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
     "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -27,9 +38,17 @@
     "type": "organization",
     "fullName": "Medienanstalt Rheinland-Pfalz"
   },
-  "rfLicenseUntil": "30.06.2020",
+  "rfLicenseUntil": "unbefristet",
   "rfLicensed": "22.06.2010",
   "rfLicenseFrom": "01.07.2010",
   "rfAddress": "Am Altenhof 11-13\n67655 Kaiserslautern",
-  "accessibilityEmail": "redaktion@cityradio-trier.de"
+  "accessibilityEmail": "",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
 }

@@ -4,12 +4,12 @@
   "note": "",
   "supplierConsortium": false,
   "pseudoCompany": false,
-  "street": "Gerlachstr.",
+  "street": "Am Lehnitzsee",
   "name": "Babelsberg Hitradio GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-1f71-4aaa-b1f0-9c59e219417f",
   "controlDate": "2024-05-15T12:29:04.803Z",
-  "streetNumber": "6",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -23,12 +23,12 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "14480",
+  "zipcode": "11476",
   "operates": [
     {
       "type": "operate",
       "held": {
-        "name": " Schneider´s – der Sender",
+        "name": "BHeins",
         "squuid": "5be1a6b1-8e33-4587-8c6a-8706f15384ab"
       },
       "squuid": "5be1a6b9-a538-41a2-905c-8612bc1ba34d",
@@ -41,6 +41,15 @@
         "squuid": "5f35470a-d2b1-4603-ae34-ce78f814d09d"
       },
       "squuid": "5f35475c-7df8-4255-a5d2-5fb8e748d2b0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "BHeins (bundesweit)",
+        "squuid": "66bb8c7b-7d1c-42e5-8db7-397adf65624b"
+      },
+      "squuid": "66bb8d11-0b7e-476f-ba40-c737ce0fae23",
       "state": "active"
     }
   ],

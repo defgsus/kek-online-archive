@@ -2,6 +2,7 @@
   "rfRepresentative": "Oliver Dunk",
   "state": "active",
   "rfShoppingChannel": false,
+  "rfStartDate": "",
   "squuid": "635b83ad-6ee1-481d-9300-24087ff1a45e",
   "organization": {
     "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -23,6 +24,12 @@
   ],
   "name": "STAR*SAT RADIO (bundesweit)",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -30,8 +37,9 @@
     "type": "organization",
     "fullName": "Medienanstalt Berlin-Brandenburg"
   },
+  "rfLicenseUntil": "unbefristet",
   "rfLicensed": "15.09.2022",
-  "rfLicenseFrom": "unbefristet",
+  "rfLicenseFrom": "",
   "rfAddress": "Pfalzburger Str. 43-44, 10717 Berlin",
   "languages": [
     {

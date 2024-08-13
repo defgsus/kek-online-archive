@@ -1,59 +1,16 @@
 {
-  "state": "active",
-  "pseudoCompany": false,
   "name": "Allaudio GmbH",
-  "naturalPerson": false,
+  "pseudoCompany": false,
   "squuid": "5be1a6b6-4cf9-496b-a495-36013a1ff7cd",
+  "credits": "LMK",
+  "state": "archived",
   "organizations": [
     {
-      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "Medienanstalt RLP",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Rheinland-Pfalz"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "All Audio",
-        "squuid": "5be1a6b1-b4ea-4c15-a07a-1ce3c214ba21"
-      },
-      "squuid": "5be1a6b9-0fe9-4897-980a-7c97da67b98f",
-      "state": "active"
-    }
-  ],
-  "credits": "LMK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 48.0,
-      "holder": {
-        "name": "Pietzsch, Volker",
-        "squuid": "5be1a6b6-51f9-4a2a-9cdf-672f5ce511fa"
-      },
-      "squuid": "5be1a6b7-8deb-42d3-96ff-1582b18aaef8",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 48.0,
-      "holder": {
-        "name": "Hassinger, Michael",
-        "squuid": "5be1a6b6-6503-4dab-bf57-ca9690c4290a"
-      },
-      "squuid": "5be1a6b7-5e8e-4982-9b27-eaaa09b482ef",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 4.0,
-      "holder": {
-        "name": "Dölfel, Martina",
-        "squuid": "5be1a6b6-b71d-41a1-a558-e72c5ab311c4"
-      },
-      "squuid": "5be1a6b7-6e20-47b3-851b-66c12311dbf0",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

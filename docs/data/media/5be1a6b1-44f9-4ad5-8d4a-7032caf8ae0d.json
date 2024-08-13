@@ -1,5 +1,5 @@
 {
-  "rfRepresentative": "Stephan Schwenk, Heiko Kaiser",
+  "rfRepresentative": "Stephan Schwenk",
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-44f9-4ad5-8d4a-7032caf8ae0d",
@@ -15,10 +15,10 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Antenne Koblenz GmbH",
-        "squuid": "5be1a6b6-a316-4364-876d-5f66fa24ddc7"
+        "name": "The Radio Group GmbH",
+        "squuid": "5be1a6b6-412b-4ae5-b2e9-ec72b2cdc4d3"
       },
-      "squuid": "5be1a6b9-cbe7-4513-aa64-eb955db899e9",
+      "squuid": "66bb1d6a-f1d7-494e-9989-d871022ae05b",
       "state": "active"
     }
   ],
@@ -38,7 +38,8 @@
     "type": "organization",
     "fullName": "Medienanstalt Rheinland-Pfalz"
   },
-  "rfLicenseUntil": "31.10.2023",
+  "description": "Lokalkette",
+  "rfLicenseUntil": "unbefristet",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
@@ -47,5 +48,13 @@
   },
   "rfLicensed": "04.12.2012",
   "rfAddress": "Friedrich-Ebert-Ring 54\n56068 Koblenz",
-  "accessibilityEmail": "info@antenne-koblenz.de"
+  "accessibilityEmail": "info@antenne-koblenz.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
 }

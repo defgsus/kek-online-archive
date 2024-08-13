@@ -11,8 +11,25 @@
   },
   "accessibilityUrl": "https://liveonlineradio.net/trigger-fm",
   "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Niemeyer Rundfunk GmbH",
+        "squuid": "6399a41f-9e30-4381-9fca-264aa0bd5311"
+      },
+      "squuid": "65f03411-214f-484c-bd7d-b48cc60a1c3e",
+      "state": "active"
+    }
+  ],
   "name": "Trigger.FM",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -20,6 +37,7 @@
     "type": "organization",
     "fullName": "Medienanstalt Berlin-Brandenburg"
   },
+  "rfLicenseUntil": "unbefristet",
   "rfLicensed": "28.10.2022",
   "rfAddress": "Berliner Straße 9 \n14641 Nauen",
   "accessibilityEmail": "niemeyer@Trigger.FM",

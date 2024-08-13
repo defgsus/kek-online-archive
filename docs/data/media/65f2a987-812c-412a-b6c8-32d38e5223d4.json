@@ -1,6 +1,7 @@
 {
   "rfRepresentative": "Antoine Baduel",
   "state": "active",
+  "rfStartDate": "01.04.2024",
   "squuid": "65f2a987-812c-412a-b6c8-32d38e5223d4",
   "organization": {
     "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -21,8 +22,14 @@
       "state": "active"
     }
   ],
-  "name": "FG CHIC. Berlin",
+  "name": "FG CHIC. Berlin (bundesweit)",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -32,7 +39,7 @@
   },
   "rfLicenseUntil": "unbefristet",
   "rfLicensed": "28.11.2023",
-  "rfLicenseFrom": "28.11.2023",
+  "rfLicenseFrom": "",
   "rfAddress": "FG Concept\n51 rue de Rivoli\n75001 Paris\nFRANKREICH",
   "accessibilityEmail": "https://www.radiofg.com/"
 }

@@ -39,7 +39,7 @@
     "type": "organization",
     "fullName": "Medienanstalt Rheinland-Pfalz"
   },
-  "rfLicenseUntil": "30.09.2021",
+  "rfLicenseUntil": "unbefristet",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
@@ -48,6 +48,14 @@
   },
   "rfLicensed": "15.03.2011",
   "rfLicenseFrom": "01.10.2011",
-  "rfAddress": "Hechtsheimer Str. 35 \n55131 Mainz",
-  "accessibilityEmail": "info@antenne-mainz.de"
+  "rfAddress": "Rheinstr. 43-45\n55116 Mainz",
+  "accessibilityEmail": "info@antenne-mainz.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
 }

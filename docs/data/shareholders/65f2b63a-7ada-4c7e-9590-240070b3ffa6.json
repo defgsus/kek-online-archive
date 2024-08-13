@@ -1,8 +1,10 @@
 {
   "state": "active",
   "city": "Paris",
+  "pseudoCompany": false,
   "street": "rue de Rivoli",
   "name": "FG Concept",
+  "naturalPerson": false,
   "squuid": "65f2b63a-7ada-4c7e-9590-240070b3ffa6",
   "placeOfBusiness": "Frankreich",
   "streetNumber": "51",
@@ -19,10 +21,42 @@
     {
       "type": "operate",
       "held": {
-        "name": "FG CHIC. Berlin",
+        "name": "FG CHIC. Berlin (bundesweit)",
         "squuid": "65f2a987-812c-412a-b6c8-32d38e5223d4"
       },
       "squuid": "65f2b668-24a3-4a02-a79b-672e05cbdb22",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 97.213,
+      "holder": {
+        "name": "Maison FG",
+        "squuid": "66bb90d2-cd7d-4d7f-bf45-bd1541320427"
+      },
+      "squuid": "66bb9182-d91b-4117-abe3-29f1cb39a580",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.772,
+      "holder": {
+        "name": "Ferey, Sylvain",
+        "squuid": "66bb904f-f890-4b09-931f-f1fd2be51c65"
+      },
+      "squuid": "66bb919f-2090-4c6b-b2c9-6829aea9fe3f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.014,
+      "holder": {
+        "name": "Baduel, Antoine",
+        "squuid": "66bb9030-d018-40f7-9f8a-f1d4d9a38477"
+      },
+      "squuid": "66bb91b8-4ea2-4d3e-a080-d457b9119faa",
       "state": "active"
     }
   ]
