@@ -1,13 +1,30 @@
 {
   "name": "Radio 38 Freunde GmbH und Co. KG i. Gr.",
   "squuid": "66bb6f2e-627b-4514-820a-26e3f9585659",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 24.86,
+      "held": {
+        "name": "Radio38 GmbH & Co. KG",
+        "squuid": "5be1a6b6-f894-439e-aff5-d135b06e6de5"
+      },
+      "squuid": "66bb70a6-2721-41e8-b99f-119665a3a14f",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ]
 }

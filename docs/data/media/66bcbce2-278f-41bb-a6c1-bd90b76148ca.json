@@ -1,0 +1,74 @@
+{
+  "rfRepresentative": "Barny Mills, Charles Classen, Neal O´Rourke, Elke Walthelm",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Sandra Singer",
+  "rfStartDate": "2023",
+  "rfFreePay": false,
+  "squuid": "66bcbce2-278f-41bb-a6c1-bd90b76148ca",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.sky.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Sky Deutschland Fernsehen GmbH & Co. KG",
+        "squuid": "61e6a021-57c9-4e5f-bc71-5167884ad1ce"
+      },
+      "squuid": "66bcc756-e54d-4b4b-a1eb-4d9e27ec1eec",
+      "state": "active"
+    }
+  ],
+  "name": "Sky Sport UHD",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-bc95-453f-89a7-4577b71d9c46",
+    "name": "Spartenprogramm (Sport)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Live-Sportprogramm mit UHD-Highlights aus dem gesamten Sky-Angebot",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "24.10.2024",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky / Sky Deutschland Fernsehen GmbH & Co. KG",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
+        "name": "Programmplattform",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "24.10.2024",
+  "accessibilityEmail": "impressum@sky.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

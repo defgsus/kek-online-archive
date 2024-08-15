@@ -1,5 +1,6 @@
 {
   "name": "von Jagwitz-Biegnitz, Marie-Sophie",
+  "pseudoCompany": false,
   "squuid": "6391d324-e58d-4f78-b2ce-9744cc35bce0",
   "owns": [
     {
@@ -11,8 +12,20 @@
       },
       "squuid": "6391d36e-0fe6-448d-9ce2-649b74585399",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "G. Braun Immobilien Verwaltungs GmbH",
+        "squuid": "5f9a9c47-d1e4-4aa5-8ba3-08b9b962d75c"
+      },
+      "squuid": "6537dde0-a700-4022-9be9-4e3080257373",
+      "state": "active"
     }
   ],
+  "city": "Frankfurt/M.",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -24,6 +37,12 @@
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
@@ -38,5 +57,5 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "state": "active"
+  "naturalPerson": true
 }

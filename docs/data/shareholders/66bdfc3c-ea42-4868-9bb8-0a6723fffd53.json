@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Potsdam",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Friedrich-Engels-Strasse",
+  "name": "Freie Radios Berlin Brandenburg e. V. (FR-BB e. V.)",
+  "naturalPerson": false,
+  "co": "c/o Freies Radio Potsdam",
+  "squuid": "66bdfc3c-ea42-4868-9bb8-0a6723fffd53",
+  "streetNumber": "22",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "14473",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Freie Radios Berlin Brandenburg (FR-BB)",
+        "squuid": "5cb47fe3-d76b-47c3-890d-11525dabee50"
+      },
+      "squuid": "66bdfc96-b796-4eb1-b892-a944a112c889",
+      "state": "active"
+    }
+  ]
+}

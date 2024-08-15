@@ -1,0 +1,98 @@
+{
+  "state": "active",
+  "city": "Lübeck",
+  "pseudoCompany": false,
+  "street": "Blankenseer Str.",
+  "name": "Radio Wellenrausch GmbH",
+  "naturalPerson": false,
+  "squuid": "66bdf279-af02-496a-b611-ab29ffa89a12",
+  "streetNumber": "101",
+  "organizations": [
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "23562",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Wellenrausch",
+        "squuid": "66bdf24b-c3b4-4f52-847c-3d9bf591454d"
+      },
+      "squuid": "66bdf344-1c4c-4cd4-9e52-da8714fd0eb1",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 23.6,
+      "holder": {
+        "name": "Angelika Meiser",
+        "squuid": "66bdf474-b904-424b-b33e-37ff4492eec5"
+      },
+      "squuid": "66bdf4f7-e0d9-43c4-b018-9310454f76ba",
+      "state": "active",
+      "votingShares": -1.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 23.6,
+      "holder": {
+        "name": "Dietmar Baum",
+        "squuid": "66bdf421-78f8-4871-8c90-d9f617bb4e79"
+      },
+      "squuid": "66bdf508-8583-4cb0-b1d2-066d687111dc",
+      "state": "active",
+      "votingShares": -1.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 23.6,
+      "holder": {
+        "name": "Stöcker Flughafen GmbH & Co. KG",
+        "squuid": "66bdf446-472b-4c27-8c7b-90adea203a7d"
+      },
+      "squuid": "66bdf58e-7240-4a71-bb97-efe00a1012f1",
+      "state": "active",
+      "votingShares": -1.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 23.6,
+      "holder": {
+        "name": "Harald Thoma",
+        "squuid": "66bdf552-8882-4bb9-aa6e-a79797577a48"
+      },
+      "squuid": "66bdf5b4-1304-484d-98e2-c952348e74b5",
+      "state": "active",
+      "votingShares": -1.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.6,
+      "holder": {
+        "name": "Malte Jacker",
+        "squuid": "66bdf489-6c0a-4375-a1f5-81cb3b90d813"
+      },
+      "squuid": "66bdf5ce-04d1-42ed-a18b-0c08899d12a5",
+      "state": "active",
+      "votingShares": -1.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.0,
+      "holder": {
+        "name": "Alexander Ditscheid",
+        "squuid": "66bdf5a4-75ad-41b9-881d-45b9f51a79b4"
+      },
+      "squuid": "66bdf652-4baf-4ce9-8729-4eb514433ee3",
+      "state": "active",
+      "votingShares": -1.0
+    }
+  ]
+}

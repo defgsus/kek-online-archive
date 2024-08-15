@@ -1,5 +1,6 @@
 {
   "name": "Oschkinat, Volker",
+  "pseudoCompany": false,
   "squuid": "62c3090e-be1a-4272-893b-f70e3c5cc4a9",
   "owns": [
     {
@@ -11,20 +12,26 @@
       },
       "squuid": "62c3094b-0634-42f5-88b7-6e74e66c4963",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Beyond Capital Partners FP GmbH & Co. KG",
+        "squuid": "6050dde6-aa19-43fe-83cf-3e4b6b5cf943"
+      },
+      "squuid": "63317275-b5e0-4a86-ab6a-72b2e70e1b0c",
+      "state": "active"
     }
   ],
+  "city": "Steinfurt",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "state": "active"
+  "naturalPerson": true
 }

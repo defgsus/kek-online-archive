@@ -1,0 +1,53 @@
+{
+  "rfRepresentative": "Lars Meier",
+  "state": "active",
+  "squuid": "66be1c0c-3a48-4e1a-a683-c6d83340e127",
+  "organization": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "AHOY Radio GmbH",
+        "squuid": "66be1bfa-5519-41c4-88eb-9e1c02b7e2d5"
+      },
+      "squuid": "66be24b2-a308-42dc-8709-196d605b5cdd",
+      "state": "active"
+    }
+  ],
+  "name": "Ahoy - Gutes Radio für Gute Leude",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "rfLicensed": "20. Oktober 2023",
+  "platformOperators": [
+    {
+      "squuid": "5e7b9563-ab24-4dc2-8e2b-7c6d682f1670",
+      "name": "DAB+ regionaler Mux / Media Broadcast GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5e7b9563-aa09-44f1-90b5-e48a0d7359ea",
+        "name": "DAB+",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "21. Oktober 2023"
+}

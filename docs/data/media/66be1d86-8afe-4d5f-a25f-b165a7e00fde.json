@@ -1,0 +1,53 @@
+{
+  "rfRepresentative": "Steffen Müller",
+  "state": "active",
+  "squuid": "66be1d86-8afe-4d5f-a25f-b165a7e00fde",
+  "organization": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio 21 GmbH & Co. KG",
+        "squuid": "5be1a6b6-d018-4147-bd70-c13114845f19"
+      },
+      "squuid": "66be26d2-133a-427d-b186-e089f6a8905b",
+      "state": "active"
+    }
+  ],
+  "name": "Radio 21 - Bester Rock'n Pop für Schleswig-Holstein",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "rfLicensed": "6. April 2023",
+  "platformOperators": [
+    {
+      "squuid": "5e7b9563-ab24-4dc2-8e2b-7c6d682f1670",
+      "name": "DAB+ regionaler Mux / Media Broadcast GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5e7b9563-aa09-44f1-90b5-e48a0d7359ea",
+        "name": "DAB+",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfAddress": "Robert-Hesse-Str. 3\n30827 Garbsen"
+}

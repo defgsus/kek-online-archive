@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "street": "Ludwigstraße",
+  "name": "AHOY Radio GmbH",
+  "squuid": "66be1bfa-5519-41c4-88eb-9e1c02b7e2d5",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "20357",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ahoy - Gutes Radio für Gute Leude",
+        "squuid": "66be1c0c-3a48-4e1a-a683-c6d83340e127"
+      },
+      "squuid": "66be24b2-a308-42dc-8709-196d605b5cdd",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Lars Meier",
+        "squuid": "66be1c30-19ec-4eeb-8c19-eeda75a62e57"
+      },
+      "squuid": "66be2509-e96a-4f0a-a877-d552e33e0e86",
+      "state": "active",
+      "votingShares": -1.0
+    }
+  ]
+}

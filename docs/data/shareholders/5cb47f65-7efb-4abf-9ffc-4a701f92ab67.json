@@ -1,54 +1,21 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Potsdam",
   "supplierConsortium": true,
   "pseudoCompany": false,
   "street": "Friedrich-Engels-Str. ",
   "name": "Freie Radios Berlin Brandenburg GbR",
   "naturalPerson": false,
-  "co": "freiLand Potsdam",
+  "co": "c/o Freies Radio Potsdam",
   "squuid": "5cb47f65-7efb-4abf-9ffc-4a701f92ab67",
   "streetNumber": "22",
   "organizations": [
     {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "14473",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "FR-BB",
-        "squuid": "5cb47fe3-d76b-47c3-890d-11525dabee50"
-      },
-      "squuid": "5cb481f1-7614-47ff-9bdf-2ede90c4b383",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Freies Radio Berlin e.V.",
-        "squuid": "5cb47f78-dcd4-4a0d-8b24-1e282d1769c0"
-      },
-      "squuid": "5cb48265-dcf9-482c-b131-9ad66de0fb15",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Freies Radio Potsdam e.V.",
-        "squuid": "5cb47f8e-9a34-48dd-a76a-0aa50ad33ba0"
-      },
-      "squuid": "5cb48285-8a51-427e-b5df-3ced09a766b6",
-      "state": "active"
-    }
-  ]
+  "zipcode": "14473"
 }

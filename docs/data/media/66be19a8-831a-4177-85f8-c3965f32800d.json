@@ -1,0 +1,54 @@
+{
+  "rfRepresentative": "Lutz Sonntag",
+  "state": "active",
+  "squuid": "66be19a8-831a-4177-85f8-c3965f32800d",
+  "organization": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Flensburg UG",
+        "squuid": "66be19c9-989f-4b92-953b-8bf5b99748bf"
+      },
+      "squuid": "66be19ea-b2fa-4232-989a-aa79befc61b9",
+      "state": "active"
+    }
+  ],
+  "name": "Radio Flensburg",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "rfLicensed": "15. Dezember 2022",
+  "platformOperators": [
+    {
+      "squuid": "5e7b9563-ab24-4dc2-8e2b-7c6d682f1670",
+      "name": "DAB+ regionaler Mux / Media Broadcast GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5e7b9563-aa09-44f1-90b5-e48a0d7359ea",
+        "name": "DAB+",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "16. Dezember 2022",
+  "rfAddress": "Clädenstraße 5\n24943 Flensburg"
+}

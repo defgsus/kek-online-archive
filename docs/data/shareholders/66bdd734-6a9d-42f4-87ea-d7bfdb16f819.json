@@ -1,0 +1,41 @@
+{
+  "state": "active",
+  "city": "Unterföhring",
+  "pseudoCompany": false,
+  "street": "Beta-Straße",
+  "name": "DF1 Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "66bdd734-6a9d-42f4-87ea-d7bfdb16f819",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "85774",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "DF1 HD",
+        "squuid": "66bdd171-1f21-415b-a95f-42c8b14824d8"
+      },
+      "squuid": "66bdd773-8774-4417-b76c-c4de7529f308",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "MC Media Connect GmbH",
+        "squuid": "66bdd1b6-043c-4982-b6c4-6ce30ace91a8"
+      },
+      "squuid": "66bdd8bc-c6be-4116-a792-ff48775439d8",
+      "state": "active"
+    }
+  ]
+}

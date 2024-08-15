@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Barny Mills, Charles Classen, Neal O´Rourke, Elke Walthelm",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Sandra Singer",
+  "rfFreePay": false,
+  "squuid": "66bcbcab-2e0d-4471-8fdc-05811a79c765",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www.sky.de/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Sky Deutschland Fernsehen GmbH & Co. KG",
+        "squuid": "61e6a021-57c9-4e5f-bc71-5167884ad1ce"
+      },
+      "squuid": "66bcca96-fe41-4903-80ae-99f514c63771",
+      "state": "active"
+    }
+  ],
+  "name": "Sky UHD (Arbeitstitel)",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Unterhaltungsspartenprogramm mit UHD-Highlights aus dem gesamten Sky-Angebot",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "24.10.2024",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky / Sky Deutschland Fernsehen GmbH & Co. KG",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
+        "name": "Programmplattform",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "24.10.2024",
+  "accessibilityEmail": "impressum@sky.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

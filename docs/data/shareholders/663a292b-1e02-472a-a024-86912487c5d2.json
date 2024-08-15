@@ -34,6 +34,12 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
       "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
       "name": "Medienanstalt RLP",
       "type": "organization",
@@ -58,5 +64,48 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "82166"
+  "zipcode": "82166",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Rumpf, Alexandra",
+        "squuid": "664dc88a-cd60-4a0e-b122-0205739b90a5"
+      },
+      "squuid": "664dc8c8-b8a8-4403-adee-0a109db1f7e0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Rumpf, Moritz",
+        "squuid": "664dc896-a14a-48d5-8ea0-5c0fc60518e7"
+      },
+      "squuid": "664dc8ea-f66c-4044-88e8-66292ca58a00",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Rumpf, Jaqueline",
+        "squuid": "664dc8a9-fe33-4263-9ee9-9a6b0979cf24"
+      },
+      "squuid": "664dc8ff-4bbb-4936-a04b-8a244283acda",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Rumpf, Christoph",
+        "squuid": "5be1a6b6-cef2-4f4f-a8ca-af51a46438af"
+      },
+      "squuid": "664dc90c-76b7-45a0-8edb-852b00533a38",
+      "state": "active"
+    }
+  ]
 }

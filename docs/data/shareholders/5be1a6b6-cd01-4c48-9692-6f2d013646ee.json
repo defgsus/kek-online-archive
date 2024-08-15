@@ -1,10 +1,10 @@
 {
-  "state": "active",
   "note": "Stand: 05/2020",
-  "pseudoCompany": false,
   "name": "NICE Broadcast & Media GmbH",
-  "naturalPerson": false,
+  "pseudoCompany": false,
   "squuid": "5be1a6b6-cd01-4c48-9692-6f2d013646ee",
+  "credits": "mabb",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -13,28 +13,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "nice",
-        "squuid": "5be1a6b1-9c99-4f70-805a-36c65b301ee3"
-      },
-      "squuid": "621c93c7-1e9e-4d98-9d59-4fbaf8267b08",
-      "state": "active"
-    }
-  ],
-  "credits": "mabb",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Erdmann, Wolfgang A.",
-        "squuid": "5be1a6b6-95e4-4f30-9f3c-e72ac771a14d"
-      },
-      "squuid": "5be1a6b8-a108-4747-8cd4-f0285ff28b1b",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

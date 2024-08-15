@@ -22,7 +22,7 @@
       "state": "active"
     }
   ],
-  "name": "RON",
+  "name": "RON Regionalfensterprogramm Rhein-Neckar bei RTL",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
     "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -37,9 +37,18 @@
     "type": "organization",
     "fullName": "Medienanstalt Rheinland-Pfalz"
   },
+  "description": "Regionalfensterprogramm",
   "rfLicenseUntil": "31.03.2026",
   "rfLicensed": "30.05.2016",
   "rfLicenseFrom": "01.04.2016",
   "rfAddress": "Q 7 Nr 28 \n68161 Mannheim ",
-  "accessibilityEmail": "ron@zonesieben.de"
+  "accessibilityEmail": "ron@zonesieben.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
 }

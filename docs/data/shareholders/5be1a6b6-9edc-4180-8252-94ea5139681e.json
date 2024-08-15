@@ -25,6 +25,7 @@
     }
   ],
   "city": "Braunschweig",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -37,10 +38,22 @@
       "type": "organization"
     },
     {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
       "name": "LFM NRW",
       "type": "organization",
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     },
     {
       "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
@@ -49,6 +62,5 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }

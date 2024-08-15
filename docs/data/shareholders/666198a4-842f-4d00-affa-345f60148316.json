@@ -1,5 +1,6 @@
 {
   "name": "Rußmann, Tim",
+  "pseudoCompany": false,
   "squuid": "666198a4-842f-4d00-affa-345f60148316",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Kiel",
   "state": "active",
   "organizations": [
     {
@@ -79,12 +81,7 @@
       "name": "MSA",
       "type": "organization",
       "fullName": "Medienanstalt Sachsen-Anhalt"
-    },
-    {
-      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-      "name": "NLM",
-      "type": "organization",
-      "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

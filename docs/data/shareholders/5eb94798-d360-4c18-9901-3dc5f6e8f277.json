@@ -26,6 +26,7 @@
     }
   ],
   "city": "Düsseldorf",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -37,6 +38,12 @@
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     {
       "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
@@ -51,6 +58,12 @@
       "fullName": "Landesmedienanstalt Saarland"
     },
     {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
       "name": "LFM NRW",
       "type": "organization",
@@ -63,6 +76,5 @@
       "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }

@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "note": "",
   "supplierConsortium": false,
@@ -11,35 +11,12 @@
   "streetNumber": "207 - 208",
   "organizations": [
     {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "10719",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "105.5 Spreeradio",
-        "squuid": "5be1a6b1-5c8c-4f6e-8ae5-e702f5b4dfd8"
-      },
-      "squuid": "5be1a6b9-34b5-4186-bb0e-17974b949a24",
-      "state": "active"
-    }
-  ],
-  "credits": "mabb",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "RTL Audio Center Berlin GmbH",
-        "squuid": "5be1a6b6-6ea6-42b5-9674-9d85c813ccc9"
-      },
-      "squuid": "5be1a6b7-cf68-48ed-8178-1838a79083ef",
-      "state": "active"
-    }
-  ]
+  "credits": "mabb"
 }

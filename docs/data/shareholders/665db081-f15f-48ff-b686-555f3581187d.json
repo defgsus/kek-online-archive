@@ -1,5 +1,6 @@
 {
   "name": "Köcher, Prof. Dr. Renate",
+  "pseudoCompany": false,
   "squuid": "665db081-f15f-48ff-b686-555f3581187d",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Frankfurt/M.",
   "state": "active",
   "organizations": [
     {
@@ -25,6 +27,12 @@
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     {
       "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
@@ -44,5 +52,6 @@
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

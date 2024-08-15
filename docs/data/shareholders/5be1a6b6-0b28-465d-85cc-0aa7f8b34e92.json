@@ -42,6 +42,12 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -88,16 +94,6 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 60.0,
-      "holder": {
-        "name": "Händle Verpachtungsunternehmen GbR",
-        "squuid": "5be1a6b6-b081-4a3a-be4c-5b4139a2df71"
-      },
-      "squuid": "5be1a6b8-bb67-47f7-91dd-f21a8069d440",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 20.0,
       "holder": {
         "name": "Wetzel, Hans-Ulrich",
@@ -114,6 +110,16 @@
         "squuid": "5be1a6b6-ade7-4932-ad4b-641f6d105876"
       },
       "squuid": "5be1a6b8-cf24-4ce8-b5a3-42566fee0b14",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Elser Immoblilien und Beteiligungen GmbH & Co. KG ",
+        "squuid": "666989ed-47b3-4e14-b34b-0a68285d835e"
+      },
+      "squuid": "66698a2c-50b0-4207-95c0-40ac53c438f0",
       "state": "active"
     }
   ]

@@ -15,11 +15,18 @@
     }
   ],
   "city": "Hannover",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
@@ -28,6 +35,5 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }

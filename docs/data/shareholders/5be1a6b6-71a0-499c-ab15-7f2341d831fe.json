@@ -1,16 +1,17 @@
 {
   "state": "active",
-  "city": "Hamburg",
+  "city": "Augsburg",
   "note": "",
   "supplierConsortium": false,
   "pseudoCompany": false,
-  "street": "Planckstr.",
+  "street": "Fuggerstraße",
   "name": "Klassik Radio GmbH",
   "naturalPerson": false,
-  "limitedPartnership": true,
+  "co": "c/o Klassik Radio AG",
+  "limitedPartnership": false,
   "squuid": "5be1a6b6-71a0-499c-ab15-7f2341d831fe",
   "controlDate": "2024-06-17T10:18:11.930Z",
-  "streetNumber": "15",
+  "streetNumber": "12",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -42,7 +43,7 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "zipcode": "22765",
+  "zipcode": "86150",
   "operates": [
     {
       "type": "operate",
@@ -114,6 +115,15 @@
         "squuid": "66700ea8-2107-4303-a5ce-5c8b6c824bb6"
       },
       "squuid": "66700ec3-2a9a-4c68-ba29-13e0c51a4bd7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Klassik Radio Movie",
+        "squuid": "66bded95-301d-43eb-ab9d-ce4a34cfdd39"
+      },
+      "squuid": "66bdee1f-3795-4e1e-a558-8342bf98a254",
       "state": "active"
     }
   ],

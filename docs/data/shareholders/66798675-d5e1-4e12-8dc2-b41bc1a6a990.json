@@ -1,5 +1,6 @@
 {
   "name": "Riesebeck-Quisbrock, Christian",
+  "pseudoCompany": false,
   "squuid": "66798675-d5e1-4e12-8dc2-b41bc1a6a990",
   "owns": [
     {
@@ -27,6 +28,12 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
       "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
       "name": "Medienanstalt RLP",
       "type": "organization",
@@ -50,5 +57,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

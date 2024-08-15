@@ -13,15 +13,15 @@
     }
   ],
   "state": "active",
-  "city": "Koblenz",
+  "city": "",
   "pseudoCompany": false,
-  "street": "August-Horch-Str.",
-  "name": "GT Medien GmbH",
+  "street": "",
+  "name": "",
   "naturalPerson": false,
   "squuid": "5be1a6b6-58b8-4a65-8b14-5449b8fdc44f",
-  "otherMediaActivities": "Die DRF Deutschland Fernsehen Verwaltungsgesellschaft mbH ist im Bereich des Regionalfernsehens aktiv. Sie produziert und vermarktet neben dem Programm DRF1 die regionalen Programme tv.mittelrhein und WW-TV und hält die Zulassung für Koblenz 1 (derzeit nicht auf Sendung).",
+  "otherMediaActivities": "",
   "controlDate": "2024-06-10T08:51:16.506Z",
-  "streetNumber": "28",
+  "streetNumber": "",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -40,7 +40,7 @@
       "fullName": "Medienanstalt Rheinland-Pfalz"
     }
   ],
-  "zipcode": "56070",
+  "zipcode": "",
   "operates": [
     {
       "type": "operate",
@@ -54,7 +54,7 @@
     {
       "type": "operate",
       "held": {
-        "name": "tv.mittelrhein",
+        "name": "tv mittelrhein",
         "squuid": "5be1a6b1-4efe-4606-ba95-de790409e217"
       },
       "squuid": "5be1a6b9-03cf-4670-903a-2d0ef7aed4f8",
@@ -72,28 +72,10 @@
     {
       "type": "operate",
       "held": {
-        "name": "wwTV",
+        "name": "ww TV",
         "squuid": "5c6e5f9e-9d92-4a8a-9e67-5cb208beca54"
       },
       "squuid": "5c6e65a2-4cd1-4ee3-aec0-0524631d3ca3",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Koblenz 1",
-        "squuid": "5c764917-e7be-498e-9e53-c1a2dbf2f368"
-      },
-      "squuid": "5c7649d0-b08d-4e8d-a188-77826f5bf587",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "tv mittelrhein",
-        "squuid": "5c764b61-ea7f-4d5f-b98c-853952d6ddb1"
-      },
-      "squuid": "5c766713-c992-4be5-91d5-cecbc1848253",
       "state": "active"
     }
   ],

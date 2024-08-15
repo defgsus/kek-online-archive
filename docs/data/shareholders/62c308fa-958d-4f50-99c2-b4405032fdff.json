@@ -1,5 +1,6 @@
 {
   "name": "Eibes, Karsten",
+  "pseudoCompany": false,
   "squuid": "62c308fa-958d-4f50-99c2-b4405032fdff",
   "owns": [
     {
@@ -11,20 +12,26 @@
       },
       "squuid": "62c30956-44bd-4703-9764-39fed03f9629",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Beyond Capital Partners FP GmbH & Co. KG",
+        "squuid": "6050dde6-aa19-43fe-83cf-3e4b6b5cf943"
+      },
+      "squuid": "63317285-f2cd-4ef2-b77c-7473db2e421c",
+      "state": "active"
     }
   ],
+  "city": "Trier",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "state": "active"
+  "naturalPerson": true
 }

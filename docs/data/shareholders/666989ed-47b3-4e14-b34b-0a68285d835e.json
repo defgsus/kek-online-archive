@@ -34,6 +34,12 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -46,5 +52,58 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "75417"
+  "zipcode": "75417",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 11.11,
+      "holder": {
+        "name": "Rupprecht, Angelika",
+        "squuid": "5be1a6b6-0983-482b-a3f3-d3a25940a629"
+      },
+      "squuid": "667d44d0-c48e-400d-a627-ba79854a03c8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 66.67,
+      "holder": {
+        "name": "Wetzel, Hans-Ulrich",
+        "squuid": "5be1a6b6-6e40-43ba-a4e3-164c91a58a02"
+      },
+      "squuid": "667d44df-200f-4b18-940d-b8ae7751724d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.11,
+      "holder": {
+        "name": "Wetzel, Brigitte",
+        "squuid": "5be1a6b6-ade7-4932-ad4b-641f6d105876"
+      },
+      "squuid": "667d44ee-9bca-4c8e-aa7c-04affaa9795b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.11,
+      "holder": {
+        "name": "Wetzel, Christina-Kathrin",
+        "squuid": "5be1a6b6-eea8-48c0-b049-487d4ff78c96"
+      },
+      "squuid": "667d44fd-d253-4450-ae12-b2bd1f5cdd80",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Elser IB Verwaltungs GmbH",
+        "squuid": "667d44b1-096e-4471-a191-dc9ec6d09272"
+      },
+      "squuid": "667d4509-83c5-4e2a-98b8-f83ed1349f94",
+      "state": "active"
+    }
+  ]
 }

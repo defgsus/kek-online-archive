@@ -1,6 +1,7 @@
 {
   "rfRepresentative": "Bernd Gnann",
   "state": "active",
+  "rfShoppingChannel": false,
   "rfStartDate": "01.05.2011",
   "squuid": "5d2c7061-4587-4314-874a-3317bee5d46a",
   "organization": {
@@ -24,6 +25,12 @@
   ],
   "name": "Baden TV",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "tv",
   "rfCategory": {
     "squuid": "5be1a6ad-063c-4208-94e1-5216fef7a724",

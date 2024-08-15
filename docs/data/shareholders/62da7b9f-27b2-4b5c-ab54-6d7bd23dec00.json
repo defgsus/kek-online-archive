@@ -11,8 +11,19 @@
       },
       "squuid": "62da7bec-8523-4f7e-8014-134677672050",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.16,
+      "held": {
+        "name": "Radio38 GmbH & Co. KG",
+        "squuid": "5be1a6b6-f894-439e-aff5-d135b06e6de5"
+      },
+      "squuid": "66bb71d2-3457-4514-a123-6aee03d8a168",
+      "state": "active"
     }
   ],
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20,11 +31,16 @@
       "type": "organization"
     },
     {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
       "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
       "name": "NLM",
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ],
-  "state": "active"
+  ]
 }

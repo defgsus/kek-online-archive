@@ -1,7 +1,8 @@
 {
-  "rfRepresentative": "Ralph Kühnl",
+  "rfRepresentative": "Ralph Kühnl,  Stefan Kühlein",
   "state": "active",
   "rfShoppingChannel": false,
+  "rfStartDate": "08.12.2015",
   "squuid": "5be1a6b1-71f2-4ba1-b193-40d1a4b6e384",
   "organization": {
     "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
@@ -11,17 +12,6 @@
   },
   "accessibilityUrl": "https://www.rnf.de/",
   "rfStatewide": false,
-  "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Rhein-Neckar Fernsehen und TV Produktion GmbH",
-        "squuid": "5be1a6b6-fda8-461d-939a-d071013ceb16"
-      },
-      "squuid": "5be1a6b9-de78-4e16-9d79-0155be7c5964",
-      "state": "active"
-    }
-  ],
   "name": "RNF ",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
@@ -38,8 +28,8 @@
     "type": "organization",
     "fullName": "Medienanstalt Rheinland-Pfalz"
   },
-  "description": "Ballungsraumfernsehen",
-  "rfLicenseUntil": "31.03.2026",
+  "description": "Regionalprogramm",
+  "rfLicenseUntil": "unbefristet",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
@@ -48,6 +38,14 @@
   },
   "rfLicensed": "08.12.2015",
   "rfLicenseFrom": "01.04.2016",
-  "rfAddress": "Dudenstr. 12-26\n68167 Mannheim",
-  "accessibilityEmail": "feedback@rnf.de"
+  "rfAddress": "Am Taubenfeld 10\n69123 Heidelberg-Wieblingen",
+  "accessibilityEmail": "feedback@rnf.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
 }

@@ -1,0 +1,74 @@
+{
+  "state": "active",
+  "city": "Flensburg",
+  "street": "Clädenstraße",
+  "name": "Radio Flensburg UG",
+  "squuid": "66be19c9-989f-4b92-953b-8bf5b99748bf",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "24943",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Flensburg",
+        "squuid": "66be19a8-831a-4177-85f8-c3965f32800d"
+      },
+      "squuid": "66be19ea-b2fa-4232-989a-aa79befc61b9",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Dirk Wiesemann",
+        "squuid": "66be1af0-00a1-4553-b086-02a591ff3339"
+      },
+      "squuid": "66be1d25-1892-4aec-93d6-6681cd049512",
+      "state": "active",
+      "votingShares": -1.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Lutz Sonntag",
+        "squuid": "66be1afb-a925-4929-9d71-0f3ad017affc"
+      },
+      "squuid": "66be1d30-8393-4fd4-9091-640b13ab83e5",
+      "state": "active",
+      "votingShares": -1.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Marco Ritschel",
+        "squuid": "66be1ae7-1744-4fb8-bd9d-ba790ee82cf0"
+      },
+      "squuid": "66be1d42-9624-4c12-ba5c-cbc8b726eeb4",
+      "state": "active",
+      "votingShares": -1.0
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Sönke Pencik",
+        "squuid": "66be1add-0904-4d20-9bfa-a65d3e6cadfc"
+      },
+      "squuid": "66be1d4b-f6ac-41d0-86d7-d5863f902113",
+      "state": "active",
+      "votingShares": -1.0
+    }
+  ]
+}

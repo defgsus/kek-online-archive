@@ -1,0 +1,56 @@
+{
+  "rfRepresentative": "Harald Thoma",
+  "state": "active",
+  "rfParentalAdvisor": "Juliane Steglich",
+  "squuid": "66bdf24b-c3b4-4f52-847c-3d9bf591454d",
+  "organization": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Wellenrausch GmbH",
+        "squuid": "66bdf279-af02-496a-b611-ab29ffa89a12"
+      },
+      "squuid": "66bdf344-1c4c-4cd4-9e52-da8714fd0eb1",
+      "state": "active"
+    }
+  ],
+  "name": "Radio Wellenrausch",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+    "name": "MA HSH",
+    "type": "organization",
+    "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+  },
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "21. Dezember 2022",
+  "platformOperators": [
+    {
+      "squuid": "5e7b9563-ab24-4dc2-8e2b-7c6d682f1670",
+      "name": "DAB+ regionaler Mux / Media Broadcast GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5e7b9563-aa09-44f1-90b5-e48a0d7359ea",
+        "name": "DAB+",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "21. Dezember 2022",
+  "rfAddress": "Blankenseer Straße 101\n23562 Lübeck"
+}

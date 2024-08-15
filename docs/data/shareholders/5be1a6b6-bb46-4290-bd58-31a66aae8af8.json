@@ -9,6 +9,16 @@
       },
       "squuid": "5be1a6b7-aaa9-4924-9bbd-5def86ede38f",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "G + D Verwaltungs GmbH",
+        "squuid": "5f086df2-3467-4cc5-9015-452a3f036f13"
+      },
+      "squuid": "666199a7-f266-4c4b-8981-bbf7dd1b859b",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -86,12 +96,6 @@
       "name": "MSA",
       "type": "organization",
       "fullName": "Medienanstalt Sachsen-Anhalt"
-    },
-    {
-      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-      "name": "NLM",
-      "type": "organization",
-      "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
   "zipcode": "24113",
@@ -109,12 +113,52 @@
     },
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 50.0,
       "holder": {
-        "name": "P + M Print und Medien Nord GmbH & Co. Holding KG",
-        "squuid": "5f086dd1-f882-4fad-a838-3edfd0fa047c"
+        "name": "Bartels Beteiligungs GmbH & Co. KG",
+        "squuid": "5ff43da0-3d01-4bc5-b56e-0b74c364701e"
       },
-      "squuid": "5f086e46-a98a-4fb8-913b-3633ceb6b034",
+      "squuid": "66619817-0190-4ebe-a9c1-757aa802ed16",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "HW Beratung + Beteiligung GmbH & Co. KG",
+        "squuid": "5ff43dc0-949a-4670-8b9a-9647c29224c1"
+      },
+      "squuid": "66619835-6e28-40f0-9c73-ba1c1851d2fd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Krussek, Hannelore",
+        "squuid": "6661986f-8f98-4f60-894d-35838190137c"
+      },
+      "squuid": "666198bb-b8c3-4c78-8f2a-b0dde9970671",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Otten, Janina",
+        "squuid": "66619888-13d1-4f3b-b457-5ba5345edead"
+      },
+      "squuid": "666198c9-5d56-40b1-b3d7-5be709030b08",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Rußmann, Tim",
+        "squuid": "666198a4-842f-4d00-affa-345f60148316"
+      },
+      "squuid": "666198d9-f769-406f-84a9-f5e2012f1063",
       "state": "active"
     }
   ]
