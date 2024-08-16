@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Frankfurt am Main",
   "pseudoCompany": false,
   "street": "Cassellastr.",
@@ -10,44 +10,12 @@
   "streetNumber": "30-32",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "60386",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.bigcitybeats.de",
-        "squuid": "5f3e852c-5198-49db-b0d2-f1e5aa479610"
-      },
-      "squuid": "5f3e856f-9f54-4e0e-98ea-d81978e17c76",
-      "state": "active"
-    }
-  ],
-  "credits": "ZAK-PM 14/2011 vom 29.06.2011",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 49.0,
-      "holder": {
-        "name": "Breiter, Bernd",
-        "squuid": "5f3e8668-7ab2-413e-b4e1-60272364914f"
-      },
-      "squuid": "5f3e86af-1395-499e-baa8-976743ea573a",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 51.0,
-      "holder": {
-        "name": "Germany WCD Holding GmbH",
-        "squuid": "5f3e8688-23c4-494f-9d6a-865e5a980f3e"
-      },
-      "squuid": "5f3e86c5-bcc4-4ba9-b143-fe8cbc919e54",
-      "state": "active"
-    }
-  ]
+  "credits": "ZAK-PM 14/2011 vom 29.06.2011"
 }

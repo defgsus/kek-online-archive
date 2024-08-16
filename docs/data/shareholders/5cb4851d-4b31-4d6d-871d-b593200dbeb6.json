@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Frankfurt/Oder",
   "pseudoCompany": false,
   "street": "Am Kleitspark ",
@@ -9,63 +9,11 @@
   "streetNumber": "12",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "15230",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Radio Slubfurt",
-        "squuid": "5cb485a1-307e-408c-802d-45d7bbe191f8"
-      },
-      "squuid": "5cb48877-12bf-4efc-bf5d-da17910fbada",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.radioslubfurt.de",
-        "squuid": "5f96bb52-d02d-4649-a242-cdf986db958a"
-      },
-      "squuid": "5f96bbc7-f377-442b-99a2-b93cf300153d",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Radio Ginseng",
-        "squuid": "5f056a13-fee7-48b8-9aa1-71e85a5a73a1"
-      },
-      "squuid": "64804542-7441-49a2-ba7a-e60cae8d03f9",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Radio Woltersdorf",
-        "squuid": "64804631-e2a2-4bf8-854c-7ccc19c2216b"
-      },
-      "squuid": "64804756-0628-4b2b-b029-d5f861cc6e33",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Radiokombinat Brandenburg",
-        "squuid": "648047bc-feb3-4f1c-812c-6d7590522952"
-      },
-      "squuid": "648048ef-1606-4862-919b-81364a900916",
-      "state": "active"
-    }
-  ]
+  "zipcode": "15230"
 }

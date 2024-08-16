@@ -2,7 +2,7 @@
   "rfRepresentative": "Stephan Schwenk",
   "state": "active",
   "rfShoppingChannel": false,
-  "rfStartDate": "03.12.2021",
+  "rfStartDate": "",
   "squuid": "63c54cb1-c38d-4981-9a77-b279e8239cc9",
   "organization": {
     "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -12,7 +12,18 @@
   },
   "accessibilityUrl": "https://radioholiday.de/",
   "rfStatewide": false,
-  "name": "RADIO HOLIDAY",
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "The Radio Group GmbH",
+        "squuid": "5be1a6b6-1e78-44d0-ab3c-dc3f9a827c64"
+      },
+      "squuid": "66bf2ec5-c05c-4fd3-93bf-56fed01ce734",
+      "state": "active"
+    }
+  ],
+  "name": "RADIO HOLIDAY (Berlin)",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
     "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -27,10 +38,10 @@
     "type": "organization",
     "fullName": "Medienanstalt Berlin-Brandenburg"
   },
-  "rfLicenseUntil": "14.02.2029",
-  "rfLicensed": "7. Oktober 2021",
-  "rfLicenseFrom": "03.12.2021",
-  "rfAddress": "Am Altenhof 11\n67655 Kaiserlautern",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "03.12.2021",
+  "rfLicenseFrom": "",
+  "rfAddress": "",
   "accessibilityEmail": "schwenk@radiogroup.de",
   "languages": [
     {

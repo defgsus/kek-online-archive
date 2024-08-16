@@ -9,6 +9,12 @@
   "streetNumber": "9",
   "organizations": [
     {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
       "name": "SLM",
       "type": "organization",
@@ -33,6 +39,15 @@
         "squuid": "5d0a1d4a-e49f-4367-b30d-36dec5a11c82"
       },
       "squuid": "63501c34-8081-4bc8-9e48-8d964489555d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MEGARADIOmix (Berlin)",
+        "squuid": "66bf0154-1b8d-4b52-8c88-978537436a75"
+      },
+      "squuid": "66bf03f9-accc-4290-ac07-1b001841a268",
       "state": "active"
     }
   ],

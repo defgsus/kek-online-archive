@@ -1,0 +1,49 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "66bf4cf8-1a5b-4b4d-a6a1-638beb4b91cf",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "France Médias Monde S.A.",
+        "squuid": "66bf4cc4-aa2a-4ca8-94f4-49eb2c9d35bc"
+      },
+      "squuid": "66bf4ded-8704-487c-9516-2e2f10d35696",
+      "state": "active"
+    }
+  ],
+  "name": "RFI Monde - Radio France Internationale",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "17.10.2023",
+  "rfLicenseFrom": "01.07.2023",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-e264-485c-96dc-81b8ef35c68c",
+      "name": "Französisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

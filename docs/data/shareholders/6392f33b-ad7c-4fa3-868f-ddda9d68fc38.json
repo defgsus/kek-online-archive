@@ -1,6 +1,7 @@
 {
   "name": "Max Berger",
   "squuid": "6392f33b-ad7c-4fa3-868f-ddda9d68fc38",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -9,16 +10,16 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "state": "active",
   "operates": [
     {
       "type": "operate",
       "held": {
-        "name": "SM Radio Dessau",
+        "name": "SM Radio Dessau (Berlin)",
         "squuid": "6392f34f-5037-42e2-b413-2ec0bf909e65"
       },
       "squuid": "6392f701-4a94-4094-8719-f36ec143b343",
       "state": "active"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

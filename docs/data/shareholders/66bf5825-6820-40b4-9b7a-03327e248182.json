@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Königs Wusterhausen",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Funkerberg",
+  "name": "Förderverein \"Sender Königs Wusterhausen\" e. V.",
+  "naturalPerson": false,
+  "co": "Senderhaus 1",
+  "squuid": "66bf5825-6820-40b4-9b7a-03327e248182",
+  "streetNumber": "20",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "15711",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "welle370 (Berlin)",
+        "squuid": "66bf5866-d628-40a0-bfda-9c166b04a3e7"
+      },
+      "squuid": "66bf5942-dce7-4654-9779-647f7072d1b5",
+      "state": "active"
+    }
+  ]
+}

@@ -12,16 +12,37 @@
       },
       "squuid": "5ca74415-780e-46e0-b620-0d6190b650b9",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 28.0,
+      "held": {
+        "name": "Reber Holding GmbH & Co. KG",
+        "squuid": "60a26712-db8d-45f7-855e-a05e8e5dc3f3"
+      },
+      "squuid": "66bca792-12dd-4ff6-9b04-6846fe139c0e",
+      "state": "active"
     }
   ],
+  "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }

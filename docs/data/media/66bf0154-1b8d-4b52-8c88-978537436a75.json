@@ -1,0 +1,49 @@
+{
+  "rfRepresentative": "Peter Valentino",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "66bf0154-1b8d-4b52-8c88-978537436a75",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "MEGA Radio GmbH",
+        "squuid": "63501b04-3457-41d8-ac29-42be4e870411"
+      },
+      "squuid": "66bf03f9-accc-4290-ac07-1b001841a268",
+      "state": "active"
+    }
+  ],
+  "name": "MEGARADIOmix (Berlin)",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "26.11.2020",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

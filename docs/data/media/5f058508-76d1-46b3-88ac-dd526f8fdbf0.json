@@ -21,8 +21,14 @@
       "state": "active"
     }
   ],
-  "name": "SE-TA 2",
+  "name": "SE-TA 2 (Berlin)",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -31,8 +37,9 @@
     "fullName": "Medienanstalt Berlin-Brandenburg"
   },
   "description": "Kurzwellenprogramm",
+  "rfLicenseUntil": "unbefristet",
   "rfLicensed": "13.032020",
-  "rfLicenseFrom": "unbefristet",
+  "rfLicenseFrom": "",
   "rfAddress": "Katzenstr. 20b, 08118 Hartenstein",
   "accessibilityEmail": "SE-TA@web.de",
   "languages": [
