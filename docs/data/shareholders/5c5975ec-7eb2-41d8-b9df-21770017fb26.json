@@ -2,7 +2,7 @@
   "state": "active",
   "city": "Berlin",
   "supplierConsortium": false,
-  "pseudoCompany": true,
+  "pseudoCompany": false,
   "street": "Kurzebracker Weg",
   "name": "Hornfeldt, Javier",
   "naturalPerson": true,
@@ -14,25 +14,10 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
-      "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
   "zipcode": "13503",
   "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Fashion & Faces",
-        "squuid": "5c597652-1a0e-460e-ba4c-e2cd6f9ef736"
-      },
-      "squuid": "5c5977ef-63fb-4964-b774-16619cca7f81",
-      "state": "active"
-    },
     {
       "type": "operate",
       "held": {
