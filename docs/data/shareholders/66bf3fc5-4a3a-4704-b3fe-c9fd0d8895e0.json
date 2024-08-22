@@ -26,9 +26,35 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "Medienanstalt RLP",
+      "type": "organization",
+      "fullName": "Medienanstalt Rheinland-Pfalz"
     }
   ],
   "zipcode": "56070",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "tv mittelrhein",
+        "squuid": "5be1a6b1-4efe-4606-ba95-de790409e217"
+      },
+      "squuid": "66c6f540-0fd4-4a68-bdf7-e134cdb98b66",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "ww TV",
+        "squuid": "5c6e5f9e-9d92-4a8a-9e67-5cb208beca54"
+      },
+      "squuid": "66c6f5cd-c4c3-42a4-ad8a-7f6f2e1dcfcd",
+      "state": "active"
+    }
+  ],
   "ownedBy": [
     {
       "type": "own",

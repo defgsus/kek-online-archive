@@ -1,13 +1,29 @@
 {
   "name": "True Social Ltd.",
   "squuid": "66c5be46-5e8a-4261-9c8b-8fce3e0ef796",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "iMedia&123tv Holding GmbH",
+        "squuid": "620a14c1-ab98-44c4-994b-24a7f1a06171"
+      },
+      "squuid": "66c5be74-2a08-4afa-a18a-6084ca162f9a",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
