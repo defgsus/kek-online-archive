@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Augsburg",
   "note": "Stand: 10/2023",
   "pseudoCompany": false,
@@ -11,49 +11,12 @@
   "streetNumber": "9",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "86156",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Hitradio MS One",
-        "squuid": "5be1a6b1-1ac3-4d56-a65e-5559d9bb5bb0"
-      },
-      "squuid": "5be1a6b9-d8c3-4daf-9d2f-f8044f932f5b",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.hitradio-msone.de",
-        "squuid": "5f3e892e-d54d-4d19-87de-6826396f126d"
-      },
-      "squuid": "5f3e8945-1880-4ed1-94c5-dfe4bbcf22eb",
-      "state": "active"
-    }
-  ],
-  "credits": "LFK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Krug, Maximilian",
-        "squuid": "5be1a6b6-516d-4b6d-bd37-dd35dd1eedc3"
-      },
-      "squuid": "5be1a6b7-6cf8-4016-9fdf-9f269f38c160",
-      "state": "active"
-    }
-  ]
+  "credits": "LFK"
 }
