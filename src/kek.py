@@ -146,7 +146,7 @@ class Kek:
                 "User-Agent": "github.com/defgsus/kek-online-archive",
                 "Accept": "application/json; encoding=utf-8",
             }
-        response = self._session.get(url)
+        response = self._session.get(url, verify=False)
 
         self._log("writing", filename)
 
