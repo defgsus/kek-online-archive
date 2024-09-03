@@ -1,13 +1,30 @@
 {
   "name": "Diener. Patrick",
   "squuid": "66c46fb2-857e-4bae-8a1c-637f0d3497d0",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 15.2,
+      "held": {
+        "name": "Radio 38 Freunde GmbH und Co. KG i. Gr.",
+        "squuid": "66bb6f2e-627b-4514-820a-26e3f9585659"
+      },
+      "squuid": "66c47028-9b5a-422b-b439-ef5b2178027c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ]
 }
