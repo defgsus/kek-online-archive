@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Leipzig",
   "note": "Geschäftsführer Ulrich Müller",
   "pseudoCompany": false,
@@ -11,34 +11,11 @@
   "streetNumber": "14",
   "organizations": [
     {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "04109",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "DRIVER`S RADIO",
-        "squuid": "5ff2ecb3-9321-43b9-b8eb-c8c130ff92cb"
-      },
-      "squuid": "661796f7-2951-4aaf-aabc-574e8ec9dcbc",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Wolffberg International Media GmbH",
-        "squuid": "5ff2f02d-acfb-4921-8842-0f95a4458e4f"
-      },
-      "squuid": "6617992c-210f-4e91-a3e3-a51eb47213f8",
-      "state": "active"
-    }
-  ]
+  "zipcode": "04109"
 }
