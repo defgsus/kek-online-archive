@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "J. Eberl Verwaltungs GmbH",
-        "squuid": "5eb13e38-3eb6-4041-b968-1aa21fd0f7a1"
-      },
-      "squuid": "5ee1ef38-5b23-4598-b07f-4941a3a22ae1",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Immenstadt",
   "note": "Firma seit 7/2023 in Liquidation",
   "pseudoCompany": false,
@@ -24,155 +12,12 @@
   "streetNumber": "6",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "87597",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Allgäuer Anzeigeblatt",
-        "squuid": "5be1a6b1-0d36-40c9-970d-9d6804d5aa47"
-      },
-      "squuid": "5be1a6b9-84f8-47e9-9fc5-b4467613fffe",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 29.0,
-      "holder": {
-        "name": "Eberl, Ulrich",
-        "squuid": "5be1a6b6-2040-49ae-9d16-598999afecb3"
-      },
-      "squuid": "5be1a6b8-ab99-49fc-a387-e16ef0de2ebe",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 8.0,
-      "holder": {
-        "name": "Eberl, Marianne",
-        "squuid": "5be1a6b6-c81f-4696-abae-21128d6eb38f"
-      },
-      "squuid": "5be1a6b8-98de-4c0d-9b48-eb9b190b09db",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 7.0,
-      "holder": {
-        "name": "Kanz, Heidi",
-        "squuid": "5be1a6b6-ae01-4bed-a1f4-6f0e83421d8b"
-      },
-      "squuid": "5be1a6b8-a6ad-4133-a6e0-dc29d7568c43",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 6.67,
-      "holder": {
-        "name": "Mößmer, Georg",
-        "squuid": "5be1a6b6-8e26-4bc4-95df-8018a7c81399"
-      },
-      "squuid": "5be1a6b8-803e-4180-9db1-ab223fe80b0f",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 6.67,
-      "holder": {
-        "name": "Mößmer, Ulrich",
-        "squuid": "5be1a6b6-3086-44d2-ac76-a99dfc84dc14"
-      },
-      "squuid": "5be1a6b8-1631-415d-b779-37b985a5becd",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "holder": {
-        "name": "Jäkel, Barbara",
-        "squuid": "5be1a6b6-a1f9-45d6-89fa-5261d4e6de35"
-      },
-      "squuid": "5be1a6b8-8cc6-495c-bf71-f44137bbbe11",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 9.0,
-      "holder": {
-        "name": "Mößmer, Jörg",
-        "squuid": "5be1a6b6-3f72-4a89-b451-89814352c24e"
-      },
-      "squuid": "5be1a6b8-9fde-4c6d-a41a-33a379b20760",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 8.0,
-      "holder": {
-        "name": "Mößmer, Marc",
-        "squuid": "5be1a6b6-ebee-4a56-a4cc-337368f2df1a"
-      },
-      "squuid": "5be1a6b8-1ce2-45e1-8806-83ce980f1490",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 6.0,
-      "holder": {
-        "name": "Mößmer, Paul",
-        "squuid": "5be1a6b6-56a7-48d8-9cab-c51e4d98110a"
-      },
-      "squuid": "5be1a6b8-3db4-4a92-bf58-96c64704a857",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.33,
-      "holder": {
-        "name": "Mößmer, Anton",
-        "squuid": "5d10bb99-ea71-4085-b64d-15488a914d61"
-      },
-      "squuid": "5d10bbb2-3637-4a8a-af0d-4590ec5fa8ed",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.33,
-      "holder": {
-        "name": "Mößmer, Wolfgang",
-        "squuid": "5d10bbf5-78ba-4d64-a667-5ede95a9280b"
-      },
-      "squuid": "5d10bc10-f1b5-4dc6-8c5c-1a07c10fd06a",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.0,
-      "holder": {
-        "name": "Stuhler-Eberl, Margret",
-        "squuid": "5d10bc67-d1fd-462b-b844-97b6c4f5c094"
-      },
-      "squuid": "5d10bc82-840a-4a48-8a19-9ace87b91813",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "J. Eberl Verwaltungs GmbH",
-        "squuid": "5eb13e38-3eb6-4041-b968-1aa21fd0f7a1"
-      },
-      "squuid": "5eb13e6f-d17e-43e5-bfef-2263b76f69ab",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
