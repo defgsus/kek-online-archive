@@ -17,7 +17,7 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Antenne Mecklenburg-Vorpommern  GmbH & Co. KG",
+        "name": "80s80s Audio GmbH & Co. KG ",
         "squuid": "5be1a6b6-ca2e-49f0-bf0e-f0ca2f445514"
       },
       "squuid": "60db177b-966d-4336-8080-816d8ecb16de",
@@ -26,6 +26,12 @@
   ],
   "name": "80s80s Radio (bundesweit)",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
@@ -39,7 +45,7 @@
   "platformOperators": [
     {
       "squuid": "5e7b9563-36c1-4183-8164-b7a93668ef85",
-      "name": "DAB+ Zweiter Bundesmux",
+      "name": "DAB+ Zweiter Bundesmux / Media Broadcast GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5e7b9563-aa09-44f1-90b5-e48a0d7359ea",
@@ -49,7 +55,7 @@
       "state": "active"
     }
   ],
-  "rfLicenseFrom": "ZAK",
-  "rfAddress": "80s80s\nAntenne Mecklenburg-Vorpommern GmbH & Co.KG\nRosa-Luxemburg-Straße 25/26\n18055 Rostock",
+  "rfLicenseFrom": "27.01.2021",
+  "rfAddress": "80s80s Audio GmbH & Co. KG\nRosa-Luxemburg-Straße 25/26\n18055 Rostock",
   "accessibilityEmail": "studio@80s80s.de "
 }
