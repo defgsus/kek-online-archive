@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Bonn",
   "pseudoCompany": false,
   "street": "Heinrich-Brüning-Straße",
@@ -10,44 +10,12 @@
   "streetNumber": "9",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "53113",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "katholisch.de",
-        "squuid": "5be1a6b1-9840-4c4a-a564-0890df78d181"
-      },
-      "squuid": "5be1a6b9-47c6-4e20-ab55-6728cce60145",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 49.0,
-      "holder": {
-        "name": "Tellux Beteiligungsgesellschaft mbH",
-        "squuid": "5be1a6b6-434a-4353-9b67-bb8a0bcf4412"
-      },
-      "squuid": "5be1a6b8-f8c4-414f-9c2f-bf6532ad8776",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 51.0,
-      "holder": {
-        "name": "medienhaus GmbH",
-        "squuid": "5be1a6b6-b0c8-4d49-ae95-26afde1ae8f5"
-      },
-      "squuid": "5be1a6b8-2cbb-406a-b6cb-5ba7d5f19146",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
