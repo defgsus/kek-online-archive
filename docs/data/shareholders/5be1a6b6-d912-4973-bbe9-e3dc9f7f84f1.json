@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Burchardstraße 11",
@@ -7,129 +7,15 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-d912-4973-bbe9-e3dc9f7f84f1",
-  "controlDate": "2024-05-16T10:22:16.205Z",
+  "controlDate": "2024-10-07T12:06:48.958Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "20095",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Fernsehwoche",
-        "squuid": "5be1a6b1-bff5-4960-bb4b-cc2cc971ae04"
-      },
-      "squuid": "5be1a6b9-b679-4602-b808-ac2450a061cb",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TV klar",
-        "squuid": "5be1a6b1-2280-4bf9-aa25-73b1d98e3770"
-      },
-      "squuid": "5be1a6b9-f7a9-4ba6-8fa4-8e006dcd5eb0",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TV-Movie",
-        "squuid": "5be1a6b1-b468-4587-893c-1f7f20ec5c22"
-      },
-      "squuid": "5be1a6b9-a702-40e3-8f48-3f483e7bbef8",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TV-Hören und Sehen",
-        "squuid": "5be1a6b1-ad09-4d5a-81e4-737c648ab53a"
-      },
-      "squuid": "5be1a6b9-cfe7-4621-b294-1dd22f323427",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "tv pur",
-        "squuid": "5be1a6b1-b231-4e09-a70e-553bda09a384"
-      },
-      "squuid": "5be1a6b9-808a-4e61-9810-25e5e327226d",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "tv 14",
-        "squuid": "5be1a6b1-6ce0-4752-9011-179c54ce83ef"
-      },
-      "squuid": "5be1a6b9-1831-4c26-8e85-db498a495728",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TV-Movie digital XXL",
-        "squuid": "5be1a6b1-a71b-4024-9110-9d24fc1fa0e0"
-      },
-      "squuid": "5be1a6b9-4b34-47ea-b547-9f0e4c0411c1",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "mein tv & ich",
-        "squuid": "5be1a6b1-4986-441f-904e-83988de95042"
-      },
-      "squuid": "5be1a6b9-f040-4522-80ad-419fa31a02fe",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "tv!top",
-        "squuid": "5be1a6b1-050a-4905-ac90-b5e41f665888"
-      },
-      "squuid": "5be1a6b9-b1c1-4999-94cc-32e9bd23f280",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TV-Movie Stream XXL",
-        "squuid": "618cfeb4-1215-48ae-bfb2-1aefeb71d0ce"
-      },
-      "squuid": "618cff0c-b9a3-4eb3-a2c5-8336e15380e4",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Heinrich Bauer Verlag KG",
-        "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2"
-      },
-      "squuid": "5be1a6b8-e172-497e-af15-1c71dcdd1c24",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Bauer Komplementär KG",
-        "squuid": "5eaffda5-a775-4f8a-9124-c01ded28585e"
-      },
-      "squuid": "5eb4148a-0855-4d51-a030-856e36f46da8",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
