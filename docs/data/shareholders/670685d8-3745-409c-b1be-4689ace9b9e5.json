@@ -1,0 +1,74 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Ritterstr.",
+  "name": "VIUS SE & Co. KGaA",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "670685d8-3745-409c-b1be-4689ace9b9e5",
+  "controlDate": "2024-10-09T13:34:56.699Z",
+  "streetNumber": "24-27",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10969",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.nius.de",
+        "squuid": "67068646-76fa-4f3d-92e2-cbeb87adbb26"
+      },
+      "squuid": "67068665-83a9-44dd-bb64-a7a2798cd79c",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 88.48,
+      "holder": {
+        "name": "GT4 Software und Beteiligung GmbH",
+        "squuid": "670687fd-a3be-4ffa-a6ca-c8f1ed1f521c"
+      },
+      "squuid": "67068863-ac9d-4476-acbb-f9fda56643a1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.8,
+      "holder": {
+        "name": "Opitz, Christian",
+        "squuid": "5be1a6b6-a243-47b3-8925-6c1da28f468f"
+      },
+      "squuid": "6706887b-7ab5-4e24-8d6e-3d203864dde6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.73,
+      "holder": {
+        "name": "Reichelt, Julian",
+        "squuid": "67068793-fc67-4325-a069-7982f9ac72b8"
+      },
+      "squuid": "67068894-26f4-4380-af97-01c7c8e05cd5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "VIUS Management SE",
+        "squuid": "670685f7-bc03-45ba-9686-5077c6935ee8"
+      },
+      "squuid": "670688a8-3d68-4af9-a682-dffccf454337",
+      "state": "active"
+    }
+  ]
+}
