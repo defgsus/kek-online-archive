@@ -2,13 +2,13 @@
   "state": "active",
   "city": "Berlin",
   "pseudoCompany": false,
-  "street": "Alte Jakobstraße",
-  "name": "BerlinOnline Stadtportal GmbH & Co KG",
+  "street": "Stefan-Heym-Platz",
+  "name": "BerlinOnline GmbH",
   "naturalPerson": false,
-  "limitedPartnership": true,
+  "limitedPartnership": false,
   "squuid": "5be1a6b6-dbdd-4f32-a492-879ed8cbd212",
   "controlDate": "2024-05-17T09:00:16.389Z",
-  "streetNumber": "105",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -16,7 +16,7 @@
       "type": "organization"
     }
   ],
-  "zipcode": "10969",
+  "zipcode": "10367",
   "operates": [
     {
       "type": "operate",
@@ -38,17 +38,6 @@
         "squuid": "5be1a6b6-bc76-4f3b-953a-a3d36f915c96"
       },
       "squuid": "5be1a6b8-1de6-4f65-a093-0ed42c8ff149",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "BerlinOnline Stadtportalbeteiligungsgesellschaft mbH",
-        "squuid": "5ef07d00-25ca-4ed0-b861-9492cd326d4c"
-      },
-      "squuid": "5ef07d2c-682b-48a7-b7bf-7b3a7457c51d",
       "state": "active"
     }
   ]
