@@ -2,15 +2,26 @@
   "name": "Müller, Thomas",
   "pseudoCompany": false,
   "squuid": "5f6875fe-e79f-437a-831b-cf4a4c8ffad4",
-  "city": "Otterfing",
-  "organizations": [
+  "owns": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "TM Vision GmbH",
+        "squuid": "670e3ccc-8d31-4ed6-a4c1-44a3fe730d06"
+      },
+      "squuid": "670e3dd5-2ac5-4deb-800f-c28135b798d4",
+      "state": "active"
     }
   ],
+  "city": "Rosenheim",
   "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
   "naturalPerson": true
 }

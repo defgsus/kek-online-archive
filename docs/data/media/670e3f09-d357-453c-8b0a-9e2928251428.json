@@ -1,0 +1,74 @@
+{
+  "rfRepresentative": "Inga Leschek, Stephan Schmitter",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Daniela Hansjosten",
+  "rfStartDate": "Mitte 2024",
+  "rfFreePay": false,
+  "squuid": "670e3f09-d357-453c-8b0a-9e2928251428",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://plus.rtl.de",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RTL Television GmbH",
+        "squuid": "5be1a6b6-7542-41b4-ab53-17975a930698"
+      },
+      "squuid": "670e420e-e065-4b7e-b3b7-523b3581a617",
+      "state": "active"
+    }
+  ],
+  "name": "RTL+ Themen-Sender",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+    "name": "LFM NRW",
+    "type": "organization",
+    "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+  },
+  "description": "Das Multi-Channel-Network-Angebot „RTL+ Themen-Sender“ umfasst acht werbefinanzierte lineare FAST-Channels („Free Ad-Supported Streaming Television“) mit beliebten Unterhaltungsformaten der RTL-Sendergruppe aus den letzten Jahren bzw. Jahrzehnten. Die Verbreitung erfolgt über den Streaming-Dienst RTL+. ",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "09.07.2024",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-f63e-4813-b5ec-d3aebfc4f468",
+      "name": "RTL+ / RTL interactive GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "09.07.2024",
+  "accessibilityEmail": "webmaster@rtlinteractive.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

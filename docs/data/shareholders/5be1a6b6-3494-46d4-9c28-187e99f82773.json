@@ -1,26 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 8.5,
-      "held": {
-        "name": "OVR Vermögensverwaltung GmbH & Co KG",
-        "squuid": "5be1a6b6-59fc-4841-889e-439fd00581ed"
-      },
-      "squuid": "5be1a6b8-a5a1-4e3c-b35a-218ec590c581",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 8.4,
-      "held": {
-        "name": "OVR Verwaltungs GmbH",
-        "squuid": "5ebba510-fc42-4a44-8b8f-b74b4dc61426"
-      },
-      "squuid": "5f0ed4ee-ac70-47a0-b9a0-f90db14433e8",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Murnau",
   "pseudoCompany": false,
@@ -30,45 +8,10 @@
   "controlDate": "2019-08-02T13:52:01.872Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
-      "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
-    },
-    {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
     }
   ],
   "credits": "IJK"
