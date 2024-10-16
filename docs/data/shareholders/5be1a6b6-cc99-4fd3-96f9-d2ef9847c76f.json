@@ -64,22 +64,10 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
-      "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
-    },
-    {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
     },
     {
       "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
@@ -127,16 +115,6 @@
         "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
       },
       "squuid": "5be1a6b7-d860-42f6-aa25-677fa4eac2d8",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.19,
-      "holder": {
-        "name": "Heinrich Delp GmbH",
-        "squuid": "5be1a6b6-8648-48ef-80fd-95a81989ad79"
-      },
-      "squuid": "5be1a6b7-4a93-40b7-a72d-1290e65b4a06",
       "state": "active"
     },
     {
@@ -191,16 +169,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 2.94,
-      "holder": {
-        "name": "Der neue Tag - Oberpfälzischer Kurier Druck- und Verlagshaus GmbH",
-        "squuid": "5be1a6b6-ad84-44f3-8258-e132afd0a441"
-      },
-      "squuid": "5be1a6b7-b20f-4b7f-83e3-eb22caf0161d",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 2.71,
       "holder": {
         "name": "Frankenpost Verlag GmbH",
@@ -237,16 +205,6 @@
         "squuid": "5be1a6b6-311b-4fe2-a7ef-15fbffd2750d"
       },
       "squuid": "5be1a6b7-4d98-45de-ab3b-139551f5d56b",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.25,
-      "holder": {
-        "name": "Pfeiffer Verlag und Medienservice GmbH & Co. KG",
-        "squuid": "5be1a6b6-ef99-4634-836e-dfecf0d08f20"
-      },
-      "squuid": "5be1a6b7-c6fe-4c5d-a60d-bfd89a703a5a",
       "state": "active"
     },
     {
@@ -371,26 +329,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.09,
-      "holder": {
-        "name": "Keltsch, Martin",
-        "squuid": "5d109d60-e301-4ea4-8a9b-03145ee47bdd"
-      },
-      "squuid": "5d109d8c-a2fb-4acb-9d79-66acaf1a3e96",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.21,
-      "holder": {
-        "name": "Hubert Gerhart e. K.",
-        "squuid": "5d109562-a6a5-48b5-9654-e79c404d1d9e"
-      },
-      "squuid": "5d10bdbf-75fa-41bb-a816-1cf8498699d7",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 2.54,
       "holder": {
         "name": "DK Medien GmbH & Co. KG",
@@ -442,16 +380,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.34,
-      "holder": {
-        "name": "Volkhardt, Hansjörg",
-        "squuid": "5be1a6b6-f2a9-4c9e-9806-ded6360d7d06"
-      },
-      "squuid": "60a67677-8e80-43ff-b00a-06d3df6bdbc9",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 8.07,
       "holder": {
         "name": "Merkur tz Redaktions GmbH & Co. KG",
@@ -488,6 +416,36 @@
         "squuid": "6182a8c5-5829-4a5d-89e7-50633e76656e"
       },
       "squuid": "62d7d437-530c-456e-bb26-17108d2f835f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.55,
+      "holder": {
+        "name": "mgo Lokale Medien GmbH & Co KG",
+        "squuid": "5be1a6b6-1ba9-4404-8b0b-eacd59f83952"
+      },
+      "squuid": "66bc8d77-8072-4ec9-9b2b-c6d3b32c9f1b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.97,
+      "holder": {
+        "name": "Oberpfalz Medien GmbH",
+        "squuid": "65b6866a-f884-460f-80fa-ea8ebc0a2f01"
+      },
+      "squuid": "66bc9c6c-f704-43a7-a9a5-4aea99c9ebd2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.25,
+      "holder": {
+        "name": "Hersbrucker Zeitung GmbH Verlag und Medienservice",
+        "squuid": "5ece622d-407b-4752-8c14-978522219ca4"
+      },
+      "squuid": "66bdb3ef-02b6-4254-b4e0-f84a637adc13",
       "state": "active"
     }
   ]

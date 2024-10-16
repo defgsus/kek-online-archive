@@ -1,13 +1,52 @@
 {
   "name": "big FM in Baden-Württemberg GmbH & Co. KG",
   "squuid": "66fd2eb7-3324-4b3c-bc5d-6b986f5223db",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 19.0,
+      "held": {
+        "name": "Audiotainment Südwest GmbH & Co. KG",
+        "squuid": "6023df17-5ffb-4374-a0dd-4013ac8b5f6f"
+      },
+      "squuid": "66fd2ee8-8d58-4ebd-b69e-3ceb4f4cf3f0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.0,
+      "held": {
+        "name": "Audiotainment Südwest Verwaltungs-GmbH",
+        "squuid": "6059f9d1-7500-4287-be63-5ed896c0498b"
+      },
+      "squuid": "66fd32c2-11dd-4101-bad3-7f01b4f39aec",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ]
 }

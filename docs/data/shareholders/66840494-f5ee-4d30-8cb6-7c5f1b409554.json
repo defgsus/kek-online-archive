@@ -1,5 +1,6 @@
 {
   "name": "Schlegel, Christian",
+  "pseudoCompany": false,
   "squuid": "66840494-f5ee-4d30-8cb6-7c5f1b409554",
   "owns": [
     {
@@ -11,8 +12,19 @@
       },
       "squuid": "668404cf-beef-4f9f-99d5-64d126a442df",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.5,
+      "held": {
+        "name": "OVR Vermögensverwaltung GmbH & Co KG",
+        "squuid": "5be1a6b6-59fc-4841-889e-439fd00581ed"
+      },
+      "squuid": "66fbe40d-54db-423c-816e-c7615075e450",
+      "state": "active"
     }
   ],
+  "city": "Ohlstadt",
   "state": "active",
   "organizations": [
     {
@@ -27,22 +39,10 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
-      "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
-    },
-    {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
     },
     {
       "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
@@ -56,5 +56,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Mecklenburg-Vorpommern"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

@@ -1,5 +1,6 @@
 {
   "name": "BVG Familienstiftung",
+  "pseudoCompany": false,
   "squuid": "65254565-7c66-4b64-a3f6-230a39ffa25a",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Gütersloh",
   "state": "active",
   "organizations": [
     {
@@ -48,12 +50,6 @@
       "name": "Medienanstalt Hessen",
       "type": "organization",
       "fullName": "Medienanstalt Hessen"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
     },
     {
       "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
@@ -109,5 +105,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": false
 }
