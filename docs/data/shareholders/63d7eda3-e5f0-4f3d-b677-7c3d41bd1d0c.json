@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 31.49,
-      "held": {
-        "name": "Combi Medien Verlag GmbH",
-        "squuid": "63d7e81d-a65c-405c-a6ad-5e0fd97310b1"
-      },
-      "squuid": "63d7edc3-4659-40e1-806c-bce23c846437",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Darmstadt",
   "pseudoCompany": false,
   "street": "Marktplatz",
@@ -22,22 +10,11 @@
   "streetNumber": "3",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "64283",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Diehl, Ulrich",
-        "squuid": "63d7ee7c-2461-4879-ab80-07c0474f8df9"
-      },
-      "squuid": "63d7ee90-9542-46e4-8859-78551e92c948",
-      "state": "active"
-    }
-  ]
+  "zipcode": "64283"
 }
