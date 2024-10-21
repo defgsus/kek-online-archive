@@ -1,16 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "daskochrezept.de GmbH",
-        "squuid": "5be1a6b6-0753-4c6a-a206-739f9c22fcc8"
-      },
-      "squuid": "5be1a6b8-6cd4-48e1-90e9-400d2c9d9c38",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Offenburg",
   "pseudoCompany": false,
@@ -531,6 +519,15 @@
         "squuid": "5be1a6b1-8c70-4e27-9932-39858791605d"
       },
       "squuid": "670fd1bb-f70a-4074-8bd0-ea00d31c41e2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.daskochrezept.de",
+        "squuid": "5be1a6b1-8182-41e3-a08c-88208f97a834"
+      },
+      "squuid": "6716234c-ebf0-420c-a77a-d7099c2fbcd6",
       "state": "active"
     }
   ],

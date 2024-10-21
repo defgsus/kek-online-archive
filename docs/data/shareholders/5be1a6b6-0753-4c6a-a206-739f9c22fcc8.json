@@ -1,43 +1,21 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Offenburg",
   "pseudoCompany": false,
   "street": "Hubert Burda Platz",
   "name": "daskochrezept.de GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-0753-4c6a-a206-739f9c22fcc8",
-  "controlDate": "2024-05-24T11:54:06.156Z",
+  "controlDate": "2024-10-21T09:45:17.382Z",
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "77652",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.daskochrezept.de",
-        "squuid": "5be1a6b1-8182-41e3-a08c-88208f97a834"
-      },
-      "squuid": "5be1a6b9-f1b9-442b-b5da-c4e8b1878bcb",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "BurdaVerlag Publishing GmbH",
-        "squuid": "5be1a6b6-1fcb-4c6c-8d25-0c516c0ca8fc"
-      },
-      "squuid": "5be1a6b8-6cd4-48e1-90e9-400d2c9d9c38",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
