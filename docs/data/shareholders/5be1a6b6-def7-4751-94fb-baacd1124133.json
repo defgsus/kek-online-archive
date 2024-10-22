@@ -1,72 +1,21 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Infanteriestraße",
   "name": "Deutsche Golf online GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-def7-4751-94fb-baacd1124133",
-  "controlDate": "2024-05-28T13:47:37.735Z",
+  "controlDate": "2024-10-22T11:12:55.166Z",
   "streetNumber": "19",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "80797",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.golf.de",
-        "squuid": "5be1a6b1-ee7d-43fd-83a2-5f9cbb052353"
-      },
-      "squuid": "5be1a6b9-e47e-40c2-b0ab-7d197b995b2c",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.mygolf.de",
-        "squuid": "6214d3db-91cf-471d-9514-70e4c5e527d2"
-      },
-      "squuid": "6214d3fc-39c3-439a-8611-63d19309228d",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "holder": {
-        "name": "DGS Deutsche Golf Sport GmbH",
-        "squuid": "5be1a6b6-d55c-4e9a-b5c7-6ab4048d2b34"
-      },
-      "squuid": "5be1a6b8-b54c-43c5-9243-02176002f04c",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "holder": {
-        "name": "Intermag Publishing GmbH",
-        "squuid": "5be1a6b6-b1b4-4c9a-ab87-e55e29e2dc58"
-      },
-      "squuid": "5be1a6b8-4b82-4e81-bf7a-5cae30394287",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 80.0,
-      "holder": {
-        "name": "Sporthouse.de AG",
-        "squuid": "5be1a6b6-d503-4989-bfd6-e8b3cd3b21cf"
-      },
-      "squuid": "5be1a6b8-3e70-41c3-8098-d0d41d725d22",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

@@ -1,16 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "held": {
-        "name": "Deutsche Golf online GmbH",
-        "squuid": "5be1a6b6-def7-4751-94fb-baacd1124133"
-      },
-      "squuid": "5be1a6b8-b54c-43c5-9243-02176002f04c",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Wiesbaden",
   "pseudoCompany": false,
@@ -27,6 +15,17 @@
     }
   ],
   "zipcode": "65205",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.golf.de",
+        "squuid": "5be1a6b1-ee7d-43fd-83a2-5f9cbb052353"
+      },
+      "squuid": "67178a60-dcc4-4ae2-9f97-9fcda5172221",
+      "state": "active"
+    }
+  ],
   "credits": "IJK",
   "ownedBy": [
     {
