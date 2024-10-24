@@ -7,7 +7,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5f3b9ffe-c0e8-4d94-9b7c-bb85a02a4e60",
-  "controlDate": "2024-05-29T15:24:32.020Z",
+  "controlDate": "2024-10-24T14:42:33.932Z",
   "streetNumber": "1a",
   "organizations": [
     {
@@ -39,17 +39,6 @@
   ],
   "ownedBy": [
     {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "GT Medien GmbH",
-        "squuid": "5be1a6b6-58b8-4a65-8b14-5449b8fdc44f"
-      },
-      "squuid": "5f3ba0cd-f8b8-4b5f-b711-118f029be5c6",
-      "state": "active"
-    },
-    {
       "type": "own",
       "capitalShares": 100.0,
       "holder": {
@@ -57,6 +46,17 @@
         "squuid": "5be1a6b6-6c3a-4c2b-87b8-dadd135a3cc0"
       },
       "squuid": "5f3ba0da-d2a6-4ace-969c-55792020cf7b",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "GT Medien GmbH",
+        "squuid": "66bf3fc5-4a3a-4704-b3fe-c9fd0d8895e0"
+      },
+      "squuid": "66bf4041-ae91-446e-b314-22abd0d093d1",
       "state": "active"
     }
   ]

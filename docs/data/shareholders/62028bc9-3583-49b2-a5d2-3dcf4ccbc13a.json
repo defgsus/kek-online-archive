@@ -1,16 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "dreipunktdrei mediengesellschaft mbH",
-        "squuid": "62028a8c-c77a-4a43-8311-ecc03cd03628"
-      },
-      "squuid": "62028bed-b488-426b-9fe1-80358d570d53",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Bonn",
   "pseudoCompany": false,
@@ -36,6 +24,15 @@
         "squuid": "5be1a6b1-3bce-47ec-a4ba-52a0dc16f8f5"
       },
       "squuid": "66fbef83-6561-47bd-9905-714555873df7",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.filmdienst.de",
+        "squuid": "62028a9b-e5a3-400f-9043-f25f9064e017"
+      },
+      "squuid": "671a5983-bc1a-40c3-a277-4a1919273426",
       "state": "active"
     }
   ],
