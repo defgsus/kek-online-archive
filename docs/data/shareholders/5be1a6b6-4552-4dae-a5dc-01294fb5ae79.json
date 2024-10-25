@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Ostheim",
   "pseudoCompany": false,
   "street": "Paulinenstr. 32",
@@ -9,34 +9,12 @@
   "controlDate": "2024-05-30T10:10:51.882Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "97645",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Ostheimer Zeitung",
-        "squuid": "5be1a6b1-aa32-4ff5-9099-cbd03b48dca6"
-      },
-      "squuid": "5be1a6b9-6f45-430b-a5d6-7ec9144d6557",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Gunzenheimer, Volker",
-        "squuid": "5be1a6b6-3c46-4ae9-a9b8-d4909b5b0d89"
-      },
-      "squuid": "5be1a6b8-967b-4ad3-833d-3b00b486fd71",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

@@ -19,7 +19,7 @@
   "name": "DuMont Geschäftsführungs-GmbH",
   "naturalPerson": false,
   "squuid": "5eb93ea2-35af-42b3-83e8-7ab82c60f966",
-  "controlDate": "2024-05-30T11:28:08.971Z",
+  "controlDate": "2024-10-25T11:24:20.740Z",
   "streetNumber": "192",
   "organizations": [
     {
@@ -44,7 +44,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 45.0,
       "holder": {
         "name": "Neven DuMont, Isabella",
         "squuid": "5be1a6b6-351c-4df6-87c8-7ac43baaf472"
@@ -54,12 +54,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 45.0,
       "holder": {
         "name": "DuMont Schütte, Christian",
         "squuid": "5be1a6b6-7f77-4f7b-975f-a4787e195a69"
       },
       "squuid": "5ef1c9b7-f606-4781-997e-aed4eabf1aab",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Bauer, Dr. Christoph",
+        "squuid": "66586287-b715-41e0-b12e-4695d8ab8df0"
+      },
+      "squuid": "665862f6-77ce-4179-8f9a-d7f2a45f96f0",
       "state": "active"
     }
   ]
