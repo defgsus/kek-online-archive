@@ -12,16 +12,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Echo Zeitungen GmbH",
-        "squuid": "5be1a6b6-efc8-47d9-8b22-b1cb175ddbbe"
-      },
-      "squuid": "5be1a6b8-7fb7-4fd0-97d5-92dedce2e64c",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 1.33,
       "held": {
         "name": "dpa Deutsche Presse Agentur GmbH",
@@ -35,10 +25,10 @@
   "city": "Darmstadt",
   "pseudoCompany": false,
   "street": "Berliner Allee",
-  "name": "Echo Medien GmbH",
+  "name": "Echo Zeitungen GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-7b81-4b50-8e0f-4291b6790d20",
-  "controlDate": "2024-05-30T14:35:23.063Z",
+  "controlDate": "2024-10-28T09:56:19.902Z",
   "streetNumber": "65",
   "organizations": [
     {
@@ -60,6 +50,62 @@
     }
   ],
   "zipcode": "64295",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Darmstädter Echo",
+        "squuid": "5be1a6b1-9281-4210-8d98-f96847fe990e"
+      },
+      "squuid": "671f621a-cb8d-480a-b82b-3c73dc8e1515",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Echo am Sonntag",
+        "squuid": "66993f3b-4091-4cc8-828c-4c37bc42e311"
+      },
+      "squuid": "671f624e-9bf8-4533-b6ed-5b5dd27c337d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Groß-Gerauer Echo",
+        "squuid": "5be1a6b1-01da-4609-86ad-5c89d530a8d9"
+      },
+      "squuid": "671f62c3-1b07-4e81-b6f0-8f9d551ce2ed",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Odenwälder Echo",
+        "squuid": "5be1a6b1-c52e-4aab-ae74-c88374e4cf29"
+      },
+      "squuid": "671f630d-e76e-4fd8-9ac8-eb644a5c7d76",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Starkenburger Echo",
+        "squuid": "5be1a6b1-3f20-4d90-a4cf-d22928a66f97"
+      },
+      "squuid": "671f6421-f494-4b49-9610-91830a3aa55d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.vrm-wochenblaetter.de",
+        "squuid": "63d01d14-eebe-4395-9dc5-6056b961d37f"
+      },
+      "squuid": "671f64ee-b5ad-4236-b500-62105a880dc7",
+      "state": "active"
+    }
+  ],
   "credits": "IJK",
   "ownedBy": [
     {
@@ -76,7 +122,7 @@
       "type": "own",
       "capitalShares": 2.55,
       "holder": {
-        "name": "Eigenbesitz der Echo Medien GmbH",
+        "name": "Eigenbesitz der Echo Zeitungen GmbH",
         "squuid": "5be1a6b6-5df9-4378-9e5d-ea9f45d85db1"
       },
       "squuid": "5be1a6b8-3c91-447b-87ba-c50b8715f1c2",

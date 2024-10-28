@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Echo Anzeigenblatt GmbH & Co. KG",
-        "squuid": "63ce860b-dae7-416d-8183-e053a5edaf63"
-      },
-      "squuid": "63ce870e-cf88-4766-9a7f-86753c3b1c06",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Esslingen",
   "pseudoCompany": false,
   "street": "Zeppelinstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "116",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "73730",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Bechtle Graphische Betriebe und Verlagsgesellschaft GmbH & Co KG",
-        "squuid": "5be1a6b6-4792-466e-ae6c-b124e9c6b4ba"
-      },
-      "squuid": "63ce8872-15dc-448f-aec7-c79bc51ab016",
-      "state": "active"
-    }
-  ]
+  "zipcode": "73730"
 }

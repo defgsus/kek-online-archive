@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Bergisch-Gladbach",
+  "pseudoCompany": false,
+  "street": "Parkstr.",
+  "name": "emotion GmbH",
+  "naturalPerson": false,
+  "squuid": "671f9920-013d-4233-b27e-800eb64e5961",
+  "controlDate": "2024-10-28T14:07:50.618Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "51427",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Emotion",
+        "squuid": "5be1a6b1-46c1-4581-85a6-216e775f6bfa"
+      },
+      "squuid": "671f9997-072c-4d8f-b8bd-8c9d9e58b863",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.emotion.de",
+        "squuid": "5be1a6b1-fe0b-4ce6-8f0d-a8a54042af25"
+      },
+      "squuid": "671f9a92-90a4-4aee-9f24-d4afbeef88ec",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Busch, Patrizia",
+        "squuid": "671f9b89-4773-4fdf-894c-4fed59aa1909"
+      },
+      "squuid": "671f9b9d-3108-414f-8607-0ae81b1dcb9f",
+      "state": "active"
+    }
+  ]
+}

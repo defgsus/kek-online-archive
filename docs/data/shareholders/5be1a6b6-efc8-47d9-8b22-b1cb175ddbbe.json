@@ -1,109 +1,21 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 0.05,
-      "held": {
-        "name": "OMS-Online Marketing Service GmbH & Co. KG",
-        "squuid": "6082ac61-e251-4ed7-b875-a96ae933da5b"
-      },
-      "squuid": "6086a6d2-6b4b-450c-8de9-7485c40ae40d",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Darmstadt",
   "pseudoCompany": false,
   "street": "Berliner Allee",
   "name": "Echo Zeitungen GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-efc8-47d9-8b22-b1cb175ddbbe",
-  "controlDate": "2024-05-30T15:13:51.704Z",
+  "controlDate": "2024-10-28T09:43:59.404Z",
   "streetNumber": "65",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "64295",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Darmstädter Echo",
-        "squuid": "5be1a6b1-9281-4210-8d98-f96847fe990e"
-      },
-      "squuid": "5be1a6b9-26c3-49a9-9881-4927e40da3a0",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Odenwälder Echo",
-        "squuid": "5be1a6b1-c52e-4aab-ae74-c88374e4cf29"
-      },
-      "squuid": "5be1a6b9-f2bc-4e29-8a57-4a90644ab5ef",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Starkenburger Echo",
-        "squuid": "5be1a6b1-3f20-4d90-a4cf-d22928a66f97"
-      },
-      "squuid": "5be1a6b9-71bf-4024-a846-97eb95d5052e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Groß-Gerauer Echo",
-        "squuid": "5be1a6b1-01da-4609-86ad-5c89d530a8d9"
-      },
-      "squuid": "5be1a6b9-6e92-4c92-a6a0-2337a385d08e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.suewo.de",
-        "squuid": "63d7f196-1006-4fbc-966e-9d26dcc3c905"
-      },
-      "squuid": "63d7f1b0-e7f1-4a18-be22-10456778e954",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.vrm-wochenblaetter.de",
-        "squuid": "63d01d14-eebe-4395-9dc5-6056b961d37f"
-      },
-      "squuid": "63e27e0c-7ad8-4767-96ef-3b3120c18c91",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Echo am Sonntag",
-        "squuid": "66993f3b-4091-4cc8-828c-4c37bc42e311"
-      },
-      "squuid": "66993f83-2705-4b3d-bdf7-43ee45cf4e11",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Echo Medien GmbH",
-        "squuid": "5be1a6b6-7b81-4b50-8e0f-4291b6790d20"
-      },
-      "squuid": "5be1a6b8-7fb7-4fd0-97d5-92dedce2e64c",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

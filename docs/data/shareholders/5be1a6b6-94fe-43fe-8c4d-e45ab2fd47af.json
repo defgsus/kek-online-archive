@@ -18,7 +18,7 @@
   "name": "Elmar Wibmer OHG",
   "naturalPerson": true,
   "squuid": "5be1a6b6-94fe-43fe-8c4d-e45ab2fd47af",
-  "controlDate": "2024-05-31T13:57:09.529Z",
+  "controlDate": "2024-10-28T13:36:13.850Z",
   "streetNumber": "28",
   "organizations": [
     {
@@ -39,5 +39,57 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "84503"
+  "zipcode": "84503",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Wibmer, Elmar",
+        "squuid": "6659d678-8d54-4707-ae59-51ec59c4288b"
+      },
+      "squuid": "6659d6f7-1bd6-4d9c-b7ed-71ab8335d184",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Wibmer, Andrea",
+        "squuid": "6659d6a4-c96c-4034-ba44-c1bd05d3ff25"
+      },
+      "squuid": "6659d708-d793-44bc-9dc1-5999272fd7fa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Wibmer, Benedikt",
+        "squuid": "6659d68d-3913-447c-83d7-2fe6d8fbe980"
+      },
+      "squuid": "6659d718-45d8-44ec-b810-77cce73e5d5b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Wibmer, Dr. Angelika",
+        "squuid": "6659d6b7-69fe-4630-99ed-42a7b19d916d"
+      },
+      "squuid": "6659d724-2657-4a05-8746-8105febe9880",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Strehle, Barbara",
+        "squuid": "6659d6ce-8ddd-4d38-9df2-60a68997b4ca"
+      },
+      "squuid": "6659d730-3297-4973-8c47-7670831465a9",
+      "state": "active"
+    }
+  ]
 }
