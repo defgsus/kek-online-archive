@@ -18,7 +18,7 @@
   "name": "Genius Beteiligungs GmbH",
   "naturalPerson": false,
   "squuid": "65b0fcc0-e55f-4a91-a91a-0ce711abf38b",
-  "controlDate": "2024-06-06T13:57:07.923Z",
+  "controlDate": "2024-11-05T15:21:41.332Z",
   "streetNumber": "8",
   "organizations": [
     {
@@ -32,5 +32,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "65549"
+  "zipcode": "65549",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Genius Holding GmbH & Co. KG",
+        "squuid": "65b0fcd3-901c-480f-b3b0-82d9eff27f96"
+      },
+      "squuid": "6661c030-8d28-4451-a599-0aabf720c72d",
+      "state": "active"
+    }
+  ]
 }

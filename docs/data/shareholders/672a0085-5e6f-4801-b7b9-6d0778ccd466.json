@@ -1,0 +1,27 @@
+{
+  "name": "Streubesitz an der gamigo AG",
+  "pseudoCompany": true,
+  "squuid": "672a0085-5e6f-4801-b7b9-6d0778ccd466",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.0,
+      "held": {
+        "name": "gamigo AG",
+        "squuid": "5be1a6b6-55c7-411b-9b3b-109da24406b3"
+      },
+      "squuid": "672a01e7-e0da-4541-8277-c8fa29bea1ab",
+      "state": "active",
+      "votingShares": 6.0
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "naturalPerson": false
+}
