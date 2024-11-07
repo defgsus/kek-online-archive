@@ -1,18 +1,36 @@
 {
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "DRF Deutschland Fernsehen Produktions GmbH & Co. KG",
+        "squuid": "5f3b9ffe-c0e8-4d94-9b7c-bb85a02a4e60"
+      },
+      "squuid": "672caa58-bb0a-4bc4-9a85-c4bb2dfd210d",
+      "state": "active"
+    }
+  ],
   "state": "active",
-  "city": "",
+  "city": "Koblenz",
   "pseudoCompany": false,
-  "street": "",
+  "street": "August-Horch-Str.",
   "name": "GT Medien GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-58b8-4a65-8b14-5449b8fdc44f",
   "otherMediaActivities": "",
-  "controlDate": "2024-06-10T08:51:16.506Z",
-  "streetNumber": "",
+  "controlDate": "2024-11-07T12:00:26.143Z",
+  "streetNumber": "28",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
       "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
       "type": "organization"
     },
     {
@@ -22,7 +40,7 @@
       "fullName": "Medienanstalt Rheinland-Pfalz"
     }
   ],
-  "zipcode": "",
+  "zipcode": "56070",
   "operates": [
     {
       "type": "operate",
