@@ -10,9 +10,20 @@
     "type": "organization",
     "fullName": "Medienanstalt Berlin-Brandenburg"
   },
-  "accessibilityUrl": "http://www.radio.slubfurt.net/",
+  "accessibilityUrl": "www.radioslubfurt.de",
   "rfStatewide": false,
-  "name": "Radio Slubfurt / Radio Kombinat Brandenburg",
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Freies BürgerRadio Slubfurt e.V.",
+        "squuid": "67323fa2-7aeb-4a86-a7d9-dd028db7aaa5"
+      },
+      "squuid": "67323fcd-5406-40cd-9a7e-910bf1b3446c",
+      "state": "active"
+    }
+  ],
+  "name": "Radio Slubfurt",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
     "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -28,8 +39,8 @@
     "fullName": "Medienanstalt Berlin-Brandenburg"
   },
   "description": "Nichtkommerzielles Hörfunkprogramm",
-  "rfLicenseUntil": "31.01.2026",
-  "rfLicensed": "21.02.2019",
+  "rfLicenseUntil": "30.06.2030",
+  "rfLicensed": "21.10.2024",
   "platformOperators": [
     {
       "squuid": "5be1a6b0-ec5e-4d1d-aeab-25f09a97bf67",

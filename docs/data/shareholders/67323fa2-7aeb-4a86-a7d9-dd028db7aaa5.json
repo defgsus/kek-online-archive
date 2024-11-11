@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "city": "Frankfurt (Oder)",
+  "supplierConsortium": true,
+  "pseudoCompany": false,
+  "street": "Am Kleistpark",
+  "name": "Freies BürgerRadio Slubfurt e.V.",
+  "naturalPerson": false,
+  "co": "c/o Frank Bretag",
+  "squuid": "67323fa2-7aeb-4a86-a7d9-dd028db7aaa5",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "15230",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Slubfurt",
+        "squuid": "5cb485a1-307e-408c-802d-45d7bbe191f8"
+      },
+      "squuid": "67323fcd-5406-40cd-9a7e-910bf1b3446c",
+      "state": "active"
+    }
+  ]
+}
