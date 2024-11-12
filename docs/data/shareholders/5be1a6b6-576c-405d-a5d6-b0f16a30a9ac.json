@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-576c-405d-a5d6-b0f16a30a9ac",
-  "controlDate": "2024-06-12T10:15:09.845Z",
+  "controlDate": "2024-11-12T13:16:29.674Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -37,11 +37,11 @@
   "zipcode": "95028",
   "ownedBy": [
     {
-      "complementaryPartner": true,
+      "complementaryPartner": false,
       "type": "own",
-      "capitalShares": 0.0,
+      "capitalShares": 51.0,
       "holder": {
-        "name": "Hoermann, Stefan",
+        "name": "Hoermann, Stephan",
         "squuid": "60d490a3-4b25-443d-86a8-caf99b3c575c"
       },
       "squuid": "60d490cc-d481-4af8-aa9f-a989df705fc4",
@@ -49,12 +49,23 @@
     },
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 49.0,
       "holder": {
         "name": "Hoermann, Matthias",
         "squuid": "60d490b1-9cac-48d7-8046-5fe3e1e11ca0"
       },
       "squuid": "60d490dc-5ee8-40e8-9f76-39d8be928757",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "HV Oberer Torplatz GmbH",
+        "squuid": "666975db-61c8-424e-8f54-dd5ae0534419"
+      },
+      "squuid": "666975f6-06aa-49ab-aa7b-290b23ab7f54",
       "state": "active"
     }
   ]

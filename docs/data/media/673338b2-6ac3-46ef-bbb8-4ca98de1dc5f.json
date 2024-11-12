@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "squuid": "673338b2-6ac3-46ef-bbb8-4ca98de1dc5f",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Westfalen-Blatt Vereinigte Zeitungsverlage GmbH & Co. KG",
+        "squuid": "5e1dbf05-b346-426d-a4eb-cfe11f1b031f"
+      },
+      "squuid": "673338f3-6ac6-427d-b9d9-0fd588c1c0f0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Aschendorff Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c"
+      },
+      "squuid": "6733391d-2dca-46cb-aaf8-4295cecf7385",
+      "state": "active"
+    }
+  ],
+  "name": "www.herforder-kreisblatt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-11-12T11:15:10.180Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "description": "Überregionale Inhalte des Portals teilweise von den Westfälischen Nachrichten.",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
