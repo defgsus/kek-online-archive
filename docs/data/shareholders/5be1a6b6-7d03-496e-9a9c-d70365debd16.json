@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Focus TV Produktions GmbH",
-        "squuid": "5be1a6b6-9003-4c87-99b4-a450dbc32457"
-      },
-      "squuid": "5be1a6b7-b49b-4cbd-b7fe-780b8acf78f7",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Arabellastr. 23",
@@ -21,11 +9,6 @@
   "controlDate": "2024-10-30T12:42:13.541Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
@@ -33,64 +16,5 @@
     }
   ],
   "zipcode": "81925",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Focus",
-        "squuid": "5be1a6b1-00dc-4e99-b587-95d831d70f16"
-      },
-      "squuid": "5be1a6b9-9664-4604-8da2-3e21e0c68ed1",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Focus Money",
-        "squuid": "5be1a6b1-dd82-480f-825d-cd13217778ca"
-      },
-      "squuid": "5be1a6b9-a92e-464d-b6a9-eaddcd2cedb8",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.focus.de",
-        "squuid": "5be1a6b1-cf63-4383-9a1a-8658d572bb4a"
-      },
-      "squuid": "5be1a6b9-745a-4c7c-a604-8af47b333296",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Focus Style",
-        "squuid": "5be1a6b1-bf07-475e-b3db-105a895f96d8"
-      },
-      "squuid": "5be1a6b9-34b0-4ae9-90c6-4b39518ed6fe",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Focus E-Bike",
-        "squuid": "612f9b4e-3892-4457-a1c7-b46c37c49802"
-      },
-      "squuid": "612f9b9d-7a39-4323-bab2-dcdb96771988",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "BurdaVerlag GmbH",
-        "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5"
-      },
-      "squuid": "5be1a6b7-1d3f-4eed-b184-9830c36d53c2",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
