@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 83.67,
-      "held": {
-        "name": "KNA-Katholische Nachrichten-Agentur GmbH",
-        "squuid": "62028bc9-3583-49b2-a5d2-3dcf4ccbc13a"
-      },
-      "squuid": "62028d01-b7d0-4eca-a561-ae7a9de7f06c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Bonn",
   "pseudoCompany": false,
   "street": "Heinrich-Brüning-Straße",
@@ -22,23 +10,12 @@
   "streetNumber": "9",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "53113",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Verband der Diözesen Deutschlands (VDD) K.d.ö.R (7 Erzbistümer, 20 Bistümer)",
-        "squuid": "5be1a6b6-e3fb-4756-89a5-b2fb94fd022c"
-      },
-      "squuid": "5be1a6b8-bd65-4f9b-b3eb-efd21fe5ce2c",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

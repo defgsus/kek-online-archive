@@ -1,29 +1,24 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "BLV Verlagsgesellschaft mbH & Co. KG",
-        "squuid": "637f9276-66b7-4f21-a8ef-2c511f9401f7"
-      },
-      "squuid": "6464b036-7aa5-41db-b014-435e2e280993",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Bremen",
   "pseudoCompany": false,
-  "street": "Contrescarpe 75a",
-  "name": "KPS Verlagsgesellschaft mbH",
+  "street": "Am Brill",
+  "name": "Weser Wochenblatt Verlagsgesellschaft mbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-6ec6-4936-a948-98258f580e4e",
-  "controlDate": "2024-06-17T15:06:22.884Z",
+  "controlDate": "2024-11-15T10:53:07.164Z",
+  "streetNumber": "19",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "28195",
@@ -67,19 +62,19 @@
     {
       "type": "operate",
       "held": {
-        "name": "Mein Ganderkesee",
-        "squuid": "63d27f6e-c888-49cd-9be3-bf09f7c3699f"
+        "name": "www.wuemmereport.de",
+        "squuid": "6488388e-16ad-4cad-b74f-ff99e9f91615"
       },
-      "squuid": "63d27f9c-272c-4368-8b8e-2929ca77f95b",
+      "squuid": "648838a8-06a8-4604-81d7-23167566a1b0",
       "state": "active"
     },
     {
       "type": "operate",
       "held": {
-        "name": "www.wuemmereport.de",
-        "squuid": "6488388e-16ad-4cad-b74f-ff99e9f91615"
+        "name": "www.das-blv.de",
+        "squuid": "637f9263-ce46-48d7-b506-28b55dad09c1"
       },
-      "squuid": "648838a8-06a8-4604-81d7-23167566a1b0",
+      "squuid": "67373225-2947-4c90-9a3a-e892fe958baa",
       "state": "active"
     }
   ],

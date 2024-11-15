@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Bremen",
   "pseudoCompany": false,
   "street": "Kapitän-Dallmann-Str.",
@@ -11,44 +11,11 @@
   "streetNumber": "41",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "28779",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.das-blv.de",
-        "squuid": "637f9263-ce46-48d7-b506-28b55dad09c1"
-      },
-      "squuid": "637f92b0-fa27-4d90-8bbb-270d174cb5d0",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "BLV Verwaltungsgesellschaft mbH",
-        "squuid": "637f928c-2afb-400c-8c94-f0005995b728"
-      },
-      "squuid": "637f9353-ddef-4775-8206-b0e468a838a6",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "KPS Verlagsgesellschaft mbH",
-        "squuid": "5be1a6b6-6ec6-4936-a948-98258f580e4e"
-      },
-      "squuid": "6464b036-7aa5-41db-b014-435e2e280993",
-      "state": "active"
-    }
-  ]
+  "zipcode": "28779"
 }
