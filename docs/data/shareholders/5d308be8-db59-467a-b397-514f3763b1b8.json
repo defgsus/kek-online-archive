@@ -29,7 +29,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5d308be8-db59-467a-b397-514f3763b1b8",
-  "controlDate": "2024-06-18T11:09:15.809Z",
+  "controlDate": "2024-11-18T14:28:59.920Z",
   "streetNumber": "2",
   "organizations": [
     {
@@ -42,7 +42,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 49.5,
+      "capitalShares": 40.0,
       "holder": {
         "name": "NKZ Austria-Beteiligungs GmbH ",
         "squuid": "5d308c26-bc81-426b-acb6-011874beb13b"
@@ -53,7 +53,7 @@
     {
       "complementaryPartner": true,
       "type": "own",
-      "capitalShares": 1.0,
+      "capitalShares": 0.0,
       "holder": {
         "name": "Krone-Verlag GmbH",
         "squuid": "5d308c06-9b4a-472a-b7f0-d561c5eb8bb1"
@@ -63,12 +63,52 @@
     },
     {
       "type": "own",
-      "capitalShares": 49.5,
+      "capitalShares": 12.5,
       "holder": {
-        "name": "SIGNA Holding GmbH",
-        "squuid": "5d306b21-825e-4e21-9c40-d2838e993a28"
+        "name": "Dichand, Dr. Christoph",
+        "squuid": "5d308c8f-0f20-4a3f-b665-f09d16463cdd"
       },
-      "squuid": "64884937-2100-4293-bb2b-eb8df4ffa3b5",
+      "squuid": "673b4fc7-49f2-4eda-8695-fcda2918679a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "Dichand, Michael",
+        "squuid": "5d308c61-693b-40d0-8c21-3ae709331ac2"
+      },
+      "squuid": "673b4fda-2272-427b-bb86-fe6785c46f0f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "Dichand, Helga",
+        "squuid": "5d308c51-c832-469d-9fd0-5471f7cf04f9"
+      },
+      "squuid": "673b4fe7-c24e-41b3-b410-3b41ffdbc1f7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.5,
+      "holder": {
+        "name": "Dichand, Johanna",
+        "squuid": "5d308c75-3fd2-4c94-bd7c-5163fd351567"
+      },
+      "squuid": "673b4ff4-a33a-4c95-bd03-7a1cb02e4c18",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Austria Medien GmbH",
+        "squuid": "673b501d-3609-4dfc-9f73-ecbbb28de5b5"
+      },
+      "squuid": "673b5041-db97-48fc-b3f9-7742773c7c09",
       "state": "active"
     }
   ]

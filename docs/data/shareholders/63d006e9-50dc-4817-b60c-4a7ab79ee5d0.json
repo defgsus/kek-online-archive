@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Syke",
   "pseudoCompany": false,
   "street": "Werkstr.",
@@ -10,33 +10,11 @@
   "streetNumber": "2",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "28857",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.aller-weser-verlag.de",
-        "squuid": "63d006d4-fe0e-4dd7-b7c5-96ad915c8ada"
-      },
-      "squuid": "63d00729-0dca-40f5-a8a2-ede5f8bf6d37",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Kreiszeitung Verlagsgesellschaft mbH & Co KG",
-        "squuid": "5be1a6b6-490a-4fa8-9053-eee04d29612a"
-      },
-      "squuid": "63d00787-1425-4a29-91f5-f8219a790dc3",
-      "state": "active"
-    }
-  ]
+  "zipcode": "28857"
 }
