@@ -12,16 +12,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Zeitungsverlag Der Patriot GmbH",
-        "squuid": "5be1a6b6-0337-487c-af52-9cd35cafdd66"
-      },
-      "squuid": "5be1a6b8-8d3f-42b3-a2fb-e51f0ac3ef63",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 40.0,
       "held": {
         "name": "Hellweg Presseholding GmbH & Co. KG",
@@ -55,11 +45,11 @@
   "city": "Lippstadt",
   "pseudoCompany": false,
   "street": "Hansastr.",
-  "name": "Laumanns Verwaltungs GmbH",
+  "name": "Zeitungsverlag Der Patriot GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-b890-4cb5-bcd1-8bf4073a1fd6",
   "otherMediaActivities": "Holding",
-  "controlDate": "2024-06-18T14:40:08.327Z",
+  "controlDate": "2024-11-19T15:48:26.867Z",
   "streetNumber": "2",
   "organizations": [
     {
@@ -75,6 +65,53 @@
     }
   ],
   "zipcode": "59557",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Der Patriot",
+        "squuid": "5be1a6b1-2aaa-43e7-85e8-8c0d2e476c71"
+      },
+      "squuid": "673cb0b0-1935-489e-a57b-d49c9d833b62",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Geseker Zeitung",
+        "squuid": "5be1a6b1-b4a6-4a68-ac20-c5b71d77f7a5"
+      },
+      "squuid": "673cb0d3-3359-40fe-8955-bb339e5575c3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blicker-lippstadt.de",
+        "squuid": "65c237db-e361-4109-b28d-1d1ff2617356"
+      },
+      "squuid": "673cb0f8-74a8-4d98-96ce-98e6cb0e0223",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.derpatriot.de",
+        "squuid": "5be1a6b1-4554-45b4-ac9a-6a112be8c3d6"
+      },
+      "squuid": "673cb10d-0d22-4b92-b8d2-62292bda8206",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.wochentip.de",
+        "squuid": "63ce7206-da22-4a1c-8a01-a91a233c01b3"
+      },
+      "squuid": "673cb458-16a2-4d33-857d-6dba0042ccc2",
+      "state": "active"
+    }
+  ],
   "credits": "IJK",
   "ownedBy": [
     {

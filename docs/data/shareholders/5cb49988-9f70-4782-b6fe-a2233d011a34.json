@@ -1,42 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Elvirasteig",
   "name": "Landes Medien GmbH",
   "naturalPerson": false,
   "squuid": "5cb49988-9f70-4782-b6fe-a2233d011a34",
-  "controlDate": "2024-06-18T14:22:16.098Z",
+  "controlDate": "2024-11-19T13:37:17.002Z",
   "streetNumber": "29",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "14163",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.top100station.de",
-        "squuid": "5f96e980-434d-45c0-964b-4eac4803f1a4"
-      },
-      "squuid": "5f96e9bf-a543-4a45-a6f1-04ad97e46931",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Landes, Frank",
-        "squuid": "5cb49aec-30d0-484b-b831-81d88d006ca1"
-      },
-      "squuid": "5cb49b3b-6a59-4599-be2d-dfc372676bb3",
-      "state": "active"
-    }
-  ]
+  "zipcode": "14163"
 }

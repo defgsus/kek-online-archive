@@ -1,97 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Köln",
   "pseudoCompany": false,
   "street": "Schanzenstraße 36",
   "name": "Köln.Sport Verlag GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-bf37-481e-b431-d081b386ed9d",
-  "controlDate": "2024-06-18T13:20:07.202Z",
+  "controlDate": "2024-11-19T12:19:15.711Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "51063",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Köln.Sport Das Stadt-Sport-Magazin",
-        "squuid": "5be1a6b1-9484-4140-9101-1cdf931f161e"
-      },
-      "squuid": "5be1a6b9-771e-4ac3-8db4-1c97dbe5dbe8",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.koelnsport.de",
-        "squuid": "5be1a6b1-0759-4acb-9f0d-965de8c648d8"
-      },
-      "squuid": "5be1a6b9-886c-44ad-9246-fac50c0c2bfc",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Golfspiel",
-        "squuid": "5be1a6b1-d986-436a-a91c-1e3ef428a19a"
-      },
-      "squuid": "5be1a6b9-e487-41b2-9ef9-dcf2d53d2a82",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Basket",
-        "squuid": "5be1a6b1-706c-49d9-90e4-f5f369dc5858"
-      },
-      "squuid": "5be1a6b9-31c4-4506-bc72-3e7099887e4e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "FIR Fußball im Rheinland",
-        "squuid": "5be1a6b1-3a8f-49fa-bf35-0c75c40d8dc4"
-      },
-      "squuid": "5be1a6b9-66a5-44f5-add4-04e6eb14f574",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "BoxSport",
-        "squuid": "66718a92-fc8c-44e6-b4fe-f3c55c6093c4"
-      },
-      "squuid": "66718b02-784a-49b5-904a-a5a126e1c6e4",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 75.0,
-      "holder": {
-        "name": "Myfw Medienholding GmbH",
-        "squuid": "5be1a6b6-25f5-4554-9412-c9bf3116b2f3"
-      },
-      "squuid": "5be1a6b8-a485-4f1b-85dd-a75db6ee8f4d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "holder": {
-        "name": "Fiedler, Michael",
-        "squuid": "5be1a6b6-3846-48f8-b95f-b3c9dda3ad0c"
-      },
-      "squuid": "5be1a6b8-b6ad-4936-817d-1036cae9c657",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

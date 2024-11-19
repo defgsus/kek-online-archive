@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 75.0,
-      "held": {
-        "name": "Köln.Sport Verlag GmbH",
-        "squuid": "5be1a6b6-bf37-481e-b431-d081b386ed9d"
-      },
-      "squuid": "5be1a6b8-a485-4f1b-85dd-a75db6ee8f4d",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Köln",
   "pseudoCompany": false,
   "street": "Schanzenstr. 36",
@@ -21,33 +9,12 @@
   "controlDate": "2024-06-26T14:27:32.209Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "51063",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Wipperfürth, Fred",
-        "squuid": "5be1a6b6-0db6-42c4-a3ea-e1deab8de57b"
-      },
-      "squuid": "5be1a6b8-744e-405e-a1fd-d1250b846e5b",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Wipperfürth, Yvonne",
-        "squuid": "5be1a6b6-9e6f-4969-b23c-e792e32ec786"
-      },
-      "squuid": "5be1a6b8-d457-4698-970d-360e73269ec3",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
