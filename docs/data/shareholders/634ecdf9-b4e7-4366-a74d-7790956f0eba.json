@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "held": {
+        "name": "Femotion GmbH",
+        "squuid": "67408e5e-2856-4963-83d4-a76072ec6b26"
+      },
+      "squuid": "67408eba-0e7a-4294-9263-50c7f3cf0e37",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Leipzig",
   "pseudoCompany": false,
@@ -10,17 +22,17 @@
   "streetNumber": "14",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "zipcode": "04109",
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 40.0,
       "holder": {
         "name": "masqueradio GmbH",
         "squuid": "61bb3bcb-b8d9-499e-8e96-34fa8e8aee18"
@@ -36,6 +48,16 @@
         "squuid": "61bb3ba5-5324-4e3b-ac68-e42b31a794b4"
       },
       "squuid": "634ed490-e544-4197-ba4d-4424badaa2ec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Lochthofen Beteiligungen GmbH",
+        "squuid": "67408df0-da45-4f86-a76e-16cc4c9b4808"
+      },
+      "squuid": "67408f1e-ac4a-42f2-8c91-57c901dc5856",
       "state": "active"
     }
   ]
