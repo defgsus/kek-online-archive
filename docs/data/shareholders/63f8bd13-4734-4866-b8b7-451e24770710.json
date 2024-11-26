@@ -1,27 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "Wochenzeitung Coburg GmbH",
-        "squuid": "63d9451b-15e2-4d4a-9e58-a19f20385f13"
-      },
-      "squuid": "63f8be6b-8767-4168-af80-5ef59159b844",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Mediengruppe Oberfranken - Anzeigenblattverlage Verwaltung GmbH",
-        "squuid": "63f8bf83-1c27-43d7-a0f4-1adc340b00c0"
-      },
-      "squuid": "63f8c01b-f3ed-4509-be77-585686a83d25",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Bamberg",
   "pseudoCompany": false,
   "street": "Gutenbergstr.",
@@ -33,33 +11,11 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "96050",
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Mediengruppe Oberfranken - Anzeigenblattverlage Verwaltung GmbH",
-        "squuid": "63f8bf83-1c27-43d7-a0f4-1adc340b00c0"
-      },
-      "squuid": "63f8bf9a-dff0-4b49-bff1-ba774557e35b",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "mgo Lokale Medien GmbH & Co KG",
-        "squuid": "5be1a6b6-1ba9-4404-8b0b-eacd59f83952"
-      },
-      "squuid": "63f8bfaa-3d36-4f8f-b55a-e96ee43a378e",
-      "state": "active"
-    }
-  ]
+  "zipcode": "96050"
 }

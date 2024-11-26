@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Mediengruppe Oberfranken - Anzeigenblattverlage GmbH & Co. KG",
-        "squuid": "63f8bd13-4734-4866-b8b7-451e24770710"
-      },
-      "squuid": "63f8bf9a-dff0-4b49-bff1-ba774557e35b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Bamberg",
   "pseudoCompany": false,
   "street": "Gutenbergstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "96050",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Mediengruppe Oberfranken - Anzeigenblattverlage GmbH & Co. KG",
-        "squuid": "63f8bd13-4734-4866-b8b7-451e24770710"
-      },
-      "squuid": "63f8c01b-f3ed-4509-be77-585686a83d25",
-      "state": "active"
-    }
-  ]
+  "zipcode": "96050"
 }
