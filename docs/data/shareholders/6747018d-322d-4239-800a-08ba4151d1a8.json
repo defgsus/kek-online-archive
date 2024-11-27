@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Kurfürstendamm",
+  "name": "Neue Spreeradio Hörfunkgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "6747018d-322d-4239-800a-08ba4151d1a8",
+  "streetNumber": " 208",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10719",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "105'5 Spreeradio (Berlin)",
+        "squuid": "5be1a6b1-5c8c-4f6e-8ae5-e702f5b4dfd8"
+      },
+      "squuid": "674701f1-610e-404a-b435-ab1d49b61af3",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RTL Audio Center Berlin GmbH",
+        "squuid": "5be1a6b6-6ea6-42b5-9674-9d85c813ccc9"
+      },
+      "squuid": "674703a3-e1b4-4403-9d89-a0ec79995dbb",
+      "state": "active"
+    }
+  ]
+}
