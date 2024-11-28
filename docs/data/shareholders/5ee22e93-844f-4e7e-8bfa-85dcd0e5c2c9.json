@@ -1,42 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Ludwigshafen",
   "pseudoCompany": false,
   "street": "Kaiser-Wilhelm-Str.",
   "name": "MSSW Print-Medien Service Südwest GmbH",
   "naturalPerson": false,
   "squuid": "5ee22e93-844f-4e7e-8bfa-85dcd0e5c2c9",
-  "controlDate": "2024-06-26T13:36:33.212Z",
+  "controlDate": "2024-11-28T11:03:25.089Z",
   "streetNumber": "34",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "67059",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Domspitzen",
-        "squuid": "639737a8-1e5e-4ebf-aaa9-884a1cc775c5"
-      },
-      "squuid": "6397384b-7a51-4f94-b74f-2d7c36f70171",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Rheinpfalz Verlag und Druckerei GmbH & Co KG",
-        "squuid": "5be1a6b6-b0cb-4887-968f-e1c3d68f02ae"
-      },
-      "squuid": "5ee22f56-d845-4d30-a01a-35edd57a11a9",
-      "state": "active"
-    }
-  ]
+  "zipcode": "67059"
 }

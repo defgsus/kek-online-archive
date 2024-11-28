@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "squuid": "67486dea-c680-4f37-9440-a95875e0751d",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Märkischer Zeitungsverlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-9462-4509-81ac-786292d6ac91"
+      },
+      "squuid": "67486eda-9271-4c3f-a05f-98eab592ba5a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co. KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "67486ee3-7b7d-48b6-8d14-ecd304aacc83",
+      "state": "active"
+    }
+  ],
+  "name": "www.altenaer-kreisblatt.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-11-28T13:22:52.852Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "description": "Überregionale Inhalte des Portals von der Zentralredaktion der Ippen-Verlagsgruppe München (Ippen Digital GmbH & Co. KG). Nutzungsdaten siehe unter www.ippen.media",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
