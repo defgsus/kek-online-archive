@@ -1,0 +1,54 @@
+{
+  "state": "active",
+  "squuid": "67499d06-9411-4257-9b9a-38db074ade6e",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Geislinger Zeitung Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-6682-4833-b356-82e572beaa62"
+      },
+      "squuid": "67499d57-edd6-4d0f-a3ea-d8c4628c2978",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Pressegesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-9a6a-4235-a5d2-f080b726ddef"
+      },
+      "squuid": "67499d62-91ba-491f-85f4-b871fcdda9f2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Berliner Redaktionsgesellschaft mbH",
+        "squuid": "5d035e6b-9d10-4d11-8eab-6decd6b79aae"
+      },
+      "squuid": "67499d6c-4687-4f0f-8208-4d5e282854f3",
+      "state": "active"
+    }
+  ],
+  "name": "www.geislinger-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-11-29T10:53:20.635Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "description": "Überregionale Inhalte des Portals von der Südwest Presse und teilweise von der Neuen Berliner Redaktionsgesellschaft",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

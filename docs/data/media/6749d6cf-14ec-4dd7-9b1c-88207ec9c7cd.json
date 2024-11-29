@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "squuid": "6749d6cf-14ec-4dd7-9b1c-88207ec9c7cd",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Pressegesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-9a6a-4235-a5d2-f080b726ddef"
+      },
+      "squuid": "6749d6fc-59da-42b7-b441-66700ade3a5d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Berliner Redaktionsgesellschaft mbH",
+        "squuid": "5d035e6b-9d10-4d11-8eab-6decd6b79aae"
+      },
+      "squuid": "6749d706-e2c1-4ae8-8fe1-a79b944983a4",
+      "state": "active"
+    }
+  ],
+  "name": "www.rundschau-gaildorf.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-11-29T14:59:38.313Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "description": "Überregionale Inhalte des Portals teilweise von der Neuen Berliner Redaktionsgesellschaft",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "active",
+  "squuid": "6749cd61-5d0f-4ba2-862c-b24dfc3f9e4d",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Pressegesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-9a6a-4235-a5d2-f080b726ddef"
+      },
+      "squuid": "6749cfe1-06c6-4364-90cc-2e9b9116f558",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Neue Berliner Redaktionsgesellschaft mbH",
+        "squuid": "5d035e6b-9d10-4d11-8eab-6decd6b79aae"
+      },
+      "squuid": "6749cfef-93df-4f87-a4f5-268e35fd8bfc",
+      "state": "active"
+    }
+  ],
+  "name": "www.hohenzollerische-zeitung.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2024-11-29T14:29:07.356Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "description": "Überregionale Inhalte des Portals teilweise von der Neuen Berliner Redaktionsgesellschaft",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
