@@ -1,29 +1,4 @@
 {
-  "name": "Nordbayerischer Kurier Zeitungsverlag GmbH",
-  "controlDate": "2024-06-27T15:54:27.841Z",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 35.0,
-      "holder": {
-        "name": "Fischer, Dr. Laurent",
-        "squuid": "5c53157d-8489-4626-8045-eaae288b2893"
-      },
-      "squuid": "5c5315f5-6ade-4a66-890b-d19e78efe28e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 65.0,
-      "holder": {
-        "name": "Frankenpost Verlag GmbH",
-        "squuid": "5be1a6b6-73f5-4250-97c6-a6bfa6880234"
-      },
-      "squuid": "5c53160f-ce08-4540-9713-eebca3b65a84",
-      "state": "active"
-    }
-  ],
-  "squuid": "5c53152b-b3eb-4f9b-919d-edebc741d132",
   "owns": [
     {
       "type": "own",
@@ -67,6 +42,14 @@
     }
   ],
   "state": "active",
+  "city": "Bayreuth",
+  "pseudoCompany": false,
+  "street": "Theodor-Schmidt-Str.",
+  "name": "Nordbayerischer Kurier Zeitungsverlag GmbH",
+  "naturalPerson": false,
+  "squuid": "5c53152b-b3eb-4f9b-919d-edebc741d132",
+  "controlDate": "2024-12-02T09:32:20.082Z",
+  "streetNumber": "17",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -122,6 +105,7 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
+  "zipcode": "95448",
   "operates": [
     {
       "type": "operate",
@@ -148,6 +132,28 @@
         "squuid": "65ce16b1-f9d6-4914-9bbc-58431b95383c"
       },
       "squuid": "65ce17c1-9b65-442e-a27b-a7ab2770298b",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "Fischer, Dr. Laurent",
+        "squuid": "5c53157d-8489-4626-8045-eaae288b2893"
+      },
+      "squuid": "5c5315f5-6ade-4a66-890b-d19e78efe28e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 65.0,
+      "holder": {
+        "name": "Frankenpost Verlag GmbH",
+        "squuid": "5be1a6b6-73f5-4250-97c6-a6bfa6880234"
+      },
+      "squuid": "5c53160f-ce08-4540-9713-eebca3b65a84",
       "state": "active"
     }
   ]

@@ -19,7 +19,7 @@
   "name": "NRW Audio Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "66597352-82de-466f-9c63-48ce93d12587",
-  "controlDate": "2024-06-17T07:45:52.842Z",
+  "controlDate": "2024-12-02T15:45:05.576Z",
   "streetNumber": "74",
   "organizations": [
     {
@@ -34,5 +34,17 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
-  "zipcode": "50968"
+  "zipcode": "50968",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "NRW Audio GmbH & Co. KG ",
+        "squuid": "62e77c1e-8d4c-4f03-9965-9f4964d8faec"
+      },
+      "squuid": "666fea44-8eb3-40c2-934a-ae9f40ab3b5f",
+      "state": "active"
+    }
+  ]
 }

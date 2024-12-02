@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Spremberg",
+  "pseudoCompany": true,
+  "street": "Muskauer Str.",
+  "name": "Kanal 12 Spremberg TV",
+  "naturalPerson": true,
+  "co": "c/o Michael Walter, in der ehemaligen \"Bürste\"",
+  "squuid": "674d8235-3f57-4a12-8de8-f465b33f5d0e",
+  "streetNumber": "96f",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "03130",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kanal 12 Spremberg TV (Brandenburg)",
+        "squuid": "5c5af856-5f17-4570-a465-235b3b97c7d1"
+      },
+      "squuid": "674d8276-dbd2-4901-969d-b216c88ed87a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Walter, Michael",
+        "squuid": "674d8395-d190-463d-bbce-8d5d82a9e6e6"
+      },
+      "squuid": "674d84a7-a17d-479b-9aaa-85772b63d444",
+      "state": "active"
+    }
+  ]
+}

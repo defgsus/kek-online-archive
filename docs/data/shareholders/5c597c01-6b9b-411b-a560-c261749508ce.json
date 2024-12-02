@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Stadtfernsehen Forst",
+        "squuid": "674d85c3-435e-4a86-9e68-2e7915a4aaca"
+      },
+      "squuid": "674d86b1-dca5-4b79-a09a-f515dd8d6d29",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Forst (Lausitz)",
   "supplierConsortium": false,
@@ -24,15 +36,6 @@
   ],
   "zipcode": "03149",
   "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Forst TV (Brandenburg)",
-        "squuid": "5c597c38-e949-427e-8d01-a4b9aeab0401"
-      },
-      "squuid": "5c597f39-f48e-4bce-a3c2-914186ab66b9",
-      "state": "active"
-    },
     {
       "type": "operate",
       "held": {

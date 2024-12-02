@@ -27,12 +27,24 @@
   "name": "NOVENTI Health SE",
   "naturalPerson": false,
   "squuid": "63c57eba-fc9e-471a-974f-11904a66fab3",
-  "controlDate": "2024-06-28T09:54:18.187Z",
+  "controlDate": "2024-12-02T14:45:22.107Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "FSA e.V.",
+        "squuid": "674dc748-48e7-46bc-b194-d3fe689a91c1"
+      },
+      "squuid": "674dc7fc-ae97-4d9c-8230-e36530223768",
+      "state": "active"
     }
   ]
 }

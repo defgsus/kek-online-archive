@@ -6,7 +6,7 @@
   "name": "NOZ Digital GmbH",
   "naturalPerson": false,
   "squuid": "63d92686-83a7-47da-aff0-79489d13ff98",
-  "controlDate": "2023-11-10T10:08:40.545Z",
+  "controlDate": "2024-12-02T14:52:44.781Z",
   "streetNumber": "17-19",
   "organizations": [
     {
@@ -17,15 +17,6 @@
   ],
   "zipcode": "49074",
   "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.lokale-wochenzeitungen.de/express",
-        "squuid": "63d92620-9d88-48df-a04f-d73fae6deeac"
-      },
-      "squuid": "63d92699-7180-434e-8cc5-58cf4e6d0b3e",
-      "state": "active"
-    },
     {
       "type": "operate",
       "held": {
@@ -101,33 +92,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "www.lokale-wochenzeitungen.de/wochenanzeiger",
-        "squuid": "63da8e2f-ab18-4c49-b5ea-874a0de39812"
-      },
-      "squuid": "63da8e72-099c-48fc-b381-cf060e6ff910",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.lokale-wochenzeitungen.de/wochenend-anzeiger",
-        "squuid": "63da8e99-3b8f-44f0-bd25-bd103f9dfc44"
-      },
-      "squuid": "63da8ecf-c25e-4c82-b2e3-75533ac785b4",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.lokale-wochenzeitungen.de/wochenmitte-anzeiger",
-        "squuid": "63da8f0e-1d82-4345-bc5b-23aa8bfa72fe"
-      },
-      "squuid": "63da8f3c-2a82-462b-a0f8-1378a1927b8e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "www.osnabruecker-nachrichten.de",
         "squuid": "63da8ff8-a5d5-4028-b415-0a9cd6a1bc85"
       },
@@ -159,6 +123,33 @@
         "squuid": "640b465d-6fcd-4ad2-9bb6-14674178fc19"
       },
       "squuid": "64106aaf-9358-4adf-8fb9-d436391ac18c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lokale-wochenzeitungen.de/wochenanzeiger",
+        "squuid": "674dd269-aef0-4876-93c7-004d214df268"
+      },
+      "squuid": "674dd319-09d6-4f33-9962-9f5233981e2c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lokale-wochenzeitungen.de/wochenend-anzeiger",
+        "squuid": "674dd28f-4b53-409c-82dc-d024a30ba6b8"
+      },
+      "squuid": "674dd35d-5440-4428-9dde-c104cc849555",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lokale-wochenzeitungen.de/wochenmitte-anzeiger",
+        "squuid": "674dd2b2-2b79-4cc5-962f-443f0a5aab6c"
+      },
+      "squuid": "674dd3be-1776-431c-ae1e-da153636a3ff",
       "state": "active"
     }
   ],
