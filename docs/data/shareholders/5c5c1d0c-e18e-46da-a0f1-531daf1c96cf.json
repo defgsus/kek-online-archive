@@ -1,8 +1,20 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Film- und Fernsehproduktion Rätzel",
+        "squuid": "6752dded-b268-4856-bb86-0442241491f8"
+      },
+      "squuid": "6752de51-b8dc-4c59-a559-8562425d512f",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Wriezen",
   "supplierConsortium": false,
-  "pseudoCompany": true,
+  "pseudoCompany": false,
   "street": "Frankfurterstraße",
   "name": "Rätzel, Stephan",
   "naturalPerson": true,
@@ -24,24 +36,6 @@
   ],
   "zipcode": "16269",
   "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "OderlandTV (Brandenburg)",
-        "squuid": "5c5c1d1b-6ed0-422c-aaf4-a68d5e3d1958"
-      },
-      "squuid": "5c5c29ff-6a98-4b8e-a955-7baa98b4c47f",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "StrausbergTV (Brandenburg)",
-        "squuid": "5c5d62c9-8f35-4fb3-9b22-2bfa7d45bcf9"
-      },
-      "squuid": "5c5d64ae-2f7d-4f34-b583-6e9056046082",
-      "state": "active"
-    },
     {
       "type": "operate",
       "held": {

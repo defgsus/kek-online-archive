@@ -1,7 +1,4 @@
 {
-  "name": "Phoenix Verwaltungs GmbH",
-  "pseudoCompany": false,
-  "squuid": "66852cc2-6dd0-43e1-be47-cb12183b71e8",
   "owns": [
     {
       "complementaryPartner": true,
@@ -15,14 +12,18 @@
       "state": "active"
     }
   ],
-  "city": "Vaduz (Li)",
   "state": "active",
+  "city": "Vaduz (Li)",
+  "pseudoCompany": false,
+  "name": "Phoenix Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "66852cc2-6dd0-43e1-be47-cb12183b71e8",
+  "controlDate": "2024-12-06T12:00:13.984Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "naturalPerson": false
+  ]
 }

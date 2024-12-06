@@ -1,7 +1,4 @@
 {
-  "name": "Phoenix Pharma SE",
-  "pseudoCompany": false,
-  "squuid": "66852cd9-6a54-4820-b15c-805f3413e84c",
   "owns": [
     {
       "type": "own",
@@ -14,14 +11,18 @@
       "state": "active"
     }
   ],
-  "city": "Mannheim",
   "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "name": "Phoenix Pharma SE",
+  "naturalPerson": false,
+  "squuid": "66852cd9-6a54-4820-b15c-805f3413e84c",
+  "controlDate": "2024-12-06T12:00:23.496Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "naturalPerson": false
+  ]
 }

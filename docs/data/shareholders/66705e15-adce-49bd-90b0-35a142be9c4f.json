@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "66705e15-adce-49bd-90b0-35a142be9c4f",
-  "controlDate": "2024-07-02T08:07:51.662Z",
+  "controlDate": "2024-12-06T11:14:30.352Z",
   "streetNumber": "10",
   "organizations": [
     {
@@ -105,5 +105,28 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "33106"
+  "zipcode": "33106",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Petzold, Carl Felix",
+        "squuid": "6683b5c5-5689-4054-a1f9-ec5ed538294f"
+      },
+      "squuid": "6683b634-1a1f-47ec-b930-f30f9afc25a6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Petzold, Hannu Immanuel",
+        "squuid": "6683b5e3-fe85-43e4-a9e2-227c1be5d513"
+      },
+      "squuid": "6683b644-a870-434a-abca-7cb6ef645ce7",
+      "state": "active"
+    }
+  ]
 }

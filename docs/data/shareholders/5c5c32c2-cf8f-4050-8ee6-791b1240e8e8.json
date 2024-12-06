@@ -1,7 +1,4 @@
 {
-  "name": "Priewisch, Ralf",
-  "pseudoCompany": false,
-  "squuid": "5c5c32c2-cf8f-4050-8ee6-791b1240e8e8",
   "owns": [
     {
       "type": "own",
@@ -14,20 +11,31 @@
       "state": "active"
     }
   ],
+  "state": "active",
   "city": "Eisenhüttenstadt",
+  "pseudoCompany": false,
+  "street": "Saarlouiserstr.",
+  "name": "Priewisch, Ralf",
+  "naturalPerson": true,
+  "squuid": "5c5c32c2-cf8f-4050-8ee6-791b1240e8e8",
+  "streetNumber": "17",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
-      "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "state": "active",
-  "naturalPerson": true
+  "zipcode": "15890",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Oder-Spree-Fernsehen (OSF) (Brandenburg)",
+        "squuid": "5c5c3323-7f83-4dc7-9d62-00da93c9cbbe"
+      },
+      "squuid": "6752e60a-efe1-430d-93ef-a128ecbf2834",
+      "state": "active"
+    }
+  ]
 }
