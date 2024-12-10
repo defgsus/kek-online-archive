@@ -38,13 +38,33 @@
   "name": "Werde Medien UG (haftungsbeschränkt)",
   "naturalPerson": false,
   "squuid": "5be1a6b6-b219-41d7-9876-8f0cdef35b47",
-  "controlDate": "2024-07-15T14:32:53.060Z",
+  "controlDate": "2024-12-10T11:40:04.277Z",
   "streetNumber": "51",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Werde",
+        "squuid": "5be1a6b1-6440-416b-98db-742ee844a2ba"
+      },
+      "squuid": "675828b0-7fb1-48ed-880f-fca26602e39b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.werde-magazin.de",
+        "squuid": "5be1a6b1-cb69-4fde-a57f-7da9e505bc13"
+      },
+      "squuid": "675828ce-a214-474f-b5ee-bd42d7e420df",
+      "state": "active"
     }
   ],
   "credits": "IJK",
