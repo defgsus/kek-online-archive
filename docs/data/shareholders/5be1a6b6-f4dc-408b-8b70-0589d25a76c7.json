@@ -18,7 +18,7 @@
   "name": "PUMA SE",
   "naturalPerson": false,
   "squuid": "5be1a6b6-f4dc-408b-8b70-0589d25a76c7",
-  "controlDate": "2024-07-04T09:14:41.137Z",
+  "controlDate": "2024-12-11T14:21:17.822Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -37,7 +37,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 67.5,
+      "capitalShares": 49.0,
       "holder": {
         "name": "Streubesitz an der PUMA SE",
         "squuid": "5be1a6b6-6d7c-41be-b9e2-414784bfffb1"
@@ -47,12 +47,72 @@
     },
     {
       "type": "own",
-      "capitalShares": 32.5,
+      "capitalShares": 30.0,
       "holder": {
         "name": "Kering Group",
         "squuid": "5be1a6b6-dc2d-4c15-a19c-aec255d724a1"
       },
       "squuid": "5be1a6b8-6c8f-4def-85e2-88f124e2ac5e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 4.0,
+      "holder": {
+        "name": "BlackRock, Inc.",
+        "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
+      },
+      "squuid": "668668de-c7c7-4263-bc24-bad9221993fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "T. Rowe Price",
+        "squuid": "66866939-bde5-4eae-877f-2b0afa1d13df"
+      },
+      "squuid": "66866964-5fa3-42df-b16f-5ff9860ff324",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "DWS Investment GmbH",
+        "squuid": "5be1a6b6-c474-4fe8-87d9-642d012c049e"
+      },
+      "squuid": "668669d6-7b2d-417e-a80b-ab1a39c8c330",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Fidelity Management & Research Company (FMR LLC)",
+        "squuid": "5be1a6b6-e4f9-429d-97ce-7d0673422728"
+      },
+      "squuid": "668669ec-e318-442a-9cc0-fe6c443c8336",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Norges Bank Investment Management",
+        "squuid": "5d0ce512-a8b5-4657-b00d-efc4280983f4"
+      },
+      "squuid": "66866a05-d8a8-4023-bf57-c8b12695d819",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Amundi Asset Management",
+        "squuid": "66866ac1-82bc-49af-ba7b-8fb1c46ff75a"
+      },
+      "squuid": "66866ad8-4564-4882-8bf3-bca7ca4d2f0e",
       "state": "active"
     }
   ]
