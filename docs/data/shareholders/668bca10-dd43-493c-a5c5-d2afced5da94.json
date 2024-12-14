@@ -18,7 +18,7 @@
   "name": "Raiffeisen Vertriebs GmbH",
   "naturalPerson": false,
   "squuid": "668bca10-dd43-493c-a5c5-d2afced5da94",
-  "controlDate": "2024-07-23T08:12:46.144Z",
+  "controlDate": "2024-12-14T14:33:30.031Z",
   "streetNumber": "143",
   "organizations": [
     {
@@ -32,5 +32,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "84489"
+  "zipcode": "84489",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RT/Raiffeisen Touristik Group GmbH",
+        "squuid": "5cda7c06-ddde-49ca-abf3-e191216338c3"
+      },
+      "squuid": "669f667a-6290-43a8-8595-cdaad6dd40c7",
+      "state": "active"
+    }
+  ]
 }
