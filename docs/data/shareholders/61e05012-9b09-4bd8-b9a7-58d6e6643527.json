@@ -16,10 +16,10 @@
   "city": "Unterföhring",
   "pseudoCompany": false,
   "street": "Betastr.",
-  "name": "Romance TV Geschäftsführungs GmbH",
+  "name": "Romance TV GmbH",
   "naturalPerson": false,
   "squuid": "61e05012-9b09-4bd8-b9a7-58d6e6643527",
-  "controlDate": "2024-07-08T10:35:35.289Z",
+  "controlDate": "2024-12-16T14:39:18.061Z",
   "streetNumber": "9",
   "organizations": [
     {
@@ -34,6 +34,17 @@
     }
   ],
   "zipcode": "85774",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.romance-tv.de",
+        "squuid": "61b20d50-b569-49d4-94b9-686d1339e04e"
+      },
+      "squuid": "67603cdc-74df-44d9-a2b7-a85e9fc57d57",
+      "state": "active"
+    }
+  ],
   "ownedBy": [
     {
       "type": "own",

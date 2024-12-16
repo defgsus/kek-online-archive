@@ -15,11 +15,11 @@
   "city": "Hannover",
   "pseudoCompany": false,
   "street": "Münzstr.",
-  "name": "Radio 38 Freunde GmbH und Co. KG i. Gr.",
+  "name": "Radio 38 Freunde GmbH und Co. KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "66bb6f2e-627b-4514-820a-26e3f9585659",
-  "controlDate": "2024-08-20T10:19:55.762Z",
+  "controlDate": "2024-12-16T09:42:11.595Z",
   "streetNumber": "3-4",
   "organizations": [
     {
@@ -34,5 +34,88 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "30159"
+  "zipcode": "30159",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "KMWS Media GmbH",
+        "squuid": "5efdee2c-5d91-46e6-9539-29079dfaa414"
+      },
+      "squuid": "66c46f7c-beff-4329-bbcf-06e903729a17",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.2,
+      "holder": {
+        "name": "Diener. Patrick",
+        "squuid": "66c46fb2-857e-4bae-8a1c-637f0d3497d0"
+      },
+      "squuid": "66c47028-9b5a-422b-b439-ef5b2178027c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 21.8,
+      "holder": {
+        "name": "Stack, Björn",
+        "squuid": "5efdef80-9d22-45d4-bff6-9235ee7154c9"
+      },
+      "squuid": "66c47042-07e1-4fda-ad6b-c92d130431be",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 21.8,
+      "holder": {
+        "name": "Kahnt, Benjamin",
+        "squuid": "5efdef9c-683f-4712-8287-cede8459b0db"
+      },
+      "squuid": "66c47063-2b52-4aa3-9da4-5c9a325cbc6f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.3,
+      "holder": {
+        "name": "RO.SA.NO GmbH & Co. KG",
+        "squuid": "5be1a6b6-9f94-40a5-97c6-edd4b995390c"
+      },
+      "squuid": "66c4707f-64fb-40f3-b51f-781264f53cff",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.3,
+      "holder": {
+        "name": "Staude, Hanns-Werner",
+        "squuid": "5be1a6b6-c68d-4ef6-ac83-c4743e51fa3e"
+      },
+      "squuid": "66c470a9-a3f7-436b-876c-9ad1e7b9b063",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.3,
+      "holder": {
+        "name": "Wöbbeking, Martin",
+        "squuid": "5be1a6b6-37d7-4e53-8ea5-1482e34bd0db"
+      },
+      "squuid": "66c470c7-c91f-4d45-9f2d-726e3810abb7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.3,
+      "holder": {
+        "name": "Neudorf, Maik",
+        "squuid": "603fa49a-3e93-41d0-8e67-dcf3af56df7d"
+      },
+      "squuid": "66c470de-518b-4984-b44c-36598a09c7b0",
+      "state": "active"
+    }
+  ]
 }
