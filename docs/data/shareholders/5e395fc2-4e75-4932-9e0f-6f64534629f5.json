@@ -1,24 +1,13 @@
 {
   "name": "Streubesitz an der blockescence plc.",
   "squuid": "5e395fc2-4e75-4932-9e0f-6f64534629f5",
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 24.81,
-      "held": {
-        "name": "blockescence plc.",
-        "squuid": "5e395f64-5fc4-44be-94e3-44c482b2a8f0"
-      },
-      "squuid": "5e5535a3-4f2c-43e7-a93d-a02d35ffde26",
-      "state": "active"
-    }
-  ],
+  "state": "archived",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ],
-  "state": "active"
+  ]
 }
