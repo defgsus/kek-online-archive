@@ -7,7 +7,7 @@
   "naturalPerson": false,
   "squuid": "5be1a6b6-fcaa-46d1-a4fd-0e38dd0479d7",
   "otherMediaActivities": "Die Sport1 Medien AG (ehem. Constantin Medien AG) ist ein international ausgerichtetes Medienunternehmen, das insbesondere auf die Segmente Sport, Film sowie Sport- und Eventmarketing ausgerichtet ist.",
-  "controlDate": "2024-07-10T09:08:02.914Z",
+  "controlDate": "2024-12-18T17:16:44.306Z",
   "streetNumber": "101 g",
   "organizations": [
     {
@@ -73,12 +73,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 50.0,
       "holder": {
         "name": "Sport1 Holding GmbH",
         "squuid": "5be1a6b6-035e-467d-a2e0-d492f8f7b8a2"
       },
       "squuid": "5be1a6b7-8fc3-4fbd-9aae-eff4dc6e2f67",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Acun Medya Holding B.V.",
+        "squuid": "66bcd4e7-3ea8-4c7c-94f6-4e202832ec7e"
+      },
+      "squuid": "66bcd5d6-56a7-4a51-981f-46894afe5c76",
       "state": "active"
     }
   ]

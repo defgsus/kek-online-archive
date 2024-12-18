@@ -1,6 +1,4 @@
 {
-  "name": "SIGNA Medien GmbH",
-  "squuid": "6683ffb0-5e8d-463f-ad34-7a1a2b5a89e1",
   "owns": [
     {
       "type": "own",
@@ -24,11 +22,29 @@
     }
   ],
   "state": "active",
+  "city": "Insbruck (A)",
+  "pseudoCompany": false,
+  "name": "SIGNA Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "6683ffb0-5e8d-463f-ad34-7a1a2b5a89e1",
+  "controlDate": "2024-12-18T13:56:14.886Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "SIGNA Holding GmbH",
+        "squuid": "5d306b21-825e-4e21-9c40-d2838e993a28"
+      },
+      "squuid": "6762d4a7-76c9-4a2b-ab37-9147e45502f0",
+      "state": "active"
     }
   ]
 }
