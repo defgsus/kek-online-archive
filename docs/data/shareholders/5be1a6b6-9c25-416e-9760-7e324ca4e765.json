@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Zeit Sprachen GmbH",
-        "squuid": "5be1a6b6-f857-47cd-b763-80858f65a225"
-      },
-      "squuid": "5be1a6b8-91c2-4d91-8518-fa95e318256f",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Kistlerhofstr.",
@@ -22,23 +10,12 @@
   "streetNumber": "172",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "81379",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Zeitverlag Gerd Bucerius GmbH & Co KG",
-        "squuid": "5be1a6b6-dd6a-41c7-81ed-4225dceddcfb"
-      },
-      "squuid": "5be1a6b8-f4f0-47c1-8916-6ea02d48029c",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

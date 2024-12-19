@@ -19,7 +19,7 @@
   "name": "Ströer Management SE",
   "naturalPerson": false,
   "squuid": "5ef5c92e-331b-47ab-8629-9b0215273730",
-  "controlDate": "2024-07-10T13:30:10.363Z",
+  "controlDate": "2024-12-19T12:22:30.357Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -28,5 +28,27 @@
       "type": "organization"
     }
   ],
-  "zipcode": "50999"
+  "zipcode": "50999",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Müller, Udo",
+        "squuid": "5be1a6b6-708f-451b-8930-0a86f96e5c57"
+      },
+      "squuid": "67641016-0b51-4bfe-af3f-c945232bf9c9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Ströer, Dirk",
+        "squuid": "5be1a6b6-360d-4844-96af-0d8b97c8aeb9"
+      },
+      "squuid": "67641027-ee74-4cbd-aa06-a10c8a6dbc26",
+      "state": "active"
+    }
+  ]
 }

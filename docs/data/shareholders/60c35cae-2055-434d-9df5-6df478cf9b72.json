@@ -19,7 +19,7 @@
   "name": "Springer Nature Management AG",
   "naturalPerson": false,
   "squuid": "60c35cae-2055-434d-9df5-6df478cf9b72",
-  "controlDate": "2024-07-10T10:05:50.510Z",
+  "controlDate": "2024-12-19T10:19:10.061Z",
   "streetNumber": "3",
   "organizations": [
     {
@@ -28,5 +28,27 @@
       "type": "organization"
     }
   ],
-  "zipcode": "14197"
+  "zipcode": "14197",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 53.0,
+      "holder": {
+        "name": "GvH Vermögensverwaltungsgesellschaft XXXIII mbH",
+        "squuid": "5be1a6b6-4c26-46d7-97e6-374bb94f1a53"
+      },
+      "squuid": "6763f405-12bc-4132-ad5c-ed4e845b45a3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 47.0,
+      "holder": {
+        "name": "Springer Science + Business Media GP Acquisition S.C.A.",
+        "squuid": "5be1a6b6-85cf-42bc-aae9-ae90ba292b7b"
+      },
+      "squuid": "6763f41d-e71e-489d-8e68-927fb5f1643c",
+      "state": "active"
+    }
+  ]
 }

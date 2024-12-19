@@ -1,44 +1,20 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "StadtZeitung GmbH & Co. KG",
-        "squuid": "63d01052-a95e-4c08-a0ab-73af53d60897"
-      },
-      "squuid": "63d011ea-79ad-4b08-9906-dd2c104f6463",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Augsburg",
   "pseudoCompany": false,
   "street": "Langenmantelstr.",
   "name": "StadtZeitung Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "63d01071-294c-4538-815b-2823a22ffc0b",
-  "controlDate": "2024-07-10T12:30:34.615Z",
+  "controlDate": "2024-12-19T11:01:37.125Z",
   "streetNumber": "14",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "86153",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "StadtZeitung GmbH & Co. KG",
-        "squuid": "63d01052-a95e-4c08-a0ab-73af53d60897"
-      },
-      "squuid": "63d01248-b72d-4268-89ec-76a94db64e7e",
-      "state": "active"
-    }
-  ]
+  "zipcode": "86153"
 }
