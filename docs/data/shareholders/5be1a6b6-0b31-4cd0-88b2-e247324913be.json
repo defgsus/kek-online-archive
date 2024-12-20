@@ -4,7 +4,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Radio Idar-Oberstein Rundfunk GmbH",
+        "name": "",
         "squuid": "5be1a6b6-2ed4-4954-9997-de2591b35766"
       },
       "squuid": "5be1a6b7-5acc-4689-9479-b7b98c7e4857",
@@ -14,7 +14,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Antenne Südwestpfalz GmbH",
+        "name": "",
         "squuid": "5be1a6b6-e24b-4b63-bc4c-50f9a61cd907"
       },
       "squuid": "5f3bcba6-b126-4ada-9418-56b1ae90ef59",
@@ -38,7 +38,8 @@
         "squuid": "5be1a6b6-412b-4ae5-b2e9-ec72b2cdc4d3"
       },
       "squuid": "62c2b04d-7e31-4715-9329-5d949e899c2a",
-      "state": "active"
+      "state": "active",
+      "votingShares": 100.0
     },
     {
       "type": "own",
@@ -49,6 +50,16 @@
       },
       "squuid": "64524492-c36a-4eb8-b86c-e7ea0bb20ddf",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "The Radio Group GmbH",
+        "squuid": "5be1a6b6-1e78-44d0-ab3c-dc3f9a827c64"
+      },
+      "squuid": "66bb1726-c95e-49d7-8974-a9129bde445b",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -58,7 +69,7 @@
   "name": "The Radio Group Holding GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-0b31-4cd0-88b2-e247324913be",
-  "controlDate": "2024-07-11T11:18:38.040Z",
+  "controlDate": "2024-12-20T14:30:16.996Z",
   "streetNumber": "3",
   "organizations": [
     {
