@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 3.75,
-      "held": {
-        "name": "United Internet AG",
-        "squuid": "5be1a6b6-31a4-4dcb-803b-bd766012a357"
-      },
-      "squuid": "5be1a6b8-63f1-4735-b652-7017192a8c52",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": true,
   "name": "Eigenbesitz der United Internet AG",
-  "naturalPerson": false,
-  "squuid": "5be1a6b6-c459-4664-9aa3-80ba279c6949",
+  "pseudoCompany": true,
   "controlDate": "2019-07-05T09:18:54.665Z",
+  "squuid": "5be1a6b6-c459-4664-9aa3-80ba279c6949",
+  "credits": "IJK",
+  "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "credits": "IJK"
+  "naturalPerson": false
 }

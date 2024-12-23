@@ -1,14 +1,13 @@
 {
   "owns": [
     {
-      "complementaryPartner": true,
       "type": "own",
-      "capitalShares": 0.0,
+      "capitalShares": 0.25,
       "held": {
-        "name": "Pfeiffer Verlag und Medienservice GmbH & Co. KG",
-        "squuid": "5be1a6b6-ef99-4634-836e-dfecf0d08f20"
+        "name": "Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Radio 2000 KG",
+        "squuid": "5be1a6b6-cc99-4fd3-96f9-d2ef9847c76f"
       },
-      "squuid": "5ece624f-5f97-44db-a940-fbd781900923",
+      "squuid": "66bdb3ef-02b6-4254-b4e0-f84a637adc13",
       "state": "active"
     },
     {
@@ -18,17 +17,27 @@
         "name": "PZ/HZ Wochenzeitung GmbH & Co. oHG",
         "squuid": "63e4dfd3-24ce-45c4-9cef-a56e504db8c8"
       },
-      "squuid": "65521f33-a4e7-4199-ae4c-f588637f4966",
+      "squuid": "67692feb-0f4e-4074-9132-61d5bc2796cf",
       "state": "active"
     },
     {
       "type": "own",
-      "capitalShares": 0.25,
+      "capitalShares": 33.33,
       "held": {
-        "name": "Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Radio 2000 KG",
-        "squuid": "5be1a6b6-cc99-4fd3-96f9-d2ef9847c76f"
+        "name": "Medienverbund Nürnberger Land Verwaltungs GmbH",
+        "squuid": "5eff06e9-4e33-43b4-aa32-954e2c8d8db2"
       },
-      "squuid": "66bdb3ef-02b6-4254-b4e0-f84a637adc13",
+      "squuid": "6769306f-fe94-4e29-8b00-361f12f3b23d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Medienverbund Nürnberger Land GmbH & Co KG",
+        "squuid": "5be1a6b6-36b8-4d7c-8ffa-bfde1f8d601b"
+      },
+      "squuid": "67693085-e70d-4a70-94cf-e0455d8a3bd2",
       "state": "active"
     }
   ],
@@ -97,6 +106,26 @@
     }
   ],
   "zipcode": "91217",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Hersbrucker Zeitung",
+        "squuid": "5be1a6b1-67d3-4240-b6f6-8c527324229e"
+      },
+      "squuid": "67692f87-7fa1-4a15-a083-bdf4f166c048",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hersbrucker-zeitung.de",
+        "squuid": "65c3a2f4-dda4-4bc0-be71-8ac74fd5b9f1"
+      },
+      "squuid": "6769595d-abe1-4cbc-9f73-9164902b6bea",
+      "state": "active"
+    }
+  ],
   "ownedBy": [
     {
       "type": "own",
