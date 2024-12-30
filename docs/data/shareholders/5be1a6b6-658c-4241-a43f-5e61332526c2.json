@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Romance TV Geschäftsführungs GmbH",
-        "squuid": "61e05012-9b09-4bd8-b9a7-58d6e6643527"
-      },
-      "squuid": "61e83c13-9288-4291-962e-c4fd7f915b8b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Unterföhring",
   "pseudoCompany": false,
   "street": "Betastr.",
@@ -24,69 +12,12 @@
   "streetNumber": "9",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "85774",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Romance TV",
-        "squuid": "5be1a6b1-01cb-4500-863b-bba65b23ceb5"
-      },
-      "squuid": "5be1a6b9-9b07-48a2-bc42-6e0de58b1e83",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.romance-tv.de",
-        "squuid": "61b20d50-b569-49d4-94b9-686d1339e04e"
-      },
-      "squuid": "61b20d72-7bc7-47a1-acc6-3c868bb1aac1",
-      "state": "active"
-    }
-  ],
-  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 21.11.2016",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 71.43,
-      "holder": {
-        "name": "drei.eins Beteiligungs GmbH",
-        "squuid": "5be1a6b6-3b87-452d-9d07-c1cf927d830d"
-      },
-      "squuid": "5be1a6b7-28ed-4279-943c-6b51f9c1f1a0",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 28.57,
-      "holder": {
-        "name": "Merkur Thorhauer GmbH & Co. KG",
-        "squuid": "5be1a6b6-80f4-40a1-9801-590a31d82c7b"
-      },
-      "squuid": "5be1a6b7-20d0-4958-9986-c70477bacdb2",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Romance TV Geschäftsführungs GmbH",
-        "squuid": "61e05012-9b09-4bd8-b9a7-58d6e6643527"
-      },
-      "squuid": "61e050e3-422a-4a73-937a-755ceb49b361",
-      "state": "active"
-    }
-  ]
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 21.11.2016"
 }

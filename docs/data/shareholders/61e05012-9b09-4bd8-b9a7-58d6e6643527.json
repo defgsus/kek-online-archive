@@ -1,17 +1,4 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Romance TV GmbH & Co. KG",
-        "squuid": "5be1a6b6-658c-4241-a43f-5e61332526c2"
-      },
-      "squuid": "61e050e3-422a-4a73-937a-755ceb49b361",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Unterföhring",
   "pseudoCompany": false,
@@ -22,11 +9,6 @@
   "controlDate": "2024-12-16T14:39:18.061Z",
   "streetNumber": "9",
   "organizations": [
-    {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48,12 +30,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 71.43,
       "holder": {
-        "name": "Romance TV GmbH & Co. KG",
-        "squuid": "5be1a6b6-658c-4241-a43f-5e61332526c2"
+        "name": "drei.eins Beteiligungs GmbH",
+        "squuid": "5be1a6b6-3b87-452d-9d07-c1cf927d830d"
       },
-      "squuid": "61e83c13-9288-4291-962e-c4fd7f915b8b",
+      "squuid": "67603bde-be96-44db-a69d-50a577b52728",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 28.57,
+      "holder": {
+        "name": "Merkur Thorhauer GmbH & Co. KG",
+        "squuid": "5be1a6b6-80f4-40a1-9801-590a31d82c7b"
+      },
+      "squuid": "67603c05-9e31-473e-95cf-60e5ef96e5dd",
       "state": "active"
     }
   ]
