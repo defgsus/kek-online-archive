@@ -1,13 +1,30 @@
 {
   "name": "CUS Holding GmbH",
   "squuid": "676154df-ec5a-4268-972f-0cde301be5bd",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "S.D.U.S. GmbH",
+        "squuid": "668cf9ba-0723-4236-8183-495c36b246f9"
+      },
+      "squuid": "676154f9-8117-4791-9016-f1d483805d88",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }
