@@ -1,13 +1,30 @@
 {
   "name": "Waldenfels, Marie Freiin von",
   "squuid": "6762d394-5bf5-4887-aebe-59dbe3270427",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.25,
+      "held": {
+        "name": "Sigmund Scherdel GmbH & Co. KG",
+        "squuid": "5cb87d7c-d2ca-4f9d-8cb6-262f152e4247"
+      },
+      "squuid": "6762d3be-c5d4-4cb7-aa85-d83b0c34dbfb",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }

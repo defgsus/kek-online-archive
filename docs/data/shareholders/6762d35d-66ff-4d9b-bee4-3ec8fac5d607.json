@@ -1,13 +1,30 @@
 {
   "name": "Waldenfels, Konrad Freiherr von",
   "squuid": "6762d35d-66ff-4d9b-bee4-3ec8fac5d607",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.25,
+      "held": {
+        "name": "Sigmund Scherdel GmbH & Co. KG",
+        "squuid": "5cb87d7c-d2ca-4f9d-8cb6-262f152e4247"
+      },
+      "squuid": "6762d3aa-ff5c-4bb3-97cf-3dd019eaa08b",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }
