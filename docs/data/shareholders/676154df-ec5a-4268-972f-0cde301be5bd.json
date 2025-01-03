@@ -1,6 +1,4 @@
 {
-  "name": "CUS Holding GmbH",
-  "squuid": "676154df-ec5a-4268-972f-0cde301be5bd",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Karbach",
+  "pseudoCompany": false,
+  "street": "Bergstr.",
+  "name": "CUS Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "676154df-ec5a-4268-972f-0cde301be5bd",
+  "controlDate": "2025-01-03T10:31:58.057Z",
+  "streetNumber": "6",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +32,6 @@
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
-  ]
+  ],
+  "zipcode": "97842"
 }

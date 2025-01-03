@@ -1,27 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 5.26,
-      "held": {
-        "name": "Radio RT 4 GmbH & Co. Programm- und Beteiligungsgesellschaft KG",
-        "squuid": "5c98ece2-cbcf-4b69-b373-0f1117ff5746"
-      },
-      "squuid": "5ef31860-4b0b-4c94-9fcc-3ad1d504c8cf",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 5.26,
-      "held": {
-        "name": "Radio RT 4 Verwaltungs-GmbH",
-        "squuid": "5ef314c8-cb90-4e80-83ba-bb85608e5223"
-      },
-      "squuid": "5f9a96eb-6f45-4bc0-9ba2-4d73225902b0",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Ulm",
   "pseudoCompany": false,
   "street": "Frauenstr.",
@@ -33,57 +11,11 @@
   "streetNumber": "77",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
-      "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "89073",
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Schwäbisches Verlagshaus Neu-Ulm GmbH",
-        "squuid": "5f9a92e1-05ef-407b-adba-a8bd29c4cd6f"
-      },
-      "squuid": "5f9a9301-3b3b-4eae-bc50-f871da3cb40f",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Neue Pressegesellschaft mbH & Co. KG",
-        "squuid": "5be1a6b6-9a6a-4235-a5d2-f080b726ddef"
-      },
-      "squuid": "5f9a9333-f7be-414a-a2c1-fac9d4bb90b9",
-      "state": "active"
-    }
-  ]
+  "zipcode": "89073"
 }
