@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 70.0,
-      "held": {
-        "name": "Weser Verlag GmbH & Co. KG",
-        "squuid": "63e0c6c8-f470-4c8f-8838-8eec8ed36c77"
-      },
-      "squuid": "63e0c8af-d4b3-4cd9-878c-e2937dc902ca",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Bielefeld",
   "pseudoCompany": false,
   "street": "Sudbrackstr.",
@@ -22,22 +10,11 @@
   "streetNumber": "14",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "33611",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Westfalen-Blatt Vereinigte Zeitungsverlage GmbH & Co. KG",
-        "squuid": "5e1dbf05-b346-426d-a4eb-cfe11f1b031f"
-      },
-      "squuid": "63d7c61a-3502-4f1b-a900-12f43a1e2076",
-      "state": "active"
-    }
-  ]
+  "zipcode": "33611"
 }

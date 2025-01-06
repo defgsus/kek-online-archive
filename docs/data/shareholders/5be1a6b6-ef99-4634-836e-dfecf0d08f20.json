@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 0.21,
-      "held": {
-        "name": "Mediengesellschaft der bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Programm- und Werbegesellschaft",
-        "squuid": "5be1a6b6-c525-4b11-a1b7-9969a9671afb"
-      },
-      "squuid": "5be1a6b7-5ea7-48cd-a62d-a363283b3569",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Hersbruck",
   "pseudoCompany": false,
   "street": "Nürnberger Str. 7",
@@ -22,29 +10,12 @@
   "controlDate": "2024-12-06T11:30:57.818Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "91217",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Nordbayerische Verlagsgesellschaft mbH",
-        "squuid": "5be1a6b6-c472-41cd-929b-92ddc54a0324"
-      },
-      "squuid": "625fff6d-6b06-411b-8fe4-109eb44fd045",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
