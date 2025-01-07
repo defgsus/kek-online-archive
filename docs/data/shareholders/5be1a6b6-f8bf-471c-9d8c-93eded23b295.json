@@ -14,13 +14,13 @@
   "state": "active",
   "city": "Frankfurt/M.",
   "pseudoCompany": false,
-  "street": "Beethovenstr.",
-  "name": "WMP GmbH & Co. Medienbeteiligungs KG",
+  "street": "Vogelweidstr.",
+  "name": "WMB Wisser Medienbeteiligungs GmbH & Co. KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-f8bf-471c-9d8c-93eded23b295",
-  "controlDate": "2024-07-16T08:16:18.668Z",
-  "streetNumber": "65",
+  "controlDate": "2025-01-07T11:35:42.603Z",
+  "streetNumber": "19",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -40,22 +40,11 @@
       "fullName": "Medienanstalt Hessen"
     }
   ],
-  "zipcode": "60325",
+  "zipcode": "60596",
   "ownedBy": [
     {
-      "complementaryPartner": true,
       "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "WMP-Projektmanagement GmbH",
-        "squuid": "5ef9b24d-1c81-4ed9-a3d1-5166f7e1ac64"
-      },
-      "squuid": "5ef9b2e8-a913-4ad2-80cd-fa5792c43823",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 85.3,
+      "capitalShares": 97.06,
       "holder": {
         "name": "Claus Wisser Verwaltungs- und Beteiligungs GmbH & Co. KG",
         "squuid": "5ef9b28e-113a-485b-919c-e67fbbc0b967"
@@ -67,20 +56,21 @@
       "type": "own",
       "capitalShares": 2.94,
       "holder": {
-        "name": "Mangelsdorff, Ilselore",
-        "squuid": "5ef9b2c0-8789-4db5-900a-10e67a0771a4"
+        "name": "Mangelsdorff, Dr. Ralf",
+        "squuid": "66962c99-a606-49cc-80bf-cc039eb56786"
       },
-      "squuid": "5ef9b341-5925-4869-98f6-619050f4efd0",
+      "squuid": "66962cfa-4161-4cfc-aa24-876e11301f65",
       "state": "active"
     },
     {
+      "complementaryPartner": true,
       "type": "own",
-      "capitalShares": 11.76,
+      "capitalShares": 0.0,
       "holder": {
-        "name": "Koppe, Holger",
-        "squuid": "5ef9b2a9-4ba3-4ae2-9cc8-606cf22d370d"
+        "name": "Zweite DMNNB Immobilien Verwaltungs GmbH",
+        "squuid": "66962cd8-d510-4c49-b5cf-1b2300254d1f"
       },
-      "squuid": "5ef9b359-ec98-40d8-8181-8f98c34f6a60",
+      "squuid": "66962d19-a454-4a27-ba4a-c7e45a3d84d7",
       "state": "active"
     }
   ]
