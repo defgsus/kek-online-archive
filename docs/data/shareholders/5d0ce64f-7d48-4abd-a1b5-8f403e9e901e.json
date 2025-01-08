@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 3.24,
-      "held": {
-        "name": "zooplus AG",
-        "squuid": "5d0ce44c-a345-481b-845f-5f29983f0969"
-      },
-      "squuid": "5d0ce7b9-d81c-4b3f-ab05-536fd0c4763d",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Los Angeles (US)",
-  "pseudoCompany": false,
   "name": "Capital Research and Management Company",
-  "naturalPerson": false,
-  "squuid": "5d0ce64f-7d48-4abd-a1b5-8f403e9e901e",
+  "pseudoCompany": false,
   "controlDate": "2024-10-18T07:47:54.395Z",
+  "squuid": "5d0ce64f-7d48-4abd-a1b5-8f403e9e901e",
+  "city": "Los Angeles (US)",
+  "state": "archived",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": false
 }
