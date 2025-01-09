@@ -1,7 +1,6 @@
 {
   "pressPublishingIntervals": 52,
   "state": "active",
-  "rfShoppingChannel": false,
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
     "name": "Publikumszeitschrift",
@@ -9,38 +8,37 @@
     "state": "active"
   },
   "pressAsOfDate": "III/24",
-  "squuid": "5be1a6b1-ddd8-4e09-9f01-084ca7a7ffa0",
-  "marketReach": 1.6181323452787588,
+  "squuid": "677fa650-422c-4f1a-ae69-0292e0c925e6",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
       "holder": {
-        "name": "BurdaVerlag Publishing GmbH",
-        "squuid": "5be1a6b6-1fcb-4c6c-8d25-0c516c0ca8fc"
+        "name": "dbv network GmbH",
+        "squuid": "5be1a6b6-ad38-4046-9153-59f74395e4e6"
       },
-      "squuid": "62ecf2d9-4733-4b2d-b576-64dc56c2b6d9",
+      "squuid": "677fa6a6-970d-4138-a334-492b3683b46e",
       "state": "active"
     }
   ],
-  "name": "Freizeit Revue",
+  "name": "Bauernzeitung",
   "pressEditionsIVW": true,
+  "rfPublicPrivate": false,
   "pressDistributionArea": "bundesweit",
   "type": "print",
-  "controlDate": "2025-01-09T15:34:21.582Z",
-  "pressKind": "Frauen, wö",
-  "onlineOfferType": {
-    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
-    "name": "Online Medienangebot",
-    "type": "online-offer-type",
-    "state": "active"
+  "pressEditionsEpaper": 2608,
+  "controlDate": "2025-01-09T10:35:03.307Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
   },
-  "pressEditionsSold": 390098,
+  "pressKind": "Natur",
+  "pressEditionsSold": 14865,
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",
