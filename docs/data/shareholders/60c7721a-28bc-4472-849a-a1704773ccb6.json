@@ -13,7 +13,13 @@
     }
   ],
   "squuid": "60c7721a-28bc-4472-849a-a1704773ccb6",
+  "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
@@ -21,7 +27,6 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "state": "active",
   "operates": [
     {
       "type": "operate",
@@ -30,6 +35,15 @@
         "squuid": "5cee8220-17ea-45c4-a6cf-0b32ebfe69b8"
       },
       "squuid": "60c77242-b149-4d6c-90b2-3bfebeb9cd8d",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvingolstadt.de",
+        "squuid": "67828f22-6772-493c-98af-49fd83d9b76a"
+      },
+      "squuid": "67828f9a-80ab-414c-bc6f-9c277bb034b5",
       "state": "active"
     }
   ]
