@@ -4,12 +4,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 79.5,
       "holder": {
         "name": "Ingenio Holding Company, LLC",
         "squuid": "627114f8-3a68-4bef-a27e-f443ed0ccd0f"
       },
       "squuid": "62711bd7-0da5-4eac-8f4e-588bb502ad87",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.5,
+      "holder": {
+        "name": "Aktuelle u. ehemalige Mitglieder des Managements der Ingenio, LLC",
+        "squuid": "65a10edb-c393-4771-8e4f-ac329be10043"
+      },
+      "squuid": "65a10fa5-ebda-427c-b471-8ac735063cd9",
       "state": "active"
     }
   ],
@@ -26,7 +36,13 @@
       "state": "active"
     }
   ],
+  "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
@@ -34,6 +50,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "state": "active",
   "naturalPerson": false
 }

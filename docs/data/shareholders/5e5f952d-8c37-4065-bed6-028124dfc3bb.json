@@ -1,5 +1,6 @@
 {
   "name": "Groupe Marc de Lacharrière S.A.",
+  "pseudoCompany": false,
   "controlDate": "2023-10-26T10:30:25.326Z",
   "squuid": "5e5f952d-8c37-4065-bed6-028124dfc3bb",
   "owns": [
@@ -17,14 +18,10 @@
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     }
-  ]
+  ],
+  "naturalPerson": false
 }

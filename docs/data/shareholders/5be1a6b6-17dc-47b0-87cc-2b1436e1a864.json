@@ -64,13 +64,20 @@
   "state": "active",
   "city": "Mainz",
   "pseudoCompany": false,
-  "street": "Erich-Dombrowski-Str. 2",
-  "name": "VRM GmbH & Co KG",
+  "street": "Erich-Dombrowski-Str. ",
+  "name": "VRM GmbH & Co. KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-17dc-47b0-87cc-2b1436e1a864",
+  "otherMediaActivities": "Die VRM GmbH & Co. KG gibt regionale Tageszeitungen im Rhein-Main-Gebiet, in Süd- und Mittelhessen heraus. Daneben bestehen verschiedene Hörfunkbeteiligungen.",
   "controlDate": "2025-01-04T17:11:16.304Z",
+  "streetNumber": "2",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -621,6 +628,15 @@
         "squuid": "669938bd-eaf8-46a2-957f-066aa929d376"
       },
       "squuid": "66993935-6410-4f22-9fbe-d823ba7b639e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "VRM live",
+        "squuid": "6785154e-620f-4f8d-b081-5571c42e54c8"
+      },
+      "squuid": "6785183f-62d3-4228-b629-a73d9d5b9cc9",
       "state": "active"
     }
   ],

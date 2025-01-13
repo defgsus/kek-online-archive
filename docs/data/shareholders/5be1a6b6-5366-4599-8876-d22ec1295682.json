@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Ridlerstraße 55",
@@ -9,48 +9,12 @@
   "controlDate": "2024-07-15T13:07:36.212Z",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "80339",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.mein-mmo.de",
-        "squuid": "5be1a6b1-4c98-4605-9db3-04dad4711bc3"
-      },
-      "squuid": "5be1a6b9-95b8-475f-8d5f-d07b23d814d7",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Multi-Channel-Network Webedia",
-        "squuid": "5e5f9584-ab14-4507-9a1d-5404dd5302a3"
-      },
-      "squuid": "5e5f9800-e7f8-4d7b-8da1-58232a2364e6",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Webedia GmbH",
-        "squuid": "5be1a6b6-0f93-4f35-9b21-42a3e80b70aa"
-      },
-      "squuid": "5be1a6b8-f0ff-4a3a-8204-6852110f6d4e",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

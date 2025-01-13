@@ -1,8 +1,8 @@
 {
-  "rfRepresentative": "Olaf Schröder, Dr. Matthias Kirschenhofer, Pit Gottschalk",
+  "rfRepresentative": "Dr. Matthias Kirschenhofer, Robin Seckler",
   "state": "active",
   "rfShoppingChannel": false,
-  "rfParentalAdvisor": "Michael Zimmer",
+  "rfParentalAdvisor": "Kim-Meindl Britt",
   "rfStartDate": "24.01.2019",
   "rfFreePay": false,
   "squuid": "5be1a6b1-5f8c-4a42-acda-3a0788ef5900",
@@ -28,8 +28,8 @@
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-    "name": "auf Sendung",
+    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+    "name": "Sendebetrieb eingestellt",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -58,7 +58,7 @@
   "platformOperators": [
     {
       "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
-      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "name": "Magenta TV / Deutsche Telekom GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
@@ -69,7 +69,7 @@
     },
     {
       "squuid": "5be1a6b0-2fa4-4160-a33b-8b51c00997a4",
-      "name": "Vodafone Kabel Deutschland GmbH (GIGA TV)",
+      "name": "GIGA TV Net / Vodafone Kabel Deutschland GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
@@ -80,7 +80,7 @@
     },
     {
       "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
-      "name": "Sky",
+      "name": "Sky / Sky Deutschland Fernsehen GmbH & Co. KG",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
@@ -102,7 +102,7 @@
     },
     {
       "squuid": "5be1a6b0-ad9e-4670-b9d9-71ea6517791a",
-      "name": "Zattoo",
+      "name": "Zattoo / Zattoo AG",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
@@ -113,33 +113,33 @@
     },
     {
       "squuid": "5be1a6b0-c433-49e9-b390-5073f0f89b78",
-      "name": "waipu.tv (EXARING AG)",
+      "name": "waipu.tv / EXARING AG",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
         "name": "IPTV",
-        "type": "distribution-type"
-      },
-      "state": "active"
-    },
-    {
-      "squuid": "5be1a6b0-2a80-4b57-9a14-77c549d0ed24",
-      "name": "Prime Video (Amazon Instant Video Germany GmbH)",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
-        "name": "OTT",
         "type": "distribution-type"
       },
       "state": "active"
     },
     {
       "squuid": "5e7b9563-98d5-457b-afe1-2403a5dacf39",
-      "name": "1&1 Telecom GmbH",
+      "name": "1&1 HD TV / 1&1 Telecom GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
         "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5e7b9563-2cbd-4017-b9b5-6e547f075c79",
+      "name": "Joyn / Joyn GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
         "type": "distribution-type"
       },
       "state": "active"

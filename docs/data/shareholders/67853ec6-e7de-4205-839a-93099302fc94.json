@@ -1,0 +1,39 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "name": "Absolut Fußball GmbH",
+  "naturalPerson": false,
+  "squuid": "67853ec6-e7de-4205-839a-93099302fc94",
+  "controlDate": "2025-01-13T16:29:39.655Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fussball.news",
+        "squuid": "67853e99-49fd-4279-8241-f8eeb457c766"
+      },
+      "squuid": "67853f15-420e-4827-a5dd-6c26fe6e9712",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 70.0,
+      "holder": {
+        "name": "ID Metropolen News GmbH",
+        "squuid": "5ecd04cd-1105-41ef-a205-d30dc50f8fbd"
+      },
+      "squuid": "67854033-bd7a-487a-b82c-21590d69c428",
+      "state": "active"
+    }
+  ]
+}
