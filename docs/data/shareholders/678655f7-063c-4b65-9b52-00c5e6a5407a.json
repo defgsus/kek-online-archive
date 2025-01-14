@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Karl-Wiechert-Allee",
+  "name": "Deep Content GmbH",
+  "naturalPerson": false,
+  "squuid": "678655f7-063c-4b65-9b52-00c5e6a5407a",
+  "controlDate": "2025-01-14T12:21:11.690Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30625",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mixed.de",
+        "squuid": "6786560b-d6e0-43e5-943e-fd1a04861bb6"
+      },
+      "squuid": "67865646-dd5d-4b64-b7d3-1e86d4323268",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Heise Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-dea3-4150-8ba6-7e255764afee"
+      },
+      "squuid": "678656ee-824f-4d23-97c1-99a04611f627",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.5,
+      "holder": {
+        "name": "Bastian, Matthias",
+        "squuid": "67865695-c99b-4d68-b78e-2c69fce16eae"
+      },
+      "squuid": "678656fd-a9e2-41f2-af97-bdee281fad85",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.5,
+      "holder": {
+        "name": "Danneberg, Benjamin",
+        "squuid": "678656a6-3e43-4de8-b56b-f5e3abaed2b4"
+      },
+      "squuid": "67865709-4ee6-491a-891b-220ddb9697a4",
+      "state": "active"
+    }
+  ]
+}
