@@ -1,13 +1,30 @@
 {
   "name": "wob consult AG",
   "squuid": "677d1403-22fe-47da-938d-e180c92c2817",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "wob AG",
+        "squuid": "62cfdfe2-8951-409b-afb8-416bcb0534a6"
+      },
+      "squuid": "677d142c-ff32-4329-8ea7-2afe3a876bfd",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "Medienanstalt RLP",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Rheinland-Pfalz"
     }
   ]
 }

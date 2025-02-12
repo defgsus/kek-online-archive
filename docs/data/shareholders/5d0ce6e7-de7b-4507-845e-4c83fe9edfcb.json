@@ -1,23 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 5.0,
-      "held": {
-        "name": "zooplus AG",
-        "squuid": "5d0ce44c-a345-481b-845f-5f29983f0969"
-      },
-      "squuid": "5d0ce778-6044-47cb-bd30-cb4d84a6212c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "München",
-  "pseudoCompany": true,
   "name": "zooplus AG Management (Dr. Cornelius Patt, Florian Welz, Andreas Grandinger, Dr. Mischa Ritter)",
-  "naturalPerson": true,
-  "squuid": "5d0ce6e7-de7b-4507-845e-4c83fe9edfcb",
+  "pseudoCompany": true,
   "controlDate": "2023-07-12T12:58:53.343Z",
+  "squuid": "5d0ce6e7-de7b-4507-845e-4c83fe9edfcb",
+  "city": "München",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -25,5 +12,6 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

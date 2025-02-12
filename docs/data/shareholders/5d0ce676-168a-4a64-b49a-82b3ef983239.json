@@ -1,23 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 3.02,
-      "held": {
-        "name": "zooplus AG",
-        "squuid": "5d0ce44c-a345-481b-845f-5f29983f0969"
-      },
-      "squuid": "5d0ce792-a74c-40f8-86fb-e6e60d31dd7f",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "New York City (US)",
-  "pseudoCompany": false,
   "name": "Oppenheimer International (Oppenheimer & Co. Inc.)",
-  "naturalPerson": false,
-  "squuid": "5d0ce676-168a-4a64-b49a-82b3ef983239",
+  "pseudoCompany": false,
   "controlDate": "2024-07-02T12:09:43.263Z",
+  "squuid": "5d0ce676-168a-4a64-b49a-82b3ef983239",
+  "city": "New York City (US)",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -25,5 +12,6 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": false
 }

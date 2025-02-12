@@ -1,23 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 3.1,
-      "held": {
-        "name": "zooplus AG",
-        "squuid": "5d0ce44c-a345-481b-845f-5f29983f0969"
-      },
-      "squuid": "5d0ce7a8-a101-4ff9-bdeb-50ea2099b540",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Luxemburg",
-  "pseudoCompany": false,
   "name": "Luxempart S.A.",
-  "naturalPerson": false,
-  "squuid": "5d0ce663-68d4-4fc7-bc37-b57932ed1d7d",
+  "pseudoCompany": false,
   "controlDate": "2024-11-20T15:46:23.183Z",
+  "squuid": "5d0ce663-68d4-4fc7-bc37-b57932ed1d7d",
+  "city": "Luxemburg",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -25,5 +12,6 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": false
 }

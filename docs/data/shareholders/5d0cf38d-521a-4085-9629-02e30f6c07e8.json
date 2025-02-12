@@ -1,27 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 0.65,
-      "held": {
-        "name": "Maxburg Beteiligungen GmbH & Co. KG",
-        "squuid": "5d0ce5f5-23cb-47fe-bebb-58dd25a87346"
-      },
-      "squuid": "5d0cf486-37c1-447f-82ab-4ef59d947027",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 12.5,
-      "held": {
-        "name": "Maxburg Initiatoren GmbH & Co. KG",
-        "squuid": "5d0cf3cb-96fd-494c-8d57-525294c7401d"
-      },
-      "squuid": "5d0cf97a-e7ad-4ddd-bb71-169c4f2d71be",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Promenadeplatz",
@@ -38,47 +16,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "80333",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 25.93,
-      "holder": {
-        "name": "Eigenbesitz der Maxburg Capital Partners GmbH",
-        "squuid": "5d0cf62c-eeb2-452a-9570-5de05e53d6ea"
-      },
-      "squuid": "5d0cf69e-27ec-417f-8be7-757c53520025",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 33.33,
-      "holder": {
-        "name": "Greve, Moritz",
-        "squuid": "5d0cf653-3d2d-4428-97e0-9ec4120ba810"
-      },
-      "squuid": "5d0cf6be-b092-4777-901d-8113d65e3fe2",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 33.33,
-      "holder": {
-        "name": "Treptow, Dr. Felix",
-        "squuid": "5d0cf677-931a-4faf-96f3-d38a9b5972c0"
-      },
-      "squuid": "5d0cf6d7-f287-4c41-b111-75eed9aa7d1a",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 7.41,
-      "holder": {
-        "name": "Seubert, Florian",
-        "squuid": "5d0cf663-3dc0-491a-8a59-ae54bfc74ef3"
-      },
-      "squuid": "5d0cf6f3-ed63-495f-aa4d-a5831b12778a",
-      "state": "active"
-    }
-  ]
+  "zipcode": "80333"
 }
