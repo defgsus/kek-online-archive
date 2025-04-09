@@ -2,40 +2,30 @@
   "state": "active",
   "city": "Nürburg",
   "pseudoCompany": false,
-  "street": "Nürburgring Boulevard",
+  "street": "Otto-Flimm-Straße",
   "name": "VLN VV GmbH & Co. KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5fd4004a-fc02-4e89-adec-ab42e6e45b2f",
-  "streetNumber": "1",
+  "streetNumber": "",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "53520",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Nürburgring Langstrecken-Serie",
-        "squuid": "5fd40026-2c50-41cb-aa76-17f406356ea8"
-      },
-      "squuid": "5fd4041d-f071-4c38-b14a-2e201c5181be",
-      "state": "active"
-    }
-  ],
   "ownedBy": [
     {
       "type": "own",
       "capitalShares": 60.0,
       "holder": {
         "name": "Nürburgring Holding GmbH",
-        "squuid": "651d6ce4-8179-40ea-9bc8-82938cf5cb4e"
+        "squuid": "5fd400ca-643b-441b-aa09-0e9001bd03ad"
       },
-      "squuid": "651d7111-275a-43d3-b63d-c8e68fb3220b",
+      "squuid": "651e8756-3f88-47d9-aecd-0a8d4aae3ab4",
       "state": "active"
     },
     {
@@ -43,9 +33,9 @@
       "capitalShares": 40.0,
       "holder": {
         "name": "VLN Sport GmbH & Co. KG",
-        "squuid": "651d6d4a-da24-4966-b639-8b54faa43138"
+        "squuid": "5fd400fa-f697-4d5e-82de-bb5a6693a489"
       },
-      "squuid": "651d7126-1290-48ad-917f-a8a399c3fedb",
+      "squuid": "651e8773-15ae-4d3b-b3be-476331965499",
       "state": "active"
     }
   ]
