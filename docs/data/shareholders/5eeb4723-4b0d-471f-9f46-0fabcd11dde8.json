@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Abendzeitung Digital GmbH & Co KG",
-        "squuid": "5bed6f9c-8130-4d42-a189-9e9f827c4530"
-      },
-      "squuid": "5eeb4752-b3ed-4dd5-a52c-e4848385654c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Garmischer Str.",
@@ -23,22 +10,11 @@
   "streetNumber": "35",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "81373",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Abendzeitung Digital GmbH & Co KG",
-        "squuid": "5bed6f9c-8130-4d42-a189-9e9f827c4530"
-      },
-      "squuid": "66ffd618-3ce0-4e60-b30c-03bd768c8a25",
-      "state": "active"
-    }
-  ]
+  "zipcode": "81373"
 }

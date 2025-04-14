@@ -2,12 +2,12 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 78.32,
+      "capitalShares": 100.0,
       "held": {
-        "name": "1&1 Telecommunication SE",
-        "squuid": "5be1a6b6-41a9-4457-98af-53c91985dde5"
+        "name": "1&1 Mail & Media Applications SE",
+        "squuid": "5be1a6b6-f4a0-4713-93d7-8df3dd2f7ded"
       },
-      "squuid": "5be1a6b8-b1f5-4c5a-b0bf-425951d7776d",
+      "squuid": "67fd124b-36d5-49f0-99f5-c613d64c619c",
       "state": "active"
     }
   ],
@@ -22,9 +22,10 @@
   "streetNumber": "57",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "56410",
@@ -33,17 +34,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 9.99,
-      "holder": {
-        "name": "Eigenbesitz der United Internet AG",
-        "squuid": "5be1a6b6-c459-4664-9aa3-80ba279c6949"
-      },
-      "squuid": "5be1a6b8-63f1-4735-b652-7017192a8c52",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 36.15,
+      "capitalShares": 31.19,
       "holder": {
         "name": "Streubesitz an der United Internet AG",
         "squuid": "5be1a6b6-cfbd-48f1-b8bd-3cfdaa540af2"
@@ -53,7 +44,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 47.89,
+      "capitalShares": 53.21,
       "holder": {
         "name": "Ralph Dommermuth GmbH & Co. KG Beteiligungsgesellschaft",
         "squuid": "5ef47033-bf69-45ea-bbce-049b207d5ea9"
@@ -63,7 +54,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 1.04,
+      "capitalShares": 1.16,
       "holder": {
         "name": "RD Holding GmbH & Co. KG",
         "squuid": "63627af5-2e24-4a94-aa61-42cbf16906ea"
@@ -73,12 +64,32 @@
     },
     {
       "type": "own",
-      "capitalShares": 4.93,
+      "capitalShares": 5.48,
       "holder": {
         "name": "Bank of America Corporation",
         "squuid": "5be1a6b6-153e-4a7e-aaf7-a5668a094638"
       },
       "squuid": "65647d20-7a9f-40d1-84fa-f73bc38ade0c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.35,
+      "holder": {
+        "name": "Wellington Group",
+        "squuid": "67694666-3e77-4440-97f3-58dbce282c38"
+      },
+      "squuid": "67694688-6d8d-4330-9771-428b282e22b8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.61,
+      "holder": {
+        "name": "Helikon Group",
+        "squuid": "676946d3-38e5-4cd5-990f-fcd133a05985"
+      },
+      "squuid": "676946f0-1039-41cd-8e50-f6480b1ed096",
       "state": "active"
     }
   ]

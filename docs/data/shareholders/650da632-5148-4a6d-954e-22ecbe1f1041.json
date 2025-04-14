@@ -1,24 +1,15 @@
 {
   "name": "Streubesitz an der 1&1 Telecommunication SE",
+  "pseudoCompany": true,
   "squuid": "650da632-5148-4a6d-954e-22ecbe1f1041",
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 21.42,
-      "held": {
-        "name": "1&1 Telecommunication SE",
-        "squuid": "5be1a6b6-41a9-4457-98af-53c91985dde5"
-      },
-      "squuid": "650da679-c40b-4b32-a7ba-8a3bae587651",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": false
 }

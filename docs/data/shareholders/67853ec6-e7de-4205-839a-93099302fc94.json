@@ -2,10 +2,12 @@
   "state": "active",
   "city": "München",
   "pseudoCompany": false,
+  "street": "Gotzinger Str.",
   "name": "Absolut Fußball GmbH",
   "naturalPerson": false,
   "squuid": "67853ec6-e7de-4205-839a-93099302fc94",
-  "controlDate": "2025-01-13T16:29:39.655Z",
+  "controlDate": "2025-04-14T16:48:42.480Z",
+  "streetNumber": "54",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -13,6 +15,7 @@
       "type": "organization"
     }
   ],
+  "zipcode": "81371",
   "operates": [
     {
       "type": "operate",
@@ -33,6 +36,26 @@
         "squuid": "5ecd04cd-1105-41ef-a205-d30dc50f8fbd"
       },
       "squuid": "67854033-bd7a-487a-b82c-21590d69c428",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Schlüter, Sascha",
+        "squuid": "67fd3c27-477a-4701-b842-5fbd172c04bf"
+      },
+      "squuid": "67fd3c4d-c8a1-4ca8-a592-a9e70d344f27",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.0,
+      "holder": {
+        "name": "Michel, Daniel",
+        "squuid": "67fd3c31-422f-4398-b324-eefe48721778"
+      },
+      "squuid": "67fd3c66-37b8-459b-b7ba-bbf7841f7587",
       "state": "active"
     }
   ]

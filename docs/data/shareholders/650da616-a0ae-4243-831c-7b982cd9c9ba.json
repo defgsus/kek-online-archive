@@ -1,24 +1,15 @@
 {
   "name": "Eigenbesitz der 1&1 Telecommunication SE",
+  "pseudoCompany": true,
   "squuid": "650da616-a0ae-4243-831c-7b982cd9c9ba",
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 0.26,
-      "held": {
-        "name": "1&1 Telecommunication SE",
-        "squuid": "5be1a6b6-41a9-4457-98af-53c91985dde5"
-      },
-      "squuid": "650da648-4f08-4087-9fe5-c40887d8451f",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": false
 }

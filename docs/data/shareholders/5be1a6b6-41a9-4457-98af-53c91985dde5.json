@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "1&1 Mail & Media Applications SE",
-        "squuid": "5be1a6b6-f4a0-4713-93d7-8df3dd2f7ded"
-      },
-      "squuid": "5be1a6b8-e463-4b4d-ab7c-8748cdebd9c6",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Montabaur",
   "pseudoCompany": false,
   "street": "Elgendorfer Str. 57",
@@ -21,43 +9,12 @@
   "controlDate": "2024-08-21T09:42:10.506Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "56410",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 78.32,
-      "holder": {
-        "name": "United Internet AG",
-        "squuid": "5be1a6b6-31a4-4dcb-803b-bd766012a357"
-      },
-      "squuid": "5be1a6b8-b1f5-4c5a-b0bf-425951d7776d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.26,
-      "holder": {
-        "name": "Eigenbesitz der 1&1 Telecommunication SE",
-        "squuid": "650da616-a0ae-4243-831c-7b982cd9c9ba"
-      },
-      "squuid": "650da648-4f08-4087-9fe5-c40887d8451f",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 21.42,
-      "holder": {
-        "name": "Streubesitz an der 1&1 Telecommunication SE",
-        "squuid": "650da632-5148-4a6d-954e-22ecbe1f1041"
-      },
-      "squuid": "650da679-c40b-4b32-a7ba-8a3bae587651",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

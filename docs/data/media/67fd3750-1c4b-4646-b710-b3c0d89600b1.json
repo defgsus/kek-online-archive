@@ -1,0 +1,48 @@
+{
+  "pressPublishingIntervals": 52,
+  "state": "active",
+  "squuid": "67fd3750-1c4b-4646-b710-b3c0d89600b1",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RND RedaktionsNetzwerk Deutschland GmbH",
+        "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d"
+      },
+      "squuid": "67fd37c6-d06c-457a-a549-bc0434bb24f8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Abendzeitung München Verlags-GmbH",
+        "squuid": "5be1a6b6-cbfd-4471-b6a8-126aca7ee7c3"
+      },
+      "squuid": "67fd37d2-80a4-468b-9410-c2a4195829f4",
+      "state": "active"
+    }
+  ],
+  "name": "AZ am Sonntag (München)",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "nur als ePaper",
+  "type": "print",
+  "controlDate": "2025-04-14T16:29:12.001Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "pressEditionsComments": "Produktion des RND Redaktionsnetzwerks Deutschland GmbH (Hannover) als digitale Sonntagsausgabe für die Abendzeitung München",
+  "pressType": {
+    "squuid": "5be1a6b0-4e68-459d-a5ee-da3974114c2a",
+    "name": "E-Paper",
+    "type": "press-type",
+    "state": "active"
+  }
+}

@@ -1,53 +1,20 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Parship Group GmbH",
-        "squuid": "5c51ce6e-7e66-4fe5-9230-023b1707811e"
-      },
-      "squuid": "63bea7bc-2395-4b31-94cf-17cd7311f63d",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Speersort",
   "name": "7Love Holding GmbH",
   "naturalPerson": false,
   "squuid": "5c51d09c-4dc0-4aeb-8ba3-bc3f77848e3c",
-  "controlDate": "2024-08-21T10:59:31.278Z",
+  "controlDate": "2025-04-14T14:47:36.900Z",
   "streetNumber": "10",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "20095",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 5.8,
-      "holder": {
-        "name": "PEG Management GmbH & Co. KG",
-        "squuid": "5e203cc0-aed9-45b8-a272-5c22a5c2f4e6"
-      },
-      "squuid": "5e203ce3-85a8-44b5-987c-a8044cc415f6",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 94.2,
-      "holder": {
-        "name": "ParshipMeet Holding GmbH",
-        "squuid": "63beaa43-4ca3-42b1-88d9-20857c390059"
-      },
-      "squuid": "63beaa66-51e5-4d24-815a-f2037ce0e6db",
-      "state": "active"
-    }
-  ]
+  "zipcode": "20095"
 }
