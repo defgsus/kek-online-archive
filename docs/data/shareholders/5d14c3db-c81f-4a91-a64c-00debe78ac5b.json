@@ -12,7 +12,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 76.5,
+      "capitalShares": 100.0,
       "held": {
         "name": "Westfälische Medien Holding AG",
         "squuid": "5e1dbf6a-1c4a-47cf-92d6-f85fa7fded35"
@@ -28,7 +28,7 @@
   "name": "AM Holding AG",
   "naturalPerson": false,
   "squuid": "5d14c3db-c81f-4a91-a64c-00debe78ac5b",
-  "controlDate": "2025-01-06T15:01:36.905Z",
+  "controlDate": "2025-04-15T12:45:00.605Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -53,12 +53,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 89.1,
       "holder": {
         "name": "Aschendorff GmbH & Co. KG",
         "squuid": "5be1a6b6-4cca-4ddc-b1c8-f651fbf3105a"
       },
       "squuid": "5d1b13a9-3d10-4e93-8623-db106fc843ea",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.1,
+      "holder": {
+        "name": "C.W. Busse Holding GmbH",
+        "squuid": "5be1a6b6-5540-4cd0-b003-a32ee86abad7"
+      },
+      "squuid": "677bf03f-9a30-4726-91ff-f2f3bafca74f",
       "state": "active"
     }
   ]

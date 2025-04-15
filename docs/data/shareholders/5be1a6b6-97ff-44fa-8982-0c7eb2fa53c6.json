@@ -445,15 +445,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "www.allgaeuer-zeitung.de",
-        "squuid": "6113ca70-12aa-42ed-8a81-7caa11ec908b"
-      },
-      "squuid": "619cd3cb-8046-4460-88e3-442b819ba86f",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "Ammersee-Kurier",
         "squuid": "5be1a6b1-36dc-4470-b421-56461866325d"
       },
@@ -625,15 +616,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "www.buchloer-zeitung.de",
-        "squuid": "65b90cdf-4713-4318-b262-302ec3e78211"
-      },
-      "squuid": "65b90d42-639a-4c8f-b92d-7ce4fc5f785e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "Main Post",
         "squuid": "5be1a6b1-dcf1-4dfd-8ea4-116164a0a989"
       },
@@ -700,12 +682,42 @@
     },
     {
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 30.0,
       "holder": {
         "name": "Scherer, Ellinor",
         "squuid": "5be1a6b6-7e99-44bf-a402-968de38d5ca6"
       },
       "squuid": "5be1a6b7-ba9d-4638-ae6f-f9f8ded53a8f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.67,
+      "holder": {
+        "name": "Scherer, Antonia",
+        "squuid": "67530b43-6b59-4fe5-86ae-6e19b63aae34"
+      },
+      "squuid": "67530b71-27f3-4a0d-a8ee-5e996c2205c2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.67,
+      "holder": {
+        "name": "Scherer, Benedict",
+        "squuid": "67530b35-3318-426c-b7c5-9fcb152531c6"
+      },
+      "squuid": "67530b87-df3d-41ba-9503-c09bf9ec178d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.67,
+      "holder": {
+        "name": "Scherer, Victoria",
+        "squuid": "67530b27-e2d3-4600-b431-a9525f0d7465"
+      },
+      "squuid": "67530ba0-6928-4a94-bee1-364c29216b7c",
       "state": "active"
     }
   ]

@@ -1,42 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Münster",
   "pseudoCompany": false,
   "street": "An der Hansalinie",
   "name": "AGM Produktions- und Vermarktungs GmbH",
   "naturalPerson": false,
   "squuid": "63c804a7-4b0a-4e08-b56b-b3b5bd8a9c34",
-  "controlDate": "2024-08-29T13:52:10.344Z",
+  "controlDate": "2025-04-15T10:07:02.656Z",
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "48163",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.ag-muensterland.de",
-        "squuid": "63d944fa-4b07-481c-b1e2-9f5c70a727d3"
-      },
-      "squuid": "63d94538-b8d0-4b50-8ab0-1842691d1fda",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Aschendorff Medien GmbH & Co. KG",
-        "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c"
-      },
-      "squuid": "63c80694-d4de-42d6-a383-125b4b3a7167",
-      "state": "active"
-    }
-  ]
+  "zipcode": "48163"
 }
