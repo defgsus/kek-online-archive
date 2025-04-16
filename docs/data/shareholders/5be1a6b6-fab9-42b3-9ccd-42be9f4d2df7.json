@@ -28,6 +28,7 @@
   "name": "AMC Networks Inc.",
   "naturalPerson": false,
   "squuid": "5be1a6b6-fab9-42b3-9ccd-42be9f4d2df7",
+  "controlDate": "2025-04-16T10:22:25.012Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -50,12 +51,44 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 73.0,
+      "capitalShares": 28.61,
       "holder": {
-        "name": "Familie Dolan (Stimmrechte)",
-        "squuid": "5be1a6b6-2e2f-4175-ac92-249b4ea00848"
+        "name": "Dolan Family Group",
+        "squuid": "66605a14-b35f-43c8-a63f-417d0edd13a7"
       },
-      "squuid": "5be1a6b8-15fd-4427-8f1d-10cc68d84735",
+      "squuid": "66605a58-4a46-439e-809f-bf092c0baea9",
+      "state": "active",
+      "votingShares": 78.72
+    },
+    {
+      "type": "own",
+      "capitalShares": 52.58,
+      "holder": {
+        "name": "Streubesitz an der AMC Networks Inc.",
+        "squuid": "66605abc-5945-4b27-82d0-2c4ca413f632"
+      },
+      "squuid": "66605b20-a004-409d-a8b0-0bae2c9cdd80",
+      "state": "active",
+      "votingShares": 21.28
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.17,
+      "holder": {
+        "name": "BlackRock, Inc.",
+        "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
+      },
+      "squuid": "66605b4f-80b8-4e1e-993f-9b3a780fa812",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.64,
+      "holder": {
+        "name": "The Vanguard Group, Inc.",
+        "squuid": "5be1a6b6-eb02-41f1-8b69-58db68c8db1f"
+      },
+      "squuid": "66605b7a-af45-402b-be84-ecdd5a61341b",
       "state": "active"
     }
   ]
