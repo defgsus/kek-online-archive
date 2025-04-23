@@ -2,6 +2,7 @@
   "name": "ABDA - Bundesvereinigung Deutscher Apothekerverbände e.V.",
   "controlDate": "2020-06-18T12:27:20.012Z",
   "squuid": "5c45e910-2acc-408c-a327-8c4d3d4ebe95",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -9,7 +10,6 @@
       "type": "organization"
     }
   ],
-  "state": "active",
   "operates": [
     {
       "type": "operate",
@@ -18,6 +18,15 @@
         "squuid": "5be1a6b1-7dde-4b32-99e3-48811a296269"
       },
       "squuid": "5c45e932-9cb9-4a9c-8a7d-70995cace0c5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pharmazeutische-zeitung.de",
+        "squuid": "5c5446eb-05cf-43c3-8dbb-9e57daa4e673"
+      },
+      "squuid": "6808f8c3-57b4-42a4-b3f9-e78a0b0fe901",
       "state": "active"
     }
   ]

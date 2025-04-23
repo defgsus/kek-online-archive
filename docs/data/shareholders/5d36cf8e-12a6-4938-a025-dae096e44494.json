@@ -1,43 +1,20 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Axel Springer Digital Classifieds Holding GmbH",
-        "squuid": "5d36cf72-bf7f-4aa3-ac1f-9fd77ed425dc"
-      },
-      "squuid": "5d36d006-7c82-44e6-87c3-8980164e6f02",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Axel-Springer-Straße ",
   "name": "Axel Springer Digital Classifieds GmbH",
   "naturalPerson": false,
   "squuid": "5d36cf8e-12a6-4938-a025-dae096e44494",
-  "controlDate": "2024-10-04T11:21:39.320Z",
+  "controlDate": "2025-04-23T14:50:08.671Z",
   "streetNumber": "65",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "10888",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Axel Springer Digital GmbH",
-        "squuid": "5be1a6b6-09f0-4b30-8ff1-06cea1a7e0ab"
-      },
-      "squuid": "5d36d044-e6b7-46d7-a921-bd8ec7971f36",
-      "state": "active"
-    }
-  ]
+  "zipcode": "10888"
 }
