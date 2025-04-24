@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Bingen am Rhein",
+  "street": "Am Rheinberg ",
+  "name": "Artur Frank",
+  "naturalPerson": true,
+  "squuid": "6809f6fb-3b9d-4de8-a662-759afd119c7d",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+      "name": "Medienanstalt RLP",
+      "type": "organization",
+      "fullName": "Medienanstalt Rheinland-Pfalz"
+    }
+  ],
+  "zipcode": "55411 ",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "RheinFM",
+        "squuid": "6809f5c2-f244-426f-ab75-6c0f26d96f74"
+      },
+      "squuid": "6809f723-0a44-4b1f-a2bf-0809cb9177a3",
+      "state": "active"
+    }
+  ]
+}

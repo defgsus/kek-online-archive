@@ -18,7 +18,7 @@
   "name": "B-Inventive GmbH",
   "naturalPerson": false,
   "squuid": "5f3a6f60-d152-417d-9c75-1c64c61696f6",
-  "controlDate": "2024-10-04T12:18:02.102Z",
+  "controlDate": "2025-04-24T08:01:36.085Z",
   "streetNumber": "51a",
   "organizations": [
     {
@@ -36,12 +36,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 50.0,
       "holder": {
-        "name": "Müller, Thomas",
-        "squuid": "5be1a6b6-8d72-448d-9ddf-74a618fa2490"
+        "name": "Beerbaum, Alexander",
+        "squuid": "5f6874b3-442e-4575-af09-7a3e293ccdd5"
       },
-      "squuid": "5fe09ddb-499a-48d9-a938-a31115b50436",
+      "squuid": "670e3fa7-e170-4a66-8766-c01b4ae48fa5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Beerbaum, Ludger",
+        "squuid": "5f687493-3df3-484b-b1a7-3d48f9491e17"
+      },
+      "squuid": "670e3fbb-8614-45d3-914d-e881447e9efc",
       "state": "active"
     }
   ]

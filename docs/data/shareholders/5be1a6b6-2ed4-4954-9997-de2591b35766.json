@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Kaiserslautern",
   "pseudoCompany": false,
   "street": "Im Altenhof",
@@ -11,35 +11,12 @@
   "streetNumber": "11-13",
   "organizations": [
     {
-      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "Medienanstalt RLP",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Rheinland-Pfalz"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "67655",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Antenne Idar Oberstein 87.6",
-        "squuid": "5be1a6b1-18c5-4f72-b9ad-b9b029e86832"
-      },
-      "squuid": "5be1a6b9-6550-4f06-aa16-a071f4af2818",
-      "state": "active"
-    }
-  ],
-  "credits": "LMK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "The Radio Group Holding GmbH",
-        "squuid": "5be1a6b6-0b31-4cd0-88b2-e247324913be"
-      },
-      "squuid": "5be1a6b7-5acc-4689-9479-b7b98c7e4857",
-      "state": "active"
-    }
-  ]
+  "credits": "LMK"
 }

@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Gütersloh",
   "pseudoCompany": false,
   "street": "Friedrich-Ebert-Str.",
@@ -10,69 +10,11 @@
   "streetNumber": "62",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "33330",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.bauwelt.de",
-        "squuid": "61fa9177-689b-48ec-a05e-68c481496069"
-      },
-      "squuid": "61fa9200-9177-4820-9995-8d2e7b455fdd",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.bauhandwerk.de",
-        "squuid": "61fa916a-6ac0-4ce3-ba04-de3fee3fa563"
-      },
-      "squuid": "61fa9218-a2a9-42ff-b7b1-7b7fcf8381f2",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.bundesbaublatt.de",
-        "squuid": "61fbdced-c5a6-491b-a882-67e938057f34"
-      },
-      "squuid": "61fbdd16-f0ce-41af-a1c3-1a67c259c0f4",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.dbz.de",
-        "squuid": "61fd211a-0fe5-49e7-a27b-388a4dafee73"
-      },
-      "squuid": "61fd213e-5e4f-4c88-946f-75394d9fe180",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.facility-management.de",
-        "squuid": "6201295e-09f6-4778-8912-e7d62ee32202"
-      },
-      "squuid": "62012983-ba3f-431f-ade7-d5174454c2ee",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "BFD Holding GmbH",
-        "squuid": "61fa91a0-d772-40d5-9d6f-55f564d2c70e"
-      },
-      "squuid": "61fa92b2-823e-47af-876a-0401de200421",
-      "state": "active"
-    }
-  ]
+  "zipcode": "33330"
 }

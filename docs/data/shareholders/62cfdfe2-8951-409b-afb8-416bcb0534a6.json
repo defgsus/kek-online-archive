@@ -4,7 +4,7 @@
       "type": "own",
       "capitalShares": 10.0,
       "held": {
-        "name": "RNF GmbH",
+        "name": "RNF Pro GmbH",
         "squuid": "62cfdd35-6a98-480a-bab1-31ca4f28448f"
       },
       "squuid": "62cfe0af-b63f-4daa-b238-5fa937678b06",
@@ -25,13 +25,19 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "Medienanstalt RLP",
-      "type": "organization",
-      "fullName": "Medienanstalt Rheinland-Pfalz"
     }
   ],
-  "zipcode": "68519"
+  "zipcode": "68519",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "wob consult AG",
+        "squuid": "677d1403-22fe-47da-938d-e180c92c2817"
+      },
+      "squuid": "677d142c-ff32-4329-8ea7-2afe3a876bfd",
+      "state": "active"
+    }
+  ]
 }

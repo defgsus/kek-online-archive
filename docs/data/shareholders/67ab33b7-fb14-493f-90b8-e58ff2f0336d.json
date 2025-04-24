@@ -3,49 +3,29 @@
   "city": "Minden",
   "pseudoCompany": false,
   "street": "Obermarktstr.",
-  "name": "B&G Medien GmbH",
+  "name": "B&G Medien Geschäftsführungs GmbH",
   "naturalPerson": false,
   "squuid": "67ab33b7-fb14-493f-90b8-e58ff2f0336d",
-  "controlDate": "2025-02-11T11:54:08.690Z",
+  "controlDate": "2025-04-24T07:41:22.797Z",
   "streetNumber": "26-30",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "32423",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.mmm-owl.de",
-        "squuid": "67ab39d8-74bc-4069-aed5-d4b97028f971"
-      },
-      "squuid": "67ab3a03-95d6-4689-bccb-e5c44bbcc656",
-      "state": "active"
-    }
-  ],
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 59.0,
+      "capitalShares": 100.0,
       "holder": {
-        "name": "J.C.C. Bruns Betriebs-GmbH",
-        "squuid": "5be1a6b6-af8c-4fb4-a72d-cac4a19d2c8f"
+        "name": "B&G Medien GmbH & Co. KG",
+        "squuid": "6809eb17-aac1-4fc0-977b-b2b869c8ad3d"
       },
-      "squuid": "67ab3aa4-cd5f-4347-aa8c-79f9875a3d55",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 41.0,
-      "holder": {
-        "name": "Giesdorf Mediengruppe GmbH & Co KG",
-        "squuid": "5be1a6b6-fb43-4e63-9777-3026b838d87b"
-      },
-      "squuid": "67ab3ab4-59dc-4505-9721-581289d2b5db",
+      "squuid": "6809eb56-aafb-4645-a86d-234af6d0f9e2",
       "state": "active"
     }
   ]

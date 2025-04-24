@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": true,
   "street": "Floriansmühlstr.",
@@ -10,21 +10,11 @@
   "streetNumber": "60",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "80939",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.br.de/fernsehen/ard-alpha/",
-        "squuid": "5f7ae2ac-c9a2-4d26-ab9a-c753dceb248b"
-      },
-      "squuid": "5f7ae315-9773-4762-8759-5e5a83efcd80",
-      "state": "active"
-    }
-  ]
+  "zipcode": "80939"
 }
