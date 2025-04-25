@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 68.0,
+      "held": {
+        "name": "Looping Brand Media GmbH",
+        "squuid": "680b4dc2-e6e4-4e62-9a0a-a59a3a9301ab"
+      },
+      "squuid": "680b520a-8515-4fca-84fd-b5061b0bfa95",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Baierbrunn",
+  "pseudoCompany": false,
+  "street": "Konradshöhe",
+  "name": "Isartal Health Media GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "680b51e3-f330-4173-9b84-a97c05cd0f31",
+  "controlDate": "2025-04-25T09:14:03.895Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "82065",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Isartalmedien GmbH & Co KG",
+        "squuid": "5c4ed82a-a196-4c5d-92da-885a88f6c18a"
+      },
+      "squuid": "680b5367-9a5e-47e7-ac9c-179a20fbf3cc",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Isarttal Health Media Beteiligungsgesellschaft mbH",
+        "squuid": "680b5301-55f2-4286-978b-7ff24e2ef8e9"
+      },
+      "squuid": "680b537a-893b-4652-8881-2c2ec2cd832f",
+      "state": "active"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "680b450d-939a-4277-8737-88f17b58a821",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bayerischer Rundfunk (BR)",
+        "squuid": "5be1a6b6-4924-43c9-95a6-d5d474f6b384"
+      },
+      "squuid": "680b4550-090a-4735-88d6-b901cc5bfa86",
+      "state": "active"
+    }
+  ],
+  "name": "www.br.de/mediathek/podcast",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2025-04-25T08:17:58.730Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

@@ -4,7 +4,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Julius Beltz GmbH & Co KG",
+        "name": "Julius Beltz GmbH & Co. KG",
         "squuid": "5be1a6b6-380e-451d-a1ce-cdc737a7c466"
       },
       "squuid": "5be1a6b8-fe91-4717-a1c2-5f9d6f81a368",
@@ -14,7 +14,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Beltz Verlagsgruppe GmbH",
+        "name": "Beltz Verlagsgruppe Beteiligungs-GmbH",
         "squuid": "5ee8cea9-0481-42d7-b471-416f75672923"
       },
       "squuid": "5ee8cf41-542e-4ee3-bb33-884c86489cba",
@@ -35,11 +35,11 @@
   "city": "Weinheim",
   "pseudoCompany": false,
   "street": "Werderstr. 10",
-  "name": "Beltz-Rübelmann Holding GmbH & Co KG",
+  "name": "Beltz Rübelmann Holding GmbH & Co KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-c5da-45b5-8a4f-227135013f73",
-  "controlDate": "2024-10-09T15:47:21.201Z",
+  "controlDate": "2025-04-25T11:19:41.940Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -88,16 +88,6 @@
         "squuid": "5be1a6b6-77bd-4071-be4f-98c094ab8fce"
       },
       "squuid": "5be1a6b8-92c1-4d04-85d2-d1d12b4600af",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 12.1,
-      "holder": {
-        "name": "Rübelmann, Ulrich",
-        "squuid": "5be1a6b6-1cc5-4a0f-a5bc-142ce5f3b6ad"
-      },
-      "squuid": "5be1a6b8-162b-453a-8d47-33f451173003",
       "state": "active"
     },
     {
@@ -183,16 +173,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 1.95,
-      "holder": {
-        "name": "Rübelmann, Andreas",
-        "squuid": "638dd8bd-0c92-4c7c-8988-804048861ed5"
-      },
-      "squuid": "638dd9da-0d85-4822-af37-656e9b52c2b1",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 2.0,
       "holder": {
         "name": "Rübelmann, Lena",
@@ -213,22 +193,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 1.95,
-      "holder": {
-        "name": "Rübelmann, Philipp",
-        "squuid": "638dd8ea-5e52-4b64-87ce-aa94c2c7b8cf"
-      },
-      "squuid": "638dda02-8062-4b75-b210-20bee69125e0",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 2.0,
       "holder": {
         "name": "Rübelmann, Ronja",
         "squuid": "638dd8fb-8fe1-4476-b769-2aa13b5d4445"
       },
       "squuid": "638dda0e-1469-4566-b9ee-f25ac625187f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.0,
+      "holder": {
+        "name": "Rübelmann Treuhand GmbH & Co. KG",
+        "squuid": "680b70d1-2997-4171-9254-60e9d5142d08"
+      },
+      "squuid": "680b71e3-6ad3-4e67-b670-2d5e6d980a7e",
       "state": "active"
     }
   ]

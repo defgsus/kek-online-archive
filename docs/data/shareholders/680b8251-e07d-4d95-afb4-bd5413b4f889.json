@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Jüdenstr.",
+  "name": "Presse- und Informationsamt des Landes Berlin",
+  "naturalPerson": false,
+  "squuid": "680b8251-e07d-4d95-afb4-bd5413b4f889",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10178",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.berlin.de",
+        "squuid": "5be1a6b1-9e56-40fa-b7aa-3c2d02248926"
+      },
+      "squuid": "680b828a-2473-479a-8559-4d3968f570d7",
+      "state": "active"
+    }
+  ]
+}
