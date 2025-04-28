@@ -29,7 +29,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "66fd2eb7-3324-4b3c-bc5d-6b986f5223db",
-  "controlDate": "2024-10-17T10:37:09.124Z",
+  "controlDate": "2025-04-28T13:42:41.455Z",
   "streetNumber": "12-26",
   "organizations": [
     {
@@ -56,5 +56,78 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "68167"
+  "zipcode": "68167",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 10.1,
+      "holder": {
+        "name": "Burda Broadcast Media Baden-Württemberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-b72e-448d-80dc-1616b9035eec"
+      },
+      "squuid": "6710ee5e-866d-4b9b-92e4-8f5f8e8f64fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.01,
+      "holder": {
+        "name": "Digitaler Rundfunk Bayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-a007-40ef-96ec-632d31222118"
+      },
+      "squuid": "6710ee82-d7d4-40d4-be93-0c73a3ffd1f6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 32.32,
+      "holder": {
+        "name": "RNO Beteiligungsgesellschaft mbH & Co. KG",
+        "squuid": "5be1a6b6-7d50-4024-8318-9596b56628f6"
+      },
+      "squuid": "6710eed2-aa63-40d1-ad73-aec6f18e18ec",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 48.49,
+      "holder": {
+        "name": "Radio Regenbogen Hörfunk in Baden GmbH & Co. KG",
+        "squuid": "5be1a6b6-715e-45d7-b1a9-cbd5588640e3"
+      },
+      "squuid": "6710eef6-742e-4e2a-8820-d741d1e52696",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.05,
+      "holder": {
+        "name": "Radio TON-Regional Hörfunk GmbH & Co. KG",
+        "squuid": "5be1a6b6-0d7b-4370-af24-f6e3d1f182f7"
+      },
+      "squuid": "6710ef1c-3662-4e0b-8a2a-a2e28b78c4cd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.03,
+      "holder": {
+        "name": "Neue Welle Bayern Rundfunk-Verwaltungsgesellschaft mbH",
+        "squuid": "6710ef56-0740-4fe2-a220-8494d2b245b9"
+      },
+      "squuid": "6710ef7c-a4cf-431b-bbd0-6bf58b25ae74",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "big FM in Baden-Württemberg Verwaltungs GmbH",
+        "squuid": "5ef1ed58-47c9-46ec-97ce-e4fc086cce25"
+      },
+      "squuid": "6710ef98-d41f-441e-a874-e4a5842d88ba",
+      "state": "active"
+    }
+  ]
 }
