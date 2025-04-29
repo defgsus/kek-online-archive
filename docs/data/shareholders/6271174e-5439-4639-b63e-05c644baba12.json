@@ -1,22 +1,9 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 97.9,
-      "held": {
-        "name": "AP Iris Holdings, L.P.",
-        "squuid": "627116f8-72e7-4373-a60f-702d359ea16d"
-      },
-      "squuid": "62712535-935d-41d9-a25e-fb7438485d7b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": false,
   "name": "Apollo Management, L.P.",
-  "naturalPerson": false,
-  "squuid": "6271174e-5439-4639-b63e-05c644baba12",
+  "pseudoCompany": false,
   "controlDate": "2024-10-01T14:10:30.873Z",
+  "squuid": "6271174e-5439-4639-b63e-05c644baba12",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -25,16 +12,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Apollo Global Management, Inc.",
-        "squuid": "6271176b-13e4-402c-93b7-e172464cd613"
-      },
-      "squuid": "62712564-19c6-4f9e-a610-c896d73e9971",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

@@ -1,21 +1,18 @@
 {
-  "pressPublishingIntervals": 8,
+  "pressPublishingIntervals": 6,
   "state": "active",
-  "rfShoppingChannel": false,
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
     "name": "Publikumszeitschrift",
     "type": "press-magazine-type",
     "state": "active"
   },
-  "pressAsOfDate": "",
-  "squuid": "5be1a6b1-d3a2-4c56-8519-af99c3a8c59b",
+  "squuid": "6810e1be-1a01-4282-b83e-4bbfb0de6271",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
@@ -23,24 +20,24 @@
         "name": "BPV Medien Vertrieb GmbH & Co. KG",
         "squuid": "5be1a6b6-b08f-4b24-b09a-91bcc699a315"
       },
-      "squuid": "5be1a6b9-83c7-4e01-a5fb-eb69c0b1aaee",
+      "squuid": "6810e201-5834-453b-b907-e9925b585c7e",
       "state": "active"
     }
   ],
-  "name": "Mein Kreativ-Atelier",
+  "name": "Die beliebtesten Rezepte",
   "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
   "pressDistributionArea": "bundesweit",
   "type": "print",
-  "controlDate": "2025-04-29T14:21:40.045Z",
-  "pressKind": "sonstige",
-  "onlineOfferType": {
-    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
-    "name": "Online Medienangebot",
-    "type": "online-offer-type",
-    "state": "active"
+  "controlDate": "2025-04-29T14:27:16.142Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
   },
+  "pressKind": "Food",
   "pressEditionsComments": "Auflage laut Verlagsangabe",
-  "pressEditionsSold": 55000,
+  "pressEditionsSold": 60000,
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",
