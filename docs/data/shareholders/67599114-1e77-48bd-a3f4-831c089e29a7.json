@@ -18,7 +18,7 @@
   "name": "Brüning & Brüning eGbR",
   "naturalPerson": false,
   "squuid": "67599114-1e77-48bd-a3f4-831c089e29a7",
-  "controlDate": "2025-01-03T11:03:36.398Z",
+  "controlDate": "2025-04-30T13:14:03.779Z",
   "streetNumber": "7",
   "organizations": [
     {
@@ -39,5 +39,27 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "zipcode": "19055"
+  "zipcode": "19055",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Brüning, Hans-Joachim",
+        "squuid": "5be1a6b6-a6b7-4929-8dbc-08dac9ac6a4e"
+      },
+      "squuid": "6777c3e6-96cd-4383-8c53-03bcb56837ce",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kruse-Brüning, Andrea",
+        "squuid": "5be1a6b6-a60a-4afe-bf8a-c50518568872"
+      },
+      "squuid": "6777c405-4d71-4c08-8c1b-f2b276325fc4",
+      "state": "active"
+    }
+  ]
 }

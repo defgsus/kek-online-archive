@@ -1,7 +1,4 @@
 {
-  "name": "BVG Familienstiftung",
-  "pseudoCompany": false,
-  "squuid": "65254565-7c66-4b64-a3f6-230a39ffa25a",
   "owns": [
     {
       "type": "own",
@@ -14,8 +11,13 @@
       "state": "active"
     }
   ],
-  "city": "Gütersloh",
   "state": "active",
+  "city": "Gütersloh",
+  "pseudoCompany": false,
+  "name": "BVG Familienstiftung",
+  "naturalPerson": false,
+  "squuid": "65254565-7c66-4b64-a3f6-230a39ffa25a",
+  "controlDate": "2025-04-30T15:18:10.360Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -111,6 +113,5 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ],
-  "naturalPerson": false
+  ]
 }
