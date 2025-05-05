@@ -18,7 +18,7 @@
   "name": "CUS Holding GmbH",
   "naturalPerson": false,
   "squuid": "676154df-ec5a-4268-972f-0cde301be5bd",
-  "controlDate": "2025-01-03T10:31:58.057Z",
+  "controlDate": "2025-05-05T14:43:38.336Z",
   "streetNumber": "6",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "97842"
+  "zipcode": "97842",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stetter, Ulrich",
+        "squuid": "6777be8c-e0b2-4dab-a23f-2b8e750513b4"
+      },
+      "squuid": "6777beab-7678-4071-a218-26755fcc3aff",
+      "state": "active"
+    }
+  ]
 }

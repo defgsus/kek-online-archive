@@ -2,9 +2,9 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 97.06,
+      "capitalShares": 100.0,
       "held": {
-        "name": "WMP GmbH & Co. Medienbeteiligungs KG",
+        "name": "WMB Wisser Medienbeteiligungs GmbH & Co. KG",
         "squuid": "5be1a6b6-f8bf-471c-9d8c-93eded23b295"
       },
       "squuid": "5ef9b324-bf61-4a71-822a-97ef5f252096",
@@ -29,7 +29,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5ef9b28e-113a-485b-919c-e67fbbc0b967",
-  "controlDate": "2024-10-18T13:25:44.940Z",
+  "controlDate": "2025-05-05T11:20:19.157Z",
   "streetNumber": "19",
   "organizations": [
     {
@@ -53,16 +53,6 @@
   "zipcode": "60596",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Wisser, Claus",
-        "squuid": "5efc56b5-c634-470c-b46e-7f72da52ac7c"
-      },
-      "squuid": "5efc56ed-6687-40b0-a0a2-e531c9a49596",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -71,6 +61,16 @@
         "squuid": "5efc5719-1fdb-4f1f-b192-5fac53b783ce"
       },
       "squuid": "5efc5738-d888-4add-a4d3-7e4a90667774",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wisser, Michael",
+        "squuid": "646caa66-3b8f-433b-bb42-74f83333c8fa"
+      },
+      "squuid": "671261c9-46d5-48c4-97ca-4f641e1d6875",
       "state": "active"
     }
   ]

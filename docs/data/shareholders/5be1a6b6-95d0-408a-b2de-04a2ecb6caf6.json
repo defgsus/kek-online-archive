@@ -1,42 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Axel-Springer-Platz 1",
   "name": "Computer Bild Digital GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-95d0-408a-b2de-04a2ecb6caf6",
-  "controlDate": "2024-10-18T14:55:47.238Z",
+  "controlDate": "2025-05-05T13:03:20.261Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "20350",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Computer Bild",
-        "squuid": "5be1a6b1-ffc8-44d0-af0f-57e3ef906935"
-      },
-      "squuid": "5be1a6b9-9a69-4555-bbc6-73cd016f5414",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Axel Springer Deutschland GmbH ",
-        "squuid": "5be1a6b6-af30-4d16-b7eb-afb070fc9f88"
-      },
-      "squuid": "665067a8-4aac-4a32-a316-29696aebe10c",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
