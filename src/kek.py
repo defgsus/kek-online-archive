@@ -44,6 +44,7 @@ class Kek:
         self._medias = dict()
         self._holders = dict()
         self._session = None
+        self._verify_ssl = True
 
     def get(self, squuid) -> Optional["KekObject"]:
         if squuid in self.medias:
@@ -146,7 +147,22 @@ class Kek:
                 "User-Agent": "github.com/defgsus/kek-online-archive",
                 "Accept": "application/json; encoding=utf-8",
             }
-        response = self._session.get(url, verify=False)
+
+        count = 0
+        while True:
+            try:
+                response = self._session.get(url, verify=self._verify_ssl, timeout=25)
+                break
+            except requests.exceptions.Timeout:
+                self._log(f"TIMEOUT for {url}")
+                count += 1
+                if count >= 4:
+                    raise
+            except Exception as e:
+                if "certificate" in str(e).lower():
+                    self._verify_ssl = False
+                else:
+                    raise
 
         self._log("writing", filename)
 
