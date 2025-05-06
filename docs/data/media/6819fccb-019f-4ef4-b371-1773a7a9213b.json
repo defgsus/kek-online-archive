@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "6819fccb-019f-4ef4-b371-1773a7a9213b",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Der Spiegel GmbH & Co. KG",
+        "squuid": "5be1a6b6-3a3f-4929-98aa-e84553ad4632"
+      },
+      "squuid": "6819fcf9-24d8-435d-b6a4-8d10f15193ab",
+      "state": "active"
+    }
+  ],
+  "name": "www.spiegel.de/deinspiegel",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2025-05-06T12:13:23.169Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
