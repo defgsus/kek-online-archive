@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "big FM in Baden-Württemberg Verwaltungs GmbH",
-        "squuid": "5ef1ed58-47c9-46ec-97ce-e4fc086cce25"
-      },
-      "squuid": "5f9c2f22-d74f-496c-a607-68e7e35774a2",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Mannheim",
   "pseudoCompany": false,
   "street": "Dudenstr.",
@@ -24,118 +12,11 @@
   "streetNumber": "12-26",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
-      "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "68167",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "bigFM2See",
-        "squuid": "5be1a6b1-1bb0-4224-a7df-4fc494e10d93"
-      },
-      "squuid": "5be1a6b9-5d12-4dfa-9ab6-44db6fbe23f4",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 32.32,
-      "holder": {
-        "name": "RNO Beteiligungsgesellschaft mbH & Co. KG",
-        "squuid": "5be1a6b6-7d50-4024-8318-9596b56628f6"
-      },
-      "squuid": "5be1a6b7-d28f-4641-a67a-7af3b3bb8e85",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 5.05,
-      "holder": {
-        "name": "Radio TON-Regional Hörfunk GmbH & Co. KG",
-        "squuid": "5be1a6b6-0d7b-4370-af24-f6e3d1f182f7"
-      },
-      "squuid": "5be1a6b7-2888-4770-8c8d-74d629dd1704",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 48.49,
-      "holder": {
-        "name": "Radio Regenbogen Hörfunk in Baden GmbH & Co. KG",
-        "squuid": "5be1a6b6-715e-45d7-b1a9-cbd5588640e3"
-      },
-      "squuid": "5be1a6b7-ee6e-4f3f-8a47-954796d5905d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 10.1,
-      "holder": {
-        "name": "Burda Broadcast Media Baden-Württemberg GmbH & Co. KG",
-        "squuid": "5be1a6b6-b72e-448d-80dc-1616b9035eec"
-      },
-      "squuid": "5be1a6b7-9727-43d2-ab43-b44adf4a3f02",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 1.01,
-      "holder": {
-        "name": "Digitaler Rundfunk Bayern GmbH & Co. KG",
-        "squuid": "5be1a6b6-a007-40ef-96ec-632d31222118"
-      },
-      "squuid": "5e57bad9-3c98-42b8-98ae-abefd4e0eb25",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "big FM in Baden-Württemberg Verwaltungs GmbH",
-        "squuid": "5ef1ed58-47c9-46ec-97ce-e4fc086cce25"
-      },
-      "squuid": "5ef1ed94-f79e-40f0-936f-56002fd44388",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.03,
-      "holder": {
-        "name": "Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG",
-        "squuid": "5efef438-7c82-454e-beb9-493d1f5ec407"
-      },
-      "squuid": "5facf9b7-40c4-4306-bca2-0b1df88716e6",
-      "state": "active"
-    }
-  ]
+  "zipcode": "68167"
 }

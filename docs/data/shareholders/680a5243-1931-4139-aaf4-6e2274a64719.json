@@ -1,13 +1,29 @@
 {
   "name": "Königreich Norwegen",
   "squuid": "680a5243-1931-4139-aaf4-6e2274a64719",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.94,
+      "held": {
+        "name": "Bayer AG",
+        "squuid": "5ce2b67a-b645-48a8-80c9-697b6d21514e"
+      },
+      "squuid": "680a52be-3332-4b08-9f56-d80670e54a26",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
