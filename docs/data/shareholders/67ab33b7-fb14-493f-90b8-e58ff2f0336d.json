@@ -1,4 +1,17 @@
 {
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "B&G Medien GmbH & Co. KG",
+        "squuid": "6809eb17-aac1-4fc0-977b-b2b869c8ad3d"
+      },
+      "squuid": "6809eed6-cf0d-49ea-8edb-9d241f3766d1",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Minden",
   "pseudoCompany": false,
@@ -10,10 +23,9 @@
   "streetNumber": "26-30",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "zipcode": "32423",

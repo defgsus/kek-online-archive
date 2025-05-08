@@ -26,12 +26,6 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "32423",
@@ -43,6 +37,39 @@
         "squuid": "67ab39d8-74bc-4069-aed5-d4b97028f971"
       },
       "squuid": "6809ebff-67ca-4543-a916-3c29d09904a7",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 59.0,
+      "holder": {
+        "name": "J.C.C. Bruns Betriebs-GmbH",
+        "squuid": "5be1a6b6-af8c-4fb4-a72d-cac4a19d2c8f"
+      },
+      "squuid": "6809eea0-5d92-48d9-bd93-7caf16dd0f2f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 41.0,
+      "holder": {
+        "name": "Giesdorf Mediengruppe GmbH & Co KG",
+        "squuid": "5be1a6b6-fb43-4e63-9777-3026b838d87b"
+      },
+      "squuid": "6809eec0-a6ef-4fd3-a93d-ad0aa124f9b9",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "B&G Medien Geschäftsführungs GmbH",
+        "squuid": "67ab33b7-fb14-493f-90b8-e58ff2f0336d"
+      },
+      "squuid": "6809eed6-cf0d-49ea-8edb-9d241f3766d1",
       "state": "active"
     }
   ]
