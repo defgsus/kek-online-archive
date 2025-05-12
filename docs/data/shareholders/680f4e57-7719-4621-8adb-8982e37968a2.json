@@ -1,8 +1,30 @@
 {
   "name": "Freiburg, Friederike",
   "squuid": "680f4e57-7719-4621-8adb-8982e37968a2",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Beteiligungsgesellschaft für SPIEGEL-Mitarbeiter mbH",
+        "squuid": "5df23bd7-7697-47ef-bfca-b139a647c829"
+      },
+      "squuid": "680f4e91-1f5f-4a4c-9d6c-8fccff9159bb",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
