@@ -1,0 +1,45 @@
+{
+  "pressPublishingIntervals": 365,
+  "state": "active",
+  "sharesInfo": "Zeitungstext2",
+  "pressAsOfDate": "5/25",
+  "squuid": "682ae6dc-c0c1-43ef-92b6-5b03c567e1e6",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Test-GmbH",
+        "squuid": "682ae6c7-513f-4e6f-83b3-efefe69f4f57"
+      },
+      "squuid": "682aea43-5851-44ff-b2e9-8edd0426ec23",
+      "state": "active"
+    }
+  ],
+  "name": "Testzeitung",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "Zeitungstext5",
+  "type": "print",
+  "pressEditionsEpaper": 100,
+  "controlDate": "2025-05-19T08:09:29.938Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "description": "Zeitungstext1",
+  "pressKind": "Zeitungstext3",
+  "pressEditionsComments": "Zeitungstext4",
+  "pressEditionsSold": 1000,
+  "pressType": {
+    "squuid": "5be1a6b0-e4cc-4064-9625-597855abfd7c",
+    "name": "Zeitung",
+    "type": "press-type",
+    "state": "active"
+  }
+}

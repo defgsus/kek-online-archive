@@ -1,26 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 90.0,
-      "held": {
-        "name": "DuMont Reise Verlag GmbH & Co KG",
-        "squuid": "5be1a6b6-6aea-4f4f-89a4-823180aaad1c"
-      },
-      "squuid": "5be1a6b8-1915-4cdd-9d07-a9bf506449ed",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 90.0,
-      "held": {
-        "name": "DuMont Reise Verlag GmbH",
-        "squuid": "5ef5e58e-f19a-4957-b395-3af49ee0f32c"
-      },
-      "squuid": "5ef5e67d-d32a-4644-a386-f0f4c0298838",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Ostfildern",
   "pseudoCompany": false,
@@ -35,6 +13,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "73760",
@@ -46,6 +30,15 @@
         "squuid": "5be1a6b1-a735-44f9-af52-968ff641f618"
       },
       "squuid": "5be1a6b9-d3c1-4501-ab32-d85aa9a441c3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dumontreise.de",
+        "squuid": "5be1a6b1-82d8-4d88-bf9c-af8115cc6d78"
+      },
+      "squuid": "682b103f-8051-44fa-8167-6e2cec752473",
       "state": "active"
     }
   ],

@@ -1,13 +1,36 @@
 {
   "name": "Katholieke Impuls en Mediafonds",
   "squuid": "6818c77f-2aea-4e17-ab8e-6e5beb5931f3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 8.7,
+      "held": {
+        "name": "Concentra NV",
+        "squuid": "6200ffd6-72ec-435e-8faf-37abfe455e31"
+      },
+      "squuid": "6818c7af-2386-4722-9ada-b6d296489bdb",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LFM NRW",
+      "type": "organization",
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ]
 }

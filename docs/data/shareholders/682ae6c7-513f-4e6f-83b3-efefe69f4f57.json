@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "",
+  "note": "",
+  "pseudoCompany": false,
+  "street": "",
+  "name": "Test-GmbH",
+  "naturalPerson": false,
+  "co": "",
+  "squuid": "682ae6c7-513f-4e6f-83b3-efefe69f4f57",
+  "otherMediaActivities": "",
+  "controlDate": "2025-05-19T08:36:01.933Z",
+  "placeOfBusiness": "",
+  "streetNumber": "",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Testzeitung",
+        "squuid": "682ae6dc-c0c1-43ef-92b6-5b03c567e1e6"
+      },
+      "squuid": "682aea43-5851-44ff-b2e9-8edd0426ec23",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.testwebsite",
+        "squuid": "682afa78-3de7-4f48-8904-ca72f20fded2"
+      },
+      "squuid": "682afbb4-b79b-4a40-89fa-143fe1b1c5c1",
+      "state": "active"
+    }
+  ]
+}

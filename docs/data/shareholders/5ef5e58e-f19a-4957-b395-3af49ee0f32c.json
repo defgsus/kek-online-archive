@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "DuMont Reise Verlag GmbH & Co KG",
-        "squuid": "5be1a6b6-6aea-4f4f-89a4-823180aaad1c"
-      },
-      "squuid": "5ef5e5b3-9693-4031-b342-809163260eab",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Ostfildern",
   "pseudoCompany": false,
   "street": "Marco-Polo-Str.",
@@ -23,32 +10,11 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "73760",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 90.0,
-      "holder": {
-        "name": "MAIRDUMONT GmbH & Co. KG",
-        "squuid": "5be1a6b6-6485-4973-9bbc-8ac6b12caaf9"
-      },
-      "squuid": "5ef5e67d-d32a-4644-a386-f0f4c0298838",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 10.0,
-      "holder": {
-        "name": "Mair-Jickeli Familien GmbH & Co. KG",
-        "squuid": "5be1a6b6-1975-4503-9c2a-805f1b6655c8"
-      },
-      "squuid": "66586c34-3abc-4051-b5b5-267cb6416242",
-      "state": "active"
-    }
-  ]
+  "zipcode": "73760"
 }

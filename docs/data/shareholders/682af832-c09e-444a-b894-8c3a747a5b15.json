@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "city": "",
+  "note": "",
+  "pseudoCompany": false,
+  "street": "",
+  "name": "Test-GmbH & Co. KG",
+  "naturalPerson": false,
+  "co": "",
+  "limitedPartnership": true,
+  "squuid": "682af832-c09e-444a-b894-8c3a747a5b15",
+  "otherMediaActivities": "",
+  "controlDate": "2025-05-19T09:37:35.101Z",
+  "placeOfBusiness": "",
+  "streetNumber": "",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Testzeitschrift",
+        "squuid": "682af842-f92a-44ea-bc31-527d2356c7cd"
+      },
+      "squuid": "682af8d7-6d57-4657-899c-e70ffabced24",
+      "state": "active"
+    }
+  ]
+}
