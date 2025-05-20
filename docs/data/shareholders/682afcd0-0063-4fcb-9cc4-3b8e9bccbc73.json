@@ -1,13 +1,26 @@
 {
   "name": "Kommanditist2",
   "squuid": "682afcd0-0063-4fcb-9cc4-3b8e9bccbc73",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "held": {
+        "name": "Test-GmbH & Co. KG",
+        "squuid": "682af832-c09e-444a-b894-8c3a747a5b15"
+      },
+      "liabilitySum": 40.0,
+      "squuid": "682c4a46-8bde-4dc3-9064-9b99a56d0c1f",
+      "state": "active",
+      "votingShares": 30.0
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

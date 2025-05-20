@@ -1,13 +1,25 @@
 {
   "name": "GmbH-Inhaber1",
   "squuid": "682aed12-45ee-4287-9448-22712784a89c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 99.0,
+      "held": {
+        "name": "Test-GmbH",
+        "squuid": "682ae6c7-513f-4e6f-83b3-efefe69f4f57"
+      },
+      "squuid": "682c48fb-d6cb-4de5-b8fd-d0f762c2acf7",
+      "state": "active",
+      "votingShares": 50.0
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
