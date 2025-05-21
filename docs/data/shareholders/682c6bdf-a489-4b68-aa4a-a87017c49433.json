@@ -1,13 +1,30 @@
 {
   "name": "Eigenbesitz der erznext GmbH",
   "squuid": "682c6bdf-a489-4b68-aa4a-a87017c49433",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 11.11,
+      "held": {
+        "name": "erznext GmbH",
+        "squuid": "5e4fad2d-75c9-4328-8aa5-9b5a1d8c900b"
+      },
+      "squuid": "682c6cb8-e5ba-4d92-bbc3-4c96d1b3a3b3",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ]
 }

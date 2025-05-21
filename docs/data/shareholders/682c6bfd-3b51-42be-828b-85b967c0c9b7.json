@@ -1,13 +1,30 @@
 {
   "name": "SC-Kapitalbeteiligungsgesellschaft mbH",
   "squuid": "682c6bfd-3b51-42be-828b-85b967c0c9b7",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 22.22,
+      "held": {
+        "name": "erznext GmbH",
+        "squuid": "5e4fad2d-75c9-4328-8aa5-9b5a1d8c900b"
+      },
+      "squuid": "682c6ca2-9195-4251-bda7-c0cdaa4a1c72",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ]
 }
