@@ -1,6 +1,4 @@
 {
-  "name": "OMD Holding GmbH & Co. KG",
-  "squuid": "6819c8d6-9071-4ee9-8671-04cba51e347d",
   "owns": [
     {
       "type": "own",
@@ -24,6 +22,15 @@
     }
   ],
   "state": "active",
+  "city": "Stephanskirchen",
+  "pseudoCompany": false,
+  "street": "Salinweg",
+  "name": "OMD Holding GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6819c8d6-9071-4ee9-8671-04cba51e347d",
+  "controlDate": "2025-05-22T07:58:35.363Z",
+  "streetNumber": "14",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -125,5 +132,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "83071"
 }
