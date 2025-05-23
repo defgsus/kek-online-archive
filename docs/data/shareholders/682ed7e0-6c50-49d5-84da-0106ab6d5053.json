@@ -1,13 +1,30 @@
 {
   "name": "Sparkasse Chemnitz",
   "squuid": "682ed7e0-6c50-49d5-84da-0106ab6d5053",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 80.24,
+      "held": {
+        "name": "SC-Kapitalbeteiligungsgesellschaft mbH",
+        "squuid": "682c6bfd-3b51-42be-828b-85b967c0c9b7"
+      },
+      "squuid": "682ed80e-cbfb-4f79-b48e-19eb6748c7cd",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ]
 }

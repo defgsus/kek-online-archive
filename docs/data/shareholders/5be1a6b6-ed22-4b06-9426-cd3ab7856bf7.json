@@ -1,27 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 33.33,
-      "held": {
-        "name": "MZV Moderner Zeitschriften-Vertrieb GmbH & Co KG",
-        "squuid": "5be1a6b6-d629-4694-9339-4f93a8f1274b"
-      },
-      "squuid": "5be1a6b8-622f-48f9-8079-cbee0be86a95",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 31.7,
-      "held": {
-        "name": "MZV Moderner Zeitschriften-Vertrieb Verwaltungs-GmbH",
-        "squuid": "602d18d2-81e2-4eb1-a980-1bfbcaf4a637"
-      },
-      "squuid": "63889d99-e8d0-4f4b-914c-13cfb4fb1bbc",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Essen",
   "pseudoCompany": false,
   "street": "Jakob-Funke-Platz",
@@ -32,23 +10,12 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "45128",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Funke Zeitschriften GmbH",
-        "squuid": "5be1a6b6-2cc7-48b6-bdf0-90da1bb163ba"
-      },
-      "squuid": "5be1a6b8-32d5-42f4-a618-995dbb213353",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
