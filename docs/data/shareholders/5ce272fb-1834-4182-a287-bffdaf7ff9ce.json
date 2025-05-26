@@ -1,19 +1,4 @@
 {
-  "name": "GDS Global, Inc.",
-  "controlDate": "2024-11-05T11:53:43.222Z",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Hearst Holding, Inc.",
-        "squuid": "5be1a6b6-b9bb-462d-bd11-1333ff3b3f1e"
-      },
-      "squuid": "5ce531b9-385f-4345-a1b5-bdd75d943d52",
-      "state": "active"
-    }
-  ],
-  "squuid": "5ce272fb-1834-4182-a287-bffdaf7ff9ce",
   "owns": [
     {
       "type": "own",
@@ -27,6 +12,11 @@
     }
   ],
   "state": "active",
+  "pseudoCompany": false,
+  "name": "GDS Global, Inc.",
+  "naturalPerson": false,
+  "squuid": "5ce272fb-1834-4182-a287-bffdaf7ff9ce",
+  "controlDate": "2025-05-26T07:54:38.770Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -43,6 +33,18 @@
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hearst Holding, Inc.",
+        "squuid": "5be1a6b6-b9bb-462d-bd11-1333ff3b3f1e"
+      },
+      "squuid": "5ce531b9-385f-4345-a1b5-bdd75d943d52",
+      "state": "active"
     }
   ]
 }

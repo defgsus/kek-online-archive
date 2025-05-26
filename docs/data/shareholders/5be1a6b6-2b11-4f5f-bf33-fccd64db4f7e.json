@@ -22,16 +22,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 24.5,
-      "held": {
-        "name": "AZ Alfelder Zeitung und Niedersächsische Volkszeitung Dobler GmbH & Co. KG",
-        "squuid": "5be1a6b6-6377-4a9a-be07-d5f289817196"
-      },
-      "squuid": "5be1a6b7-86e5-4cc4-a0f0-f92d274c53d8",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 100.0,
       "held": {
         "name": "Beteiligungsgesellschaft Neue Zeitung mbH & Co. KG",
@@ -329,6 +319,16 @@
       },
       "squuid": "6647482b-0f1e-46b1-a55b-400820802eb3",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.5,
+      "held": {
+        "name": "AZ Alfelder Zeitung Dobler GmbH & Co. KG",
+        "squuid": "5be1a6b6-6377-4a9a-be07-d5f289817196"
+      },
+      "squuid": "67b742b0-87ca-41ac-956e-20b3e2dac267",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -475,7 +475,7 @@
     {
       "type": "operate",
       "held": {
-        "name": "HAZ am Sonntag",
+        "name": "HAZ am Sonntag (Hannover)",
         "squuid": "63e3c67d-394e-4174-917a-834fffb66b20"
       },
       "squuid": "65c3651d-4d53-4311-9256-11559dd80100",

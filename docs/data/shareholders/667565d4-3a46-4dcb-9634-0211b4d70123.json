@@ -19,7 +19,7 @@
   "name": "Genius Geschäftsführungs GmbH",
   "naturalPerson": false,
   "squuid": "667565d4-3a46-4dcb-9634-0211b4d70123",
-  "controlDate": "2024-11-05T15:23:26.054Z",
+  "controlDate": "2025-05-26T09:22:40.057Z",
   "streetNumber": "8",
   "organizations": [
     {
@@ -33,5 +33,47 @@
       "type": "organization"
     }
   ],
-  "zipcode": "65549"
+  "zipcode": "65549",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 91.3,
+      "holder": {
+        "name": "Repac, Petra Maria Renate",
+        "squuid": "5be1a6b6-bb40-40ba-b1fe-37c38c25332f"
+      },
+      "squuid": "672a397a-d514-4d59-8100-7302dc3bc8c8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.9,
+      "holder": {
+        "name": "Repac, Mitja",
+        "squuid": "6675657c-44db-4503-9645-d021a7d9b73b"
+      },
+      "squuid": "672a398f-3442-4b3d-b2d4-a0a49f2198bf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.9,
+      "holder": {
+        "name": "Repac, Sabrina",
+        "squuid": "6675659d-6a7e-41a7-88a8-8c6b7fb19a5a"
+      },
+      "squuid": "672a39a3-6357-4aa5-a100-802511d0f9cd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.9,
+      "holder": {
+        "name": "Repac, Natalie",
+        "squuid": "6675658c-a9dc-4385-8350-d41807ad2bba"
+      },
+      "squuid": "672a39b6-a60b-41b1-a4a4-8914b70eb022",
+      "state": "active"
+    }
+  ]
 }
