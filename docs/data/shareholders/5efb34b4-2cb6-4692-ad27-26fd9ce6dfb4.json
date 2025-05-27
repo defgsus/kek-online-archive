@@ -1,44 +1,20 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "hamburg.de GmbH & Co KG",
-        "squuid": "5be1a6b6-b1ab-4d6a-ad3e-661836371f0c"
-      },
-      "squuid": "5efb34d5-1417-461e-bca6-ad1c4fcf148b",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Rothenbaumchaussee",
   "name": "hamburg.de Beteiligungs GmbH",
   "naturalPerson": false,
   "squuid": "5efb34b4-2cb6-4692-ad27-26fd9ce6dfb4",
-  "controlDate": "2024-11-07T15:36:38.095Z",
+  "controlDate": "2025-05-27T08:50:07.858Z",
   "streetNumber": "80b",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "20148",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "hamburg.de GmbH & Co KG",
-        "squuid": "5be1a6b6-b1ab-4d6a-ad3e-661836371f0c"
-      },
-      "squuid": "5efb3539-d035-4be4-8651-8497f4ad4eb3",
-      "state": "active"
-    }
-  ]
+  "zipcode": "20148"
 }

@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Karl-Heinrich-Ulrichs-Str.",
+  "name": "TV-BB / Fernsehen in Brandenburg GmbH",
+  "naturalPerson": false,
+  "squuid": "68359340-d35c-4977-8db4-cb5ce467ba8d",
+  "controlDate": "2025-05-27T10:34:10.759Z",
+  "streetNumber": "11",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10787",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tvbb.online",
+        "squuid": "5f217827-fc38-42bf-a461-3f2833b3c77d"
+      },
+      "squuid": "683593e6-c37b-4fa4-8356-b096e1c7b3c8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Yigit, Dursun",
+        "squuid": "65b2570b-11e4-461e-914a-2e3c3462a74f"
+      },
+      "squuid": "683595ee-1f06-4855-bfee-06b117bb3685",
+      "state": "active"
+    }
+  ]
+}

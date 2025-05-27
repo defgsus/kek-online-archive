@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 10.5,
-      "held": {
-        "name": "hamburg.de GmbH & Co KG",
-        "squuid": "5be1a6b6-b1ab-4d6a-ad3e-661836371f0c"
-      },
-      "squuid": "5be1a6b8-19b7-4e36-b1ab-dd9d2a29ebdb",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "name": "Hamburger Sparkasse AG",
@@ -20,9 +8,10 @@
   "controlDate": "2023-06-07T10:21:19.025Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "credits": "IJK"
