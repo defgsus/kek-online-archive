@@ -18,7 +18,7 @@
   "name": "HSE24 Finance & Service GmbH",
   "naturalPerson": false,
   "squuid": "667d42a4-c58c-4074-ab5b-335c68fc734a",
-  "controlDate": "2024-11-12T14:38:31.146Z",
+  "controlDate": "2025-05-28T13:28:57.803Z",
   "streetNumber": "101h",
   "organizations": [
     {
@@ -32,5 +32,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "85737"
+  "zipcode": "85737",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "HSE24 Trading GmbH",
+        "squuid": "673368a7-2b5e-4506-b542-ec7a67f1ec00"
+      },
+      "squuid": "673368c9-1c58-4ce1-8dd9-6b1a580c7641",
+      "state": "active"
+    }
+  ]
 }
