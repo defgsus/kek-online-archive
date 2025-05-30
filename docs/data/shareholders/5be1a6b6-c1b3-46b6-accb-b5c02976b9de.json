@@ -13,13 +13,13 @@
   ],
   "state": "active",
   "city": "Berlin",
-  "note": "Keine Einträge zu den Gesellschaftern im Amtsgericht Charlottenburg hinterlegt.",
+  "note": "",
   "pseudoCompany": false,
   "street": "Hohenzollerndamm",
   "name": "Junge Freiheit Verwaltungs- und Beteiligungsgesellschaft mbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-c1b3-46b6-accb-b5c02976b9de",
-  "controlDate": "2024-11-14T12:48:29.295Z",
+  "controlDate": "2025-05-30T15:04:23.828Z",
   "streetNumber": "27a",
   "organizations": [
     {
@@ -29,5 +29,67 @@
     }
   ],
   "zipcode": "10713",
-  "credits": "IJK"
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 76.1,
+      "holder": {
+        "name": "Stein, Dieter",
+        "squuid": "5ebd0f60-31c5-4a04-9f48-695c37577479"
+      },
+      "squuid": "6839c90a-bcb3-475c-859d-a2d3f0f285b6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.9,
+      "holder": {
+        "name": "Frank, Angelika",
+        "squuid": "6839c926-15a1-4ecd-8ced-60b5f39d49f2"
+      },
+      "squuid": "6839c9d1-9b3b-403f-b0a0-f8369aa53c4e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Kienesberger, Gudrun",
+        "squuid": "6839c941-6d1d-4bd5-bc98-65385fb2d929"
+      },
+      "squuid": "6839c9e2-87e6-4e35-9469-cf879f8c8abe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Müller, Dr. Martin",
+        "squuid": "6839c96a-c3a8-41c5-8c9c-5edcc9c55130"
+      },
+      "squuid": "6839c9f4-3cc7-4fa0-9905-f6243a1d09b8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Schmidt, Martin",
+        "squuid": "6839c993-bb7c-4578-9d91-1810301aa197"
+      },
+      "squuid": "6839ca09-f969-4feb-8f81-59b4ca908229",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Ehrlich, Peter",
+        "squuid": "6839c9a7-61fb-43c4-9eff-8e9e7c0be1d1"
+      },
+      "squuid": "6839ca17-91b3-4605-8a50-7e2c64dd0c78",
+      "state": "active"
+    }
+  ]
 }
