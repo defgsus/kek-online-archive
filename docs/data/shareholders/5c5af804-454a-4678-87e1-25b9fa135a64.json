@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Spremberg",
   "supplierConsortium": false,
   "pseudoCompany": true,
@@ -12,21 +12,11 @@
   "streetNumber": "96 F",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "03130",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.sprembergtv.de",
-        "squuid": "5f217b5d-751e-4393-8555-fc1ef713bac9"
-      },
-      "squuid": "5f217ba2-9c29-4f92-97c0-48526641c3f7",
-      "state": "active"
-    }
-  ]
+  "zipcode": "03130"
 }
