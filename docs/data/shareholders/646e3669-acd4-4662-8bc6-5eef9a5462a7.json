@@ -13,13 +13,13 @@
   ],
   "state": "active",
   "city": "Frankfurt/M.",
-  "note": "Keine Gesellschafterliste im Handelsregister hinterlegt.",
+  "note": "",
   "pseudoCompany": false,
   "street": "Carl-Benz-Str.",
   "name": "Löwen Frankfurt Eishockey-Betriebs GmbH",
   "naturalPerson": false,
   "squuid": "646e3669-acd4-4662-8bc6-5eef9a5462a7",
-  "controlDate": "2024-11-20T15:57:46.371Z",
+  "controlDate": "2025-06-03T12:20:48.061Z",
   "streetNumber": "35",
   "organizations": [
     {
@@ -28,5 +28,37 @@
       "type": "organization"
     }
   ],
-  "zipcode": "60386"
+  "zipcode": "60386",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Krämer, Stefan",
+        "squuid": "683ee867-3211-4e49-af3e-e44f04d5cf18"
+      },
+      "squuid": "683ee8b5-a077-4d4c-98a4-4acab4c86a70",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Stracke, Andreas",
+        "squuid": "683ee85c-d0c8-4613-b59f-a2103cdfae4f"
+      },
+      "squuid": "683ee8c3-86b7-4fec-a238-c1f9ac6563a3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Prange Beteiligungen AG",
+        "squuid": "683ee874-3f71-41df-b158-a12acfe2e63f"
+      },
+      "squuid": "683ee8d1-b76d-4687-819a-6a8670058781",
+      "state": "active"
+    }
+  ]
 }

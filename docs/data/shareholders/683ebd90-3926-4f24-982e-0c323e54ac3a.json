@@ -1,0 +1,48 @@
+{
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "TestKG2",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "683ebd90-3926-4f24-982e-0c323e54ac3a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Testzeitung",
+        "squuid": "682ae6dc-c0c1-43ef-92b6-5b03c567e1e6"
+      },
+      "squuid": "683ebdab-26b5-4500-a702-e229e9cfa165",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "holder": {
+        "name": "Kommanditist1",
+        "squuid": "682afcc3-c33e-4390-a4db-7af1365e9110"
+      },
+      "liabilitySum": 100.0,
+      "squuid": "683ebe6a-4e1d-4184-82b1-b5dd634b1b4b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kommanditist2",
+        "squuid": "682afcd0-0063-4fcb-9cc4-3b8e9bccbc73"
+      },
+      "squuid": "683ebf34-f7de-4648-adf1-365072bafb91",
+      "state": "active"
+    }
+  ]
+}

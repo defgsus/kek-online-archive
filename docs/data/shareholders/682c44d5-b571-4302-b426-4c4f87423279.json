@@ -1,13 +1,29 @@
 {
   "name": "Herzschlag Eintracht GmbH",
   "squuid": "682c44d5-b571-4302-b426-4c4f87423279",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "Eintracht Frankfurt Fußball AG",
+        "squuid": "5d3020b6-b98b-447f-ae74-c9a4b0217bef"
+      },
+      "squuid": "682c44f4-c97c-4dd2-b77d-5f987367f882",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

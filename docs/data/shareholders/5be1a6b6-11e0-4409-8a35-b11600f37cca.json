@@ -59,6 +59,26 @@
       },
       "squuid": "63d9279a-056b-4d9b-ad26-ee0d75cd4783",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "H. Risius GmbH & Co. KG",
+        "squuid": "5be1a6b6-8d79-401b-975b-320626692ad3"
+      },
+      "squuid": "67c57328-03af-44a6-bcb8-dab40f5436b4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Risius Medien GmbH",
+        "squuid": "6666e797-77f8-49f8-8921-911e893e2d76"
+      },
+      "squuid": "67c573a7-0397-4b4b-b8dd-066edf2ffd51",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -880,10 +900,19 @@
     {
       "type": "operate",
       "held": {
-        "name": "Tag 7",
+        "name": "Tag 7 (Osnabrück)",
         "squuid": "67498c26-4dc9-47df-80cf-95ce2a9bc1dd"
       },
       "squuid": "67498c5a-66a6-43ed-b956-f2d433fbb3ff",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Tag 7 (Köln)",
+        "squuid": "683ef862-b61f-49a7-adc3-a23e219e0215"
+      },
+      "squuid": "683ef8bb-b2e1-40a5-be98-c907420704ee",
       "state": "active"
     }
   ],
