@@ -1,13 +1,29 @@
 {
   "name": "HSE24 Multichannel GmbH",
   "squuid": "68371057-fef1-41a1-806a-fcffda78d576",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "HSE24 Trading GmbH",
+        "squuid": "673368a7-2b5e-4506-b542-ec7a67f1ec00"
+      },
+      "squuid": "6837106d-cb02-4b00-a379-bc33f7e1693e",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

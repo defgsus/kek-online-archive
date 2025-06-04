@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Koblenz",
   "pseudoCompany": false,
   "street": "August-Horch-Str.",
@@ -10,34 +10,11 @@
   "streetNumber": "28",
   "organizations": [
     {
-      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "Medienanstalt RLP",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Rheinland-Pfalz"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "56070",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "tv mittelrhein",
-        "squuid": "5be1a6b1-4efe-4606-ba95-de790409e217"
-      },
-      "squuid": "66c6f540-0fd4-4a68-bdf7-e134cdb98b66",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "GT3 Software- und Beteiligung GmbH",
-        "squuid": "5be1a6b6-b2f5-4197-887f-e5417f3b446f"
-      },
-      "squuid": "66bf40e8-57a8-4ada-b2e4-589b5d8ab76e",
-      "state": "active"
-    }
-  ]
+  "zipcode": "56070"
 }

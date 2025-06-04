@@ -2,7 +2,7 @@
   "matchedNames": [
     "TOP FM"
   ],
-  "rfRepresentative": "Hans Kuchenreuther",
+  "rfRepresentative": "Robert Sterner",
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-c22d-45ea-8f76-25285f63d780",
@@ -19,16 +19,22 @@
     {
       "type": "operate",
       "holder": {
-        "name": "AMPERWELLE Gesellschaft mbH",
+        "name": "Amperwelle GmbH",
         "squuid": "5be1a6b6-4364-45ab-aeb4-111336b965a3"
       },
       "squuid": "5be1a6b9-0551-4cc1-9c4d-2b3810f56d8a",
       "state": "active"
     }
   ],
-  "name": "106.4 TOP FM",
+  "name": "Radio TOP FM",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -36,15 +42,15 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "rfLicenseUntil": "15.04.2025",
+  "rfLicenseUntil": "30.06.2030",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "rfLicensed": "08.11.2017",
-  "rfLicenseFrom": "08.11.2017",
-  "rfAddress": "Schöngeisinger Str. 11\n82256\nFürstenfeldbruck\n",
+  "rfLicensed": "18.12.2024",
+  "rfLicenseFrom": "16.04.2025",
+  "rfAddress": "Hasenheide 11\n82256 Fürstenfeldbruck\n",
   "accessibilityEmail": "redaktion@top-fm.de"
 }
