@@ -1,13 +1,29 @@
 {
   "name": "Zinner, Hans-Joachim",
   "squuid": "682f4581-0670-45e4-9758-3953aaab0a7d",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Freunde des Adlers GmbH",
+        "squuid": "5d302689-64bc-442c-9e81-035ecf488688"
+      },
+      "squuid": "682f45b3-ae8c-448c-871b-4ec8805c6410",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

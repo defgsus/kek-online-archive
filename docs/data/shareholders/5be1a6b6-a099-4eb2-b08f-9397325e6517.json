@@ -1,19 +1,4 @@
 {
-  "name": "Media Plus Werbeagentur",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Koppold, Jürgen",
-        "squuid": "5be1a6b6-6446-4732-9617-5c12e36abcc8"
-      },
-      "squuid": "5be1a6b7-2190-4696-9c2f-f4cfbbeda8f9",
-      "state": "active"
-    }
-  ],
-  "squuid": "5be1a6b6-a099-4eb2-b08f-9397325e6517",
   "owns": [
     {
       "type": "own",
@@ -26,7 +11,17 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Media Plus Werbeagentur",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-a099-4eb2-b08f-9397325e6517",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
@@ -34,6 +29,27 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "state": "active",
-  "naturalPerson": false
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Testzeitung",
+        "squuid": "682ae6dc-c0c1-43ef-92b6-5b03c567e1e6"
+      },
+      "squuid": "6841a733-d9e0-4c73-98de-05b93747f1b6",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Koppold, Jürgen",
+        "squuid": "5be1a6b6-6446-4732-9617-5c12e36abcc8"
+      },
+      "squuid": "5be1a6b7-2190-4696-9c2f-f4cfbbeda8f9",
+      "state": "active"
+    }
+  ]
 }

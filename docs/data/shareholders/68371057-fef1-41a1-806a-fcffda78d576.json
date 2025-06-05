@@ -1,6 +1,4 @@
 {
-  "name": "HSE24 Multichannel GmbH",
-  "squuid": "68371057-fef1-41a1-806a-fcffda78d576",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Ismaning",
+  "pseudoCompany": false,
+  "street": "Münchener Str.",
+  "name": "HSE24 Multichannel GmbH",
+  "naturalPerson": false,
+  "squuid": "68371057-fef1-41a1-806a-fcffda78d576",
+  "controlDate": "2025-06-05T08:04:40.266Z",
+  "streetNumber": "101h",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -24,6 +30,19 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "zipcode": "85737",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "HSE24 International GmbH",
+        "squuid": "68414f80-f190-4f18-be94-0923985a9e12"
+      },
+      "squuid": "68414fb4-3132-4381-b363-93a96c0dab5d",
+      "state": "active"
     }
   ]
 }

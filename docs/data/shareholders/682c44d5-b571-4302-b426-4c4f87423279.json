@@ -1,6 +1,4 @@
 {
-  "name": "Herzschlag Eintracht GmbH",
-  "squuid": "682c44d5-b571-4302-b426-4c4f87423279",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Nesenstr.",
+  "name": "Herzschlag Eintracht GmbH",
+  "naturalPerson": false,
+  "squuid": "682c44d5-b571-4302-b426-4c4f87423279",
+  "controlDate": "2025-06-05T08:36:18.276Z",
+  "streetNumber": "5",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -24,6 +30,59 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "zipcode": "60322",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.98,
+      "holder": {
+        "name": "Hillcrest Familienholding GmbH & Co. KG",
+        "squuid": "68415655-c843-4afd-8499-0f283cf816f0"
+      },
+      "squuid": "684156ae-3bbb-481d-9b5e-beabd97d3a22",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.38,
+      "holder": {
+        "name": "von Puttkammer, Chiara",
+        "squuid": "6841563e-0d21-482f-bf7c-fa9fc15f847c"
+      },
+      "squuid": "684156c7-13c3-4d30-b26c-b6078713a6f3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.38,
+      "holder": {
+        "name": "von Puttkammer, Philipp",
+        "squuid": "6841562e-47bf-4d3b-80e6-5c6b9ff16b8a"
+      },
+      "squuid": "684156d8-81cb-49cd-b24e-9ed1b8ed360e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.13,
+      "holder": {
+        "name": "Erbach, Kim",
+        "squuid": "6841560a-c2cf-42e2-a708-793b3637a099"
+      },
+      "squuid": "684156ee-2d5f-4ca1-b98a-bfee05a238f0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.13,
+      "holder": {
+        "name": "Erbach, Nico",
+        "squuid": "6841561a-4499-4a60-ad33-35595a3b2476"
+      },
+      "squuid": "68415700-f4c0-472e-bd3e-c97cd24f9eea",
+      "state": "active"
     }
   ]
 }

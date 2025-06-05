@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Köln",
   "pseudoCompany": false,
   "street": "Hansaring 97",
@@ -9,79 +9,12 @@
   "controlDate": "2024-05-06T11:40:56.031Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "50670",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "aktiv Laufen",
-        "squuid": "5be1a6b1-d5c9-463c-97b0-9a25842b93ef"
-      },
-      "squuid": "5be1a6b9-0ed6-4ca0-9691-c0cc4e9d6457",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Leichtathletik",
-        "squuid": "5be1a6b1-ef82-4e9c-8662-0786134ef25e"
-      },
-      "squuid": "5be1a6b9-d533-4e56-a158-271670287954",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.aktiv-laufen.de",
-        "squuid": "5be1a6b1-904b-4a34-babd-e56c85e11224"
-      },
-      "squuid": "5be1a6b9-825d-441b-ac0a-720e20891c9a",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.leichtathletik-magazin.de",
-        "squuid": "5be1a6b1-f0f9-4b18-905b-a06ad0336c5e"
-      },
-      "squuid": "5be1a6b9-68e1-4f7c-a925-0cea30d0dbb8",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Ja zum Baby",
-        "squuid": "60058438-1385-4c65-81ac-1abb00b4e99e"
-      },
-      "squuid": "600584bf-1105-458b-9a06-0dec992c32ba",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.jazumbaby.de",
-        "squuid": "6638c0f7-037f-48d5-84d4-85be1a097dd0"
-      },
-      "squuid": "6638c128-95c0-42b7-9c94-eee13f8eeb3a",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Flöttmann Verlag GmbH",
-        "squuid": "5be1a6b6-55c8-414f-b070-e7704e742012"
-      },
-      "squuid": "5be1a6b8-fca8-4b85-8267-5201ef8706d7",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

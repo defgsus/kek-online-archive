@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Mannheimer Wochenblatt Verlagsgesellschaft Beteiligungs GmbH",
-        "squuid": "643693a6-7aa5-4a5a-a58a-7457a40a076e"
-      },
-      "squuid": "643694b1-ba53-42f1-b81f-1e07310a8d8a",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Mannheim",
   "pseudoCompany": false,
   "street": "Melchiorstr.",
@@ -19,48 +7,15 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "643692be-2393-4ba9-8dbd-46d028db7abe",
-  "controlDate": "2024-11-21T13:13:50.636Z",
+  "controlDate": "2025-06-05T10:21:29.362Z",
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "68167",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.wochenblatt-reporter.de/wochenblatt-mannheim",
-        "squuid": "64369286-b792-4362-9dee-99a894375481"
-      },
-      "squuid": "643692d0-ebac-43d6-8d2e-8868c2f1b2bf",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Mannheimer Wochenblatt Verlagsgesellschaft Beteiligungs GmbH",
-        "squuid": "643693a6-7aa5-4a5a-a58a-7457a40a076e"
-      },
-      "squuid": "643693c8-41e1-468f-b2e0-706d4784371d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "SÜWE Vertriebs- und Dienstleistungs-Gesellschaft mbH & Co. KG",
-        "squuid": "615aeec4-d1be-47d0-993a-5643eb5e271b"
-      },
-      "squuid": "643693d6-a4f8-4efb-a251-4b29084acb42",
-      "state": "active"
-    }
-  ]
+  "zipcode": "68167"
 }

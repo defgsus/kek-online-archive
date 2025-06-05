@@ -1,0 +1,29 @@
+{
+  "name": "Hillcrest Familienholding GmbH & Co. KG",
+  "squuid": "68415655-c843-4afd-8499-0f283cf816f0",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.98,
+      "held": {
+        "name": "Herzschlag Eintracht GmbH",
+        "squuid": "682c44d5-b571-4302-b426-4c4f87423279"
+      },
+      "squuid": "684156ae-3bbb-481d-9b5e-beabd97d3a22",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ]
+}

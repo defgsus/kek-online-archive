@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "DOMRADIO.DE gGmbH",
+        "squuid": "5c49adf8-1df0-42b7-a1a1-a7ea5dbe1fb4"
+      },
+      "squuid": "68400268-2097-4de8-a68d-683d7b2909f3",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Köln",
   "pseudoCompany": false,
@@ -8,6 +20,16 @@
   "squuid": "5be1a6b6-9121-49f4-beaa-0aba149e157c",
   "streetNumber": "32",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
       "name": "LFM NRW",

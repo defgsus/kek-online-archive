@@ -1,35 +1,25 @@
 {
-  "state": "active",
-  "city": "",
-  "note": "",
+  "state": "archived",
+  "city": "KGtext5",
+  "note": "KGtext1",
   "pseudoCompany": false,
-  "street": "",
+  "street": "KGtext2",
   "name": "Test-GmbH & Co. KG",
   "naturalPerson": false,
-  "co": "",
+  "co": "KGtext3",
   "limitedPartnership": true,
   "squuid": "682af832-c09e-444a-b894-8c3a747a5b15",
-  "otherMediaActivities": "",
+  "otherMediaActivities": "KGtext6",
   "controlDate": "2025-05-19T09:37:35.101Z",
-  "placeOfBusiness": "",
-  "streetNumber": "",
+  "placeOfBusiness": "KGtext4",
+  "streetNumber": "001",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Testzeitschrift",
-        "squuid": "682af842-f92a-44ea-bc31-527d2356c7cd"
-      },
-      "squuid": "682af8d7-6d57-4657-899c-e70ffabced24",
-      "state": "active"
-    }
-  ]
+  "zipcode": "11111"
 }
