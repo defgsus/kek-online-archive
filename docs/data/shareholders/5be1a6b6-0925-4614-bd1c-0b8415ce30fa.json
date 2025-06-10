@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Potsdam",
   "pseudoCompany": false,
   "street": "Charlottenstraße",
@@ -11,49 +11,12 @@
   "streetNumber": "40",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "14467",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "TV-BB (Berlin und Brandenburg)",
-        "squuid": "5be1a6b1-6cc7-4438-b1cd-f0c3dba9f1f5"
-      },
-      "squuid": "5be1a6b9-5cf8-4513-b9fa-ee63eeb62d7c",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.tvbb.online",
-        "squuid": "5f217827-fc38-42bf-a461-3f2833b3c77d"
-      },
-      "squuid": "5f21793e-45fc-412b-8706-fcfa79f6b8a9",
-      "state": "active"
-    }
-  ],
-  "credits": "Website der mabb, Abruf am 17.02.2014",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Yigit, Dursun",
-        "squuid": "65b2570b-11e4-461e-914a-2e3c3462a74f"
-      },
-      "squuid": "65f07cef-3ade-4fe1-a6aa-ad65affac17f",
-      "state": "active"
-    }
-  ]
+  "credits": "Website der mabb, Abruf am 17.02.2014"
 }
