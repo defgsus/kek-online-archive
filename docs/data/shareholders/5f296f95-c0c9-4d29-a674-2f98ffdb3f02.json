@@ -7,12 +7,18 @@
   "naturalPerson": false,
   "squuid": "5f296f95-c0c9-4d29-a674-2f98ffdb3f02",
   "controlDate": "2024-12-17T11:00:34.461Z",
-  "streetNumber": "37",
+  "streetNumber": "73",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
   "zipcode": "99084",
@@ -24,6 +30,15 @@
         "squuid": "5f296ee9-60ed-4ad7-b429-ad6eef9537d2"
       },
       "squuid": "5f296fc4-8fe9-4026-843c-97c3eb685344",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "salve.tv",
+        "squuid": "5c754cdb-2a56-4d50-b3bf-f9effb97c67d"
+      },
+      "squuid": "68496f88-dccb-4c20-a409-aa503e25859f",
       "state": "active"
     }
   ],

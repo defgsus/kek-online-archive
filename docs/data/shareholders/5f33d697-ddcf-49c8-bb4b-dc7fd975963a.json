@@ -2,17 +2,23 @@
   "state": "active",
   "city": "Suhl",
   "pseudoCompany": false,
-  "street": "Topfmarkt",
+  "street": "Steinweg",
   "name": "Rennsteig TV GmbH",
   "naturalPerson": false,
   "squuid": "5f33d697-ddcf-49c8-bb4b-dc7fd975963a",
   "controlDate": "2024-12-16T10:38:44.061Z",
-  "streetNumber": "1",
+  "streetNumber": "6",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
   "zipcode": "98527",
@@ -24,6 +30,15 @@
         "squuid": "5f33d68a-ecb1-4d07-bab8-dca7980ae0a8"
       },
       "squuid": "5f33d6bb-bd54-4673-929f-427f54890d2e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Rennsteig.TV",
+        "squuid": "5c754c18-3aa3-412c-ba80-83f60faa7859"
+      },
+      "squuid": "68494a02-8ce8-4283-85da-be24a7195ef4",
       "state": "active"
     }
   ],

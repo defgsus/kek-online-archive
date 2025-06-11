@@ -1,5 +1,5 @@
 {
-  "rfRepresentative": "Klaus-Dieter Böhm",
+  "rfRepresentative": "Klaus-Dieter Böhm-Schneider",
   "state": "active",
   "rfShoppingChannel": false,
   "rfStartDate": "15.04.2010",
@@ -11,9 +11,20 @@
     "type": "organization",
     "fullName": "Thüringer Landesmedienanstalt"
   },
-  "accessibilityUrl": "http://www.salve.tv",
+  "accessibilityUrl": "https://www.salve.tv",
   "rfStatewide": false,
-  "name": "Salve.TV",
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "salve.tv GmbH",
+        "squuid": "5f296f95-c0c9-4d29-a674-2f98ffdb3f02"
+      },
+      "squuid": "68496f88-dccb-4c20-a409-aa503e25859f",
+      "state": "active"
+    }
+  ],
+  "name": "salve.tv",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
     "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -35,9 +46,10 @@
     "type": "organization",
     "fullName": "Thüringer Landesmedienanstalt"
   },
-  "rfLicenseUntil": "31.10.2023",
-  "rfLicensed": "10.10.2017",
-  "rfLicenseFrom": "TLM",
-  "rfAddress": "Salve.TV\nAnger 73\n99084 Erfurt",
+  "description": "Lokalfernsehprogramm",
+  "rfLicenseUntil": "31.10.2029",
+  "rfLicensed": "27.10.2023",
+  "rfLicenseFrom": "01.11.2023",
+  "rfAddress": "salve.tv\nAnger 73\n99084 Erfurt",
   "accessibilityEmail": "info@salve.tv"
 }

@@ -3,7 +3,7 @@
   "city": "Jena",
   "pseudoCompany": false,
   "street": "Carl-Zeiss-Platz",
-  "name": "TV Produktions- und Betriebsgesellschaft mbH & Co. KG",
+  "name": "TV Produktions- und Betriebsgesellschaft mbH & Co. KG, Jena",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5f33d91d-3be0-4b69-824c-de04ace62c59",
@@ -14,6 +14,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
   "zipcode": "07743",
@@ -25,6 +31,15 @@
         "squuid": "5f33d8ee-513e-4735-8e3c-f9f1b44fb4a8"
       },
       "squuid": "5f33d962-f11e-40b9-bcb4-743d85723605",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "JenaTV",
+        "squuid": "5c754167-1da3-4943-a35c-147057a3620a"
+      },
+      "squuid": "68496dfb-8176-4898-9b01-d6dd68ac096d",
       "state": "active"
     }
   ],

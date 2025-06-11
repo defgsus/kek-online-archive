@@ -7,7 +7,7 @@
       "type": "own",
       "capitalShares": 7.0,
       "held": {
-        "name": "TV Produktions- und Betriebsgesellschaft mbH & Co. KG",
+        "name": "TV Produktions- und Betriebsgesellschaft mbH & Co. KG, Jena",
         "squuid": "5f33d91d-3be0-4b69-824c-de04ace62c59"
       },
       "squuid": "5f7c82b7-6ff8-4793-b80b-fb4d365a3cec",
@@ -25,13 +25,19 @@
     }
   ],
   "city": "Jena",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
-  "state": "active",
   "naturalPerson": false
 }

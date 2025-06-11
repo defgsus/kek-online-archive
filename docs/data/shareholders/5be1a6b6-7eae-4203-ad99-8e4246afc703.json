@@ -22,20 +22,25 @@
       },
       "squuid": "5cc04ff7-777f-476e-9bec-9cf8b2e9ec0a",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.95,
+      "held": {
+        "name": "Hörfunk Burgkirchen-Mühldorf GmbH",
+        "squuid": "5be1a6b6-5861-44b2-a9ef-7fd1555d039d"
+      },
+      "squuid": "683721a4-de96-447e-a9ea-6383d79f64a6",
+      "state": "active"
     }
   ],
   "city": "Burgkirchen",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -44,6 +49,5 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }
