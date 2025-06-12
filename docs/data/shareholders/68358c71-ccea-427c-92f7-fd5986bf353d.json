@@ -1,6 +1,4 @@
 {
-  "name": "Wachholtz Beteiligungen GmbH & Co. KG",
-  "squuid": "68358c71-ccea-427c-92f7-fd5986bf353d",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,15 @@
     }
   ],
   "state": "active",
+  "city": "Bad Segeberg",
+  "pseudoCompany": false,
+  "street": "Jaguarrring",
+  "name": "Wachholtz Beteiligungen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "68358c71-ccea-427c-92f7-fd5986bf353d",
+  "controlDate": "2025-06-12T07:15:37.735Z",
+  "streetNumber": "4a",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -80,5 +87,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Sachsen-Anhalt"
     }
-  ]
+  ],
+  "zipcode": "23795"
 }

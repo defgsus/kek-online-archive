@@ -1,0 +1,44 @@
+{
+  "state": "active",
+  "squuid": "684a8932-b268-41c8-a2ae-add1f68448d6",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Mitteldeutsche Verlags- und Druckhaus GmbH",
+        "squuid": "5be1a6b6-4ee8-46d0-8536-8c87c634d596"
+      },
+      "squuid": "684a895d-b6ed-46cc-9f97-13523a26964c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "MGM Digital GmbH",
+        "squuid": "6093d144-e89b-4b56-a627-e870616bab85"
+      },
+      "squuid": "684a8968-7cd1-4448-a138-de91131d31a7",
+      "state": "active"
+    }
+  ],
+  "name": "www.rblive.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2025-06-12T08:01:48.560Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}
