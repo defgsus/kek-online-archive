@@ -18,7 +18,7 @@
   "name": "Nestlé Deutschland AG",
   "naturalPerson": false,
   "squuid": "639afa4e-a3d0-4005-afa2-e11c06162833",
-  "controlDate": "2024-11-29T08:51:37.390Z",
+  "controlDate": "2025-06-13T13:10:11.403Z",
   "streetNumber": "23",
   "organizations": [
     {
@@ -27,5 +27,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "60528"
+  "zipcode": "60528",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nestlé S.A.",
+        "squuid": "684c24a2-2ffd-48c9-be5f-5dac7b12dd87"
+      },
+      "squuid": "684c24ca-db1b-43c5-acaf-0e76c2afa0fa",
+      "state": "active"
+    }
+  ]
 }

@@ -1,0 +1,27 @@
+{
+  "name": "Nestlé S.A.",
+  "pseudoCompany": false,
+  "squuid": "684c24a2-2ffd-48c9-be5f-5dac7b12dd87",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Nestlé Deutschland AG",
+        "squuid": "639afa4e-a3d0-4005-afa2-e11c06162833"
+      },
+      "squuid": "684c24ca-db1b-43c5-acaf-0e76c2afa0fa",
+      "state": "active"
+    }
+  ],
+  "city": "Vevey (CH)",
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "naturalPerson": false
+}
