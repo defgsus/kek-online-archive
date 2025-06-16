@@ -1,14 +1,14 @@
 {
   "state": "active",
-  "city": "Vechta",
+  "city": "Emstek",
   "pseudoCompany": false,
-  "street": "Neuer Markt",
+  "street": "OM-Allee",
   "name": "OM-Medien GmbH & Co KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-cf49-447b-a800-133c73aca5da",
   "controlDate": "2025-06-15T13:37:45.498Z",
-  "streetNumber": "2",
+  "streetNumber": "7",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -16,7 +16,7 @@
       "type": "organization"
     }
   ],
-  "zipcode": "49377",
+  "zipcode": "49685",
   "operates": [
     {
       "type": "operate",
@@ -52,6 +52,24 @@
         "squuid": "63f796ae-6b6b-4da3-8fd0-521dd087ae8f"
       },
       "squuid": "63f796de-3fb4-42e4-b1e6-7ee3e3803157",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Promenade",
+        "squuid": "684fdde3-f1b9-4190-bb57-4385e5f94f27"
+      },
+      "squuid": "684fde65-2ded-411b-91a5-0c78df6c3ea2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Tag 7 (Cloppenburg/Vechta)",
+        "squuid": "684fddd0-6044-4949-80c8-451af7423e54"
+      },
+      "squuid": "684fdf44-b0df-4289-bfe0-fcca5ce54060",
       "state": "active"
     }
   ],

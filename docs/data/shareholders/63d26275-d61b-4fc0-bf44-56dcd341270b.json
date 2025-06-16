@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 45.0,
-      "held": {
-        "name": "ParshipMeet Holding GmbH",
-        "squuid": "63beaa43-4ca3-42b1-88d9-20857c390059"
-      },
-      "squuid": "63d26288-6920-4642-a1bb-68802856ee5c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Amsterdam (NL)",
-  "pseudoCompany": false,
   "name": "General Atlantic PD N. V.",
-  "naturalPerson": false,
-  "squuid": "63d26275-d61b-4fc0-bf44-56dcd341270b",
+  "pseudoCompany": false,
   "controlDate": "2025-05-26T09:08:35.008Z",
+  "squuid": "63d26275-d61b-4fc0-bf44-56dcd341270b",
+  "city": "Amsterdam (NL)",
+  "state": "archived",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": false
 }

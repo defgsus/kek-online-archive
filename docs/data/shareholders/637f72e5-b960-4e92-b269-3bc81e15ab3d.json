@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Bremerhaven",
   "pseudoCompany": false,
   "street": "Hafenstr.",
@@ -10,42 +10,11 @@
   "streetNumber": "142",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "27576",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Business & People (Ausgabe Metropolregion Bremen/Bremerhaven/Weser-Ems)",
-        "squuid": "637f725f-d4f0-41a5-ac05-c937f8eb85dc"
-      },
-      "squuid": "637f7330-4000-4b73-8518-73c8a2f503b2",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.sonntagsjournal.de",
-        "squuid": "6400c82b-d641-4025-9d7f-db22badbc9c9"
-      },
-      "squuid": "6400c84b-c3d5-48c5-8168-4bc533dcc7fe",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Ditzen GmbH & Co",
-        "squuid": "5be1a6b6-0ee7-47f2-a915-b345cd4ddc28"
-      },
-      "squuid": "637f74b8-dd3c-4d74-9e39-c3002709f500",
-      "state": "active"
-    }
-  ]
+  "zipcode": "27576"
 }

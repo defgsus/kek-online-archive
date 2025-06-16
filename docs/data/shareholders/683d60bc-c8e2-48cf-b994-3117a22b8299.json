@@ -1,13 +1,25 @@
 {
   "name": "KPS-Programme Schulenberg GmbH",
   "squuid": "683d60bc-c8e2-48cf-b994-3117a22b8299",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "KPS-Programme Schulenberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-de27-480a-aaad-2cd7d1b365e8"
+      },
+      "squuid": "683d6111-e8d4-451d-92ee-3c0d6828ec98",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
