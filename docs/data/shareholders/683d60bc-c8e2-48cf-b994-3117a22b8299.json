@@ -1,6 +1,4 @@
 {
-  "name": "KPS-Programme Schulenberg GmbH",
-  "squuid": "683d60bc-c8e2-48cf-b994-3117a22b8299",
   "owns": [
     {
       "complementaryPartner": true,
@@ -15,11 +13,32 @@
     }
   ],
   "state": "active",
+  "city": "Bremen",
+  "pseudoCompany": false,
+  "street": "Contrescarpe",
+  "name": "KPS-Programme Schulenberg GmbH",
+  "naturalPerson": false,
+  "squuid": "683d60bc-c8e2-48cf-b994-3117a22b8299",
+  "controlDate": "2025-06-17T14:42:44.728Z",
+  "streetNumber": "75a",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "zipcode": "28195",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "KPS-Programme Schulenberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-de27-480a-aaad-2cd7d1b365e8"
+      },
+      "squuid": "68517fa0-9c81-42da-bfe5-304504ad2770",
+      "state": "active"
     }
   ]
 }

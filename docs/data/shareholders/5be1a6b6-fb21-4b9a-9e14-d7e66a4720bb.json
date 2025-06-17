@@ -5,16 +5,6 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Lokal-Radio Cottbus GmbH",
-        "squuid": "5be1a6b6-9417-45d2-b1c0-971ab49e6394"
-      },
-      "squuid": "5be1a6b7-4e0f-45fe-b91f-5787a5ff3f31",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 22.196,
       "held": {
         "name": "Brandenburger Lokalradios GmbH",
@@ -31,16 +21,6 @@
         "squuid": "5be1a6b6-bb57-49cb-9c94-3a89e3ac01d0"
       },
       "squuid": "5be1a6b8-038f-4388-8bef-eb3550e95cf0",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.2,
-      "held": {
-        "name": "The Radio Group Holding GmbH",
-        "squuid": "5be1a6b6-0b31-4cd0-88b2-e247324913be"
-      },
-      "squuid": "64abcfb2-5f5e-4ba7-b239-4b552bcd2236",
       "state": "active"
     }
   ],
@@ -81,6 +61,12 @@
       "name": "SLM",
       "type": "organization",
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
+      "type": "organization",
+      "fullName": "Thüringer Landesmedienanstalt"
     },
     {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
