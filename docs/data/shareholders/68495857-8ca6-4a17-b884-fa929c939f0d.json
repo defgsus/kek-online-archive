@@ -1,13 +1,29 @@
 {
   "name": "Janssen, Sven",
   "squuid": "68495857-8ca6-4a17-b884-fa929c939f0d",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 99.6,
+      "held": {
+        "name": "Hillcrest Familienholding GmbH & Co. KG",
+        "squuid": "68415655-c843-4afd-8499-0f283cf816f0"
+      },
+      "squuid": "684958a6-ab5b-4d3d-805e-02e6dadd521b",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

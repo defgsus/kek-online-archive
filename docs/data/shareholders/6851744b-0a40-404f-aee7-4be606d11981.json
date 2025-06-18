@@ -1,13 +1,30 @@
 {
   "name": "fahrwerkfim GmbH",
   "squuid": "6851744b-0a40-404f-aee7-4be606d11981",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "PTV Fernseh- und Multimediagesellschaft mbH",
+        "squuid": "64f97029-3bdb-4de0-ab27-92317a08c5f8"
+      },
+      "squuid": "68517681-8a62-4814-ad4d-ae010f566574",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ]
 }

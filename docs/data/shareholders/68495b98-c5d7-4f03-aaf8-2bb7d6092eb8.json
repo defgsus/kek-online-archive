@@ -1,13 +1,29 @@
 {
   "name": "HSE Finance S.à.r.l.",
   "squuid": "68495b98-c5d7-4f03-aaf8-2bb7d6092eb8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "HSE24 International GmbH",
+        "squuid": "68414f80-f190-4f18-be94-0923985a9e12"
+      },
+      "squuid": "68495c22-8887-4aac-904f-9a00f32d2088",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "Hoermann, Stephan",
+  "pseudoCompany": false,
   "squuid": "60d490a3-4b25-443d-86a8-caf99b3c575c",
   "owns": [
     {
@@ -12,20 +13,27 @@
       },
       "squuid": "60d490cc-d481-4af8-aa9f-a989df705fc4",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "HV Oberer Torplatz GmbH",
+        "squuid": "666975db-61c8-424e-8f54-dd5ae0534419"
+      },
+      "squuid": "667d4149-59f3-4977-b169-8fbb543e209c",
+      "state": "active"
     }
   ],
+  "city": "Hof",
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

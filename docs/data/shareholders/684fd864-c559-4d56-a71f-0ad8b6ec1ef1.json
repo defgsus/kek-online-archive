@@ -1,13 +1,29 @@
 {
   "name": "ODDO BHF SCA",
   "squuid": "684fd864-c559-4d56-a71f-0ad8b6ec1ef1",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "ODDO BHF SE",
+        "squuid": "5d302729-6c2f-4a99-92b0-3daf4f47f9e7"
+      },
+      "squuid": "684fd954-e8cf-420f-bf9c-9ab77197d062",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
