@@ -18,7 +18,7 @@
   "name": "ODDO BHF SE",
   "naturalPerson": false,
   "squuid": "5d302729-6c2f-4a99-92b0-3daf4f47f9e7",
-  "controlDate": "2025-06-16T08:40:38.459Z",
+  "controlDate": "2025-06-19T17:02:10.085Z",
   "streetNumber": "8",
   "organizations": [
     {
@@ -32,5 +32,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "60329"
+  "zipcode": "60329",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "ODDO BHF SCA",
+        "squuid": "684fd864-c559-4d56-a71f-0ad8b6ec1ef1"
+      },
+      "squuid": "684fd954-e8cf-420f-bf9c-9ab77197d062",
+      "state": "active"
+    }
+  ]
 }

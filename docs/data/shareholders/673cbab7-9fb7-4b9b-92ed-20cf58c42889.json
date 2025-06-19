@@ -13,6 +13,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "zipcode": "01277",
@@ -24,6 +30,33 @@
         "squuid": "5f355603-a0ba-4c2e-91cc-577bff9cbccb"
       },
       "squuid": "673cbad6-663d-4cba-bf0f-1e28cda86739",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "SACHSEN FERNSEHEN Dresden",
+        "squuid": "5be1a6b1-b6f9-489a-bee9-22190d541368"
+      },
+      "squuid": "6853a129-72a4-48ec-9034-d9ed7f625b3e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "SACHSEN FERNSEHEN Lausitz",
+        "squuid": "64c11272-4c7c-42fd-9a10-7793b8e3c769"
+      },
+      "squuid": "6853a161-984c-4d03-ae7c-10abb84fc4d2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Sachsen Fernsehen Elbland",
+        "squuid": "64f87bb6-ff56-4dd6-9ef7-b02dad8e2afa"
+      },
+      "squuid": "6853a1aa-0abc-45a0-b32d-67b2447bf104",
       "state": "active"
     }
   ],
