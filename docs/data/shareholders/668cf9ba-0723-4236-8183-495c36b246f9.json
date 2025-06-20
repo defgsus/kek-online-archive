@@ -18,7 +18,7 @@
   "name": "S.D.U.S. GmbH",
   "naturalPerson": false,
   "squuid": "668cf9ba-0723-4236-8183-495c36b246f9",
-  "controlDate": "2024-12-17T10:37:27.373Z",
+  "controlDate": "2025-06-20T12:36:49.359Z",
   "streetNumber": "6",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "97842"
+  "zipcode": "97842",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "CUS Holding GmbH",
+        "squuid": "676154df-ec5a-4268-972f-0cde301be5bd"
+      },
+      "squuid": "676154f9-8117-4791-9016-f1d483805d88",
+      "state": "active"
+    }
+  ]
 }

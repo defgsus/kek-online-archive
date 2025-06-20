@@ -1,9 +1,9 @@
 {
-  "rfRepresentative": "Carsten Schmidt, Dr. Holger Enßlin, Marcello Maggioni, Colin Jones",
+  "rfRepresentative": "Barny Mills, Charles Classen, Neal O´Rourke, Elke Walthelm",
   "state": "active",
   "rfShoppingChannel": false,
   "rfParentalAdvisor": "Sandra Singer",
-  "rfStartDate": "04.07.2009",
+  "rfStartDate": "",
   "rfFreePay": false,
   "squuid": "5be1a6b1-fc82-4674-bb5a-65b43454575f",
   "marketReach": 0.1,
@@ -19,9 +19,9 @@
       "type": "operate",
       "holder": {
         "name": "Sky Deutschland Fernsehen GmbH & Co. KG",
-        "squuid": "5be1a6b6-e031-4e07-9571-aaad6a3c2478"
+        "squuid": "61e6a021-57c9-4e5f-bc71-5167884ad1ce"
       },
-      "squuid": "5be1a6b9-83db-4411-be33-034defaa9e3d",
+      "squuid": "61e6a911-b638-4726-b104-1a536ae88273",
       "state": "active"
     }
   ],
@@ -29,8 +29,8 @@
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-    "name": "auf Sendung",
+    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+    "name": "Sendebetrieb eingestellt",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -48,7 +48,7 @@
     "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
   },
   "description": "Unterhaltungsprogramm mit Film-Blockbustern (deutsche und europäische Filmproduktionen aller Genres); zeitlich um 24 Stunden versetzte Ausstrahlung des Programms Sky Cinema Premieren",
-  "rfLicenseUntil": "31.07.2029",
+  "rfLicenseUntil": "unbefristet",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
@@ -59,7 +59,7 @@
   "platformOperators": [
     {
       "squuid": "5be1a6b0-d549-4f5a-aba3-fcf19dc2d9cd",
-      "name": "Vodafone Kabel Deutschland GmbH",
+      "name": "GIGA TV Cable / Vodafone Kabel Deutschland GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
@@ -70,7 +70,7 @@
     },
     {
       "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
-      "name": "Deutsche Telekom GmbH / Magenta TV",
+      "name": "Magenta TV / Deutsche Telekom GmbH",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
@@ -80,67 +80,23 @@
       "state": "active"
     },
     {
-      "squuid": "5be1a6b0-2fa4-4160-a33b-8b51c00997a4",
-      "name": "Vodafone Kabel Deutschland GmbH (GIGA TV)",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
-        "name": "IPTV",
-        "type": "distribution-type"
-      },
-      "state": "active"
-    },
-    {
-      "squuid": "5be1a6b0-2315-4639-ad7e-4ee0ca15d951",
-      "name": "Unitymedia",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
-        "name": "Kabel",
-        "type": "distribution-type"
-      },
-      "state": "active"
-    },
-    {
-      "squuid": "5be1a6b0-a0a1-4251-9c3a-feb4abfd58cc",
-      "name": "NetCologne",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
-        "name": "Kabel",
-        "type": "distribution-type"
-      },
-      "state": "active"
-    },
-    {
-      "squuid": "5be1a6b0-ec5e-4d1d-aeab-25f09a97bf67",
-      "name": "Tele Columbus AG",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
-        "name": "Kabel",
-        "type": "distribution-type"
-      },
-      "state": "active"
-    },
-    {
-      "squuid": "5be1a6b0-d7a7-4bd8-a6c4-89a1eb1c79a0",
-      "name": "Lokale Kabelnetze (veraltet)",
-      "type": "platform-operator",
-      "distributionType": {
-        "squuid": "5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6",
-        "name": "Kabel",
-        "type": "distribution-type"
-      },
-      "state": "active"
-    },
-    {
-      "squuid": "5be1a6b0-8b9f-4c3c-bffa-eb1b3d4eed8f",
-      "name": "Sky (DTH) (veraltet)",
+      "squuid": "5be1a6b0-3352-4668-9598-d47a2319b91c",
+      "name": "Sky / Sky Deutschland Fernsehen GmbH & Co. KG",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-3401-437f-a41b-7d040eaa1e28",
         "name": "Programmplattform",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    },
+    {
+      "squuid": "5e7b9563-98d5-457b-afe1-2403a5dacf39",
+      "name": "1&1 HD TV / 1&1 Telecom GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
         "type": "distribution-type"
       },
       "state": "active"
