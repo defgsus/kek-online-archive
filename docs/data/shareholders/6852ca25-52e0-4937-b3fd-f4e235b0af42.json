@@ -1,13 +1,30 @@
 {
   "name": "Bürgermedien Südost e.V.",
   "squuid": "6852ca25-52e0-4937-b3fd-f4e235b0af42",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "Radio Regenbogen Programmanbieter gGmbH",
+        "squuid": "5be1a6b6-9578-44dc-8400-61e526137e1f"
+      },
+      "squuid": "6852ca50-6ac1-4018-a606-c41198c979ea",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }

@@ -1,13 +1,30 @@
 {
   "name": "Radio Chiemgau Geschäftsanteils GmbH & Co.. eGbR",
   "squuid": "68528d86-b9b2-4e43-8aac-ef11795fbd90",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 7.97,
+      "held": {
+        "name": "Radio Chiemgau Programmanbieter Verwaltungs GmbH",
+        "squuid": "5f8ed447-e8f9-4b81-870f-2be0bf40f5d0"
+      },
+      "squuid": "68528de0-0d46-4e9b-8dd5-2802d3ea5b91",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }

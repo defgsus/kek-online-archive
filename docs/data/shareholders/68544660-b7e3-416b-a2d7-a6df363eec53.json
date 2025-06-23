@@ -1,13 +1,30 @@
 {
   "name": "Waligorski, Frank",
   "squuid": "68544660-b7e3-416b-a2d7-a6df363eec53",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "fahrwerkfilm GmbH",
+        "squuid": "6851744b-0a40-404f-aee7-4be606d11981"
+      },
+      "squuid": "6854469f-9cea-409e-b363-2912ea441e7c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ]
 }
