@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Brake",
   "pseudoCompany": false,
   "street": "Breite Straße",
@@ -11,54 +11,11 @@
   "streetNumber": "26",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "26919",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.nordwest-sonntagsblatt.de",
-        "squuid": "637f9028-f648-4da1-b640-486db4d4c942"
-      },
-      "squuid": "63dbdc72-5513-46a8-9a50-22019719e0d2",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "holder": {
-        "name": "Bremervörder Zeitung Verlagsgesellschaft Borgardt GmbH & Co KG",
-        "squuid": "5be1a6b6-864d-4119-b576-cfd654d4ca81"
-      },
-      "squuid": "63dbdd3f-4c15-4826-8a89-ed8f4347e22b",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Sonntagszeitung Wesermarsch Verlagsgesellschaft Beteiligungsgesellschaft mbH",
-        "squuid": "63dbdc3d-32c2-4fd9-b729-dd4c55dab56f"
-      },
-      "squuid": "63dbdd4e-d990-45f6-bfb3-74794979678e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 75.0,
-      "holder": {
-        "name": "Nordwest Media Vermarktungsgesellschaft mbH & Co. KG",
-        "squuid": "637f907b-45ea-4a64-aa67-cc281b3f330a"
-      },
-      "squuid": "63dbdef1-495c-4df2-a4bd-55429022c722",
-      "state": "active"
-    }
-  ]
+  "zipcode": "26919"
 }

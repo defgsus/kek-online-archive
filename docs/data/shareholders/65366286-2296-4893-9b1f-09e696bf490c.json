@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Frese Beteiligungen GmbH & Co.",
-        "squuid": "64a80629-1e75-4c29-a78d-6044360cc585"
-      },
-      "squuid": "653662a0-bc05-48b5-9f1d-cc6fbdb1c00a",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Singen",
   "pseudoCompany": false,
   "street": "Hadwigstr.",
@@ -23,42 +10,11 @@
   "streetNumber": "2a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "78224",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 20.0,
-      "holder": {
-        "name": "Frese, Annelie-Sigrid",
-        "squuid": "65366318-84ae-4573-b5eb-152be384aa25"
-      },
-      "squuid": "6536633b-9dd8-4f54-b187-55604c182e61",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 40.0,
-      "holder": {
-        "name": "Frese, Manuela",
-        "squuid": "64a809b6-e9d3-4967-933d-dcdc64dbcc56"
-      },
-      "squuid": "65366349-76a1-441f-8170-66be64bc6403",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 40.0,
-      "holder": {
-        "name": "Frese, Carmen",
-        "squuid": "64a80966-b950-4218-8206-5cc98d4f5215"
-      },
-      "squuid": "65366364-112b-46ac-943c-25e5c4f575de",
-      "state": "active"
-    }
-  ]
+  "zipcode": "78224"
 }

@@ -18,7 +18,7 @@
   "name": "Sky German Holdings GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-07bc-4c91-a87e-21a03eb06b23",
-  "controlDate": "2024-12-18T14:47:04.757Z",
+  "controlDate": "2025-06-24T09:30:35.846Z",
   "streetNumber": "26",
   "organizations": [
     {
@@ -43,12 +43,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 90.001,
       "holder": {
-        "name": "Sky International Operations Limited",
-        "squuid": "5be1a6b6-e42b-4f24-9c14-98ee00b790e2"
+        "name": "Comcast Corporation",
+        "squuid": "5be1a6b6-af31-4675-bfe5-541d276d90b2"
       },
-      "squuid": "5be1a6b8-b759-48cd-9eda-e82e776b966d",
+      "squuid": "6762e04a-0252-4146-b011-062dda2b8ae3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 9.999,
+      "holder": {
+        "name": "Comcast Sky Holdings Inc.",
+        "squuid": "6762e01c-6a31-427a-997f-46e0a60028cb"
+      },
+      "squuid": "6762e05e-ea50-452c-ac3b-ad2a1620fe71",
       "state": "active"
     }
   ]
