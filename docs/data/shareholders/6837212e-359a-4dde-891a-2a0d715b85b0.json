@@ -9,6 +9,36 @@
       },
       "squuid": "6837218b-9beb-4d77-8c9d-6699094aff18",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.88,
+      "held": {
+        "name": "Lokalradio Berchtesgadener Land Verwaltungs GmbH",
+        "squuid": "5be1a6b6-86b9-494c-a16c-f4bd3bb9b638"
+      },
+      "squuid": "683dc0c7-5a28-422c-88db-75a699c1d0f7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.59,
+      "held": {
+        "name": "Radio Chiemgau Programmanbieter Verwaltungs GmbH",
+        "squuid": "5f8ed447-e8f9-4b81-870f-2be0bf40f5d0"
+      },
+      "squuid": "68528d4e-1998-478b-9d15-81ec4bb33c93",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.2,
+      "held": {
+        "name": "Radio Chiemgau Programmanbieter GmbH & Co. KG",
+        "squuid": "5be1a6b6-8860-478f-96d7-8215455248b9"
+      },
+      "squuid": "68529131-c4bb-4b26-aa81-1a3e4d71be9b",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -18,7 +48,7 @@
   "name": "bavero Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "6837212e-359a-4dde-891a-2a0d715b85b0",
-  "controlDate": "2025-06-13T08:54:53.133Z",
+  "controlDate": "2025-06-25T08:19:30.203Z",
   "streetNumber": "5",
   "organizations": [
     {
@@ -33,5 +63,17 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "94036"
+  "zipcode": "94036",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Neue Pressegesellschaft mbH",
+        "squuid": "5eb020a8-c04f-431b-b793-01b595f906f1"
+      },
+      "squuid": "684be826-3443-4835-9129-3a2437abb0b7",
+      "state": "active"
+    }
+  ]
 }
