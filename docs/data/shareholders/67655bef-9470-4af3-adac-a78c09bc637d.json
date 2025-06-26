@@ -15,10 +15,10 @@
   "city": "Friedeburg",
   "pseudoCompany": false,
   "street": "Wieseder Str.",
-  "name": "TBD Service GmbH",
+  "name": "New Energy Service and Inspection GmbH",
   "naturalPerson": false,
   "squuid": "67655bef-9470-4af3-adac-a78c09bc637d",
-  "controlDate": "2025-01-04T13:12:41.001Z",
+  "controlDate": "2025-06-26T16:07:45.977Z",
   "streetNumber": "34",
   "organizations": [
     {
@@ -45,5 +45,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "26446"
+  "zipcode": "26446",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "TBD Holding GmbH",
+        "squuid": "67793435-21dc-46ab-9fb0-505abbcee282"
+      },
+      "squuid": "67793452-ff5e-449b-911f-5d05d775837e",
+      "state": "active"
+    }
+  ]
 }

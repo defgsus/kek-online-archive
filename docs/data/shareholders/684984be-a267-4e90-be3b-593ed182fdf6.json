@@ -1,6 +1,4 @@
 {
-  "name": "Holzer GmbH & Co. KG",
-  "squuid": "684984be-a267-4e90-be3b-593ed182fdf6",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,15 @@
     }
   ],
   "state": "active",
+  "city": "Weiler-Simmerberg",
+  "pseudoCompany": false,
+  "street": "Friedolin-Holzer-Str.",
+  "name": "Holzer GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "684984be-a267-4e90-be3b-593ed182fdf6",
+  "controlDate": "2025-06-26T08:11:29.640Z",
+  "streetNumber": "22/24",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -62,5 +69,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ]
+  ],
+  "zipcode": "88171"
 }

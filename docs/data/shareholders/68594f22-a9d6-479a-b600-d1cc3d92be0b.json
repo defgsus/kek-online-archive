@@ -1,8 +1,25 @@
 {
   "name": "Eugster/Frismag AG",
   "squuid": "68594f22-a9d6-479a-b600-d1cc3d92be0b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.25,
+      "held": {
+        "name": "SIGNA Holding GmbH",
+        "squuid": "5d306b21-825e-4e21-9c40-d2838e993a28"
+      },
+      "squuid": "68594fcb-6da4-456d-8972-668b36a39210",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
