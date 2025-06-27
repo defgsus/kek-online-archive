@@ -1,19 +1,14 @@
 {
-  "name": "tv.ingolstadt GmbH & Co. KG",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "München Live TV Fernsehen GmbH & Co. KG",
-        "squuid": "5be1a6b6-528c-4d6f-a94d-5b2d81a28258"
-      },
-      "squuid": "60c9b6e1-776f-447a-9621-f22b5d82037a",
-      "state": "active"
-    }
-  ],
-  "squuid": "60c7721a-28bc-4472-849a-a1704773ccb6",
   "state": "active",
+  "city": "Ingolstadt",
+  "pseudoCompany": false,
+  "street": "Marie-Curie-Str.",
+  "name": "tv.ingolstadt GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "60c7721a-28bc-4472-849a-a1704773ccb6",
+  "controlDate": "2025-06-27T12:54:37.091Z",
+  "streetNumber": "6",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -27,6 +22,7 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
+  "zipcode": "85055",
   "operates": [
     {
       "type": "operate",
@@ -44,6 +40,18 @@
         "squuid": "67828f22-6772-493c-98af-49fd83d9b76a"
       },
       "squuid": "67828f9a-80ab-414c-bc6f-9c277bb034b5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "München Live TV Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-528c-4d6f-a94d-5b2d81a28258"
+      },
+      "squuid": "60c9b6e1-776f-447a-9621-f22b5d82037a",
       "state": "active"
     }
   ]
