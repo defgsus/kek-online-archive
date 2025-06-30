@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Speyer",
   "pseudoCompany": false,
   "street": "Beethovenstr. 4",
@@ -9,44 +9,12 @@
   "controlDate": "2025-06-28T14:05:01.412Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "67346",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.kirchenbote-online.de",
-        "squuid": "5be1a6b1-00a9-4178-87a5-8ab1acb0a1b7"
-      },
-      "squuid": "5be1a6b9-1890-48f1-bd84-b55eb0acc47b",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 74.1,
-      "holder": {
-        "name": "Evangelische Kirche in der Pfalz",
-        "squuid": "5be1a6b6-de4a-4f92-983d-e76ff68170ad"
-      },
-      "squuid": "5be1a6b8-5316-4d5d-9db8-fe94bcad1f79",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 25.9,
-      "holder": {
-        "name": "Evangelischer Presseverband in der Pfalz e.V.",
-        "squuid": "5be1a6b6-7bd1-465f-816d-7e36cf3a9216"
-      },
-      "squuid": "5be1a6b8-8af8-473d-a4ff-8b3e4fb6aba6",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 74.1,
-      "held": {
-        "name": "Verlagshaus Speyer GmbH",
-        "squuid": "5be1a6b6-c351-4db6-b297-07432027937c"
-      },
-      "squuid": "5be1a6b8-5316-4d5d-9db8-fe94bcad1f79",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": false,
   "name": "Evangelische Kirche in der Pfalz",
-  "naturalPerson": false,
-  "squuid": "5be1a6b6-de4a-4f92-983d-e76ff68170ad",
+  "pseudoCompany": false,
   "controlDate": "2020-05-22T07:45:07.861Z",
+  "squuid": "5be1a6b6-de4a-4f92-983d-e76ff68170ad",
+  "credits": "IJK",
+  "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "credits": "IJK"
+  "naturalPerson": false
 }
