@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "6863e510-731b-430d-812c-a38e4c0ee461",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "blabla.cafe GmbH & Co. KG",
+        "squuid": "5c52d755-7c2a-4c0f-89da-1507c879dd92"
+      },
+      "squuid": "6863e530-069a-4686-ad08-b915449a225b",
+      "state": "active"
+    }
+  ],
+  "name": "www.blabla.cafe",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2025-07-01T13:39:40.417Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

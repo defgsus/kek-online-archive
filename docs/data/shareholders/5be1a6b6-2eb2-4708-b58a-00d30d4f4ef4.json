@@ -19,10 +19,15 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-2eb2-4708-b58a-00d30d4f4ef4",
-  "controlDate": "2024-05-22T12:20:05.768Z",
+  "controlDate": "2025-07-01T14:40:21.294Z",
   "placeOfBusiness": "Karlsruhe",
   "streetNumber": "20",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
@@ -46,13 +51,22 @@
       },
       "squuid": "5d42c049-9a15-4e12-bbbb-fa61301f75c7",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bw-future.tv",
+        "squuid": "6863f0c4-d305-4ac1-a823-cd7b65d14301"
+      },
+      "squuid": "6863f0ed-03d7-4bf2-8a46-a9020192f635",
+      "state": "active"
     }
   ],
   "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 11.12.2015",
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 46.0,
+      "capitalShares": 20.0,
       "holder": {
         "name": "ERB Medien GmbH",
         "squuid": "5be1a6b6-ac1f-447f-a37d-e06980c51b67"
@@ -62,7 +76,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 3.5,
+      "capitalShares": 5.6,
       "holder": {
         "name": "b.i.g. gruppe-management gmbh",
         "squuid": "5be1a6b6-abef-4485-8b76-f482b7323c20"
@@ -72,7 +86,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 38.93,
+      "capitalShares": 37.0,
       "holder": {
         "name": "DFA Regional TV Baden-Württemberg GmbH",
         "squuid": "5be1a6b6-e1c9-41d3-884a-04c1d5e05e39"
@@ -81,24 +95,33 @@
       "state": "active"
     },
     {
-      "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
-      "holder": {
-        "name": "bw family.tv Holding GmbH",
-        "squuid": "5f7afd40-cc3a-4b1c-a2ae-744899d45dd5"
-      },
-      "squuid": "5f7afd8d-d4e0-407b-96fe-d7535855ae82",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 11.57,
       "holder": {
         "name": "MAKU Kommunikationstechnik GmbH",
         "squuid": "5f7afd54-6aed-43aa-a1ea-e13f1450c9cc"
       },
       "squuid": "5f7afed8-7f4a-4e4b-a3ad-5c1fa8fd8cf0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "Evangelisches Medienhaus GmbH Stuttgart",
+        "squuid": "5be1a6b6-00cb-4bc5-8eb1-4566be16e421"
+      },
+      "squuid": "66bde1d2-7993-4eaa-8aab-61a81ea25a05",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 13.4,
+      "holder": {
+        "name": "L-TV GmbH Landesfernsehen",
+        "squuid": "5be1a6b6-ed76-469c-be3a-f6412b962c87"
+      },
+      "squuid": "66bde2e9-5dc4-44ea-91ab-4558d17ddc85",
       "state": "active"
     }
   ]

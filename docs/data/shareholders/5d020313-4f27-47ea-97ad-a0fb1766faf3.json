@@ -1,10 +1,28 @@
 {
-  "name": "Barfuß, Steffen",
-  "pseudoCompany": false,
-  "squuid": "5d020313-4f27-47ea-97ad-a0fb1766faf3",
-  "city": "Leipzig",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "BLK-TV UG (haftungsbeschränkt)",
+        "squuid": "6863eb71-fa89-4dca-8a41-ae084b8f0319"
+      },
+      "squuid": "6863edc3-bc66-48c2-9718-be95ce76e6b5",
+      "state": "active"
+    }
+  ],
   "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "name": "Barfuß, Steffen",
+  "naturalPerson": true,
+  "squuid": "5d020313-4f27-47ea-97ad-a0fb1766faf3",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
       "name": "MSA",
@@ -22,6 +40,5 @@
       "squuid": "5d020353-8239-46c6-b396-2be0017092c5",
       "state": "active"
     }
-  ],
-  "naturalPerson": true
+  ]
 }

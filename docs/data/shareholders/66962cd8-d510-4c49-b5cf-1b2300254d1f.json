@@ -5,7 +5,7 @@
       "type": "own",
       "capitalShares": 0.0,
       "held": {
-        "name": "WMP GmbH & Co. Medienbeteiligungs KG",
+        "name": "WMB Wisser Medienbeteiligungs GmbH & Co. KG",
         "squuid": "5be1a6b6-f8bf-471c-9d8c-93eded23b295"
       },
       "squuid": "66962d19-a454-4a27-ba4a-c7e45a3d84d7",
@@ -19,7 +19,7 @@
   "name": "Zweite DMNNB Immobilien Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "66962cd8-d510-4c49-b5cf-1b2300254d1f",
-  "controlDate": "2024-07-31T11:23:33.225Z",
+  "controlDate": "2025-07-01T12:40:06.513Z",
   "streetNumber": "32",
   "organizations": [
     {
@@ -40,5 +40,17 @@
       "fullName": "Medienanstalt Hessen"
     }
   ],
-  "zipcode": "95326"
+  "zipcode": "95326",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Claus Wisser Verwaltungs- und Beteiligungs GmbH & Co. KG",
+        "squuid": "5ef9b28e-113a-485b-919c-e67fbbc0b967"
+      },
+      "squuid": "66aa1eb4-f81e-4ec9-a858-2ca428d15b67",
+      "state": "active"
+    }
+  ]
 }

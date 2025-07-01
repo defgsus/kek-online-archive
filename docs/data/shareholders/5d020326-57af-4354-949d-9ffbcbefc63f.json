@@ -1,10 +1,28 @@
 {
-  "name": "Mittag, Maud",
-  "pseudoCompany": false,
-  "squuid": "5d020326-57af-4354-949d-9ffbcbefc63f",
-  "city": "Hohenmölsen",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "BLK-TV UG (haftungsbeschränkt)",
+        "squuid": "6863eb71-fa89-4dca-8a41-ae084b8f0319"
+      },
+      "squuid": "6863edb4-9857-4f33-93ce-c2bb02da8d9f",
+      "state": "active"
+    }
+  ],
   "state": "active",
+  "city": "Hohenmölsen",
+  "pseudoCompany": false,
+  "name": "Mittag, Maud",
+  "naturalPerson": true,
+  "squuid": "5d020326-57af-4354-949d-9ffbcbefc63f",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
       "name": "MSA",
@@ -22,6 +40,5 @@
       "squuid": "5d020364-8055-4414-94e7-baf4fb484bce",
       "state": "active"
     }
-  ],
-  "naturalPerson": true
+  ]
 }

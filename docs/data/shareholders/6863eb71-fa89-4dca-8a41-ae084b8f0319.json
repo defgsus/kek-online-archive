@@ -1,0 +1,72 @@
+{
+  "state": "active",
+  "city": "Hohenmölsen",
+  "pseudoCompany": false,
+  "street": "Friedensstr.",
+  "name": "BLK-TV UG (haftungsbeschränkt)",
+  "naturalPerson": false,
+  "squuid": "6863eb71-fa89-4dca-8a41-ae084b8f0319",
+  "controlDate": "2025-07-01T14:10:25.646Z",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "06679",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.blkregional.de",
+        "squuid": "6863eafd-b8a5-4891-b32a-554e5b67f6a2"
+      },
+      "squuid": "6863eba6-697f-4d48-8084-903f3a8676a0",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Mittag, Maud",
+        "squuid": "5d020326-57af-4354-949d-9ffbcbefc63f"
+      },
+      "squuid": "6863edb4-9857-4f33-93ce-c2bb02da8d9f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Barfuß, Steffen",
+        "squuid": "5d020313-4f27-47ea-97ad-a0fb1766faf3"
+      },
+      "squuid": "6863edc3-bc66-48c2-9718-be95ce76e6b5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Mittag, Simone",
+        "squuid": "6863ed92-81a4-428a-8a12-68deddc684d2"
+      },
+      "squuid": "6863edcd-3cb7-43c5-8a55-e0b557eefcef",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Meier, Lars",
+        "squuid": "6863ed9d-7268-44aa-a55d-b4ce15835230"
+      },
+      "squuid": "6863edda-80a4-43e1-89ef-f61d5823a24f",
+      "state": "active"
+    }
+  ]
+}
