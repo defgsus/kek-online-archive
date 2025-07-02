@@ -1,7 +1,8 @@
 {
-  "rfRepresentative": "Tino Utassy",
+  "rfRepresentative": "Geschäftsführer Tino Utassy",
   "state": "active",
   "rfShoppingChannel": false,
+  "rfStartDate": "2023",
   "squuid": "5fa26b6c-8357-41c4-895f-35d3a4a0d9d3",
   "organization": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -23,6 +24,12 @@
   ],
   "name": "Radio Chemnitz 2",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -30,6 +37,9 @@
     "type": "organization",
     "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
   },
-  "description": "lokales Hörfunkvollprogramm mit inhaltlichem Schwerpunkt auf lokale Berichterstattung aus dem Großraum Chemnitz",
-  "rfLicensed": "02.11.2020"
+  "description": "lokales Hörfunkvollprogramm mit inhaltlichem Schwerpunkt auf lokale Berichterstattung aus dem Großraum Chemnitz\nVerbreitung: DAB+ lokal Chemnitz",
+  "rfLicenseUntil": "31.01.2033",
+  "rfLicensed": "02.11.2020",
+  "rfLicenseFrom": "01.02.2023",
+  "rfAddress": "BCS Broadcast Sachsen GmbH & Co. KG\nAmmonstraße 35\n01067 Dresden\n"
 }

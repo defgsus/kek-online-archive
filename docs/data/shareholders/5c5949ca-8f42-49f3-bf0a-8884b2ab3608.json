@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "SECONDRADIO UG",
+        "squuid": "68653b19-1b27-4bd3-a767-64e33c347668"
+      },
+      "squuid": "68653d4e-71ec-4363-a80e-8a1a03c71918",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Markkleeberg",
   "supplierConsortium": false,
@@ -26,19 +38,10 @@
     {
       "type": "operate",
       "held": {
-        "name": "SecondRadio UG",
+        "name": "SECONDRADIO",
         "squuid": "5c5949a0-cc00-4ed3-8c28-a8684b83fae2"
       },
       "squuid": "5c594a7f-9e27-4841-89ee-e28f31468ac7",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Radio Ostrock",
-        "squuid": "5e381df3-3d41-4997-b7b1-3fda6df1b1af"
-      },
-      "squuid": "5e381ed1-5142-4a77-8174-cd024ce42b79",
       "state": "active"
     },
     {

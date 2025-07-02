@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Koblenz",
   "pseudoCompany": false,
   "street": "Maria Trost",
@@ -11,53 +11,11 @@
   "streetNumber": "1a",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "56070",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.tv-mittelrhein.de",
-        "squuid": "5f3baa01-3a42-4c5c-b0a7-3b28600c4122"
-      },
-      "squuid": "5f3baa3b-d1af-4662-bab8-4ea84f2f34a4",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.ww-tv.de",
-        "squuid": "5f3baade-a47d-47a7-9c0d-65f55becd033"
-      },
-      "squuid": "5f3bab0d-b144-486c-b2da-164c011de6f6",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Gotthardt, Frank",
-        "squuid": "5be1a6b6-6c3a-4c2b-87b8-dadd135a3cc0"
-      },
-      "squuid": "5f3ba0da-d2a6-4ace-969c-55792020cf7b",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "GT Medien GmbH",
-        "squuid": "5be1a6b6-58b8-4a65-8b14-5449b8fdc44f"
-      },
-      "squuid": "672caa58-bb0a-4bc4-9a85-c4bb2dfd210d",
-      "state": "active"
-    }
-  ]
+  "zipcode": "56070"
 }

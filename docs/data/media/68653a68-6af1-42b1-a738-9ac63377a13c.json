@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "68653a68-6af1-42b1-a738-9ac63377a13c",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "AHOY Radio GmbH",
+        "squuid": "66be1bfa-5519-41c4-88eb-9e1c02b7e2d5"
+      },
+      "squuid": "68653ac1-e7e8-4703-bb90-6b5c1ed4e10a",
+      "state": "active"
+    }
+  ],
+  "name": "www.ahoyradio.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2025-07-02T13:56:52.285Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

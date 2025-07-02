@@ -1,27 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 40.0,
-      "held": {
-        "name": "TV Produktions- und Betriebsgesellschaft mbH & Co. KG, Jena",
-        "squuid": "5f33d91d-3be0-4b69-824c-de04ace62c59"
-      },
-      "squuid": "5f7c82e1-fb50-4698-86ce-97dc2527e93b",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 40.0,
-      "held": {
-        "name": "TV Produktions- und Betriebsverwaltungs-GmbH",
-        "squuid": "5f33d935-9fb2-4832-84cd-9a36180205d8"
-      },
-      "squuid": "5f7c8707-20a4-488f-90a4-b57a1a7f55ae",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Kaiserin-Augusta-Allee",
@@ -32,28 +10,11 @@
   "streetNumber": "108",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-      "name": "TLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Thüringer Landesmedienanstalt"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "10553",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Tele Columbus Multimedia GmbH & Co. KG",
-        "squuid": "60d09673-b4cd-4030-891c-0a9add0eb22b"
-      },
-      "squuid": "60d09699-787d-46e4-9db7-b0e95767d78c",
-      "state": "active"
-    }
-  ]
+  "zipcode": "10553"
 }

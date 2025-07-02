@@ -1,7 +1,8 @@
 {
-  "rfRepresentative": "Arne Glaser",
+  "rfRepresentative": "Vorstandsvorsitzender Arne Glaser",
   "state": "active",
   "rfShoppingChannel": false,
+  "rfStartDate": "2023",
   "squuid": "5fa2786f-c169-4326-b128-879415f14132",
   "organization": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -23,6 +24,12 @@
   ],
   "name": "Radio UNiCC",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -30,6 +37,9 @@
     "type": "organization",
     "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
   },
-  "description": "nichtkommerzielles Hörfunkvollprogramm mit inhaltlichem Schwerpunkt auf lokale Berichterstattung aus dem Umfeld der TU Chemnitz und der Stadt Chemnitz",
-  "rfLicensed": "02.11.2020"
+  "description": "lokal ausgerichtetes nichtkommerzielles Hörfunkvollprogramm mit inhaltlichem Schwerpunkt auf lokale Berichterstattung aus dem Umfeld der TU Chemnitz und der Stadt Chemnitz\nVerbreitung: DAB+ lokal Chemnitz",
+  "rfLicenseUntil": "31.01.2033",
+  "rfLicensed": "02.11.2020",
+  "rfLicenseFrom": "01.02.2023",
+  "rfAddress": "Radio UNiCC e.V.\nThüringer Weg 3\n09126 Chemnitz\n"
 }

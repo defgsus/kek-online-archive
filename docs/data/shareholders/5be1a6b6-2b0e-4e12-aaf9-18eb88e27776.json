@@ -1,18 +1,8 @@
 {
-  "name": "Silva, Cristovao",
+  "name": "Silva Madeira, Christoph André",
   "pseudoCompany": false,
   "squuid": "5be1a6b6-2b0e-4e12-aaf9-18eb88e27776",
   "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Silvacast GmbH",
-        "squuid": "5be1a6b6-8635-46a6-a8a3-fab63870aef4"
-      },
-      "squuid": "5be1a6b7-61c5-460a-95c9-d8271e9e3964",
-      "state": "active"
-    },
     {
       "type": "own",
       "capitalShares": 100.0,
@@ -25,14 +15,20 @@
     }
   ],
   "city": "Berlin",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
       "name": "mabb",
       "type": "organization",
       "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }

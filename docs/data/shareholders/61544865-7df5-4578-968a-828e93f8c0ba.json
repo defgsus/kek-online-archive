@@ -1,20 +1,25 @@
 {
   "state": "active",
-  "city": "Unterhaching",
+  "city": "Kassel",
   "pseudoCompany": false,
-  "street": "Grünwalder Weg",
+  "street": "Universitätsplatz",
   "name": "Stingray Germany GmbH",
   "naturalPerson": false,
   "squuid": "61544865-7df5-4578-968a-828e93f8c0ba",
-  "streetNumber": "28 d",
+  "streetNumber": "12",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
       "name": "KEK",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
-  "zipcode": "82041",
+  "zipcode": "34127",
   "operates": [
     {
       "type": "operate",
@@ -86,6 +91,15 @@
         "squuid": "61544851-817d-4e5c-8920-801a7b28fd9a"
       },
       "squuid": "615468e9-b928-427e-ac81-b8c3e7df6fbb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.music.stingray.com/de/DE",
+        "squuid": "6865139f-1e0f-44a0-aad2-0cf1d67ab3ea"
+      },
+      "squuid": "686513d4-e257-4abd-9a72-069126001eff",
       "state": "active"
     }
   ],

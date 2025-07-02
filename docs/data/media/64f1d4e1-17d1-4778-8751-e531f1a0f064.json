@@ -1,6 +1,7 @@
 {
-  "rfRepresentative": "Cornelius Häschel",
+  "rfRepresentative": "Cornelius Häschel u.a.",
   "state": "active",
+  "rfShoppingChannel": false,
   "squuid": "64f1d4e1-17d1-4778-8751-e531f1a0f064",
   "organization": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -8,6 +9,7 @@
     "type": "organization",
     "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
   },
+  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
@@ -22,8 +24,8 @@
   "name": "Rundfunk-Kombinat Sachsen",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-    "name": "Noch nicht auf Sendung",
+    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+    "name": "Sendebetrieb eingestellt",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -34,6 +36,9 @@
     "type": "organization",
     "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
   },
-  "description": "sachsenweites nichtkommerzielles Hörfunkvollprogramm",
-  "rfLicensed": "24.05.2022"
+  "description": "sachsenweit ausgerichtetes nichtkommerzielles Hörfunkvollprogramm mit inhaltlichem Schwerpunkt auf Berichterstattung über das Geschehen in den sächsischen Regionen\nVerbreitung: DAB+ sachsenweit",
+  "rfLicenseUntil": "28.02.2033",
+  "rfLicensed": "24.05.2022",
+  "rfLicenseFrom": "01.03.2023",
+  "rfAddress": "Sächsischer Landesverband \nFreier Radios e.V.\nHerrn Cornelius Häschel\nPaul-Gruner-Straße 62\n04107 Leipzig"
 }

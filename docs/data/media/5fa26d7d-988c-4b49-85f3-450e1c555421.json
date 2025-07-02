@@ -1,7 +1,8 @@
 {
-  "rfRepresentative": "Frank Haring",
+  "rfRepresentative": "Geschäftsführer Frank Haring",
   "state": "active",
   "rfShoppingChannel": false,
+  "rfStartDate": "2023",
   "squuid": "5fa26d7d-988c-4b49-85f3-450e1c555421",
   "organization": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -23,6 +24,12 @@
   ],
   "name": "SACHSEN eins - Chemnitz",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -30,6 +37,9 @@
     "type": "organization",
     "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
   },
-  "description": "regionales Hörfunkvollprogramm mit inhaltlichem Schwerpunkt auf regionale Berichterstattung aus dem Großraum Chemnitz und ganz Sachsen",
-  "rfLicensed": "02.11.2020"
+  "description": "regionales Hörfunkvollprogramm mit inhaltlichem Schwerpunkt auf regionale Berichterstattung aus dem Großraum Chemnitz und ganz Sachsen\nVerbreitung: DAB+ lokal Chemnitz",
+  "rfLicenseUntil": "31.01.2033",
+  "rfLicensed": "02.11.2020",
+  "rfLicenseFrom": "01.02.2023",
+  "rfAddress": "F.i.S.-Fernsehen in Sachsen GmbH\nBrückenstraße 15\n09111 Chemnitz\n"
 }

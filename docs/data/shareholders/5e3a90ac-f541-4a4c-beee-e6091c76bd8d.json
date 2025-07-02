@@ -6,8 +6,14 @@
   "name": "SEENLAND kreativ GmbH",
   "naturalPerson": false,
   "squuid": "5e3a90ac-f541-4a4c-beee-e6091c76bd8d",
+  "controlDate": "2025-07-02T10:54:14.596Z",
   "streetNumber": "2-4",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
       "name": "mabb",
@@ -25,12 +31,21 @@
       },
       "squuid": "5e3a943f-06bd-4cda-9443-930177f9ead0",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.seenluft24.de",
+        "squuid": "68650e72-308a-47e8-877b-f1abd926331e"
+      },
+      "squuid": "68650eb1-cc7c-4f06-8399-9666e3513f84",
+      "state": "active"
     }
   ],
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 36.0,
       "holder": {
         "name": "Hanschick, Martin",
         "squuid": "5e3a9008-8f10-42ce-816f-906729cfab1d"
@@ -41,12 +56,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 32.0,
       "holder": {
         "name": "Przybilski, Jan",
         "squuid": "5e3a905d-5552-41af-9e37-c4fcadfaa6c8"
       },
       "squuid": "5e3a952b-a8d6-45f0-80cb-b9c498ed9d44",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 32.0,
+      "holder": {
+        "name": "Leder, Marlies",
+        "squuid": "6752ecf8-8009-45d8-82a3-ed6118d0302c"
+      },
+      "squuid": "6752ed74-50d3-4ee7-be94-5295ae2778b3",
       "state": "active"
     }
   ]

@@ -1,19 +1,4 @@
 {
-  "name": "MC Media Connect GmbH",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Schäffler, Ludwig",
-        "squuid": "66bdd1cb-b5be-4d5c-a55d-c7e0cd0cf956"
-      },
-      "squuid": "66bdd90c-41ec-41e8-a7cf-4e80676b3718",
-      "state": "active"
-    }
-  ],
-  "squuid": "66bdd1b6-043c-4982-b6c4-6ce30ace91a8",
   "owns": [
     {
       "type": "own",
@@ -27,12 +12,36 @@
     }
   ],
   "state": "active",
+  "city": "Unterföhring",
+  "pseudoCompany": false,
+  "street": "Betastr.",
+  "name": "MC Media Connect GmbH",
+  "naturalPerson": false,
+  "squuid": "66bdd1b6-043c-4982-b6c4-6ce30ace91a8",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
       "name": "KEK",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
-  "naturalPerson": false
+  "zipcode": "85774",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schäffler, Ludwig",
+        "squuid": "66bdd1cb-b5be-4d5c-a55d-c7e0cd0cf956"
+      },
+      "squuid": "66bdd90c-41ec-41e8-a7cf-4e80676b3718",
+      "state": "active"
+    }
+  ]
 }

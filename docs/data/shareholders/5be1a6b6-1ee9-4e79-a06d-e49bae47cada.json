@@ -5,9 +5,9 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 24.5,
       "held": {
-        "name": " eagle Broadcast Brandenburg GmbH (Duldung)",
+        "name": " eagle Broadcast Brandenburg GmbH ",
         "squuid": "5be1a6b6-4a34-4c70-aed2-6799fafcb400"
       },
       "squuid": "5be1a6b8-740d-43f0-b3bf-724bff79c78c",
@@ -15,7 +15,13 @@
     }
   ],
   "city": "Berlin",
+  "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
       "name": "mabb",
@@ -29,6 +35,5 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }

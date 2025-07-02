@@ -1,13 +1,30 @@
 {
   "name": "Thüga AG",
   "squuid": "685bbcec-6195-4636-bf95-36a5489c2686",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Stadtwerke Energie Jena-Pößneck GmbH",
+        "squuid": "5f7c8229-ae7e-417e-b586-287598cf78a2"
+      },
+      "squuid": "685bbd57-1d43-417d-8f3c-ee232dc4f1e2",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Thüringer Landesmedienanstalt"
     }
   ]
 }

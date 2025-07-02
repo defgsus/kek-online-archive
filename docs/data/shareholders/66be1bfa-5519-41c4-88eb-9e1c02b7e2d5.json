@@ -4,8 +4,14 @@
   "street": "Ludwigstraße",
   "name": "AHOY Radio GmbH",
   "squuid": "66be1bfa-5519-41c4-88eb-9e1c02b7e2d5",
+  "controlDate": "2025-07-02T14:03:55.256Z",
   "streetNumber": "11",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
       "name": "MA HSH",
@@ -23,6 +29,15 @@
       },
       "squuid": "66be24b2-a308-42dc-8709-196d605b5cdd",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ahoyradio.de",
+        "squuid": "68653a68-6af1-42b1-a738-9ac63377a13c"
+      },
+      "squuid": "68653ac1-e7e8-4703-bb90-6b5c1ed4e10a",
+      "state": "active"
     }
   ],
   "ownedBy": [
@@ -30,7 +45,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "holder": {
-        "name": "Lars Meier",
+        "name": "Meier, Lars",
         "squuid": "66be1c30-19ec-4eeb-8c19-eeda75a62e57"
       },
       "squuid": "66be2509-e96a-4f0a-a877-d552e33e0e86",

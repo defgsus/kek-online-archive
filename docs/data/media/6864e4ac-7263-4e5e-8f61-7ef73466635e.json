@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "6864e4ac-7263-4e5e-8f61-7ef73466635e",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "DF1 Medien GmbH",
+        "squuid": "66bdd734-6a9d-42f4-87ea-d7bfdb16f819"
+      },
+      "squuid": "6864e4d0-f82d-4408-8778-4221a97edd2b",
+      "state": "active"
+    }
+  ],
+  "name": "www.df1.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2025-07-02T07:50:12.647Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

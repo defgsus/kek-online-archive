@@ -6,11 +6,17 @@
   "name": "Pluto TV Europe GmbH",
   "naturalPerson": false,
   "squuid": "5fd8af14-4a38-46be-846e-a4c3b4b5878b",
+  "controlDate": "2025-07-02T10:12:24.985Z",
   "streetNumber": "80",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
       "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
       "type": "organization"
     }
   ],
@@ -23,6 +29,15 @@
         "squuid": "5fd8aee2-175f-4685-83ea-980c3e8e2b24"
       },
       "squuid": "5fd8b6a5-dbbd-4e33-be77-f8c5c75df4af",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.pluto.tv",
+        "squuid": "6865049c-f8f2-4e28-aec7-449995bf3378"
+      },
+      "squuid": "686504ec-5316-4393-a4b2-499ede53f070",
       "state": "active"
     }
   ],

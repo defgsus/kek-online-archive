@@ -1,6 +1,8 @@
 {
-  "rfRepresentative": "Harald Gehrung",
+  "rfRepresentative": "Geschäftsführer Harald Gehrung",
   "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "2023",
   "squuid": "64f86c37-6918-4932-a845-9f7f1c54884a",
   "organization": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -8,6 +10,7 @@
     "type": "organization",
     "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
   },
+  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
@@ -19,8 +22,14 @@
       "state": "active"
     }
   ],
-  "name": "Radio Bollerwagen",
+  "name": "Radio Bollerwagen (Sachsen)",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -28,9 +37,9 @@
     "type": "organization",
     "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
   },
-  "description": "bundesweites Hörfunkvollprogramm\nIn Sachsen DAB+ Dresden, Chemnitz und Freiberg",
-  "rfLicenseUntil": "30.06.2033",
-  "rfLicensed": "03.07.2023",
-  "rfLicenseFrom": "01.07.2023",
-  "rfAddress": "Stiftstraße 8\n30159 Hannover\n"
+  "description": "bundesweit ausgerichtetes Hörfunkspartenprogramm mit inhaltlichem Schwerpunkt auf Party-Musik für die Hauptzielgruppe der 14- bis 19-Jährigen\nVerbreitung: DAB+ Ballungsräume (Leipzig, Dresden, Chemnitz und Freiberg)",
+  "rfLicenseUntil": "31.01.2034",
+  "rfLicensed": "08.02.2024",
+  "rfLicenseFrom": "01.02.2024",
+  "rfAddress": "Funk & Fernsehen Nordwestdeutschland \nGmbH & Co. KG\nStiftstraße 8\n30159 Hannover"
 }

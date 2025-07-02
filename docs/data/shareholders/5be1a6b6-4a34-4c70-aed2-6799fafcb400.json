@@ -9,8 +9,14 @@
   "naturalPerson": false,
   "co": "DER ODERTURM",
   "squuid": "5be1a6b6-4a34-4c70-aed2-6799fafcb400",
+  "controlDate": "2025-07-02T13:50:22.346Z",
   "streetNumber": "8",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
       "name": "mabb",
@@ -52,13 +58,22 @@
       },
       "squuid": "65f2f498-cd1e-41fe-82b6-51cf838ceb6e",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.oderwelle.de",
+        "squuid": "686538de-a5d2-4e0a-a82f-1d65d9abae73"
+      },
+      "squuid": "686538f7-80ba-47ac-be91-fe857d80b352",
+      "state": "active"
     }
   ],
   "credits": "mabb",
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 24.5,
       "holder": {
         "name": "Kayales, Matthias",
         "squuid": "5be1a6b6-0892-4878-a05c-4f22ef5c5ed8"
@@ -68,12 +83,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 24.5,
       "holder": {
         "name": "Raschke, Steve",
         "squuid": "5be1a6b6-1ee9-4e79-a06d-e49bae47cada"
       },
       "squuid": "5be1a6b8-740d-43f0-b3bf-724bff79c78c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Hoff, Stephan",
+        "squuid": "66bcd01e-98e8-4610-b0ad-1193c766ff6d"
+      },
+      "squuid": "66bcd086-d5f7-4ef7-9923-0e02d365f04b",
       "state": "active"
     }
   ]
