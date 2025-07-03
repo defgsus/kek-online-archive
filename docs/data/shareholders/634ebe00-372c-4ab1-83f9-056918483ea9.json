@@ -1,7 +1,18 @@
 {
+  "state": "active",
+  "city": "Leipzig",
+  "pseudoCompany": false,
+  "street": "Tauchaer Straße ",
   "name": "Mertens, Philip",
+  "naturalPerson": true,
   "squuid": "634ebe00-372c-4ab1-83f9-056918483ea9",
+  "streetNumber": "67",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
       "name": "SLM",
@@ -9,7 +20,7 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active",
+  "zipcode": "04349",
   "operates": [
     {
       "type": "operate",
@@ -18,6 +29,15 @@
         "squuid": "634ebd6c-9205-4327-b1df-f940c1ca2d9e"
       },
       "squuid": "634ed163-ff50-4157-84b0-9720ce162ad6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.leipzig-beatzz.de",
+        "squuid": "68663bbf-e973-4b43-8ae6-6dd832f249b9"
+      },
+      "squuid": "68663bec-32f7-4b07-9f15-95c61d229e7d",
       "state": "active"
     }
   ]

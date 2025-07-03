@@ -1,0 +1,32 @@
+{
+  "name": "Wartburg-Radio 96.5, Offener Hörfunkkanal Eisenach e. V.",
+  "squuid": "6866b2be-d6b6-4b62-a3aa-ec4e068d6fa3",
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Testzeitung",
+        "squuid": "682ae6dc-c0c1-43ef-92b6-5b03c567e1e6"
+      },
+      "squuid": "6866b40a-9ed2-4d62-a8b0-f140f1bc667e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Testzeitung",
+        "squuid": "682ae6dc-c0c1-43ef-92b6-5b03c567e1e6"
+      },
+      "squuid": "6866b40a-5e57-4f63-ac7d-5672b66fafb2",
+      "state": "active"
+    }
+  ]
+}

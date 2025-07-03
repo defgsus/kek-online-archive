@@ -6,8 +6,14 @@
   "name": "Radio Wellenrausch GmbH",
   "naturalPerson": false,
   "squuid": "66bdf279-af02-496a-b611-ab29ffa89a12",
+  "controlDate": "2025-07-03T15:06:48.196Z",
   "streetNumber": "101",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
       "name": "MA HSH",
@@ -25,6 +31,15 @@
       },
       "squuid": "66bdf344-1c4c-4cd4-9e52-da8714fd0eb1",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radio-wellenrausch.de",
+        "squuid": "68669bba-f826-4206-91e8-eb3c6fb71aed"
+      },
+      "squuid": "68669c06-9253-419d-8263-c3da47aacf6b",
+      "state": "active"
     }
   ],
   "ownedBy": [
@@ -32,7 +47,7 @@
       "type": "own",
       "capitalShares": 23.6,
       "holder": {
-        "name": "Angelika Meiser",
+        "name": "Meiser, Angelika",
         "squuid": "66bdf474-b904-424b-b33e-37ff4492eec5"
       },
       "squuid": "66bdf4f7-e0d9-43c4-b018-9310454f76ba",
@@ -65,7 +80,7 @@
       "type": "own",
       "capitalShares": 23.6,
       "holder": {
-        "name": "Harald Thoma",
+        "name": "Thoma, Harald",
         "squuid": "66bdf552-8882-4bb9-aa6e-a79797577a48"
       },
       "squuid": "66bdf5b4-1304-484d-98e2-c952348e74b5",
@@ -87,7 +102,7 @@
       "type": "own",
       "capitalShares": 4.0,
       "holder": {
-        "name": "Alexander Ditscheid",
+        "name": "Ditscheid, Alexander",
         "squuid": "66bdf5a4-75ad-41b9-881d-45b9f51a79b4"
       },
       "squuid": "66bdf652-4baf-4ce9-8729-4eb514433ee3",

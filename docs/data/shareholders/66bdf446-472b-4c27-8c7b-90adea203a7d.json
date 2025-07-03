@@ -1,6 +1,4 @@
 {
-  "name": "Stöcker Flughafen GmbH & Co. KG",
-  "squuid": "66bdf446-472b-4c27-8c7b-90adea203a7d",
   "owns": [
     {
       "type": "own",
@@ -15,12 +13,27 @@
     }
   ],
   "state": "active",
+  "city": "Lübeck",
+  "pseudoCompany": false,
+  "street": "Blankenseer-Str.",
+  "name": "Stöcker Flughafen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "66bdf446-472b-4c27-8c7b-90adea203a7d",
+  "controlDate": "2025-07-03T15:36:37.809Z",
+  "streetNumber": "101",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
       "name": "MA HSH",
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ]
+  ],
+  "zipcode": "23562"
 }

@@ -7,9 +7,15 @@
   "name": "Silvacast GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-e7a0-4843-9de6-cd619e31fd80",
+  "controlDate": "2025-07-03T14:44:36.472Z",
   "placeOfBusiness": "Berlin",
   "streetNumber": "40",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
       "name": "mabb",
@@ -41,6 +47,15 @@
         "squuid": "6864e843-83b9-4d79-a9eb-780bd238fe48"
       },
       "squuid": "6864e9ab-42c8-4452-9a96-7acdce69792e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiopaloma.de",
+        "squuid": "686696aa-c69d-4dda-85b1-8628865c1954"
+      },
+      "squuid": "686696d8-934d-4b52-91b5-1d113ffe24f6",
       "state": "active"
     }
   ],
