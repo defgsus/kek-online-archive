@@ -1,0 +1,43 @@
+{
+  "name": "WarnerMedia Holdings, Inc. ",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Warner Bros. Discovery, Inc.",
+        "squuid": "5be1a6b6-fde0-477e-bfdd-f31e32676b3b"
+      },
+      "squuid": "686bd7b5-da49-427b-8599-349ec695fe9f",
+      "state": "active"
+    }
+  ],
+  "squuid": "686bd6be-192a-4487-8201-8ee97003518b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Discovery Merger Sub LLC",
+        "squuid": "5be1a6b6-d1a0-4040-8a84-30323f3d02f9"
+      },
+      "squuid": "686bd727-a847-4d57-85d2-9302ee4c31c9",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "naturalPerson": false
+}

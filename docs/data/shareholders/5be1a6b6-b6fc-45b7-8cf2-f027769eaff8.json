@@ -2,16 +2,6 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 0.5,
-      "held": {
-        "name": "Hearst Networks Germany GmbH & Co. KG",
-        "squuid": "5be1a6b6-691a-4719-a645-ba81919e7449"
-      },
-      "squuid": "5be1a6b7-7744-4241-86af-a56c30bb7f1d",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 50.0,
       "held": {
         "name": "The History Channel (Germany) Holdings GmbH",
@@ -37,6 +27,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "credits": "Beschluss der KEK vom 11.07.2017, Az.: KEK 928, und Bescheid der BLM vom 19.07.2017",
