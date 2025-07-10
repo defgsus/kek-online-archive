@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Dresden",
   "pseudoCompany": false,
   "street": "Schandauer Str.",
@@ -10,48 +10,11 @@
   "streetNumber": "64",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "01277",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.sachsen-fernsehen.de",
-        "squuid": "5f355603-a0ba-4c2e-91cc-577bff9cbccb"
-      },
-      "squuid": "639b0b31-a91e-4b1c-a1b9-fbeca7869352",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "SACHSEN EINS",
-        "squuid": "64f87fbc-876a-4a98-af4d-1a5e1406304b"
-      },
-      "squuid": "64f87fdd-4b28-453f-a9f2-4d647a9ff157",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "HAESWE GmbH",
-        "squuid": "5be1a6b6-a309-4585-b5b2-491d732594db"
-      },
-      "squuid": "639b0bf1-68e4-4d8e-8021-4be3259c1beb",
-      "state": "active"
-    }
-  ]
+  "zipcode": "01277"
 }

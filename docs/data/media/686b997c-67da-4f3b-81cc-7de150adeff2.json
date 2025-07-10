@@ -1,19 +1,33 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-    "name": "LMS",
-    "type": "organization",
-    "fullName": "Landesmedienanstalt Saarland"
-  },
-  "rfPublicPrivate": false,
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "686b997c-67da-4f3b-81cc-7de150adeff2",
   "organization": {
     "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
     "name": "LMS",
     "type": "organization",
     "fullName": "Landesmedienanstalt Saarland"
   },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Central FM Media GmbH",
+        "squuid": "5f182233-100e-4066-a16a-c3a3bbfbeeb1"
+      },
+      "squuid": "686e380c-1ed4-42eb-b5e3-984bda96b86d",
+      "state": "active"
+    }
+  ],
   "name": "Radio Saarschleifenland",
+  "rfPublicPrivate": false,
   "type": "radio",
-  "squuid": "686b997c-67da-4f3b-81cc-7de150adeff2",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+    "name": "LMS",
+    "type": "organization",
+    "fullName": "Landesmedienanstalt Saarland"
+  },
+  "rfLicensed": "21.11.2014"
 }

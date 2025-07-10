@@ -1,0 +1,40 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfFreePay": true,
+  "squuid": "686f8def-5ff4-4680-bbb9-eb25152ee1c7",
+  "organization": {
+    "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+    "name": "LMS",
+    "type": "organization",
+    "fullName": "Landesmedienanstalt Saarland"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Medien Saarland GmbH",
+        "squuid": "686f897f-172a-437f-8913-21aee12efc92"
+      },
+      "squuid": "686f8f5b-bbf3-466a-9124-35e01077bbb8",
+      "state": "active"
+    }
+  ],
+  "name": "Saarland Fernsehen 1",
+  "rfPublicPrivate": false,
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
+    "name": "Spartenprogramm (Sonstiges)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+    "name": "LMS",
+    "type": "organization",
+    "fullName": "Landesmedienanstalt Saarland"
+  },
+  "rfLicensed": "16.09.2016"
+}

@@ -1,22 +1,9 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "3D Skywalkers BV ",
-        "squuid": "5ebbd55d-3f40-48a7-bc2e-e2c8b4877bb4"
-      },
-      "squuid": "5ebbd78f-6c18-4673-925f-0238d8d0d851",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": false,
   "name": "3D NV",
-  "naturalPerson": false,
-  "squuid": "5ebbd576-22bd-44db-81d5-e4f3e0700be6",
+  "pseudoCompany": false,
   "controlDate": "2023-09-22T14:50:50.537Z",
+  "squuid": "5ebbd576-22bd-44db-81d5-e4f3e0700be6",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -25,16 +12,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Familien Donck und Desimpel",
-        "squuid": "5ebbd607-cf79-4817-a904-0a3b94018c60"
-      },
-      "squuid": "5ebbd7b6-7a5c-4249-b075-c3d53dfb340c",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

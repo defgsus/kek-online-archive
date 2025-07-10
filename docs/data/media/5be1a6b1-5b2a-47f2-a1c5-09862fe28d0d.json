@@ -13,7 +13,7 @@
     "fullName": "Landesmedienanstalt Saarland"
   },
   "accessibilityUrl": "https://www.schlagerparadies.de/",
-  "rfStatewide": false,
+  "rfStatewide": true,
   "operatedBy": [
     {
       "type": "operate",
@@ -25,7 +25,7 @@
       "state": "active"
     }
   ],
-  "name": "Schlagerparadies",
+  "name": "Radio Schlagerparadies",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "type": "radio",
@@ -36,11 +36,14 @@
     "fullName": "Landesmedienanstalt Saarland"
   },
   "description": "bundesweites Hörfunkprogramm",
+  "rfLicenseUntil": "21.06.2026",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
+  "rfLicensed": "10.08.2000",
+  "rfLicenseFrom": "22.06.2016",
   "accessibilityEmail": "info@schlagerparadies.de"
 }

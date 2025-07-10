@@ -1,10 +1,10 @@
 {
-  "state": "active",
-  "city": "Düsseldorf",
-  "pseudoCompany": false,
   "name": "Airtime Media Group GmbH",
-  "naturalPerson": false,
+  "pseudoCompany": false,
   "squuid": "5be1a6b6-3212-4346-a4e1-ae91bd56acdf",
+  "credits": "Beschluss der KEK vom 11.10.2016, Az.: KEK 881",
+  "city": "Düsseldorf",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -13,37 +13,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "credits": "Beschluss der KEK vom 11.10.2016, Az.: KEK 881",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 18.0,
-      "holder": {
-        "name": "bw family.tv GmbH & Co. KG",
-        "squuid": "5be1a6b6-2eb2-4708-b58a-00d30d4f4ef4"
-      },
-      "squuid": "5be1a6b8-2a48-4145-8918-31a8866340c3",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "NRW.TV Fernsehen aus Nordrhein-Westfalen GmbH & Co. KG",
-        "squuid": "5be1a6b6-3ea2-433f-a0fc-869baddf5e78"
-      },
-      "squuid": "5be1a6b8-4c03-47e7-8a55-74f3369b90ef",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 32.0,
-      "holder": {
-        "name": "Rhein-Main TV GmbH & Co. KG",
-        "squuid": "5be1a6b6-d6d1-414a-912d-773b2d0ee4f2"
-      },
-      "squuid": "5be1a6b8-f5ad-46f1-9833-ea5b2851886f",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

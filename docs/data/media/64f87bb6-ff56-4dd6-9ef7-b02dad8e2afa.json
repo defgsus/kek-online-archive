@@ -1,6 +1,9 @@
 {
-  "rfRepresentative": "Frank Haring",
+  "rfRepresentative": "Geschäftsführer Frank Haring",
   "state": "active",
+  "rfShoppingChannel": false,
+  "rfStartDate": "2023",
+  "rfFreePay": true,
   "squuid": "64f87bb6-ff56-4dd6-9ef7-b02dad8e2afa",
   "organization": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -14,13 +17,13 @@
       "type": "operate",
       "holder": {
         "name": "Fernsehen in Dresden GmbH",
-        "squuid": "5be1a6b6-84ba-4a5c-9d21-ea5fb602619f"
+        "squuid": "673cbab7-9fb7-4b9b-92ed-20cf58c42889"
       },
-      "squuid": "64f87c2c-096e-490e-a0d6-61772486e8b6",
+      "squuid": "6853a1aa-0abc-45a0-b32d-67b2447bf104",
       "state": "active"
     }
   ],
-  "name": "Sachsen Fernsehen Elbland",
+  "name": "SACHSEN FERNSEHEN Elbland",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
     "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -29,15 +32,21 @@
     "state": "active"
   },
   "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-063c-4208-94e1-5216fef7a724",
+    "name": "Vollprogramm",
+    "type": "program-category",
+    "state": "active"
+  },
   "rfSupervisingAuthority": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
     "name": "SLM",
     "type": "organization",
     "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
   },
-  "description": "Fernsehfensterprogramm (Vollprogramm)  mit dem Schwerpunkt auf lokalen und regionalen Informationen aus dem Kulturraum Meißen -Sächsische Schweiz - Osterzgebirge. ",
+  "description": "mind. 30-minütiges regional ausgerichtetes Fernsehfensterprogramm (Vollprogramm)  mit dem Schwerpunkt auf lokalen und regionalen Informationen aus dem Kulturraum Meißen -Sächsische Schweiz - Osterzgebirge\nVerbreitung: Satellit",
   "rfLicenseUntil": "31.06.2033",
   "rfLicensed": "03.07.2023",
   "rfLicenseFrom": "01.07.2023",
-  "rfAddress": "Schandauer Straße 64\n01277 Dresden"
+  "rfAddress": "Fernsehen in Dresden GmbH\nSchandauer Straße 64\n01277 Dresden"
 }

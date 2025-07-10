@@ -1,33 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 58.0,
-      "held": {
-        "name": "Ernst Brune GmbH & Co KG",
-        "squuid": "5be1a6b6-8299-4d0a-a7eb-90d0ec954efd"
-      },
-      "squuid": "5bf2bcdc-9f05-4060-8937-aedc2e9bb62f",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 51.0,
-      "held": {
-        "name": "Werner Brune Beteiligungs-Gesellschaft mbH",
-        "squuid": "5eb2a870-a3d1-4a9a-88ce-7f546ae970f1"
-      },
-      "squuid": "5f0c2410-010c-4bfa-8b48-b4a0dd2f0474",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Wilhelmshaven",
-  "pseudoCompany": false,
   "name": "Adrian, Dr. Anna",
-  "naturalPerson": true,
-  "squuid": "5bf2bcba-7259-47ce-a5ae-7bbc94c24141",
+  "pseudoCompany": false,
   "controlDate": "2019-05-02T12:12:59.188Z",
+  "squuid": "5bf2bcba-7259-47ce-a5ae-7bbc94c24141",
+  "city": "Wilhelmshaven",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -35,5 +12,6 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

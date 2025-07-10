@@ -1,41 +1,9 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 99.0,
-      "held": {
-        "name": "AMC DMC Topco C.V.",
-        "squuid": "5be1a6b6-cfab-432a-a406-058098935756"
-      },
-      "squuid": "5be1a6b8-8eba-4e22-be6f-1f7b6463babc",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "AMC GP LLC",
-        "squuid": "5be1a6b6-2ff7-4bcb-94ee-348f7d7dfe54"
-      },
-      "squuid": "5be1a6b8-0cfe-47ca-b588-1a6bf2c32831",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "AMC UK Holdings Inc.",
-        "squuid": "5be1a6b6-b11e-49d3-b7f0-fdfca0e1f335"
-      },
-      "squuid": "5be1a6b8-3690-429a-9c6d-f5fb6442320c",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": false,
   "name": "AMC Acquisition Company LLC",
-  "naturalPerson": false,
+  "pseudoCompany": false,
   "squuid": "5be1a6b6-4375-465e-980d-c73bc9dbd438",
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 20.12.2016",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -44,17 +12,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 20.12.2016",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "AMC Networks Inc.",
-        "squuid": "5be1a6b6-fab9-42b3-9ccd-42be9f4d2df7"
-      },
-      "squuid": "5be1a6b8-27e2-4c43-9d74-3d921e686b74",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

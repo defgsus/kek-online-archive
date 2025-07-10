@@ -1,22 +1,9 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 7.99,
-      "held": {
-        "name": "Studio 100 N.V.",
-        "squuid": "5be1a6b6-3319-429d-8958-c4bcee179df5"
-      },
-      "squuid": "5ebbd6dc-1f00-4219-be81-9ea926b771ea",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": false,
   "name": "3D Skywalkers BV ",
-  "naturalPerson": false,
-  "squuid": "5ebbd55d-3f40-48a7-bc2e-e2c8b4877bb4",
+  "pseudoCompany": false,
   "controlDate": "2023-09-22T14:51:05.268Z",
+  "squuid": "5ebbd55d-3f40-48a7-bc2e-e2c8b4877bb4",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -25,16 +12,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "3D NV",
-        "squuid": "5ebbd576-22bd-44db-81d5-e4f3e0700be6"
-      },
-      "squuid": "5ebbd78f-6c18-4673-925f-0238d8d0d851",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

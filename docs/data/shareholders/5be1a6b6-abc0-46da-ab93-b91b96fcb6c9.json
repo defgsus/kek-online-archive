@@ -1,22 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "A+E Networks UK",
-        "squuid": "5be1a6b6-2857-4563-842e-f1285578a37a"
-      },
-      "squuid": "5be1a6b8-5742-4fb2-9ae1-f562d174c4a5",
-      "state": "active"
-    }
-  ],
-  "state": "active",
   "note": "(General Partnership nach dem Recht des Staates New York, Sitz in Delaware, USA)",
-  "pseudoCompany": false,
   "name": "A&E Television Networks LL.C. (AETN)",
-  "naturalPerson": false,
+  "pseudoCompany": false,
   "squuid": "5be1a6b6-abc0-46da-ab93-b91b96fcb6c9",
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 28.12.2016",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -25,57 +13,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 28.12.2016",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 42.76,
-      "holder": {
-        "name": "Disney/ABC International Television, Inc.",
-        "squuid": "5be1a6b6-0de8-4f9d-b549-1bb726eaacbb"
-      },
-      "squuid": "5be1a6b7-7d63-4ab6-baf3-a4f1e23e8205",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 28.15,
-      "holder": {
-        "name": "Hearst Communications, Inc.",
-        "squuid": "5be1a6b6-6144-45f6-bc05-b9fe666ba0dc"
-      },
-      "squuid": "5be1a6b7-82d4-4c85-a323-792ba9782767",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 7.24,
-      "holder": {
-        "name": "Cable LT Holdings, Inc.",
-        "squuid": "5be1a6b6-0d72-4f16-a1db-33c52ccf342c"
-      },
-      "squuid": "5be1a6b7-9396-4d9a-bde6-89c1117daba8",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 14.61,
-      "holder": {
-        "name": "Hearst Holding, Inc.",
-        "squuid": "5be1a6b6-b9bb-462d-bd11-1333ff3b3f1e"
-      },
-      "squuid": "5be1a6b7-12d6-4e23-b7fb-db22221bff9c",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 7.24,
-      "holder": {
-        "name": "Hearst LT, Inc.",
-        "squuid": "5be1a6b6-892a-48c6-8ffd-bcbce6f9b4a6"
-      },
-      "squuid": "5be1a6b7-4578-4cdc-9981-d1efd43837d6",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

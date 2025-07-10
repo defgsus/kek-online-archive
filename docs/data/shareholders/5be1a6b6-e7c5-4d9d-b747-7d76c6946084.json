@@ -1,21 +1,9 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Star Europe Holdings B.V.",
-        "squuid": "5be1a6b6-6c7b-41c3-8103-53f77f1d381e"
-      },
-      "squuid": "5be1a6b7-1254-44d7-aeda-b47646e44d92",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": false,
   "name": "21st Century Fox Europe, Inc.",
-  "naturalPerson": false,
+  "pseudoCompany": false,
   "squuid": "5be1a6b6-e7c5-4d9d-b747-7d76c6946084",
+  "credits": "Beschluss der KEK vom 11.02.2014, Az.: KEK 763",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -24,17 +12,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "credits": "Beschluss der KEK vom 11.02.2014, Az.: KEK 763",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "21st Century Fox America, Inc.",
-        "squuid": "5be1a6b6-3241-495b-9b50-0f54a8a63669"
-      },
-      "squuid": "5be1a6b7-7684-43e2-98ae-2c6b87fe3f5b",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

@@ -1,22 +1,10 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Asia TV GmbH",
-        "squuid": "5be1a6b6-8c1c-4148-bf88-2c034b75d3ba"
-      },
-      "squuid": "5be1a6b8-01aa-4925-b70f-3ddf047878cb",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "London (GB)",
-  "pseudoCompany": false,
   "name": "Asia TV Ltd.",
-  "naturalPerson": false,
+  "pseudoCompany": false,
   "squuid": "5be1a6b6-d80a-47c8-a13f-68cdf292072f",
+  "credits": "Az: KEK 939",
+  "city": "London (GB)",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -25,17 +13,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "credits": "Az: KEK 939",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Asia Today Ltd.",
-        "squuid": "5be1a6b6-d900-4509-9f3e-e7fbfccf0fdc"
-      },
-      "squuid": "5be1a6b8-5daf-4098-b9b6-7b2a8b69739c",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

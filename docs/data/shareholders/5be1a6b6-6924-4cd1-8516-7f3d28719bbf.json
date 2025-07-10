@@ -1,10 +1,10 @@
 {
-  "state": "active",
-  "city": "Basel",
-  "pseudoCompany": false,
   "name": "2ME Holding AG",
-  "naturalPerson": false,
+  "pseudoCompany": false,
   "squuid": "5be1a6b6-6924-4cd1-8516-7f3d28719bbf",
+  "credits": "IJK",
+  "city": "Basel",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -13,27 +13,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Medweth, Michael",
-        "squuid": "5be1a6b6-9628-40a0-bebc-024869d22c67"
-      },
-      "squuid": "5be1a6b8-bacc-4765-81fb-f388b64933a3",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Medweth, Christian",
-        "squuid": "5be1a6b6-ad20-429b-b1bb-4668e9e0d143"
-      },
-      "squuid": "5be1a6b8-616a-41dd-a81e-fbe30ef306e5",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

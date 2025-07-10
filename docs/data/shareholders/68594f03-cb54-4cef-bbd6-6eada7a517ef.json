@@ -1,5 +1,6 @@
 {
   "name": "AE Familienholding AG",
+  "pseudoCompany": false,
   "squuid": "68594f03-cb54-4cef-bbd6-6eada7a517ef",
   "owns": [
     {
@@ -13,18 +14,14 @@
       "state": "active"
     }
   ],
+  "city": "Amriswil (CH)",
   "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": false
 }

@@ -1,5 +1,6 @@
 {
   "name": "Zeh, Manuel Hans",
+  "pseudoCompany": false,
   "squuid": "664f13a0-a6be-4052-aff1-2bb9f9827ddc",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Pulheim",
   "state": "active",
   "organizations": [
     {
@@ -21,10 +23,17 @@
       "type": "organization"
     },
     {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
       "name": "LFM NRW",
       "type": "organization",
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

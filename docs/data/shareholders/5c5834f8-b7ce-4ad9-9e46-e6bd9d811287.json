@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Strehla",
   "supplierConsortium": false,
   "pseudoCompany": false,
@@ -11,22 +11,11 @@
   "streetNumber": "11a",
   "organizations": [
     {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "01616",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Strehla-TV",
-        "squuid": "5c5834e2-56c4-483c-81e4-826d244dea72"
-      },
-      "squuid": "5c583717-23b8-470b-b38a-e6b5a6a0f420",
-      "state": "active"
-    }
-  ]
+  "zipcode": "01616"
 }

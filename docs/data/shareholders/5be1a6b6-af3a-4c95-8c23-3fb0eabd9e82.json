@@ -1,21 +1,9 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 1.5,
-      "held": {
-        "name": "EO Television GmbH",
-        "squuid": "5be1a6b6-495d-4418-a257-64be611918bb"
-      },
-      "squuid": "5be1a6b8-76bf-4bf4-8fd5-3710151ed01f",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": false,
   "name": "AD.CON Europe Ltd.",
-  "naturalPerson": false,
+  "pseudoCompany": false,
   "squuid": "5be1a6b6-af3a-4c95-8c23-3fb0eabd9e82",
+  "credits": "Beschluss der KEK vom 12.06.2018, Az.: KEK 967",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -24,17 +12,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "credits": "Beschluss der KEK vom 12.06.2018, Az.: KEK 967",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Diga, Andreas",
-        "squuid": "5be1a6b6-1b24-4f0c-a400-f00a2f8102ff"
-      },
-      "squuid": "5be1a6b8-7cbf-4fa7-b848-af9d327a8a14",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

@@ -1,31 +1,9 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 1.0,
-      "held": {
-        "name": "AMC DMC Midco C.V.",
-        "squuid": "5be1a6b6-6e33-4e67-ba45-c3ef9a491c57"
-      },
-      "squuid": "5be1a6b8-c286-4bbf-a46d-0cb4adfcbeb2",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 1.0,
-      "held": {
-        "name": "AMC DMC Topco C.V.",
-        "squuid": "5be1a6b6-cfab-432a-a406-058098935756"
-      },
-      "squuid": "5be1a6b8-4ca2-41c3-88e4-ff3f2a7fa253",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": false,
   "name": "AMC GP LLC",
-  "naturalPerson": false,
+  "pseudoCompany": false,
   "squuid": "5be1a6b6-2ff7-4bcb-94ee-348f7d7dfe54",
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 20.12.2016",
+  "state": "archived",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -34,17 +12,5 @@
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 20.12.2016",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "AMC Acquisition Company LLC",
-        "squuid": "5be1a6b6-4375-465e-980d-c73bc9dbd438"
-      },
-      "squuid": "5be1a6b8-0cfe-47ca-b588-1a6bf2c32831",
-      "state": "active"
-    }
-  ]
+  "naturalPerson": false
 }

@@ -1,0 +1,51 @@
+{
+  "name": "Medien Saarland GmbH",
+  "squuid": "686f897f-172a-437f-8913-21aee12efc92",
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Saarfunk 1",
+        "squuid": "686f88fc-2dce-43b0-ac45-b672409653b1"
+      },
+      "squuid": "686f8b18-b5c6-4d7b-921f-c40fb7eb2d6c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Saarfunk 3",
+        "squuid": "686f8958-0a59-49d8-b111-eb01bf70232f"
+      },
+      "squuid": "686f8c93-b578-4c9b-9110-a2a5bcf6036a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Saarland Fernsehen 1",
+        "squuid": "686f8def-5ff4-4680-bbb9-eb25152ee1c7"
+      },
+      "squuid": "686f8f5b-bbf3-466a-9124-35e01077bbb8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Saarland Fernsehen 2",
+        "squuid": "686f8f84-232f-4457-b186-bf93a03f78f5"
+      },
+      "squuid": "686f902d-952f-49a4-b450-e6bcd162cbb5",
+      "state": "active"
+    }
+  ]
+}
