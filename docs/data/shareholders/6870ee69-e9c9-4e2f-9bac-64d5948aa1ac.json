@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Ruppiner Chaussee",
+  "name": "Rodriguez, Juan",
+  "naturalPerson": true,
+  "squuid": "6870ee69-e9c9-4e2f-9bac-64d5948aa1ac",
+  "streetNumber": "291b",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "13503",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Treffpunkt Berlin / Gastro Berlin (Berlin)",
+        "squuid": "5c5d79a2-1c8e-4fc3-babe-45d9bfd366cf"
+      },
+      "squuid": "6870eeae-597e-48fa-9e47-e25da4b703e6",
+      "state": "active"
+    }
+  ]
+}

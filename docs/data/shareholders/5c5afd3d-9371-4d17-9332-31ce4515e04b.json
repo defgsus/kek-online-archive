@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Wildau",
   "supplierConsortium": false,
   "pseudoCompany": false,
@@ -11,34 +11,11 @@
   "streetNumber": "29",
   "organizations": [
     {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "15745",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "KW-TV (Brandenburg)",
-        "squuid": "5c5afd6b-409a-495f-8c53-2f630fc8fd56"
-      },
-      "squuid": "5c5aff8f-b739-4549-92b2-e52d9f0f5362",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Yigit, Dursun",
-        "squuid": "65b2570b-11e4-461e-914a-2e3c3462a74f"
-      },
-      "squuid": "65b2572e-3529-4503-8165-adac3ee66ace",
-      "state": "active"
-    }
-  ]
+  "zipcode": "15745"
 }

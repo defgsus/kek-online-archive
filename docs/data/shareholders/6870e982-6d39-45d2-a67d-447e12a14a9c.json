@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Landsberger Allee",
+  "name": "Knuth, Dr. Ralf Georg",
+  "naturalPerson": true,
+  "squuid": "6870e982-6d39-45d2-a67d-447e12a14a9c",
+  "streetNumber": "168",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10369",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "StarRyder.tv (Berlin)",
+        "squuid": "5c5d7102-3249-42a0-9d64-a6ff3b15b596"
+      },
+      "squuid": "6870e9a7-f9df-4adf-ba83-4a1e7d5abb20",
+      "state": "active"
+    }
+  ]
+}

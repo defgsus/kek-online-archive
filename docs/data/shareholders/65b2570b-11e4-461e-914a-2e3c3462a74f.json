@@ -1,18 +1,20 @@
 {
   "name": "Yigit, Dursun",
+  "pseudoCompany": false,
   "squuid": "65b2570b-11e4-461e-914a-2e3c3462a74f",
   "owns": [
     {
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "KW-TV Fernsehproduktions- und Vertriebsgesellschaft mbH",
-        "squuid": "5c5afd3d-9371-4d17-9332-31ce4515e04b"
+        "name": "TV-BB / Fernsehen in Brandenburg GmbH",
+        "squuid": "68359340-d35c-4977-8db4-cb5ce467ba8d"
       },
-      "squuid": "65b2572e-3529-4503-8165-adac3ee66ace",
+      "squuid": "683595ee-1f06-4855-bfee-06b117bb3685",
       "state": "active"
     }
   ],
+  "city": "Berlin",
   "state": "active",
   "organizations": [
     {
@@ -21,10 +23,11 @@
       "type": "organization"
     },
     {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

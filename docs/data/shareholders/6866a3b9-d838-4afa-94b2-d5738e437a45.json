@@ -1,13 +1,31 @@
 {
   "name": "Stöcker Flughafen Verwaltungs GmbH",
   "squuid": "6866a3b9-d838-4afa-94b2-d5738e437a45",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Stöcker Flughafen GmbH & Co. KG",
+        "squuid": "66bdf446-472b-4c27-8c7b-90adea203a7d"
+      },
+      "squuid": "6866a411-eb08-4196-95c6-b87027f677ca",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ]
 }
