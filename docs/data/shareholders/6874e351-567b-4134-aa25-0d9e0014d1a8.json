@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Axel-Springer-Straße",
+  "name": "Radio Echo GmbH",
+  "naturalPerson": false,
+  "co": "c/o Axel Springer SE",
+  "squuid": "6874e351-567b-4134-aa25-0d9e0014d1a8",
+  "streetNumber": "65",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10969",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Echo",
+        "squuid": "6874e2ed-ca76-4148-b476-dd11656e84b3"
+      },
+      "squuid": "6874e4bb-a7b5-4ca0-9788-52d76cec303d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kurnikov, Maksim",
+        "squuid": "6874e368-a523-4fc1-83b3-4de19b377e4c"
+      },
+      "squuid": "6874e538-7746-48ae-b782-10b7ffeaee33",
+      "state": "active"
+    }
+  ]
+}

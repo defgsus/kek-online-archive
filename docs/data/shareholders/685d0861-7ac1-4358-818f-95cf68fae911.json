@@ -1,6 +1,4 @@
 {
-  "name": "Stemmle Familiengesellschaft mbH & Co. KG",
-  "squuid": "685d0861-7ac1-4358-818f-95cf68fae911",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,15 @@
     }
   ],
   "state": "active",
+  "city": "Schwetzingen",
+  "pseudoCompany": false,
+  "street": "Scheffelstr.",
+  "name": "Stemmle Familiengesellschaft mbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "685d0861-7ac1-4358-818f-95cf68fae911",
+  "controlDate": "2025-07-15T12:03:26.026Z",
+  "streetNumber": "55",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -38,5 +45,6 @@
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
-  ]
+  ],
+  "zipcode": "68723"
 }

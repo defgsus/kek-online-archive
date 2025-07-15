@@ -1,6 +1,4 @@
 {
-  "name": "Stöcker Flughafen Verwaltungs GmbH",
-  "squuid": "6866a3b9-d838-4afa-94b2-d5738e437a45",
   "owns": [
     {
       "complementaryPartner": true,
@@ -15,6 +13,14 @@
     }
   ],
   "state": "active",
+  "city": "Lübeck",
+  "pseudoCompany": false,
+  "street": "Blankenseerstr.",
+  "name": "Stöcker Flughafen Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "6866a3b9-d838-4afa-94b2-d5738e437a45",
+  "controlDate": "2025-07-15T11:34:41.485Z",
+  "streetNumber": "101",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -27,5 +33,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ]
+  ],
+  "zipcode": "23562"
 }

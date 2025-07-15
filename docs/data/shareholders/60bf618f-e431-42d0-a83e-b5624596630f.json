@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Verlag W. Sachon GmbH & Co. KG",
-        "squuid": "5d14bfc5-f1ff-4be7-aa1c-bd97b7980492"
-      },
-      "squuid": "60bf6206-d966-427f-a7ae-ab07982e8c71",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "note": "Firma laut HRA inzwischen erloschen",
   "pseudoCompany": false,
@@ -24,39 +12,11 @@
   "streetNumber": "7",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "80333",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Sachon, Erna Hermine gen. Ernestine",
-        "squuid": "60bf61ae-b8c6-4686-b9be-06ac3a91ed02"
-      },
-      "squuid": "60bf638f-53df-496e-9290-e15520f9153f",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Verlagsgruppe Sachon Holding Geschäftsführungs GmbH",
-        "squuid": "60bf61af-cdaf-416e-83cb-f916b6497f57"
-      },
-      "squuid": "60bf63a2-d464-4b87-ab13-89f78e97a821",
-      "state": "active"
-    }
-  ]
+  "zipcode": "80333"
 }

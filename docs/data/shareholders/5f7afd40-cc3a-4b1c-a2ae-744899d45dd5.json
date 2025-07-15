@@ -1,4 +1,17 @@
 {
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "bw family.tv GmbH & Co. KG",
+        "squuid": "5be1a6b6-2eb2-4708-b58a-00d30d4f4ef4"
+      },
+      "squuid": "6863f3f1-7acd-4eb9-b6e1-bd77489f6d9f",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Eggenstein-Leopoldshafen",
   "pseudoCompany": false,
@@ -10,10 +23,15 @@
   "streetNumber": "2",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
   "zipcode": "76344",

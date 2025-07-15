@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 0.06,
-      "held": {
-        "name": "Bayern Tele GmbH Fernsehproduktion bayerischer Zeitschriftenverlage",
-        "squuid": "5be1a6b6-9681-4a25-8626-a0e2626bec4a"
-      },
-      "squuid": "5d14c0a9-4cad-4301-94a1-be46ae68a946",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "note": "Firma laut HRA inzwischen erloschen. ",
   "pseudoCompany": false,
@@ -24,39 +12,11 @@
   "streetNumber": "7",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "80333",
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Verlag W. Sachon GmbH",
-        "squuid": "60bf5f7f-a829-4931-8303-8b928c302f56"
-      },
-      "squuid": "60bf61f5-46cd-4006-b809-7362a23d0d36",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Verlagsgruppe Sachon Holding GmbH & Co. KG",
-        "squuid": "60bf618f-e431-42d0-a83e-b5624596630f"
-      },
-      "squuid": "60bf6206-d966-427f-a7ae-ab07982e8c71",
-      "state": "active"
-    }
-  ]
+  "zipcode": "80333"
 }

@@ -1,0 +1,38 @@
+{
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "68766ff7-a8c5-4f19-88f3-3de6adc8314e",
+  "organization": {
+    "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+    "name": "LMS",
+    "type": "organization",
+    "fullName": "Landesmedienanstalt Saarland"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "The Radio Group GmbH",
+        "squuid": "5be1a6b6-412b-4ae5-b2e9-ec72b2cdc4d3"
+      },
+      "squuid": "687671b9-2790-4363-a1fd-6ddce8232ea8",
+      "state": "active"
+    }
+  ],
+  "name": "CityRadio Saarland",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+    "name": "LMS",
+    "type": "organization",
+    "fullName": "Landesmedienanstalt Saarland"
+  }
+}

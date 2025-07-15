@@ -1,0 +1,76 @@
+{
+  "name": "Funkhaus Oberfranken GmbH & Co.KG",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "Mediengruppe Oberfranken - Radioanbieter GmbH",
+        "squuid": "62c5907b-0527-483c-9b0d-1e9ed4599d5a"
+      },
+      "squuid": "68763ad3-7fd6-45f4-96c4-a3ce4fb786e0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Dr. Fischer und Ellwanger KG Media GbR",
+        "squuid": "5be1a6b6-e6cf-491c-b4e7-9f3cb617f64a"
+      },
+      "squuid": "68763aec-ab05-4205-8f34-fdce38ab37e3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Druck- und Verlagsanstalt Neue Presse GmbH",
+        "squuid": "5be1a6b6-1e81-4164-913c-85bb36d68221"
+      },
+      "squuid": "68763b0f-1f0f-4ea6-ab41-a3b19dba0c16",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 35.0,
+      "holder": {
+        "name": "Neue Welle Oberfranken Mediengesellschaft mbH",
+        "squuid": "5be1a6b6-5526-444b-86b3-9798293679fb"
+      },
+      "squuid": "68763b21-d9d6-4647-8908-41057fef02cd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Neue Welle \"Antenne Hof\" Hörfunk- und Fernsehprogrammanbieter-Gesellschaft mbH",
+        "squuid": "5be1a6b6-44b1-418f-a83c-e82cee610b2a"
+      },
+      "squuid": "6876404b-4da4-47ed-9a7f-37e2079994fc",
+      "state": "active"
+    }
+  ],
+  "squuid": "6874f2cd-bc97-47de-9f2d-0f5595cb55f6",
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Galaxy Oberfranken",
+        "squuid": "6874f1c3-e401-4625-bc1b-0dfec67ec10f"
+      },
+      "squuid": "6874f37c-9ec1-4855-b6f7-fb7cdaa14668",
+      "state": "active"
+    }
+  ]
+}

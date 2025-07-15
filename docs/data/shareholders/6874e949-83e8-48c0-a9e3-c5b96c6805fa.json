@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Wildsängerpfad ",
+  "name": "CSP Counseling Studio Productions GmbH",
+  "naturalPerson": false,
+  "squuid": "6874e949-83e8-48c0-a9e3-c5b96c6805fa",
+  "streetNumber": "19 a",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "14129",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SpiritTV",
+        "squuid": "6874e92e-d80f-45f1-b079-ad0fda0c1bea"
+      },
+      "squuid": "6874eccb-7797-4113-ae0d-fe1342033394",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Kolibal, Torsten Jan",
+        "squuid": "6874e976-3546-445e-b07b-0ae37fcc1ec6"
+      },
+      "squuid": "6874ed58-4567-4cca-ae0f-62e52df218a3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Lang, Daniel",
+        "squuid": "6874e966-94c9-4779-9630-c63eded2e32c"
+      },
+      "squuid": "6874ed67-8f9e-4aa7-99b0-6bb632c239d2",
+      "state": "active"
+    }
+  ]
+}

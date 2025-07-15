@@ -15,16 +15,22 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Star FM Nürnberg GmbH & Co. KG",
+        "name": "Star FM GmbH & Co. KG",
         "squuid": "5be1a6b6-d6bc-4680-a37b-5bd97a65f4e0"
       },
       "squuid": "5be1a6b9-dabc-4ad9-b3cf-4422413d3925",
       "state": "active"
     }
   ],
-  "name": "star fm Nürnberg",
+  "name": "Star FM",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -32,15 +38,15 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "rfLicenseUntil": "15.04.2025",
+  "rfLicenseUntil": "30.06.2030",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "rfLicensed": "12.04.2017",
-  "rfLicenseFrom": "12.04.2017",
+  "rfLicensed": "12.12.2024",
+  "rfLicenseFrom": "16.04.2025",
   "rfAddress": "Sandstr. 20a\n90443\t\nNürnberg\n",
   "accessibilityEmail": "gutenmorgen@starfm.de"
 }

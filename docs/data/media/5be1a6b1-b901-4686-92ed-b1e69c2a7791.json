@@ -15,16 +15,22 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Funkhaus Würzburg Studiobetriebs GmbH",
-        "squuid": "5be1a6b6-4277-4499-bdac-22d350982dff"
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
       },
-      "squuid": "5be1a6b9-7751-4f10-a332-3eb5bd7aec6f",
+      "squuid": "6874eed4-f871-497b-a3f4-55752431632e",
       "state": "active"
     }
   ],
   "name": "Radio Gong Würzburg",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -32,15 +38,15 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "rfLicenseUntil": "31.05.2024",
+  "rfLicenseUntil": "30.06.2030",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "rfLicensed": "22.03.2016",
-  "rfLicenseFrom": "22.03.2016",
-  "rfAddress": "Semmelstr. 15\n97070\nWürzburg\n",
+  "rfLicensed": "20.12.2024",
+  "rfLicenseFrom": "01.07.2025",
+  "rfAddress": "Neuwieder Str. 16\n90411\nNürnberg\n",
   "accessibilityEmail": "info@radiogong.com"
 }

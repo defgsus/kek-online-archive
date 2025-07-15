@@ -1,0 +1,73 @@
+{
+  "rfRepresentative": "Maksim Kurnikov",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "Maksim Kurnikov",
+  "rfFreePay": true,
+  "squuid": "6874e2ed-ca76-4148-b476-dd11656e84b3",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://echofm.online/",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Echo GmbH",
+        "squuid": "6874e351-567b-4134-aa25-0d9e0014d1a8"
+      },
+      "squuid": "6874e4bb-a7b5-4ca0-9788-52d76cec303d",
+      "state": "active"
+    }
+  ],
+  "name": "Radio Echo",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
+    "name": "Spartenprogramm (Unterhaltung)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "Unterhaltungsprogramm in russischer Sprache mit Nachrichten und Informationen",
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "12.12.2024",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "12.12.2024",
+  "accessibilityEmail": "echo@echofm.online",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-3a32-4cbf-8912-333503b9d1e8",
+      "name": "Russisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}

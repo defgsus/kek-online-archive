@@ -1,6 +1,4 @@
 {
-  "name": "Theiss & Binkowski Aalen Verwaltungs-GmbH",
-  "squuid": "685d1052-bf6f-48e3-870a-6d67a34a1d42",
   "owns": [
     {
       "complementaryPartner": true,
@@ -15,6 +13,14 @@
     }
   ],
   "state": "active",
+  "city": "Aalen",
+  "pseudoCompany": false,
+  "street": "Bahnhofstr.",
+  "name": "Theiss & Binkowski Aalen Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "685d1052-bf6f-48e3-870a-6d67a34a1d42",
+  "controlDate": "2025-07-15T12:17:17.791Z",
+  "streetNumber": "65",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -116,5 +122,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "73430"
 }

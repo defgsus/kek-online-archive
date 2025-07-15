@@ -1,5 +1,5 @@
 {
-  "rfRepresentative": "Markus Schülein",
+  "rfRepresentative": "Michael Hambrock",
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-17ed-477d-8519-f495c87bf27a",
@@ -25,6 +25,12 @@
   "name": "Energy Nürnberg",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -32,12 +38,15 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfLicenseUntil": "30.06.2030",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "rfAddress": "Äußere Bayreuther Str. 76\t\n90401\t\nNürnberg\n",
+  "rfLicensed": "11.12.2024",
+  "rfLicenseFrom": "16.04.2025",
+  "rfAddress": "Äußere Bayreuther Str. 76\t\n90491\t\nNürnberg\n",
   "accessibilityEmail": "info@energy.de"
 }

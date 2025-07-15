@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Karl-Gayer-Str.",
+  "name": "Medienpiraten GmbH",
+  "naturalPerson": false,
+  "squuid": "68763147-eaff-447f-bc01-4ce093098134",
+  "controlDate": "2025-07-15T10:48:49.695Z",
+  "streetNumber": "13d",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80997",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.egofm.de",
+        "squuid": "5f3e6667-e0df-4522-b7a1-c51ea0673678"
+      },
+      "squuid": "6876317d-ab76-4dc9-b6e0-855192169d0a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "F-Invest UG (haftungsbeschränkt)",
+        "squuid": "68763289-ed66-40a6-93c3-fc5ff6a8832c"
+      },
+      "squuid": "687632ac-d7f4-48d5-87ba-52dfc4f90b6d",
+      "state": "active"
+    }
+  ]
+}

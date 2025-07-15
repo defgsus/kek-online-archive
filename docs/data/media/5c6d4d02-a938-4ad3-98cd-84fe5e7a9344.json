@@ -1,6 +1,7 @@
 {
   "rfRepresentative": "Thomas Conrad",
   "state": "active",
+  "rfShoppingChannel": false,
   "squuid": "5c6d4d02-a938-4ad3-98cd-84fe5e7a9344",
   "organization": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -8,11 +9,12 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
       "holder": {
-        "name": "Radio Ramasuri Rundfunkprogramm GmbH & Co. KG",
+        "name": "Radio Ramasuri Rundfunkprogramm GmbH & Co. KG (Anbietergemeinschaft)",
         "squuid": "5be1a6b6-a15d-4e7e-89d2-3b92cae1cbe4"
       },
       "squuid": "5c6d6a9b-b7f7-4531-aac1-d8a4720fd43b",
@@ -21,6 +23,12 @@
   ],
   "name": "Radio Galaxy Amberg/Weiden",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -29,8 +37,8 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "description": "Jugendfrequenz.",
-  "rfLicenseUntil": "30.06.2025",
-  "rfLicensed": "20.12.2017",
-  "rfLicenseFrom": "20.12.2017",
+  "rfLicenseUntil": "30.06.2030",
+  "rfLicensed": "11.12.2024",
+  "rfLicenseFrom": "01.07.2025",
   "rfAddress": "Unterer Markt 35\t\n92637\t\nWeiden\n"
 }
