@@ -1,6 +1,7 @@
 {
   "rfRepresentative": "Torsten Mieke",
   "state": "active",
+  "rfShoppingChannel": false,
   "squuid": "5c6eaf0a-9434-4e0f-add6-e71501fa41ee",
   "organization": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -9,6 +10,7 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "accessibilityUrl": "https://www.galaxy-mittelfranken.de/",
+  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
@@ -22,6 +24,12 @@
   ],
   "name": "Radio Galaxy Mittelfranken",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -30,9 +38,9 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "description": "Jugendprogramm. ",
-  "rfLicenseUntil": "31.08.2020",
-  "rfLicensed": "29.10.2012",
-  "rfLicenseFrom": "29.10.2012",
+  "rfLicenseUntil": "30.06.2030",
+  "rfLicensed": "29.10.2024",
+  "rfLicenseFrom": "01.07.2025",
   "rfAddress": "Schalkhäuser Landstr. 5\n91522\nAnsbach\n",
   "accessibilityEmail": "service@galaxy-mittelfranken.de"
 }

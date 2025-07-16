@@ -1,13 +1,30 @@
 {
   "name": "Eduardo Gordillo GmbH",
   "squuid": "6852bad3-2c39-427b-bba6-49adc50398c4",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 14.2857143,
+      "held": {
+        "name": "Radio Nienburg Mittelweser GmbH",
+        "squuid": "5be1a6b6-edc9-4eae-9693-34628b69f0fc"
+      },
+      "squuid": "68774065-3455-4552-b7a0-c8791d7442a3",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ]
 }
