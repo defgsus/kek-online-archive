@@ -26,9 +26,15 @@
       "state": "active"
     }
   ],
-  "name": "Energy  München",
+  "name": "Radio Energy  München",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -36,12 +42,15 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfLicenseUntil": "30.06.2030",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "rfAddress": "Liebherrstr. 5\t\n80538\t\nMünchen\n",
+  "rfLicensed": "17.12.2024",
+  "rfLicenseFrom": "16.04.2025",
+  "rfAddress": "Leopoldstr. 158\n80804\nMünchen\n",
   "accessibilityEmail": "info@energy.de"
 }
