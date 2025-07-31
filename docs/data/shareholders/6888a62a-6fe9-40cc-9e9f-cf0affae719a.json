@@ -4,10 +4,21 @@
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "jazz fm",
+        "squuid": "688b39a1-94cc-46c8-bb1d-1320ebf40aaa"
+      },
+      "squuid": "688b3d0d-be46-44ce-a8f8-74c2ccbbea07",
+      "state": "active"
     }
   ]
 }
