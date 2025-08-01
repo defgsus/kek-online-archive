@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "city": "lssy les Moulineaux",
+  "pseudoCompany": false,
+  "street": "rue Camille Desmoulins",
+  "name": "France Médias Monde S.A.",
+  "naturalPerson": false,
+  "co": "FRANKREICH",
+  "squuid": "688c809c-53db-4b72-9c44-7dff5a89bac8",
+  "streetNumber": "80",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "92130",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "RFI Monde - Radio France Internationale",
+        "squuid": "66bf4cf8-1a5b-4b4d-a6a1-638beb4b91cf"
+      },
+      "squuid": "688c80da-2ebd-4557-a83a-d9102bcf64ff",
+      "state": "active"
+    }
+  ]
+}

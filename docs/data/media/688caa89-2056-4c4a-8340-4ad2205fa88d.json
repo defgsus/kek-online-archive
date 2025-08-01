@@ -1,0 +1,49 @@
+{
+  "rfRepresentative": "Oliver Dunk",
+  "state": "active",
+  "rfShoppingChannel": false,
+  "squuid": "688caa89-2056-4c4a-8340-4ad2205fa88d",
+  "organization": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "radio B2 GmbH",
+        "squuid": "5be1a6b6-03f0-4d87-841b-249e957d36cc"
+      },
+      "squuid": "688cab01-dc06-4660-af57-21cee22b41b7",
+      "state": "active"
+    }
+  ],
+  "name": "Discofox Antenne",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+    "name": "mabb",
+    "type": "organization",
+    "fullName": "Medienanstalt Berlin-Brandenburg"
+  },
+  "description": "DAB",
+  "rfLicensed": "19.06.2025",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}
