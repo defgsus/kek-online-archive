@@ -2,9 +2,9 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 0.12,
+      "capitalShares": 0.13,
       "held": {
-        "name": "Südwestdeutsche Medien Holding GmbH (SWMH)",
+        "name": "Südwestdeutsche Medien Holding GmbH",
         "squuid": "5be1a6b6-f0b4-4918-a667-d5f8c5d968d0"
       },
       "squuid": "5be1a6b8-58eb-4a5a-af3e-1ccc84ad8288",
@@ -15,7 +15,7 @@
   "city": "Heidenheim",
   "pseudoCompany": false,
   "street": "Olgastr. 15",
-  "name": "Heidenheimer Zeitung GmbH & Co KG",
+  "name": "Heidenheimer Zeitung Gesellschaft mit beschränkter Haftung u. Co. Kommanditgesellschaft",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-ed0e-4ba4-8ca3-c1e11c5e420b",
@@ -175,16 +175,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 32.9,
-      "holder": {
-        "name": "Wilhelm, Hans-Jörg",
-        "squuid": "5be1a6b6-8fee-40e3-b70b-492f360e0fd8"
-      },
-      "squuid": "5be1a6b8-386e-48ae-9c64-2b34d5cc6e84",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 11.8,
       "holder": {
         "name": "Frank, Cornelia",
@@ -212,6 +202,16 @@
         "squuid": "5ece46e2-76dd-469c-8848-d9cbc1c8f016"
       },
       "squuid": "5ece46fd-d788-4d12-8877-0a671581e7a3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 32.9,
+      "holder": {
+        "name": "Wilhelm, Dirk Martin",
+        "squuid": "68359e30-d518-4b2a-935f-944b9d8c60d0"
+      },
+      "squuid": "68359f26-cc67-4141-8f43-899fc322ed35",
       "state": "active"
     }
   ]
