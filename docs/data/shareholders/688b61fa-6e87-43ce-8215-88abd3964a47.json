@@ -1,13 +1,30 @@
 {
   "name": "Evangelische Kirche Berlin-Brandenburg-schlesische Oberlausitz (ehemals Evangelisches Kirchenkreis Stadtmitte)",
   "squuid": "688b61fa-6e87-43ce-8215-88abd3964a47",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.42,
+      "held": {
+        "name": "Radio Paradiso GmbH & Co. KG",
+        "squuid": "5be1a6b6-f3bc-43d6-9d76-6f69bc5dec0d"
+      },
+      "squuid": "688b6310-f9d8-4dcb-b817-d26f76848bf2",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

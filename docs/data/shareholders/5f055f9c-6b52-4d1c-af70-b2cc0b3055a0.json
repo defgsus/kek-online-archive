@@ -2,14 +2,31 @@
   "name": "Stiftung Christliche Werte leben",
   "pseudoCompany": false,
   "squuid": "5f055f9c-6b52-4d1c-af70-b2cc0b3055a0",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.71,
+      "held": {
+        "name": "Radio Paradiso GmbH & Co. KG",
+        "squuid": "5be1a6b6-f3bc-43d6-9d76-6f69bc5dec0d"
+      },
+      "squuid": "688b62d1-5a21-46c7-b82f-92e630a3bc65",
+      "state": "active"
+    }
+  ],
   "city": "Berlin",
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
   "naturalPerson": false

@@ -1,13 +1,30 @@
 {
   "name": "Evangelische Kirche Berlin-Brandenburg-schlesische Oberlausitz (ehemals Evangelisches Kirchenkreis Nordost)",
   "squuid": "688b61d3-dfb7-431b-9bd2-691ca071fbef",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.85,
+      "held": {
+        "name": "Radio Paradiso GmbH & Co. KG",
+        "squuid": "5be1a6b6-f3bc-43d6-9d76-6f69bc5dec0d"
+      },
+      "squuid": "688b62f0-7d33-4a13-95a6-8c22cebb3230",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }
