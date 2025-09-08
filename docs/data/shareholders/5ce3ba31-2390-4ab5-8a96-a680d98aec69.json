@@ -1,4 +1,26 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "wetter.com GmbH",
+        "squuid": "5be1a6b6-7e2c-4158-b1b8-4bf296693393"
+      },
+      "squuid": "68bac9ce-95b9-4ee2-a7c4-058f2d0b8f43",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Fem Media GmbH",
+        "squuid": "5be1a6b6-0094-4c05-a023-c23c78e2701f"
+      },
+      "squuid": "68be9286-2d3f-4553-90e0-c3576bf9f751",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "München",
   "note": "ehemals: 7TV Joint Venture GmbH",
@@ -149,6 +171,123 @@
       },
       "squuid": "68bac974-dc90-47bb-908b-a4066c79fd0b",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gewinnarena.de",
+        "squuid": "61e81d6b-1a80-45f6-ae92-beb92d49195c"
+      },
+      "squuid": "68be9362-49d2-45ff-9f51-213fc39dadd1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kabeleins.de",
+        "squuid": "5c50243d-214d-4465-b36c-b980da3ffec6"
+      },
+      "squuid": "68be9384-14dc-434b-88c1-f362a426e321",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kabeleinsclassics.de",
+        "squuid": "5f7d7c56-3e54-421e-96ed-d9a96aa533d4"
+      },
+      "squuid": "68be939d-0625-4b47-ac57-7d69dd696a8c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kabeleinsdoku.de",
+        "squuid": "5f19570a-03f1-4911-82bd-7c8779956e57"
+      },
+      "squuid": "68be93b7-aa73-421c-988c-c7bc706b69d6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.prosieben.de",
+        "squuid": "5c4f0026-7155-4f8a-a62f-e8fb76e7648a"
+      },
+      "squuid": "68be93cd-0273-4899-8ac0-57779bb3ef98",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.prosiebenfun.de",
+        "squuid": "5f33e676-797f-4732-b9ac-72d9c6ed58cf"
+      },
+      "squuid": "68be93e4-d4dd-4484-ac3f-3e5a3daf973e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.prosiebenmaxx.de",
+        "squuid": "5d2f07a3-a4e7-4bbc-ab26-8e94da5a2095"
+      },
+      "squuid": "68be93f9-9bde-4a5a-ba6e-2dddebb51ebb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ran.de",
+        "squuid": "5c4f0e32-1c99-426b-9e8b-6d8d2b588120"
+      },
+      "squuid": "68be9422-a98c-4969-86a3-33f39e0c87a4",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ranaktive.de",
+        "squuid": "6391b820-f01b-4067-97bb-e8f6a2b743ff"
+      },
+      "squuid": "68be943a-16eb-4b06-9207-bf079caca28f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sat1.de/serien/regional-bayern",
+        "squuid": "5f7f18a4-2522-4a73-987e-7a412c9d1648"
+      },
+      "squuid": "68be94aa-7ed1-45c7-864a-8deeff540b83",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sat1emotions.de",
+        "squuid": "5f33e18e-741b-44fa-8e0b-ab78d1690a4f"
+      },
+      "squuid": "68be94c9-a063-4c1a-8875-28a5d74051e9",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sat1gold.de",
+        "squuid": "5f33de1d-89af-4848-8e67-ad3169d61d3b"
+      },
+      "squuid": "68be94ea-4d90-4c10-aa0a-27177dc51e2c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.sixx.de",
+        "squuid": "5be1a6b1-3c27-4d6a-9acf-1ddd8b42ebdf"
+      },
+      "squuid": "68be94fd-29a3-4551-886a-c6d703977e30",
+      "state": "active"
     }
   ],
   "ownedBy": [
@@ -156,10 +295,10 @@
       "type": "own",
       "capitalShares": 100.0,
       "holder": {
-        "name": "Seven.One Entertainment Group GmbH",
-        "squuid": "5be1a6b6-ee3d-454b-96df-68a8cdac19d3"
+        "name": "ProSiebenSat.1 Media SE",
+        "squuid": "5be1a6b6-c403-468d-8ebc-b75baf6ebe76"
       },
-      "squuid": "61b32b76-779a-4896-aa7d-190c8e140b4e",
+      "squuid": "68bac72c-5b71-49d3-a08c-19f3c632e53a",
       "state": "active"
     }
   ]
