@@ -1,7 +1,4 @@
 {
-  "name": "AE Familienholding AG",
-  "pseudoCompany": false,
-  "squuid": "68594f03-cb54-4cef-bbd6-6eada7a517ef",
   "owns": [
     {
       "type": "own",
@@ -14,14 +11,18 @@
       "state": "active"
     }
   ],
-  "city": "Amriswil (CH)",
   "state": "active",
+  "city": "Amriswil (CH)",
+  "pseudoCompany": false,
+  "name": "AE Familienholding AG",
+  "naturalPerson": false,
+  "squuid": "68594f03-cb54-4cef-bbd6-6eada7a517ef",
+  "controlDate": "2025-09-11T09:45:26.660Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "naturalPerson": false
+  ]
 }

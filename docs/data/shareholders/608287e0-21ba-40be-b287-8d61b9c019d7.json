@@ -1,19 +1,4 @@
 {
-  "name": "Amazon.com Sales, Inc.",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Amazon.com Inc.",
-        "squuid": "5d319090-c6fe-423b-a279-4006f21612ad"
-      },
-      "squuid": "60828dd1-3101-4880-ae6b-04fbdc2cae0a",
-      "state": "active"
-    }
-  ],
-  "squuid": "608287e0-21ba-40be-b287-8d61b9c019d7",
   "owns": [
     {
       "type": "own",
@@ -27,6 +12,11 @@
     }
   ],
   "state": "active",
+  "pseudoCompany": false,
+  "name": "Amazon.com Sales, Inc.",
+  "naturalPerson": false,
+  "squuid": "608287e0-21ba-40be-b287-8d61b9c019d7",
+  "controlDate": "2025-09-11T12:35:24.423Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -39,5 +29,16 @@
       "type": "organization"
     }
   ],
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Amazon.com Inc.",
+        "squuid": "5d319090-c6fe-423b-a279-4006f21612ad"
+      },
+      "squuid": "60828dd1-3101-4880-ae6b-04fbdc2cae0a",
+      "state": "active"
+    }
+  ]
 }

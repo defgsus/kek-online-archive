@@ -1,19 +1,4 @@
 {
-  "name": "Amazon Europe Core S.à.r.l.",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Amazon.com Sales, Inc.",
-        "squuid": "608287e0-21ba-40be-b287-8d61b9c019d7"
-      },
-      "squuid": "60828d95-aa50-4ae5-afa1-c4c89451b512",
-      "state": "active"
-    }
-  ],
-  "squuid": "608287c5-57e9-4702-abb3-0a9e2e5500cb",
   "owns": [
     {
       "type": "own",
@@ -27,6 +12,11 @@
     }
   ],
   "state": "active",
+  "pseudoCompany": false,
+  "name": "Amazon Europe Core S.à.r.l.",
+  "naturalPerson": false,
+  "squuid": "608287c5-57e9-4702-abb3-0a9e2e5500cb",
+  "controlDate": "2025-09-11T12:35:10.661Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -39,5 +29,16 @@
       "type": "organization"
     }
   ],
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Amazon.com Sales, Inc.",
+        "squuid": "608287e0-21ba-40be-b287-8d61b9c019d7"
+      },
+      "squuid": "60828d95-aa50-4ae5-afa1-c4c89451b512",
+      "state": "active"
+    }
+  ]
 }
