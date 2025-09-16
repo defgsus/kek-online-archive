@@ -1,4 +1,5 @@
 {
+  "rfRepresentative": "Beyer, Dietmar ",
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-8304-466a-9635-c57d7eb01bef",
@@ -14,7 +15,7 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Christliches Radio München e. V.",
+        "name": "Christliche Medien München e.V.",
         "squuid": "5be1a6b6-fb51-4b09-8c7e-4a1b33239a03"
       },
       "squuid": "5be1a6b9-c4fb-46ae-99ef-78f598e2c102",
@@ -24,6 +25,12 @@
   "name": "Christliches Radio München (CRM)",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -31,11 +38,14 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfLicenseUntil": "30.06.2030",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
+  "rfLicensed": "08.04.2025",
+  "rfLicenseFrom": "16.04.2025",
   "accessibilityEmail": "administration@christlichemedienmuenchen.de"
 }

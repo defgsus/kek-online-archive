@@ -25,7 +25,7 @@
   "city": "Rosenheim",
   "pseudoCompany": false,
   "street": "Hafnerstr. 5",
-  "name": "DBV Beteiligungs GmbH & Co KG",
+  "name": "DBV Beteiligungs GmbH & Co.KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-de82-42c3-bf0f-5bd7fb95c6d7",
@@ -149,7 +149,7 @@
     {
       "complementaryPartner": true,
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 0.0,
       "holder": {
         "name": "Döser, Oliver",
         "squuid": "5be1a6b6-2a3a-4442-830b-cc7ec53e7cc4"
@@ -166,6 +166,16 @@
         "squuid": "5ebd3064-1d0e-4515-a365-19c8444e411b"
       },
       "squuid": "5ebd30d8-18cc-414c-be08-0040ceef7488",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "OMD Holding GmbH & Co. KG",
+        "squuid": "6819c8d6-9071-4ee9-8671-04cba51e347d"
+      },
+      "squuid": "6819ce1b-ea21-4be8-b3ce-2b20b7825c92",
       "state": "active"
     }
   ]

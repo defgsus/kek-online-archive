@@ -8,8 +8,26 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "accessibilityUrl": "https://www.radiomuenchen.net/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio München gUG (haftungsbeschränkt)",
+        "squuid": "5f92dddc-2512-43d7-b865-48a694c606d2"
+      },
+      "squuid": "6214a1c5-0c6a-47ba-b778-f00589942d27",
+      "state": "active"
+    }
+  ],
   "name": "Radio München",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -17,6 +35,9 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfLicenseUntil": "30.06.2030",
+  "rfLicensed": "11.04.2025",
+  "rfLicenseFrom": "16.04.2025",
   "rfAddress": "Elilandstr. 16\n81547 München",
   "accessibilityEmail": "info@radiomuenchen.net"
 }
