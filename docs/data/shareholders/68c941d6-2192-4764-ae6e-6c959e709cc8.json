@@ -1,13 +1,29 @@
 {
   "name": "Erbengemeinschaft nach Bernard große Broermann (Titia große Broermann, Paul Bernard große Broermann, Alexander Bernard große Broermann)",
   "squuid": "68c941d6-2192-4764-ae6e-6c959e709cc8",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Asklepios Kliniken Management GmbH",
+        "squuid": "66fd1fb9-e796-464f-91b1-4df6c228149c"
+      },
+      "squuid": "68c9420e-93f5-4af7-bae4-01ea3c90df3f",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
