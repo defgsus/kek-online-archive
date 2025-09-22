@@ -1,42 +1,20 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "München",
   "pseudoCompany": false,
   "street": "Konradstr. 7",
   "name": "Bayerisches Sonntagsblatt Verlagsgesellschaft mbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-82a5-46ce-8be7-9838201a43f4",
-  "controlDate": "2025-04-25T08:21:01.328Z",
+  "controlDate": "2025-09-22T15:44:27.755Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "80801",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Bayerisches Sonntagsblatt",
-        "squuid": "5be1a6b1-09bf-4888-b7f5-4cc76f5277f4"
-      },
-      "squuid": "5be1a6b9-ca4d-487c-b547-43cecbd94abe",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Verlag Liboriusblatt GmbH & Co KG",
-        "squuid": "5be1a6b6-9e3e-46d7-87ad-de35939c6c2f"
-      },
-      "squuid": "5be1a6b8-1046-4105-8eb5-c6b21abf52c4",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
