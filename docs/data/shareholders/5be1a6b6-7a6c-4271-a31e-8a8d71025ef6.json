@@ -3,14 +3,30 @@
   "pseudoCompany": false,
   "squuid": "5be1a6b6-7a6c-4271-a31e-8a8d71025ef6",
   "placeOfBusiness": "San Francisco, USA",
-  "organizations": [
+  "owns": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "type": "own",
+      "capitalShares": 3.03,
+      "held": {
+        "name": "Bayer AG",
+        "squuid": "5ce2b67a-b645-48a8-80c9-697b6d21514e"
+      },
+      "squuid": "68d13859-7027-4017-ab44-8aa35aedfd7f",
+      "state": "active"
     }
   ],
   "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
   "naturalPerson": false
 }
