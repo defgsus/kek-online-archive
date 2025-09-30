@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Gengenbach",
+  "note": "Ausscheiden der Weimer Media Group angekündigt",
+  "pseudoCompany": false,
+  "street": "Otto-Ernst-Sutter-Weg ",
+  "name": "Business Punk GmbH",
+  "naturalPerson": false,
+  "squuid": "68dba760-be9b-4c4a-abcd-de5c7a5abaf6",
+  "controlDate": "2025-09-30T09:52:01.649Z",
+  "streetNumber": "12",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "77723",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Business Punk",
+        "squuid": "5be1a6b1-0f65-47e5-a23c-27b82c781332"
+      },
+      "squuid": "68dba788-500a-44a1-96a9-a06f7383050c",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.business-punk.com",
+        "squuid": "5bf6ca08-fc55-48c2-a08a-bb6b7f0a6302"
+      },
+      "squuid": "68dba7c4-4a57-4a77-93b6-c2b569393a12",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 45.0,
+      "holder": {
+        "name": "Weimer Media Group GmbH",
+        "squuid": "5ff72250-2062-40b1-80e3-7aab1307ff7f"
+      },
+      "squuid": "68dba8cc-e4e3-46ba-8885-2c138a64f8a3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 55.0,
+      "holder": {
+        "name": "Struck, Andreas",
+        "squuid": "68dba8aa-8749-45de-ab22-98bed1807f48"
+      },
+      "squuid": "68dba8d7-1fe3-4561-8fa4-d13246d50dbb",
+      "state": "active"
+    }
+  ]
+}
