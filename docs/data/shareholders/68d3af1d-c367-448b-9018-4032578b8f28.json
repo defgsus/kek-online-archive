@@ -1,13 +1,30 @@
 {
   "name": "Erbengemeinschaft Rita Bednara (Verena Bednara und Marc Bednara)",
   "squuid": "68d3af1d-c367-448b-9018-4032578b8f28",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Bednara Beteiligungs-GmbH",
+        "squuid": "5ec3e9f6-51c7-4c51-ad6b-e0d695b47012"
+      },
+      "squuid": "68d3af43-eb80-40d2-b0e7-cacce148035c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LFM NRW",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ]
 }
