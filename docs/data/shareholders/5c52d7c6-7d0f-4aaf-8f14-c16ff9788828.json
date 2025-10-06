@@ -1,16 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 98.0,
-      "held": {
-        "name": "blabla.cafe GmbH & Co. KG",
-        "squuid": "5c52d755-7c2a-4c0f-89da-1507c879dd92"
-      },
-      "squuid": "5c52da51-c1d8-4f5b-a706-fd7b27f1252a",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Dortmund",
   "supplierConsortium": false,
@@ -23,9 +11,10 @@
   "streetNumber": "66",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "44357",

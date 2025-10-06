@@ -19,7 +19,7 @@
   "name": "BonVenture Komplementär GmbH",
   "naturalPerson": false,
   "squuid": "61ddb911-4f62-4f93-9644-4247e1d6f304",
-  "controlDate": "2025-04-29T08:59:01.276Z",
+  "controlDate": "2025-10-06T14:21:41.476Z",
   "streetNumber": "33",
   "organizations": [
     {
@@ -28,5 +28,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "80339"
+  "zipcode": "80339",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BonVenture III GmbH & Co KG",
+        "squuid": "5be1a6b6-30a6-4b0e-a789-158ece5c484e"
+      },
+      "squuid": "68e3d0b8-281c-4527-8bc5-9a697d7c5b05",
+      "state": "active"
+    }
+  ]
 }
