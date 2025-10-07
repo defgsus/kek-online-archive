@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "682df0c5-bef7-4fe7-8b02-4e7b13adfa60",
-  "controlDate": "2025-06-11T11:09:08.031Z",
+  "controlDate": "2025-10-07T14:09:01.846Z",
   "streetNumber": "125",
   "organizations": [
     {
@@ -82,5 +82,38 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "zipcode": "10179"
+  "zipcode": "10179",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Streletzki, Ekkehard",
+        "squuid": "5f1ea938-37ae-41f2-841a-d23dc242fbf8"
+      },
+      "squuid": "68496378-1fb1-48fb-b3cd-68df6506166c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "JS Ventura Holding GmbH",
+        "squuid": "61d2d908-0fe6-4570-8dbd-bc8a9a8ab4a5"
+      },
+      "squuid": "6849638d-cbf0-4112-8db6-ecf29146e9a0",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Filmpark Babelsberg Beteiligungs GmbH",
+        "squuid": "684963c8-4b78-47fa-a99b-1697b34c8188"
+      },
+      "squuid": "68496405-a14a-43ac-b902-5c10025d297c",
+      "state": "active"
+    }
+  ]
 }
