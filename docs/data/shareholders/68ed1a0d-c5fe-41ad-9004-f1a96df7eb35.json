@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Heilbronn",
+  "pseudoCompany": false,
+  "street": "Werderstr.",
+  "name": "Living Lab GmbH",
+  "naturalPerson": false,
+  "squuid": "68ed1a0d-c5fe-41ad-9004-f1a96df7eb35",
+  "controlDate": "2025-10-13T15:28:49.933Z",
+  "streetNumber": "134",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "74074",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.l-tv.de",
+        "squuid": "5f3d10ef-4285-4398-9df3-14059e796573"
+      },
+      "squuid": "68ed1a2c-44fd-4355-a52a-a8fc09557a6a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Localism Media GmbH",
+        "squuid": "66bcaf34-ecac-421f-9e26-6f233ef76207"
+      },
+      "squuid": "68ed1b26-c503-4ba2-a670-378c94b31804",
+      "state": "active"
+    }
+  ]
+}

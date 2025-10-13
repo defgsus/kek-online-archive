@@ -2,7 +2,7 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 9.999,
+      "capitalShares": 10.0,
       "held": {
         "name": "Sky German Holdings GmbH",
         "squuid": "5be1a6b6-07bc-4c91-a87e-21a03eb06b23"
@@ -17,7 +17,7 @@
   "name": "Comcast Sky Holdings Inc.",
   "naturalPerson": false,
   "squuid": "6762e01c-6a31-427a-997f-46e0a60028cb",
-  "controlDate": "2025-05-05T12:39:54.468Z",
+  "controlDate": "2025-10-13T13:23:21.675Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -34,6 +34,18 @@
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Comcast Corporation",
+        "squuid": "5be1a6b6-af31-4675-bfe5-541d276d90b2"
+      },
+      "squuid": "685d0502-7f63-4455-8757-850453371fc5",
+      "state": "active"
     }
   ]
 }
