@@ -1,99 +1,21 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Wilhelmsaue ",
   "name": "dbv network GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-ad38-4046-9153-59f74395e4e6",
-  "controlDate": "2025-05-06T09:01:17.281Z",
+  "controlDate": "2025-10-14T11:32:42.114Z",
   "streetNumber": "37",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "10713",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Garten Flora",
-        "squuid": "5be1a6b1-edcf-40c6-9e65-81250948a530"
-      },
-      "squuid": "5be1a6b9-1f56-48de-b475-1c4b8a771c31",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Grün",
-        "squuid": "5be1a6b1-d6c4-4850-a604-bae3c64ddfde"
-      },
-      "squuid": "5be1a6b9-a65e-4377-993b-37605cf5b72d",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.gartenflora.de",
-        "squuid": "5be1a6b1-d809-40ae-84fa-9b08fea48dcb"
-      },
-      "squuid": "5be1a6b9-16f8-429c-9a1b-93608bca48f3",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Bauernzeitung",
-        "squuid": "677fa650-422c-4f1a-ae69-0292e0c925e6"
-      },
-      "squuid": "677fa6a6-970d-4138-a334-492b3683b46e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.bauernzeitung.de",
-        "squuid": "6819d0f8-51a1-432c-b74c-814892d1b7d0"
-      },
-      "squuid": "6819d122-c301-4128-b3e5-58706aa1d9f6",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 32.0,
-      "holder": {
-        "name": "BLV Verlagsgesellschaft mbH",
-        "squuid": "5be1a6b6-176b-4c55-ad1d-d87ecb292438"
-      },
-      "squuid": "5be1a6b8-8f20-4006-b010-53c41cd7e9a8",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 48.0,
-      "holder": {
-        "name": "Landwirtschaftsverlag GmbH",
-        "squuid": "5be1a6b6-31a6-4cfa-a630-deb9d1047291"
-      },
-      "squuid": "5be1a6b8-2381-4871-acda-d4c126d0f0d2",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 20.0,
-      "holder": {
-        "name": "LV Beteiligungs GmbH",
-        "squuid": "60759736-64ba-43f1-ae49-263f412636f6"
-      },
-      "squuid": "60759758-d46c-4c2f-b730-f2ed1a594b39",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
