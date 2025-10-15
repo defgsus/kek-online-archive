@@ -1,16 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 3.02,
-      "held": {
-        "name": "Deutsche Börse AG",
-        "squuid": "61e6ef3f-1098-499a-b061-6327eb545487"
-      },
-      "squuid": "61e6f3f1-d7ae-4dc2-b7e6-9a33e81378bf",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Köln",
   "pseudoCompany": false,
@@ -22,9 +10,10 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "50679",
