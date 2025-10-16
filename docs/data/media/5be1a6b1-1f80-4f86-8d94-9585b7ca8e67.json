@@ -9,6 +9,7 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "accessibilityUrl": "https://rt1.imsueden.de/",
   "rfStatewide": false,
   "operatedBy": [
     {
@@ -24,6 +25,12 @@
   "name": "hitradio rt1 Südschwaben",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -31,13 +38,13 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "rfLicenseUntil": "30.09.2019",
+  "rfLicenseUntil": "30.06.2032",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "rfLicensed": "21.12.2015",
-  "rfLicenseFrom": "21.12.2015"
+  "rfLicensed": "19.12.2024",
+  "rfLicenseFrom": "01.07.2025"
 }

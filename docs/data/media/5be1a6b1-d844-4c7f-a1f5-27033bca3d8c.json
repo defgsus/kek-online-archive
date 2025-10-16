@@ -1,5 +1,5 @@
 {
-  "rfRepresentative": "Hans Hausner",
+  "rfRepresentative": "Hausner, Johann",
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-d844-4c7f-a1f5-27033bca3d8c",
@@ -15,7 +15,7 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Hörfunk Burgkirchen-Mühldorf GmbH",
+        "name": "Hörfunk Burgkirchen-Mühldorf Betriebsgesellschaft mbH",
         "squuid": "5be1a6b6-5861-44b2-a9ef-7fd1555d039d"
       },
       "squuid": "5be1a6b9-4057-41ae-b83d-579a3aa4ac0b",
@@ -25,6 +25,12 @@
   "name": "Inn-Salzach-Welle",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -32,12 +38,15 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfLicenseUntil": "30.06.2030",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "rfAddress": "Mozartstr. 3a\n84508\nBurgkirchen\n",
+  "rfLicensed": "11.12.2024",
+  "rfLicenseFrom": "01.07.2025",
+  "rfAddress": "Ebener-Eschenbach-Weg 28\n84508 Burgkirchen a.d.Alz\n",
   "accessibilityEmail": "info@isw.fm"
 }

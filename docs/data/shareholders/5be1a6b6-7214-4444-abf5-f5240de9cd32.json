@@ -2,14 +2,31 @@
   "name": "Günther, Josef",
   "pseudoCompany": false,
   "squuid": "5be1a6b6-7214-4444-abf5-f5240de9cd32",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.26,
+      "held": {
+        "name": "Radio-Inn-Salzach-Welle-Programmanbietergesellschaft mbH",
+        "squuid": "5be1a6b6-aeca-4413-b5b9-890c4687a717"
+      },
+      "squuid": "68f0d807-aa9d-4c93-a6fb-5ab7108c0eb8",
+      "state": "active"
+    }
+  ],
   "city": "Burgkirchen",
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "naturalPerson": true

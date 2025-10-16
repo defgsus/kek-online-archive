@@ -1,13 +1,40 @@
 {
   "name": "RTL Radio-Beteiligungsgesellschaft mbH",
   "squuid": "68de6a87-02d2-4068-989d-cae776ea8273",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.0,
+      "held": {
+        "name": "Radio Gong 2000 Programmanbieter GmbH & Co. Hörfunk für München KG",
+        "squuid": "5be1a6b6-afdb-4d8d-9a1a-2837b541b32e"
+      },
+      "squuid": "68de6d04-8b57-4ff8-b602-ca9697cd4bb3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 12.0,
+      "held": {
+        "name": "Radio Gong 2000 Programmanbieter GmbH",
+        "squuid": "5f92bf11-6840-45a5-b1ee-00d19e19c2e1"
+      },
+      "squuid": "68de71b1-b37b-4b88-81cb-b775651a076c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }

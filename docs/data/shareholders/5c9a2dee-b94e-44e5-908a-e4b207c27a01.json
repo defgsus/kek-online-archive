@@ -2,9 +2,9 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 50.0,
+      "capitalShares": 25.0,
       "held": {
-        "name": "Radio Charivari oHG",
+        "name": "Radio Charivari GmbH & Co. KG",
         "squuid": "5be1a6b6-629f-4f77-8297-f5d0290fd4da"
       },
       "squuid": "5c9a2e06-6df4-484b-b4fd-1487312e8e00",
@@ -15,7 +15,7 @@
   "city": "München",
   "pseudoCompany": false,
   "street": "Paul-Heyse-Str.",
-  "name": "Münchener Zeitungsverlag GmbH & Co. KG + Merkur tz Redaktions GmbH & Co. KG",
+  "name": "Münchener Zeitungs-Verlag GmbH & Co. KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5c9a2dee-b94e-44e5-908a-e4b207c27a01",
@@ -70,10 +70,32 @@
       "type": "own",
       "capitalShares": 7.94,
       "holder": {
-        "name": "Döser, Oliver",
-        "squuid": "5be1a6b6-2a3a-4442-830b-cc7ec53e7cc4"
+        "name": "OMD Holding GmbH & Co. KG",
+        "squuid": "6819c8d6-9071-4ee9-8671-04cba51e347d"
       },
-      "squuid": "5c9a32c5-4e7b-4a68-b398-6d0509e29741",
+      "squuid": "684c145e-d31f-45ce-b777-588d0655c7c7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Münchner Merkur Verwaltungs GmbH",
+        "squuid": "5ebe6137-3848-4ad4-8a9c-ee4b15abc711"
+      },
+      "squuid": "68da8a03-e0ca-4c5d-9e03-99b35be5bc79",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "GVG Gesellschaft für Verlagsgeschäfte oHG",
+        "squuid": "5be1a6b6-ad71-43a1-9487-fc074b7dcd8f"
+      },
+      "squuid": "68da8ea3-0c96-4199-aa3e-d43aa0831ac6",
       "state": "active"
     }
   ]

@@ -1,13 +1,14 @@
 {
   "state": "active",
   "city": "Burgkirchen/Alz",
+  "supplierConsortium": true,
   "pseudoCompany": false,
-  "street": "Mozartstraße",
-  "name": "Hörfunk Burgkirchen-Mühldorf GmbH",
+  "street": "Ebener-Eschenbach-Weg",
+  "name": "Hörfunk Burgkirchen-Mühldorf Betriebsgesellschaft mbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-5861-44b2-a9ef-7fd1555d039d",
   "controlDate": "2025-05-28T14:43:07.499Z",
-  "streetNumber": "3 a",
+  "streetNumber": "28",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -57,20 +58,30 @@
       "type": "own",
       "capitalShares": 23.4,
       "holder": {
-        "name": "Passauer Neue Medien GmbH",
-        "squuid": "5be1a6b6-f56c-41fa-9f86-24320b611288"
+        "name": "WWZ Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-af92-4839-96f4-2d8d9e234c83"
       },
-      "squuid": "5be1a6b7-baaf-498e-9ef9-871fda66d14e",
+      "squuid": "5be1a6b7-5d24-464d-9894-978b0d290298",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.25,
+      "holder": {
+        "name": "Radio-Inn-Salzach-Welle-Programmanbietergesellschaft mbH",
+        "squuid": "5be1a6b6-aeca-4413-b5b9-890c4687a717"
+      },
+      "squuid": "68372160-8c75-460c-a076-b56f717b8a05",
       "state": "active"
     },
     {
       "type": "own",
       "capitalShares": 23.4,
       "holder": {
-        "name": "WWZ Beteiligungsgesellschaft mbH",
-        "squuid": "5be1a6b6-af92-4839-96f4-2d8d9e234c83"
+        "name": "bavero Verwaltungs GmbH",
+        "squuid": "6837212e-359a-4dde-891a-2a0d715b85b0"
       },
-      "squuid": "5be1a6b7-5d24-464d-9894-978b0d290298",
+      "squuid": "6837218b-9beb-4d77-8c9d-6699094aff18",
       "state": "active"
     },
     {
@@ -80,17 +91,7 @@
         "name": "Radio B 94 GbR",
         "squuid": "5be1a6b6-abeb-4129-a867-28a4ce0286a9"
       },
-      "squuid": "5be1a6b7-3649-41c2-9fc7-0fbabc574b80",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 45.25,
-      "holder": {
-        "name": "Inn-Salzach-Welle GmbH",
-        "squuid": "5be1a6b6-0551-4c05-8a64-0f79f20b7890"
-      },
-      "squuid": "5cc04111-39dc-4475-86ce-9b57ff0c5f3b",
+      "squuid": "68f0cea9-2e5c-4a1d-8177-a4f50e294c78",
       "state": "active"
     }
   ]
