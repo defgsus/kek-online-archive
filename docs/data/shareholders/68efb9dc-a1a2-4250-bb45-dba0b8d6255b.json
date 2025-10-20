@@ -1,13 +1,29 @@
 {
   "name": "M.T.I. Teleport München GmbH",
   "squuid": "68efb9dc-a1a2-4250-bb45-dba0b8d6255b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 95.0,
+      "held": {
+        "name": "DF1 Medien GmbH & Co. KG",
+        "squuid": "66bdd734-6a9d-42f4-87ea-d7bfdb16f819"
+      },
+      "squuid": "68efba51-7845-48f6-be3d-ecab743e76fe",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

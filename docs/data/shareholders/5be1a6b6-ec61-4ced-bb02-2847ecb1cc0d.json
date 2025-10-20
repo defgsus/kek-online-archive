@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Hoheluftchaussee 95",
@@ -9,43 +9,12 @@
   "controlDate": "2024-10-28T13:58:09.590Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "20253",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Emotion",
-        "squuid": "5be1a6b1-46c1-4581-85a6-216e775f6bfa"
-      },
-      "squuid": "5be1a6b9-2711-41d2-8174-73b21ed7036a",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.emotion.de",
-        "squuid": "5be1a6b1-fe0b-4ce6-8f0d-a8a54042af25"
-      },
-      "squuid": "5be1a6b9-1b1e-4159-ac9b-4a5686332e94",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Inspiring Network GmbH & Co KG",
-        "squuid": "5be1a6b6-da6c-4b50-b75b-8bf218cadad7"
-      },
-      "squuid": "5be1a6b8-4d53-44f6-8f31-c50dbc573f82",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

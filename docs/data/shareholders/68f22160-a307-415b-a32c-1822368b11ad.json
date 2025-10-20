@@ -1,13 +1,29 @@
 {
   "name": "Schwarz New Ventures GmbH",
   "squuid": "68f22160-a307-415b-a32c-1822368b11ad",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 42.1,
+      "held": {
+        "name": "Dyn Media GmbH",
+        "squuid": "64f05eba-3974-457a-ba20-a04043c85ab7"
+      },
+      "squuid": "68f221f6-6f41-4849-94f3-5e3283f895df",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

@@ -1,21 +1,18 @@
 {
-  "pressPublishingIntervals": 12,
+  "pressPublishingIntervals": 6,
   "state": "active",
-  "rfShoppingChannel": false,
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
     "name": "Publikumszeitschrift",
     "type": "press-magazine-type",
     "state": "active"
   },
-  "pressAsOfDate": "I/25",
-  "squuid": "5be1a6b1-6232-420c-aecd-62108ebb2955",
+  "squuid": "68f62da9-055d-4189-ac24-162fc3ce7cc9",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
@@ -23,24 +20,24 @@
         "name": "Egmont Ehapa Media GmbH",
         "squuid": "5be1a6b6-f3f6-42df-859a-44f666dd9a3e"
       },
-      "squuid": "68f631ff-bb8a-441e-9d41-6b5fe2c9c01e",
+      "squuid": "68f62e36-e0aa-4a76-ae00-8c571bba1884",
       "state": "active"
     }
   ],
-  "name": "Peppa Pig",
-  "pressEditionsIVW": true,
+  "name": "Disney Stitch",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
   "pressDistributionArea": "bundesweit",
   "type": "print",
-  "controlDate": "2025-10-20T12:58:14.168Z",
-  "pressKind": "Kinder",
-  "onlineOfferType": {
-    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
-    "name": "Online Medienangebot",
-    "type": "online-offer-type",
-    "state": "active"
+  "controlDate": "2025-10-20T12:41:19.898Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
   },
-  "pressEditionsComments": "",
-  "pressEditionsSold": 17710,
+  "pressKind": "Kinder",
+  "pressEditionsComments": "Auflage laut Verlagsangabe",
+  "pressEditionsSold": 60000,
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",
