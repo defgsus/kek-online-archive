@@ -1,13 +1,30 @@
 {
   "name": "Gordillo Amado, Eduardo",
   "squuid": "68f62595-318e-4ce5-8042-88404450071a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Eduardo Gordillo GmbH",
+        "squuid": "6852bad3-2c39-427b-bba6-49adc50398c4"
+      },
+      "squuid": "68f625be-3d5a-46c7-90cb-3c93860a7396",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+      "name": "NLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ]
 }
