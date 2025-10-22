@@ -1,17 +1,35 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-    "name": "DL",
-    "type": "organization"
-  },
-  "rfPublicPrivate": false,
+  "state": "active",
+  "squuid": "68f794c9-901a-4b77-a8a5-3695faa0d183",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "AJNS New Media GmbH",
+        "squuid": "68f8b433-03bc-46bb-aa2c-cd87d15cb3de"
+      },
+      "squuid": "68f8b46e-7939-460e-9159-5658e510ef67",
+      "state": "active"
+    }
+  ],
   "name": "www.kitchenstories. com",
+  "rfPublicPrivate": false,
   "type": "online",
-  "squuid": "68f794c9-901a-4b77-a8a5-3695faa0d183",
-  "state": "active"
+  "controlDate": "2025-10-22T10:33:43.386Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
 }

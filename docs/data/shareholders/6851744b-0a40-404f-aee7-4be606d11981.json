@@ -18,7 +18,7 @@
   "name": "fahrwerkfilm GmbH",
   "naturalPerson": false,
   "squuid": "6851744b-0a40-404f-aee7-4be606d11981",
-  "controlDate": "2025-06-19T17:19:49.224Z",
+  "controlDate": "2025-10-22T14:03:49.876Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -32,5 +32,27 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "80336"
+  "zipcode": "80336",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Waligorski, Frank",
+        "squuid": "68544660-b7e3-416b-a2d7-a6df363eec53"
+      },
+      "squuid": "6854469f-9cea-409e-b363-2912ea441e7c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "FourShare GmbH",
+        "squuid": "6854466f-2ec0-457d-82d7-0794850710f3"
+      },
+      "squuid": "685446b5-183b-41c7-8341-ec32f213bd86",
+      "state": "active"
+    }
+  ]
 }

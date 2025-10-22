@@ -1,13 +1,24 @@
 {
   "name": "Maisel, Peter",
   "squuid": "68ecb991-ecdc-4684-8b89-be5d1b7ccaaf",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.19,
+      "held": {
+        "name": "Extra Verlagsgesellschaft mbH",
+        "squuid": "63e3cf74-db05-4475-ba94-da6e26fe14af"
+      },
+      "squuid": "68f8b68d-35a2-4788-8d35-e6955f92ff6d",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

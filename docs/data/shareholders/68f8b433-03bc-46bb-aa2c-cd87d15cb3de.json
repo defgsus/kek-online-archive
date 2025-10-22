@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Storkower Str.",
+  "name": "AJNS New Media GmbH",
+  "naturalPerson": false,
+  "squuid": "68f8b433-03bc-46bb-aa2c-cd87d15cb3de",
+  "controlDate": "2025-10-22T10:41:40.980Z",
+  "streetNumber": "115",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10407",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kitchenstories. com",
+        "squuid": "68f794c9-901a-4b77-a8a5-3695faa0d183"
+      },
+      "squuid": "68f8b46e-7939-460e-9159-5658e510ef67",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Funke Digital GmbH",
+        "squuid": "5be1a6b6-7e9f-4303-9e08-72753c2153a3"
+      },
+      "squuid": "68f8b4e4-6e6b-4f97-b325-9491f9826c37",
+      "state": "active"
+    }
+  ]
+}

@@ -1,13 +1,24 @@
 {
   "name": "Deininger-Friedrich, Daniela",
   "squuid": "68ecb9b4-a760-4180-b0ce-7c88c50d3c5c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.56,
+      "held": {
+        "name": "Extra Verlagsgesellschaft mbH",
+        "squuid": "63e3cf74-db05-4475-ba94-da6e26fe14af"
+      },
+      "squuid": "68f8b64d-8211-4c81-92dc-816c59ee6713",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
