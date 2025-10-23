@@ -19,7 +19,7 @@
   "name": "Filmpark Babelsberg Beteiligungs GmbH",
   "naturalPerson": false,
   "squuid": "684963c8-4b78-47fa-a99b-1697b34c8188",
-  "controlDate": "2025-06-26T08:05:04.748Z",
+  "controlDate": "2025-10-23T08:53:37.685Z",
   "streetNumber": "125",
   "organizations": [
     {
@@ -82,5 +82,27 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "zipcode": "10179"
+  "zipcode": "10179",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "JS Ventura Holding GmbH",
+        "squuid": "61d2d908-0fe6-4570-8dbd-bc8a9a8ab4a5"
+      },
+      "squuid": "685d0028-e67d-4d14-96a8-6df70617b50c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Streletzki, Ekkehard",
+        "squuid": "5f1ea938-37ae-41f2-841a-d23dc242fbf8"
+      },
+      "squuid": "685d003e-ba7f-4fe6-9b9c-d7de1226b285",
+      "state": "active"
+    }
+  ]
 }
