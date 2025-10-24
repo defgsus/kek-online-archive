@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Rendsburg",
+  "pseudoCompany": false,
+  "street": "Grüner Kamp",
+  "name": "Bauernblatt GmbH",
+  "naturalPerson": false,
+  "squuid": "68fb575c-9b2f-4d36-abec-a983816619e1",
+  "controlDate": "2025-10-24T10:43:54.403Z",
+  "streetNumber": "19-21",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "24768",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "bauernblatt",
+        "squuid": "68fb5696-ccf0-4644-9901-60a9f01879f6"
+      },
+      "squuid": "68fb57a4-1d54-4ae6-b45f-0d41248d2518",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bauernblatt.com",
+        "squuid": "68fb56b6-9136-43bb-8690-dcfd8074a95b"
+      },
+      "squuid": "68fb5831-b05e-491e-a2b4-dcc7ca01f0e9",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Bauernverband Schleswig-Holstein e.V.",
+        "squuid": "5be1a6b6-a8cd-480e-98ca-5ec13c1fe491"
+      },
+      "squuid": "68fb58c0-db76-40cd-a8b4-f712d802ea44",
+      "state": "active"
+    }
+  ]
+}

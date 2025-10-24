@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "68fb56b6-9136-43bb-8690-dcfd8074a95b",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Bauernblatt GmbH",
+        "squuid": "68fb575c-9b2f-4d36-abec-a983816619e1"
+      },
+      "squuid": "68fb5831-b05e-491e-a2b4-dcc7ca01f0e9",
+      "state": "active"
+    }
+  ],
+  "name": "www.bauernblatt.com",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2025-10-24T10:41:40.982Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

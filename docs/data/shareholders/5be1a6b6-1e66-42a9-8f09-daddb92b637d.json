@@ -1,26 +1,4 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 89.99,
-      "held": {
-        "name": "finanzen.net GmbH",
-        "squuid": "5be1a6b6-2bed-43cc-bba9-9295b799a194"
-      },
-      "squuid": "5be1a6b8-48cd-4533-8bf5-20b2782bf048",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Business Insider Deutschland GmbH",
-        "squuid": "5ef0a3e9-f375-41fa-a13f-8b76211254c0"
-      },
-      "squuid": "5ef0a49d-0ff4-4bf1-a872-8b17ca09ea53",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Berlin",
   "pseudoCompany": false,
@@ -32,9 +10,10 @@
   "streetNumber": "65",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "10888",

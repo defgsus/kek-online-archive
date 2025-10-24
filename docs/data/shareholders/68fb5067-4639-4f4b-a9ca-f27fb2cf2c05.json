@@ -1,0 +1,81 @@
+{
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Merzhauser Str.",
+  "name": "Badischer Landwirtschaftsverlag GmbH",
+  "naturalPerson": false,
+  "squuid": "68fb5067-4639-4f4b-a9ca-f27fb2cf2c05",
+  "controlDate": "2025-10-24T10:11:16.669Z",
+  "streetNumber": "111",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "79100",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Badische Bauern Zeitung",
+        "squuid": "68fb4f8f-3320-45c0-9f3f-6b55b7b3a12f"
+      },
+      "squuid": "68fb5087-d632-445a-9b20-795b1de64a10",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.badische-bauern-zeitung.de",
+        "squuid": "68fb5914-4fbb-4b7e-922a-739b3cdab4db"
+      },
+      "squuid": "68fb5949-4bc1-474f-b399-cb50ba1a3155",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 39.4,
+      "holder": {
+        "name": "Badischer Landwirtschaftlicher Hauptverband e.V.",
+        "squuid": "5ef1f904-d13e-4f74-a0e3-173dc2136f4f"
+      },
+      "squuid": "68fb51e0-8a35-469c-b881-c896899b7f91",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 15.9,
+      "holder": {
+        "name": "BZ.medien GmbH & Co KG",
+        "squuid": "5be1a6b6-6f79-45c0-9070-3a78ba6dbc51"
+      },
+      "squuid": "68fb51f5-2a53-4352-a86e-ac7143cc76da",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.7,
+      "holder": {
+        "name": "ZG Raiffeisen eG",
+        "squuid": "68fb5215-f2be-481f-85b3-1b3bf9e71ad2"
+      },
+      "squuid": "68fb5257-f0e4-4c23-a68a-c471ad35c0e7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.0,
+      "holder": {
+        "name": "Eigenbesitz der Badischen Landwirtschafatsverlag GmbH",
+        "squuid": "68fb5238-ee38-4e85-b79b-77ba8c4d6207"
+      },
+      "squuid": "68fb528b-3edf-4bed-825c-1dad17b88125",
+      "state": "active"
+    }
+  ]
+}
