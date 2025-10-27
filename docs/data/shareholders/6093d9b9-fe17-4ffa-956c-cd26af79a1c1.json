@@ -1,135 +1,20 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 2.34,
-      "held": {
-        "name": "Prisma-Verlag GmbH & Co. KG",
-        "squuid": "621cc626-22eb-44c9-b383-2237d947b390"
-      },
-      "squuid": "62274498-1d45-46ba-98da-8232142af5cf",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Erfurt",
   "pseudoCompany": false,
   "street": "Gottstedter Landstr.",
   "name": "Funke Thüringen Verlag GmbH",
   "naturalPerson": false,
   "squuid": "6093d9b9-fe17-4ffa-956c-cd26af79a1c1",
-  "controlDate": "2025-05-23T14:41:40.879Z",
+  "controlDate": "2025-10-27T14:11:12.652Z",
   "streetNumber": "6",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "99092",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Mediengruppe Thüringen (MVM)",
-        "squuid": "5cff8fe0-89c9-4678-8ea6-686935472e6c"
-      },
-      "squuid": "6093d9d4-3b9e-4919-ba48-bd4b56eca112",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Thüringer Allgemeine",
-        "squuid": "5be1a6b1-232a-427b-ac09-941b0cde95dc"
-      },
-      "squuid": "6093dbf5-3dca-4397-9bef-05d8dc089f18",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.thueringer-allgemeine.de",
-        "squuid": "5be1a6b1-2e65-44ce-8fff-bd79caf7ad80"
-      },
-      "squuid": "6093dc7f-17dd-4d48-a5d0-d1c3d163276a",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TLZ Thüringische Landeszeitung",
-        "squuid": "5be1a6b1-90b8-4e0d-820b-14dd888454bc"
-      },
-      "squuid": "6093dfb9-030d-4b25-8cda-d888fd319a50",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.tlz.de",
-        "squuid": "5be1a6b1-92c5-4d51-8dab-290dfbea3d65"
-      },
-      "squuid": "6093dfd7-cf51-4b7d-9a42-bd3a93e27233",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TLZ Eichsfelder Tageblatt",
-        "squuid": "5be1a6b1-577e-4390-b41a-0fe3c50a807b"
-      },
-      "squuid": "6093e038-859f-433d-971b-288e459f6fdc",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TLZ Eisenacher Presse",
-        "squuid": "5be1a6b1-6fb1-4b36-abaa-6d3f092c6635"
-      },
-      "squuid": "6093e057-0669-4f8b-826f-510b9658dde3",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TLZ Gothaer Tagespost",
-        "squuid": "5be1a6b1-4263-4014-9d42-5010b8af2f23"
-      },
-      "squuid": "6093e074-c7f2-4358-8859-92c84933129c",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TA am Sonntag",
-        "squuid": "63ee2725-492c-4557-9d07-ac0fe56b261a"
-      },
-      "squuid": "63ee2753-4f99-4e4e-9b98-4e968c5ae06e",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "TLZ am Sonntag",
-        "squuid": "63ee283a-1e16-4637-ad52-0590f29e5990"
-      },
-      "squuid": "63ee2864-7949-4832-95af-9ff3df810929",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Funke Medien Thüringen GmbH",
-        "squuid": "6093dace-825a-4773-9685-4da57015a822"
-      },
-      "squuid": "6093daeb-f6ed-4877-b10f-eb5279bf6a71",
-      "state": "active"
-    }
-  ]
+  "zipcode": "99092"
 }

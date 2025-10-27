@@ -4,16 +4,6 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Funke Thüringen Verlag GmbH",
-        "squuid": "6093d9b9-fe17-4ffa-956c-cd26af79a1c1"
-      },
-      "squuid": "6093daeb-f6ed-4877-b10f-eb5279bf6a71",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "Funke OTZ Holding GmbH",
         "squuid": "5be1a6b6-987d-489e-8519-0c3e5e663454"
       },
@@ -29,6 +19,16 @@
       },
       "squuid": "6728f9cf-5ea2-4c79-bade-54ea7d18bd69",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.34,
+      "held": {
+        "name": "Prisma-Verlag GmbH & Co. KG",
+        "squuid": "621cc626-22eb-44c9-b383-2237d947b390"
+      },
+      "squuid": "68ff8054-dd68-4a30-80a2-74519d2dbf0b",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -38,7 +38,7 @@
   "name": "Funke Medien Thüringen GmbH",
   "naturalPerson": false,
   "squuid": "6093dace-825a-4773-9685-4da57015a822",
-  "controlDate": "2025-05-23T13:43:37.426Z",
+  "controlDate": "2025-10-27T13:09:20.516Z",
   "streetNumber": "6",
   "organizations": [
     {
@@ -56,6 +56,96 @@
         "squuid": "6830930b-978f-45e6-8851-670eda049843"
       },
       "squuid": "68309329-b6b4-4921-9344-554ff27a84e8",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Mediengruppe Thüringen (MVM)",
+        "squuid": "5cff8fe0-89c9-4678-8ea6-686935472e6c"
+      },
+      "squuid": "68ff7e6d-cbe1-4eab-be20-bfd3f921e6e2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TA am Sonntag",
+        "squuid": "63ee2725-492c-4557-9d07-ac0fe56b261a"
+      },
+      "squuid": "68ff7ea9-18a8-4ae3-b049-adf567fc7c6e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TLZ Eichsfelder Tageblatt",
+        "squuid": "5be1a6b1-577e-4390-b41a-0fe3c50a807b"
+      },
+      "squuid": "68ff7efb-04f8-445d-b76c-c077b0d5fabe",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TLZ Eisenacher Presse",
+        "squuid": "5be1a6b1-6fb1-4b36-abaa-6d3f092c6635"
+      },
+      "squuid": "68ff7f22-5a6d-4d73-b267-282e1e61cc4e",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TLZ Gothaer Tagespost",
+        "squuid": "5be1a6b1-4263-4014-9d42-5010b8af2f23"
+      },
+      "squuid": "68ff7f43-774c-4c28-9c85-23536f408356",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TLZ Thüringische Landeszeitung",
+        "squuid": "5be1a6b1-90b8-4e0d-820b-14dd888454bc"
+      },
+      "squuid": "68ff7f64-4337-43f3-83a6-4ea28d2fd85b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "TLZ am Sonntag",
+        "squuid": "63ee283a-1e16-4637-ad52-0590f29e5990"
+      },
+      "squuid": "68ff7f91-cd82-40af-9129-a7b79911155a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Thüringer Allgemeine",
+        "squuid": "5be1a6b1-232a-427b-ac09-941b0cde95dc"
+      },
+      "squuid": "68ff7fbf-9def-4452-8082-f4551ad0b02a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.thueringer-allgemeine.de",
+        "squuid": "5be1a6b1-2e65-44ce-8fff-bd79caf7ad80"
+      },
+      "squuid": "68ff7ff9-72ca-4f6d-b45e-a089101eeccb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tlz.de",
+        "squuid": "5be1a6b1-92c5-4d51-8dab-290dfbea3d65"
+      },
+      "squuid": "68ff801a-3dad-4ab6-bd00-f728ea7c1d35",
       "state": "active"
     }
   ],
