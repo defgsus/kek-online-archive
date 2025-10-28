@@ -59,7 +59,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5de7b362-2aa0-4c59-b620-204896867ca8",
-  "controlDate": "2025-05-26T11:07:49.436Z",
+  "controlDate": "2025-10-28T16:23:08.623Z",
   "streetNumber": "7",
   "organizations": [
     {
@@ -77,16 +77,6 @@
   "zipcode": "32758",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Giesdorf Mediengruppe GmbH & Co KG",
-        "squuid": "5be1a6b6-fb43-4e63-9777-3026b838d87b"
-      },
-      "squuid": "5de7b5f2-3f3f-4457-967f-57d1445463db",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -95,6 +85,16 @@
         "squuid": "5de7b381-744a-4a4e-8fc2-439a630bd2f9"
       },
       "squuid": "5de7b609-905b-416b-ac7f-b37c88b4bc8d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Lippischer Zeitungsverlag Giesdorf GmbH & Co. KG",
+        "squuid": "5be1a6b6-c908-47e7-a5ec-492916452d3f"
+      },
+      "squuid": "68344b9f-c018-4679-a179-c0f0e3d4cb43",
       "state": "active"
     }
   ]
