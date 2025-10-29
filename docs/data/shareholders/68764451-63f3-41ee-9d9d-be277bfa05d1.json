@@ -19,7 +19,7 @@
   "name": "Gregor Stemmle Verwaltungsgesellschaft mbH",
   "naturalPerson": false,
   "squuid": "68764451-63f3-41ee-9d9d-be277bfa05d1",
-  "controlDate": "2025-08-05T10:02:12.577Z",
+  "controlDate": "2025-10-29T12:29:59.839Z",
   "streetNumber": "55",
   "organizations": [
     {
@@ -46,5 +46,17 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "68723"
+  "zipcode": "68723",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stemmle, Gregor",
+        "squuid": "5ef2079e-f328-4165-b6d3-18d678166442"
+      },
+      "squuid": "6891d731-b94b-409c-b05e-0e6494e2d177",
+      "state": "active"
+    }
+  ]
 }
