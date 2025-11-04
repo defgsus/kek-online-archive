@@ -1,30 +1,16 @@
 {
   "name": "Sycomore Asset Management SA",
+  "pseudoCompany": false,
   "controlDate": "2024-12-19T16:40:42.367Z",
   "squuid": "5c52e25b-5a00-4178-93d8-fd6492aa7276",
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 5.09,
-      "held": {
-        "name": "elumeo SE",
-        "squuid": "5c52e0ae-6d87-40ce-a121-d08c917021fa"
-      },
-      "squuid": "5c52e474-feb1-4bfb-aae3-4949a4cb0b3b",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": false
 }

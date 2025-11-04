@@ -1,13 +1,30 @@
 {
   "name": "Enote GmbH",
   "squuid": "68f7447f-44e3-4079-9be8-cd1a17df8d58",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "ern Media GmbH",
+        "squuid": "5cadbf24-e92f-4bca-815c-78be20d8f5b8"
+      },
+      "squuid": "68f744af-bd5c-44f0-9d3d-5e75e3596a51",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

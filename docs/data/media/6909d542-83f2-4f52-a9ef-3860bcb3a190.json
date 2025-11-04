@@ -1,0 +1,65 @@
+{
+  "rfRepresentative": "GF",
+  "state": "archived",
+  "rfShoppingChannel": false,
+  "rfParentalAdvisor": "JB",
+  "rfFreePay": true,
+  "squuid": "6909d542-83f2-4f52-a9ef-3860bcb3a190",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "rfStatewide": true,
+  "name": "Test TV",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "tv",
+  "rfCategory": {
+    "squuid": "5be1a6ad-59ef-453a-9d47-fa4b4ab0b1a4",
+    "name": "Spartenprogramm (Kinder)",
+    "type": "program-category",
+    "state": "active"
+  },
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+    "name": "brema",
+    "type": "organization",
+    "fullName": "Bremische Landesmedienanstalt"
+  },
+  "rfLicenseUntil": "unbefristet",
+  "rfLicensed": "10.10.2025",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-14bf-4535-b607-ef81816a7173",
+      "name": "Magenta TV / Deutsche Telekom GmbH",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-951c-4614-9f9c-49bd5d814a60",
+        "name": "IPTV",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
+  "rfLicenseFrom": "10.10.2025",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    },
+    {
+      "squuid": "5be1a6ae-7330-4aba-9ec4-17828ecdb084",
+      "name": "Englisch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}
