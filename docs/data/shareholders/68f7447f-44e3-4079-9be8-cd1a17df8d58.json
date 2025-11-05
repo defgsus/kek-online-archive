@@ -1,6 +1,4 @@
 {
-  "name": "Enote GmbH",
-  "squuid": "68f7447f-44e3-4079-9be8-cd1a17df8d58",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Zimmerstr.",
+  "name": "Enote GmbH",
+  "naturalPerson": false,
+  "squuid": "68f7447f-44e3-4079-9be8-cd1a17df8d58",
+  "controlDate": "2025-11-05T09:41:50.080Z",
+  "streetNumber": "90",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +32,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
-  ]
+  ],
+  "zipcode": "10117"
 }
