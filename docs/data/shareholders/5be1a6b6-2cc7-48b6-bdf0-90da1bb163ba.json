@@ -1,67 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Gong Verlag GmbH",
-        "squuid": "5be1a6b6-53f8-4684-b1de-1947f404b78f"
-      },
-      "squuid": "5be1a6b8-263f-4e16-99b9-9ac790fd7c84",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Funke Lifestyle GmbH",
-        "squuid": "602a9778-652e-45fd-a279-d6da098d36b7"
-      },
-      "squuid": "602a989a-66cd-44af-9b3c-36b1bd656b1d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Funke Entertain GmbH",
-        "squuid": "602fb5c5-8a47-4153-ae62-59c8766feea0"
-      },
-      "squuid": "602fb68e-3de9-4ba6-8c28-58eae1517182",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Funke Life GmbH",
-        "squuid": "5be1a6b6-e401-4d54-a358-f0e55ecc7a4d"
-      },
-      "squuid": "61def479-710e-4865-864d-4da4cad2cd05",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Funke National Brands Digital GmbH",
-        "squuid": "65a7ef06-230c-4def-8714-b941038436ff"
-      },
-      "squuid": "6728e8db-1448-43d1-9428-07f0d823f5a5",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Funke TV Guide GmbH",
-        "squuid": "5be1a6b6-d1b5-4f08-9d05-0f6246e0fca2"
-      },
-      "squuid": "68308c69-2799-4b91-b67c-73c5b16b9edc",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Ismaning",
   "pseudoCompany": false,
   "street": "Münchener Str. 101",
@@ -72,11 +10,6 @@
   "controlDate": "2025-05-23T15:00:19.338Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
@@ -84,17 +17,5 @@
     }
   ],
   "zipcode": "85737",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Funke Mediengruppe GmbH & Co. KGaA",
-        "squuid": "5be1a6b6-6d6f-4b05-b3c4-8202f7c67653"
-      },
-      "squuid": "5be1a6b8-6961-4a8b-a16f-8f0e944cf276",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
