@@ -18,7 +18,7 @@
   "name": "HSE24 International GmbH",
   "naturalPerson": false,
   "squuid": "68414f80-f190-4f18-be94-0923985a9e12",
-  "controlDate": "2025-06-11T10:29:50.811Z",
+  "controlDate": "2025-11-13T10:01:58.151Z",
   "streetNumber": "101h",
   "organizations": [
     {
@@ -32,5 +32,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "85737"
+  "zipcode": "85737",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "HSE Finance S.à.r.l.",
+        "squuid": "68495b98-c5d7-4f03-aaf8-2bb7d6092eb8"
+      },
+      "squuid": "68495c22-8887-4aac-904f-9a00f32d2088",
+      "state": "active"
+    }
+  ]
 }

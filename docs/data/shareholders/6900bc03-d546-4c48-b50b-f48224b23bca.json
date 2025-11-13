@@ -1,12 +1,64 @@
 {
   "name": "Bamberger Rundfunk GmbH & Co. Studiobetriebs-KG",
   "squuid": "6900bc03-d546-4c48-b50b-f48224b23bca",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 8.33,
+      "held": {
+        "name": "Gemeinschaft Digitaler Radio Programme GmbH",
+        "squuid": "5be1a6b6-dc24-47cf-9ec2-e3f9b61bc5d2"
+      },
+      "squuid": "6900bcf7-355b-4efe-8194-d3981e97a1f6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.333,
+      "held": {
+        "name": "Gemeinschaft Digitaler Radio Programme Beteiligungs-GmbH & Co. KG",
+        "squuid": "5f3e78f9-65e5-448e-9405-939dcc58f361"
+      },
+      "squuid": "6900bd33-6181-4ce8-9129-849675f0216b",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
   "operates": [

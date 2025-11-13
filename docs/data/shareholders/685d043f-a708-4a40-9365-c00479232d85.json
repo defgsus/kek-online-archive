@@ -19,7 +19,7 @@
   "name": "Holzer Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "685d043f-a708-4a40-9365-c00479232d85",
-  "controlDate": "2025-07-15T11:46:44.273Z",
+  "controlDate": "2025-11-13T09:48:06.710Z",
   "streetNumber": "22-24",
   "organizations": [
     {
@@ -70,5 +70,37 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "zipcode": "88171"
+  "zipcode": "88171",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Wolfbauer, Harald",
+        "squuid": "5be1a6b6-5dce-4a67-8b4f-25cdae9d9a1c"
+      },
+      "squuid": "6876401c-3bcb-4be7-9be1-b2114f6564fa",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Wunderlich, Florian",
+        "squuid": "6245a90d-af2d-4f84-9fc6-3f382650ce65"
+      },
+      "squuid": "68764038-7107-42ee-ada7-e92843e271c9",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Huber, Klaus",
+        "squuid": "683706a1-ead4-4669-927c-32733735cd18"
+      },
+      "squuid": "68764051-8422-4426-9cda-8f755a92818b",
+      "state": "active"
+    }
+  ]
 }
