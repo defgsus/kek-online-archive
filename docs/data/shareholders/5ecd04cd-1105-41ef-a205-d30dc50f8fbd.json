@@ -38,7 +38,7 @@
   "name": "ID Metropolen News GmbH",
   "naturalPerson": false,
   "squuid": "5ecd04cd-1105-41ef-a205-d30dc50f8fbd",
-  "controlDate": "2025-05-28T15:39:03.493Z",
+  "controlDate": "2025-11-14T09:48:36.132Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -143,12 +143,32 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 90.0,
       "holder": {
         "name": "F. Wolff & Sohn KG",
         "squuid": "5be1a6b6-f96c-4e11-901f-037faf330020"
       },
       "squuid": "5ecd0571-2559-4d3f-b864-a3e542a8c485",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "OMD Holding GmbH & Co. KG",
+        "squuid": "6819c8d6-9071-4ee9-8671-04cba51e347d"
+      },
+      "squuid": "6916fb5a-8eeb-4b8f-8c49-d0a3ae640fc1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "Mittelhessische Druck- und Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-1d1d-431c-b510-9e6855aae819"
+      },
+      "squuid": "6916fb74-1745-4f44-810f-840b2e8c401d",
       "state": "active"
     }
   ]

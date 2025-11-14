@@ -1,6 +1,38 @@
 {
-  "name": "Internationale Gabriele-Stiftung Verwaltungs-GmbH",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Radio SANTEC GmbH",
+        "squuid": "5be1a6b6-8b99-447e-a438-2ed91e37195f"
+      },
+      "squuid": "6852d733-b693-4afb-8dcf-0611b6296b06",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Marktheidenfeld",
   "pseudoCompany": false,
+  "street": "Max-Braun-Str.",
+  "name": "Internationale Gabriele-Sophia-Stiftung Verwaltungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "6852d6fb-0128-4b2f-9a31-523a15dc4939",
+  "controlDate": "2025-11-14T11:16:32.103Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "97828",
   "ownedBy": [
     {
       "type": "own",
@@ -92,32 +124,5 @@
       "squuid": "68761d9a-4261-4335-bfee-96f6ec6fe005",
       "state": "active"
     }
-  ],
-  "squuid": "6852d6fb-0128-4b2f-9a31-523a15dc4939",
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 20.0,
-      "held": {
-        "name": "Radio SANTEC GmbH",
-        "squuid": "5be1a6b6-8b99-447e-a438-2ed91e37195f"
-      },
-      "squuid": "6852d733-b693-4afb-8dcf-0611b6296b06",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "organizations": [
-    {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    }
-  ],
-  "naturalPerson": false
+  ]
 }
