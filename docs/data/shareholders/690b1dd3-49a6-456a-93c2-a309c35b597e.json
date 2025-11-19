@@ -1,13 +1,30 @@
 {
   "name": "Mitichkin, Evgeny",
   "squuid": "690b1dd3-49a6-456a-93c2-a309c35b597e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.62,
+      "held": {
+        "name": "Enote GmbH",
+        "squuid": "68f7447f-44e3-4079-9be8-cd1a17df8d58"
+      },
+      "squuid": "690b4ad9-d044-4918-82b4-255835fa86f9",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

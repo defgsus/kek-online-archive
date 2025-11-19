@@ -1,13 +1,30 @@
 {
   "name": "Evans, Daniel James",
   "squuid": "690b1de8-4964-49cb-9e91-8733543855c5",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 3.31,
+      "held": {
+        "name": "Enote GmbH",
+        "squuid": "68f7447f-44e3-4079-9be8-cd1a17df8d58"
+      },
+      "squuid": "690b4af2-8cf6-4e14-99b6-1eb3d4992a85",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

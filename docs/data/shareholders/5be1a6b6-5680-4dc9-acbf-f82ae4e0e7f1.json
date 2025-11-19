@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Kinowelt Television GmbH",
-        "squuid": "5be1a6b6-981e-4738-8602-d42b4ee91a40"
-      },
-      "squuid": "5be1a6b7-fd53-4cbe-b46f-e50d4deaae36",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Köln",
   "pseudoCompany": false,
   "street": "Hohenstaufenring",
@@ -22,28 +10,12 @@
   "streetNumber": "43-45",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "50674",
-  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 20.12.2016",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "AMC DMC Holdings B.V.",
-        "squuid": "5be1a6b6-61c7-4c2e-b4b4-409e2f021faa"
-      },
-      "squuid": "66605245-31a4-4297-be60-1fd8f1039a78",
-      "state": "active"
-    }
-  ]
+  "credits": "Auskunft gemäß § 26 Abs. 7 RStV vom 20.12.2016"
 }

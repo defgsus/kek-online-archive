@@ -1,13 +1,30 @@
 {
   "name": "Tufan, Josef",
   "squuid": "690b1db8-3be7-40d4-bc8b-b3166fc1d7bb",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 11.58,
+      "held": {
+        "name": "Enote GmbH",
+        "squuid": "68f7447f-44e3-4079-9be8-cd1a17df8d58"
+      },
+      "squuid": "690b4ac6-ad90-4f64-9132-bd2552646625",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }
