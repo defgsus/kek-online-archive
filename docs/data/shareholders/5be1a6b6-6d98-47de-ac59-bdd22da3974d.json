@@ -73,6 +73,7 @@
   ],
   "state": "active",
   "city": "Oldenburg (Oldb)",
+  "note": "Inhaberwechsel des Verlages (Übernahme durch die Verlagsgesellschaft Madsack/Hannover) zum 1. Januar 2026 geplant bzw. angekündigt.",
   "pseudoCompany": false,
   "street": "Peterstr. 28-34",
   "name": "Nordwest-Medien GmbH & Co. KG",
@@ -103,6 +104,12 @@
       "name": "mabb",
       "type": "organization",
       "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     {
       "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
@@ -181,16 +188,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.9,
-      "holder": {
-        "name": "Bothmer, Gisela Gräfin von",
-        "squuid": "5be1a6b6-6834-4f81-9833-e9839dc2c980"
-      },
-      "squuid": "5be1a6b7-c3df-49d3-a547-95e4090a123b",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 1.16,
       "holder": {
         "name": "Köser, Margrit",
@@ -242,7 +239,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 40.13,
+      "capitalShares": 41.03,
       "holder": {
         "name": "von Bothmer Familiengesellschaft mbH & Co. KG",
         "squuid": "5eb2aced-af4f-4e1a-858c-6430bc0360b2"

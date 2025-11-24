@@ -1,19 +1,43 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-    "name": "BLM",
-    "type": "organization",
-    "fullName": "Bayerische Landeszentrale für neue Medien"
-  },
-  "rfPublicPrivate": false,
+  "rfRepresentative": "Walter Berndl",
+  "state": "active",
+  "squuid": "690cc340-20ad-4491-b623-812b22bee9b6",
   "organization": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
     "name": "BLM",
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Unser Radio Deggendorf Programmanbieter GmbH & Co. KG",
+        "squuid": "60094425-71cb-476a-93d8-5ff226b7f64f"
+      },
+      "squuid": "690ccb07-03e3-46c0-b545-59e3fbd3d775",
+      "state": "active"
+    }
+  ],
   "name": "Radio Galaxy Passau / Deggendorf",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
-  "squuid": "690cc340-20ad-4491-b623-812b22bee9b6",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Jugendprogramm.\nZusammenschluss aus Funkhaus Passau und Unser Radio Deggendorf \n\nHier: Unser Radio Deggendorf",
+  "rfLicenseUntil": "30.06.2030",
+  "rfLicensed": "13.12.2024",
+  "rfLicenseFrom": "01.07.2025",
+  "rfAddress": "Bahnhofstr. 28\n94469 Deggendorf"
 }

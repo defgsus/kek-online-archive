@@ -1,4 +1,15 @@
 {
+  "rfRepresentative": "Nickl, Andreas",
+  "state": "active",
+  "squuid": "5d135bd4-5abc-40d5-81f9-6f77dcf2933d",
+  "organization": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "accessibilityUrl": "https://www.alpin.fm/",
+  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
@@ -10,21 +21,24 @@
       "state": "active"
     }
   ],
+  "name": "Alpin FM",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
     "name": "BLM",
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "rfPublicPrivate": false,
-  "organization": {
-    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-    "name": "BLM",
-    "type": "organization",
-    "fullName": "Bayerische Landeszentrale für neue Medien"
-  },
-  "name": "Alpin FM",
-  "type": "radio",
-  "squuid": "5d135bd4-5abc-40d5-81f9-6f77dcf2933d",
-  "state": "active"
+  "description": "DAB-only",
+  "rfLicenseUntil": "06.06.2029",
+  "rfLicensed": "09.07.2019",
+  "rfAddress": "Hafnerstr. 5-13\n83022 Rosenheim",
+  "accessibilityEmail": "info@alpin.fm"
 }

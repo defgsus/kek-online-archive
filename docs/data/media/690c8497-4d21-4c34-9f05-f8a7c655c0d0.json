@@ -1,19 +1,42 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-    "name": "BLM",
-    "type": "organization",
-    "fullName": "Bayerische Landeszentrale für neue Medien"
-  },
-  "rfPublicPrivate": false,
+  "rfRepresentative": "Eß, Stefan",
+  "state": "active",
+  "squuid": "690c8497-4d21-4c34-9f05-f8a7c655c0d0",
   "organization": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
     "name": "BLM",
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Sankt Michaelsbund, Landesverband Bayern e.V.",
+        "squuid": "690c94e8-61b8-42a6-9263-5d57214b2cc5"
+      },
+      "squuid": "690c95c6-a980-4afb-b5c4-64f643004c2e",
+      "state": "active"
+    }
+  ],
   "name": "Münchner Kirchenradio ",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
-  "squuid": "690c8497-4d21-4c34-9f05-f8a7c655c0d0",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "DAB-Only",
+  "rfLicenseUntil": "15.04.2035",
+  "rfLicensed": "11.04.2025",
+  "rfAddress": "Herzog-Wilhelm-Str. 5\n80331 München"
 }

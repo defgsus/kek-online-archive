@@ -1,8 +1,30 @@
 {
   "name": "M&A HoldCo Breteuil",
   "squuid": "691c5ba1-bd43-4b90-9003-df571699ee8c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "LEONINE Beteiligungs GmbH",
+        "squuid": "5e5505eb-610f-4503-8d79-dcc1ff47eccb"
+      },
+      "squuid": "691c5be0-5fa3-4ec2-a1c1-53bbc6b08409",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",

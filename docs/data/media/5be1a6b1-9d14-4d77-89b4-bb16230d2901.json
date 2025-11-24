@@ -1,4 +1,5 @@
 {
+  "rfRepresentative": "Hock, Dr. Bernhard",
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-9d14-4d77-89b4-bb16230d2901",
@@ -24,6 +25,12 @@
   "name": "rt1 in the mix",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -31,11 +38,14 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfLicenseUntil": "28.02.2030",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
+  "rfLicensed": "20.12.2019",
+  "rfAddress": "Curt-Frenzel-Straße 4\n86167 Augsburg",
   "accessibilityEmail": "hitradio@rt1.de"
 }

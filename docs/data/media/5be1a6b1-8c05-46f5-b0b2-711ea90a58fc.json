@@ -1,5 +1,5 @@
 {
-  "rfRepresentative": "Irmgard Prokscha, Gerhard Prokscha",
+  "rfRepresentative": "Sabine Hager",
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-8c05-46f5-b0b2-711ea90a58fc",
@@ -15,16 +15,22 @@
     {
       "type": "operate",
       "holder": {
-        "name": "extra radio Rundfunkprogramm GmbH",
+        "name": "Extra-Radio Rundfunkprogramm GmbH",
         "squuid": "5be1a6b6-1f45-422c-9390-75197848d1aa"
       },
       "squuid": "5be1a6b9-c0b6-445a-8435-e38caca38a78",
       "state": "active"
     }
   ],
-  "name": "extra Radio",
+  "name": "extra-radio",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -32,15 +38,15 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "rfLicenseUntil": "31.12.2021",
+  "rfLicenseUntil": "30.06.2030",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "rfLicensed": "29.10.2015",
-  "rfLicenseFrom": "29.10.2015",
+  "rfLicensed": "04.12.2024",
+  "rfLicenseFrom": "01.07.2025",
   "rfAddress": "Kreuzsteinstr. 2–6\n95028\nHof/Saale\n",
   "accessibilityEmail": "redaktion@extra-radio.de"
 }

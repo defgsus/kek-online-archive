@@ -1,40 +1,7 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "LEONINE Beteiligungs GmbH",
-        "squuid": "5e5505eb-610f-4503-8d79-dcc1ff47eccb"
-      },
-      "squuid": "606c64a6-1f46-4c4f-86a4-90f4252dc1bd",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": false,
   "name": "SHOW Holding S.C.A.",
-  "naturalPerson": false,
-  "squuid": "606c643e-3b1d-4708-8ecb-bf88b284fb28",
+  "pseudoCompany": false,
   "controlDate": "2025-06-23T10:23:31.535Z",
-  "organizations": [
-    {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
-    }
-  ],
   "ownedBy": [
     {
       "type": "own",
@@ -66,5 +33,16 @@
       "squuid": "606d75da-aa06-48a5-a260-dd17c4444c39",
       "state": "active"
     }
-  ]
+  ],
+  "squuid": "606c643e-3b1d-4708-8ecb-bf88b284fb28",
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "naturalPerson": false
 }

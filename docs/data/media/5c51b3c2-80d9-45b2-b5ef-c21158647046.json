@@ -1,5 +1,5 @@
 {
-  "rfRepresentative": "Gerald Huter",
+  "rfRepresentative": "Steigerwald, Fabian",
   "state": "active",
   "squuid": "5c51b3c2-80d9-45b2-b5ef-c21158647046",
   "organization": {
@@ -14,15 +14,21 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Schweinfurter Rundfunk GmbH & Co. Studiobetriebs-KG",
-        "squuid": "5c51b278-e414-4b62-823b-a24e62ac37e5"
+        "name": "Radio PrimaTon GmbH",
+        "squuid": "5be1a6b6-6382-4b37-add7-02aa2074b051"
       },
-      "squuid": "5c51b3da-97a6-4be6-8dc4-14c369f95ca0",
+      "squuid": "690498dd-373f-4f4c-8109-215cb0f846b8",
       "state": "active"
     }
   ],
-  "name": "Radio Hashtag+",
+  "name": "radiohashtag+ ",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -30,6 +36,10 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "description": "DAB + Programm",
+  "description": "UKW/DAB + Programm",
+  "rfLicenseUntil": "30.06.2030",
+  "rfLicensed": "23.05.2025",
+  "rfLicenseFrom": "01.07.2025",
+  "rfAddress": "Carl-Zeiß-Str. 10\n97424 Schweinfurt",
   "accessibilityEmail": "info@radiohashtagplus.de"
 }

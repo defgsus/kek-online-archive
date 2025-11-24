@@ -4,10 +4,21 @@
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Münchner Kirchenradio ",
+        "squuid": "690c8497-4d21-4c34-9f05-f8a7c655c0d0"
+      },
+      "squuid": "690c95c6-a980-4afb-b5c4-64f643004c2e",
+      "state": "active"
     }
   ]
 }

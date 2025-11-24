@@ -1,19 +1,43 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-    "name": "BLM",
-    "type": "organization",
-    "fullName": "Bayerische Landeszentrale für neue Medien"
-  },
-  "rfPublicPrivate": false,
+  "rfRepresentative": "Koller, Alexander ",
+  "state": "active",
+  "squuid": "690df305-112d-440b-bd7e-b366e02d4647",
   "organization": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
     "name": "BLM",
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Digitaler Rundfunk Bayern GmbH & Co. KG",
+        "squuid": "5be1a6b6-a007-40ef-96ec-632d31222118"
+      },
+      "squuid": "690df5c8-3c18-4aef-a621-684e4fdf39e8",
+      "state": "active"
+    }
+  ],
   "name": "Radio Galaxy Allgäu",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
-  "squuid": "690df305-112d-440b-bd7e-b366e02d4647",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "DAB-Only \n14 bis 29 Jahre",
+  "rfLicenseUntil": "31.12.2034",
+  "rfLicensed": "18.12.2024",
+  "rfLicenseFrom": "01.01.2025",
+  "rfAddress": "Ulmenstr. 52 H\n90443 Nürnberg"
 }

@@ -9,6 +9,7 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "accessibilityUrl": "https://radioschwaben.de/",
+  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
@@ -22,6 +23,12 @@
   ],
   "name": "Radio Schwaben",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -30,6 +37,8 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "description": "DAB + Programm",
+  "rfLicenseUntil": "23.07.2030",
+  "rfLicensed": "10.08.2020",
   "rfAddress": "Frauenstr. 7\t\n86830\t\nSchwabmünchen\n",
   "accessibilityEmail": "studio@radioschwaben.de"
 }

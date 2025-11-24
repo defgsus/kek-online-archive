@@ -10,20 +10,15 @@
   },
   "accessibilityUrl": "https://www.megaradio.bayern/",
   "rfStatewide": false,
-  "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "MEGA Radio GmbH",
-        "squuid": "5be1a6b6-edb3-4c62-bee1-87a0bdafcf70"
-      },
-      "squuid": "5be1a6b9-8032-4fc1-9cfe-23ba3be86d0d",
-      "state": "active"
-    }
-  ],
   "name": "Mega Radio (BLM)",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+    "name": "Sendebetrieb eingestellt",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",

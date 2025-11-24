@@ -1,13 +1,24 @@
 {
   "name": "Führing, Peter",
   "squuid": "69174f1a-3aa4-49c9-8c0c-adf700943727",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Weser Wochenblatt Verlagsgesellschaft mbH",
+        "squuid": "5be1a6b6-6ec6-4936-a948-98258f580e4e"
+      },
+      "squuid": "69174fa9-0956-4be8-84d5-7d07261fc93c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

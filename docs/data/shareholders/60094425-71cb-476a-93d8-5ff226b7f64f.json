@@ -13,6 +13,7 @@
   ],
   "state": "active",
   "city": "Deggendorf",
+  "supplierConsortium": true,
   "pseudoCompany": false,
   "street": "Bahnhofstr.",
   "name": "Unser Radio Deggendorf Programmanbieter GmbH & Co. KG",
@@ -53,6 +54,15 @@
       },
       "squuid": "66ba1289-e8ae-48d4-9fbc-f7ac3938ed63",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Galaxy Passau / Deggendorf",
+        "squuid": "690cc340-20ad-4491-b623-812b22bee9b6"
+      },
+      "squuid": "690ccb07-03e3-46c0-b545-59e3fbd3d775",
+      "state": "active"
     }
   ],
   "ownedBy": [
@@ -91,7 +101,7 @@
       "type": "own",
       "capitalShares": 17.98,
       "holder": {
-        "name": "Tele Regional Antenne Passau Hörfunkanbieter GmbH",
+        "name": "Tele Regional - Antenne Passau Hörfunkanbieter GmbH",
         "squuid": "5be1a6b6-3997-4dea-9ac1-6ab3f4f04f07"
       },
       "squuid": "65648478-f932-48f9-9a1a-c22ad4f4d6bd",

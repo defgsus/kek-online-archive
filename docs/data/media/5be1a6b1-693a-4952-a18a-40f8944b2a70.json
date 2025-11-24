@@ -9,7 +9,7 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "accessibilityUrl": "https://www.megaradio.bayern/",
+  "accessibilityUrl": "https://megaradiomix.de/",
   "rfStatewide": false,
   "operatedBy": [
     {
@@ -22,9 +22,15 @@
       "state": "active"
     }
   ],
-  "name": "Mega Radio Bayern",
+  "name": "MEGARADIOmix",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -32,12 +38,14 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfLicenseUntil": "27.03.2033",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "rfAddress": "Karolinenstr 2-4\n86150\nAugsburg\n",
-  "accessibilityEmail": "info@megaradio.bayern"
+  "rfLicensed": "11.04.2025",
+  "rfAddress": "Alfred-Nobel-Str. 9\n86156\nAugsburg\n",
+  "accessibilityEmail": "Redaktion@MEGARADIOmix.de"
 }
