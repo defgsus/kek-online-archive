@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.1,
+      "held": {
+        "name": "Funkhaus Rosenheim GmbH & Co. KG",
+        "squuid": "5be1a6b6-040f-4b3c-a4ef-629758453272"
+      },
+      "squuid": "68f0ef92-14ad-465f-aefd-2957523cb6c9",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Raubling",
   "supplierConsortium": true,
@@ -11,10 +23,15 @@
   "streetNumber": "22",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "zipcode": "83064",

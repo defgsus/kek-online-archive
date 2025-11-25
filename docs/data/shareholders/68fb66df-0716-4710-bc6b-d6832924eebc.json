@@ -1,13 +1,30 @@
 {
   "name": "Eigenanteile Radio Hochfelln Rundfunk-Programmanbieter-Gesellschaft mbH",
   "squuid": "68fb66df-0716-4710-bc6b-d6832924eebc",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 9.36,
+      "held": {
+        "name": "Radio Hochfelln Rundfunk-Programmanbieter-Gesellschaft mbH",
+        "squuid": "5ca74dbc-986a-4419-8abb-912c04846271"
+      },
+      "squuid": "68fb6731-15c0-4a0a-b44a-677aa16d62b1",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }
