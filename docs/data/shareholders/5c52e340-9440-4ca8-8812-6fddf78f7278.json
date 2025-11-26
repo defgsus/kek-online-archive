@@ -1,10 +1,12 @@
 {
   "name": "Management der elumeo SE",
+  "pseudoCompany": true,
+  "controlDate": "2025-11-26T15:01:41.235Z",
   "squuid": "5c52e340-9440-4ca8-8812-6fddf78f7278",
   "owns": [
     {
       "type": "own",
-      "capitalShares": 8.01,
+      "capitalShares": 9.37,
       "held": {
         "name": "elumeo SE",
         "squuid": "5c52e0ae-6d87-40ce-a121-d08c917021fa"
@@ -25,5 +27,6 @@
       "name": "DL",
       "type": "organization"
     }
-  ]
+  ],
+  "naturalPerson": false
 }
