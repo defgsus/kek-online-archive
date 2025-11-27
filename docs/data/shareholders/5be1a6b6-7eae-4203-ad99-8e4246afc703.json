@@ -25,12 +25,22 @@
     },
     {
       "type": "own",
+      "capitalShares": 42.24,
+      "held": {
+        "name": "Radio-Inn-Salzach-Welle-Programmanbietergesellschaft mbH",
+        "squuid": "5be1a6b6-aeca-4413-b5b9-890c4687a717"
+      },
+      "squuid": "68f0d5ed-8fa4-422b-909b-b6ac82b10a16",
+      "state": "active"
+    },
+    {
+      "type": "own",
       "capitalShares": 7.95,
       "held": {
-        "name": "Hörfunk Burgkirchen-Mühldorf GmbH",
+        "name": "Hörfunk Burgkirchen-Mühldorf Betriebsgesellschaft mbH",
         "squuid": "5be1a6b6-5861-44b2-a9ef-7fd1555d039d"
       },
-      "squuid": "683721a4-de96-447e-a9ea-6383d79f64a6",
+      "squuid": "6916077a-a2f6-42d1-bc00-ed4023911483",
       "state": "active"
     }
   ],
@@ -41,6 +51,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
