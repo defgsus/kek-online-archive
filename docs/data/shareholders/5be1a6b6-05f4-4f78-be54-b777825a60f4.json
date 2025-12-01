@@ -18,7 +18,7 @@
   "name": "Moosacher Anzeiger GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-05f4-4f78-be54-b777825a60f4",
-  "controlDate": "2025-06-12T14:29:11.984Z",
+  "controlDate": "2025-12-01T14:50:02.300Z",
   "streetNumber": "8",
   "organizations": [
     {
@@ -57,5 +57,17 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "84030"
+  "zipcode": "84030",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Optima Vermögensverwaltung GmbH & Co. KG",
+        "squuid": "5ca5f336-baa9-467b-bbbc-1fddd912d900"
+      },
+      "squuid": "684ae44f-fb1d-4f49-ba2b-e3a369dccbd7",
+      "state": "active"
+    }
+  ]
 }

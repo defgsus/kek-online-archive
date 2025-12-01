@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "MMCD NEW MEDIA GmbH",
-        "squuid": "5bf67afa-4cd1-4f8f-b344-9ab1cb556e20"
-      },
-      "squuid": "5bf67b9b-a2c4-44db-ac6f-33f27ea950d4",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Düsseldorf",
-  "pseudoCompany": false,
   "name": "Frater, Harald",
-  "naturalPerson": true,
-  "squuid": "5bf67b80-c87a-4fc1-a4b8-7de9856c8c9a",
+  "pseudoCompany": false,
   "controlDate": "2019-07-09T10:18:19.276Z",
+  "squuid": "5bf67b80-c87a-4fc1-a4b8-7de9856c8c9a",
+  "city": "Düsseldorf",
+  "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }
