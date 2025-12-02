@@ -1,7 +1,4 @@
 {
-  "name": "Nestlé S.A.",
-  "pseudoCompany": false,
-  "squuid": "684c24a2-2ffd-48c9-be5f-5dac7b12dd87",
   "owns": [
     {
       "type": "own",
@@ -14,14 +11,18 @@
       "state": "active"
     }
   ],
-  "city": "Vevey (CH)",
   "state": "active",
+  "city": "Vevey (CH)",
+  "pseudoCompany": false,
+  "name": "Nestlé S.A.",
+  "naturalPerson": false,
+  "squuid": "684c24a2-2ffd-48c9-be5f-5dac7b12dd87",
+  "controlDate": "2025-12-02T14:36:15.380Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "naturalPerson": false
+  ]
 }

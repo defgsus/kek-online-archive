@@ -14,26 +14,6 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Münsterland Zeitung Medien GmbH & Co KG",
-        "squuid": "5be1a6b6-3a30-4aca-a0ff-255456fc479d"
-      },
-      "squuid": "5be1a6b8-3ee3-4f9d-aecd-e9e9af84d568",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Münsterland Zeitung Medien Verwaltungsgesellschaft mbH",
-        "squuid": "5edf71a2-cee1-44ff-8c6a-8ff3ea4a7eb1"
-      },
-      "squuid": "5edf721a-1472-4ab0-903b-b8af62fcb347",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "Verlag Lensing-Wolff Verwaltungsgesellschaft mbH",
         "squuid": "5ec4fe1a-1514-4536-8c3f-f0d2a5be9cf3"
       },
@@ -55,6 +35,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "44137",
@@ -138,6 +124,33 @@
         "squuid": "5be1a6b1-99d4-4927-8418-26bcb63a91e8"
       },
       "squuid": "67657266-26f5-4871-99f3-9836534c7686",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Dorstener Zeitung",
+        "squuid": "5be1a6b1-39f1-4418-9e3a-312a908789f5"
+      },
+      "squuid": "692eed20-3fce-41c7-a48e-c39ee1a63bfd",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Halterner Zeitung",
+        "squuid": "5be1a6b1-2bd0-4a1f-beaf-91f632c003f8"
+      },
+      "squuid": "692eed42-6249-4723-8f09-1fe0a4655870",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Münsterland Zeitung",
+        "squuid": "5be1a6b1-6f37-4022-900c-db6e74ee18fb"
+      },
+      "squuid": "692eedab-e252-4025-a779-e58757baae8d",
       "state": "active"
     }
   ],

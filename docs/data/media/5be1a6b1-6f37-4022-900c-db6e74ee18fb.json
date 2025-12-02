@@ -2,7 +2,7 @@
   "pressPublishingIntervals": 365,
   "state": "active",
   "rfShoppingChannel": false,
-  "pressAsOfDate": "III/24",
+  "pressAsOfDate": "I/25",
   "squuid": "5be1a6b1-6f37-4022-900c-db6e74ee18fb",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -11,15 +11,6 @@
   },
   "rfStatewide": false,
   "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Münsterland Zeitung Medien GmbH & Co KG",
-        "squuid": "5be1a6b6-3a30-4aca-a0ff-255456fc479d"
-      },
-      "squuid": "5be1a6b9-6160-4e37-ba37-537fb6b16e7e",
-      "state": "active"
-    },
     {
       "type": "operate",
       "holder": {
@@ -37,14 +28,23 @@
       },
       "squuid": "5ece545e-dfaf-4d40-b90c-85c554c64d53",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Lensing-Wolff GmbH & Co. KG",
+        "squuid": "5be1a6b6-0e2b-4b2a-8b1f-59ef8c74ae48"
+      },
+      "squuid": "692eedab-e252-4025-a779-e58757baae8d",
+      "state": "active"
     }
   ],
   "name": "Münsterland Zeitung",
   "pressEditionsIVW": true,
   "pressDistributionArea": "Lk Borken",
   "type": "print",
-  "pressEditionsEpaper": 5243,
-  "controlDate": "2025-06-13T12:11:59.818Z",
+  "pressEditionsEpaper": 5405,
+  "controlDate": "2025-12-02T13:46:27.972Z",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
@@ -52,7 +52,7 @@
     "state": "active"
   },
   "pressEditionsComments": "Sonntags-Ausgabe nur als ePaper; Zeitungsmantel (überregionale Inhalte) vom Redaktionsnetz Westfalen und teilweise vom RND RedaktionsNetzwerk Deutschland",
-  "pressEditionsSold": 14786,
+  "pressEditionsSold": 14451,
   "pressType": {
     "squuid": "5be1a6b0-e4cc-4064-9625-597855abfd7c",
     "name": "Zeitung",

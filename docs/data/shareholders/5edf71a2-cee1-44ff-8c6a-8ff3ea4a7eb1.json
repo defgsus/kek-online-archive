@@ -1,44 +1,20 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Münsterland Zeitung Medien GmbH & Co KG",
-        "squuid": "5be1a6b6-3a30-4aca-a0ff-255456fc479d"
-      },
-      "squuid": "5edf71bd-b504-492c-b1d6-8000d8d5fb13",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Ahaus",
   "pseudoCompany": false,
   "street": "Van-Delden-Str.",
   "name": "Münsterland Zeitung Medien Verwaltungsgesellschaft mbH",
   "naturalPerson": false,
   "squuid": "5edf71a2-cee1-44ff-8c6a-8ff3ea4a7eb1",
-  "controlDate": "2025-06-13T12:10:28.813Z",
+  "controlDate": "2025-12-02T12:42:21.148Z",
   "streetNumber": "6-8",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "48683",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Verlag Lensing-Wolff GmbH & Co. KG",
-        "squuid": "5be1a6b6-0e2b-4b2a-8b1f-59ef8c74ae48"
-      },
-      "squuid": "5edf721a-1472-4ab0-903b-b8af62fcb347",
-      "state": "active"
-    }
-  ]
+  "zipcode": "48683"
 }
