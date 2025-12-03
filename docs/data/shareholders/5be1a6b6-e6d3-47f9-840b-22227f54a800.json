@@ -1,47 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "NNN Norddeutsche Neueste Nachrichten GmbH",
-        "squuid": "5be1a6b6-be68-4197-a55d-a74c3f77a8ce"
-      },
-      "squuid": "5be1a6b8-adf0-47cf-9312-00ccefbfcb00",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 15.46,
-      "held": {
-        "name": "nordclick GmbH & Co. KG",
-        "squuid": "6086baf0-c888-4996-a2e3-7ec0ff1c7b80"
-      },
-      "squuid": "6086bed8-7110-47d3-8758-2df26a2ea2a7",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 1.32,
-      "held": {
-        "name": "Prisma-Verlag GmbH & Co. KG",
-        "squuid": "621cc626-22eb-44c9-b383-2237d947b390"
-      },
-      "squuid": "62274b6a-9af6-4520-b524-028293ef171f",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "held": {
-        "name": "Mecklenburger Blitz Verlag und Werbeagentur GmbH & Co. KG",
-        "squuid": "6400baaf-f9ad-4287-89cf-b3f540659340"
-      },
-      "squuid": "6400bc61-4cfd-45bf-89bd-08403f946e0f",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Schwerin",
   "pseudoCompany": false,
   "street": "Gutenbergstr. 1",
@@ -52,54 +10,12 @@
   "controlDate": "2025-07-01T11:49:06.899Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "19061",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Schweriner Volkszeitung",
-        "squuid": "5be1a6b1-4b6b-49f1-b4e8-53100b72c14f"
-      },
-      "squuid": "5be1a6b9-8573-4fe9-b598-fc7b4a17ad97",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Der Prignitzer",
-        "squuid": "5be1a6b1-68cd-4e08-97e7-45dcab5a163b"
-      },
-      "squuid": "5be1a6b9-9a92-4d27-9f26-908c9b09efc6",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Zeitungsverlag Schwerin Geschäftsführungs-GmbH",
-        "squuid": "5ec25554-0ae1-41d5-ab1a-4866f60b12e1"
-      },
-      "squuid": "5ec25576-5ccd-4abf-8d80-0898a0db0b93",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
-        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
-      },
-      "squuid": "65fc1803-dd2f-4a71-8c9b-be93e96e53cd",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

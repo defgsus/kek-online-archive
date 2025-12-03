@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Zeitungsverlag Schwerin GmbH & Co KG",
-        "squuid": "5be1a6b6-e6d3-47f9-840b-22227f54a800"
-      },
-      "squuid": "5ec25576-5ccd-4abf-8d80-0898a0db0b93",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Schwerin",
   "pseudoCompany": false,
   "street": "Gutenbergstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "19061",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
-        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
-      },
-      "squuid": "660c0de8-db4e-43d3-8849-40830d1fb4c5",
-      "state": "active"
-    }
-  ]
+  "zipcode": "19061"
 }
