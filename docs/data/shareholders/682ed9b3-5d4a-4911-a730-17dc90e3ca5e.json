@@ -19,7 +19,7 @@
   "name": "OD Holding GmbH",
   "naturalPerson": false,
   "squuid": "682ed9b3-5d4a-4911-a730-17dc90e3ca5e",
-  "controlDate": "2025-06-11T10:27:16.449Z",
+  "controlDate": "2025-12-04T14:40:13.398Z",
   "streetNumber": "14",
   "organizations": [
     {
@@ -123,5 +123,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "83071"
+  "zipcode": "83071",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Döser, Oliver",
+        "squuid": "5be1a6b6-2a3a-4442-830b-cc7ec53e7cc4"
+      },
+      "squuid": "68495a56-3428-4fb7-bed7-6a28eef1ac90",
+      "state": "active"
+    }
+  ]
 }

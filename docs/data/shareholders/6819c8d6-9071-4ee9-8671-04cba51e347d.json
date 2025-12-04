@@ -12,12 +12,102 @@
     },
     {
       "type": "own",
-      "capitalShares": 60.35,
+      "capitalShares": 50.0,
       "held": {
-        "name": "DBV Beteiligungs GmbH & Co KG",
+        "name": "DBV Beteiligungs GmbH & Co.KG",
         "squuid": "5be1a6b6-de82-42c3-bf0f-5bd7fb95c6d7"
       },
       "squuid": "6819ce1b-ea21-4be8-b3ce-2b20b7825c92",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.94,
+      "held": {
+        "name": "Münchener Zeitungs-Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1"
+      },
+      "squuid": "684808b4-cc63-42ee-942c-bc6fa3e1899a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.94,
+      "held": {
+        "name": "Zeitungsverlag Oberbayern GmbH & Co KG",
+        "squuid": "5be1a6b6-baa5-4644-bd90-1f917d261023"
+      },
+      "squuid": "68480904-fe98-47d2-86eb-77f7016e044a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.0,
+      "held": {
+        "name": "Zeitungsverlag Oberbayern Verwaltungs-GmbH",
+        "squuid": "5ebd2b45-bbb1-4f72-b2ad-340b5d88f7a9"
+      },
+      "squuid": "684952c3-7067-47f2-8bb3-32f4b45c1fad",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.0,
+      "held": {
+        "name": "Münchner Merkur Verwaltungs GmbH",
+        "squuid": "5ebe6137-3848-4ad4-8a9c-ee4b15abc711"
+      },
+      "squuid": "684953d2-2967-4e69-921f-2ff7ee1731a8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.0,
+      "held": {
+        "name": "Merkur tz Verwaltungs GmbH",
+        "squuid": "5ee39096-089c-4568-8f6c-f935e340081a"
+      },
+      "squuid": "6849ab89-8864-4190-bf65-5789a62705b5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 7.9,
+      "held": {
+        "name": "Merkur tz Redaktions GmbH & Co. KG",
+        "squuid": "5be1a6b6-2335-4d4b-ada5-63324533b0b7"
+      },
+      "squuid": "6849ac79-9404-4c61-9bb8-cd3c7d82cb78",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.1,
+      "held": {
+        "name": "OVB GmbH & Co KG",
+        "squuid": "5be1a6b6-4e9d-431b-9bf5-0aa39448717c"
+      },
+      "squuid": "684ff3c6-2a8f-472b-bf12-92a0e3c48ee7",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.08,
+      "held": {
+        "name": "WWZ Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-af92-4839-96f4-2d8d9e234c83"
+      },
+      "squuid": "6862a370-a60b-4890-988b-9bcd31de23ac",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "held": {
+        "name": "ID Metropolen News GmbH",
+        "squuid": "5ecd04cd-1105-41ef-a205-d30dc50f8fbd"
+      },
+      "squuid": "6916fb5a-8eeb-4b8f-8c49-d0a3ae640fc1",
       "state": "active"
     }
   ],
@@ -29,7 +119,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "6819c8d6-9071-4ee9-8671-04cba51e347d",
-  "controlDate": "2025-05-22T07:58:35.363Z",
+  "controlDate": "2025-12-04T14:40:23.065Z",
   "streetNumber": "14",
   "organizations": [
     {
@@ -133,5 +223,28 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "83071"
+  "zipcode": "83071",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Döser, Oliver",
+        "squuid": "5be1a6b6-2a3a-4442-830b-cc7ec53e7cc4"
+      },
+      "squuid": "682ed9d1-6850-443a-b702-2f296d62290e",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "OD Holding GmbH",
+        "squuid": "682ed9b3-5d4a-4911-a730-17dc90e3ca5e"
+      },
+      "squuid": "682ed9e9-8668-461e-99cd-2528fd065b71",
+      "state": "active"
+    }
+  ]
 }
