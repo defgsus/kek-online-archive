@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 15.5,
-      "held": {
-        "name": "GOGOL Medien GmbH & Co. KG",
-        "squuid": "5d2f2d8a-0298-4c6a-a52f-3f9ef20b49cb"
-      },
-      "squuid": "5d2f3091-1e38-41b9-9b7d-5628f148cd3d",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Augsburg",
-  "pseudoCompany": false,
   "name": "Miessbrandt, Gunter",
-  "naturalPerson": true,
-  "squuid": "5d2f2f2c-774a-4f90-87c7-f5e79732c0d5",
+  "pseudoCompany": false,
   "controlDate": "2019-07-17T14:32:32.638Z",
+  "squuid": "5d2f2f2c-774a-4f90-87c7-f5e79732c0d5",
+  "city": "Augsburg",
+  "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

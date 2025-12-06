@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 22.6,
-      "held": {
-        "name": "GOGOL Medien GmbH & Co. KG",
-        "squuid": "5d2f2d8a-0298-4c6a-a52f-3f9ef20b49cb"
-      },
-      "squuid": "5d2f30a5-e181-482d-8a7f-f44ac5a499dc",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "München",
-  "pseudoCompany": false,
   "name": "Möller, Dr. Matthias",
-  "naturalPerson": true,
-  "squuid": "5d2f2f3e-f057-482f-95c2-e6a43d29721a",
+  "pseudoCompany": false,
   "controlDate": "2019-07-17T14:32:06.958Z",
+  "squuid": "5d2f2f3e-f057-482f-95c2-e6a43d29721a",
+  "city": "München",
+  "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

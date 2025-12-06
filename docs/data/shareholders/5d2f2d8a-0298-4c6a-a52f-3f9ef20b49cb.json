@@ -1,17 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "PEIQ Verwaltungs-GmbH",
-        "squuid": "5eff0287-7841-4df5-81da-ed5b7c1c5cc9"
-      },
-      "squuid": "5eff030d-409c-479a-b682-5b5ec8eb6310",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Augsburg",
   "pseudoCompany": false,
   "street": "Bismarckstraße",
@@ -23,94 +11,11 @@
   "streetNumber": "19 1/2",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "86159",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.myheimat.de",
-        "squuid": "5d2f2d77-92fc-4a89-be17-f4810a14d065"
-      },
-      "squuid": "5d2f2da4-d0fe-48ae-a65c-cc7d913e7566",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 7.5,
-      "holder": {
-        "name": "Apavo Ventures UG (haftungsbeschränkt)",
-        "squuid": "5d2f2ed6-7a20-427e-ad7e-34f712725ee5"
-      },
-      "squuid": "5d2f300f-d694-4917-828a-fb8c402d089e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 5.7,
-      "holder": {
-        "name": "Braun, Boris",
-        "squuid": "5d2f2ef8-96c5-42c2-8e5c-28a5605659f1"
-      },
-      "squuid": "5d2f3053-e485-4eb5-b59c-c4f7f3cf92e8",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 4.6,
-      "holder": {
-        "name": "Demeter, Wolfgang",
-        "squuid": "5d2f2f0f-c9ba-451b-bbf7-385465f398de"
-      },
-      "squuid": "5d2f306a-bb43-453a-8044-45eb078bd96e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 44.1,
-      "holder": {
-        "name": "Huber, Dr. Martin",
-        "squuid": "5d2f2f1b-2801-42fe-9855-6c03154c6288"
-      },
-      "squuid": "5d2f3081-312e-4104-bb71-f5c4c2dc3362",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 15.5,
-      "holder": {
-        "name": "Miessbrandt, Gunter",
-        "squuid": "5d2f2f2c-774a-4f90-87c7-f5e79732c0d5"
-      },
-      "squuid": "5d2f3091-1e38-41b9-9b7d-5628f148cd3d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 22.6,
-      "holder": {
-        "name": "Möller, Dr. Matthias",
-        "squuid": "5d2f2f3e-f057-482f-95c2-e6a43d29721a"
-      },
-      "squuid": "5d2f30a5-e181-482d-8a7f-f44ac5a499dc",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "PEIQ Verwaltungs-GmbH",
-        "squuid": "5eff0287-7841-4df5-81da-ed5b7c1c5cc9"
-      },
-      "squuid": "5eff02a5-cfa5-476d-a36e-1b643a840b2a",
-      "state": "active"
-    }
-  ]
+  "zipcode": "86159"
 }

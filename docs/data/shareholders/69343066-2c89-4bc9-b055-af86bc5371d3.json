@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Augsburg",
+  "pseudoCompany": false,
+  "street": "Curt-Frenzel-Str.",
+  "name": "Marketing- & Sales-Service Augsburg GmbH",
+  "naturalPerson": false,
+  "squuid": "69343066-2c89-4bc9-b055-af86bc5371d3",
+  "controlDate": "2025-12-06T13:40:12.256Z",
+  "streetNumber": "2",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "86167",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.myheimat.de",
+        "squuid": "5d2f2d77-92fc-4a89-be17-f4810a14d065"
+      },
+      "squuid": "69343126-2a48-4956-969f-36289a34639a",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Presse-Druck- und Verlags-GmbH",
+        "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
+      },
+      "squuid": "693432f6-d5fc-45f8-81ea-f9faf9356201",
+      "state": "active"
+    }
+  ]
+}

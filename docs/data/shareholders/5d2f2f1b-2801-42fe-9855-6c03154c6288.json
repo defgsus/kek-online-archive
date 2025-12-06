@@ -1,28 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 44.1,
-      "held": {
-        "name": "GOGOL Medien GmbH & Co. KG",
-        "squuid": "5d2f2d8a-0298-4c6a-a52f-3f9ef20b49cb"
-      },
-      "squuid": "5d2f3081-312e-4104-bb71-f5c4c2dc3362",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "München",
-  "pseudoCompany": false,
   "name": "Huber, Dr. Martin",
-  "naturalPerson": true,
-  "squuid": "5d2f2f1b-2801-42fe-9855-6c03154c6288",
+  "pseudoCompany": false,
   "controlDate": "2019-07-17T14:31:30.554Z",
+  "squuid": "5d2f2f1b-2801-42fe-9855-6c03154c6288",
+  "city": "München",
+  "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }
