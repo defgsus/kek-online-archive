@@ -1,19 +1,4 @@
 {
-  "name": "Pluto Inc.",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Paramount Global, Inc.",
-        "squuid": "5e58ee38-f157-4c58-b910-7f17757012cd"
-      },
-      "squuid": "5fd8ba9c-5fbb-4cf2-a748-de0c169955ae",
-      "state": "active"
-    }
-  ],
-  "squuid": "5fd8b8d8-440d-4c21-8add-5bbf74dfec46",
   "owns": [
     {
       "type": "own",
@@ -27,6 +12,11 @@
     }
   ],
   "state": "active",
+  "pseudoCompany": false,
+  "name": "Pluto Inc.",
+  "naturalPerson": false,
+  "squuid": "5fd8b8d8-440d-4c21-8add-5bbf74dfec46",
+  "controlDate": "2025-12-08T11:19:02.839Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -39,5 +29,16 @@
       "type": "organization"
     }
   ],
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Paramount Global, Inc.",
+        "squuid": "5e58ee38-f157-4c58-b910-7f17757012cd"
+      },
+      "squuid": "5fd8ba9c-5fbb-4cf2-a748-de0c169955ae",
+      "state": "active"
+    }
+  ]
 }
