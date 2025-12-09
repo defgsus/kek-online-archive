@@ -1,0 +1,62 @@
+{
+  "state": "active",
+  "city": "Lübeck",
+  "pseudoCompany": false,
+  "street": "Willy-Brandt-Allee",
+  "name": "HL-Radio Betriebsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "69383a4a-4138-476b-b09e-5136b333cde9",
+  "controlDate": "2025-12-09T15:08:22.401Z",
+  "streetNumber": "31b",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "23554",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radioluebeck.de",
+        "squuid": "5f1ab22b-d43b-429e-b6f2-58583c16b090"
+      },
+      "squuid": "69383abd-9b2e-47d0-a496-92dd0ce15147",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Rehder, Thomas",
+        "squuid": "69383c6e-4330-4c74-bb40-2fc8daf18a59"
+      },
+      "squuid": "69383cda-8979-42aa-aef6-2e1954e5e8ca",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Dittmer, Kai",
+        "squuid": "69383c87-f1d3-4756-8b93-4d4721d92b7a"
+      },
+      "squuid": "69383cef-6ce4-406a-8b22-4a7585394906",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "von Bismarck Beteiligungs GmbH",
+        "squuid": "69383cb1-63ca-4590-ba49-52c106895c0d"
+      },
+      "squuid": "69383d04-8ca9-4e6e-926f-eb0883e535e9",
+      "state": "active"
+    }
+  ]
+}

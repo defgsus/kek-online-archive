@@ -1,13 +1,30 @@
 {
   "name": "Loh, Matthias",
   "squuid": "6925d3f8-61ac-4346-b01b-431b3f3469c9",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.26,
+      "held": {
+        "name": "Dieter von Holtzbrinck Ventures Fonds III GmbH",
+        "squuid": "690b1e58-9e70-4736-aafb-5b6591f345bc"
+      },
+      "squuid": "6925d520-3801-40e7-9c09-5c56ad092588",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

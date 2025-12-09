@@ -1,13 +1,30 @@
 {
   "name": "crossventures GmbH",
   "squuid": "69259a5b-0699-4c53-984c-7c79781b93e0",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "Dieter von Holtzbrinck Ventures GmbH",
+        "squuid": "690b1e6f-ae69-42fc-97f1-d3ec44e8ee4b"
+      },
+      "squuid": "69259afe-3dd5-4364-9f82-1958c4427f0b",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

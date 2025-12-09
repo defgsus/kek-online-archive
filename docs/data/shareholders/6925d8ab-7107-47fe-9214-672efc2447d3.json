@@ -1,13 +1,30 @@
 {
   "name": "Rudolf Fuchs GmbH & Co. KG",
   "squuid": "6925d8ab-7107-47fe-9214-672efc2447d3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Rudolf Fuchs Kapitalanlage-Gesellschaft mbH",
+        "squuid": "690b1e2e-5991-4f37-a4f1-44363d26f442"
+      },
+      "squuid": "6925d8c7-617f-4435-a980-cec7ed9599bc",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

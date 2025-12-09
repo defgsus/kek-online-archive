@@ -1,13 +1,30 @@
 {
   "name": "Dieter von Holtzbrinck Vermögensverwaltung GmbH",
   "squuid": "69259acb-e9a5-4a04-9040-0e7edfc9a5b2",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "held": {
+        "name": "Dieter von Holtzbrinck Ventures GmbH",
+        "squuid": "690b1e6f-ae69-42fc-97f1-d3ec44e8ee4b"
+      },
+      "squuid": "69259aeb-e875-4eca-b5e1-c1d013c6c2f1",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

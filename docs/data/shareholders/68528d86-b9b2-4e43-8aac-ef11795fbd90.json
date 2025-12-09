@@ -18,7 +18,7 @@
   "name": "Radio Chiemgau Geschäftsanteils GmbH & Co.. eGbR",
   "naturalPerson": false,
   "squuid": "68528d86-b9b2-4e43-8aac-ef11795fbd90",
-  "controlDate": "2025-06-25T08:13:12.240Z",
+  "controlDate": "2025-12-09T13:39:24.389Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -33,5 +33,57 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "83395"
+  "zipcode": "83395",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 18.2,
+      "holder": {
+        "name": "WWZ Beteiligungsgesellschaft mbH",
+        "squuid": "5be1a6b6-af92-4839-96f4-2d8d9e234c83"
+      },
+      "squuid": "685baf35-224c-4837-93c8-850694cef3ad",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.2,
+      "holder": {
+        "name": "Neue Presse Redaktions GmbH",
+        "squuid": "5be1a6b6-25c2-4d47-9c3d-f565bf86f77d"
+      },
+      "squuid": "685baf4b-98b7-48ff-99a8-67da97874fee",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.2,
+      "holder": {
+        "name": "A. Miller, Zeitungsverlag KG",
+        "squuid": "5be1a6b6-0cc7-4302-abb6-ee8a98d2fe65"
+      },
+      "squuid": "685baf63-e2a0-4de2-ad5e-c0c72ef07d90",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 27.6,
+      "holder": {
+        "name": "Neue Welle Radio Chiemgau Rundfunk - Programmanbietergesellschaft mbH.",
+        "squuid": "5ca74ac7-7dd3-4d4b-9d36-d28ff207e130"
+      },
+      "squuid": "685baf84-2e48-4ba4-a25e-0b04ba849869",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 17.2,
+      "holder": {
+        "name": "Radio Hochfelln Rundfunk-Programmanbieter-Gesellschaft mbH",
+        "squuid": "5ca74dbc-986a-4419-8abb-912c04846271"
+      },
+      "squuid": "685baf97-2f50-4c88-a5e4-8ecb4b2f9295",
+      "state": "active"
+    }
+  ]
 }

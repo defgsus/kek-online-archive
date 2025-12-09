@@ -1,13 +1,30 @@
 {
   "name": "Michael, Annemarie",
   "squuid": "6925d363-93ba-483d-b016-0af38f926576",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.64,
+      "held": {
+        "name": "Dieter von Holtzbrinck Ventures Fonds III GmbH",
+        "squuid": "690b1e58-9e70-4736-aafb-5b6591f345bc"
+      },
+      "squuid": "6925d47e-6022-46b2-aabf-edba94805407",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

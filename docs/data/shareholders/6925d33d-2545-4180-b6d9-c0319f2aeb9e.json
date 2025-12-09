@@ -1,13 +1,30 @@
 {
   "name": "Fuchs, Michael",
   "squuid": "6925d33d-2545-4180-b6d9-c0319f2aeb9e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.76,
+      "held": {
+        "name": "Dieter von Holtzbrinck Ventures Fonds III GmbH",
+        "squuid": "690b1e58-9e70-4736-aafb-5b6591f345bc"
+      },
+      "squuid": "6925d460-571b-4579-91ee-acbf5d8ea06b",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }
