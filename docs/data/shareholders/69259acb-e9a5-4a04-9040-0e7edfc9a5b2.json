@@ -1,6 +1,4 @@
 {
-  "name": "Dieter von Holtzbrinck Vermögensverwaltung GmbH",
-  "squuid": "69259acb-e9a5-4a04-9040-0e7edfc9a5b2",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Stuttgart",
+  "pseudoCompany": false,
+  "street": "Kernerstr.",
+  "name": "Dieter von Holtzbrinck Vermögensverwaltung GmbH",
+  "naturalPerson": false,
+  "squuid": "69259acb-e9a5-4a04-9040-0e7edfc9a5b2",
+  "controlDate": "2025-12-10T12:43:30.779Z",
+  "streetNumber": "50",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +32,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
-  ]
+  ],
+  "zipcode": "70182"
 }

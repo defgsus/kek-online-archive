@@ -1,6 +1,4 @@
 {
-  "name": "Rudolf Fuchs GmbH & Co. KG",
-  "squuid": "6925d8ab-7107-47fe-9214-672efc2447d3",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,15 @@
     }
   ],
   "state": "active",
+  "city": "Mannheim",
+  "pseudoCompany": false,
+  "street": "Einsteinstr.",
+  "name": "Rudolf Fuchs SE & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6925d8ab-7107-47fe-9214-672efc2447d3",
+  "controlDate": "2025-12-10T12:59:59.682Z",
+  "streetNumber": "11",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +33,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
-  ]
+  ],
+  "zipcode": "68169"
 }
