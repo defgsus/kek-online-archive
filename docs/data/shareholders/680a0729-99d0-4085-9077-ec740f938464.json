@@ -1,5 +1,18 @@
 {
   "name": "Wollfabrik Verwaltungs GmbH ",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schulz, Joachim",
+        "squuid": "684032c2-803f-4aaa-98ef-d638b4eea33c"
+      },
+      "squuid": "6840332d-b95f-49f5-a79f-0ff7cc8adae8",
+      "state": "active",
+      "votingShares": 100.0
+    }
+  ],
   "squuid": "680a0729-99d0-4085-9077-ec740f938464",
   "owns": [
     {
@@ -16,6 +29,11 @@
   ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
       "name": "Medienanstalt RLP",

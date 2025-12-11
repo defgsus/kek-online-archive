@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Mönchengladbach",
   "pseudoCompany": false,
   "street": "Blumenbergstr.",
@@ -10,33 +10,11 @@
   "streetNumber": "143-145",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "41061",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.extra-tipp-am-sonntag.de",
-        "squuid": "6436a2a8-da32-467a-9a21-35a1f14a89d8"
-      },
-      "squuid": "6436a2d4-2de6-42c8-bdbc-fa243e6279d3",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Panorama Anzeigenblatt GmbH",
-        "squuid": "64006d66-cf4e-4c38-9a5f-962b1602e94e"
-      },
-      "squuid": "6436a35e-3b8d-4e7f-8de2-811eeb2b52c1",
-      "state": "active"
-    }
-  ]
+  "zipcode": "41061"
 }
