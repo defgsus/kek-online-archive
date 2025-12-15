@@ -1,13 +1,30 @@
 {
   "name": "Erbengemeinschaft nach Andreas Witter (Christel Witter, Annette Witter, Nicole Witter)",
   "squuid": "693aade5-263b-45bf-b97d-bbb7dbdd3b1d",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Rennsteig TV GmbH",
+        "squuid": "5f33d697-ddcf-49c8-bb4b-dc7fd975963a"
+      },
+      "squuid": "693aae0f-0716-464a-93d4-01f33aff50e8",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Thüringer Landesmedienanstalt"
     }
   ]
 }

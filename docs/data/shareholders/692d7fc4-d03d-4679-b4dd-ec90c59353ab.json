@@ -1,13 +1,30 @@
 {
   "name": "Heck, Dr. Clarissa",
   "squuid": "692d7fc4-d03d-4679-b4dd-ec90c59353ab",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "MHH Medien Holding Hamburg AG",
+        "squuid": "5be1a6b6-156f-455f-ba2a-6e3b6510ae1b"
+      },
+      "squuid": "692d8025-b1ef-419d-8a28-b35f26173d33",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ]
 }

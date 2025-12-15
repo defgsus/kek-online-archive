@@ -1,8 +1,25 @@
 {
   "name": "Keller, Caspar",
   "squuid": "692da815-9dc8-4c81-a75b-b1a1fa9a7619",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 48.0,
+      "held": {
+        "name": "Monika Schoeller Familiengesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-c6b4-4c64-94e2-ce8dc66854f2"
+      },
+      "squuid": "692da87f-2aa5-4dca-b8ec-ccd46fc38c7e",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",

@@ -1,13 +1,30 @@
 {
   "name": "Heck, Dr. Victoria",
   "squuid": "692d7fdc-1949-49cb-ba71-6a3e430ccb66",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "held": {
+        "name": "MHH Medien Holding Hamburg AG",
+        "squuid": "5be1a6b6-156f-455f-ba2a-6e3b6510ae1b"
+      },
+      "squuid": "692d8039-2715-4ed2-b941-64835415efd8",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Uhlandstr.",
+  "name": "RTL Audio Center Berlin GmbH",
+  "naturalPerson": false,
+  "squuid": "694012a8-0c38-450a-8926-4c477f526370",
+  "controlDate": "2025-12-15T13:56:45.502Z",
+  "streetNumber": "30",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "10719",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.spreeradio.de",
+        "squuid": "5f354cd4-bd61-41e8-95d4-83898f231afe"
+      },
+      "squuid": "694012f0-403d-48f8-9608-33cb02fba2d8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.6,
+      "holder": {
+        "name": "RTL Radio Deutschland GmbH",
+        "squuid": "5be1a6b6-fa80-4709-a830-dea042b7476d"
+      },
+      "squuid": "69401456-b793-442b-87dd-d0c4efe59723",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.4,
+      "holder": {
+        "name": "RTL Radio Berlin GmbH",
+        "squuid": "5be1a6b6-6ea6-42b5-9674-9d85c813ccc9"
+      },
+      "squuid": "6940146a-1be9-4d4b-9be1-9bdda60b06b1",
+      "state": "active"
+    }
+  ]
+}
