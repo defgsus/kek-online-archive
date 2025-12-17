@@ -2,16 +2,6 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 18.0,
-      "held": {
-        "name": "Medienholding Süd GmbH (MSG)",
-        "squuid": "5be1a6b6-19cc-4eda-8d42-c4a7e5a31027"
-      },
-      "squuid": "5be1a6b7-ad93-4b1d-81aa-870f27b30bf4",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 1.56,
       "held": {
         "name": "Südwestdeutsche Medien Holding GmbH",
@@ -49,6 +39,16 @@
       },
       "squuid": "6058acd5-fc53-4dc4-88ab-0bea42647d78",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "held": {
+        "name": "Ebner Pressegesellschaft GmbH & Co. KG",
+        "squuid": "5be1a6b6-bd4c-4bfe-879c-155b46e2c5df"
+      },
+      "squuid": "68f61b83-9ee5-4c33-af8c-d1cb2249c6c1",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -59,7 +59,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-dcac-4e4f-aa84-e3c808d26df7",
-  "controlDate": "2025-09-15T15:40:31.789Z",
+  "controlDate": "2025-12-17T13:33:38.362Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -167,9 +167,9 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 5.5,
+      "capitalShares": 7.54,
       "holder": {
-        "name": "Rebmann, Richard",
+        "name": "Rebmann, Dr. Richard",
         "squuid": "5be1a6b6-07f0-43da-91f4-b53f8cd09c0b"
       },
       "squuid": "5be1a6b8-e169-4842-b79b-2394e8911420",
@@ -187,9 +187,9 @@
     },
     {
       "type": "own",
-      "capitalShares": 2.05,
+      "capitalShares": 0.68,
       "holder": {
-        "name": "Elben, Hans Ulrich",
+        "name": "Elben, Dr. Hans-Ulrich",
         "squuid": "5be1a6b6-aa6b-40e1-b651-3f2017178283"
       },
       "squuid": "5be1a6b8-8ac0-451d-bef2-a51517a0f4ed",
@@ -207,7 +207,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 2.74,
+      "capitalShares": 4.8,
       "holder": {
         "name": "Rebmann, Erich",
         "squuid": "5be1a6b6-6333-4b96-a0cc-3edec43df197"
@@ -299,7 +299,7 @@
       "type": "own",
       "capitalShares": 2.74,
       "holder": {
-        "name": "Leibbrand, Frank",
+        "name": "Leibbrand, Dr. Frank",
         "squuid": "5be1a6b6-b7b9-496f-8c6c-d221624978f4"
       },
       "squuid": "5be1a6b8-468c-4b7d-8c42-b78366a73620",
@@ -319,7 +319,7 @@
       "type": "own",
       "capitalShares": 2.05,
       "holder": {
-        "name": "von Burkersrode, Marion",
+        "name": "von Burkersroda, Marion",
         "squuid": "5be1a6b6-fb4f-4f8e-a42e-83d18002e130"
       },
       "squuid": "5be1a6b8-854f-4111-812e-cad85a3addf7",
@@ -337,7 +337,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 1.37,
+      "capitalShares": 3.42,
       "holder": {
         "name": "Lind, Gertrud",
         "squuid": "5be1a6b6-c105-4809-816b-f5d72a11291d"
@@ -349,7 +349,7 @@
       "type": "own",
       "capitalShares": 1.37,
       "holder": {
-        "name": "Anbar, Sybille",
+        "name": "Anbar, Dr. Sybille",
         "squuid": "5be1a6b6-2395-472e-8db4-c61529c8a56f"
       },
       "squuid": "5be1a6b8-2889-4335-a2a2-9ba9ee4556b4",
@@ -489,7 +489,7 @@
       "type": "own",
       "capitalShares": 1.37,
       "holder": {
-        "name": "Wulfstat, Amanda Anbar",
+        "name": "Anbar Wulfstat, Amanda ",
         "squuid": "5be1a6b6-6118-48ae-964d-c3496482ebd7"
       },
       "squuid": "5be1a6b8-a491-4b0c-b421-c02fe07d3b6c",
@@ -519,7 +519,7 @@
       "type": "own",
       "capitalShares": 1.37,
       "holder": {
-        "name": "Baier, Verena",
+        "name": "Schüppel, Verena",
         "squuid": "5be1a6b6-df6f-4516-8e58-8e26849b7f9b"
       },
       "squuid": "5be1a6b8-6d09-4e1c-83f3-5d6279f9c2ca",
@@ -537,9 +537,9 @@
     },
     {
       "type": "own",
-      "capitalShares": 1.37,
+      "capitalShares": 2.05,
       "holder": {
-        "name": "Elben, Ulrike",
+        "name": "Elben, Dr. Ulrike",
         "squuid": "5be1a6b6-6721-4c82-881d-5326805e7718"
       },
       "squuid": "5be1a6b8-ac3f-498c-9b4b-8bdd17252813",
@@ -569,7 +569,7 @@
       "type": "own",
       "capitalShares": 1.37,
       "holder": {
-        "name": "Rebmann, Daniel",
+        "name": "Rebmann, Dr. Daniel",
         "squuid": "5be1a6b6-e7d3-403a-be5c-6d13c64a6f25"
       },
       "squuid": "5be1a6b8-351f-4488-9107-91a5fde48529",
@@ -589,7 +589,7 @@
       "type": "own",
       "capitalShares": 1.37,
       "holder": {
-        "name": "Weidner, Cornelia",
+        "name": "Weidner, Dr. Cornelia",
         "squuid": "5be1a6b6-cce8-430b-a652-9d6eb5e01107"
       },
       "squuid": "5be1a6b8-a092-4f45-95de-82ac5d5bf120",
@@ -629,7 +629,7 @@
       "type": "own",
       "capitalShares": 0.68,
       "holder": {
-        "name": "Aldinger, Lotte",
+        "name": "Scheder-Bieschin, Lotte",
         "squuid": "5be1a6b6-97d4-4b0b-a9d7-d69883b7c36c"
       },
       "squuid": "5be1a6b8-e71a-41b6-bcdf-15f13dcab44e",
@@ -649,7 +649,7 @@
       "type": "own",
       "capitalShares": 1.37,
       "holder": {
-        "name": "Elben, Birgit",
+        "name": "Schünemann, Birgit",
         "squuid": "5be1a6b6-efe2-4b0c-808e-d9362d0ab870"
       },
       "squuid": "5be1a6b8-f777-4b73-a456-15a84764d22d",
@@ -657,7 +657,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.68,
+      "capitalShares": 1.37,
       "holder": {
         "name": "Elben, Julia",
         "squuid": "5be1a6b6-13e9-4a1d-9932-c5345472048a"
@@ -667,7 +667,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.68,
+      "capitalShares": 1.37,
       "holder": {
         "name": "Elben, Katrin",
         "squuid": "5be1a6b6-2355-4df4-b619-bc9b9f41c997"
@@ -679,7 +679,7 @@
       "type": "own",
       "capitalShares": 0.68,
       "holder": {
-        "name": "Rapp, Johanna",
+        "name": "Rapp, Dr. Johanna",
         "squuid": "5be1a6b6-6ef4-453b-98a7-2c607186ae27"
       },
       "squuid": "5be1a6b8-da48-4ca7-bd35-1ddde056a501",
@@ -729,7 +729,7 @@
       "type": "own",
       "capitalShares": 0.68,
       "holder": {
-        "name": "Wolf, Laura",
+        "name": "Wolf, Dr. Laura",
         "squuid": "5be1a6b6-2941-455a-933a-1f3358daa6ea"
       },
       "squuid": "5be1a6b8-dd74-499a-9d5e-1b3f1424b743",
@@ -800,7 +800,7 @@
       "type": "own",
       "capitalShares": 0.68,
       "holder": {
-        "name": "Freitag, Mathias",
+        "name": "Freitag, Dr. Mathias",
         "squuid": "64a67808-253a-4993-ac20-e3c742457605"
       },
       "squuid": "64a6783a-8e1f-4d3f-ac08-ad4b52662a4c",

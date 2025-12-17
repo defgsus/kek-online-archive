@@ -1,5 +1,6 @@
 {
   "name": "Stöcker, Prof. Dr. Winfried",
+  "pseudoCompany": false,
   "squuid": "6866a3e8-71aa-46cb-b507-137fd502ef93",
   "owns": [
     {
@@ -11,8 +12,19 @@
       },
       "squuid": "6866a42c-452d-499b-8af3-23887e8f7d17",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Wellenrausch GmbH",
+        "squuid": "66bdf279-af02-496a-b611-ab29ffa89a12"
+      },
+      "squuid": "69397c01-554a-446f-a79d-697ef3c36aae",
+      "state": "active"
     }
   ],
+  "city": "Groß Grönau",
   "state": "active",
   "organizations": [
     {
@@ -21,10 +33,17 @@
       "type": "organization"
     },
     {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
       "name": "MA HSH",
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

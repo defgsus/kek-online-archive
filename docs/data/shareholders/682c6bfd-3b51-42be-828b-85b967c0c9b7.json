@@ -18,7 +18,7 @@
   "name": "SC-Kapitalbeteiligungsgesellschaft mbH",
   "naturalPerson": false,
   "squuid": "682c6bfd-3b51-42be-828b-85b967c0c9b7",
-  "controlDate": "2025-05-22T07:54:18.653Z",
+  "controlDate": "2025-12-17T11:49:06.196Z",
   "streetNumber": "51",
   "organizations": [
     {
@@ -33,5 +33,27 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "zipcode": "09111"
+  "zipcode": "09111",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.24,
+      "holder": {
+        "name": "Sparkasse Chemnitz",
+        "squuid": "682ed7e0-6c50-49d5-84da-0106ab6d5053"
+      },
+      "squuid": "682ed80e-cbfb-4f79-b48e-19eb6748c7cd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.76,
+      "holder": {
+        "name": "Sparkasse Mittelsachsen",
+        "squuid": "682ed7ee-46b3-4256-91da-a1dfbba7386b"
+      },
+      "squuid": "682ed829-cfac-40e0-b671-0c3b092ed8d9",
+      "state": "active"
+    }
+  ]
 }

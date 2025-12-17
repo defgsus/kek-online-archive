@@ -1,17 +1,4 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Schweinfurter Rundfunk GmbH & Co. Studiobetriebs-KG",
-        "squuid": "5c51b278-e414-4b62-823b-a24e62ac37e5"
-      },
-      "squuid": "5f92cb1e-3b26-413c-94b0-c713dfccf797",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Schweinfurt",
   "pseudoCompany": false,
@@ -19,13 +6,14 @@
   "name": "Schweinfurter Rundfunk Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "5f92cac9-0bb3-479b-9460-c9762f6611a5",
-  "controlDate": "2025-06-20T15:59:39.642Z",
+  "controlDate": "2025-12-17T14:06:00.361Z",
   "streetNumber": "10",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "97424",

@@ -2,7 +2,7 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 51.5,
+      "capitalShares": 100.0,
       "held": {
         "name": "Schweinfurter Rundfunk GmbH & Co. Studiobetriebs-KG",
         "squuid": "5c51b278-e414-4b62-823b-a24e62ac37e5"
@@ -18,6 +18,16 @@
         "squuid": "5f92cac9-0bb3-479b-9460-c9762f6611a5"
       },
       "squuid": "5fa2b887-30b8-4dac-a4de-153da1f1ad98",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Schweinfurter Rundfunk Administration GmbH",
+        "squuid": "6942b905-a342-4f8c-b61a-ff16b30f9139"
+      },
+      "squuid": "6942bbf0-23b5-40b1-9e7a-44490b2aa74e",
       "state": "active"
     }
   ],
@@ -36,6 +46,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
