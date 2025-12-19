@@ -27,7 +27,7 @@
   "name": "Stadtwerke Energie Jena-Pößneck GmbH",
   "naturalPerson": false,
   "squuid": "5f7c8229-ae7e-417e-b586-287598cf78a2",
-  "controlDate": "2025-06-25T08:59:22.496Z",
+  "controlDate": "2025-12-19T10:33:57.943Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -39,6 +39,48 @@
       "name": "TLM",
       "type": "organization",
       "fullName": "Thüringer Landesmedienanstalt"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 69.0,
+      "holder": {
+        "name": "Stadtwerke Jena GmbH",
+        "squuid": "685bbcd6-dab9-490e-a409-71843bb8a220"
+      },
+      "squuid": "685bbd41-e7ff-4913-818e-039b719f2d1d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.22,
+      "holder": {
+        "name": "Thüga AG",
+        "squuid": "685bbcec-6195-4636-bf95-36a5489c2686"
+      },
+      "squuid": "685bbd57-1d43-417d-8f3c-ee232dc4f1e2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.56,
+      "holder": {
+        "name": "Stadtmarketing Pößneck GmbH",
+        "squuid": "685bbd1d-3598-4b4d-ba35-12788af40818"
+      },
+      "squuid": "685bbd71-e8b9-407c-bcf3-b55638524f9d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.22,
+      "holder": {
+        "name": "BürgerEnergie eG",
+        "squuid": "685bbd09-f45e-4211-9aee-7487f05b491c"
+      },
+      "squuid": "685bbd89-abae-4ffd-8877-a870d05cd9c2",
+      "state": "active"
     }
   ]
 }

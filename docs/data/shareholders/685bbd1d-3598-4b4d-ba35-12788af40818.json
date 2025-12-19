@@ -1,10 +1,8 @@
 {
-  "name": "Stadtmarketing Pößneck GmbH",
-  "squuid": "685bbd1d-3598-4b4d-ba35-12788af40818",
   "owns": [
     {
       "type": "own",
-      "capitalShares": 5.9,
+      "capitalShares": 6.56,
       "held": {
         "name": "Stadtwerke Energie Jena-Pößneck GmbH",
         "squuid": "5f7c8229-ae7e-417e-b586-287598cf78a2"
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Pößneck",
+  "pseudoCompany": false,
+  "street": "Markt",
+  "name": "Stadtmarketing Pößneck GmbH",
+  "naturalPerson": false,
+  "squuid": "685bbd1d-3598-4b4d-ba35-12788af40818",
+  "controlDate": "2025-12-19T10:28:45.560Z",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +32,6 @@
       "type": "organization",
       "fullName": "Thüringer Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "07381"
 }
