@@ -9,6 +9,7 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "accessibilityUrl": "https://www.fantasy.de/",
+  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
@@ -22,6 +23,12 @@
   ],
   "name": "Radio Fantasy Classix",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -29,10 +36,10 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "description": "DAB + Programm. ",
-  "rfLicenseUntil": "28.02.2020",
-  "rfLicensed": "03.01.2012",
-  "rfLicenseFrom": "03.01.2012",
+  "description": "DAB + Programm Augsburg ",
+  "rfLicenseUntil": "01.08.2028",
+  "rfLicensed": "01.08.2018",
+  "rfLicenseFrom": "",
   "rfAddress": "Bahnhofstr. 29\t\n86150\t\nAugsburg\n",
   "accessibilityEmail": "radio@fantasy.de"
 }

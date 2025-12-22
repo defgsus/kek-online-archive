@@ -1,11 +1,7 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-    "name": "BLM",
-    "type": "organization",
-    "fullName": "Bayerische Landeszentrale für neue Medien"
-  },
-  "rfPublicPrivate": false,
+  "rfRepresentative": "Dr. Gertz, Roland ",
+  "state": "archived",
+  "squuid": "6932d4b2-57c8-4cd3-85e0-fce7714b5edf",
   "organization": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
     "name": "BLM",
@@ -13,7 +9,20 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "name": "Evangelische Funk-Agentur ",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
-  "squuid": "6932d4b2-57c8-4cd3-85e0-fce7714b5edf",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "rfLicensed": "02.10.2024",
+  "accessibilityEmail": "rharmsen@epv.de"
 }

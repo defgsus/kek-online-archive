@@ -1,4 +1,5 @@
 {
+  "rfRepresentative": "Maier, Stefan",
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-16ec-4797-a735-4c7ec0c7d5f0",
@@ -14,7 +15,7 @@
     {
       "type": "operate",
       "holder": {
-        "name": "PRAY Nürnberg e.V.",
+        "name": "Pray Nürnberg e.V.",
         "squuid": "5be1a6b6-2b13-4e2a-bed0-094a318d7e36"
       },
       "squuid": "5be1a6b9-f190-4c22-963b-fd47d6b34a16",
@@ -24,6 +25,12 @@
   "name": "Pray 92,9",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -31,11 +38,13 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "description": "Spartenanbieter Hit Radio N1 Nürnberg ",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
+  "rfAddress": "Kaiserslauterer Straße 11\n90441 Nürnberg",
   "accessibilityEmail": "info@radiopray.de"
 }

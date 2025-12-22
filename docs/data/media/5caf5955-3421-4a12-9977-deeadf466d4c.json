@@ -1,5 +1,5 @@
 {
-  "rfRepresentative": "Lothar Höher",
+  "rfRepresentative": "Christoph Rolf ",
   "state": "active",
   "squuid": "5caf5955-3421-4a12-9977-deeadf466d4c",
   "organization": {
@@ -23,6 +23,12 @@
   ],
   "name": "OTV (Oberpfalz TV)",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "tv",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -31,6 +37,7 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "description": "Lokalfernsehen",
+  "rfLicensed": "31.10.2023",
   "rfAddress": "Fleurystr. 9\n92224\nAmberg\n",
   "accessibilityEmail": "info@otv.de"
 }

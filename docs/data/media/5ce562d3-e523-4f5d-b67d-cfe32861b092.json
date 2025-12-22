@@ -9,6 +9,7 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "accessibilityUrl": "https://www.meinlieblingsradio.de/",
+  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
@@ -20,8 +21,14 @@
       "state": "active"
     }
   ],
-  "name": "Mein Lieblingsradio",
+  "name": "Fiesta Mania Radio",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -30,6 +37,9 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "description": "DAB-Programm. ",
+  "rfLicenseUntil": "15.10.2035",
+  "rfLicensed": "13.10.2025",
+  "rfLicenseFrom": "16.10.2025",
   "rfAddress": "Ulmenstr. 52h\n90443\nNürnberg\n",
   "accessibilityEmail": "studio@meinlieblingsradio.de"
 }

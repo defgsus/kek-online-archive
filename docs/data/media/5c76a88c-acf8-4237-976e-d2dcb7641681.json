@@ -1,4 +1,5 @@
 {
+  "rfRepresentative": "Berndl, Walter ",
   "state": "active",
   "squuid": "5c76a88c-acf8-4237-976e-d2dcb7641681",
   "organization": {
@@ -7,9 +8,27 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "accessibilityUrl": "http://www.oldiewelle.com/",
+  "accessibilityUrl": "https://niederbayern.oldiewelle.com/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Unser Radio Deggendorf Programmanbieter GmbH & Co. KG",
+        "squuid": "60094425-71cb-476a-93d8-5ff226b7f64f"
+      },
+      "squuid": "693acf21-8eb9-4eb7-9be3-acd6bf4ce787",
+      "state": "active"
+    }
+  ],
   "name": "Oldiewelle Niederbayern",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -17,8 +36,10 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "rfLicenseUntil": "15.04.2020",
-  "rfLicensed": "13.04.2017",
-  "rfLicenseFrom": "13.04.2017",
+  "description": "DAB-Only",
+  "rfLicenseUntil": "01.07.2028",
+  "rfLicensed": "29.05.2018",
+  "rfLicenseFrom": "",
+  "rfAddress": "Bahnhofstraße 28\n94469 Deggendorf",
   "accessibilityEmail": "info@funkhaus-passau.de"
 }

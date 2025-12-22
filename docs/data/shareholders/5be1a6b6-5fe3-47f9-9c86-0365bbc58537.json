@@ -75,7 +75,7 @@
       "type": "own",
       "capitalShares": 50.0,
       "held": {
-        "name": "BB RADIO Länderwelle Berlin/Brandenburg GmbH & Co. KG",
+        "name": "BB RADIO Länderwelle Berlin/Brandenburg GmbH & Co. Kommanditgesellschaft",
         "squuid": "5be1a6b6-9140-47b8-9534-b06634d69537"
       },
       "squuid": "5be1a6b7-d0bb-4431-9459-f057b634ec07",
@@ -179,16 +179,6 @@
         "squuid": "5be1a6b6-47c7-4c53-8de8-7eee915730cc"
       },
       "squuid": "5be1a6b8-efaf-46f4-a5e8-634a328431ec",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "held": {
-        "name": "Funkhaus Würzburg Studiobetriebs GmbH",
-        "squuid": "5be1a6b6-4277-4499-bdac-22d350982dff"
-      },
-      "squuid": "5c481a46-1004-4543-bc55-53e54c0b9c49",
       "state": "active"
     },
     {
@@ -316,7 +306,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "ARA Anbietergemeinschaft Radio Aktuell Anbietergesellschaft Mittelstand GmbH",
+        "name": "ARA ANBIETERGEMEINSCHAFT RADIO AKTUELL Anbietergesellschaft Mittelstand GmbH",
         "squuid": "5c481833-2d15-4e0b-8de1-2ee4254f767a"
       },
       "squuid": "5f96ae13-824e-4a20-a0ab-13db10191cbc",
@@ -326,7 +316,7 @@
       "type": "own",
       "capitalShares": 14.83,
       "held": {
-        "name": "Funkhaus Aschaffenburg GmbH & Co. Studiobetriebs KG",
+        "name": "Funkhaus Aschaffenburg GmbH & Co. Studiobetriebs-KG",
         "squuid": "5be1a6b6-a605-4423-ae1c-61cdc0b0de95"
       },
       "squuid": "5f96afdf-9b87-4fcb-85c1-e65c01d790a9",
@@ -451,6 +441,16 @@
       },
       "squuid": "6319a32c-aec4-4bcc-b70c-14308298fc47",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Funkhaus Würzburg Studiobetriebs-GmbH",
+        "squuid": "68f0d16d-a799-4dfc-9a89-995bd0ea457c"
+      },
+      "squuid": "690487d2-0adb-4cd7-acc8-36800de6472b",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -567,15 +567,6 @@
   ],
   "zipcode": "91925",
   "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "gong fm",
-        "squuid": "5be1a6b1-5016-4552-bfba-e3bdfdf29307"
-      },
-      "squuid": "5c7fb803-0277-401d-bdbb-cf10a6b3588f",
-      "state": "active"
-    },
     {
       "type": "operate",
       "held": {

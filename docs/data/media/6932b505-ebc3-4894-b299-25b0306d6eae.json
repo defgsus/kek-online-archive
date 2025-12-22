@@ -1,19 +1,43 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-    "name": "BLM",
-    "type": "organization",
-    "fullName": "Bayerische Landeszentrale für neue Medien"
-  },
-  "rfPublicPrivate": false,
+  "rfRepresentative": "Dürr, Andreas",
+  "state": "active",
+  "squuid": "6932b505-ebc3-4894-b299-25b0306d6eae",
   "organization": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
     "name": "BLM",
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "accessibilityUrl": "https://www.fantasy.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Fantasy GmbH",
+        "squuid": "5ce6b8e4-e971-4d1d-91fc-441cf0028a58"
+      },
+      "squuid": "6932b621-8d29-4196-aa72-2aa909c471b5",
+      "state": "active"
+    }
+  ],
   "name": "Radio Fantasy (Allgäu-Donau-Iller)",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
-  "squuid": "6932b505-ebc3-4894-b299-25b0306d6eae",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "DAB-Only",
+  "rfLicenseUntil": "01.04.2032",
+  "rfLicensed": "06.04.2022",
+  "rfAddress": "Bahnhofstraße 29\n86150 Augsburg"
 }

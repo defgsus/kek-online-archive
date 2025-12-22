@@ -10,12 +10,12 @@
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
   "accessibilityUrl": "http://www.horeb.org/",
-  "rfStatewide": false,
+  "rfStatewide": true,
   "operatedBy": [
     {
       "type": "operate",
       "holder": {
-        "name": "Internationale Christliche Rundfunkgemeinschaft (ICR) e.V.",
+        "name": "Internationale Christliche Rundfunkgemeinschaft e.V.",
         "squuid": "5be1a6b6-48df-4a08-8beb-1b5540eae2fa"
       },
       "squuid": "5be1a6b9-5240-43b6-b1e0-395715676878",
@@ -25,6 +25,12 @@
   "name": "Radio Horeb",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -32,12 +38,15 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfLicenseUntil": "30.06.2030",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
+  "rfLicensed": "13.02.2025",
+  "rfLicenseFrom": "01.01.2026",
   "rfAddress": "Dorf 6\t\n87538\t\nBalderschwang\n",
   "accessibilityEmail": "info@horeb.org"
 }

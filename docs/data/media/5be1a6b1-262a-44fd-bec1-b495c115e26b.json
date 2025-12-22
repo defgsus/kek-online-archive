@@ -15,7 +15,7 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Jazzstudio Nürnberg e.V.",
+        "name": "Jazz Studio Nürnberg e.V. - Vereinigung zur Pflege der Jazzmusik",
         "squuid": "5be1a6b6-b68f-4431-8181-4cd915282e8d"
       },
       "squuid": "5be1a6b9-d94a-4447-9dd0-979587fe0af6",
@@ -25,6 +25,12 @@
   "name": "Jazztime Nürnberg",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
   "rfSupervisingAuthority": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -32,6 +38,7 @@
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "description": "Spartenanbieter Radio F Nürnberg ",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",

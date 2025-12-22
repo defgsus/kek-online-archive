@@ -1,19 +1,42 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-    "name": "BLM",
-    "type": "organization",
-    "fullName": "Bayerische Landeszentrale für neue Medien"
-  },
-  "rfPublicPrivate": false,
+  "rfRepresentative": "Dr. Hock, Bernhard",
+  "state": "active",
+  "squuid": "693a9185-0879-4f0d-a974-85c4d41684a0",
   "organization": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
     "name": "BLM",
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "rt1.digital broadcast GmbH",
+        "squuid": "5be1a6b6-6486-4a28-9d02-2b02f103cc2f"
+      },
+      "squuid": "693a91fc-94be-4bbc-9e08-cb43540549e8",
+      "state": "active"
+    }
+  ],
   "name": "rt1 relax",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
-  "squuid": "693a9185-0879-4f0d-a974-85c4d41684a0",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "DAB-only",
+  "rfLicenseUntil": "01.02.2029",
+  "rfLicensed": "19.03.2019",
+  "rfAddress": "Curt-Frenzel-Straße 4\n86167 Augsburg"
 }

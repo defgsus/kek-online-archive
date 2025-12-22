@@ -1,19 +1,44 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-    "name": "BLM",
-    "type": "organization",
-    "fullName": "Bayerische Landeszentrale für neue Medien"
-  },
-  "rfPublicPrivate": false,
+  "rfRepresentative": "Ott, Johannes",
+  "state": "active",
+  "squuid": "6932b224-29d0-4352-a47a-9801cd475dd1",
   "organization": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
     "name": "BLM",
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
-  "name": "Gong 96,3 Ingolstadt",
+  "accessibilityUrl": "https://gong-ingolstadt.de/",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Gong 2000 Programmanbieter GmbH & Co. Hörfunk für München KG",
+        "squuid": "5be1a6b6-afdb-4d8d-9a1a-2837b541b32e"
+      },
+      "squuid": "6932b311-536d-4c83-83ce-ab05b986e056",
+      "state": "active"
+    }
+  ],
+  "name": "Gong 96.3 in Ingolstadt",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
-  "squuid": "6932b224-29d0-4352-a47a-9801cd475dd1",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "DAB-Only",
+  "rfLicenseUntil": "30.06.2033",
+  "rfLicensed": "29.06.2023",
+  "rfLicenseFrom": "01.07.2023",
+  "rfAddress": "Richard-Strauss-Straße 48 \n81667 München"
 }

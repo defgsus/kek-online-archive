@@ -1,19 +1,44 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-    "name": "BLM",
-    "type": "organization",
-    "fullName": "Bayerische Landeszentrale für neue Medien"
-  },
-  "rfPublicPrivate": false,
+  "rfRepresentative": "Ott, Johannes",
+  "state": "active",
+  "squuid": "693aa1ef-0a0a-4184-891f-1dadcb2ceaff",
   "organization": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
     "name": "BLM",
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "accessibilityUrl": "https://www.radiogong.de/089kult-das-neue-radio-fuer-muenchen",
+  "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Radio Gong 2000 Programmanbieter GmbH & Co. Hörfunk für München KG",
+        "squuid": "5be1a6b6-afdb-4d8d-9a1a-2837b541b32e"
+      },
+      "squuid": "693aa247-7de5-425a-9a97-058bd0a644e8",
+      "state": "active"
+    }
+  ],
   "name": "089 Kult",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
-  "squuid": "693aa1ef-0a0a-4184-891f-1dadcb2ceaff",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "DAB-Only",
+  "rfLicenseUntil": "23.06.2032",
+  "rfLicensed": "12.08.2022",
+  "rfAddress": "Richard-Strauss-Straße 48\n81677 München",
+  "accessibilityEmail": "info@radiogong.de"
 }

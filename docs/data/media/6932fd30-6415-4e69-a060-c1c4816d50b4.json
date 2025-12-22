@@ -1,19 +1,41 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-    "name": "BLM",
-    "type": "organization",
-    "fullName": "Bayerische Landeszentrale für neue Medien"
-  },
-  "rfPublicPrivate": false,
+  "rfRepresentative": "Drenger, Mirko",
+  "state": "active",
+  "squuid": "6932fd30-6415-4e69-a060-c1c4816d50b4",
   "organization": {
     "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
     "name": "BLM",
     "type": "organization",
     "fullName": "Bayerische Landeszentrale für neue Medien"
   },
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Antenne Deutschland GmbH & Co. KG",
+        "squuid": "6009538a-ac8c-48a9-bb13-240604fb3e4d"
+      },
+      "squuid": "6932fdb3-59bf-4860-9aa1-d02fce5d0013",
+      "state": "active"
+    }
+  ],
   "name": "Absolut Radio AI",
+  "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "radio",
-  "squuid": "6932fd30-6415-4e69-a060-c1c4816d50b4",
-  "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+    "name": "BLM",
+    "type": "organization",
+    "fullName": "Bayerische Landeszentrale für neue Medien"
+  },
+  "description": "Bundesweit ",
+  "rfLicensed": "16.01.2025",
+  "rfAddress": "Parkring 31\n85748 Garching b. München"
 }
