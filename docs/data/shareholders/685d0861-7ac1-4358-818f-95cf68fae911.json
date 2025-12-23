@@ -23,28 +23,94 @@
   "streetNumber": "55",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "68723"
+  "zipcode": "68723",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Gregor Stemmle Verwaltungsgesellschaft mbH",
+        "squuid": "68764451-63f3-41ee-9d9d-be277bfa05d1"
+      },
+      "squuid": "68764529-13aa-4cae-a0d4-943b6e01524d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 52.0,
+      "holder": {
+        "name": "Stemmle, Gregor",
+        "squuid": "5ef2079e-f328-4165-b6d3-18d678166442"
+      },
+      "squuid": "6876453f-2889-4854-a8b2-2addffa77a00",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.0,
+      "holder": {
+        "name": "Stemmle, Ben-Arthur",
+        "squuid": "6876446f-b778-4cd7-bfa1-ba85a609dec2"
+      },
+      "squuid": "68764551-d07f-4327-97eb-d688fb71c7bc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.0,
+      "holder": {
+        "name": "Stemmle, John",
+        "squuid": "68764487-d566-49f0-a679-1ffbe1b4e6be"
+      },
+      "squuid": "68764563-3f5c-4820-bb6a-94151de20887",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.0,
+      "holder": {
+        "name": "Stemmle, Leopold",
+        "squuid": "68764493-451a-4232-a513-9f0532386bcd"
+      },
+      "squuid": "6876458e-809f-4006-9278-8866465ca83c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.0,
+      "holder": {
+        "name": "Stemmle, Paula",
+        "squuid": "687644ae-cdb8-4bc6-b44a-4d99d79e7f45"
+      },
+      "squuid": "687645a0-0de6-448c-b32f-2ef1c2994692",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.0,
+      "holder": {
+        "name": "Stemmle, Tassilo",
+        "squuid": "687644b9-cbb8-4528-bb46-3ebc1df569f5"
+      },
+      "squuid": "687645b3-dbe8-44d8-a265-db971f5f19cc",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.0,
+      "holder": {
+        "name": "Stemmle-Przybisch, Carla ",
+        "squuid": "687644fc-6ad8-4f96-a7ac-40a74c2bb57c"
+      },
+      "squuid": "687645c9-62df-44ad-944e-be8a6eb8e5e4",
+      "state": "active"
+    }
+  ]
 }

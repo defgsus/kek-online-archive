@@ -1,13 +1,40 @@
 {
   "name": "WGB Handels- und Beteiligungs GmbH",
   "squuid": "69380cc3-5f4f-48f7-88af-3cbab96e94ce",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 40.67,
+      "held": {
+        "name": "Radio Karlsruhe Verwaltungs GmbH",
+        "squuid": "5f3676a4-7221-4dba-be65-4439d46fe8ae"
+      },
+      "squuid": "6938364b-5932-4f3b-b5a7-e2cc8fcfca95",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.67,
+      "held": {
+        "name": "Radio Karlsruhe GmbH & Co. KG",
+        "squuid": "5be1a6b6-db3d-4f4f-813b-126e135cf064"
+      },
+      "squuid": "6938369f-7ede-4740-8184-f757461f75ac",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ]
 }
