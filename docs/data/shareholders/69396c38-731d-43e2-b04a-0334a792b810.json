@@ -1,13 +1,30 @@
 {
   "name": "Sixt Management Holding GmbH",
   "squuid": "69396c38-731d-43e2-b04a-0334a792b810",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "held": {
+        "name": "crossventures GmbH",
+        "squuid": "69259a5b-0699-4c53-984c-7c79781b93e0"
+      },
+      "squuid": "69396c89-f839-4285-b512-6ec8082a7e55",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

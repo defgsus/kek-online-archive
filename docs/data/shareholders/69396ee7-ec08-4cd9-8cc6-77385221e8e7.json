@@ -1,13 +1,31 @@
 {
   "name": "Rudolf Fuchs Verwaltungs SE",
   "squuid": "69396ee7-ec08-4cd9-8cc6-77385221e8e7",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Rudolf Fuchs SE & Co. KG",
+        "squuid": "6925d8ab-7107-47fe-9214-672efc2447d3"
+      },
+      "squuid": "69396f5e-7ef6-4638-9035-de66da30ce59",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

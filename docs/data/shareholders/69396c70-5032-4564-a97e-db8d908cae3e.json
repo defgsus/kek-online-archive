@@ -1,13 +1,30 @@
 {
   "name": "VHB digital GmbH",
   "squuid": "69396c70-5032-4564-a97e-db8d908cae3e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "crossventures GmbH",
+        "squuid": "69259a5b-0699-4c53-984c-7c79781b93e0"
+      },
+      "squuid": "69396cb6-d4e4-410d-916e-8f58994ad4e4",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

@@ -1,13 +1,42 @@
 {
   "name": "Rall, Dr. Claudius Alexander",
   "squuid": "69393bbc-db72-49a9-8a20-1bdeac9e039b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.76,
+      "held": {
+        "name": "Radio RT 4 Verwaltungs-GmbH",
+        "squuid": "5ef314c8-cb90-4e80-83ba-bb85608e5223"
+      },
+      "squuid": "69393c54-db55-46d5-bd2d-81b0c60250ba",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ]
 }

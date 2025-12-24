@@ -1,5 +1,6 @@
 {
   "name": "Werwigk, Dr. Claudius",
+  "pseudoCompany": false,
   "squuid": "681b6ed4-b39f-489b-baa4-827a0af9c6ad",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Stuttgart",
   "state": "active",
   "organizations": [
     {
@@ -24,6 +26,13 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

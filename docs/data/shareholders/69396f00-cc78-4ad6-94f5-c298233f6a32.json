@@ -1,13 +1,30 @@
 {
   "name": "Streubesitz an der Rudolf Fuch SE & Co. KG",
   "squuid": "69396f00-cc78-4ad6-94f5-c298233f6a32",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Rudolf Fuchs SE & Co. KG",
+        "squuid": "6925d8ab-7107-47fe-9214-672efc2447d3"
+      },
+      "squuid": "69396f7e-3242-45d9-8412-a2645bd0f29c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

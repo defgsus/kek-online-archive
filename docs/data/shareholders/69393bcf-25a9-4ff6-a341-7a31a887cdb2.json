@@ -1,13 +1,42 @@
 {
   "name": "Rall, Titus Armin",
   "squuid": "69393bcf-25a9-4ff6-a341-7a31a887cdb2",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 1.75,
+      "held": {
+        "name": "Radio RT 4 Verwaltungs-GmbH",
+        "squuid": "5ef314c8-cb90-4e80-83ba-bb85608e5223"
+      },
+      "squuid": "69393c21-b635-440b-b046-eedab826a4eb",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
+      "type": "organization",
+      "fullName": "Landesmedienanstalt Saarland"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ]
 }
