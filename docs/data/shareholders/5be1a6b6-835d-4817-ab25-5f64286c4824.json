@@ -1,47 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 70.0,
-      "held": {
-        "name": "RSA Radio GmbH & Co. KG",
-        "squuid": "5be1a6b6-7545-4838-8317-b3d9812ff6f1"
-      },
-      "squuid": "5be1a6b7-011b-4eda-9070-8f8ad6aaedc2",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 56.0,
-      "held": {
-        "name": "Allgäu-TV GmbH & Co. KG",
-        "squuid": "5cab6a19-b235-49e1-abfe-578e329004c0"
-      },
-      "squuid": "5cab6b8a-0285-4337-afc3-cb6382fe7f90",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 56.0,
-      "held": {
-        "name": "Allgäu-TV Beteiligungs- und Verwaltungs GmbH",
-        "squuid": "5f7721ce-3b10-4b61-bd97-b6e5b9ee8fdd"
-      },
-      "squuid": "5f896034-8152-4f6a-8621-ab9820e0f9ac",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 70.0,
-      "held": {
-        "name": "RSA Radio Beteiligungs GmbH",
-        "squuid": "5f96caef-7c46-4b27-b62c-532b76bfd906"
-      },
-      "squuid": "6053817d-c4d3-4b44-88a6-6e6453ae30d8",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Kempten (Allgäu)",
   "pseudoCompany": false,
   "street": "Heisinger Straße",
@@ -52,28 +10,11 @@
   "streetNumber": "14",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "87437",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Allgäuer Zeitungsverlag GmbH",
-        "squuid": "5be1a6b6-9e2f-4de5-839b-a9064817ea96"
-      },
-      "squuid": "5cab6bee-57d7-4430-911a-5276e1a949fe",
-      "state": "active"
-    }
-  ]
+  "zipcode": "87437"
 }
