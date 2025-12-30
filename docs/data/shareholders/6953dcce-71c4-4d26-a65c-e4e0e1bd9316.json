@@ -1,0 +1,29 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "supplierConsortium": true,
+  "street": "Billstedter Hauptstraße ",
+  "name": "Anbietergemeinschaft Radio Nord e.V.",
+  "squuid": "6953dcce-71c4-4d26-a65c-e4e0e1bd9316",
+  "streetNumber": "85",
+  "organizations": [
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "22111",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Radio Deck 1",
+        "squuid": "6953dc48-4ac9-41f8-a9d0-bd521dbe5d81"
+      },
+      "squuid": "6953dddd-504c-42ff-bfb6-9eec55f004e1",
+      "state": "active"
+    }
+  ]
+}
