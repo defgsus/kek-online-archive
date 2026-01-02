@@ -1,13 +1,30 @@
 {
   "name": "Stadt Pößmeck",
   "squuid": "69452914-afc0-4655-9227-f04d92d830c7",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Stadtmarketing Pößneck GmbH",
+        "squuid": "685bbd1d-3598-4b4d-ba35-12788af40818"
+      },
+      "squuid": "69452931-c906-4ea6-ac8a-090bd8a3241f",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Thüringer Landesmedienanstalt"
     }
   ]
 }
