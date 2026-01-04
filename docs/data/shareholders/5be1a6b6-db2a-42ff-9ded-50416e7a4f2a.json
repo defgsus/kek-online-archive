@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Nürnberg",
   "pseudoCompany": false,
   "street": "Dagmarstraße",
@@ -9,37 +9,12 @@
   "streetNumber": "14",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "90482",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Camillo 92,9",
-        "squuid": "5be1a6b1-7cb0-4c45-acc8-7b51e294b37d"
-      },
-      "squuid": "5be1a6b9-a3ea-4d88-a376-534b54fec32c",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.camillo929.de",
-        "squuid": "5f8eedd5-6349-4910-a62d-0f86665464a9"
-      },
-      "squuid": "5f8eedfe-2093-4646-87b9-99bdfee2fadf",
-      "state": "active"
-    }
-  ],
   "credits": "BLM"
 }

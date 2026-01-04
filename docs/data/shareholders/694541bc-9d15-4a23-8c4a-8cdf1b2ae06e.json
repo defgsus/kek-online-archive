@@ -1,13 +1,30 @@
 {
   "name": "Südbauträger Wohn- und Siedlungsbaugesellschaft mbH ",
   "squuid": "694541bc-9d15-4a23-8c4a-8cdf1b2ae06e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "München Live TV Fernsehen GmbH & Co. KG",
+        "squuid": "5be1a6b6-528c-4d6f-a94d-5b2d81a28258"
+      },
+      "squuid": "69454239-8792-4533-b3d6-93764fed5c0e",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }

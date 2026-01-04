@@ -1,44 +1,19 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Nürnberg",
   "pseudoCompany": false,
-  "street": "Ernst-Sachs-Straße",
+  "street": "Schnieglinger Str.",
   "name": "Meilensteine Medien e.V.",
   "naturalPerson": false,
   "squuid": "5be1a6b6-8afd-40f7-a3c7-fb354e78883f",
-  "streetNumber": "18",
+  "streetNumber": "78",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "90441",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Radio Meilensteine",
-        "squuid": "5be1a6b1-d7af-4407-81a4-967477c45e95"
-      },
-      "squuid": "5be1a6b9-4519-495a-bad6-143def698167",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.radio-meilensteine.de",
-        "squuid": "5f92dba4-af20-4ff5-931b-e07fb064fbee"
-      },
-      "squuid": "5f92dbd5-5c4b-40ad-94fa-0f5a8b2c4a7e",
-      "state": "active"
-    }
-  ]
+  "zipcode": "90419"
 }
