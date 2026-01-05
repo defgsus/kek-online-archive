@@ -1,6 +1,4 @@
 {
-  "name": "Automatenmüller GmbH",
-  "squuid": "6943ec09-3ea2-422f-8aa4-05ec45777d85",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "Gluckstr.",
+  "name": "Automatenmüller GmbH",
+  "naturalPerson": false,
+  "squuid": "6943ec09-3ea2-422f-8aa4-05ec45777d85",
+  "controlDate": "2026-01-05T10:04:20.364Z",
+  "streetNumber": "7",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -97,5 +103,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "60318"
 }

@@ -1,6 +1,4 @@
 {
-  "name": "Sixt Management Holding GmbH",
-  "squuid": "69396c38-731d-43e2-b04a-0334a792b810",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Agrippinawerft",
+  "name": "Sixt Management Holding GmbH",
+  "naturalPerson": true,
+  "squuid": "69396c38-731d-43e2-b04a-0334a792b810",
+  "controlDate": "2026-01-05T11:14:01.261Z",
+  "streetNumber": "22",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +32,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
-  ]
+  ],
+  "zipcode": "50678"
 }
