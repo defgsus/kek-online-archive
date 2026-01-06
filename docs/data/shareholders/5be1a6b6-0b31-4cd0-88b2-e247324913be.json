@@ -44,12 +44,13 @@
   ],
   "state": "active",
   "city": "Frankfurt/M.",
+  "note": "vertreten durch die Geschäftsführer Stephan Schwenk und Tim Quandt (genannt Tim Lauth)",
   "pseudoCompany": false,
   "street": "Nibelungenplatz",
   "name": "The Radio Group Holding GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-0b31-4cd0-88b2-e247324913be",
-  "controlDate": "2025-06-27T09:28:41.294Z",
+  "controlDate": "2026-01-06T15:19:46.258Z",
   "streetNumber": "3",
   "organizations": [
     {
@@ -143,12 +144,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 74.0,
       "holder": {
         "name": "Schwenk Medien Holding GmbH",
         "squuid": "5be1a6b6-bb57-49cb-9c94-3a89e3ac01d0"
       },
       "squuid": "5be1a6b8-35b1-41df-a6d9-4fd224162ce3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "holder": {
+        "name": "Hans Nolte Familienstiftung",
+        "squuid": "6916e599-487a-49f0-817e-b6cc38177d68"
+      },
+      "squuid": "6916e5cd-271d-4752-afb5-8a3c2f77b75d",
       "state": "active"
     }
   ]

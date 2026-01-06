@@ -4,7 +4,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "TBD Service GmbH",
+        "name": "New Energy Service and Inspection GmbH",
         "squuid": "67655bef-9470-4af3-adac-a78c09bc637d"
       },
       "squuid": "67793452-ff5e-449b-911f-5d05d775837e",
@@ -18,7 +18,7 @@
   "name": "TBD Holding GmbH",
   "naturalPerson": false,
   "squuid": "67793435-21dc-46ab-9fb0-505abbcee282",
-  "controlDate": "2025-02-20T15:06:29.185Z",
+  "controlDate": "2026-01-06T12:17:52.604Z",
   "streetNumber": "34",
   "organizations": [
     {
@@ -45,5 +45,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "26446"
+  "zipcode": "26446",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "New Energy International SARL",
+        "squuid": "67b744d9-9774-4dbe-9eef-501e28243c9a"
+      },
+      "squuid": "67b744f3-ca2d-4203-af13-1c339ceac188",
+      "state": "active"
+    }
+  ]
 }
