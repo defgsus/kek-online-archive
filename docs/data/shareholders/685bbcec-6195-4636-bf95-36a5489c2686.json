@@ -1,10 +1,8 @@
 {
-  "name": "Thüga AG",
-  "squuid": "685bbcec-6195-4636-bf95-36a5489c2686",
   "owns": [
     {
       "type": "own",
-      "capitalShares": 20.0,
+      "capitalShares": 22.22,
       "held": {
         "name": "Stadtwerke Energie Jena-Pößneck GmbH",
         "squuid": "5f7c8229-ae7e-417e-b586-287598cf78a2"
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Nymphenburger Str.",
+  "name": "Thüga AG",
+  "naturalPerson": false,
+  "squuid": "685bbcec-6195-4636-bf95-36a5489c2686",
+  "controlDate": "2026-01-07T10:28:19.715Z",
+  "streetNumber": "39",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +32,6 @@
       "type": "organization",
       "fullName": "Thüringer Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "80335"
 }
