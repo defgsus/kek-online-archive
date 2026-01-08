@@ -1,44 +1,20 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "TW Wochenspiegel GmbH & Co. KG",
-        "squuid": "63da9599-bde4-4ab3-ad47-82cd6eee4bcb"
-      },
-      "squuid": "63da9661-5483-4811-8585-50bdac10b6b5",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Monschau",
   "pseudoCompany": false,
   "street": "Hans-Georg-Weiss-Str.",
   "name": "TW Wochenspiegel Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "63da95ac-8dce-4900-8cc2-327704ab48ed",
-  "controlDate": "2025-06-27T13:07:15.245Z",
+  "controlDate": "2026-01-08T11:40:45.290Z",
   "streetNumber": "7",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "52156",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "TW Wochenspiegel GmbH & Co. KG",
-        "squuid": "63da9599-bde4-4ab3-ad47-82cd6eee4bcb"
-      },
-      "squuid": "63da96f8-006c-4011-9deb-19e64fcd4131",
-      "state": "active"
-    }
-  ]
+  "zipcode": "52156"
 }
