@@ -4,16 +4,6 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Verlag Christliche Woche GmbH",
-        "squuid": "5be1a6b6-8ed9-4bb4-becb-71869b0b6dd9"
-      },
-      "squuid": "5be1a6b8-435d-48e7-9db7-81a0770faf09",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "Verlag Liboriusblatt GmbH",
         "squuid": "5eb55847-d67c-4f00-bdf9-78dd9f3005ed"
       },
@@ -29,12 +19,18 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-9e3e-46d7-87ad-de35939c6c2f",
-  "controlDate": "2025-06-28T11:16:26.073Z",
+  "controlDate": "2026-01-09T15:06:24.049Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "59067",
