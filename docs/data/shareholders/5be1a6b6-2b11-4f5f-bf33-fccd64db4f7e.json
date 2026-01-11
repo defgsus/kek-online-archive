@@ -329,6 +329,16 @@
       },
       "squuid": "67b742b0-87ca-41ac-956e-20b3e2dac267",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "held": {
+        "name": "Dobler & Co. GmbH",
+        "squuid": "5eb2b574-a5f4-4332-b31d-813162b5154d"
+      },
+      "squuid": "68f10b0c-c520-450c-a483-bef0294036a3",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -339,7 +349,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e",
-  "controlDate": "2025-06-28T13:47:17.062Z",
+  "controlDate": "2026-01-11T13:20:42.038Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -625,16 +635,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.96,
-      "holder": {
-        "name": "Wurm, Alfred",
-        "squuid": "5be1a6b6-6fff-4fd5-ad75-f35b0e692a3e"
-      },
-      "squuid": "5be1a6b7-4b9b-4fa5-a2b2-b6f00d0dd9ff",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 0.82,
       "holder": {
         "name": "Hannes, Berta",
@@ -812,6 +812,36 @@
         "squuid": "64f1acc0-acc3-44c7-9df9-2ccfdf880def"
       },
       "squuid": "64f1ad11-5c93-485b-a37c-a4aff59dce67",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.32,
+      "holder": {
+        "name": "Böttcher, Ulrike",
+        "squuid": "68c5ab8e-b2ac-4956-965a-96b24d2ccfb2"
+      },
+      "squuid": "68c5abc6-549c-4906-a89d-63c5f6a743c3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.32,
+      "holder": {
+        "name": "Wurm, Bettina",
+        "squuid": "68c5ab69-d611-4628-9e7e-125f2bb0e57f"
+      },
+      "squuid": "68c5abe6-01b3-437f-a5af-1552074fca47",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.32,
+      "holder": {
+        "name": "Wurm, Nicolaus",
+        "squuid": "68c5ab56-6122-46b7-8ea6-9ca73648a434"
+      },
+      "squuid": "68c5abf7-a4cd-43e8-b21d-7384ac94f5f2",
       "state": "active"
     }
   ]

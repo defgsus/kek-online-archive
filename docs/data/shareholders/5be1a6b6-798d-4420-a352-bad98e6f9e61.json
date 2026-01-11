@@ -1,13 +1,13 @@
 {
   "state": "active",
   "city": "Düsseldorf",
-  "note": "Keine Gesellschafterliste im Handelsregister hinterlegt",
+  "note": "",
   "pseudoCompany": false,
   "street": "Auf'm Tetelberg",
   "name": "Verlagsanstalt Handwerk GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-798d-4420-a352-bad98e6f9e61",
-  "controlDate": "2025-06-28T13:18:10.150Z",
+  "controlDate": "2026-01-11T13:14:21.913Z",
   "streetNumber": "7",
   "organizations": [
     {
@@ -37,5 +37,17 @@
       "state": "active"
     }
   ],
-  "credits": "IJK"
+  "credits": "IJK",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Streubesitz an der Verlagsanstalt Handwerk GmbH (zahlreiche Handwerkskammern und Handwerksverbände bzw. -organisationen in Deutschland)",
+        "squuid": "68623e6c-4008-4852-9060-857effb739ad"
+      },
+      "squuid": "68623ea4-458a-412e-9539-f4560be18f99",
+      "state": "active"
+    }
+  ]
 }

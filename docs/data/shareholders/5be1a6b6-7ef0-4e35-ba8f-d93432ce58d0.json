@@ -1,6 +1,19 @@
 {
-  "name": "Verleger-Holding Radio Bochum GmbH & Co. KG",
+  "state": "active",
   "pseudoCompany": false,
+  "name": "Verleger-Holding Radio Bochum GmbH & Co. KG",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7ef0-4e35-ba8f-d93432ce58d0",
+  "controlDate": "2026-01-11T13:55:34.536Z",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "credits": "LfM (Stand: 2/2018)",
   "ownedBy": [
     {
       "type": "own",
@@ -22,17 +35,5 @@
       "squuid": "5be1a6b8-7e8f-423a-bbfd-ca34a65ce393",
       "state": "active"
     }
-  ],
-  "squuid": "5be1a6b6-7ef0-4e35-ba8f-d93432ce58d0",
-  "credits": "LfM (Stand: 2/2018)",
-  "organizations": [
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
-    }
-  ],
-  "state": "active",
-  "naturalPerson": false
+  ]
 }
