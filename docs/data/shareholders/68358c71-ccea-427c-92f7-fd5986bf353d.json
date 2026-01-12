@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "68358c71-ccea-427c-92f7-fd5986bf353d",
-  "controlDate": "2025-06-12T07:15:37.735Z",
+  "controlDate": "2026-01-12T12:01:48.544Z",
   "streetNumber": "4a",
   "organizations": [
     {
@@ -88,5 +88,28 @@
       "fullName": "Medienanstalt Sachsen-Anhalt"
     }
   ],
-  "zipcode": "23795"
+  "zipcode": "23795",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Wachholtz Verwaltungsgesellschaft mbH",
+        "squuid": "684a7e4f-9362-4a4d-a311-5f9f37809ade"
+      },
+      "squuid": "684a7e79-f553-4561-9ade-625a23fa3a64",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Wachholtz, Ulrich",
+        "squuid": "684a7e5d-fe87-401b-9cf1-87f8d8f64bef"
+      },
+      "squuid": "684a7e96-ee3b-4f25-be4d-8b00c2fe7bbe",
+      "state": "active"
+    }
+  ]
 }

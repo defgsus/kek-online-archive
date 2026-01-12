@@ -1,19 +1,4 @@
 {
-  "name": "WarnerMedia Holdings, Inc. ",
-  "pseudoCompany": false,
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Warner Bros. Discovery, Inc.",
-        "squuid": "5be1a6b6-fde0-477e-bfdd-f31e32676b3b"
-      },
-      "squuid": "686bd7b5-da49-427b-8599-349ec695fe9f",
-      "state": "active"
-    }
-  ],
-  "squuid": "686bd6be-192a-4487-8201-8ee97003518b",
   "owns": [
     {
       "type": "own",
@@ -27,6 +12,11 @@
     }
   ],
   "state": "active",
+  "pseudoCompany": false,
+  "name": "WarnerMedia Holdings, Inc. ",
+  "naturalPerson": false,
+  "squuid": "686bd6be-192a-4487-8201-8ee97003518b",
+  "controlDate": "2026-01-12T12:41:36.050Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -39,5 +29,16 @@
       "type": "organization"
     }
   ],
-  "naturalPerson": false
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Warner Bros. Discovery, Inc.",
+        "squuid": "5be1a6b6-fde0-477e-bfdd-f31e32676b3b"
+      },
+      "squuid": "686bd7b5-da49-427b-8599-349ec695fe9f",
+      "state": "active"
+    }
+  ]
 }
