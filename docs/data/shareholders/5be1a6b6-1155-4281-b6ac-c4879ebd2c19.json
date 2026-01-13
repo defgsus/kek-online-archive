@@ -2,9 +2,9 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 30.2,
+      "capitalShares": 30.17,
       "held": {
-        "name": "Zeitungsverlag Oberbayern GmbH & Co. KG",
+        "name": "Zeitungsverlag Oberbayern GmbH & Co KG",
         "squuid": "5be1a6b6-baa5-4644-bd90-1f917d261023"
       },
       "squuid": "5be1a6b7-2fa1-495e-850c-95f8d4871b36",
@@ -84,7 +84,7 @@
       "type": "own",
       "capitalShares": 54.0,
       "held": {
-        "name": "Pressehaus Bintz Verlag GmbH & Co KG",
+        "name": "Pressehaus Bintz Verlag GmbH & Co. KG",
         "squuid": "5be1a6b6-8a85-4051-ab8c-3b6710166754"
       },
       "squuid": "5be1a6b8-a48a-4ce4-9d30-d029887c7c0c",
@@ -98,16 +98,6 @@
         "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
       },
       "squuid": "5be1a6b8-ced4-4bf5-a4ba-3cdfe97d9aef",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 30.17,
-      "held": {
-        "name": "Münchener Zeitungsverlag GmbH & Co. KG + Merkur tz Redaktions GmbH & Co. KG",
-        "squuid": "5c9a2dee-b94e-44e5-908a-e4b207c27a01"
-      },
-      "squuid": "5c9a329d-d5ae-437a-9c4e-9a7a2e16d86f",
       "state": "active"
     },
     {
@@ -189,7 +179,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-1155-4281-b6ac-c4879ebd2c19",
-  "controlDate": "2025-06-30T11:56:58.054Z",
+  "controlDate": "2026-01-13T11:47:07.710Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -445,16 +435,6 @@
       "state": "active"
     },
     {
-      "type": "own",
-      "capitalShares": 10.0,
-      "holder": {
-        "name": "von Hertlein, Ingrid",
-        "squuid": "5be1a6b6-1f93-4027-9348-9071bdc535f9"
-      },
-      "squuid": "5be1a6b7-f90a-4f34-9d53-ea52745fd02d",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -474,6 +454,26 @@
         "squuid": "5be1a6b6-ad71-43a1-9487-fc074b7dcd8f"
       },
       "squuid": "5eb13975-3964-4b76-9b1b-c0123d7df6a3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "von Hertlein, Dominik",
+        "squuid": "68627ba6-d726-4eb1-9802-33a418a612b5"
+      },
+      "squuid": "68627bdb-99aa-423b-8901-2888e6fbdb6c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.0,
+      "holder": {
+        "name": "von Hertlein, Sebastian",
+        "squuid": "68627bb6-2e02-438e-b66e-5400f74d0299"
+      },
+      "squuid": "68627bf1-5bab-4d8e-926f-8834df56bba1",
       "state": "active"
     }
   ]

@@ -1,13 +1,30 @@
 {
   "name": "CONTIGAS Deutsche Energie-AG",
   "squuid": "695e36ef-ea3b-4ba9-9a05-fc8e02a0a5d7",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 18.9,
+      "held": {
+        "name": "Thüga AG",
+        "squuid": "685bbcec-6195-4636-bf95-36a5489c2686"
+      },
+      "squuid": "695e3734-29ab-4884-893e-52efab959302",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Thüringer Landesmedienanstalt"
     }
   ]
 }
