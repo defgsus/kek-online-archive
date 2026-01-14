@@ -1,13 +1,31 @@
 {
   "name": "kulthitRadio Verwaltungs GmbH",
   "squuid": "695bb792-1d06-46fc-8e39-09a537863ae8",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "kulthitRadio GmbH & Co. Studiobetriebs KG",
+        "squuid": "619e5138-2fd5-41a6-8e2e-720a27ab085e"
+      },
+      "squuid": "695bb7b8-37b9-4322-8a0b-e68b9e6de327",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+      "name": "LFM NRW",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ]
 }

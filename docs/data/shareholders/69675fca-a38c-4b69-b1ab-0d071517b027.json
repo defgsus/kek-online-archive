@@ -1,0 +1,37 @@
+{
+  "name": "Telstra Group Ltd.",
+  "pseudoCompany": false,
+  "squuid": "69675fca-a38c-4b69-b1ab-0d071517b027",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "ACN 683 225 738 Pty Ltd.",
+        "squuid": "69675fa8-6e6f-4b6b-a250-6a9844c27979"
+      },
+      "squuid": "696761a4-7c18-4ad6-85c5-ac3c4cf150db",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "naturalPerson": false
+}

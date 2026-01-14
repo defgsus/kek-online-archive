@@ -1,40 +1,7 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 20.0,
-      "held": {
-        "name": "National Amusements, Inc.",
-        "squuid": "5be1a6b6-d3c9-42ef-b1ea-0f36a55e38bd"
-      },
-      "squuid": "606d5dab-007b-4f5d-96b4-42b5dbe57708",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "pseudoCompany": false,
   "name": "Shari E. Redstone Trust",
-  "naturalPerson": false,
-  "squuid": "606d5cb5-8abd-4883-a8eb-93fbe018c56f",
+  "pseudoCompany": false,
   "controlDate": "2025-06-23T10:21:40.159Z",
-  "organizations": [
-    {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
-    }
-  ],
   "ownedBy": [
     {
       "type": "own",
@@ -46,5 +13,16 @@
       "squuid": "606d5ea8-c3bb-4aa0-9bfc-6a7f2598d37d",
       "state": "active"
     }
-  ]
+  ],
+  "squuid": "606d5cb5-8abd-4883-a8eb-93fbe018c56f",
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "naturalPerson": false
 }

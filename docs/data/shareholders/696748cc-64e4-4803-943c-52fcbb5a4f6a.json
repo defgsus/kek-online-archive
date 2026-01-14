@@ -1,0 +1,47 @@
+{
+  "name": "Ellison Familie (Lawrence J. Ellison u. David Ellison)",
+  "pseudoCompany": false,
+  "squuid": "696748cc-64e4-4803-943c-52fcbb5a4f6a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 44.0,
+      "held": {
+        "name": "New Pluto Global Inc.",
+        "squuid": "696747ea-0fe6-44af-9148-78216e253330"
+      },
+      "squuid": "69674bba-a37b-471d-b772-02adf77feae8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 77.5,
+      "held": {
+        "name": "National Amusements, Inc.",
+        "squuid": "5be1a6b6-d3c9-42ef-b1ea-0f36a55e38bd"
+      },
+      "squuid": "69674c61-befa-4b1b-9eb9-2dd51264f2c2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "naturalPerson": true
+}

@@ -1,0 +1,47 @@
+{
+  "name": "RedBird Capital Partners",
+  "pseudoCompany": false,
+  "squuid": "6967488c-abfe-45f2-bd37-3ebc15876781",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "New Pluto Global Inc.",
+        "squuid": "696747ea-0fe6-44af-9148-78216e253330"
+      },
+      "squuid": "69674b9f-c87d-45f1-999b-58b0beccddee",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.5,
+      "held": {
+        "name": "National Amusements, Inc.",
+        "squuid": "5be1a6b6-d3c9-42ef-b1ea-0f36a55e38bd"
+      },
+      "squuid": "69674c4a-3823-4049-a5a6-09d86b609ce2",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "naturalPerson": false
+}
