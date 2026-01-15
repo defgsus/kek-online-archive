@@ -1,7 +1,16 @@
 {
+  "state": "active",
+  "city": "Radebeul",
+  "street": "Meißner Straße",
   "name": "MyTVplus Fernsehproduktions GmbH",
   "squuid": "64c10f04-6e02-41b1-9b8d-b95ea3bd679a",
+  "streetNumber": "161",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
       "name": "SLM",
@@ -9,7 +18,7 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
-  "state": "active",
+  "zipcode": "01445",
   "operates": [
     {
       "type": "operate",
@@ -18,6 +27,15 @@
         "squuid": "5c581406-3d7c-4a5a-a911-aee208c47151"
       },
       "squuid": "64c10f38-d459-4a01-b8da-20a2f83ae34a",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.mytvplus.de",
+        "squuid": "6968cd85-9d3f-403a-94aa-86d6f765759f"
+      },
+      "squuid": "6968cdc2-8861-44fa-9a32-bb6f57d91011",
       "state": "active"
     }
   ]

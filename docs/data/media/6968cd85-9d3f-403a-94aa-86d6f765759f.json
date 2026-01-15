@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "6968cd85-9d3f-403a-94aa-86d6f765759f",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "MyTVplus Fernsehproduktions GmbH",
+        "squuid": "64c10f04-6e02-41b1-9b8d-b95ea3bd679a"
+      },
+      "squuid": "6968cdc2-8861-44fa-9a32-bb6f57d91011",
+      "state": "active"
+    }
+  ],
+  "name": "www.mytvplus.de",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2026-01-15T11:20:49.436Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

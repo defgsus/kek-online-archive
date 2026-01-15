@@ -1,13 +1,29 @@
 {
   "name": "SDL Alpha Zweite Beteiligungs-GmbH",
   "squuid": "6967d847-b4de-4057-a572-d3eac5d9ecdf",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "SDL Lambda Beteiligungs-GmbH",
+        "squuid": "68f7403f-5c84-4592-99d5-fa720068f54f"
+      },
+      "squuid": "6967d882-d921-4ce1-95ab-299b44e84ac3",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
