@@ -3,14 +3,19 @@
   "city": "Berlin",
   "supplierConsortium": true,
   "pseudoCompany": false,
-  "street": "Gernotstr.",
+  "street": "Boxhagener Str.",
   "name": " Radio Netzwerk Berlin e.V.",
   "naturalPerson": false,
-  "co": "",
+  "co": "c/o Diana McCarty",
   "squuid": "5cb4780d-bd31-4e39-92a1-070a48e6a5ee",
   "controlDate": "2021-12-07T14:12:51.163Z",
-  "streetNumber": "36",
+  "streetNumber": "109",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
       "name": "mabb",
@@ -18,7 +23,7 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "10365 Berlin",
+  "zipcode": "10245",
   "operates": [
     {
       "type": "operate",
@@ -27,6 +32,15 @@
         "squuid": "5cb478f7-e0cd-4ab7-aae7-adec6127e2f0"
       },
       "squuid": "5cb47c70-b7f4-4878-b5fc-7d74d3d71eb3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radionetzwerkberlin.org",
+        "squuid": "696a0e59-4feb-4596-a8e9-405f41309187"
+      },
+      "squuid": "696a0eb6-2b26-4532-acc3-115d6894fa34",
       "state": "active"
     }
   ]

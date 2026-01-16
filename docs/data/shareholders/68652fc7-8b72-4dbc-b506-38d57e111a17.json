@@ -1,9 +1,18 @@
 {
-  "name": "Burghardt, Steven",
-  "pseudoCompany": false,
-  "squuid": "68652fc7-8b72-4dbc-b506-38d57e111a17",
   "state": "active",
+  "city": "Dresden",
+  "pseudoCompany": false,
+  "street": "An der Prießnitzaue ",
+  "name": "Burghardt, Steven",
+  "naturalPerson": true,
+  "squuid": "68652fc7-8b72-4dbc-b506-38d57e111a17",
+  "streetNumber": "17a",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
       "name": "SLM",
@@ -11,6 +20,7 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ],
+  "zipcode": "01328 ",
   "operates": [
     {
       "type": "operate",
@@ -20,7 +30,15 @@
       },
       "squuid": "68652fdc-17c8-492e-8783-c654e2ec36df",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.primal.fm",
+        "squuid": "696a245a-a615-4a96-acf7-2a842a99a9fb"
+      },
+      "squuid": "696a2491-0431-49fa-b8de-3a14b937b16e",
+      "state": "active"
     }
-  ],
-  "naturalPerson": true
+  ]
 }
