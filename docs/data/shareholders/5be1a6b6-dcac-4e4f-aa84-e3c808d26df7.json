@@ -4,7 +4,7 @@
       "type": "own",
       "capitalShares": 1.56,
       "held": {
-        "name": "Südwestdeutsche Medien Holding GmbH",
+        "name": "Südwestdeutsche Medienholding GmbH",
         "squuid": "5be1a6b6-f0b4-4918-a667-d5f8c5d968d0"
       },
       "squuid": "5be1a6b8-b953-4c4a-a0fa-9c6a9c56d7df",
@@ -62,11 +62,6 @@
   "controlDate": "2026-01-05T10:30:36.227Z",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
@@ -90,18 +85,6 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     {
-      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "Medienanstalt RLP",
-      "type": "organization",
-      "fullName": "Medienanstalt Rheinland-Pfalz"
-    },
-    {
-      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "Medienanstalt Hessen",
-      "type": "organization",
-      "fullName": "Medienanstalt Hessen"
-    },
-    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -112,12 +95,6 @@
       "name": "LFK",
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
-    },
-    {
-      "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-      "name": "brema",
-      "type": "organization",
-      "fullName": "Bremische Landesmedienanstalt"
     },
     {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -132,12 +109,6 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -148,18 +119,6 @@
       "name": "MA HSH",
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
-    },
-    {
-      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
-      "name": "MSA",
-      "type": "organization",
-      "fullName": "Medienanstalt Sachsen-Anhalt"
-    },
-    {
-      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-      "name": "NLM",
-      "type": "organization",
-      "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
   "zipcode": "78727",
@@ -247,7 +206,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 3.42,
+      "capitalShares": 0.68,
       "holder": {
         "name": "Wein, Gerold",
         "squuid": "5be1a6b6-5300-4813-b74f-fd62ea780b03"
@@ -814,6 +773,46 @@
         "squuid": "6942b0c4-74ec-4c09-9d93-bb3a7fa17766"
       },
       "squuid": "6942b101-7bdd-4bce-9ff0-27636efff969",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.68,
+      "holder": {
+        "name": "Wein, Arnleif",
+        "squuid": "695b9331-232b-4898-85c5-6135e351b3d5"
+      },
+      "squuid": "695b9376-089c-4ae1-94b1-674c6337b96e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.68,
+      "holder": {
+        "name": "Wein, Heidrun",
+        "squuid": "695b934b-aa58-4ef3-8056-4c15c818616d"
+      },
+      "squuid": "695b9399-caa8-4e5a-b80c-b5955fb4c9e6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.68,
+      "holder": {
+        "name": "Wein, Freya",
+        "squuid": "695b92fe-5a99-40d2-ab9d-6e81ddb9776d"
+      },
+      "squuid": "695b93b4-6ea6-439b-a5d7-7fb6e651b731",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.68,
+      "holder": {
+        "name": "Wein, Markolf",
+        "squuid": "695b931b-b38d-4dff-9f25-979dc318b030"
+      },
+      "squuid": "695b93cb-96b4-4ebf-a4d3-bfa8951f4c41",
       "state": "active"
     }
   ]

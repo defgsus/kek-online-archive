@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/25",
   "squuid": "6634f8bc-b0f0-49c6-9d64-278a2ac03bbb",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -30,12 +31,18 @@
   "rfPublicPrivate": false,
   "type": "online",
   "controlDate": "2026-01-06T11:35:48.213Z",
-  "onlineIVWPI": 0,
+  "onlineIVWPI": 361400,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
   "description": "Überregionale Inhalte des Portals von der Zentralredaktion der Ippen-Verlagsgruppe München (Ippen Digital GmbH & Co. KG)",
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  },
   "onlineComments": "Nutzungsdaten siehe auch unter www.ippen.media"
 }

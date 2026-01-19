@@ -1,13 +1,30 @@
 {
   "name": "Richarz, Peter",
   "squuid": "695b9e2a-ac0e-4711-9134-f0ec955d6e21",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "radical moves GmbH",
+        "squuid": "69396c52-2fc5-492d-bc3d-57f682e7b03b"
+      },
+      "squuid": "695b9e56-5369-4112-995a-ab98101ea7d6",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

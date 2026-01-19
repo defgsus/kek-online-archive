@@ -1,15 +1,28 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/25",
   "squuid": "5f2174f5-5e71-4cf4-9e51-7c1d4017e696",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "name": "www.ee-fernsehen.de",
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Ippen Digital GmbH & Co. KG",
+        "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff"
+      },
+      "squuid": "696df2c9-3c84-47fc-82d1-4def45dae9b6",
+      "state": "active"
+    }
+  ],
+  "name": "www.absolutfussball.com",
   "rfPublicPrivate": false,
   "type": "online",
   "controlDate": "2026-01-18T12:41:57.662Z",
+  "onlineIVWPI": 872900,
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

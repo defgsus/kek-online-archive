@@ -2,14 +2,31 @@
   "name": "Grenke, Wolfgang",
   "pseudoCompany": false,
   "squuid": "5be1a6b6-4989-4ef4-aaef-affba20e99a6",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "WGB Handels- und Beteiligungs GmbH",
+        "squuid": "69380cc3-5f4f-48f7-88af-3cbab96e94ce"
+      },
+      "squuid": "695ba081-b74b-4be7-8f07-0431ec1bab9e",
+      "state": "active"
+    }
+  ],
   "city": "Baden-Baden",
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
   "naturalPerson": true

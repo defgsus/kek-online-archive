@@ -14,7 +14,7 @@
       "type": "own",
       "capitalShares": 13.23,
       "held": {
-        "name": "Südwestdeutsche Medien Holding GmbH",
+        "name": "Südwestdeutsche Medienholding GmbH",
         "squuid": "5be1a6b6-f0b4-4918-a667-d5f8c5d968d0"
       },
       "squuid": "5be1a6b8-d734-4684-b2c0-10a301c78d87",
@@ -29,6 +29,16 @@
       },
       "squuid": "5ee0f3ba-36db-495a-88cb-1ac53288f566",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Ebner GmbH",
+        "squuid": "5eb021e1-5dff-4c26-a5f2-5614fd012f71"
+      },
+      "squuid": "68f61680-3ea2-4854-b364-e9f7256253f8",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -41,11 +51,6 @@
   "squuid": "5be1a6b6-bd4c-4bfe-879c-155b46e2c5df",
   "controlDate": "2025-10-20T11:21:38.822Z",
   "organizations": [
-    {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -70,18 +75,6 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     {
-      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "Medienanstalt RLP",
-      "type": "organization",
-      "fullName": "Medienanstalt Rheinland-Pfalz"
-    },
-    {
-      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "Medienanstalt Hessen",
-      "type": "organization",
-      "fullName": "Medienanstalt Hessen"
-    },
-    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -92,12 +85,6 @@
       "name": "LFK",
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
-    },
-    {
-      "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-      "name": "brema",
-      "type": "organization",
-      "fullName": "Bremische Landesmedienanstalt"
     },
     {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -112,12 +99,6 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -128,18 +109,6 @@
       "name": "MA HSH",
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
-    },
-    {
-      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
-      "name": "MSA",
-      "type": "organization",
-      "fullName": "Medienanstalt Sachsen-Anhalt"
-    },
-    {
-      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-      "name": "NLM",
-      "type": "organization",
-      "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
   "zipcode": "89073",
@@ -148,7 +117,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 80.0,
       "holder": {
         "name": "Verlagsgruppe Ebner Ulm GmbH & Co. KG",
         "squuid": "5be1a6b6-581e-47b2-9825-26042dfbf904"
@@ -165,6 +134,16 @@
         "squuid": "5eb021e1-5dff-4c26-a5f2-5614fd012f71"
       },
       "squuid": "5eb0223b-d7b0-4d92-a01b-4307e15b33ea",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Schwarzwälder Bote GmbH & Co. KG",
+        "squuid": "5be1a6b6-dcac-4e4f-aa84-e3c808d26df7"
+      },
+      "squuid": "68f61b83-9ee5-4c33-af8c-d1cb2249c6c1",
       "state": "active"
     }
   ]

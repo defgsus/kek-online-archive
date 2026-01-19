@@ -23,11 +23,6 @@
   "streetNumber": "20",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
@@ -51,18 +46,6 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     {
-      "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-      "name": "Medienanstalt RLP",
-      "type": "organization",
-      "fullName": "Medienanstalt Rheinland-Pfalz"
-    },
-    {
-      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "Medienanstalt Hessen",
-      "type": "organization",
-      "fullName": "Medienanstalt Hessen"
-    },
-    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -73,12 +56,6 @@
       "name": "LFK",
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
-    },
-    {
-      "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-      "name": "brema",
-      "type": "organization",
-      "fullName": "Bremische Landesmedienanstalt"
     },
     {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -93,12 +70,6 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -109,43 +80,11 @@
       "name": "MA HSH",
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
-    },
-    {
-      "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
-      "name": "MSA",
-      "type": "organization",
-      "fullName": "Medienanstalt Sachsen-Anhalt"
-    },
-    {
-      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-      "name": "NLM",
-      "type": "organization",
-      "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
   "zipcode": "82031",
   "credits": "IJK",
   "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 45.76,
-      "holder": {
-        "name": "Friedmann, Dr. Johannes",
-        "squuid": "5be1a6b6-81d2-477a-bb3d-7b3d1cf2e808"
-      },
-      "squuid": "5be1a6b7-e41b-4964-ad5e-82e073559d96",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 31.16,
-      "holder": {
-        "name": "Szczesny-Friedmann, Anemone",
-        "squuid": "5be1a6b6-51e9-46a3-bf44-7eb50e5f7bfa"
-      },
-      "squuid": "5be1a6b7-7665-4d32-b214-f00016eb4b9a",
-      "state": "active"
-    },
     {
       "type": "own",
       "capitalShares": 0.22,
@@ -160,10 +99,20 @@
       "type": "own",
       "capitalShares": 22.86,
       "holder": {
-        "name": "Erbengemeinschaft Anneliese Friedmann (Anemone Szczesny-Friedmann, Dr. Johannes Friedmann)",
-        "squuid": "612f92b1-967a-44dd-a4c9-55372f44360e"
+        "name": "Friedmann, Dr. Oliver Sven",
+        "squuid": "6193bf8a-56e0-4584-bc96-bcd0a6f0dd79"
       },
-      "squuid": "612f92de-af1b-4512-802a-7f004c412987",
+      "squuid": "695be43f-3654-4348-af79-8e9fc4acdedf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 76.92,
+      "holder": {
+        "name": "Werner Friedmann Familienstiftung",
+        "squuid": "695be457-459b-4df9-9228-c2832a2e18fb"
+      },
+      "squuid": "695be488-5423-4bae-b014-27c25ef9fd58",
       "state": "active"
     }
   ]
