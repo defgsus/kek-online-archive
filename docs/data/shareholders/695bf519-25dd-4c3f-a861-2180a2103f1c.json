@@ -1,6 +1,4 @@
 {
-  "name": "Kurpfälzische Verlagsbeteiligungs GmbH",
-  "squuid": "695bf519-25dd-4c3f-a861-2180a2103f1c",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Ludwigshafen",
+  "pseudoCompany": false,
+  "street": "Amtsstr.",
+  "name": "Kurpfälzische Verlagsbeteiligungs GmbH",
+  "naturalPerson": false,
+  "squuid": "695bf519-25dd-4c3f-a861-2180a2103f1c",
+  "controlDate": "2026-01-20T13:02:57.099Z",
+  "streetNumber": "5-11",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -115,5 +121,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "67059"
 }

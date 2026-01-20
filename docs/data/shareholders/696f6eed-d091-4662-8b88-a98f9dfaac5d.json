@@ -1,0 +1,55 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Nordwest-Zeitung Verlagsgesellschaft mbH & Co KG",
+        "squuid": "5be1a6b6-b2f4-4429-bd16-474ad6037163"
+      },
+      "squuid": "696f6f51-0d36-4b3f-bda4-c4ff1268ccc1",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "August-Madsack-Str.",
+  "name": "Madsack Beteiligungsholding GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "696f6eed-d091-4662-8b88-a98f9dfaac5d",
+  "controlDate": "2026-01-20T12:12:36.421Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30559",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "696f71d6-6bd6-4f26-8f34-6274d4b82788",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Madsack Beteiligungs-Verwaltungs GmbH",
+        "squuid": "696f71ac-5070-4a84-80c6-3c72c70de46e"
+      },
+      "squuid": "696f71ef-c56d-42fb-9641-5895c0ae4d34",
+      "state": "active"
+    }
+  ]
+}
