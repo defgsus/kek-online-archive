@@ -1,4 +1,17 @@
 {
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "DRF Deutschland Fernsehen Produktions GmbH & Co. KG",
+        "squuid": "6978b906-474d-4c97-9258-2335c978be6a"
+      },
+      "squuid": "6978c6cc-566c-442e-8d2c-e96bb92c0ed0",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Koblenz",
   "pseudoCompany": false,
@@ -10,6 +23,11 @@
   "controlDate": "2025-05-28T15:29:28.555Z",
   "streetNumber": "28",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
       "name": "Medienanstalt RLP",
