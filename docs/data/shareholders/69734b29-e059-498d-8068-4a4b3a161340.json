@@ -1,13 +1,30 @@
 {
   "name": "PVG Geschäftsführungs-KG",
   "squuid": "69734b29-e059-498d-8068-4a4b3a161340",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Schwarz Corporate Solutions KG",
+        "squuid": "696df46b-3f72-4d9b-83f1-0c2ea6be6005"
+      },
+      "squuid": "69734be8-e432-4ec7-99dc-9e85a519139c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
