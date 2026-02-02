@@ -1,13 +1,30 @@
 {
   "name": "Blitzstart Holding AG",
   "squuid": "696f7577-021a-453d-8e11-c0dc8b403750",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Blitzstart Gründungs SE",
+        "squuid": "695b9ba8-6461-4a61-8ca7-d34ff631ef52"
+      },
+      "squuid": "696f75af-c368-4786-acfe-1cf7935bc5ea",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }
