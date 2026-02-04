@@ -1,6 +1,4 @@
 {
-  "name": "Medien Union dritte Vermögensverwaltung GmbH & Co. KG",
-  "squuid": "696f7dbd-272c-4ad3-baeb-13c6051a3264",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,15 @@
     }
   ],
   "state": "active",
+  "city": "Ludwigshafen",
+  "pseudoCompany": false,
+  "street": "Amtsstr.",
+  "name": "Medien Union dritte Vermögensverwaltung GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "696f7dbd-272c-4ad3-baeb-13c6051a3264",
+  "controlDate": "2026-02-04T12:13:24.962Z",
+  "streetNumber": "5-11",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -115,5 +122,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "67059"
 }
