@@ -1,6 +1,4 @@
 {
-  "name": "Blitzstart Holding AG",
-  "squuid": "696f7577-021a-453d-8e11-c0dc8b403750",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Maximiliansplatz",
+  "name": "Blitzstart GmbH",
+  "naturalPerson": false,
+  "squuid": "696f7577-021a-453d-8e11-c0dc8b403750",
+  "controlDate": "2026-02-10T16:49:37.754Z",
+  "streetNumber": "17",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +32,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
-  ]
+  ],
+  "zipcode": "80333"
 }

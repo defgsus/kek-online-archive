@@ -1,6 +1,4 @@
 {
-  "name": "SB Dienstleistung KG",
-  "squuid": "69734b67-1b84-464f-8f8c-8b4c4ef041a9",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,15 @@
     }
   ],
   "state": "active",
+  "city": "Neckarsulm",
+  "pseudoCompany": false,
+  "street": "Stiftsbergstr.",
+  "name": "SB Dienstleistung KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "69734b67-1b84-464f-8f8c-8b4c4ef041a9",
+  "controlDate": "2026-02-10T16:29:45.993Z",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -25,5 +32,6 @@
       "name": "DL",
       "type": "organization"
     }
-  ]
+  ],
+  "zipcode": "74172"
 }

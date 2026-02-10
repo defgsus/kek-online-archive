@@ -13,7 +13,7 @@
   ],
   "state": "active",
   "city": "Oberhausen",
-  "note": "Mantelprogrammanbieter für die NRW-Lokalradios; Ausstieg des Mitinhabers RTL Radio Deutschland GmbH angekündigt.",
+  "note": "Mantelprogrammanbieter für die NRW-Lokalradios",
   "pseudoCompany": false,
   "street": "Essener Straße",
   "name": "radio NRW GmbH",
@@ -71,20 +71,19 @@
       },
       "squuid": "62e27382-1da8-4182-9647-0c85ded1174d",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.radiomixtape.de",
+        "squuid": "698b1a2c-f6ee-40e0-a96f-c85916723483"
+      },
+      "squuid": "698b1a5c-1676-41e6-ad16-f729d1c4d921",
+      "state": "active"
     }
   ],
   "credits": "LfM (Stand: 2/2018)",
   "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 16.1,
-      "holder": {
-        "name": "RTL Radio Deutschland GmbH",
-        "squuid": "5be1a6b6-fa80-4709-a830-dea042b7476d"
-      },
-      "squuid": "5be1a6b7-506c-48e5-b5cf-ead875ebe0d8",
-      "state": "active"
-    },
     {
       "type": "own",
       "capitalShares": 59.0,
@@ -97,7 +96,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 24.9,
+      "capitalShares": 41.0,
       "holder": {
         "name": "Eigenbesitz der radio NRW GmbH",
         "squuid": "5ef5b122-92be-46ce-a25b-75d8b7996356"
