@@ -1,13 +1,29 @@
 {
   "name": "D. Schwarz Beteiligungs-KG",
   "squuid": "698b5e29-2723-434b-9515-bcc48b9a710b",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "SB Dienstleistung KG",
+        "squuid": "69734b67-1b84-464f-8f8c-8b4c4ef041a9"
+      },
+      "squuid": "698b5e90-0b82-4125-8eb7-8248d3272e34",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

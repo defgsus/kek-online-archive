@@ -1,13 +1,29 @@
 {
   "name": "PVG Beteiligungs-GmbH",
   "squuid": "698b606e-6b7c-404d-9ba0-0e0deb1e0110",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "PVG Geschäftsführungs-KG",
+        "squuid": "69734b29-e059-498d-8068-4a4b3a161340"
+      },
+      "squuid": "698b60b7-a03c-4c6d-b8db-8b05f82667f2",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
