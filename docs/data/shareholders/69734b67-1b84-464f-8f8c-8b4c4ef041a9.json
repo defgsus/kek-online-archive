@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "69734b67-1b84-464f-8f8c-8b4c4ef041a9",
-  "controlDate": "2026-02-10T16:29:45.993Z",
+  "controlDate": "2026-02-12T15:05:05.138Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -33,5 +33,50 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "PVG Geschäftsführungs-KG",
+        "squuid": "69734b29-e059-498d-8068-4a4b3a161340"
+      },
+      "squuid": "698b5daa-ee64-4307-87a1-5df9745991e8",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Delta-Stiftung",
+        "squuid": "698b5dc8-311f-4db3-a485-48407f98207a"
+      },
+      "squuid": "698b5e59-5d40-4c63-88f0-4316a12046e6",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SB Dienstleistung Verwaltungs-GmbH",
+        "squuid": "698b5df7-cc6c-4f71-af27-897c1ed21b74"
+      },
+      "squuid": "698b5e77-6f40-4a50-905c-96bd931f69d4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "D. Schwarz Beteiligungs-KG",
+        "squuid": "698b5e29-2723-434b-9515-bcc48b9a710b"
+      },
+      "squuid": "698b5e90-0b82-4125-8eb7-8248d3272e34",
+      "state": "active"
+    }
+  ]
 }
