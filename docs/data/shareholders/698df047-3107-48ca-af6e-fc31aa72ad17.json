@@ -1,13 +1,30 @@
 {
   "name": "Schwarz Beteiligungs-KG",
   "squuid": "698df047-3107-48ca-af6e-fc31aa72ad17",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "D. Schwarz Beteiligungs-KG",
+        "squuid": "698b5e29-2723-434b-9515-bcc48b9a710b"
+      },
+      "squuid": "698df0c7-35b6-400d-ac72-5a4a4d1898b3",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

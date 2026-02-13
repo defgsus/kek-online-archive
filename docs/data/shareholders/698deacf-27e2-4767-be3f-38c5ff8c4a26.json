@@ -1,13 +1,29 @@
 {
   "name": "Hoffmann, Hermann-Josef",
   "squuid": "698deacf-27e2-4767-be3f-38c5ff8c4a26",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "PVG Geschäftsführungs- und Verwaltungs-GmbH",
+        "squuid": "698b6050-0f97-4e93-bc2e-bf4435f85817"
+      },
+      "squuid": "698deb13-ff7e-4b82-8029-b58b72073852",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
