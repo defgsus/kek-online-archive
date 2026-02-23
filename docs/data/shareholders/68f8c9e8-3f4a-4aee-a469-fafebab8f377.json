@@ -1,13 +1,29 @@
 {
   "name": "Sohler, Armin",
   "squuid": "68f8c9e8-3f4a-4aee-a469-fafebab8f377",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.06,
+      "held": {
+        "name": "Dieter Schwarz TV-Vermögensverwaltung GmbH",
+        "squuid": "698defba-caa1-4606-875e-ca16e51c9079"
+      },
+      "squuid": "6992e348-aa62-4d64-8f50-531fd487f986",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

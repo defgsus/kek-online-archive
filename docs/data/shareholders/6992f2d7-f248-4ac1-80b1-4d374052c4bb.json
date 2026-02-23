@@ -1,13 +1,30 @@
 {
   "name": "Schwarz Geschäftsführungsgesellschaft mbH",
   "squuid": "6992f2d7-f248-4ac1-80b1-4d374052c4bb",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Schwarz Unternehmenstreuhand KG",
+        "squuid": "698deefe-1af7-4537-b84a-92502f6012a2"
+      },
+      "squuid": "6992f423-c51d-4fd6-8e0a-19383c661386",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

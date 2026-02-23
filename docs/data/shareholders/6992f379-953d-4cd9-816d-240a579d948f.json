@@ -1,13 +1,29 @@
 {
   "name": "Schreiber, Jürgen",
   "squuid": "6992f379-953d-4cd9-816d-240a579d948f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 14.29,
+      "held": {
+        "name": "Schwarz Unternehmenstreuhand KG",
+        "squuid": "698deefe-1af7-4537-b84a-92502f6012a2"
+      },
+      "squuid": "6992f450-92d8-4ce8-b3c9-9c54d1623f90",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
