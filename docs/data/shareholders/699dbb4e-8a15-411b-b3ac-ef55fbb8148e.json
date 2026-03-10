@@ -1,13 +1,29 @@
 {
   "name": "Dieter Schwarz Stiftung",
   "squuid": "699dbb4e-8a15-411b-b3ac-ef55fbb8148e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 99.999,
+      "held": {
+        "name": "Dieter Schwarz Stiftung gGmbH",
+        "squuid": "6992e2b8-79c9-42d0-99f4-450716734c80"
+      },
+      "squuid": "699dbb95-12e7-48e3-9376-bd377f11571a",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
