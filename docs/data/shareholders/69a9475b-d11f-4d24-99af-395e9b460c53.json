@@ -1,13 +1,30 @@
 {
   "name": "Profirm Beteiligungs GmbH",
   "squuid": "69a9475b-d11f-4d24-99af-395e9b460c53",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 19.96,
+      "held": {
+        "name": "Blitzstart Group Beteiligungs GmbH",
+        "squuid": "698b6861-01fa-4f95-846e-5863789e77fe"
+      },
+      "squuid": "69a947a9-eaf1-4a17-a5d2-08e7686667ff",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }
