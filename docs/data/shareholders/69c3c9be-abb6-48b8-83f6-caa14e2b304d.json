@@ -1,13 +1,30 @@
 {
   "name": "Kerscher, Martin",
   "squuid": "69c3c9be-abb6-48b8-83f6-caa14e2b304d",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "CR Equity Holding GmbH",
+        "squuid": "69a94771-f618-43be-99f7-ec1110e705f8"
+      },
+      "squuid": "69c3c9d7-7775-4374-bdef-4b43f81a3f18",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }

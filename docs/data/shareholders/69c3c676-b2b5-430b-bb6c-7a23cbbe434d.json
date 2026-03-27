@@ -1,13 +1,30 @@
 {
   "name": "Lotz, Dr. Thomas",
   "squuid": "69c3c676-b2b5-430b-bb6c-7a23cbbe434d",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "J J Beteiligungs GmbH",
+        "squuid": "69a9474a-df77-48a0-91a2-0c5f05582d16"
+      },
+      "squuid": "69c3c915-78be-41dd-a14a-ae828f2ed4cc",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ]
 }
