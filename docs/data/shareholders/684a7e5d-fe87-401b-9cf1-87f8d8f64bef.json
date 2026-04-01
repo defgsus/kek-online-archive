@@ -1,5 +1,6 @@
 {
   "name": "Wachholtz, Ulrich",
+  "pseudoCompany": false,
   "squuid": "684a7e5d-fe87-401b-9cf1-87f8d8f64bef",
   "owns": [
     {
@@ -11,8 +12,19 @@
       },
       "squuid": "684a7e96-ee3b-4f25-be4d-8b00c2fe7bbe",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Wachholtz Verwaltungsgesellschaft mbH",
+        "squuid": "684a7e4f-9362-4a4d-a311-5f9f37809ade"
+      },
+      "squuid": "685e5308-5789-4584-a9a3-699ba028c59c",
+      "state": "active"
     }
   ],
+  "city": "Neumünster",
   "state": "active",
   "organizations": [
     {
@@ -57,12 +69,6 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -80,5 +86,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Sachsen-Anhalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

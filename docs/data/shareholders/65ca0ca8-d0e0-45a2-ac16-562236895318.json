@@ -1,5 +1,6 @@
 {
   "name": "Fricke, Sven",
+  "pseudoCompany": false,
   "squuid": "65ca0ca8-d0e0-45a2-ac16-562236895318",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Lutterbek",
   "state": "active",
   "organizations": [
     {
@@ -68,12 +70,6 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -97,5 +93,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

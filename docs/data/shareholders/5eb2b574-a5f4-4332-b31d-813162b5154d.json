@@ -75,12 +75,6 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -109,12 +103,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 76.0,
       "holder": {
-        "name": "Dobler, Ewald",
-        "squuid": "5be1a6b6-a33d-4ebd-92a5-89a73c0f1159"
+        "name": "Gebrüder Gerstenberg GmbH & Co. KG",
+        "squuid": "5be1a6b6-8239-480f-89fa-73f710bd9009"
       },
-      "squuid": "5f0c19c2-c454-4f79-8591-6109f8d62390",
+      "squuid": "68f10ae3-b313-47db-b12e-fc4b0ae50a11",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 24.0,
+      "holder": {
+        "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+        "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
+      },
+      "squuid": "68f10b0c-c520-450c-a483-bef0294036a3",
       "state": "active"
     }
   ]

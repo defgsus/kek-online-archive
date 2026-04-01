@@ -1,5 +1,6 @@
 {
   "name": "Maack, Doris",
+  "pseudoCompany": false,
   "squuid": "69414cc3-5aa2-4a70-abec-3aa162d0ecbb",
   "owns": [
     {
@@ -21,8 +22,19 @@
       },
       "squuid": "69416d17-0b41-4144-bb14-f8d4d989a96c",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Winsener Anzeiger Ravens und Maack GmbH",
+        "squuid": "5be1a6b6-b19c-4964-abca-a2e89fa2fb67"
+      },
+      "squuid": "69663e40-bb4f-4b1b-81fc-ef84566600cc",
+      "state": "active"
     }
   ],
+  "city": "Winsen",
   "state": "active",
   "organizations": [
     {
@@ -78,12 +90,6 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -107,5 +113,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

@@ -1,5 +1,6 @@
 {
   "name": "Ducat, Laura",
+  "pseudoCompany": false,
   "squuid": "66472880-3ff3-403b-aa06-ced0cb6c5481",
   "owns": [
     {
@@ -21,8 +22,39 @@
       },
       "squuid": "664729f5-40ec-4a16-b6b5-c39bffe20131",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "Pressehaus Krause GmbH & Co KG (Goslar)",
+        "squuid": "5be1a6b6-2858-4d3f-bb6e-8a1ca59a86a4"
+      },
+      "squuid": "665d678e-857c-4e50-b45d-cd5b5dff5559",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.34,
+      "held": {
+        "name": "Krause Beteiligungs-GmbH",
+        "squuid": "5eb17b70-0930-432f-81a8-6419b601e367"
+      },
+      "squuid": "683d62ae-5da6-4292-b5bc-0f30be337b12",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.3,
+      "held": {
+        "name": "Medienverwaltung Stade-Goslar GmbH",
+        "squuid": "5eb95db7-5f37-466e-8c80-086eb3806b8a"
+      },
+      "squuid": "683d637a-0565-4699-917b-2bd356344b90",
+      "state": "active"
     }
   ],
+  "city": "Hamburg",
   "state": "active",
   "organizations": [
     {
@@ -78,12 +110,6 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -107,5 +133,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

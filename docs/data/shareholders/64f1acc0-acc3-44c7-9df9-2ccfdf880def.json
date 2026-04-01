@@ -1,9 +1,11 @@
 {
   "name": "Würger, Takis",
+  "pseudoCompany": false,
   "squuid": "64f1acc0-acc3-44c7-9df9-2ccfdf880def",
   "owns": [
     {
       "type": "own",
+      "capitalShares": 5.01,
       "held": {
         "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
         "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
@@ -12,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Wennigsen",
   "state": "active",
   "organizations": [
     {
@@ -67,12 +70,6 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -96,5 +93,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

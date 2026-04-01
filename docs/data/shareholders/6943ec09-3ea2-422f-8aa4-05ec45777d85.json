@@ -74,12 +74,6 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -104,5 +98,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "60318"
+  "zipcode": "60318",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kindler, Thomas",
+        "squuid": "695b8d09-b1af-4738-9afa-111e57db1067"
+      },
+      "squuid": "695b8d26-bce0-408f-820f-5839a89b24e0",
+      "state": "active"
+    }
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "Carlsen, Jochen",
+  "pseudoCompany": false,
   "squuid": "68358c39-7750-48eb-a2a6-f42ac7b901dd",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Kiel",
   "state": "active",
   "organizations": [
     {
@@ -57,12 +59,6 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -80,5 +76,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Sachsen-Anhalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

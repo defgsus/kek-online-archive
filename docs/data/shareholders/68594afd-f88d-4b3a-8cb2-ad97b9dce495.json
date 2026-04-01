@@ -1,5 +1,6 @@
 {
   "name": "Erbengemeinschaft Walter Elspass (Stefan Elspass, Linda Dashti)",
+  "pseudoCompany": false,
   "squuid": "68594afd-f88d-4b3a-8cb2-ad97b9dce495",
   "owns": [
     {
@@ -68,12 +69,6 @@
       "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -97,5 +92,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

@@ -42,16 +42,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 96.1293,
-      "held": {
-        "name": "80s80s Audio GmbH & Co. KG ",
-        "squuid": "5be1a6b6-ca2e-49f0-bf0e-f0ca2f445514"
-      },
-      "squuid": "5be1a6b7-8738-41ea-96ff-97d40ac9aa21",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 66.67,
       "held": {
         "name": "Privater Sächsischer Rundfunk GmbH",
@@ -216,12 +206,6 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     {
-      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-      "name": "MMV",
-      "type": "organization",
-      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
-    },
-    {
       "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
       "name": "TLM",
       "type": "organization",
@@ -350,6 +334,15 @@
       },
       "squuid": "693a9e30-ac00-4654-907b-13eff51edfb7",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.80s80s.de",
+        "squuid": "5f197354-829f-480d-bb42-1aefb9c3ab08"
+      },
+      "squuid": "69cd3858-3702-45e3-bd49-0f41fdd864a1",
+      "state": "active"
     }
   ],
   "credits": "ZAK, Az.: 17-25",
@@ -361,6 +354,7 @@
         "name": "MOIRA Rundfunk GmbH",
         "squuid": "5be1a6b6-cb90-4250-ad44-4516a6493f9a"
       },
+      "liabilitySum": 15.72,
       "squuid": "5be1a6b7-14da-4df7-89e7-a9110b17ac0b",
       "state": "active"
     },
@@ -371,6 +365,7 @@
         "name": "medien holding:nord gmbh",
         "squuid": "5be1a6b6-3a49-498e-ac48-b7da3a2e673b"
       },
+      "liabilitySum": 25.57,
       "squuid": "5be1a6b7-e887-4f56-a0ea-8ef06a25db71",
       "state": "active"
     },
@@ -381,6 +376,7 @@
         "name": "Lübecker Nachrichten GmbH",
         "squuid": "5be1a6b6-5f57-4d0e-8b37-abfb3fd9e0e9"
       },
+      "liabilitySum": 12.71,
       "squuid": "5be1a6b7-c51d-4e29-8805-8fb7607b76e0",
       "state": "active"
     },
@@ -391,6 +387,7 @@
         "name": "delta radio GmbH & Co. Kommanditgesellschaft",
         "squuid": "5be1a6b6-4545-4913-92f8-be49a3388ad9"
       },
+      "liabilitySum": 3.8,
       "squuid": "5be1a6b7-625b-4eb5-b107-499712c55d89",
       "state": "active"
     },
@@ -401,6 +398,7 @@
         "name": "NORA NordOstsee Radio GmbH & Co. KG",
         "squuid": "5be1a6b6-d080-44e2-a6f5-d56f8f5c4334"
       },
+      "liabilitySum": 3.52,
       "squuid": "5be1a6b7-fdec-49d8-9acf-4fe789a32cf6",
       "state": "active"
     },
@@ -411,6 +409,7 @@
         "name": "Pehlke, Stefanie",
         "squuid": "5be1a6b6-42ce-4c2f-ac80-52286ce84f37"
       },
+      "liabilitySum": 1.12,
       "squuid": "5be1a6b7-f413-4c8e-b117-8c3050e9b5ce",
       "state": "active"
     },
@@ -421,6 +420,7 @@
         "name": "Kieler Zeitung Verwaltungs GmbH & Co. Beteiligungs KG",
         "squuid": "5be1a6b6-1c0e-42af-9022-68be9f160fa8"
       },
+      "liabilitySum": 11.45,
       "squuid": "5be1a6b7-2cd3-4ba5-9391-0f609b4a9b78",
       "state": "active"
     },
@@ -431,6 +431,7 @@
         "name": "BO-Beteiligungsgesellschaft mbH",
         "squuid": "5be1a6b6-507d-43be-9b5d-f5c65a8235e2"
       },
+      "liabilitySum": 16.32,
       "squuid": "5be1a6b7-0997-47aa-9aed-d6f86b18d72d",
       "state": "active"
     },
@@ -441,6 +442,7 @@
         "name": "Fehmarnsches Tageblatt Burg-Verlag GmbH & Co KG",
         "squuid": "5be1a6b6-3857-4d8f-b93f-33512e4cd934"
       },
+      "liabilitySum": 0.25,
       "squuid": "5be1a6b7-45e2-462e-9a8a-6ef6c04b3612",
       "state": "active"
     },
@@ -451,6 +453,7 @@
         "name": "C. H. Wäser KG GmbH & Co",
         "squuid": "5be1a6b6-3dbb-4e6c-a7e2-21bd6034727a"
       },
+      "liabilitySum": 1.49,
       "squuid": "5be1a6b7-5a03-45db-a658-552bb986836e",
       "state": "active"
     },
@@ -461,6 +464,7 @@
         "name": "C.D.C. Heydorns Immobiliengesellschaft mbH",
         "squuid": "5be1a6b6-a32c-4753-8627-e04281f49dc3"
       },
+      "liabilitySum": 0.48,
       "squuid": "5be1a6b7-7968-4356-8d3b-5d65bbb02028",
       "state": "active"
     },
@@ -471,6 +475,7 @@
         "name": "Stümpert, Anneliese Gertrud",
         "squuid": "5be1a6b6-d323-420c-a1c4-b4488f7659cb"
       },
+      "liabilitySum": 2.48,
       "squuid": "5be1a6b7-79ef-4dc8-be2f-485fe4a14279",
       "state": "active"
     },
@@ -481,6 +486,7 @@
         "name": "Mäder Beteiligungs-GmbH",
         "squuid": "5be1a6b6-cbb1-4abc-9b08-6cdb53d159f7"
       },
+      "liabilitySum": 0.13,
       "squuid": "5be1a6b7-c02c-4e2b-8e70-74d7b6ea1956",
       "state": "active"
     },
@@ -491,6 +497,7 @@
         "name": "Poelmann, Rainer",
         "squuid": "5be1a6b6-8f2c-4451-8fd3-72a88387535b"
       },
+      "liabilitySum": 0.8,
       "squuid": "5be1a6b7-5489-4ede-87ac-dc8f14df39e3",
       "state": "active"
     },
@@ -501,6 +508,7 @@
         "name": "Radio 5.0 GmbH & Co. KG",
         "squuid": "5de914b1-8fcf-4d26-b486-e736eb5ef69a"
       },
+      "liabilitySum": 0.68,
       "squuid": "5f080d4f-e9f4-43ec-8933-c955c90ff5b6",
       "state": "active"
     },
@@ -533,6 +541,7 @@
         "name": "Ziegenbein, Marlies",
         "squuid": "60102345-4c6b-4900-a6e3-2ea53933ce73"
       },
+      "liabilitySum": 1.48,
       "squuid": "61519601-6c9a-4977-a155-f2d99a6bf57e",
       "state": "active"
     },
@@ -543,6 +552,7 @@
         "name": "Zindel, Johannes",
         "squuid": "5e4fc8b1-449a-4804-b297-47e5802543d2"
       },
+      "liabilitySum": 0.94,
       "squuid": "618114a5-c0fe-4a40-8f6e-11397cc2b243",
       "state": "active"
     },
@@ -553,6 +563,7 @@
         "name": "Hempel, Ursula",
         "squuid": "65d76a5a-e485-4230-a2e7-4fd2ba5565b5"
       },
+      "liabilitySum": 1.05,
       "squuid": "65d76abe-4a2f-4730-9cf4-b0c7ce73d59b",
       "state": "active"
     }
