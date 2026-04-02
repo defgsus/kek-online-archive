@@ -2,12 +2,12 @@
   "state": "active",
   "city": "München",
   "pseudoCompany": false,
-  "street": "Gotzinger Str.",
+  "street": "Paul-Heyse-Str.",
   "name": "Absolut Fußball GmbH",
   "naturalPerson": false,
   "squuid": "67853ec6-e7de-4205-839a-93099302fc94",
-  "controlDate": "2025-09-10T12:41:18.050Z",
-  "streetNumber": "54",
+  "controlDate": "2026-04-02T09:23:54.605Z",
+  "streetNumber": "2-4",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -15,12 +15,12 @@
       "type": "organization"
     }
   ],
-  "zipcode": "81371",
+  "zipcode": "80336",
   "operates": [
     {
       "type": "operate",
       "held": {
-        "name": "www.fussball.news",
+        "name": "www.absolutfussball.com",
         "squuid": "67853e99-49fd-4279-8241-f8eeb457c766"
       },
       "squuid": "67853f15-420e-4827-a5dd-6c26fe6e9712",
@@ -30,7 +30,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 70.0,
+      "capitalShares": 85.0,
       "holder": {
         "name": "ID Metropolen News GmbH",
         "squuid": "5ecd04cd-1105-41ef-a205-d30dc50f8fbd"
@@ -46,16 +46,6 @@
         "squuid": "67fd3c27-477a-4701-b842-5fbd172c04bf"
       },
       "squuid": "67fd3c4d-c8a1-4ca8-a592-a9e70d344f27",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 15.0,
-      "holder": {
-        "name": "Michel, Daniel",
-        "squuid": "67fd3c31-422f-4398-b324-eefe48721778"
-      },
-      "squuid": "67fd3c66-37b8-459b-b7ba-bbf7841f7587",
       "state": "active"
     }
   ]

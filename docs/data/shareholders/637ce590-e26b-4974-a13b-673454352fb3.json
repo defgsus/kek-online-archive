@@ -1,20 +1,31 @@
 {
-  "name": "Haimüller, Reinhold",
+  "name": "Müller, Reinhold",
   "pseudoCompany": false,
   "squuid": "637ce590-e26b-4974-a13b-673454352fb3",
   "owns": [
     {
       "type": "own",
-      "capitalShares": 2.5,
+      "capitalShares": 2.04,
       "held": {
-        "name": "Super Sonntag Verlag GmbH",
+        "name": "Verlag Aachener Anzeigenblatt GmbH & Co. KG",
         "squuid": "637ce55a-53f5-4df9-aa44-cd1463e88ec5"
       },
       "squuid": "637ce65e-8d8a-4733-bc25-819201c63b16",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "Aachener Anzeigenblatt Beteiligungsgesellschaft mbH",
+        "squuid": "644147f6-3ca6-4cbb-8be8-4272ef2ef6b5"
+      },
+      "squuid": "6441497c-da01-4691-ab3d-bc161a0d19f9",
+      "state": "active"
     }
   ],
   "city": "Erkelenz",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22,6 +33,5 @@
       "type": "organization"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }
