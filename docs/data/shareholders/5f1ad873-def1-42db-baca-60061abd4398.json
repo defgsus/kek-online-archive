@@ -1,4 +1,17 @@
 {
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "80s80s Audio GmbH & Co. KG",
+        "squuid": "69d6545b-ae1d-45ac-b098-a88a55266c26"
+      },
+      "squuid": "69d6559c-1fe5-4b0f-a4b3-e74c7144cea6",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Rostock",
   "pseudoCompany": false,
@@ -10,11 +23,23 @@
   "streetNumber": "25/26",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
     }
   ],
-  "zipcode": "18055"
+  "zipcode": "18055",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "80s80s Audio GmbH & Co. KG",
+        "squuid": "69d6545b-ae1d-45ac-b098-a88a55266c26"
+      },
+      "squuid": "69d6577f-9bf7-41c4-b417-e7003c78021b",
+      "state": "active"
+    }
+  ]
 }
