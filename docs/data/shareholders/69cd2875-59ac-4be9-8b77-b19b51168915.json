@@ -1,13 +1,29 @@
 {
   "name": "DVCP I RAIF  SICAV, S.C.A.",
   "squuid": "69cd2875-59ac-4be9-8b77-b19b51168915",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "1-2-3.tv GmbH",
+        "squuid": "5be1a6b6-b308-419c-8320-0944300cfe20"
+      },
+      "squuid": "69cd29b5-798a-4ac0-9560-32f7dca60a38",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
