@@ -1,88 +1,21 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Berlin",
   "pseudoCompany": false,
   "street": "Axel-Springer-Straße",
   "name": "Axel Springer Auto-Verlag GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-0761-46a1-8ded-0f07b0368a33",
-  "controlDate": "2025-09-17T09:49:37.039Z",
+  "controlDate": "2026-04-10T12:20:55.967Z",
   "streetNumber": "65",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "10888",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Auto Bild",
-        "squuid": "5be1a6b1-bfc2-4ba0-aa89-43c232dc1721"
-      },
-      "squuid": "5be1a6b9-55e5-4da1-bddd-9f22829fb1e4",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Auto Bild sportscars",
-        "squuid": "5be1a6b1-23c8-4f44-9afd-31a0f1287412"
-      },
-      "squuid": "5be1a6b9-68be-4765-bcd2-f2b83ab09868",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Auto Bild Klassik",
-        "squuid": "5be1a6b1-3d2b-4a6e-8733-fb72dd33326e"
-      },
-      "squuid": "5be1a6b9-4e3c-48ba-9145-a8a49af8eefe",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Auto Bild Reisemobil",
-        "squuid": "5be1a6b1-2125-4f20-8ff8-10ff6defb007"
-      },
-      "squuid": "5be1a6b9-9807-4343-97f5-ec30c4933742",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.bike-bild.de",
-        "squuid": "5c5ab264-06e2-4cb4-99c9-7d6037acf71d"
-      },
-      "squuid": "5c5ab28f-da97-4fcd-a2ea-513ee82d26af",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.autobild.de",
-        "squuid": "5be1a6b1-81a8-4dda-91fa-06c50e7c5b81"
-      },
-      "squuid": "625ff6a2-34df-4ec7-8d08-801b55ee4e65",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Axel Springer Deutschland GmbH ",
-        "squuid": "5be1a6b6-af30-4d16-b7eb-afb070fc9f88"
-      },
-      "squuid": "66436ee6-027a-49cc-b76f-2138e2361881",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
