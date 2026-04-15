@@ -18,7 +18,7 @@
   "name": "Blitzstart Group Beteiligungs GmbH",
   "naturalPerson": false,
   "squuid": "698b6861-01fa-4f95-846e-5863789e77fe",
-  "controlDate": "2026-03-05T08:58:59.028Z",
+  "controlDate": "2026-04-15T07:56:55.443Z",
   "streetNumber": "17",
   "organizations": [
     {
@@ -33,5 +33,47 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "80333"
+  "zipcode": "80333",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 13.37,
+      "holder": {
+        "name": "Schumacher, Georg",
+        "squuid": "69a94737-13dd-4d14-9bf7-bd0d2cc2dd6f"
+      },
+      "squuid": "69a94792-90dd-4bbb-94d9-4e8e470c71e8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.96,
+      "holder": {
+        "name": "Profirm Beteiligungs GmbH",
+        "squuid": "69a9475b-d11f-4d24-99af-395e9b460c53"
+      },
+      "squuid": "69a947a9-eaf1-4a17-a5d2-08e7686667ff",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "J J Beteiligungs GmbH",
+        "squuid": "69a9474a-df77-48a0-91a2-0c5f05582d16"
+      },
+      "squuid": "69a947bb-1e5b-4189-84f1-d699a7a5dfb2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "CR Equity Holding GmbH",
+        "squuid": "69a94771-f618-43be-99f7-ec1110e705f8"
+      },
+      "squuid": "69a947d0-a62a-4302-b19f-d5ea0b27e933",
+      "state": "active"
+    }
+  ]
 }

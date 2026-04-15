@@ -18,7 +18,7 @@
   "name": "Blitzstart Gründungs SE",
   "naturalPerson": false,
   "squuid": "695b9ba8-6461-4a61-8ca7-d34ff631ef52",
-  "controlDate": "2026-01-20T12:26:21.382Z",
+  "controlDate": "2026-04-15T07:57:05.302Z",
   "streetNumber": "17",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "80333"
+  "zipcode": "80333",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Blitzstart GmbH",
+        "squuid": "696f7577-021a-453d-8e11-c0dc8b403750"
+      },
+      "squuid": "696f75af-c368-4786-acfe-1cf7935bc5ea",
+      "state": "active"
+    }
+  ]
 }
