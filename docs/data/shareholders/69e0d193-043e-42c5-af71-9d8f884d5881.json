@@ -1,0 +1,53 @@
+{
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "New C. GmbH & Co. KG",
+        "squuid": "69e0cd53-264d-47e9-8d0c-fd67020ad0dc"
+      },
+      "squuid": "69e0d27b-eb70-4cb7-9df2-0bdefb2c270f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Süsel",
+  "pseudoCompany": false,
+  "street": "Alte Dorfstr.",
+  "name": "infomax 21 GmbH",
+  "naturalPerson": false,
+  "squuid": "69e0d193-043e-42c5-af71-9d8f884d5881",
+  "streetNumber": "14",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "23701",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 1.0,
+      "holder": {
+        "name": "Schuster, Florian",
+        "squuid": "69e0d1fa-f1e5-466b-9381-aa946c199a40"
+      },
+      "squuid": "69e0d45e-c83a-42bd-a538-b479565a3165",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 99.0,
+      "holder": {
+        "name": "Heinen, Wolfgang",
+        "squuid": "69e0d1ad-4528-4fcf-86d7-867414a6235b"
+      },
+      "squuid": "69e0d469-14e4-4e0d-8da3-408f0f2232c5",
+      "state": "active"
+    }
+  ]
+}

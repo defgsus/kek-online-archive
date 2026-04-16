@@ -1,0 +1,63 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Five Monkeys Media GmbH",
+        "squuid": "69e0c9ab-ca2f-44b2-8189-7fd7f6c8a055"
+      },
+      "squuid": "69e0cd68-6319-4e8d-b2f1-6dc279734c1f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Kouneli Sports GmbH",
+        "squuid": "69e0cf76-a647-461b-9501-cb58a8ce2634"
+      },
+      "squuid": "69e0d059-33c5-453e-b785-612f88aa3917",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Kaiser-Ludwig-Platz",
+  "name": "Kouneli Holding GmbH",
+  "naturalPerson": false,
+  "squuid": "69e0cd3a-30ec-4b0c-b8e2-fc0508fdea5f",
+  "controlDate": "2026-04-16T12:00:27.108Z",
+  "streetNumber": "5",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "80338",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Boitin, Florian",
+        "squuid": "5de7d64b-7de1-4909-a2f1-ce663fe86632"
+      },
+      "squuid": "69e0cf0d-0ffb-434f-b393-a3072bb0e5cf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Karsch, Myriam",
+        "squuid": "5de7d660-8cf8-4631-979d-fccdd9d34a4a"
+      },
+      "squuid": "69e0cf1a-ec58-416d-addc-76a57ef1b543",
+      "state": "active"
+    }
+  ]
+}

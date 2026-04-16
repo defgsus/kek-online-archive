@@ -1,0 +1,71 @@
+{
+  "state": "active",
+  "city": "Frankfurt (Oder)",
+  "pseudoCompany": false,
+  "street": "Bremer Str.",
+  "name": "Five Monkeys Media GmbH",
+  "naturalPerson": false,
+  "squuid": "69e0c9ab-ca2f-44b2-8189-7fd7f6c8a055",
+  "controlDate": "2026-04-16T11:45:05.593Z",
+  "streetNumber": "27",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "15234",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Chip",
+        "squuid": "5be1a6b1-4414-4c4c-933f-30a7e06a4a38"
+      },
+      "squuid": "69e0c9c7-df2f-4171-8d26-6075e7dd37fb",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Chip Foto Video",
+        "squuid": "5be1a6b1-35f3-4951-a7fe-1bdcc7f0e3ac"
+      },
+      "squuid": "69e0c9fb-08d8-409a-a0f4-4e7a3ecc66df",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Kouneli Holding GmbH",
+        "squuid": "69e0cd3a-30ec-4b0c-b8e2-fc0508fdea5f"
+      },
+      "squuid": "69e0cd68-6319-4e8d-b2f1-6dc279734c1f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "New C. GmbH & Co. KG",
+        "squuid": "69e0cd53-264d-47e9-8d0c-fd67020ad0dc"
+      },
+      "squuid": "69e0cd73-d270-417c-87cd-52df820fd13e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Laube, Andreas",
+        "squuid": "69e0cd29-0270-4c5f-9833-1ecc2002327d"
+      },
+      "squuid": "69e0cd80-3f1a-405b-984d-224605ae55c5",
+      "state": "active"
+    }
+  ]
+}
