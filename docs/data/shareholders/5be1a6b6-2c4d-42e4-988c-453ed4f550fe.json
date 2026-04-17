@@ -1,38 +1,44 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "held": {
+        "name": "Motor Presse TV GmbH",
+        "squuid": "5be1a6b6-1ea3-4042-a7f5-ab5f4024e7d7"
+      },
+      "squuid": "69e1d9e6-ca1e-4a4c-bc41-f58b916c02e0",
+      "state": "active"
+    }
+  ],
   "state": "active",
-  "note": "Die carus media GmbH bietet Beratungs- und Serviceleistungen im Medienbereich an.",
+  "note": "",
   "pseudoCompany": false,
-  "name": "carus media GmbH",
+  "name": "Carus Media GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-2c4d-42e4-988c-453ed4f550fe",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "credits": "Beschluss der KEK vom 30.09.2013, Az.: KEK 750",
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 95.0,
+      "capitalShares": 100.0,
       "holder": {
         "name": "Schütte, Jörg",
         "squuid": "5be1a6b6-884e-4c49-83ab-18ecc01e91c5"
       },
       "squuid": "5be1a6b8-26d3-4d65-b15f-c8a32b0ae6ec",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 5.0,
-      "holder": {
-        "name": "Klenke, Dr. Klaus",
-        "squuid": "5be1a6b6-08f2-464a-b0cc-a86c64307174"
-      },
-      "squuid": "5be1a6b8-f3a2-4d3a-8291-322003f49577",
       "state": "active"
     }
   ]

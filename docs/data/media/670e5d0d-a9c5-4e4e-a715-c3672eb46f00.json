@@ -1,9 +1,10 @@
 {
   "rfRepresentative": "Christian Opitz, Christian Storch, Julian Reichelt",
   "state": "active",
-  "sharesInfo": "KEK 1199",
+  "sharesInfo": "",
   "rfShoppingChannel": false,
   "rfParentalAdvisor": "Philippe Fischer",
+  "rfStartDate": "2025",
   "rfFreePay": true,
   "squuid": "670e5d0d-a9c5-4e4e-a715-c3672eb46f00",
   "organization": {
@@ -27,8 +28,8 @@
   "name": "NiUS TV",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-    "name": "Noch nicht auf Sendung",
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -48,6 +49,19 @@
   "description": "Beleuchtung und Diskussion bundesweiter Themen aus Politik, Wirtschaft und Gesellschaft",
   "rfLicenseUntil": "unbefristet",
   "rfLicensed": "17.09.2024",
+  "platformOperators": [
+    {
+      "squuid": "5be1a6b0-700d-4668-b750-23119f199d9a",
+      "name": "Live-Stream/Senderseite",
+      "type": "platform-operator",
+      "distributionType": {
+        "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
+        "name": "OTT",
+        "type": "distribution-type"
+      },
+      "state": "active"
+    }
+  ],
   "rfLicenseFrom": "17.09.2024",
   "accessibilityEmail": "kontakt@nius.de",
   "languages": [
