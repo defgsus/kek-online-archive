@@ -9,6 +9,16 @@
       },
       "squuid": "69259afe-3dd5-4364-9f82-1958c4427f0b",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "VHB ventures GmbH",
+        "squuid": "69396c70-5032-4564-a97e-db8d908cae3e"
+      },
+      "squuid": "695b9f16-8777-4598-bc46-c7a97ab2ea3f",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -18,7 +28,7 @@
   "name": "crossventures GmbH",
   "naturalPerson": false,
   "squuid": "69259a5b-0699-4c53-984c-7c79781b93e0",
-  "controlDate": "2025-12-10T12:46:33.366Z",
+  "controlDate": "2026-04-20T10:14:09.237Z",
   "streetNumber": "22",
   "organizations": [
     {
@@ -33,5 +43,37 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "50678"
+  "zipcode": "50678",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Sixt Management Holding GmbH",
+        "squuid": "69396c38-731d-43e2-b04a-0334a792b810"
+      },
+      "squuid": "69396c89-f839-4285-b512-6ec8082a7e55",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "radical moves GmbH",
+        "squuid": "69396c52-2fc5-492d-bc3d-57f682e7b03b"
+      },
+      "squuid": "69396c9d-8a47-4957-adcd-211e8a4e0110",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "VHB ventures GmbH",
+        "squuid": "69396c70-5032-4564-a97e-db8d908cae3e"
+      },
+      "squuid": "69396cb6-d4e4-410d-916e-8f58994ad4e4",
+      "state": "active"
+    }
+  ]
 }

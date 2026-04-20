@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Meißen",
   "pseudoCompany": false,
   "street": "Niederauer Straße",
@@ -11,34 +11,12 @@
   "streetNumber": "43",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "01662",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Sächsische Zeitung (Ausgaben Dresdner und Meißner Land, Meißen, Großenhain, Riesa)",
-        "squuid": "5be1a6b1-aa49-4370-996c-88ec764415bd"
-      },
-      "squuid": "5be1a6b9-1a2c-4ac1-b0c0-8de89c24737b",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "DDV Mediengruppe GmbH & Co KG",
-        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
-      },
-      "squuid": "5be1a6b8-d642-4623-a069-6b6a1945fec1",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

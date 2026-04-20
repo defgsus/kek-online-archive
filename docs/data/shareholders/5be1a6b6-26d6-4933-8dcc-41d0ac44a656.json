@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Döbeln",
   "pseudoCompany": false,
   "street": "Rosa-Luxemburg-Straße",
@@ -11,34 +11,12 @@
   "streetNumber": "5",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "04720",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Döbelner Anzeiger",
-        "squuid": "5be1a6b1-085d-405d-815d-daac90980bee"
-      },
-      "squuid": "5be1a6b9-93f0-4eec-9851-ab33587caeae",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "DDV Mediengruppe GmbH & Co KG",
-        "squuid": "5be1a6b6-4381-4a95-b467-35072a92a73e"
-      },
-      "squuid": "5be1a6b8-962b-4e2e-991b-10074a7bdda2",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
