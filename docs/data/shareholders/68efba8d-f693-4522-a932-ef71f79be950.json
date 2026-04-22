@@ -19,7 +19,7 @@
   "name": "DF1 Medien Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "68efba8d-f693-4522-a932-ef71f79be950",
-  "controlDate": "2025-10-21T07:50:46.902Z",
+  "controlDate": "2026-04-22T09:13:12.183Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "85774"
+  "zipcode": "85774",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "M.T.I. Teleport München GmbH Gesellschaft für Satellitenübertragungen",
+        "squuid": "68efb9dc-a1a2-4250-bb45-dba0b8d6255b"
+      },
+      "squuid": "68f73b4d-b906-4a3a-a43b-800d076ea487",
+      "state": "active"
+    }
+  ]
 }

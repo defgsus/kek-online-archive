@@ -9,6 +9,16 @@
       },
       "squuid": "690b4b3a-fbeb-4147-844a-866e82579703",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 34.04,
+      "held": {
+        "name": "Dieter von Holtzbrinck Ventures Fonds III GmbH",
+        "squuid": "690b1e58-9e70-4736-aafb-5b6591f345bc"
+      },
+      "squuid": "6925d42a-4638-4650-8e82-904e41dc0b64",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -18,7 +28,7 @@
   "name": "Dieter von Holtzbrinck Ventures GmbH",
   "naturalPerson": false,
   "squuid": "690b1e6f-ae69-42fc-97f1-d3ec44e8ee4b",
-  "controlDate": "2025-11-25T11:44:08.942Z",
+  "controlDate": "2026-04-22T12:50:22.144Z",
   "streetNumber": "22",
   "organizations": [
     {
@@ -33,5 +43,37 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "50678"
+  "zipcode": "50678",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Dieter von Holtzbrinck Vermögensverwaltung GmbH",
+        "squuid": "69259acb-e9a5-4a04-9040-0e7edfc9a5b2"
+      },
+      "squuid": "69259aeb-e875-4eca-b5e1-c1d013c6c2f1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 30.0,
+      "holder": {
+        "name": "crossventures GmbH",
+        "squuid": "69259a5b-0699-4c53-984c-7c79781b93e0"
+      },
+      "squuid": "69259afe-3dd5-4364-9f82-1958c4427f0b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Michael Grabner Media GmbH",
+        "squuid": "69259a6c-f690-4001-bfec-6552d554bdce"
+      },
+      "squuid": "69259b15-684a-45b1-9e98-2e53ff841f52",
+      "state": "active"
+    }
+  ]
 }

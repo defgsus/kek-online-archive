@@ -10,6 +10,37 @@
       },
       "squuid": "698df092-a0a5-4aaa-90c2-448981804526",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Die JUSTUS gGmbH",
+        "squuid": "698de9c2-92bf-4ea1-bce8-7eef586ff1a0"
+      },
+      "squuid": "6992e155-c2ed-48b2-bdb5-77c8db899d59",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Schwarz Beteiligungs-KG",
+        "squuid": "698df047-3107-48ca-af6e-fc31aa72ad17"
+      },
+      "squuid": "6992eae2-844b-49fb-8284-08ee2cd0f3b5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 28.57,
+      "held": {
+        "name": "Schwarz Unternehmenstreuhand KG",
+        "squuid": "698deefe-1af7-4537-b84a-92502f6012a2"
+      },
+      "squuid": "6992f4b5-2057-4489-8bc0-0373da1a5b85",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -19,7 +50,7 @@
   "name": "Dieter Schwarz TV-Vermögensverwaltung GmbH",
   "naturalPerson": false,
   "squuid": "698defba-caa1-4606-875e-ca16e51c9079",
-  "controlDate": "2026-02-16T09:20:33.443Z",
+  "controlDate": "2026-04-22T12:44:07.042Z",
   "streetNumber": "35",
   "organizations": [
     {
@@ -33,5 +64,47 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.06,
+      "holder": {
+        "name": "Hoffmann, Hermann-Josef",
+        "squuid": "698deacf-27e2-4767-be3f-38c5ff8c4a26"
+      },
+      "squuid": "6992e320-47be-437b-a3be-6b6c276fd095",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.06,
+      "holder": {
+        "name": "Reger, Dr. Gerald",
+        "squuid": "68f8ca3a-4524-4ad7-a6df-a9c5ddc4ccf8"
+      },
+      "squuid": "6992e334-78c8-4f4e-af14-442f8f797425",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.06,
+      "holder": {
+        "name": "Sohler, Armin",
+        "squuid": "68f8c9e8-3f4a-4aee-a469-fafebab8f377"
+      },
+      "squuid": "6992e348-aa62-4d64-8f50-531fd487f986",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.83,
+      "holder": {
+        "name": "Dieter Schwarz Stiftung gGmbH",
+        "squuid": "6992e2b8-79c9-42d0-99f4-450716734c80"
+      },
+      "squuid": "6992e36e-2e13-4cdd-8828-09251cbd4d88",
+      "state": "active"
+    }
+  ]
 }

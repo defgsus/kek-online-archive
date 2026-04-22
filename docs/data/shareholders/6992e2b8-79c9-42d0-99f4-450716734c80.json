@@ -18,7 +18,7 @@
   "name": "Dieter Schwarz Stiftung gGmbH",
   "naturalPerson": false,
   "squuid": "6992e2b8-79c9-42d0-99f4-450716734c80",
-  "controlDate": "2026-02-24T14:54:50.056Z",
+  "controlDate": "2026-04-22T12:00:50.969Z",
   "streetNumber": "35",
   "organizations": [
     {
@@ -32,5 +32,27 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.999,
+      "holder": {
+        "name": "Dieter Schwarz Stiftung",
+        "squuid": "699dbb4e-8a15-411b-b3ac-ef55fbb8148e"
+      },
+      "squuid": "699dbb95-12e7-48e3-9376-bd377f11571a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.001,
+      "holder": {
+        "name": "Streubesitz an der Dieter Schwarz Stiftung gGmbH",
+        "squuid": "699dbb68-c8a4-403c-81d0-3f9dae6e37c3"
+      },
+      "squuid": "699dbbbb-9b08-47ea-aba9-c4163e80331e",
+      "state": "active"
+    }
+  ]
 }

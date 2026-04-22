@@ -7,7 +7,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "66bdd734-6a9d-42f4-87ea-d7bfdb16f819",
-  "controlDate": "2025-10-15T15:05:34.428Z",
+  "controlDate": "2026-04-22T09:15:04.763Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -45,12 +45,33 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 5.0,
       "holder": {
         "name": "MC Media Connect GmbH",
         "squuid": "66bdd1b6-043c-4982-b6c4-6ce30ace91a8"
       },
       "squuid": "66bdd8bc-c6be-4116-a792-ff48775439d8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 95.0,
+      "holder": {
+        "name": "M.T.I. Teleport München GmbH Gesellschaft für Satellitenübertragungen",
+        "squuid": "68efb9dc-a1a2-4250-bb45-dba0b8d6255b"
+      },
+      "squuid": "68efba51-7845-48f6-be3d-ecab743e76fe",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "DF1 Medien Verwaltungs GmbH",
+        "squuid": "68efba8d-f693-4522-a932-ef71f79be950"
+      },
+      "squuid": "68efbabd-f4ee-434b-ad48-373bc342e8a1",
       "state": "active"
     }
   ]
