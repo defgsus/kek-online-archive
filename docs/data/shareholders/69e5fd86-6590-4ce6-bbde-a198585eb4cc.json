@@ -1,13 +1,29 @@
 {
   "name": "SoulVision Holding GmbH",
   "squuid": "69e5fd86-6590-4ce6-bbde-a198585eb4cc",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "held": {
+        "name": "CSP Counseling Studio Productions GmbH",
+        "squuid": "6874e949-83e8-48c0-a9e3-c5b96c6805fa"
+      },
+      "squuid": "69e5fdc0-fc1a-4abc-a667-d9c5ebe65378",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
