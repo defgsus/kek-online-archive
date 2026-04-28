@@ -14,12 +14,13 @@
   "state": "active",
   "city": "Delmenhorst",
   "pseudoCompany": false,
-  "street": "Lange Straße 122",
+  "street": "Lange Straße ",
   "name": "DK Medien GmbH & Co KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-18f9-48d6-a1e6-34a9205f316a",
-  "controlDate": "2025-10-16T12:03:56.937Z",
+  "controlDate": "2026-04-28T11:16:10.026Z",
+  "streetNumber": "101",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50,35 +51,24 @@
     {
       "type": "operate",
       "held": {
-        "name": "www.krams-online.de",
+        "name": "www.lokale-wochenzeitungen.de/kreisblatt-am-sonntag",
         "squuid": "63d9160c-dc91-4472-95af-1426084e9156"
       },
       "squuid": "63d9163d-7159-4deb-9aac-158d019752c2",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Tag 7 (Delmenhorst)",
+        "squuid": "69f0984e-7816-4328-b86e-5fdc5a4cecab"
+      },
+      "squuid": "69f09885-5dbf-409c-be4d-5e1ca4707283",
       "state": "active"
     }
   ],
   "credits": "IJK",
   "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "L.V. Fromm Verwaltungsgesellschaft mbH & Co KG",
-        "squuid": "5be1a6b6-247b-40f5-80f1-0a66263980d0"
-      },
-      "squuid": "5be1a6b8-8b14-44ca-b8b7-d593c98b8575",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 50.0,
-      "holder": {
-        "name": "Meinders & Elstermann GmbH & Co KG",
-        "squuid": "5be1a6b6-3ed7-4849-8e3f-a61d5cad7d36"
-      },
-      "squuid": "5be1a6b8-39e9-4676-b28d-3b4fca672b06",
-      "state": "active"
-    },
     {
       "complementaryPartner": true,
       "type": "own",
@@ -88,6 +78,16 @@
         "squuid": "5ebe84cc-3400-4ae3-ba80-429d87c7a0e5"
       },
       "squuid": "5ebe84f8-0aa4-4a34-a57e-458b9d00fcdd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Neue Osnabrücker Zeitung GmbH & Co. KG",
+        "squuid": "5be1a6b6-11e0-4409-8a35-b11600f37cca"
+      },
+      "squuid": "69f09735-eca2-4297-8708-b393ac6d8133",
       "state": "active"
     }
   ]

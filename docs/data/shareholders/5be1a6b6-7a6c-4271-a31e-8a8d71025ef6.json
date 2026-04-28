@@ -1,8 +1,4 @@
 {
-  "name": "Dodge & Cox",
-  "pseudoCompany": false,
-  "squuid": "5be1a6b6-7a6c-4271-a31e-8a8d71025ef6",
-  "placeOfBusiness": "San Francisco, USA",
   "owns": [
     {
       "type": "own",
@@ -16,6 +12,12 @@
     }
   ],
   "state": "active",
+  "pseudoCompany": false,
+  "name": "Dodge & Cox",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7a6c-4271-a31e-8a8d71025ef6",
+  "controlDate": "2026-04-28T12:10:37.879Z",
+  "placeOfBusiness": "San Francisco, USA",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -27,6 +29,5 @@
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "naturalPerson": false
+  ]
 }

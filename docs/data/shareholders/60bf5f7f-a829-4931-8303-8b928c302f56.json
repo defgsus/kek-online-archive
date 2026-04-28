@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.06,
+      "held": {
+        "name": "Bayern Tele GmbH Fernsehproduktion bayerischer Zeitschriftenverlage",
+        "squuid": "5be1a6b6-9681-4a25-8626-a0e2626bec4a"
+      },
+      "squuid": "69de197f-c9ab-48c9-bc91-4c6237bcf3b2",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Mindelheim",
   "pseudoCompany": false,
@@ -10,10 +22,15 @@
   "streetNumber": "17",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
   "zipcode": "87719",
