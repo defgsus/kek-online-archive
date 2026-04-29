@@ -2,7 +2,7 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 1.15,
+      "capitalShares": 1.19,
       "held": {
         "name": "Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Radio 2000 KG",
         "squuid": "5be1a6b6-cc99-4fd3-96f9-d2ef9847c76f"
@@ -74,11 +74,12 @@
   "state": "active",
   "city": "Coburg",
   "pseudoCompany": false,
-  "street": "Steinweg 51",
+  "street": "Steinweg",
   "name": "Druck- und Verlagsanstalt ''Neue Presse'' GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-1e81-4164-913c-85bb36d68221",
-  "controlDate": "2025-10-17T11:50:24.107Z",
+  "controlDate": "2026-04-29T08:43:39.391Z",
+  "streetNumber": "51",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -152,6 +153,15 @@
         "squuid": "5be1a6b1-2e06-4255-befa-f73fe47472a9"
       },
       "squuid": "5be1a6b9-0986-4e3f-8298-276fa9373cd5",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Neue Presse am Sonntag",
+        "squuid": "69f1c5f2-4ab5-4ddc-b058-6f7337f1afa6"
+      },
+      "squuid": "69f1c624-d0d0-4c84-86d0-69c55d73be26",
       "state": "active"
     }
   ],
