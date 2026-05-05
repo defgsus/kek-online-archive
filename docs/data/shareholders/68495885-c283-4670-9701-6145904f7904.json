@@ -19,7 +19,7 @@
   "name": "Es Costes Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "68495885-c283-4670-9701-6145904f7904",
-  "controlDate": "2025-06-19T16:49:27.454Z",
+  "controlDate": "2026-05-05T08:50:04.386Z",
   "streetNumber": "5",
   "organizations": [
     {
@@ -33,5 +33,57 @@
       "type": "organization"
     }
   ],
-  "zipcode": "60322"
+  "zipcode": "60322",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.6,
+      "holder": {
+        "name": "Janssen, Sven",
+        "squuid": "68495857-8ca6-4a17-b884-fa929c939f0d"
+      },
+      "squuid": "6854403b-7d19-44ef-9f04-65aec8161715",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "von Puttkammer, Chiara",
+        "squuid": "6841563e-0d21-482f-bf7c-fa9fc15f847c"
+      },
+      "squuid": "68544057-0309-4ea9-b045-74011bf67dc0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "von Puttkammer, Philipp",
+        "squuid": "6841562e-47bf-4d3b-80e6-5c6b9ff16b8a"
+      },
+      "squuid": "6854406d-e9ad-4b06-bc7c-fa175830e7ca",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "Erbach, Kim",
+        "squuid": "6841560a-c2cf-42e2-a708-793b3637a099"
+      },
+      "squuid": "68544093-f0f5-4ffd-b0db-da9607237f41",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "Erbach, Nico",
+        "squuid": "6841561a-4499-4a60-ad33-35595a3b2476"
+      },
+      "squuid": "685440ad-ae54-4129-9bec-3f137f5d5397",
+      "state": "active"
+    }
+  ]
 }

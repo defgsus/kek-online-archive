@@ -18,7 +18,7 @@
   "name": "ern Media GmbH",
   "naturalPerson": false,
   "squuid": "5cadbf24-e92f-4bca-815c-78be20d8f5b8",
-  "controlDate": "2025-10-21T08:30:44.481Z",
+  "controlDate": "2026-05-05T08:38:51.396Z",
   "streetNumber": "20",
   "organizations": [
     {
@@ -37,12 +37,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 50.0,
       "holder": {
         "name": "Evangelischer Presseverband Norddeutschland GmbH",
         "squuid": "5be1a6b6-c548-44ab-9ad3-d1896609c1c7"
       },
       "squuid": "5f3532a0-b186-4789-abc4-3d010cc17459",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Enote GmbH",
+        "squuid": "68f7447f-44e3-4079-9be8-cd1a17df8d58"
+      },
+      "squuid": "68f744af-bd5c-44f0-9d3d-5e75e3596a51",
       "state": "active"
     }
   ]

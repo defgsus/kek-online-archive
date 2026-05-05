@@ -1,43 +1,19 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Extra-Tip Werbegesellschaft mbH & Co. KG",
-        "squuid": "62a8b2f5-6e40-411c-9fe5-f07bd55b70ff"
-      },
-      "squuid": "62a8b40d-8071-4dd1-932b-9983152d7cb3",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Kassel",
   "pseudoCompany": false,
   "street": "Frankfurter Str.",
   "name": "Extra-Tip Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "62a8b365-6b5c-4565-b17a-c8aa869700f5",
-  "controlDate": "2025-10-22T10:56:39.777Z",
+  "controlDate": "2026-05-05T11:57:44.848Z",
   "streetNumber": "168",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Extra-Tip Werbegesellschaft mbH & Co. KG",
-        "squuid": "62a8b2f5-6e40-411c-9fe5-f07bd55b70ff"
-      },
-      "squuid": "62a8b46b-d40e-4645-90e6-46a85bd716a5",
-      "state": "active"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ]
 }

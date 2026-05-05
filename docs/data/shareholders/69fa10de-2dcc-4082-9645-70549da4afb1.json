@@ -1,0 +1,84 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Heise & Dumrath Medien Geschäftsführungs-GmbH",
+        "squuid": "69fa16ac-5074-4ce3-8931-efa70fbfc1cf"
+      },
+      "squuid": "69fa17af-bb10-4694-8594-c73f91c7a3a6",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Hannover",
+  "pseudoCompany": false,
+  "street": "Karl-Wiechert-Allee",
+  "name": "Heise & Dumrath Medien GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "69fa10de-2dcc-4082-9645-70549da4afb1",
+  "controlDate": "2026-05-05T16:08:08.450Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "30625",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.hamburg-magazin.de",
+        "squuid": "620526e1-2f24-4ad4-a6c0-3b8c6becccb8"
+      },
+      "squuid": "69fa11b5-5c1d-4fbc-94e0-d3cd4de72172",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kiel-magazin.de",
+        "squuid": "6205270d-5b49-4613-b5eb-d2b4b8b501ff"
+      },
+      "squuid": "69fa11cf-96e4-46de-ad7f-34a1c89b8f65",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.luebeck-magazin.de",
+        "squuid": "6205271c-a310-4c3e-8a6f-bf8b6ee188a4"
+      },
+      "squuid": "69fa11e7-cb5a-4822-ab02-4f2037cdf6d5",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "hdm holding gmbh & co. kg",
+        "squuid": "5be1a6b6-5f02-4475-9c85-ccb2907ae149"
+      },
+      "squuid": "69fa16cb-db79-4fc6-9251-297dc252a351",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Heise & Dumrath Medien Geschäftsführungs-GmbH",
+        "squuid": "69fa16ac-5074-4ce3-8931-efa70fbfc1cf"
+      },
+      "squuid": "69fa16d9-f24d-4fba-8ee8-ea83e27a819f",
+      "state": "active"
+    }
+  ]
+}
