@@ -64,11 +64,12 @@
   "state": "active",
   "city": "Hof",
   "pseudoCompany": false,
-  "street": "Poststr. 9-11",
+  "street": "Poststr. ",
   "name": "Frankenpost Verlag GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-73f5-4250-97c6-a6bfa6880234",
-  "controlDate": "2025-10-26T14:12:54.889Z",
+  "controlDate": "2026-05-06T09:47:08.667Z",
+  "streetNumber": "9-11",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -172,6 +173,15 @@
         "squuid": "69f1c5f2-4ab5-4ddc-b058-6f7337f1afa6"
       },
       "squuid": "69f1c631-b6a3-4b28-ad6a-9ba30163fcc1",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Frankenpost am Sonntag",
+        "squuid": "69fb0e77-5fb9-4f02-97f9-423d2f606019"
+      },
+      "squuid": "69fb0ea9-1160-44b2-9d11-7e443b72a700",
       "state": "active"
     }
   ],
