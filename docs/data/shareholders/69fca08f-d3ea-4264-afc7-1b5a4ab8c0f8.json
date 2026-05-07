@@ -1,0 +1,69 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "pseudoCompany": false,
+  "street": "Picassoplatz",
+  "name": "RTL News GmbH",
+  "naturalPerson": false,
+  "squuid": "69fca08f-d3ea-4264-afc7-1b5a4ab8c0f8",
+  "controlDate": "2026-05-07T14:37:29.643Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "50679",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.capital.de",
+        "squuid": "5be1a6b1-4f39-4517-8037-b63b8e24d57e"
+      },
+      "squuid": "69fca0b9-8ee1-42c2-868d-b91bfa37b8ef",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.geo.de",
+        "squuid": "5be1a6b1-d29e-4bf8-8dd9-d1916ed30919"
+      },
+      "squuid": "69fca24c-c4cc-40ba-913e-c26314c447e6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.stern.de",
+        "squuid": "5be1a6b1-b59e-4faf-8394-692284216688"
+      },
+      "squuid": "69fca2f8-7a94-48fc-a19d-681eb442871b",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.stern.de/neon",
+        "squuid": "611bac06-fc0f-46f0-9f88-bd2f8d5fbdbf"
+      },
+      "squuid": "69fca334-d0a8-473c-9a13-35158f728963",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RTL Television GmbH",
+        "squuid": "5be1a6b6-7542-41b4-ab53-17975a930698"
+      },
+      "squuid": "69fca3fd-662f-443b-bb07-20a2966f2e04",
+      "state": "active"
+    }
+  ]
+}

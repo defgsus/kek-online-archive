@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Munzinger Str.",
+  "name": "baden.audio GmbH",
+  "naturalPerson": false,
+  "squuid": "69fc8080-3ead-4182-9008-08c9eeca8f57",
+  "controlDate": "2026-05-07T12:11:23.824Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "79111",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.baden.fm",
+        "squuid": "5eeb6a7b-79e7-4deb-b15e-f5eee07b4866"
+      },
+      "squuid": "69fc80bf-5639-4bea-86a1-11d36e5a49a2",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG",
+        "squuid": "5efef438-7c82-454e-beb9-493d1f5ec407"
+      },
+      "squuid": "69fc820e-5911-4ab7-8d30-0cfc12b28962",
+      "state": "active"
+    }
+  ]
+}

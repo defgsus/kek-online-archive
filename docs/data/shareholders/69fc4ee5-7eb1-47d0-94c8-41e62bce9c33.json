@@ -1,0 +1,30 @@
+{
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "street": "Elbchaussee",
+  "name": "Hamburger Klönschnack Verlag & Medien GmbH",
+  "naturalPerson": false,
+  "squuid": "69fc4ee5-7eb1-47d0-94c8-41e62bce9c33",
+  "controlDate": "2026-05-07T08:36:59.833Z",
+  "streetNumber": "586a",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "22587",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.kloenschnack.de",
+        "squuid": "69fc4ebc-7761-4640-8fac-53f7be3b96b7"
+      },
+      "squuid": "69fc4f10-a01b-47b1-918e-cbfab25ba7e2",
+      "state": "active"
+    }
+  ]
+}
