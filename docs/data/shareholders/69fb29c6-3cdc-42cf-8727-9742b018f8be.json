@@ -1,13 +1,29 @@
 {
   "name": "First Maven Pty",
   "squuid": "69fb29c6-3cdc-42cf-8727-9742b018f8be",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.99,
+      "held": {
+        "name": "Fraport AG",
+        "squuid": "5d30270b-4a67-4bc0-83ea-e8fd643870b2"
+      },
+      "squuid": "69fb29e4-b3f4-495d-ad43-518b8a895535",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
