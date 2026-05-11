@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Gelnhausen",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr.",
+  "name": "Rhein Main Medienhaus GmbH",
+  "naturalPerson": false,
+  "squuid": "6a01e7c5-8e07-4f2a-941a-2e1831b62d16",
+  "controlDate": "2026-05-11T14:44:29.581Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "63571",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.giessener-zeitung.de",
+        "squuid": "63d7b252-af50-439b-ae93-738459dab655"
+      },
+      "squuid": "6a01eaf4-3004-4ff0-ace6-2f4d7f272530",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bote.de",
+        "squuid": "63d7affd-c4ce-4012-8f60-92e9f5fd4cd7"
+      },
+      "squuid": "6a01ef15-89c2-414a-a36b-7285c568c4cb",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "M von A & C GmbH",
+        "squuid": "5f3a8df2-82f0-4e57-9b3d-d7e09c9233f4"
+      },
+      "squuid": "6a01ee6c-05ce-448b-875a-17b4953a0cfb",
+      "state": "active"
+    }
+  ]
+}

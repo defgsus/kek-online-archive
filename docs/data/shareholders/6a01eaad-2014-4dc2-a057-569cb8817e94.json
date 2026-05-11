@@ -1,0 +1,51 @@
+{
+  "state": "active",
+  "city": "Gelnhausen",
+  "pseudoCompany": false,
+  "street": "Gutenbergstr.",
+  "name": "GNZ Verlags GmbH",
+  "naturalPerson": false,
+  "squuid": "6a01eaad-2014-4dc2-a057-569cb8817e94",
+  "controlDate": "2026-05-11T14:53:27.566Z",
+  "streetNumber": "1",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "63571",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.gnz.de",
+        "squuid": "5be1a6b1-7539-46dd-9111-0e238f381b8d"
+      },
+      "squuid": "6a01ecd8-378f-41c5-86db-936ec90e5fce",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Gelnhäuser Neue Zeitung",
+        "squuid": "5be1a6b1-4424-4fb4-913b-4b6f75369d4c"
+      },
+      "squuid": "6a01ed2f-f556-4a30-a2d7-5ba298dae8b8",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "M von A & C GmbH",
+        "squuid": "5f3a8df2-82f0-4e57-9b3d-d7e09c9233f4"
+      },
+      "squuid": "6a01ee40-dde5-4cae-a924-597b900a43ed",
+      "state": "active"
+    }
+  ]
+}
