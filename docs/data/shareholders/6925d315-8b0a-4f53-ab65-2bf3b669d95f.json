@@ -18,7 +18,7 @@
   "name": "HAHN Beteiligungsholding GmbH",
   "naturalPerson": false,
   "squuid": "6925d315-8b0a-4f53-ab65-2bf3b669d95f",
-  "controlDate": "2025-12-10T12:35:33.127Z",
+  "controlDate": "2026-05-12T12:20:10.823Z",
   "streetNumber": "14",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "51429"
+  "zipcode": "51429",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "HAHN-Immobilien-Beteiligungs AG",
+        "squuid": "6939699a-f33a-441d-a9b0-6264dfcfe4d1"
+      },
+      "squuid": "693969ba-b6b3-4b87-8ae5-3b7cf143cd11",
+      "state": "active"
+    }
+  ]
 }

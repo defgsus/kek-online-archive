@@ -1,0 +1,42 @@
+{
+  "state": "active",
+  "city": "Detmold",
+  "pseudoCompany": false,
+  "street": "Plantagenweg",
+  "name": "Lippische Wochenzeitung Medienhaus GmbH",
+  "naturalPerson": false,
+  "squuid": "6a0309ac-fa1a-4537-bebd-0418aea13a9c",
+  "controlDate": "2026-05-12T11:07:48.419Z",
+  "streetNumber": "34",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "32758",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.lwz24.de",
+        "squuid": "6a030989-a23f-4af5-bb43-68615f2f8331"
+      },
+      "squuid": "6a0309d9-c7c1-4d38-b27d-1160b391449d",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "BEM Medien und Beteiligungen GmbH",
+        "squuid": "63d13b93-03a1-4280-8e3d-e24bfc245688"
+      },
+      "squuid": "6a030aa3-1089-4483-83e9-8233841af7c2",
+      "state": "active"
+    }
+  ]
+}

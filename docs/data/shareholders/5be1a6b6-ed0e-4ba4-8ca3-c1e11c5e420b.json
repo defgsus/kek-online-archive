@@ -2,12 +2,13 @@
   "state": "active",
   "city": "Heidenheim",
   "pseudoCompany": false,
-  "street": "Olgastr. 15",
-  "name": "Heidenheimer Zeitung Gesellschaft mit beschränkter Haftung u. Co. Kommanditgesellschaft",
+  "street": "Olgastr. ",
+  "name": "Heidenheimer Zeitung Gesellschaft mit beschränkter Haftung u. Co. KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-ed0e-4ba4-8ca3-c1e11c5e420b",
-  "controlDate": "2025-11-04T12:04:07.312Z",
+  "controlDate": "2026-05-12T15:09:11.193Z",
+  "streetNumber": "15",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -57,16 +58,6 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 26.5,
-      "holder": {
-        "name": "Frank, Cornelia",
-        "squuid": "5be1a6b6-a268-4de3-b8d4-e3eaa909246d"
-      },
-      "squuid": "5be1a6b8-df45-4017-a61d-cfc9e5aecc8c",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -79,7 +70,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 73.5,
+      "capitalShares": 100.0,
       "holder": {
         "name": "Wilhelm, Dirk Martin",
         "squuid": "68359e30-d518-4b2a-935f-944b9d8c60d0"
