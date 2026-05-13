@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "68415655-c843-4afd-8499-0f283cf816f0",
-  "controlDate": "2025-06-11T10:17:29.453Z",
+  "controlDate": "2026-05-13T13:01:28.595Z",
   "streetNumber": "5",
   "organizations": [
     {
@@ -33,5 +33,68 @@
       "type": "organization"
     }
   ],
-  "zipcode": "60322"
+  "zipcode": "60322",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.6,
+      "holder": {
+        "name": "Janssen, Sven",
+        "squuid": "68495857-8ca6-4a17-b884-fa929c939f0d"
+      },
+      "squuid": "684958a6-ab5b-4d3d-805e-02e6dadd521b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "von Puttkammer, Chiara",
+        "squuid": "6841563e-0d21-482f-bf7c-fa9fc15f847c"
+      },
+      "squuid": "684958d1-a4f3-463b-9dbd-f2eef290429a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "von Puttkammer, Philipp",
+        "squuid": "6841562e-47bf-4d3b-80e6-5c6b9ff16b8a"
+      },
+      "squuid": "684958e9-6852-43cb-974b-a196d454ef22",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "Erbach, Kim",
+        "squuid": "6841560a-c2cf-42e2-a708-793b3637a099"
+      },
+      "squuid": "68495906-e8ff-4bf9-8ede-7f6f18422d62",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "Erbach, Nico",
+        "squuid": "6841561a-4499-4a60-ad33-35595a3b2476"
+      },
+      "squuid": "6849591b-fc1c-4a33-be64-2f0a7396791c",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Es Costes Verwaltungs GmbH",
+        "squuid": "68495885-c283-4670-9701-6145904f7904"
+      },
+      "squuid": "68495931-41a2-489b-a855-a10f4b5b1f3d",
+      "state": "active"
+    }
+  ]
 }
