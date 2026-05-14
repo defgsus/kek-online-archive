@@ -1,0 +1,47 @@
+{
+  "pressPublishingIntervals": 52,
+  "state": "active",
+  "squuid": "6a05e708-debc-471e-995d-59add9ca8fbc",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Dresdener Medien GmbH",
+        "squuid": "669107f4-3f2c-4630-bd6b-e9fa31f97e22"
+      },
+      "squuid": "6a05e779-1c87-4a34-9240-abd6a492fef0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RND RedaktionsNetzwerk Deutschland GmbH",
+        "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d"
+      },
+      "squuid": "6a05e785-7b5d-446e-a813-ed36e7de167b",
+      "state": "active"
+    }
+  ],
+  "name": "DAZ am Sonntag",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "nur als ePaper",
+  "type": "print",
+  "controlDate": "2026-05-14T15:17:29.075Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "pressType": {
+    "squuid": "5be1a6b0-4e68-459d-a5ee-da3974114c2a",
+    "name": "E-Paper",
+    "type": "press-type",
+    "state": "active"
+  }
+}

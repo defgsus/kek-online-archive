@@ -1,13 +1,13 @@
 {
   "state": "active",
-  "city": "Celle",
+  "city": "Dresden",
   "pseudoCompany": false,
-  "street": "Bahnhofstr.",
+  "street": "Dr.-Külz-Ring",
   "name": "Dresdener Medien GmbH",
   "naturalPerson": false,
   "squuid": "669107f4-3f2c-4630-bd6b-e9fa31f97e22",
   "controlDate": "2025-10-17T10:45:40.317Z",
-  "streetNumber": "1",
+  "streetNumber": "12",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -15,7 +15,7 @@
       "type": "organization"
     }
   ],
-  "zipcode": "29221",
+  "zipcode": "01067",
   "operates": [
     {
       "type": "operate",
@@ -42,6 +42,33 @@
         "squuid": "5be1a6b1-0a0b-42ac-b845-1914e17d572f"
       },
       "squuid": "66910861-75bf-479b-8d3c-34e3fa86de2f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "DAZ am Sonntag",
+        "squuid": "6a05e708-debc-471e-995d-59add9ca8fbc"
+      },
+      "squuid": "6a05e779-1c87-4a34-9240-abd6a492fef0",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Döbelner Allgemeine Zeitung",
+        "squuid": "5be1a6b1-13f6-4a3e-9941-546938f0b7ca"
+      },
+      "squuid": "6a05e84f-94e0-400e-bb5f-841d9e0dd2e6",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.doebelner-allgemeine-zeitung.de",
+        "squuid": "65bd0f83-e9c7-47d5-ad9f-74dbaedc1355"
+      },
+      "squuid": "6a05e86e-00ab-4aac-b0ef-4f85be2daa60",
       "state": "active"
     }
   ],

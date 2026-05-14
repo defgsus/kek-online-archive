@@ -1,0 +1,47 @@
+{
+  "pressPublishingIntervals": 52,
+  "state": "active",
+  "squuid": "6a05dd8a-970f-491c-82bb-35c6d5e533e8",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Nordbayerischer Kurier Zeitungsverlag GmbH",
+        "squuid": "5c53152b-b3eb-4f9b-919d-edebc741d132"
+      },
+      "squuid": "6a05dde8-ddec-4582-90b3-82bd8d3b38c3",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Frankenpost Verlag GmbH",
+        "squuid": "5be1a6b6-73f5-4250-97c6-a6bfa6880234"
+      },
+      "squuid": "6a05ddf2-5160-4940-b4df-eaefd98a9516",
+      "state": "active"
+    }
+  ],
+  "name": "Kurier am Sonntag",
+  "pressEditionsIVW": false,
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "nur als ePaper",
+  "type": "print",
+  "controlDate": "2026-05-14T14:34:56.817Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "pressType": {
+    "squuid": "5be1a6b0-4e68-459d-a5ee-da3974114c2a",
+    "name": "E-Paper",
+    "type": "press-type",
+    "state": "active"
+  }
+}
