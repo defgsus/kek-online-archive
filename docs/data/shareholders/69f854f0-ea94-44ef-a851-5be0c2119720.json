@@ -1,13 +1,30 @@
 {
   "name": "Albrecht, Yannick",
   "squuid": "69f854f0-ea94-44ef-a851-5be0c2119720",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "E. Albrecht Verlags-KG",
+        "squuid": "5d14bef7-3599-4e36-ac95-9a445288f28d"
+      },
+      "squuid": "69f8552d-9066-48a8-9026-6d170d03ddb5",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }

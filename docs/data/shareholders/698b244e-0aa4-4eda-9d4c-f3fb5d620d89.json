@@ -1,7 +1,13 @@
 {
-  "name": "kicker sportsworld GmbH",
-  "squuid": "698b244e-0aa4-4eda-9d4c-f3fb5d620d89",
   "state": "active",
+  "city": "Schönefeld",
+  "pseudoCompany": false,
+  "street": "Alt Großziethen",
+  "name": "kicker sportsworld GmbH",
+  "naturalPerson": false,
+  "squuid": "698b244e-0aa4-4eda-9d4c-f3fb5d620d89",
+  "controlDate": "2026-05-18T15:20:30.809Z",
+  "streetNumber": "30f",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -9,6 +15,7 @@
       "type": "organization"
     }
   ],
+  "zipcode": "12529",
   "operates": [
     {
       "type": "operate",
@@ -17,6 +24,18 @@
         "squuid": "698b23fc-c82d-49f0-b985-fb8e90965f43"
       },
       "squuid": "698b2464-1f11-41f1-8732-1d4fee014562",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kicker Ventures GmbH",
+        "squuid": "6a0b2ef6-e10e-4922-b671-e1ccd2af5f8b"
+      },
+      "squuid": "6a0b2f12-9897-4a46-a983-f5424ac6b4e2",
       "state": "active"
     }
   ]

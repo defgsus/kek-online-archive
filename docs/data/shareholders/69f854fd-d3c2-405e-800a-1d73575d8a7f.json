@@ -1,13 +1,30 @@
 {
   "name": "Albrecht, Anatol",
   "squuid": "69f854fd-d3c2-405e-800a-1d73575d8a7f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "E. Albrecht Verlags-KG",
+        "squuid": "5d14bef7-3599-4e36-ac95-9a445288f28d"
+      },
+      "squuid": "69f85518-946c-476a-8797-5ea60f8800ad",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }
