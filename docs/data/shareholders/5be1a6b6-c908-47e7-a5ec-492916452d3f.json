@@ -59,7 +59,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-c908-47e7-a5ec-492916452d3f",
-  "controlDate": "2026-02-10T12:50:30.153Z",
+  "controlDate": "2026-05-20T12:20:08.753Z",
   "streetNumber": "7",
   "organizations": [
     {
@@ -107,16 +107,6 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Giesdorf Mediengruppe GmbH & Co KG",
-        "squuid": "5be1a6b6-fb43-4e63-9777-3026b838d87b"
-      },
-      "squuid": "5be1a6b8-fc8a-452e-8635-571bc25d683c",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -125,6 +115,16 @@
         "squuid": "5ed105a2-1a3c-419b-8191-af0352dc9fef"
       },
       "squuid": "5ed105c1-f2b2-48be-8d92-7c099854cd80",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "B&G Medien GmbH & Co. KG",
+        "squuid": "6809eb17-aac1-4fc0-977b-b2b869c8ad3d"
+      },
+      "squuid": "698b2979-d3f6-43b3-a7d3-b284b7df0454",
       "state": "active"
     }
   ]

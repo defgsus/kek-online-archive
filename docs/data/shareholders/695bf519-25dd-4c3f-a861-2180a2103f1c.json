@@ -18,7 +18,7 @@
   "name": "Kurpfälzische Verlagsbeteiligungs GmbH",
   "naturalPerson": false,
   "squuid": "695bf519-25dd-4c3f-a861-2180a2103f1c",
-  "controlDate": "2026-01-20T13:02:57.099Z",
+  "controlDate": "2026-05-20T08:43:20.057Z",
   "streetNumber": "5-11",
   "organizations": [
     {
@@ -122,5 +122,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "67059"
+  "zipcode": "67059",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Medien Union dritte Vermögensverwaltung GmbH & Co. KG",
+        "squuid": "696f7dbd-272c-4ad3-baeb-13c6051a3264"
+      },
+      "squuid": "696f7dee-7ee8-46ca-a721-044515d735c6",
+      "state": "active"
+    }
+  ]
 }
