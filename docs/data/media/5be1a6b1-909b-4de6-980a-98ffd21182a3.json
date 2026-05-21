@@ -1,5 +1,6 @@
 {
   "state": "active",
+  "onlineAsOfDateIVW": "12/25",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-909b-4de6-980a-98ffd21182a3",
   "organization": {
@@ -16,18 +17,37 @@
       },
       "squuid": "5be1a6b9-d846-4b84-bc2d-27538e9f4571",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Verlag Lensing-Wolff GmbH & Co. KG",
+        "squuid": "5be1a6b6-0e2b-4b2a-8b1f-59ef8c74ae48"
+      },
+      "squuid": "6a0f1f8a-dc2a-4ee6-abb9-db384a0bbf8f",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "holder": {
+        "name": "RNW Redaktionsnetz Westfalen GmbH & Co. KG",
+        "squuid": "5c6bcc8b-fe82-430e-93aa-a6ddb17c50e9"
+      },
+      "squuid": "6a0f1f94-f72e-4c25-98f8-6ea83d965817",
+      "state": "active"
     }
   ],
   "name": "www.hertener-allgemeine.de",
   "pressEditionsIVW": false,
   "type": "online",
-  "controlDate": "2025-11-28T14:45:44.671Z",
-  "description": "Nutzungsdaten siehe unter www.recklinghaeuser-zeitung.de",
+  "controlDate": "2026-05-21T14:55:40.780Z",
+  "onlineIVWPI": 589400,
+  "description": "Überregionale Inhalte des Portals von den Ruhr Nachrichten und dem RNW Redaktionsnetz Westfalen.",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
   },
-  "onlineComments": "siehe unter www.recklinghaeuser-zeitung.de"
+  "onlineComments": ""
 }

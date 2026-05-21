@@ -85,12 +85,13 @@
   "city": "Bamberg",
   "note": "",
   "pseudoCompany": false,
-  "street": "Gutenbergstr. 1",
+  "street": "Gutenbergstr.",
   "name": "Mediengruppe Oberfranken GmbH & Co. KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-77ea-4cc0-b206-105ee3aec7f8",
-  "controlDate": "2026-02-18T13:14:46.125Z",
+  "controlDate": "2026-05-21T14:47:03.818Z",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -157,7 +158,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 49.0,
       "holder": {
         "name": "Fränkischer Tag GmbH",
         "squuid": "5bf40545-4596-4b19-b5ef-85b703781941"
@@ -174,6 +175,16 @@
         "squuid": "5eb555ce-4bce-4583-81b4-e97104459739"
       },
       "squuid": "5eb555fd-7252-452e-b970-b6e46b2e6a2a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Medien-Marketing Bayern Verwaltungs GmbH",
+        "squuid": "6995bb29-c6a4-4173-a90b-ede8c5a43566"
+      },
+      "squuid": "6995bb65-04de-4a0f-8f7d-c1f74851144e",
       "state": "active"
     }
   ]

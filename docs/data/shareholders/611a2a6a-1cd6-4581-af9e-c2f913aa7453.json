@@ -15,11 +15,11 @@
   "state": "active",
   "city": "Karlsruhe",
   "pseudoCompany": false,
-  "street": "Philipp-Reis-Str.",
+  "street": "Philipp-Reiss-Str.",
   "name": "Medienhaus Südwest Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "611a2a6a-1cd6-4581-af9e-c2f913aa7453",
-  "controlDate": "2025-11-28T15:20:10.904Z",
+  "controlDate": "2026-05-21T15:43:33.865Z",
   "streetNumber": "3",
   "organizations": [
     {
@@ -30,16 +30,6 @@
   ],
   "zipcode": "76137",
   "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 33.33,
-      "holder": {
-        "name": "Funkhaus Freiburg GmbH & Co. KG",
-        "squuid": "5be1a6b6-56ad-46d4-8221-517da639f398"
-      },
-      "squuid": "611a2be2-fe28-488e-9cd4-dfa8fe034b0b",
-      "state": "active"
-    },
     {
       "type": "own",
       "capitalShares": 33.33,
@@ -58,6 +48,16 @@
         "squuid": "5be1a6b6-b593-4d54-b4af-940456ef3a1e"
       },
       "squuid": "611a2c02-e0b5-40ae-bbf4-76b443081aa0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Funkhaus Freiburg GmbH & Co. KG",
+        "squuid": "6a0f28a5-3dd6-400c-b346-4789ffdf0ce5"
+      },
+      "squuid": "6a0f28c3-a511-450d-9a38-9fbb2c57fcd3",
       "state": "active"
     }
   ]

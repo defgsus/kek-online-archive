@@ -9,6 +9,16 @@
       },
       "squuid": "68efba51-7845-48f6-be3d-ecab743e76fe",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "DF1 Medien Verwaltungs GmbH",
+        "squuid": "68efba8d-f693-4522-a932-ef71f79be950"
+      },
+      "squuid": "68f73b4d-b906-4a3a-a43b-800d076ea487",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -18,7 +28,7 @@
   "name": "M.T.I. Teleport München GmbH Gesellschaft für Satellitenübertragungen",
   "naturalPerson": false,
   "squuid": "68efb9dc-a1a2-4250-bb45-dba0b8d6255b",
-  "controlDate": "2025-10-21T07:43:01.377Z",
+  "controlDate": "2026-05-21T08:37:39.242Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -32,5 +42,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "85774"
+  "zipcode": "85774",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schäffler, Ludwig",
+        "squuid": "66bdd1cb-b5be-4d5c-a55d-c7e0cd0cf956"
+      },
+      "squuid": "68f73a8c-45fb-4a2c-a944-fe800c1c6b91",
+      "state": "active"
+    }
+  ]
 }

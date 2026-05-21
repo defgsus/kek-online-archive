@@ -114,12 +114,13 @@
   "state": "active",
   "city": "Speyer",
   "pseudoCompany": false,
-  "street": "Im Neudeck 1",
+  "street": "Im Neudeck",
   "name": "Medienholding Klambt GmbH & Co KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-7140-4499-b16b-b5c1288ef7a6",
-  "controlDate": "2025-11-28T16:09:50.391Z",
+  "controlDate": "2026-05-21T15:51:23.068Z",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169,22 +170,12 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 12.5,
+      "capitalShares": 11.0,
       "holder": {
         "name": "Rose, Dr. Gerd Joachim",
         "squuid": "5be1a6b6-9262-4217-8b40-3268436bfff4"
       },
       "squuid": "5be1a6b8-5fe1-4541-b444-5c3b0eb7c477",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.0,
-      "holder": {
-        "name": "Witte, Ingeborg",
-        "squuid": "5be1a6b6-b314-4c1f-8ce4-7dd9ff094e2d"
-      },
-      "squuid": "5be1a6b8-6fc8-40bb-b69d-06e6c0919902",
       "state": "active"
     },
     {
@@ -199,7 +190,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 12.44,
+      "capitalShares": 10.94,
       "holder": {
         "name": "Rose, Lars",
         "squuid": "5be1a6b6-b0ac-4133-b5d6-e5594a19921d"
@@ -229,7 +220,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 10.57,
+      "capitalShares": 14.97,
       "holder": {
         "name": "Schrader, Martin",
         "squuid": "5be1a6b6-e4a1-4f12-b214-a9804bd0e4b0"
@@ -259,7 +250,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 9.57,
+      "capitalShares": 13.97,
       "holder": {
         "name": "Schrader, Maike-Mabice",
         "squuid": "5be1a6b6-b745-408d-82ac-6d1f8ec58e5a"
@@ -269,7 +260,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 1.4,
+      "capitalShares": 1.0,
       "holder": {
         "name": "Quisbrock, Jürgen Christian",
         "squuid": "5be1a6b6-0a59-4a6f-8886-29be480d5808"
@@ -279,22 +270,12 @@
     },
     {
       "type": "own",
-      "capitalShares": 2.0,
+      "capitalShares": 3.0,
       "holder": {
         "name": "Rose-Löbnitz, Christa",
         "squuid": "5be1a6b6-b84f-4f49-b871-e35239dde0e2"
       },
       "squuid": "5be1a6b8-0a84-4b05-900b-3f3fd33502ed",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 8.8,
-      "holder": {
-        "name": "Schrader, Michael",
-        "squuid": "5be1a6b6-f42b-4513-ad15-712b39ff38fc"
-      },
-      "squuid": "5be1a6b8-72e0-4653-8beb-4536c5a691dd",
       "state": "active"
     },
     {
@@ -310,7 +291,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.5,
+      "capitalShares": 1.0,
       "holder": {
         "name": "Rose, Helen",
         "squuid": "6093fbef-394a-4721-a9e2-79460490834e"
@@ -320,7 +301,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.5,
+      "capitalShares": 1.0,
       "holder": {
         "name": "Löbnitz, Dr. Lisa",
         "squuid": "6093fc35-fca7-4d31-89c0-cd4314130dcd"
@@ -340,7 +321,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.5,
+      "capitalShares": 1.0,
       "holder": {
         "name": "Rose, Henri",
         "squuid": "622f10f1-d986-4c60-8652-df72e4584e4f"
@@ -390,12 +371,32 @@
     },
     {
       "type": "own",
-      "capitalShares": 0.1,
+      "capitalShares": 0.5,
       "holder": {
         "name": "Riesebeck-Quisbrock, Christian",
         "squuid": "66798675-d5e1-4e12-8dc2-b41bc1a6a990"
       },
       "squuid": "66798694-9430-4e9e-bea1-1960fa114d53",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.0,
+      "holder": {
+        "name": "Witte, Florian",
+        "squuid": "6929c5be-9cc4-4b30-9830-b2ebbf1cbeae"
+      },
+      "squuid": "6929c5f6-f1cf-4679-9e97-9e68217bddea",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "holder": {
+        "name": "Rose, Lilian",
+        "squuid": "6929c5a0-caa3-4e7b-8a9f-35f9ec5706fa"
+      },
+      "squuid": "6929c625-9209-4994-a7e1-1ae2f7d9c9f3",
       "state": "active"
     }
   ]

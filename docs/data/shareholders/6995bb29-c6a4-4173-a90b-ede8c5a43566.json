@@ -18,7 +18,7 @@
   "name": "Medien-Marketing Bayern Verwaltungs GmbH",
   "naturalPerson": false,
   "squuid": "6995bb29-c6a4-4173-a90b-ede8c5a43566",
-  "controlDate": "2026-03-05T08:46:09.084Z",
+  "controlDate": "2026-05-21T14:00:30.036Z",
   "streetNumber": "5",
   "organizations": [
     {
@@ -81,5 +81,17 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "zipcode": "94036"
+  "zipcode": "94036",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Passauer Neue Presse GmbH",
+        "squuid": "5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
+      },
+      "squuid": "69a9459a-13e2-47a8-8f50-b499ed53ad1d",
+      "state": "active"
+    }
+  ]
 }
