@@ -1,4 +1,17 @@
 {
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Funkhaus Freiburg GmbH & Co. KG",
+        "squuid": "6a0f28a5-3dd6-400c-b346-4789ffdf0ce5"
+      },
+      "squuid": "6a100bde-a12e-4703-be34-221a77ee2485",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Freiburg i. Breisgau",
   "pseudoCompany": false,
@@ -10,10 +23,9 @@
   "streetNumber": "1",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ],
   "zipcode": "79111",

@@ -24,12 +24,13 @@
   "state": "active",
   "city": "Stuttgart",
   "pseudoCompany": false,
-  "street": "Gänseheidestr. 26",
+  "street": "Gänseheidestr.",
   "name": "Monika Schoeller Familiengesellschaft mbH & Co KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-c6b4-4c64-94e2-ce8dc66854f2",
-  "controlDate": "2025-12-01T14:34:20.458Z",
+  "controlDate": "2026-05-22T12:34:54.379Z",
+  "streetNumber": "26",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -48,7 +49,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 4.0,
       "holder": {
         "name": "Schoeller, Christiane",
         "squuid": "5be1a6b6-f35d-4b06-b2c8-e57e1c048bb8"
@@ -65,6 +66,26 @@
         "squuid": "5ec3cfd0-000f-444f-8980-5386b9734d1e"
       },
       "squuid": "5ec3cff0-101b-4a30-818f-c0bfec79275c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 48.0,
+      "holder": {
+        "name": "Keller, Caspar",
+        "squuid": "692da815-9dc8-4c81-a75b-b1a1fa9a7619"
+      },
+      "squuid": "692da87f-2aa5-4dca-b8ec-ccd46fc38c7e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 48.0,
+      "holder": {
+        "name": "Keller, Clara",
+        "squuid": "692da828-e758-452c-9720-1749910665d5"
+      },
+      "squuid": "692da898-6721-4a15-a406-d34f3058b41d",
       "state": "active"
     }
   ]

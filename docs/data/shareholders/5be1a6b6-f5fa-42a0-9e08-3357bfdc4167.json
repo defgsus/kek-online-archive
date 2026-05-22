@@ -74,12 +74,13 @@
   "state": "active",
   "city": "Gießen",
   "pseudoCompany": false,
-  "street": "Marburger Str. 20",
+  "street": "Marburger Str. ",
   "name": "Mittelhessische Druck- und Verlagshaus GmbH & Co KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-f5fa-42a0-9e08-3357bfdc4167",
-  "controlDate": "2025-12-01T13:25:43.460Z",
+  "controlDate": "2026-05-22T11:47:22.684Z",
+  "streetNumber": "20",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -273,6 +274,17 @@
         "squuid": "5ecbbbc4-dca4-4c45-b930-e8b24cd0a995"
       },
       "squuid": "5ecbbbe8-fde0-427e-ac10-7fa6ab768eef",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "GVG Gesellschaft für Verlagsgeschäfte oHG",
+        "squuid": "5be1a6b6-ad71-43a1-9487-fc074b7dcd8f"
+      },
+      "squuid": "6a104276-5883-496a-bd96-62005a670148",
       "state": "active"
     }
   ]

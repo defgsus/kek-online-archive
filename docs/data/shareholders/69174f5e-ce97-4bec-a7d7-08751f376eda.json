@@ -1,6 +1,4 @@
 {
-  "name": "MegaDruck.de Produktions- und Vertriebs-GmbH",
-  "squuid": "69174f5e-ce97-4bec-a7d7-08751f376eda",
   "owns": [
     {
       "type": "own",
@@ -14,11 +12,32 @@
     }
   ],
   "state": "active",
+  "city": "Westerstede",
+  "pseudoCompany": false,
+  "street": "Am Haferkamp",
+  "name": "MegaDruck.de Produktions- und Vertriebs-GmbH",
+  "naturalPerson": false,
+  "squuid": "69174f5e-ce97-4bec-a7d7-08751f376eda",
+  "controlDate": "2026-05-22T08:13:45.893Z",
+  "streetNumber": "4",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "zipcode": "26655",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Müller, Carsten",
+        "squuid": "6a1010a3-3ed5-420a-91df-5417c37dfb64"
+      },
+      "squuid": "6a1010b4-7c1d-45fa-8833-33ad4fc5a59a",
+      "state": "active"
     }
   ]
 }

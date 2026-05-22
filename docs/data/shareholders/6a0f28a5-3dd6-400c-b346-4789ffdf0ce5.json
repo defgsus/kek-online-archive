@@ -1,6 +1,4 @@
 {
-  "name": "Funkhaus Freiburg GmbH & Co. KG",
-  "squuid": "6a0f28a5-3dd6-400c-b346-4789ffdf0ce5",
   "owns": [
     {
       "type": "own",
@@ -24,11 +22,44 @@
     }
   ],
   "state": "active",
+  "city": "Freiburg",
+  "pseudoCompany": false,
+  "street": "Munzinger Str.",
+  "name": "Funkhaus Freiburg GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6a0f28a5-3dd6-400c-b346-4789ffdf0ce5",
+  "controlDate": "2026-05-22T07:51:33.755Z",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "zipcode": "78111",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "baden.audio GmbH",
+        "squuid": "69fc8080-3ead-4182-9008-08c9eeca8f57"
+      },
+      "squuid": "6a100bcf-4e7f-40a1-a88a-89133873275f",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Funkhaus Freiburg Verwaltungs GmbH",
+        "squuid": "5eeb6b61-69f5-4e21-be9c-60e7f02b84ac"
+      },
+      "squuid": "6a100bde-a12e-4703-be34-221a77ee2485",
+      "state": "active"
     }
   ]
 }
