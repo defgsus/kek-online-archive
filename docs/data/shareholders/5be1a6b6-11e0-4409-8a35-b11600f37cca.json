@@ -104,12 +104,13 @@
   "state": "active",
   "city": "Osnabrück",
   "pseudoCompany": false,
-  "street": "Breiter Gang 10",
+  "street": "Große Str.",
   "name": "Neue Osnabrücker Zeitung GmbH & Co. KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-11e0-4409-8a35-b11600f37cca",
-  "controlDate": "2025-12-03T09:03:23.009Z",
+  "controlDate": "2026-05-26T12:21:16.804Z",
+  "streetNumber": "17-19",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -1014,6 +1015,15 @@
         "squuid": "5be1a6b1-3ef9-4ad6-8a59-3930911852ed"
       },
       "squuid": "6a01f4f5-42c4-4b88-a95d-2fb49ad921ef",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.noz.de",
+        "squuid": "6a1592db-ebb3-4b62-908e-0540a55b15eb"
+      },
+      "squuid": "6a1592f5-21df-49d9-a6fd-9be53270684f",
       "state": "active"
     }
   ],

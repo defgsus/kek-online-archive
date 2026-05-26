@@ -1,13 +1,30 @@
 {
   "name": "Haberger, Michaela",
   "squuid": "6a031613-d74e-41f3-a83a-66a9c301e32c",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 37.0,
+      "held": {
+        "name": "H. Weber GmbH & Co. KG",
+        "squuid": "5f7c7f34-76bb-4d4d-b5da-09027dd12cc4"
+      },
+      "squuid": "6a03162a-3577-4ede-bfcf-063df377a3c9",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }
