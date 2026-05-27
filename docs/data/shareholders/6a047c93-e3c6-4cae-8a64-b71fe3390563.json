@@ -1,13 +1,30 @@
 {
   "name": "Erbengemeinschaft nach Michael Friemel (Kathleen Heidi Böhme, Michael Bert Friemel)",
   "squuid": "6a047c93-e3c6-4cae-8a64-b71fe3390563",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 0.51,
+      "held": {
+        "name": "HITRADIO RTL Sachsen GmbH",
+        "squuid": "5be1a6b6-f658-46b1-9195-6a62234756bb"
+      },
+      "squuid": "6a047cc4-74a3-4578-947a-da89d56592f2",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ]
 }
