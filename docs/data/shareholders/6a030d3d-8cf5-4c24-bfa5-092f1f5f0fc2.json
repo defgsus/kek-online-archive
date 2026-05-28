@@ -1,6 +1,4 @@
 {
-  "name": "Verwaltungsgesellschaft Emder Zeitung GmbH",
-  "squuid": "6a030d3d-8cf5-4c24-bfa5-092f1f5f0fc2",
   "owns": [
     {
       "complementaryPartner": true,
@@ -15,6 +13,14 @@
     }
   ],
   "state": "active",
+  "city": "Oldenburg",
+  "pseudoCompany": false,
+  "street": "August-Hanken-Str.",
+  "name": "Verwaltungsgesellschaft Emder Zeitung GmbH",
+  "naturalPerson": false,
+  "squuid": "6a030d3d-8cf5-4c24-bfa5-092f1f5f0fc2",
+  "controlDate": "2026-05-28T12:36:50.971Z",
+  "streetNumber": "24",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -104,5 +110,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "26125"
 }

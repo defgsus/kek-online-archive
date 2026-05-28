@@ -33,14 +33,15 @@
   ],
   "state": "active",
   "city": "Oldenburg (Oldb)",
-  "note": "Inhaberwechsel des Verlages bzw. der Nordwest-Medien GmbH & Co. KG (Übernahme durch die Verlagsgesellschaft Madsack/Hannover) zum 1. Januar 2026 geplant bzw. angekündigt.",
+  "note": "",
   "pseudoCompany": false,
-  "street": "Peterstraße 28-34",
+  "street": "Wilhelmshavener Heerstr.",
   "name": "Nordwest-Zeitung Verlagsgesellschaft mbH & Co KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-b2f4-4429-bd16-474ad6037163",
-  "controlDate": "2025-12-03T14:53:24.364Z",
+  "controlDate": "2026-05-28T12:48:22.407Z",
+  "streetNumber": "260",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -48,7 +49,7 @@
       "type": "organization"
     }
   ],
-  "zipcode": "26121",
+  "zipcode": "26125",
   "operates": [
     {
       "type": "operate",
@@ -171,16 +172,6 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Nordwest-Medien GmbH & Co. KG",
-        "squuid": "5be1a6b6-6d98-47de-ac59-bdd22da3974d"
-      },
-      "squuid": "5be1a6b8-3d4e-4a7d-ac3b-30cfb44818da",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -189,6 +180,16 @@
         "squuid": "5eb2a95e-80c9-4735-9ac2-05236316199a"
       },
       "squuid": "5eb2a98b-4485-4fe3-b540-7911f4153e0e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Madsack Beteiligungsholding GmbH & Co. KG",
+        "squuid": "696f6eed-d091-4662-8b88-a98f9dfaac5d"
+      },
+      "squuid": "696f6f51-0d36-4b3f-bda4-c4ff1268ccc1",
       "state": "active"
     }
   ]

@@ -1,6 +1,4 @@
 {
-  "name": "Hoepfner Besser Wohnen GmbH & Co. KG",
-  "squuid": "6a048a1b-ec57-4d41-9136-984b353a2c9e",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,15 @@
     }
   ],
   "state": "active",
+  "city": "Karlsruhe",
+  "pseudoCompany": false,
+  "street": "Haid-und-Neu-Str.",
+  "name": "Hoepfner Besser Wohnen GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6a048a1b-ec57-4d41-9136-984b353a2c9e",
+  "controlDate": "2026-05-28T09:34:08.500Z",
+  "streetNumber": "18",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +33,6 @@
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
-  ]
+  ],
+  "zipcode": "76131"
 }
