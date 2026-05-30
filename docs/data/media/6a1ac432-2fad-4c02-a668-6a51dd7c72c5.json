@@ -1,0 +1,34 @@
+{
+  "state": "active",
+  "squuid": "6a1ac432-2fad-4c02-a668-6a51dd7c72c5",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Test GmbH & Co. KG",
+        "squuid": "6a1ac421-806a-4802-aafe-f33b3dd5627d"
+      },
+      "squuid": "6a1ac45a-e53d-42d2-9373-157e3606c700",
+      "state": "active"
+    }
+  ],
+  "name": "Testzeitung",
+  "rfPublicPrivate": false,
+  "type": "print",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "pressType": {
+    "squuid": "5be1a6b0-e4cc-4064-9625-597855abfd7c",
+    "name": "Zeitung",
+    "type": "press-type",
+    "state": "active"
+  }
+}

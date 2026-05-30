@@ -1,0 +1,25 @@
+{
+  "name": "Testkomplementär",
+  "squuid": "6a1ac492-4008-49d9-928e-7e572910cd27",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Test GmbH & Co. KG",
+        "squuid": "6a1ac421-806a-4802-aafe-f33b3dd5627d"
+      },
+      "squuid": "6a1ac586-a6a3-470a-8d47-5024dc99bc78",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ]
+}

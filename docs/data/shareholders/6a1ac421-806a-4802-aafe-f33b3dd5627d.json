@@ -1,0 +1,50 @@
+{
+  "state": "active",
+  "pseudoCompany": false,
+  "name": "Test GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6a1ac421-806a-4802-aafe-f33b3dd5627d",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Testzeitung",
+        "squuid": "6a1ac432-2fad-4c02-a668-6a51dd7c72c5"
+      },
+      "squuid": "6a1ac45a-e53d-42d2-9373-157e3606c700",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "Testkomplementär",
+        "squuid": "6a1ac492-4008-49d9-928e-7e572910cd27"
+      },
+      "squuid": "6a1ac586-a6a3-470a-8d47-5024dc99bc78",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 90.0,
+      "holder": {
+        "name": "Testkommanditist1",
+        "squuid": "6a1ac4ac-ea45-4de3-81dc-cbc2e09c1733"
+      },
+      "liabilitySum": 100.0,
+      "squuid": "6a1ac5a1-9a21-4a5d-98f6-3d435acbd6e2",
+      "state": "active"
+    }
+  ]
+}
