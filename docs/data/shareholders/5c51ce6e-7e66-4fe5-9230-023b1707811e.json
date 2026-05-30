@@ -1,53 +1,20 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "PE Digital GmbH ",
-        "squuid": "5c51cd1e-8d63-4b83-8f30-7cb79fa35bea"
-      },
-      "squuid": "5c51ce8b-4e98-4345-becd-f93a2ce541bb",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Hamburg",
   "pseudoCompany": false,
   "street": "Speersort ",
   "name": "Parship Group GmbH",
   "naturalPerson": false,
   "squuid": "5c51ce6e-7e66-4fe5-9230-023b1707811e",
-  "controlDate": "2025-12-05T13:32:24.749Z",
+  "controlDate": "2026-05-29T12:06:13.945Z",
   "streetNumber": "10",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "20095",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 95.6,
-      "holder": {
-        "name": "ParshipMeet Holding GmbH",
-        "squuid": "63beaa43-4ca3-42b1-88d9-20857c390059"
-      },
-      "squuid": "67508069-f93d-4f17-af24-fe70a24a69c1",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 4.4,
-      "holder": {
-        "name": "PEG Management GmbH & Co. KG",
-        "squuid": "5e203cc0-aed9-45b8-a272-5c22a5c2f4e6"
-      },
-      "squuid": "67508091-8cf5-49de-aece-dcb5d27b5964",
-      "state": "active"
-    }
-  ]
+  "zipcode": "20095"
 }

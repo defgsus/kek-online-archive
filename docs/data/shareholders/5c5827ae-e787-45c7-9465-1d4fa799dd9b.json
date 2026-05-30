@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Altenberg",
   "supplierConsortium": false,
   "pseudoCompany": false,
@@ -10,22 +10,11 @@
   "streetNumber": "3",
   "organizations": [
     {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "01773",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Kabelzeitung (Altenberg, Geising, Zinnwald)",
-        "squuid": "5c582787-efd6-4af4-9cc3-97ec6ce3ad3d"
-      },
-      "squuid": "5c582852-6bdd-4099-9b94-5e06a8a7d569",
-      "state": "active"
-    }
-  ]
+  "zipcode": "01773"
 }
