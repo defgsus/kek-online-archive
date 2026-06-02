@@ -1,5 +1,6 @@
 {
   "name": "Romanek-Pfahler, Stefanie",
+  "pseudoCompany": false,
   "squuid": "69e0e0e7-10fb-4abe-aa5f-9ea99e1527df",
   "owns": [
     {
@@ -21,8 +22,19 @@
       },
       "squuid": "69e0e210-f0a0-4c3a-ad1c-79b99733c431",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.9,
+      "held": {
+        "name": "Extra Verlagsgesellschaft mbH",
+        "squuid": "63e3cf74-db05-4475-ba94-da6e26fe14af"
+      },
+      "squuid": "69f9d9ac-87f1-47fd-a4e0-2a4f9c141282",
+      "state": "active"
     }
   ],
+  "city": "Nürnberg",
   "state": "active",
   "organizations": [
     {
@@ -52,12 +64,6 @@
       "name": "Medienanstalt Hessen",
       "type": "organization",
       "fullName": "Medienanstalt Hessen"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     },
     {
       "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
@@ -107,5 +113,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

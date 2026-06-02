@@ -1,13 +1,29 @@
 {
   "name": "AMC International Productions B.V.",
   "squuid": "6a0b33f1-0264-45b4-afc9-6d91badce9bc",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Kinowelt Television GmbH",
+        "squuid": "5be1a6b6-981e-4738-8602-d42b4ee91a40"
+      },
+      "squuid": "6a0b3419-1efa-45fa-b504-32db3a88fb48",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

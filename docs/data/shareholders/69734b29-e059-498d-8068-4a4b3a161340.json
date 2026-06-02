@@ -10,6 +10,49 @@
       },
       "squuid": "69734be8-e432-4ec7-99dc-9e85a519139c",
       "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "SB Dienstleistung KG",
+        "squuid": "69734b67-1b84-464f-8f8c-8b4c4ef041a9"
+      },
+      "squuid": "698b5daa-ee64-4307-87a1-5df9745991e8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "held": {
+        "name": "PVG Geschäftsführungs- und Verwaltungs-GmbH",
+        "squuid": "698b6050-0f97-4e93-bc2e-bf4435f85817"
+      },
+      "squuid": "698deaf9-8643-4616-89e0-d9c167a6a40d",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "D. Schwarz Beteiligungs-KG",
+        "squuid": "698b5e29-2723-434b-9515-bcc48b9a710b"
+      },
+      "squuid": "698df0b1-5300-4532-874d-30cd27a98dba",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Schwarz Beteiligungs-KG",
+        "squuid": "698df047-3107-48ca-af6e-fc31aa72ad17"
+      },
+      "squuid": "6992eb27-fc59-401d-8d85-05798ece1866",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -20,7 +63,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "69734b29-e059-498d-8068-4a4b3a161340",
-  "controlDate": "2026-02-10T16:40:17.472Z",
+  "controlDate": "2026-06-01T12:50:34.276Z",
   "streetNumber": "35",
   "organizations": [
     {
@@ -34,5 +77,39 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwarz, Dieter",
+        "squuid": "68f8c9ba-4d6b-4f50-8d50-1188b9f2a446"
+      },
+      "squuid": "698b6015-eccc-4228-a5ee-0bf5a969aac7",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "PVG Geschäftsführungs- und Verwaltungs-GmbH",
+        "squuid": "698b6050-0f97-4e93-bc2e-bf4435f85817"
+      },
+      "squuid": "698b609c-9640-4092-84cb-55115b43ce49",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "PVG Beteiligungs-GmbH",
+        "squuid": "698b606e-6b7c-404d-9ba0-0e0deb1e0110"
+      },
+      "squuid": "698b60b7-a03c-4c6d-b8db-8b05f82667f2",
+      "state": "active"
+    }
+  ]
 }

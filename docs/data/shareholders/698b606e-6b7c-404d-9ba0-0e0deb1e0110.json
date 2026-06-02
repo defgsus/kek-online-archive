@@ -18,7 +18,7 @@
   "name": "PVG Beteiligungs-GmbH",
   "naturalPerson": false,
   "squuid": "698b606e-6b7c-404d-9ba0-0e0deb1e0110",
-  "controlDate": "2026-02-12T14:55:23.966Z",
+  "controlDate": "2026-06-01T12:50:02.155Z",
   "streetNumber": "35",
   "organizations": [
     {
@@ -32,5 +32,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Die JUSTUS gGmbH",
+        "squuid": "698de9c2-92bf-4ea1-bce8-7eef586ff1a0"
+      },
+      "squuid": "698de9db-8f26-4788-abc6-d5ee31ea1c9a",
+      "state": "active"
+    }
+  ]
 }

@@ -19,7 +19,7 @@
   "name": "PVG Geschäftsführungs- und Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "698b6050-0f97-4e93-bc2e-bf4435f85817",
-  "controlDate": "2026-02-12T14:56:03.309Z",
+  "controlDate": "2026-06-01T12:50:19.037Z",
   "streetNumber": "35",
   "organizations": [
     {
@@ -33,5 +33,27 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "PVG Geschäftsführungs-KG",
+        "squuid": "69734b29-e059-498d-8068-4a4b3a161340"
+      },
+      "squuid": "698deaf9-8643-4616-89e0-d9c167a6a40d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Hoffmann, Hermann-Josef",
+        "squuid": "698deacf-27e2-4767-be3f-38c5ff8c4a26"
+      },
+      "squuid": "698deb13-ff7e-4b82-8029-b58b72073852",
+      "state": "active"
+    }
+  ]
 }
