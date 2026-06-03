@@ -28,7 +28,7 @@
   "name": "RTL Radio-Beteiligungsgesellschaft mbH",
   "naturalPerson": false,
   "squuid": "68de6a87-02d2-4068-989d-cae776ea8273",
-  "controlDate": "2025-12-15T14:10:07.701Z",
+  "controlDate": "2026-06-02T12:20:15.243Z",
   "streetNumber": "30",
   "organizations": [
     {
@@ -43,5 +43,17 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ],
-  "zipcode": "10719"
+  "zipcode": "10719",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "RTL Radio Deutschland GmbH",
+        "squuid": "5be1a6b6-fa80-4709-a830-dea042b7476d"
+      },
+      "squuid": "69401745-276f-4535-932f-db738db5df37",
+      "state": "active"
+    }
+  ]
 }

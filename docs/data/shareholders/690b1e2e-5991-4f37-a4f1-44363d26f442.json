@@ -18,7 +18,7 @@
   "name": "Rudolf Fuchs Kapitalanlage-Gesellschaft mbH",
   "naturalPerson": false,
   "squuid": "690b1e2e-5991-4f37-a4f1-44363d26f442",
-  "controlDate": "2025-11-25T11:41:36.483Z",
+  "controlDate": "2026-06-02T13:04:28.210Z",
   "streetNumber": "11",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "68169"
+  "zipcode": "68169",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Rudolf Fuchs SE & Co. KG",
+        "squuid": "6925d8ab-7107-47fe-9214-672efc2447d3"
+      },
+      "squuid": "6925d8c7-617f-4435-a980-cec7ed9599bc",
+      "state": "active"
+    }
+  ]
 }

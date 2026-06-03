@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "6925d8ab-7107-47fe-9214-672efc2447d3",
-  "controlDate": "2025-12-10T12:59:59.682Z",
+  "controlDate": "2026-06-02T13:05:14.880Z",
   "streetNumber": "11",
   "organizations": [
     {
@@ -34,5 +34,28 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "68169"
+  "zipcode": "68169",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Rudolf Fuchs Verwaltungs SE",
+        "squuid": "69396ee7-ec08-4cd9-8cc6-77385221e8e7"
+      },
+      "squuid": "69396f5e-7ef6-4638-9035-de66da30ce59",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Streubesitz an der Rudolf Fuch SE & Co. KG",
+        "squuid": "69396f00-cc78-4ad6-94f5-c298233f6a32"
+      },
+      "squuid": "69396f7e-3242-45d9-8412-a2645bd0f29c",
+      "state": "active"
+    }
+  ]
 }

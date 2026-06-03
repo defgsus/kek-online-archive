@@ -44,12 +44,13 @@
   "state": "active",
   "city": "Ludwigshafen",
   "pseudoCompany": false,
-  "street": "Amtsstr. 5-11",
+  "street": "Amtsstr. ",
   "name": "Rheinpfalz Verlag und Druckerei GmbH & Co KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-b0cb-4887-968f-e1c3d68f02ae",
-  "controlDate": "2025-12-11T14:14:09.439Z",
+  "controlDate": "2026-06-02T09:32:36.474Z",
+  "streetNumber": "5-11",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -128,7 +129,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 5.12,
+      "capitalShares": 1.12,
       "holder": {
         "name": "Nagel, Peter",
         "squuid": "5be1a6b6-d585-4207-b6e3-7bdd45ed58fc"
@@ -138,7 +139,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 4.92,
+      "capitalShares": 3.43,
       "holder": {
         "name": "Lenk, Anja",
         "squuid": "5be1a6b6-974d-47b8-bf52-8d33b021f9da"
@@ -326,6 +327,56 @@
         "squuid": "69285186-ef79-46c2-8ddf-0032b282c5d6"
       },
       "squuid": "692854d3-6e46-4ec5-9979-9d16d5277a6f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "holder": {
+        "name": "Halin, Fiona",
+        "squuid": "6a0f06fb-4c14-486d-8d4f-1cd848592804"
+      },
+      "squuid": "6a1ea839-afc8-4924-aedb-813262a9f550",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "holder": {
+        "name": "Halin, Philip",
+        "squuid": "6a0f0711-590f-4bcc-8d57-614fd41f369a"
+      },
+      "squuid": "6a1ea848-705d-4611-909b-af4a8d1f3930",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "holder": {
+        "name": "Lenk, Vinzent",
+        "squuid": "6a0f06e2-f122-4856-96f2-147f7f9fe9f3"
+      },
+      "squuid": "6a1ea864-173f-4872-848d-05ac5e34c313",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Nagel, Vanessa",
+        "squuid": "6a0f0879-8293-4b8e-8b2e-7cecf274e0a9"
+      },
+      "squuid": "6a1ea87e-1a36-4cf2-a965-af220241c62a",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "holder": {
+        "name": "Nagel, Marcel",
+        "squuid": "6a0f086a-f4ae-473d-b24e-e94d969d34a3"
+      },
+      "squuid": "6a1ea896-cf15-4c97-acce-9d55b96c9bb2",
       "state": "active"
     }
   ]

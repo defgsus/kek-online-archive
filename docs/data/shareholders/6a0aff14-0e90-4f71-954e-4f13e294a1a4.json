@@ -1,6 +1,4 @@
 {
-  "name": "Thomann GmbH",
-  "squuid": "6a0aff14-0e90-4f71-954e-4f13e294a1a4",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Landshut",
+  "pseudoCompany": false,
+  "street": "Altstadt",
+  "name": "Thomann GmbH",
+  "naturalPerson": false,
+  "squuid": "6a0aff14-0e90-4f71-954e-4f13e294a1a4",
+  "controlDate": "2026-06-02T08:45:27.954Z",
+  "streetNumber": "89",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -115,5 +121,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "84028"
 }

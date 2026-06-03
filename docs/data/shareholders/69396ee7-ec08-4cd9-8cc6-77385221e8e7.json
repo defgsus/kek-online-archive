@@ -19,7 +19,7 @@
   "name": "Rudolf Fuchs Verwaltungs SE",
   "naturalPerson": false,
   "squuid": "69396ee7-ec08-4cd9-8cc6-77385221e8e7",
-  "controlDate": "2026-01-05T11:09:07.272Z",
+  "controlDate": "2026-06-02T13:05:23.640Z",
   "streetNumber": "11",
   "organizations": [
     {
@@ -34,5 +34,17 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "68169"
+  "zipcode": "68169",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Blitzstart Gründungs SE",
+        "squuid": "695b9ba8-6461-4a61-8ca7-d34ff631ef52"
+      },
+      "squuid": "695b9bd0-7467-4ac6-80df-761a952bf2c5",
+      "state": "active"
+    }
+  ]
 }

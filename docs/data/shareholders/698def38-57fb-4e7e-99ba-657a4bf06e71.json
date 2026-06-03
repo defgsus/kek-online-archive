@@ -9,6 +9,16 @@
       },
       "squuid": "698df134-e63c-408c-bc5a-ea9d5afaa601",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.95,
+      "held": {
+        "name": "Schwarz Beteiligungs-KG",
+        "squuid": "698df047-3107-48ca-af6e-fc31aa72ad17"
+      },
+      "squuid": "6992ebc6-ca4b-4757-b8fa-c086d433ebd0",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -18,7 +28,7 @@
   "name": "Rosint GmbH",
   "naturalPerson": false,
   "squuid": "698def38-57fb-4e7e-99ba-657a4bf06e71",
-  "controlDate": "2026-02-16T09:33:35.938Z",
+  "controlDate": "2026-06-02T11:32:56.978Z",
   "streetNumber": "44",
   "organizations": [
     {
@@ -30,6 +40,18 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Dieter Schwarz Stiftung für Kunst & Kultur",
+        "squuid": "6992e821-77a7-47dc-8b2c-021dcd48055d"
+      },
+      "squuid": "6992e845-0e77-45b4-8acb-2b722724c9ad",
+      "state": "active"
     }
   ]
 }

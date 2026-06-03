@@ -1,13 +1,24 @@
 {
   "name": "Nagel, Marcel",
   "squuid": "6a0f086a-f4ae-473d-b24e-e94d969d34a3",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "Rheinpfalz Verlag und Druckerei GmbH & Co KG",
+        "squuid": "5be1a6b6-b0cb-4887-968f-e1c3d68f02ae"
+      },
+      "squuid": "6a1ea896-cf15-4c97-acce-9d55b96c9bb2",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
