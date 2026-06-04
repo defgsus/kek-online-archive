@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Radio Charivari Verwaltungs-GmbH",
+        "squuid": "6913106c-d347-4299-96eb-36db845a5269"
+      },
+      "squuid": "693825ee-d6fd-49f1-877c-3962faadaf0c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "München",
   "supplierConsortium": true,
@@ -8,7 +20,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-629f-4f77-8297-f5d0290fd4da",
-  "controlDate": "2025-11-11T10:31:24.783Z",
+  "controlDate": "2026-06-04T09:42:47.167Z",
   "streetNumber": "2-4",
   "organizations": [
     {
@@ -64,6 +76,27 @@
         "squuid": "5be1a6b6-2335-4d4b-ada5-63324533b0b7"
       },
       "squuid": "68da7f9e-e647-4f31-b1b8-a99a6148f82d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Münchener Zeitungs-Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1"
+      },
+      "squuid": "691310bf-41cc-4d43-b42b-32b0ae453f63",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Radio Charivari Verwaltungs-GmbH",
+        "squuid": "6913106c-d347-4299-96eb-36db845a5269"
+      },
+      "squuid": "691310fc-d739-47af-9acf-700655f9a497",
       "state": "active"
     }
   ]
