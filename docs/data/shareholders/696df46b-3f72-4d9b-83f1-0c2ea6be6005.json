@@ -19,7 +19,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "696df46b-3f72-4d9b-83f1-0c2ea6be6005",
-  "controlDate": "2026-01-23T10:15:16.097Z",
+  "controlDate": "2026-06-09T13:39:04.519Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -33,5 +33,39 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "SB Dienstleistung KG",
+        "squuid": "69734b67-1b84-464f-8f8c-8b4c4ef041a9"
+      },
+      "squuid": "69734ba8-4ff7-4156-8519-f41d981529dd",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kappa-Stiftung",
+        "squuid": "69734b05-6cf3-464e-8280-0e9c3f502760"
+      },
+      "squuid": "69734bc5-e22a-48d8-9ed8-b767674daa29",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "PVG Geschäftsführungs-KG",
+        "squuid": "69734b29-e059-498d-8068-4a4b3a161340"
+      },
+      "squuid": "69734be8-e432-4ec7-99dc-9e85a519139c",
+      "state": "active"
+    }
+  ]
 }

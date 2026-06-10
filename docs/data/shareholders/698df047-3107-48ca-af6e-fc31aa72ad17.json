@@ -10,6 +10,16 @@
       },
       "squuid": "698df0c7-35b6-400d-ac72-5a4a4d1898b3",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "held": {
+        "name": "SB Verwaltungs-GmbH",
+        "squuid": "698df011-48b8-4584-88c0-cf099bf12802"
+      },
+      "squuid": "6992e9ae-1a90-4870-bbaa-97bb4de7f818",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -20,7 +30,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "698df047-3107-48ca-af6e-fc31aa72ad17",
-  "controlDate": "2026-02-16T09:57:51.552Z",
+  "controlDate": "2026-06-09T13:37:42.013Z",
   "streetNumber": "35",
   "organizations": [
     {
@@ -34,5 +44,92 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Dieter Schwarz TV-Vermögensverwaltung GmbH",
+        "squuid": "698defba-caa1-4606-875e-ca16e51c9079"
+      },
+      "squuid": "6992eae2-844b-49fb-8284-08ee2cd0f3b5",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SB-Stiftung",
+        "squuid": "698defdf-d495-430c-bf16-31fc1fd0f5e1"
+      },
+      "squuid": "6992eb01-6b7a-4a0b-96f5-83c530335356",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "PVG Geschäftsführungs-KG",
+        "squuid": "69734b29-e059-498d-8068-4a4b3a161340"
+      },
+      "squuid": "6992eb27-fc59-401d-8d85-05798ece1866",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "SB Verwaltungs-GmbH",
+        "squuid": "698df011-48b8-4584-88c0-cf099bf12802"
+      },
+      "squuid": "6992eb49-cdf6-4cec-bd6d-939f39955776",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Schwarz, Dieter",
+        "squuid": "68f8c9ba-4d6b-4f50-8d50-1188b9f2a446"
+      },
+      "squuid": "6992eb61-1c38-44c0-a4ad-eadaa378839f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.95,
+      "holder": {
+        "name": "Zeha GmbH",
+        "squuid": "698def28-8857-48ac-bfdc-0ee0099f6c2b"
+      },
+      "squuid": "6992ebb1-153c-40b4-aaa0-06d38811caaf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.95,
+      "holder": {
+        "name": "Rosint GmbH",
+        "squuid": "698def38-57fb-4e7e-99ba-657a4bf06e71"
+      },
+      "squuid": "6992ebc6-ca4b-4757-b8fa-c086d433ebd0",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.1,
+      "holder": {
+        "name": "Schwarz Unternehmenstreuhand KG",
+        "squuid": "698deefe-1af7-4537-b84a-92502f6012a2"
+      },
+      "squuid": "6992f0c4-0394-43fa-8853-7bff85e55df6",
+      "state": "active"
+    }
+  ]
 }

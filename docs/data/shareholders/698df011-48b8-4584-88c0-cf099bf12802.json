@@ -10,6 +10,17 @@
       },
       "squuid": "698df0e3-9af8-41d8-bef3-dd59c508558e",
       "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "Schwarz Beteiligungs-KG",
+        "squuid": "698df047-3107-48ca-af6e-fc31aa72ad17"
+      },
+      "squuid": "6992eb49-cdf6-4cec-bd6d-939f39955776",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -19,7 +30,7 @@
   "name": "SB Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "698df011-48b8-4584-88c0-cf099bf12802",
-  "controlDate": "2026-02-16T09:52:45.683Z",
+  "controlDate": "2026-06-09T09:58:53.040Z",
   "streetNumber": "35",
   "organizations": [
     {
@@ -33,5 +44,27 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "Schwarz Beteiligungs-KG",
+        "squuid": "698df047-3107-48ca-af6e-fc31aa72ad17"
+      },
+      "squuid": "6992e9ae-1a90-4870-bbaa-97bb4de7f818",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Reger, Dr. Gerald",
+        "squuid": "68f8ca3a-4524-4ad7-a6df-a9c5ddc4ccf8"
+      },
+      "squuid": "6992e9c1-598e-479f-be88-cf506560f522",
+      "state": "active"
+    }
+  ]
 }

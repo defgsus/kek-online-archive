@@ -19,7 +19,7 @@
   "name": "SB Dienstleistung Verwaltungs-GmbH",
   "naturalPerson": false,
   "squuid": "698b5df7-cc6c-4f71-af27-897c1ed21b74",
-  "controlDate": "2026-02-12T15:05:16.823Z",
+  "controlDate": "2026-06-09T09:58:32.558Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -33,5 +33,27 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 49.0,
+      "holder": {
+        "name": "SB Dienstleistung KG",
+        "squuid": "69734b67-1b84-464f-8f8c-8b4c4ef041a9"
+      },
+      "squuid": "698decc0-6253-4d51-87fa-bb92c9ccbd20",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 51.0,
+      "holder": {
+        "name": "Reger, Dr. Gerald",
+        "squuid": "68f8ca3a-4524-4ad7-a6df-a9c5ddc4ccf8"
+      },
+      "squuid": "698decd6-7ec0-4db8-82a8-e5b52448c3fa",
+      "state": "active"
+    }
+  ]
 }

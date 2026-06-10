@@ -1,10 +1,8 @@
 {
-  "name": "Sanacorp eG Pharmazeutische Großhandlung",
-  "squuid": "63c57ed3-6a5c-4985-be30-6fa62dbe8cd8",
   "owns": [
     {
       "type": "own",
-      "capitalShares": 1.4,
+      "capitalShares": 0.6,
       "held": {
         "name": "gesund.de GmbH & Co. KG",
         "squuid": "61b320a6-94dc-446d-b25a-ab63da05c97a"
@@ -14,7 +12,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 1.4,
+      "capitalShares": 0.99,
       "held": {
         "name": "gesund.de Beteiligungsverwaltungs GmbH",
         "squuid": "61b320e6-0700-40ae-8fa3-b141f94b53ca"
@@ -23,12 +21,18 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Planegg",
+  "pseudoCompany": false,
+  "name": "Sanacorp eG Pharmazeutische Großhandlung",
+  "naturalPerson": false,
+  "squuid": "63c57ed3-6a5c-4985-be30-6fa62dbe8cd8",
+  "controlDate": "2026-06-09T09:33:32.049Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "state": "active"
+  ]
 }

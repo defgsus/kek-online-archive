@@ -19,7 +19,7 @@
   "name": "Schwarz Geschäftsführungsgesellschaft mbH",
   "naturalPerson": false,
   "squuid": "6992f2d7-f248-4ac1-80b1-4d374052c4bb",
-  "controlDate": "2026-02-24T15:06:22.059Z",
+  "controlDate": "2026-06-09T13:39:19.953Z",
   "streetNumber": "35",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwarz Unternehmenstreuhand KG",
+        "squuid": "698deefe-1af7-4537-b84a-92502f6012a2"
+      },
+      "squuid": "699dccea-5709-4e4b-aded-5c4450c5ed91",
+      "state": "active"
+    }
+  ]
 }
