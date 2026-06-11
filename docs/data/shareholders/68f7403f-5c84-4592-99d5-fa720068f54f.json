@@ -18,7 +18,7 @@
   "name": "SDL Lambda Beteiligungs-GmbH",
   "naturalPerson": false,
   "squuid": "68f7403f-5c84-4592-99d5-fa720068f54f",
-  "controlDate": "2026-01-14T09:21:27.487Z",
+  "controlDate": "2026-06-10T11:26:35.021Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -32,5 +32,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "74172"
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "SDL Alpha Zweite Beteiligungs-GmbH",
+        "squuid": "6967d847-b4de-4057-a572-d3eac5d9ecdf"
+      },
+      "squuid": "6967d882-d921-4ce1-95ab-299b44e84ac3",
+      "state": "active"
+    }
+  ]
 }

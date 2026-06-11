@@ -1,7 +1,4 @@
 {
-  "name": "SDL Alpha Zweite Beteiligungs-GmbH",
-  "controlDate": "2026-01-16T15:03:26.800Z",
-  "squuid": "6967d847-b4de-4057-a572-d3eac5d9ecdf",
   "owns": [
     {
       "type": "own",
@@ -15,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Neckarsulm",
+  "pseudoCompany": false,
+  "street": "Stiftsbergstr.",
+  "name": "SDL Alpha Zweite Beteiligungs-GmbH",
+  "naturalPerson": false,
+  "squuid": "6967d847-b4de-4057-a572-d3eac5d9ecdf",
+  "controlDate": "2026-06-10T11:26:22.981Z",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -25,6 +30,19 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "zipcode": "74172",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Schwarz Corporate Solutions KG",
+        "squuid": "696df46b-3f72-4d9b-83f1-0c2ea6be6005"
+      },
+      "squuid": "696df496-5066-45c0-a99e-8a7216d2eb34",
+      "state": "active"
     }
   ]
 }
