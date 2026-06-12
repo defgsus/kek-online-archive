@@ -1,6 +1,4 @@
 {
-  "name": "Sternevent GmbH",
-  "squuid": "69316ec2-35c7-471f-9093-4dac6a089e6f",
   "owns": [
     {
       "type": "own",
@@ -11,9 +9,27 @@
       },
       "squuid": "69316f45-a11b-45f2-95fd-37c299917d57",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.0,
+      "held": {
+        "name": "TV Produktions- und Betriebsverwaltungs-GmbH",
+        "squuid": "5f33d935-9fb2-4832-84cd-9a36180205d8"
+      },
+      "squuid": "693a756a-534e-4c83-a37d-118cd354e4af",
+      "state": "active"
     }
   ],
   "state": "active",
+  "city": "Jena",
+  "pseudoCompany": false,
+  "street": "Am Planetarium",
+  "name": "Sternevent GmbH",
+  "naturalPerson": false,
+  "squuid": "69316ec2-35c7-471f-9093-4dac6a089e6f",
+  "controlDate": "2026-06-11T11:53:30.358Z",
+  "streetNumber": "5",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +42,6 @@
       "type": "organization",
       "fullName": "Thüringer Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "07743"
 }

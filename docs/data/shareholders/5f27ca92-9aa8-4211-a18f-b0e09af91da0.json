@@ -6,16 +6,38 @@
     {
       "complementaryPartner": true,
       "type": "own",
-      "capitalShares": 0.0,
+      "capitalShares": 16.72,
       "held": {
         "name": "Obotritia Capital KGaA",
         "squuid": "5be1a6b6-636a-4801-b4e9-c0b3eae60c94"
       },
       "squuid": "5f27cabf-cc8b-4f4f-adb8-9dbf23ddceb3",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Midgard Beteiligungsgesellschaft mbH",
+        "squuid": "654e31d1-a98c-4ef0-9c31-127bf3435a4a"
+      },
+      "squuid": "65645ec4-3b63-4637-bdc1-a1f2b098d9a1",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "EFa Vermögensverwaltungs KG",
+        "squuid": "654e3210-c2c1-44b7-a84d-d7d0fc2932f3"
+      },
+      "squuid": "656461cb-83d6-48cf-bcb2-3b077b6170fe",
+      "state": "active"
     }
   ],
   "city": "Potsdam",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -32,8 +54,13 @@
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }

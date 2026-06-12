@@ -1,7 +1,4 @@
 {
-  "name": "Stadtwerke Jena GmbH",
-  "controlDate": "2025-12-19T10:34:26.473Z",
-  "squuid": "685bbcd6-dab9-490e-a409-71843bb8a220",
   "owns": [
     {
       "type": "own",
@@ -15,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Jena",
+  "pseudoCompany": false,
+  "street": "Rudolstädter Str.",
+  "name": "Stadtwerke Jena GmbH",
+  "naturalPerson": false,
+  "squuid": "685bbcd6-dab9-490e-a409-71843bb8a220",
+  "controlDate": "2026-06-11T10:43:11.589Z",
+  "streetNumber": "39",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -27,5 +32,6 @@
       "type": "organization",
       "fullName": "Thüringer Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "07745"
 }

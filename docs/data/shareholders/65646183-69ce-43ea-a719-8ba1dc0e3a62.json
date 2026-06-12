@@ -1,5 +1,6 @@
 {
   "name": "Elgeti, Florentine",
+  "pseudoCompany": false,
   "squuid": "65646183-69ce-43ea-a719-8ba1dc0e3a62",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Potsdam",
   "state": "active",
   "organizations": [
     {
@@ -30,6 +32,13 @@
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

@@ -18,7 +18,7 @@
   "name": "Stadtmarketing Pößneck GmbH",
   "naturalPerson": false,
   "squuid": "685bbd1d-3598-4b4d-ba35-12788af40818",
-  "controlDate": "2025-12-19T10:28:45.560Z",
+  "controlDate": "2026-06-11T10:39:51.095Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
-  "zipcode": "07381"
+  "zipcode": "07381",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Stadt Pößneck",
+        "squuid": "69452914-afc0-4655-9227-f04d92d830c7"
+      },
+      "squuid": "69452931-c906-4ea6-ac8a-090bd8a3241f",
+      "state": "active"
+    }
+  ]
 }
