@@ -18,7 +18,7 @@
   "name": "Thüga AG",
   "naturalPerson": false,
   "squuid": "685bbcec-6195-4636-bf95-36a5489c2686",
-  "controlDate": "2026-01-07T10:28:19.715Z",
+  "controlDate": "2026-06-12T16:10:28.233Z",
   "streetNumber": "39",
   "organizations": [
     {
@@ -33,5 +33,27 @@
       "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
-  "zipcode": "80335"
+  "zipcode": "80335",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 81.1,
+      "holder": {
+        "name": "Thüga Holding GmbH & Co. KGaA",
+        "squuid": "695e36aa-95b3-4561-959f-1b9d8ea4a01f"
+      },
+      "squuid": "695e3719-6313-4776-9317-1878df8a3e1d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 18.9,
+      "holder": {
+        "name": "CONTIGAS Deutsche Energie-AG",
+        "squuid": "695e36ef-ea3b-4ba9-9a05-fc8e02a0a5d7"
+      },
+      "squuid": "695e3734-29ab-4884-893e-52efab959302",
+      "state": "active"
+    }
+  ]
 }

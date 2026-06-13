@@ -18,7 +18,7 @@
   "name": "The StepStone Group GmbH",
   "naturalPerson": false,
   "squuid": "5d31bee0-54c4-454f-8671-32ae10073d3d",
-  "controlDate": "2026-01-05T12:19:38.727Z",
+  "controlDate": "2026-06-12T15:43:22.735Z",
   "streetNumber": "1",
   "organizations": [
     {
@@ -27,5 +27,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "40219"
+  "zipcode": "40219",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "The Stepstone MidCo 2 GmbH",
+        "squuid": "6a2c28ec-14ae-4dd9-883c-6d9115a37164"
+      },
+      "squuid": "6a2c291a-b826-4185-a787-d007a078eab9",
+      "state": "active"
+    }
+  ]
 }

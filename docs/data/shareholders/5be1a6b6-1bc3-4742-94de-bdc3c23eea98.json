@@ -13,14 +13,14 @@
   ],
   "state": "active",
   "city": "Sylt-Westerland",
-  "note": "Stand: 9/25",
+  "note": "Stand: 4/26",
   "pseudoCompany": false,
   "street": "Friedrichstraße",
   "name": "Antenne Sylt GmbH & Co. KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-1bc3-4742-94de-bdc3c23eea98",
-  "controlDate": "2025-09-12T10:45:51.370Z",
+  "controlDate": "2026-06-12T10:51:30.442Z",
   "streetNumber": "14",
   "organizations": [
     {
@@ -89,17 +89,6 @@
       "state": "active"
     },
     {
-      "type": "own",
-      "capitalShares": 45.1,
-      "holder": {
-        "name": "NiedersachsenRadio GmbH & Co. KG",
-        "squuid": "5be1a6b6-45a9-499c-9b56-add326f29bc4"
-      },
-      "squuid": "5e1db7ac-ca6e-46e3-91fc-609ade359131",
-      "state": "active",
-      "votingShares": 25.025
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -108,6 +97,16 @@
         "squuid": "5f198356-27ac-44c4-8ab0-86bbbcdaa9bf"
       },
       "squuid": "5f1984bc-75c7-40cf-839c-0235f04d0faf",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 45.1,
+      "holder": {
+        "name": "NiedersachsenRadio GmbH & Co. KG",
+        "squuid": "5be1a6b6-45a9-499c-9b56-add326f29bc4"
+      },
+      "squuid": "68c7e659-5eb8-49a1-8682-b8be71d798c8",
       "state": "active"
     }
   ]
