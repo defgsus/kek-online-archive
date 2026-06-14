@@ -18,7 +18,7 @@
   "name": "VHB ventures GmbH",
   "naturalPerson": false,
   "squuid": "69396c70-5032-4564-a97e-db8d908cae3e",
-  "controlDate": "2026-01-05T11:20:28.884Z",
+  "controlDate": "2026-06-14T11:33:32.274Z",
   "streetNumber": "22",
   "organizations": [
     {
@@ -33,5 +33,27 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "50678"
+  "zipcode": "50678",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Dieter von Holtzbrinck Vermögensverwaltung GmbH",
+        "squuid": "69259acb-e9a5-4a04-9040-0e7edfc9a5b2"
+      },
+      "squuid": "695b9f01-93d1-4ab1-843e-5e32c202ecd5",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "crossventures GmbH",
+        "squuid": "69259a5b-0699-4c53-984c-7c79781b93e0"
+      },
+      "squuid": "695b9f16-8777-4598-bc46-c7a97ab2ea3f",
+      "state": "active"
+    }
+  ]
 }
