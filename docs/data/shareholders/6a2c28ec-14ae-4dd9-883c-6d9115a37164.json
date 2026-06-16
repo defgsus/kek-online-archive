@@ -1,6 +1,4 @@
 {
-  "name": "The Stepstone MidCo 2 GmbH",
-  "squuid": "6a2c28ec-14ae-4dd9-883c-6d9115a37164",
   "owns": [
     {
       "type": "own",
@@ -14,11 +12,32 @@
     }
   ],
   "state": "active",
+  "city": "Düsseldorf",
+  "pseudoCompany": false,
+  "street": "Völklinger Str.",
+  "name": "The Stepstone Group MidCo 2 GmbH",
+  "naturalPerson": false,
+  "squuid": "6a2c28ec-14ae-4dd9-883c-6d9115a37164",
+  "controlDate": "2026-06-15T07:25:04.871Z",
+  "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "zipcode": "40219",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "The Stepstone Group MidCo 1 GmbH",
+        "squuid": "6a2fa984-716b-4944-bb7f-2c61005d5b68"
+      },
+      "squuid": "6a2fa99b-3cb8-430c-b096-19119351642a",
+      "state": "active"
     }
   ]
 }

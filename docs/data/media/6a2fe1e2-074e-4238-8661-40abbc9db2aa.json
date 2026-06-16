@@ -1,0 +1,35 @@
+{
+  "state": "active",
+  "squuid": "6a2fe1e2-074e-4238-8661-40abbc9db2aa",
+  "organization": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Westdeutscher Rundfunk (WDR)",
+        "squuid": "5be1a6b6-be05-415a-a519-205618bb23bf"
+      },
+      "squuid": "6a2fe200-81c5-4e36-b353-49b68e83b5f4",
+      "state": "active"
+    }
+  ],
+  "name": "www1.wdr/radio/wdr-event",
+  "rfPublicPrivate": false,
+  "type": "online",
+  "controlDate": "2026-06-15T11:29:07.244Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
+  },
+  "onlineOfferType": {
+    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+    "name": "Online Medienangebot",
+    "type": "online-offer-type",
+    "state": "active"
+  }
+}

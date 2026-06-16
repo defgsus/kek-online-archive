@@ -1,14 +1,14 @@
 {
   "state": "active",
-  "city": "Bretten",
+  "city": "Karlsruhe",
   "pseudoCompany": false,
-  "street": "Pforzheimer Str.",
+  "street": "Lineknheimer Landstr.",
   "name": "WMV Werbung Marketing & Verlag GmbH & Co KG",
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-0330-4906-93ab-3bbde96a2ad2",
-  "controlDate": "2026-01-13T13:09:03.474Z",
-  "streetNumber": "46",
+  "controlDate": "2026-06-15T13:07:21.935Z",
+  "streetNumber": "133",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -16,7 +16,7 @@
       "type": "organization"
     }
   ],
-  "zipcode": "75015",
+  "zipcode": "76149",
   "operates": [
     {
       "type": "operate",
@@ -40,16 +40,6 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Delta Medien Service GmbH",
-        "squuid": "5be1a6b6-d017-4954-9c87-4d3b59a26a35"
-      },
-      "squuid": "5be1a6b8-50cd-475e-b821-0d4b1ae75ce6",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -58,6 +48,16 @@
         "squuid": "5eda240c-d723-4ca4-8c7d-b5ee4e7ee0ef"
       },
       "squuid": "5eda2427-b105-4237-b491-da457feecaef",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Badische Neueste Nachrichten Badendruck GmbH",
+        "squuid": "5be1a6b6-9388-43c6-a9f6-a4d926c6c384"
+      },
+      "squuid": "6a2ff94d-81aa-4723-a727-b46feb883464",
       "state": "active"
     }
   ]

@@ -28,7 +28,7 @@
   "name": "WGB Handels- und Beteiligungs GmbH",
   "naturalPerson": false,
   "squuid": "69380cc3-5f4f-48f7-88af-3cbab96e94ce",
-  "controlDate": "2026-01-05T11:26:43.699Z",
+  "controlDate": "2026-06-15T12:05:54.150Z",
   "streetNumber": "8",
   "organizations": [
     {
@@ -43,5 +43,17 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "76530"
+  "zipcode": "76530",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Grenke, Wolfgang",
+        "squuid": "5be1a6b6-4989-4ef4-aaef-affba20e99a6"
+      },
+      "squuid": "695ba081-b74b-4be7-8f07-0431ec1bab9e",
+      "state": "active"
+    }
+  ]
 }

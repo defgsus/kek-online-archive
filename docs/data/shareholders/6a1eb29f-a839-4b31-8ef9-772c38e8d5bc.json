@@ -1,13 +1,30 @@
 {
   "name": "Brach, Susanne",
   "squuid": "6a1eb29f-a839-4b31-8ef9-772c38e8d5bc",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "held": {
+        "name": "RMNradio GmbH",
+        "squuid": "5f96d06c-5990-4fac-bbe7-d4677d5d0018"
+      },
+      "squuid": "6a1eb2b6-fcca-45b6-9046-ab2e5166abaa",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesmedienanstalt Saarland"
     }
   ]
 }

@@ -9,6 +9,16 @@
       },
       "squuid": "698df114-7e49-4d4f-9ca0-059958ed8836",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 49.95,
+      "held": {
+        "name": "Schwarz Beteiligungs-KG",
+        "squuid": "698df047-3107-48ca-af6e-fc31aa72ad17"
+      },
+      "squuid": "6992ebb1-153c-40b4-aaa0-06d38811caaf",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -18,7 +28,7 @@
   "name": "Zeha GmbH",
   "naturalPerson": false,
   "squuid": "698def28-8857-48ac-bfdc-0ee0099f6c2b",
-  "controlDate": "2026-02-16T09:32:49.588Z",
+  "controlDate": "2026-06-15T15:13:22.363Z",
   "streetNumber": "44",
   "organizations": [
     {
@@ -30,6 +40,18 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Dieter Schwarz Stiftung für Wissenschaft und Forschung",
+        "squuid": "6992e6e4-0e8a-430d-8f9d-fd8e22656b11"
+      },
+      "squuid": "6992e719-51f9-49fa-9c0b-d19201572b9a",
+      "state": "active"
     }
   ]
 }
