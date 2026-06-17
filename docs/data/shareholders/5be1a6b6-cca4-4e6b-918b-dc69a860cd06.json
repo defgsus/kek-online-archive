@@ -29,7 +29,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-cca4-4e6b-918b-dc69a860cd06",
-  "controlDate": "2026-01-14T16:28:00.088Z",
+  "controlDate": "2026-06-16T13:26:43.371Z",
   "streetNumber": "20",
   "organizations": [
     {
@@ -53,16 +53,6 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Rubens 1845 GmbH & Co KG",
-        "squuid": "5be1a6b6-f038-4e3f-a435-3be4287a6c9f"
-      },
-      "squuid": "5be1a6b8-d611-48fd-b153-a0158c40f718",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -71,6 +61,16 @@
         "squuid": "5ec4fd1f-3bf4-4b8e-a256-1e46185ff8bc"
       },
       "squuid": "60d06bed-2a28-4128-b068-5d5358186ff2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Verlag Lensing-Wolff GmbH & Co. KG",
+        "squuid": "5be1a6b6-0e2b-4b2a-8b1f-59ef8c74ae48"
+      },
+      "squuid": "6a314f2e-d23b-4ca0-bcd9-b128ed8dbee2",
       "state": "active"
     }
   ]

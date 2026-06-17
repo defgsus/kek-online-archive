@@ -1,13 +1,29 @@
 {
   "name": "Streubesitz an der Thüga Holding GmbH & Co. KG a.A",
   "squuid": "6a2c3987-6d5f-44c1-bc6d-da5dfcf477b1",
+  "owns": [
+    {
+      "type": "own",
+      "held": {
+        "name": "Thüga Holding GmbH & Co. KGaA",
+        "squuid": "695e36aa-95b3-4561-959f-1b9d8ea4a01f"
+      },
+      "squuid": "6a2c39a4-d53e-4eeb-8d35-06b5c4547dc7",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Thüringer Landesmedienanstalt"
     }
   ]
 }

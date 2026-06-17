@@ -1,13 +1,30 @@
 {
   "name": "Stadt Jena",
   "squuid": "6a2a91b4-3ea3-4e77-b29f-ed83b18297f1",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Stadtwerke Jena GmbH",
+        "squuid": "685bbcd6-dab9-490e-a409-71843bb8a220"
+      },
+      "squuid": "6a2a91ca-0b4b-4989-a36a-3de1012170aa",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Thüringer Landesmedienanstalt"
     }
   ]
 }

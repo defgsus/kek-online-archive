@@ -2,12 +2,22 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 7.64,
+      "capitalShares": 8.6,
       "held": {
         "name": "Rubens 1845 GmbH & Co KG",
         "squuid": "5be1a6b6-f038-4e3f-a435-3be4287a6c9f"
       },
       "squuid": "5be1a6b8-8866-4444-bc74-51d309e81c06",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Rubens 9 GmbH",
+        "squuid": "6a1ed25e-d5a5-4d2a-801e-bc1a3e9929e8"
+      },
+      "squuid": "6a1ed3dc-4a65-4161-a8fb-7426d1739dd0",
       "state": "active"
     }
   ],
@@ -20,9 +30,10 @@
   "controlDate": "2019-05-28T10:30:35.137Z",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "credits": "IJK"
