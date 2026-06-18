@@ -1,6 +1,4 @@
 {
-  "name": "Carl Zeiss-Siedlung GmbH",
-  "squuid": "6a2aa194-29fc-4ae6-b1d8-d1b245361041",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Jena",
+  "pseudoCompany": false,
+  "street": "Forstweg",
+  "name": "Carl Zeiss-Siedlung GmbH",
+  "naturalPerson": false,
+  "squuid": "6a2aa194-29fc-4ae6-b1d8-d1b245361041",
+  "controlDate": "2026-06-17T07:56:30.224Z",
+  "streetNumber": "31",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +32,6 @@
       "type": "organization",
       "fullName": "Thüringer Landesmedienanstalt"
     }
-  ]
+  ],
+  "zipcode": "07745"
 }
