@@ -13,8 +13,25 @@
   },
   "accessibilityUrl": "https://www.srf-online.de/",
   "rfStatewide": false,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "SRF - Südthüringer Regionalfernsehen GmbH",
+        "squuid": "5f33d494-490d-44b9-96df-fbd29247a8fc"
+      },
+      "squuid": "68497c70-ac47-4dca-902f-dab2dcd1c54c",
+      "state": "active"
+    }
+  ],
   "name": "Südthüringer Regionalfernsehen (SRF)",
   "rfPublicPrivate": false,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "type": "tv",
   "rfCategory": {
     "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",
@@ -28,9 +45,10 @@
     "type": "organization",
     "fullName": "Thüringer Landesmedienanstalt"
   },
-  "rfLicenseUntil": "31.12.2023",
-  "rfLicensed": "09.11.2017",
-  "rfLicenseFrom": "TLM",
+  "description": "Lokalfernsehprogramm",
+  "rfLicenseUntil": "31.12.2029",
+  "rfLicensed": "14.12.2023",
+  "rfLicenseFrom": "01.01.2024",
   "rfAddress": "Südthüringer Regionalfernsehen \nMittlere-Motsch-Straße 28\n96515 Sonneberg",
   "accessibilityEmail": "info@srf-online.de"
 }

@@ -1,13 +1,30 @@
 {
   "name": "Ernst-Abbe-Stiftung",
   "squuid": "6a3253a2-0d1d-4d60-9b2c-cff1de51351a",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Carl Zeiss-Siedlung GmbH",
+        "squuid": "6a2aa194-29fc-4ae6-b1d8-d1b245361041"
+      },
+      "squuid": "6a3253cf-9d15-4401-9ba7-e05f0c8ef224",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+      "name": "TLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Thüringer Landesmedienanstalt"
     }
   ]
 }
