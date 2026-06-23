@@ -1,13 +1,30 @@
 {
   "name": "Madera Gastro Holding GmbH",
   "squuid": "6a27f78b-f039-493d-93c8-ce4e0f8721dd",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 27.6,
+      "held": {
+        "name": "Schlagerparadies GmbH",
+        "squuid": "5be1a6b6-d116-4b16-8f7d-275f430faecf"
+      },
+      "squuid": "6a27f7aa-1ae0-46ea-b3c6-4cda4da4112c",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+      "name": "LMS",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesmedienanstalt Saarland"
     }
   ]
 }
