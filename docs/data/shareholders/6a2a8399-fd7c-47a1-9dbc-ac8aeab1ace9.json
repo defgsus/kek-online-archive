@@ -1,13 +1,29 @@
 {
   "name": "Gaenserig mediatec GmbH",
   "squuid": "6a2a8399-fd7c-47a1-9dbc-ac8aeab1ace9",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 41.08,
+      "held": {
+        "name": "Sports Trade GmbH",
+        "squuid": "5fd46a9b-7682-4253-92c4-d4cea1561335"
+      },
+      "squuid": "6a2a8419-9a80-4db0-b0ce-444ff78a8d9d",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
