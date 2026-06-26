@@ -1,13 +1,30 @@
 {
   "name": "K.F. Schimper Verlag GmbH",
   "squuid": "6a2bd79e-f613-46b7-ad24-71c6d0aceac5",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 93.35,
+      "held": {
+        "name": "sunshine live GmbH & Co. KG",
+        "squuid": "5be1a6b6-06f0-4bd6-88b6-746783f187c3"
+      },
+      "squuid": "6a2bd7bc-b6cb-49ac-8f31-8882e408e652",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ]
 }
