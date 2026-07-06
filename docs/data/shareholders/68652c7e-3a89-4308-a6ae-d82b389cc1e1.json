@@ -1,13 +1,25 @@
 {
   "name": "Stiftung Zukunft Gewandhaus zu Leipzig",
   "squuid": "68652c7e-3a89-4308-a6ae-d82b389cc1e1",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Stiftung Zukunft Gewandhaus zu Leipzig Projekte gGmbH",
+        "squuid": "68652c44-435b-41f7-a38e-397da799ffea"
+      },
+      "squuid": "6a4b817a-617b-40b9-90fc-39af8098a600",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   ]
 }
