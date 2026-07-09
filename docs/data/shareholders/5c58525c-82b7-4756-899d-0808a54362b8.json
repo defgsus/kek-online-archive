@@ -13,13 +13,24 @@
   "streetNumber": "10",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
   "zipcode": "82031",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "C.A.M.P. TV (Berlin)",
+        "squuid": "6a4f996a-c97f-4ac7-8747-91fb566306e5"
+      },
+      "squuid": "6a4f9b75-d4ed-4a1b-aac4-831e705ec704",
+      "state": "active"
+    }
+  ],
   "ownedBy": [
     {
       "type": "own",

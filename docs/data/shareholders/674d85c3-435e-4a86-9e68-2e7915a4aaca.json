@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Forst (Lausitz)",
   "pseudoCompany": true,
   "street": "Sorauer Straße",
@@ -10,34 +10,11 @@
   "streetNumber": "32",
   "organizations": [
     {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "03149",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Forst TV (Brandenburg)",
-        "squuid": "5c597c38-e949-427e-8d01-a4b9aeab0401"
-      },
-      "squuid": "674d860e-434a-45a0-9880-cc3ca20cf5e1",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Siptitz, Ina",
-        "squuid": "5c597c01-6b9b-411b-a560-c261749508ce"
-      },
-      "squuid": "674d86b1-dca5-4b79-a09a-f515dd8d6d29",
-      "state": "active"
-    }
-  ]
+  "zipcode": "03149"
 }
