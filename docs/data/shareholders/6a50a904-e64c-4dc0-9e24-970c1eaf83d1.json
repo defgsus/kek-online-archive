@@ -1,0 +1,82 @@
+{
+  "state": "active",
+  "city": "Wetter",
+  "pseudoCompany": false,
+  "street": "Goethestraße",
+  "name": "BMR Media GmbH",
+  "naturalPerson": false,
+  "squuid": "6a50a904-e64c-4dc0-9e24-970c1eaf83d1",
+  "streetNumber": "53",
+  "organizations": [
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    }
+  ],
+  "zipcode": "35083",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ballermann Radio",
+        "squuid": "6a4e5b18-a957-4db0-826c-2803b9dabaf1"
+      },
+      "squuid": "6a50aab9-92d8-4ce3-bb01-dcc33c24c641",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 9.0,
+      "holder": {
+        "name": "Drescher, Eva-Maria",
+        "squuid": "6a50ac4e-b6e1-4a8d-840e-6d0070a50890"
+      },
+      "squuid": "6a50ad7d-9d79-424b-b57c-e9d0dd9176bd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "JASSU-Reisen GmbH",
+        "squuid": "5f96d0f4-996c-45ec-989e-2bbde6008d3e"
+      },
+      "squuid": "6a50ad94-2105-4951-9ca5-fe06ff91fc41",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "holder": {
+        "name": "FaERo Vermögensbeteiligungsgesellschaft mbH",
+        "squuid": "6a50a97d-6957-4b37-8b16-c48fcbf3a3f5"
+      },
+      "squuid": "6a50adc0-ad55-43a7-926a-ec73d8e3c41d",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "BR Beteiligungs GmbH",
+        "squuid": "6a50a9b2-ba6c-4838-b44b-78032e7100b9"
+      },
+      "squuid": "6a50add7-eda8-4370-8339-fac62610a879",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 31.0,
+      "holder": {
+        "name": "Schlagerparadies GmbH",
+        "squuid": "5be1a6b6-d116-4b16-8f7d-275f430faecf"
+      },
+      "squuid": "6a50ae0f-f569-459f-9361-2b14a1b36b55",
+      "state": "active"
+    }
+  ]
+}

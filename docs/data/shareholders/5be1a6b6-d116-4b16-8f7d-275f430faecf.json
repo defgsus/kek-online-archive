@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 31.0,
+      "held": {
+        "name": "BMR Media GmbH",
+        "squuid": "6a50a904-e64c-4dc0-9e24-970c1eaf83d1"
+      },
+      "squuid": "6a50ae0f-f569-459f-9361-2b14a1b36b55",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Saarbrücken - Kleinblittersdorf",
   "pseudoCompany": false,
@@ -13,6 +25,12 @@
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
     },
     {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
@@ -43,16 +61,6 @@
     }
   ],
   "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 27.6,
-      "holder": {
-        "name": "F. Holzer GmbH",
-        "squuid": "5f96d030-8ab9-44c6-a739-9479f1355cd4"
-      },
-      "squuid": "5f96d156-a938-4797-b06f-910461867394",
-      "state": "active"
-    },
     {
       "type": "own",
       "capitalShares": 27.6,
@@ -101,6 +109,16 @@
         "squuid": "5f96d0f4-996c-45ec-989e-2bbde6008d3e"
       },
       "squuid": "5f96d1a4-80de-4c73-ad54-a8511a5fa114",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 27.6,
+      "holder": {
+        "name": "Madera Beteiligungen GmbH",
+        "squuid": "6a27f78b-f039-493d-93c8-ce4e0f8721dd"
+      },
+      "squuid": "6a27f7aa-1ae0-46ea-b3c6-4cda4da4112c",
       "state": "active"
     }
   ]

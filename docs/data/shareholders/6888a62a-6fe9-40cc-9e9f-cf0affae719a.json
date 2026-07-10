@@ -2,13 +2,14 @@
   "owns": [
     {
       "type": "own",
+      "capitalShares": 100.0,
       "held": {
         "name": "radio B2 GmbH",
         "squuid": "5be1a6b6-03f0-4d87-841b-249e957d36cc"
       },
       "squuid": "6888a67c-6d6f-4fae-94cc-987737292680",
       "state": "active",
-      "votingShares": 100.0
+      "votingShares": -1.0
     }
   ],
   "state": "active",
@@ -64,17 +65,6 @@
     }
   ],
   "zipcode": "10717",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "jazz fm",
-        "squuid": "688b39a1-94cc-46c8-bb1d-1320ebf40aaa"
-      },
-      "squuid": "688b3d0d-be46-44ce-a8f8-74c2ccbbea07",
-      "state": "active"
-    }
-  ],
   "ownedBy": [
     {
       "type": "own",

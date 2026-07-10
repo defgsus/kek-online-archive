@@ -1,0 +1,50 @@
+{
+  "state": "active",
+  "city": "Köln",
+  "street": "Rathenauplatz ",
+  "name": "TV Link GmbH",
+  "squuid": "6a50f013-68af-41b8-91d7-47ca9293115f",
+  "streetNumber": "24",
+  "organizations": [
+    {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  ],
+  "zipcode": "50674",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "SYLT1",
+        "squuid": "6a50f02c-046d-4db1-8836-efa026b2d016"
+      },
+      "squuid": "6a50f0ad-a423-4bea-b5e5-d505c33d7673",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "holder": {
+        "name": "Holst, Heike",
+        "squuid": "5f19710f-300a-4281-8a80-fddb3ca70490"
+      },
+      "squuid": "6a50f1af-460e-49aa-bea7-18e8d59bae92",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "holder": {
+        "name": "Link, Axel",
+        "squuid": "5f19711a-9341-465f-8696-1bc29fa634a7"
+      },
+      "squuid": "6a50f1bd-b3fe-4f93-b629-d1e4268809ed",
+      "state": "active"
+    }
+  ]
+}

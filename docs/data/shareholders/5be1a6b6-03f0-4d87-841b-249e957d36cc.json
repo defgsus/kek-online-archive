@@ -210,7 +210,7 @@
     {
       "type": "operate",
       "held": {
-        "name": "Discofox Antenne",
+        "name": "Discofox Antenne (Berlin und Brandenburg)",
         "squuid": "688caa89-2056-4c4a-8340-4ad2205fa88d"
       },
       "squuid": "688cab01-dc06-4660-af57-21cee22b41b7",
@@ -233,19 +233,29 @@
       },
       "squuid": "69c647cd-5a65-4df6-90df-704d7cd1379d",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Ella Radio (Berlin und Brandenburg)",
+        "squuid": "688b39a1-94cc-46c8-bb1d-1320ebf40aaa"
+      },
+      "squuid": "6a510dd1-5c0f-46c7-9bd7-0d468b631547",
+      "state": "active"
     }
   ],
   "credits": "mabb",
   "ownedBy": [
     {
       "type": "own",
+      "capitalShares": 100.0,
       "holder": {
         "name": "dunk media group GmbH",
         "squuid": "6888a62a-6fe9-40cc-9e9f-cf0affae719a"
       },
       "squuid": "6888a67c-6d6f-4fae-94cc-987737292680",
       "state": "active",
-      "votingShares": 100.0
+      "votingShares": -1.0
     }
   ]
 }
