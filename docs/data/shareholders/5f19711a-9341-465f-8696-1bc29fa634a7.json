@@ -7,29 +7,31 @@
       "type": "own",
       "capitalShares": 25.0,
       "held": {
-        "name": "Sylt 1 GmbH & Co. KG",
-        "squuid": "5e1f2e80-3a21-4983-b7a5-2d60f8a794cf"
-      },
-      "squuid": "5f1971c5-fed0-4af5-8214-3da5776da6ab",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 25.0,
-      "held": {
         "name": "Sylt 1 Verwaltungsgesellschaft mbH",
         "squuid": "5f1970fd-afc7-4ff6-b5aa-0881edcfd309"
       },
       "squuid": "5f1febde-ad2e-4256-96f8-74ccc8fafcc9",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 60.0,
+      "held": {
+        "name": "TV Link GmbH",
+        "squuid": "6a50f013-68af-41b8-91d7-47ca9293115f"
+      },
+      "squuid": "6a50f1bd-b3fe-4f93-b629-d1e4268809ed",
+      "state": "active"
     }
   ],
   "city": "Köln",
+  "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     },
     {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
@@ -38,6 +40,5 @@
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
   ],
-  "state": "active",
   "naturalPerson": true
 }

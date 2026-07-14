@@ -1,7 +1,13 @@
 {
-  "name": "Max Berger",
-  "squuid": "6392f33b-ad7c-4fa3-868f-ddda9d68fc38",
   "state": "active",
+  "city": "Dessau",
+  "pseudoCompany": true,
+  "street": "Saalestr.",
+  "name": "SM Radio Dessau",
+  "naturalPerson": true,
+  "co": "c/o Max Berger",
+  "squuid": "6392f33b-ad7c-4fa3-868f-ddda9d68fc38",
+  "streetNumber": "44",
   "organizations": [
     {
       "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -10,6 +16,7 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
+  "zipcode": "06846",
   "operates": [
     {
       "type": "operate",
@@ -20,6 +27,5 @@
       "squuid": "6392f701-4a94-4094-8719-f36ec143b343",
       "state": "active"
     }
-  ],
-  "naturalPerson": true
+  ]
 }
