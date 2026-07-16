@@ -57,6 +57,12 @@
       "fullName": "Medienanstalt Hessen"
     },
     {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+    },
+    {
       "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
       "name": "brema",
       "type": "organization",
@@ -105,5 +111,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "26125"
+  "zipcode": "26125",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Nordwest-Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-6d98-47de-ac59-bdd22da3974d"
+      },
+      "squuid": "6a183740-5cae-420d-9f9d-b4ec820689a4",
+      "state": "active"
+    }
+  ]
 }

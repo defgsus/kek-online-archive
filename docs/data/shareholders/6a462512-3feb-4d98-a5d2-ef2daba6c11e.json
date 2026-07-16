@@ -1,13 +1,29 @@
 {
   "name": "Gaenserig, Carsten",
   "squuid": "6a462512-3feb-4d98-a5d2-ef2daba6c11e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "held": {
+        "name": "Gaenserig mediatec GmbH",
+        "squuid": "6a2a8399-fd7c-47a1-9dbc-ac8aeab1ace9"
+      },
+      "squuid": "6a462549-4923-4ffa-bc4e-05c4af65e068",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
