@@ -32191,7 +32191,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=314
-    num_medias_weighted=23.2578
+    num_medias_weighted=23.3405
     name="5be1a6b6-5010-4014-85dc-94b214593f6c"
     in_degree=0
     out_degree=4
@@ -32203,7 +32203,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=314
-    num_medias_weighted=0.3143
+    num_medias_weighted=0.3154
     name="5be1a6b6-54d0-4b4c-8c5a-c8ba81cec96c"
     in_degree=0
     out_degree=2
@@ -32215,7 +32215,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=314
-    num_medias_weighted=0.1048
+    num_medias_weighted=0.1051
     name="5be1a6b6-5a02-48ec-933d-8e72c1cc6d26"
     in_degree=0
     out_degree=4
@@ -34939,7 +34939,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=314
-    num_medias_weighted=4.5588
+    num_medias_weighted=4.5751
     name="5be1a6b6-cff0-47a7-aa01-212bd9b8fd63"
     in_degree=0
     out_degree=1
@@ -51294,11 +51294,11 @@ digraph {
     label="Fränkischer Tag GmbH"
     num_owners=9
     num_owners_weighted=6.3560
-    num_medias=67
-    num_medias_weighted=6.7877
+    num_medias=2
+    num_medias_weighted=0.0102
     name="5bf40545-4596-4b19-b5ef-85b703781941"
     in_degree=1
-    out_degree=2
+    out_degree=1
   ];
   4275 [
     type=shareholder
@@ -75643,7 +75643,7 @@ digraph {
     num_owners=5
     num_owners_weighted=5.0000
     num_medias=314
-    num_medias_weighted=26.1940
+    num_medias_weighted=26.2872
     name="5be1a6b6-b933-42c4-9667-1c3e24c3c66a"
     in_degree=5
     out_degree=1
@@ -93379,7 +93379,7 @@ digraph {
     num_owners=7
     num_owners_weighted=4.3560
     num_medias=314
-    num_medias_weighted=77.2684
+    num_medias_weighted=77.5433
     name="5be1a6b6-2fde-4eae-aa7d-013858ffdf7c"
     in_degree=4
     out_degree=2
@@ -93477,7 +93477,7 @@ digraph {
     num_medias=65
     num_medias_weighted=13.8317
     name="5be1a6b6-77ea-4cc0-b206-105ee3aec7f8"
-    in_degree=3
+    in_degree=2
     out_degree=8
   ];
   7790 [
@@ -109735,7 +109735,7 @@ digraph {
     num_owners=8
     num_owners_weighted=5.3560
     num_medias=310
-    num_medias_weighted=77.2684
+    num_medias_weighted=77.5433
     name="5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
     in_degree=1
     out_degree=68
@@ -156259,7 +156259,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=314
-    num_medias_weighted=23.2578
+    num_medias_weighted=23.3405
     name="5be1a6b6-9cdc-478d-82f0-0390a5924321"
     in_degree=0
     out_degree=4
@@ -230660,10 +230660,6 @@ digraph {
   4271 -> 17092 [
     weight=100
     type=operates
-  ];
-  4274 -> 7789 [
-    weight=49
-    type=owns
   ];
   4274 -> 2903 [
     weight=1
