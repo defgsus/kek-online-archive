@@ -32190,8 +32190,8 @@ digraph {
     label="Diekmann, Alexander"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=314
-    num_medias_weighted=23.3405
+    num_medias=281
+    num_medias_weighted=21.2308
     name="5be1a6b6-5010-4014-85dc-94b214593f6c"
     in_degree=0
     out_degree=4
@@ -32202,8 +32202,8 @@ digraph {
     label="Diekmann, Angelika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=314
-    num_medias_weighted=0.3154
+    num_medias=281
+    num_medias_weighted=0.2869
     name="5be1a6b6-54d0-4b4c-8c5a-c8ba81cec96c"
     in_degree=0
     out_degree=2
@@ -32214,8 +32214,8 @@ digraph {
     label="Diekmann, Dr. Axel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=314
-    num_medias_weighted=0.1051
+    num_medias=281
+    num_medias_weighted=0.0956
     name="5be1a6b6-5a02-48ec-933d-8e72c1cc6d26"
     in_degree=0
     out_degree=4
@@ -34938,8 +34938,8 @@ digraph {
     label="Dr. Hans Kapfinger Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=314
-    num_medias_weighted=4.5751
+    num_medias=281
+    num_medias_weighted=4.1615
     name="5be1a6b6-cff0-47a7-aa01-212bd9b8fd63"
     in_degree=0
     out_degree=1
@@ -75642,8 +75642,8 @@ digraph {
     label="KD Medien GmbH & Co. KG"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=314
-    num_medias_weighted=26.2872
+    num_medias=281
+    num_medias_weighted=23.9110
     name="5be1a6b6-b933-42c4-9667-1c3e24c3c66a"
     in_degree=5
     out_degree=1
@@ -75654,7 +75654,7 @@ digraph {
     label="KD Verwaltungs GmbH"
     num_owners=4
     num_owners_weighted=4.0000
-    num_medias=314
+    num_medias=281
     num_medias_weighted=0.0000
     name="5eb1763b-5255-4be3-a174-6a461ca3536f"
     in_degree=4
@@ -93150,11 +93150,11 @@ digraph {
     label="Medien-Marketing Bayern Verwaltungs GmbH"
     num_owners=9
     num_owners_weighted=6.3560
-    num_medias=65
-    num_medias_weighted=7.0542
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6995bb29-c6a4-4173-a90b-ede8c5a43566"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   7763 [
     type=shareholder
@@ -93378,8 +93378,8 @@ digraph {
     label="Mediengruppe Bayern GmbH"
     num_owners=7
     num_owners_weighted=4.3560
-    num_medias=314
-    num_medias_weighted=77.5433
+    num_medias=281
+    num_medias_weighted=70.5341
     name="5be1a6b6-2fde-4eae-aa7d-013858ffdf7c"
     in_degree=4
     out_degree=2
@@ -93477,7 +93477,7 @@ digraph {
     num_medias=65
     num_medias_weighted=13.8317
     name="5be1a6b6-77ea-4cc0-b206-105ee3aec7f8"
-    in_degree=2
+    in_degree=1
     out_degree=8
   ];
   7790 [
@@ -109734,8 +109734,8 @@ digraph {
     label="Passauer Neue Presse GmbH"
     num_owners=8
     num_owners_weighted=5.3560
-    num_medias=310
-    num_medias_weighted=77.5433
+    num_medias=277
+    num_medias_weighted=70.5341
     name="5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
     in_degree=1
     out_degree=68
@@ -139816,8 +139816,8 @@ digraph {
     type=tv
     state=active
     label="Sky Krimi"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=10
+    num_owners_weighted=9.6000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-36d9-4023-81a9-cffe2e0c8de8"
@@ -139864,8 +139864,8 @@ digraph {
     type=tv
     state=active
     label="Sky One"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=10
+    num_owners_weighted=9.6000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-eec1-4daa-85cf-e36fa20d151d"
@@ -152870,7 +152870,7 @@ digraph {
   ];
   12739 [
     type=shareholder
-    state=active
+    state=archived
     label="Test GmbH & Co. KG"
     num_owners=0
     num_owners_weighted=0.0000
@@ -156258,8 +156258,8 @@ digraph {
     label="Tucci-Diekmann, Simone"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=314
-    num_medias_weighted=23.3405
+    num_medias=281
+    num_medias_weighted=21.2308
     name="5be1a6b6-9cdc-478d-82f0-0390a5924321"
     in_degree=0
     out_degree=4
@@ -246516,10 +246516,6 @@ digraph {
   7760 -> 16286 [
     weight=100
     type=operates
-  ];
-  7762 -> 7789 [
-    weight=51
-    type=owns
   ];
   7763 -> 7814 [
     weight=49
