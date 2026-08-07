@@ -158213,6 +158213,32 @@
     "pressKind": "Kinder"
   },
   {
+    "state": "active",
+    "squuid": "6a743f13-34f5-4fb2-bb4d-01c5a53a2e27",
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": true,
+    "name": "Kontrafunk",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  },
+  {
     "pressPublishingIntervals": 4,
     "state": "active",
     "squuid": "63973fc6-d693-493b-a1ce-5e918a4c5c83",
@@ -158422,6 +158448,40 @@
       "type": "organization"
     },
     "pressKind": "Jugend"
+  },
+  {
+    "state": "active",
+    "squuid": "6a744fad-1739-496f-95f8-6c66cab74c16",
+    "organization": {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    "rfStatewide": false,
+    "name": "Antenne Wiesbaden",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
   },
   {
     "state": "active",

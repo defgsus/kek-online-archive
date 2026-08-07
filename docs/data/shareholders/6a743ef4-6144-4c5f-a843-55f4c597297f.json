@@ -1,0 +1,43 @@
+{
+  "state": "active",
+  "city": "Linz (Österreich)",
+  "note": "c/o Dr. Marlene Helml",
+  "pseudoCompany": false,
+  "street": "Herrenstraße",
+  "name": "Kontrafunk Österreich GmbH",
+  "naturalPerson": false,
+  "squuid": "6a743ef4-6144-4c5f-a843-55f4c597297f",
+  "streetNumber": "29",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "4020",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Kontrafunk",
+        "squuid": "6a743f13-34f5-4fb2-bb4d-01c5a53a2e27"
+      },
+      "squuid": "6a743fd4-842f-4752-88cb-e01f41a64c33",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kontrafunk AG",
+        "squuid": "6a7440b1-d61f-46f9-b921-96c86e7e34f0"
+      },
+      "squuid": "6a7440de-53fa-45a9-a061-bfc0c59588ef",
+      "state": "active"
+    }
+  ]
+}
