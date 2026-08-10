@@ -1,8 +1,4 @@
 {
-  "note": "gehört zur Anbietergemeinschaft für gemeinnützige, kulturelle und kirchliche Institutionen GbR",
-  "name": "Evangelische Bildung in Ostbayern e.V.",
-  "pseudoCompany": false,
-  "squuid": "5be1a6b6-92a0-4960-af31-577d040c5612",
   "owns": [
     {
       "type": "own",
@@ -26,6 +22,12 @@
     }
   ],
   "state": "active",
+  "city": "Regensburg",
+  "note": "gehört zur Anbietergemeinschaft für gemeinnützige, kulturelle und kirchliche Institutionen GbR",
+  "pseudoCompany": false,
+  "name": "Evangelische Bildung in Ostbayern e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-92a0-4960-af31-577d040c5612",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -45,6 +47,12 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -62,6 +70,5 @@
       "type": "organization",
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
-  ],
-  "naturalPerson": false
+  ]
 }

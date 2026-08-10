@@ -1,18 +1,40 @@
 {
   "name": "Twer, Thoren",
+  "pseudoCompany": false,
   "squuid": "64919557-f7a9-4fab-9607-58dcb9116cb0",
   "owns": [
     {
       "type": "own",
       "capitalShares": 32.33,
       "held": {
-        "name": "Mittelrhein LastMileGmbH",
+        "name": "Mittelrhein LastMile GmbH",
         "squuid": "5be1a6b6-93ad-4f68-8875-b7f7186f450b"
       },
       "squuid": "6491958b-a5db-42c6-9713-68e438efee1c",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 32.33,
+      "held": {
+        "name": "Mittelrhein-Verlag GmbH",
+        "squuid": "5be1a6b6-7572-4bdd-903c-7c673951897c"
+      },
+      "squuid": "684aaf10-24b5-4d70-832f-75d58b603a2f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 22.22,
+      "held": {
+        "name": "Verlag für Anzeigenblätter GmbH",
+        "squuid": "5ef46a4f-538b-468e-b583-e5cb76ab586d"
+      },
+      "squuid": "68623da4-c46d-491e-9e88-0b190e5a77b2",
+      "state": "active"
     }
   ],
+  "city": "Schlangenbad",
   "state": "active",
   "organizations": [
     {
@@ -33,6 +55,12 @@
       "fullName": "Medienanstalt Rheinland-Pfalz"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -44,5 +72,6 @@
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

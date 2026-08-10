@@ -1,5 +1,6 @@
 {
   "name": "Rebmann, Erja",
+  "pseudoCompany": false,
   "squuid": "6a282bf2-5f4d-48dd-8b70-c09375b55c53",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Weilheim",
   "state": "active",
   "organizations": [
     {
@@ -37,6 +39,12 @@
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
     },
     {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
@@ -74,5 +82,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

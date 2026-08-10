@@ -1,6 +1,4 @@
 {
-  "name": "Werner Friedmann Familienstiftung",
-  "squuid": "695be457-459b-4df9-9228-c2832a2e18fb",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,13 @@
     }
   ],
   "state": "active",
+  "city": "Grünwald",
+  "pseudoCompany": false,
+  "street": "Robert-Koch-Str.",
+  "name": "Werner Friedmann Familienstiftung",
+  "naturalPerson": false,
+  "squuid": "695be457-459b-4df9-9228-c2832a2e18fb",
+  "streetNumber": "20a",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -37,6 +42,12 @@
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
     },
     {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
@@ -74,5 +85,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ]
+  ],
+  "zipcode": "82031"
 }

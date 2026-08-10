@@ -1,5 +1,6 @@
 {
   "name": "Rall, Dr. Claudius Alexander",
+  "pseudoCompany": false,
   "squuid": "69393bbc-db72-49a9-8a20-1bdeac9e039b",
   "owns": [
     {
@@ -11,8 +12,19 @@
       },
       "squuid": "69393c54-db55-46d5-bd2d-81b0c60250ba",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.75,
+      "held": {
+        "name": "Radio RT 4 GmbH & Co. Programm- und Beteiligungsgesellschaft KG",
+        "squuid": "5c98ece2-cbcf-4b69-b373-0f1117ff5746"
+      },
+      "squuid": "6a22d14e-5e7b-4d6f-b6f3-1c33bf57219d",
+      "state": "active"
     }
   ],
+  "city": "Reutlingen",
   "state": "active",
   "organizations": [
     {
@@ -27,6 +39,12 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -38,5 +56,6 @@
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

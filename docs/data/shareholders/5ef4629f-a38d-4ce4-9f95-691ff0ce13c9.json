@@ -1,5 +1,6 @@
 {
   "name": "Bezirksverband Pfalz (als Hauptaktionär der Pfalzwerke AG)",
+  "pseudoCompany": false,
   "squuid": "5ef4629f-a38d-4ce4-9f95-691ff0ce13c9",
   "owns": [
     {
@@ -33,6 +34,12 @@
       "fullName": "Medienanstalt Rheinland-Pfalz"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -44,5 +51,6 @@
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
-  ]
+  ],
+  "naturalPerson": false
 }

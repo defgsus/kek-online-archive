@@ -1,5 +1,6 @@
 {
   "name": "Witte, Florian",
+  "pseudoCompany": false,
   "squuid": "6929c5be-9cc4-4b30-9830-b2ebbf1cbeae",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Berlin",
   "state": "active",
   "organizations": [
     {
@@ -39,6 +41,12 @@
       "fullName": "Medienanstalt Rheinland-Pfalz"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -56,5 +64,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

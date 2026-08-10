@@ -1,5 +1,6 @@
 {
   "name": "Mc Gill, Stephanie",
+  "pseudoCompany": false,
   "squuid": "69c274f0-67a3-47fc-a584-926dfe18dcdb",
   "owns": [
     {
@@ -11,8 +12,19 @@
       },
       "squuid": "69c27513-0d38-4081-86d6-51bd8be7fb30",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.07,
+      "held": {
+        "name": "Girardet Verlag Verwaltungs GmbH",
+        "squuid": "5eb947b5-5d43-4e8b-ba4f-0bec3c04b52c"
+      },
+      "squuid": "6a01aadf-4c2f-4b97-8e6a-74fe3c0af018",
+      "state": "active"
     }
   ],
+  "city": "Kaukapakapa (Australien)",
   "state": "active",
   "organizations": [
     {
@@ -39,6 +51,12 @@
       "fullName": "Medienanstalt Rheinland-Pfalz"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -62,5 +80,6 @@
       "type": "organization",
       "fullName": "Thüringer Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

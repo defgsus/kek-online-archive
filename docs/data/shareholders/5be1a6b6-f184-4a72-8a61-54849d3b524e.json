@@ -4,16 +4,6 @@
       "type": "own",
       "capitalShares": 20.0,
       "held": {
-        "name": "Radio Ramasuri Rundfunk-Programm GmbH & Co. KG (Anbietergemeinschaft)",
-        "squuid": "5be1a6b6-a15d-4e7e-89d2-3b92cae1cbe4"
-      },
-      "squuid": "5be1a6b7-8dea-4fe3-adbb-ed9e4aebef8d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 20.0,
-      "held": {
         "name": "Radio Ramasuri Rundfunk-Programm Verwaltungs GmbH",
         "squuid": "5f3e7afd-4a92-46f4-816e-609fa80c6680"
       },
@@ -49,6 +39,12 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -71,32 +67,12 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 73.65,
+      "capitalShares": 100.0,
       "holder": {
         "name": "Musik u. Technik Rundfunkanbieter GmbH (M.U.T.)",
         "squuid": "5be1a6b6-4114-420c-abe8-b4d39ea2a4e8"
       },
       "squuid": "5be1a6b7-cc13-4605-a775-a5fb94e1a03f",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 6.75,
-      "holder": {
-        "name": "Wilfurth, Dr. Konrad",
-        "squuid": "5be1a6b6-4e87-4b0f-b339-95d4dcf3790a"
-      },
-      "squuid": "5be1a6b7-a076-4550-bf4b-ab9aa18246b2",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 19.6,
-      "holder": {
-        "name": "Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG",
-        "squuid": "5efef438-7c82-454e-beb9-493d1f5ec407"
-      },
-      "squuid": "5f901baf-b0a3-41f8-a4ab-10992d6e0975",
       "state": "active"
     }
   ]

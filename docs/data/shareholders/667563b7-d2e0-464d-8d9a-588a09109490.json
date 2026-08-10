@@ -1,5 +1,6 @@
 {
   "name": "Kind, Renate",
+  "pseudoCompany": false,
   "squuid": "667563b7-d2e0-464d-8d9a-588a09109490",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Burgwedel",
   "state": "active",
   "organizations": [
     {
@@ -38,6 +40,12 @@
       "fullName": "Medienanstalt Rheinland-Pfalz"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
       "name": "SLM",
       "type": "organization",
@@ -61,5 +69,6 @@
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

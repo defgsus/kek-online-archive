@@ -1,5 +1,6 @@
 {
   "name": "Erbengemeinschaft nach Toni Schnell (Samuel Schnell, Louisa Schnell, Vinzenz Schnell, Helena Schnell)",
+  "pseudoCompany": false,
   "squuid": "67b74d46-98c7-483e-8765-d99bf29791ac",
   "owns": [
     {
@@ -10,6 +11,16 @@
         "squuid": "5cb74c22-0d93-4491-a253-f98685ffbc69"
       },
       "squuid": "67b74d69-bc82-40c2-a14d-5de4ad6939e8",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 8.3,
+      "held": {
+        "name": "Pressehaus GmbH",
+        "squuid": "5be1a6b6-e093-4174-9a60-584455023300"
+      },
+      "squuid": "67e11761-9515-4cc8-9615-e0da3875e92b",
       "state": "active"
     }
   ],
@@ -37,6 +48,12 @@
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
     },
     {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
@@ -68,5 +85,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

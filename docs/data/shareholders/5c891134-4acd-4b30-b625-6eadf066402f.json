@@ -34,6 +34,12 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -49,49 +55,8 @@
   "zipcode": "55127",
   "ownedBy": [
     {
-      "complementaryPartner": true,
       "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "RM Radio Management Consultants GmbH",
-        "squuid": "5ef20252-f1e5-4c11-aab8-a053eb601e8a"
-      },
-      "squuid": "5ef203d5-4e9d-45ed-a3d2-c8f10dd07b82",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.99,
-      "holder": {
-        "name": "Brenner, Antonia",
-        "squuid": "5ef20264-1157-465e-89fe-674413e9a647"
-      },
-      "squuid": "5ef203eb-9e93-40db-b60c-0a3ca2935577",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 0.99,
-      "holder": {
-        "name": "Brenner, Marius",
-        "squuid": "5ef20273-ee19-4555-915b-90b3728da4dd"
-      },
-      "squuid": "5ef203fa-67f6-46a3-a4ef-7298dc309d13",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 1.98,
-      "holder": {
-        "name": "Brenner, Roswitha",
-        "squuid": "5ef20282-ae11-4510-a799-64deb3d406f5"
-      },
-      "squuid": "5ef2040d-bda8-4766-a904-ca5914f839e7",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.97,
+      "capitalShares": 0.5,
       "holder": {
         "name": "Christlicher Verein junger Menschen Heidelberg e.V.",
         "squuid": "5ef2029a-543b-4e69-804a-6bec06794079"
@@ -101,7 +66,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 3.97,
+      "capitalShares": 0.5,
       "holder": {
         "name": "Club für Bildung und Politik (CBP) e.V.",
         "squuid": "5ef202b3-a1b2-4266-9903-102051c94b64"
@@ -111,7 +76,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 3.97,
+      "capitalShares": 0.5,
       "holder": {
         "name": "Einzelhandelsverband Nordbaden e.V.",
         "squuid": "5ef202c7-7c9e-4f08-917e-44173c902540"
@@ -121,7 +86,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 39.68,
+      "capitalShares": 5.0,
       "holder": {
         "name": "Ewert, Ursel",
         "squuid": "5ef202d3-18ee-45f2-a2e5-f1ca89ff0382"
@@ -131,7 +96,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 3.97,
+      "capitalShares": 0.5,
       "holder": {
         "name": "Heidelberger Kunstverein e.V.",
         "squuid": "5ef202e8-7fed-4344-82e5-8a2c97da5a33"
@@ -141,7 +106,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 3.97,
+      "capitalShares": 0.5,
       "holder": {
         "name": "Kirchenbezirk Süddeutschland der Selbstständigen Evangelisch-Lutherischen Kirche als K.d.ö.R. im Bereich des Saarlandes",
         "squuid": "5ef20342-ecdf-41d5-ace8-105c472a852f"
@@ -151,17 +116,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 3.97,
-      "holder": {
-        "name": "Landesbauernverband in Baden-Württemberg e.V.",
-        "squuid": "5ef2035f-2db7-4255-a231-d7805e52fee5"
-      },
-      "squuid": "5ef204af-4596-43fe-90aa-2d4438c42e75",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.97,
+      "capitalShares": 0.5,
       "holder": {
         "name": "Landfrauenverband Württemberg Baden e.V.",
         "squuid": "5ef20377-0410-4ba7-a9a3-ccf50940a1ec"
@@ -171,17 +126,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 4.76,
-      "holder": {
-        "name": "Martin, Richard Gordon",
-        "squuid": "5ef20387-11f8-411b-bded-3273654a8c13"
-      },
-      "squuid": "5ef204d3-f8e2-488e-b174-b46d38ef9cbe",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 4.76,
+      "capitalShares": 0.6,
       "holder": {
         "name": "Martin, Dr. Thomas Andreas",
         "squuid": "5ef20398-88b0-4c30-a64f-6ea8ee3582aa"
@@ -191,12 +136,33 @@
     },
     {
       "type": "own",
-      "capitalShares": 19.05,
+      "capitalShares": 75.0,
       "holder": {
         "name": "VRM Rundfunk Holding GmbH & Co. KG",
         "squuid": "5be1a6b6-5bc7-43dc-b198-fb238ef34534"
       },
       "squuid": "5ef204f8-27c3-4f8d-ba62-9dc8d4489062",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 16.4,
+      "holder": {
+        "name": "Blumberg, Aloysius",
+        "squuid": "5f980b2e-cbfa-429b-bdc5-abf4040aeee6"
+      },
+      "squuid": "6a2694ab-74d2-42c6-964d-25174b977dfa",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "VRM Rundfunk Verwaltungs GmbH",
+        "squuid": "5ef9a950-54f1-486a-a4e3-3473e2ce7b1e"
+      },
+      "squuid": "6a269542-a21b-4097-a6df-51bb4b5e2f2c",
       "state": "active"
     }
   ]

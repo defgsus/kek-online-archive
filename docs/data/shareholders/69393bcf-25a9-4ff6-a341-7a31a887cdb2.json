@@ -1,5 +1,6 @@
 {
   "name": "Rall, Titus Armin",
+  "pseudoCompany": false,
   "squuid": "69393bcf-25a9-4ff6-a341-7a31a887cdb2",
   "owns": [
     {
@@ -11,8 +12,19 @@
       },
       "squuid": "69393c21-b635-440b-b046-eedab826a4eb",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 1.75,
+      "held": {
+        "name": "Radio RT 4 GmbH & Co. Programm- und Beteiligungsgesellschaft KG",
+        "squuid": "5c98ece2-cbcf-4b69-b373-0f1117ff5746"
+      },
+      "squuid": "6a22d18b-1c96-4d10-a051-99973a56c600",
+      "state": "active"
     }
   ],
+  "city": "Reutlingen",
   "state": "active",
   "organizations": [
     {
@@ -27,6 +39,12 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -38,5 +56,6 @@
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

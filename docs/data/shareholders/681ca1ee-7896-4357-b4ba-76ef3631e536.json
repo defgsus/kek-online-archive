@@ -1,5 +1,6 @@
 {
   "name": "Bode, Petra",
+  "pseudoCompany": false,
   "squuid": "681ca1ee-7896-4357-b4ba-76ef3631e536",
   "owns": [
     {
@@ -13,6 +14,7 @@
       "state": "active"
     }
   ],
+  "city": "Schwangau",
   "state": "active",
   "organizations": [
     {
@@ -27,6 +29,12 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -38,5 +46,6 @@
       "type": "organization",
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

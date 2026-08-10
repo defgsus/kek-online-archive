@@ -2,9 +2,9 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 2.15,
+      "capitalShares": 50.0,
       "held": {
-        "name": "Anbietergemeinschaft der gemeinnützigen, kulturellen und kirchlichen Institutionen",
+        "name": "Anbietergemeinschaft der gemeinnützigen, kulturellen und kirchlichen Institutionen GbR",
         "squuid": "5be1a6b6-a812-4351-a6f9-7dfdb287eeb8"
       },
       "squuid": "5be1a6b7-2a71-4472-b988-50b6265c67d6",
@@ -18,6 +18,16 @@
         "squuid": "60094425-71cb-476a-93d8-5ff226b7f64f"
       },
       "squuid": "65648466-7e3b-4305-a157-41e53a3d0e0b",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.15,
+      "held": {
+        "name": "Funkhaus Passau GmbH & Co. KG",
+        "squuid": "5be1a6b6-f513-4842-a215-498137a17a32"
+      },
+      "squuid": "68c3e527-3491-496c-b340-184f0a2c6302",
       "state": "active"
     }
   ],
@@ -45,6 +55,12 @@
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
     },
     {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",

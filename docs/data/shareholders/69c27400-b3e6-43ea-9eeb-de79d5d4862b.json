@@ -1,5 +1,6 @@
 {
   "name": "Girardet, Sibilla",
+  "pseudoCompany": false,
   "squuid": "69c27400-b3e6-43ea-9eeb-de79d5d4862b",
   "owns": [
     {
@@ -11,8 +12,19 @@
       },
       "squuid": "69c27453-ec0b-4a4f-b679-4b1fbc601e0f",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 5.07,
+      "held": {
+        "name": "Girardet Verlag Verwaltungs GmbH",
+        "squuid": "5eb947b5-5d43-4e8b-ba4f-0bec3c04b52c"
+      },
+      "squuid": "6a01aa9a-34c5-43c9-819d-e3445bb97637",
+      "state": "active"
     }
   ],
+  "city": "Auckland (Neuseeland)",
   "state": "active",
   "organizations": [
     {
@@ -39,6 +51,12 @@
       "fullName": "Medienanstalt Rheinland-Pfalz"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -62,5 +80,6 @@
       "type": "organization",
       "fullName": "Thüringer Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

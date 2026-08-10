@@ -77,6 +77,12 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
       "name": "LMS",
       "type": "organization",
@@ -155,16 +161,6 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "GeVi Beteiligungen GmbH Medien KG",
-        "squuid": "5be1a6b6-e76e-4e4d-b935-b2ad38477d9c"
-      },
-      "squuid": "5be1a6b8-abb7-4920-a2c2-2621156aeb03",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -173,6 +169,16 @@
         "squuid": "5ee37b6b-e641-4bab-856b-a62f160d4afa"
       },
       "squuid": "5ee37b8d-1c80-4299-ba68-5ce5a8c074fb",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Südwest Presse Neckar-Alb GmbH & Co. KG",
+        "squuid": "5be1a6b6-7896-41d7-86fd-15daa70439d8"
+      },
+      "squuid": "6a019e50-6e41-4a9e-ba5f-d3ef68a4f99a",
       "state": "active"
     }
   ]

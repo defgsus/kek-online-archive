@@ -79206,7 +79206,7 @@
       "fullName": "Medienanstalt Hessen"
     },
     "rfStatewide": false,
-    "name": "Antenne Frankfurt 95.1",
+    "name": "Radio Frankfurt",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -150832,7 +150832,7 @@
       "fullName": "Medienanstalt Hessen"
     },
     "rfStatewide": false,
-    "name": "BigFM Hessen",
+    "name": "bigFM Hessen",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -159084,7 +159084,7 @@
     "name": "Radio Frankfurt",
     "type": "radio",
     "squuid": "6a758e6d-920d-4e0a-9331-329a5adb15bb",
-    "state": "active"
+    "state": "archived"
   },
   {
     "state": "active",
@@ -159915,6 +159915,32 @@
       "name": "Online Medienangebot",
       "type": "online-offer-type",
       "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "6a799fc5-5d57-4c27-80f2-8a6013f1ba65",
+    "organization": {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    "rfStatewide": false,
+    "name": "Radio Bollerwagen (Hessen)",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
     }
   },
   {
