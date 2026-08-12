@@ -1,4 +1,5 @@
 {
+  "rfRepresentative": "Geschäftsführer Frank Haring",
   "state": "active",
   "rfShoppingChannel": false,
   "rfStartDate": "2023",
@@ -16,17 +17,17 @@
       "type": "operate",
       "holder": {
         "name": "Fernsehen in Dresden GmbH",
-        "squuid": "5be1a6b6-84ba-4a5c-9d21-ea5fb602619f"
+        "squuid": "673cbab7-9fb7-4b9b-92ed-20cf58c42889"
       },
-      "squuid": "64c1134a-c7da-42b4-a42f-c8c4fdd35ada",
+      "squuid": "6853a161-984c-4d03-ae7c-10abb84fc4d2",
       "state": "active"
     }
   ],
   "name": "SACHSEN FERNSEHEN Lausitz",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-    "name": "auf Sendung",
+    "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+    "name": "Noch nicht auf Sendung",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -43,7 +44,9 @@
     "type": "organization",
     "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
   },
+  "description": "regional ausgerichtetes Fernsehvollprogramm mit dem Schwerpunkt regionaler Berichterstattung aus Ostsachsen \nVerbreitung: Kabel, Internet",
   "rfLicenseUntil": "30.06.2032",
   "rfLicensed": "03.07.2023",
-  "rfLicenseFrom": "01.07.2023"
+  "rfLicenseFrom": "01.07.2023",
+  "rfAddress": "Fernsehen in Dresden GmbH\nSchandauer Straße 64\n01277 Dresden"
 }
