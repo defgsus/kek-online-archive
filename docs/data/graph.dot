@@ -1446,7 +1446,7 @@ digraph {
     label="A & F Medien GmbH & Co KG"
     num_owners=8
     num_owners_weighted=7.0000
-    num_medias=62
+    num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-87f6-4c20-88ac-aa9ef5a6be1a"
     in_degree=7
@@ -1458,7 +1458,7 @@ digraph {
     label="A & F Medien Verwaltungs GmbH"
     num_owners=8
     num_owners_weighted=8.0000
-    num_medias=62
+    num_medias=0
     num_medias_weighted=0.0000
     name="5ef1e35a-fcf3-407b-b81f-fbe8b629e000"
     in_degree=1
@@ -5106,11 +5106,11 @@ digraph {
     label="AM Holding AG"
     num_owners=10
     num_owners_weighted=8.3940
-    num_medias=62
-    num_medias_weighted=41.9776
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5d14c3db-c81f-4a91-a64c-00debe78ac5b"
     in_degree=2
-    out_degree=2
+    out_degree=1
   ];
   426 [
     type=shareholder
@@ -7926,8 +7926,8 @@ digraph {
     label="Aschendorff GmbH & Co. KG"
     num_owners=8
     num_owners_weighted=7.0000
-    num_medias=62
-    num_medias_weighted=37.7378
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-4cca-4ddc-b1c8-f651fbf3105a"
     in_degree=7
     out_degree=2
@@ -69390,8 +69390,8 @@ digraph {
     label="Hüffer, Eduard"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=3.3021
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-ad46-47f3-ab6c-c7acfb1172c3"
     in_degree=0
     out_degree=2
@@ -69402,8 +69402,8 @@ digraph {
     label="Hüffer, Jürgen Benedikt"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=18.8689
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-ee53-4d4e-9488-fb7e4345e34b"
     in_degree=0
     out_degree=2
@@ -69414,8 +69414,8 @@ digraph {
     label="Hüffer, Rolf"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=8.0872
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-c7cf-4296-bb67-78768d38b819"
     in_degree=0
     out_degree=2
@@ -76086,8 +76086,8 @@ digraph {
     label="Kerstiens, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=3.2341
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-ef4e-4731-a35c-6e434038782f"
     in_degree=0
     out_degree=2
@@ -87126,8 +87126,8 @@ digraph {
     label="Lohmann, Dr. Reinhild"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=2.3586
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-af26-4872-9071-1b9332e86496"
     in_degree=0
     out_degree=2
@@ -93669,7 +93669,7 @@ digraph {
     num_medias=26
     num_medias_weighted=4.4870
     name="5be1a6b6-ccfa-4873-9d8a-77cd02974d4c"
-    in_degree=1
+    in_degree=2
     out_degree=6
   ];
   7806 [
@@ -105822,11 +105822,11 @@ digraph {
     label="NOZ Beteiligungsgesellschaft mbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=26
+    num_medias_weighted=2.2440
     name="6a75d8ed-4cca-4c0d-89a0-4ee8de9a990d"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   8819 [
     type=shareholder
@@ -145830,8 +145830,8 @@ digraph {
     label="Steinbicker, Peter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=1.8869
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-22cc-4c6f-b843-444d247ed778"
     in_degree=0
     out_degree=2
@@ -168489,7 +168489,7 @@ digraph {
     num_medias=62
     num_medias_weighted=41.9776
     name="5e1dbf6a-1c4a-47cf-92d6-f85fa7fded35"
-    in_degree=1
+    in_degree=0
     out_degree=3
   ];
   14041 [
@@ -168510,7 +168510,7 @@ digraph {
     label="Westfälische Nachrichten GmbH"
     num_owners=8
     num_owners_weighted=8.0000
-    num_medias=62
+    num_medias=0
     num_medias_weighted=0.0000
     name="5ee7676f-b3a9-4235-8d73-0986010d7790"
     in_degree=1
@@ -214577,10 +214577,6 @@ digraph {
     weight=79.9
     type=owns
   ];
-  425 -> 14040 [
-    weight=100
-    type=owns
-  ];
   426 -> 5459 [
     weight=5.16
     type=owns
@@ -252791,6 +252787,10 @@ digraph {
   ];
   8816 -> 9721 [
     weight=35.2
+    type=owns
+  ];
+  8818 -> 7805 [
+    weight=50.01
     type=owns
   ];
   8819 -> 14994 [
