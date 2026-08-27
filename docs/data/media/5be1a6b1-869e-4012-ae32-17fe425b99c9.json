@@ -2,7 +2,7 @@
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-869e-4012-ae32-17fe425b99c9",
-  "marketReach": 5.0,
+  "marketReach": 4.9,
   "organization": {
     "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
     "name": "KEK",
@@ -21,9 +21,15 @@
       "state": "active"
     }
   ],
-  "name": "Bayern 1",
+  "name": "BR 1",
   "pressEditionsIVW": false,
   "rfPublicPrivate": true,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "rfDirector": "Katja Wildermuth",
   "type": "radio",
   "onlineOfferType": {

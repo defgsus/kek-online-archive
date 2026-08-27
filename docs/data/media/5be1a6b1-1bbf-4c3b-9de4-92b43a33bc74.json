@@ -7,7 +7,7 @@
     "name": "KEK",
     "type": "organization"
   },
-  "accessibilityUrl": "https://www.br.de/puls/index.html",
+  "accessibilityUrl": "https://www.br.de/radio/br24/br24live/index.html",
   "rfStatewide": false,
   "operatedBy": [
     {
@@ -20,9 +20,15 @@
       "state": "active"
     }
   ],
-  "name": "PULS",
+  "name": "BR 24 live ",
   "pressEditionsIVW": false,
   "rfPublicPrivate": true,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "rfDirector": "Katja Wildermuth",
   "type": "radio",
   "onlineOfferType": {

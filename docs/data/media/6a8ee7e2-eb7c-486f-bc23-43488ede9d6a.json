@@ -1,17 +1,13 @@
 {
-  "matchedNames": [
-    "MDR SACHSEN-ANHALT"
-  ],
   "state": "active",
   "rfShoppingChannel": false,
-  "squuid": "5be1a6b1-137a-495d-9802-6f10b7617a91",
-  "marketReach": 0.6,
+  "squuid": "6a8ee7e2-eb7c-486f-bc23-43488ede9d6a",
   "organization": {
     "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
     "name": "KEK",
     "type": "organization"
   },
-  "accessibilityUrl": "https://www.mdr.de/sachsen-anhalt/index.html",
+  "accessibilityUrl": "https://www.mdr.de/meine-schlagerwelt/radio",
   "rfStatewide": false,
   "operatedBy": [
     {
@@ -20,12 +16,11 @@
         "name": "Mitteldeutscher Rundfunk (MDR)",
         "squuid": "5be1a6b6-bd02-4fb7-8bd9-8294ee3500fb"
       },
-      "squuid": "5be1a6b9-3b5c-4369-a945-7cbed21ced48",
+      "squuid": "6a8ee8cb-32d2-48c9-b65d-6aecef0e78b4",
       "state": "active"
     }
   ],
-  "name": "MDR SACHSEN-ANHALT – Mein Radio. Mein Zuhause.",
-  "pressEditionsIVW": false,
+  "name": "MDR Schlagerwelt",
   "rfPublicPrivate": true,
   "rfBroadcastStatus": {
     "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -35,13 +30,11 @@
   },
   "rfDirector": "Ralf Ludwig",
   "type": "radio",
-  "onlineOfferType": {
-    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
-    "name": "Online Medienangebot",
-    "type": "online-offer-type",
-    "state": "active"
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
   },
-  "accessibilityEmail": "Publikumsservice@mdr.de",
   "languages": [
     {
       "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",

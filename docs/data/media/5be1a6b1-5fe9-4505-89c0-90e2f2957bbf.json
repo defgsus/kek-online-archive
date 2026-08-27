@@ -2,7 +2,7 @@
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-5fe9-4505-89c0-90e2f2957bbf",
-  "marketReach": 3.0,
+  "marketReach": 2.4,
   "organization": {
     "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
     "name": "KEK",
@@ -21,9 +21,15 @@
       "state": "active"
     }
   ],
-  "name": "Bayern 3",
+  "name": "BR 3",
   "pressEditionsIVW": false,
   "rfPublicPrivate": true,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
   "rfDirector": "Katja Wildermuth",
   "type": "radio",
   "onlineOfferType": {
