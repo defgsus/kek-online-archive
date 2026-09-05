@@ -4389,7 +4389,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="5f7721ce-3b10-4b61-bd97-b6e5b9ee8fdd"
-    in_degree=2
+    in_degree=3
     out_degree=1
   ];
   366 [
@@ -4401,7 +4401,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="5cab6a19-b235-49e1-abfe-578e329004c0"
-    in_degree=3
+    in_degree=4
     out_degree=2
   ];
   367 [
@@ -4450,7 +4450,7 @@ digraph {
     num_medias_weighted=14.5716
     name="5be1a6b6-9e2f-4de5-839b-a9064817ea96"
     in_degree=2
-    out_degree=20
+    out_degree=22
   ];
   371 [
     type=radio
@@ -214488,6 +214488,14 @@ digraph {
   366 -> 14471 [
     weight=100
     type=operates
+  ];
+  370 -> 365 [
+    weight=56
+    type=owns
+  ];
+  370 -> 366 [
+    weight=56
+    type=owns
   ];
   370 -> 7786 [
     weight=4.31
