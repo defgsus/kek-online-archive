@@ -28,7 +28,7 @@
   "name": "Allianz SE",
   "naturalPerson": false,
   "squuid": "5be1a6b6-cb16-4d1e-ba0f-87eecce1b902",
-  "controlDate": "2026-04-09T09:05:12.863Z",
+  "controlDate": "2026-09-05T09:30:37.252Z",
   "streetNumber": "28",
   "organizations": [
     {
@@ -47,7 +47,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 6.39,
+      "capitalShares": 8.28,
       "holder": {
         "name": "BlackRock, Inc.",
         "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
@@ -57,7 +57,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 88.76,
+      "capitalShares": 84.76,
       "holder": {
         "name": "Streubesitz an der Allianz SE",
         "squuid": "5be1a6b6-1b9d-481b-8f5a-105de688234c"
@@ -77,12 +77,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 3.85,
+      "capitalShares": 2.97,
       "holder": {
         "name": "DWS Investment GmbH",
         "squuid": "5be1a6b6-c474-4fe8-87d9-642d012c049e"
       },
       "squuid": "5ef5cd0b-5253-4c6c-88db-0dac399afdb1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.99,
+      "holder": {
+        "name": "Amundi Asset Management",
+        "squuid": "66866ac1-82bc-49af-ba7b-8fb1c46ff75a"
+      },
+      "squuid": "69d76b96-3eec-4ae6-b0ed-5401a0bb4d24",
       "state": "active"
     }
   ]
