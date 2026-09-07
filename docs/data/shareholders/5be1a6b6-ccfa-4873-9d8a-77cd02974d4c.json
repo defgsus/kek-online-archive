@@ -33,32 +33,15 @@
   "streetNumber": "21",
   "organizations": [
     {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     },
     {
-      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LFM NRW",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
-    },
-    {
-      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-      "name": "MA HSH",
-      "type": "organization",
-      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
-    },
-    {
-      "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-      "name": "NLM",
-      "type": "organization",
-      "fullName": "Niedersächsische Landesmedienanstalt"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "26382",
@@ -104,12 +87,22 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 49.99,
       "holder": {
         "name": "C.L. Mettcker & Söhne GmbH",
         "squuid": "5be1a6b6-a8bb-4854-9f84-2774a3ff8537"
       },
       "squuid": "6177e85d-4c36-468b-8904-325862c4873e",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.01,
+      "holder": {
+        "name": "NOZ Beteiligungsgesellschaft mbH",
+        "squuid": "6a75d8ed-4cca-4c0d-89a0-4ee8de9a990d"
+      },
+      "squuid": "6a75d92a-ac27-4b9a-b0f0-9988668add97",
       "state": "active"
     }
   ]

@@ -7,6 +7,7 @@
         "name": "Cl. Attenkofer'sche Buch- und Kunstdruckerei Verlagsbuchhandlung Straubing KG",
         "squuid": "5be1a6b6-f22b-4544-889f-d31615692dc4"
       },
+      "liabilitySum": 0.07,
       "squuid": "69e20a3e-44c0-4e95-96be-2c9ee0c319ca",
       "state": "active"
     }
@@ -18,7 +19,7 @@
   "name": "Attenkofer GmbH",
   "naturalPerson": false,
   "squuid": "69e20910-73f2-4102-8181-7458ab31f0a2",
-  "controlDate": "2026-05-04T07:55:41.111Z",
+  "controlDate": "2026-09-06T11:24:29.152Z",
   "streetNumber": "32",
   "organizations": [
     {
@@ -122,5 +123,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "94315"
+  "zipcode": "94315",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Balle, Dr. Martin",
+        "squuid": "5c6edd1d-d366-4f77-ae7b-fbb6cf2f299e"
+      },
+      "squuid": "69f852af-e089-41a4-a93a-894721bd2d97",
+      "state": "active"
+    }
+  ]
 }
