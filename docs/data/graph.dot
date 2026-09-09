@@ -61290,11 +61290,11 @@ digraph {
     label="Hannes, Berta"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=321
-    num_medias_weighted=1.4970
+    num_medias=24
+    num_medias_weighted=0.0345
     name="5be1a6b6-c78b-4daa-9826-2f76f3089b56"
     in_degree=0
-    out_degree=2
+    out_degree=1
   ];
   5108 [
     type=shareholder
@@ -61302,11 +61302,11 @@ digraph {
     label="Hannes, Hanno"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=321
+    num_medias_weighted=0.7485
     name="6a8eeb6e-4749-4b05-8214-49d0d1b537f1"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5109 [
     type=shareholder
@@ -61314,11 +61314,11 @@ digraph {
     label="Hannes, Harry"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=321
+    num_medias_weighted=0.7485
     name="6a8eeb81-4973-4f1a-a67c-e20e381904e9"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5110 [
     type=print
@@ -161133,7 +161133,7 @@ digraph {
     num_medias=321
     num_medias_weighted=182.5652
     name="5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
-    in_degree=33
+    in_degree=34
     out_degree=43
   ];
   13428 [
@@ -235897,7 +235897,11 @@ digraph {
     weight=3.28
     type=owns
   ];
-  5107 -> 13427 [
+  5108 -> 13427 [
+    weight=1
+    type=owns
+  ];
+  5109 -> 13427 [
     weight=1
     type=owns
   ];
