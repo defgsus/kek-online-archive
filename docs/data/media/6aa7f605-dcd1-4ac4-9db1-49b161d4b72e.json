@@ -3,14 +3,13 @@
   "state": "active",
   "rfShoppingChannel": false,
   "rfStartDate": "01.01.2020",
-  "squuid": "5be1a6b1-ada3-4b10-961d-8b0211720c4d",
+  "squuid": "6aa7f605-dcd1-4ac4-9db1-49b161d4b72e",
   "organization": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
     "name": "SLM",
     "type": "organization",
     "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
   },
-  "accessibilityUrl": "https://www.bcs-sachsen.de/",
   "rfStatewide": false,
   "operatedBy": [
     {
@@ -19,12 +18,11 @@
         "name": "BCS Broadcast Sachsen GmbH & Co. KG",
         "squuid": "5be1a6b6-f580-4b54-923b-11ca0a389907"
       },
-      "squuid": "5be1a6b9-6014-4cd9-a44d-4bb0f572e985",
+      "squuid": "6aa7f6a1-0abd-4e35-b978-151439238195",
       "state": "active"
     }
   ],
-  "name": "120bpm.live/Leipzig",
-  "pressEditionsIVW": false,
+  "name": "120bpm.live/Zwickau",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
     "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -33,28 +31,15 @@
     "state": "active"
   },
   "type": "radio",
-  "rfCategory": {
-    "squuid": "5be1a6ad-063c-4208-94e1-5216fef7a724",
-    "name": "Vollprogramm",
-    "type": "program-category",
-    "state": "active"
-  },
   "rfSupervisingAuthority": {
     "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
     "name": "SLM",
     "type": "organization",
     "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
   },
-  "description": "lokal ausgerichtetes Hörfunkvollprogramm mit inhaltlichem Schwerpunkt auf lokaler Berichterstattung aus dem Großraum Leipzig\nVerbreitung: DAB+ lokal",
-  "rfLicenseUntil": "30.01.2030",
-  "onlineOfferType": {
-    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
-    "name": "Online Medienangebot",
-    "type": "online-offer-type",
-    "state": "active"
-  },
-  "rfLicensed": "23.01.2019",
-  "rfLicenseFrom": "31.01.2020",
-  "rfAddress": "BCS Broadcast Sachsen GmbH & Co. KG\nAmmonstraße 35\n01067 Dresden\n",
-  "accessibilityEmail": "gf-assistenz@bcs-sachsen.de"
+  "description": "ein bis zu 24 Stunden täglich veranstaltetes lokal ausgerichtetes Hörfunkvollprogramm mit inhaltlichem Schwerpunkt auf lokale Berichterstattung aus der Region Zwickau\nVerbreitung: Internet",
+  "rfLicenseUntil": "31.10.2034",
+  "rfLicensed": "26.11.2024",
+  "rfLicenseFrom": "01.11.2024",
+  "rfAddress": "BCS Broadcast Sachsen GmbH & Co. KG\nAmmonstraße 35\n01067 Dresden"
 }

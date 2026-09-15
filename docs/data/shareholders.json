@@ -35443,7 +35443,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-ada3-4b10-961d-8b0211720c4d",
-          "name": "Radio Leipzig 2"
+          "name": "120bpm.live/Leipzig"
         }
       },
       {
@@ -35497,7 +35497,7 @@
         "state": "active",
         "held": {
           "squuid": "5fa26b6c-8357-41c4-895f-35d3a4a0d9d3",
-          "name": "Radio Chemnitz 2"
+          "name": "120bpm.live/Chemnitz"
         }
       },
       {
@@ -35533,7 +35533,7 @@
         "state": "active",
         "held": {
           "squuid": "68652e89-e295-4d55-ba83-1c05a9421126",
-          "name": "Radio Dresden 2"
+          "name": "120bpm.live/Dresden"
         }
       },
       {
@@ -35543,6 +35543,33 @@
         "held": {
           "squuid": "68653f56-3061-409c-af43-00f64982f757",
           "name": "www.antennesachsen.de"
+        }
+      },
+      {
+        "squuid": "6aa7f5b9-7f87-45ac-8d4a-71c294a7f63b",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6aa7f467-a47b-44b5-8ff9-703dfa56abca",
+          "name": "120bpm.live/Lausitz"
+        }
+      },
+      {
+        "squuid": "6aa7f6a1-0abd-4e35-b978-151439238195",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6aa7f605-dcd1-4ac4-9db1-49b161d4b72e",
+          "name": "120bpm.live/Zwickau"
+        }
+      },
+      {
+        "squuid": "6aa7f79a-9cf1-43be-80f3-1daae2cebfdc",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6aa7f6df-ddab-4b5b-a18b-42067084db6c",
+          "name": "120bpm.live/Erzgebirge"
         }
       }
     ]
@@ -155112,21 +155139,10 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5c59aae3-2a24-4db6-bd60-365ad8475575",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5c59a6cd-ee67-4329-8e20-1067d4588d2a",
-          "name": "Joy-Music-Video (Berlin)"
-        }
       }
     ]
   },
