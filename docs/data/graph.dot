@@ -42486,11 +42486,11 @@ digraph {
     label="Erbengemeinschaft Sophie Alexandra Kluge und Leonard Kluge"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.7511
     name="6a983643-8db7-4e9c-89ee-42000b61e9ed"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3541 [
     type=shareholder
@@ -78210,11 +78210,11 @@ digraph {
     label="Kluge, Prof. Dr. Alexander"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.7511
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-e228-4ce9-a6a7-3827abc3157c"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   6518 [
     type=shareholder
@@ -228613,6 +228613,10 @@ digraph {
     weight=100
     type=owns
   ];
+  3540 -> 2368 [
+    weight=37.5
+    type=owns
+  ];
   3543 -> 12635 [
     weight=1
     type=owns
@@ -242023,10 +242027,6 @@ digraph {
   ];
   6514 -> 5533 [
     weight=100
-    type=owns
-  ];
-  6517 -> 2368 [
-    weight=37.5
     type=owns
   ];
   6519 -> 9251 [
