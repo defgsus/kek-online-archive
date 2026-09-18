@@ -1,0 +1,105 @@
+{
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 4.0,
+      "held": {
+        "name": "Beltz Rübelmann Holding GmbH & Co KG",
+        "squuid": "5be1a6b6-c5da-45b5-8a4f-227135013f73"
+      },
+      "squuid": "6aabc650-7864-4f00-9081-186fe1bce4a4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "BTB Beteiligungs-GmbH",
+        "squuid": "6aabc88a-323c-4e96-8583-495b47de7b61"
+      },
+      "squuid": "6aabc907-ddd7-4883-8e53-144c85a973fa",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "city": "Weinheim",
+  "pseudoCompany": false,
+  "street": "Werderstr.",
+  "name": "BTK GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6aabc631-27da-40e1-90a9-97d6565cf5be",
+  "controlDate": "2026-09-17T10:53:12.298Z",
+  "streetNumber": "10",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "69469",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Blum, Christina",
+        "squuid": "5be1a6b6-91d5-457d-95eb-a2b040f654bc"
+      },
+      "squuid": "6aabc80a-77e8-487f-9352-ee984047fd49",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 33.33,
+      "holder": {
+        "name": "Rübelmann, Marianne",
+        "squuid": "5be1a6b6-23b8-4265-94fb-9fb08ce68524"
+      },
+      "squuid": "6aabc821-6d92-4ba8-b0ad-1d82add053e3",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.11,
+      "holder": {
+        "name": "Rübelmann, Ronja",
+        "squuid": "638dd8fb-8fe1-4476-b769-2aa13b5d4445"
+      },
+      "squuid": "6aabc83d-2ca9-4334-8983-617ec878dbad",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.11,
+      "holder": {
+        "name": "Rübelmann, Lena",
+        "squuid": "638dd8cb-3a1b-4e81-909b-bc9e31c1080f"
+      },
+      "squuid": "6aabc854-70c8-40c8-9858-bb68f534f8c4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 11.11,
+      "holder": {
+        "name": "Rübelmann, Nils",
+        "squuid": "638dd8da-142b-4f2d-8870-e5273ebcb5a2"
+      },
+      "squuid": "6aabc862-58ef-4a19-9bca-1aeffa8ee5a3",
+      "state": "active"
+    },
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "BTB Beteiligungs-GmbH",
+        "squuid": "6aabc88a-323c-4e96-8583-495b47de7b61"
+      },
+      "squuid": "6aabc89a-08a8-4690-aa12-2da04ade78db",
+      "state": "active"
+    }
+  ]
+}
