@@ -16746,11 +16746,11 @@ digraph {
     label="Bit2Byte Entertainment UG (haftungsbeschränkt)"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5fd3fdb6-66aa-44fe-a91c-2562a34b1e9d"
     in_degree=1
-    out_degree=2
+    out_degree=1
   ];
   1396 [
     type=tv
@@ -16854,11 +16854,11 @@ digraph {
     label="blabla.cafe GmbH & Co. KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6a316a19-feab-4990-8834-ca40a8703f31"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   1405 [
     type=shareholder
@@ -16939,10 +16939,10 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=87
-    num_medias_weighted=2.2189
+    num_medias_weighted=2.3330
     name="5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
     in_degree=0
-    out_degree=20
+    out_degree=21
   ];
   1412 [
     type=shareholder
@@ -49245,7 +49245,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0277
     name="5d30270b-4a67-4bc0-83ea-e8fd643870b2"
-    in_degree=6
+    in_degree=7
     out_degree=1
   ];
   4104 [
@@ -147066,8 +147066,8 @@ digraph {
     label="Stoll, Julian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5fd3fddd-7395-4966-9fa9-74e34d884d3b"
     in_degree=0
     out_degree=1
@@ -176378,14 +176378,14 @@ digraph {
   ];
   14698 [
     type=online
-    state=active
+    state=archived
     label="www.bit2byte.tv"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="6a3168f2-d20a-4e87-a87a-751f0471cf4e"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   14699 [
@@ -176438,14 +176438,14 @@ digraph {
   ];
   14703 [
     type=online
-    state=active
+    state=archived
     label="www.blabla.cafe"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="6a316ae6-7649-4fd1-a447-c5d54de608a9"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   14704 [
@@ -209668,8 +209668,8 @@ digraph {
     type=online
     state=active
     label="www.wochenspiegel.digital"
-    num_owners=265
-    num_owners_weighted=10.6406
+    num_owners=264
+    num_owners_weighted=9.6406
     num_medias=0
     num_medias_weighted=0.0000
     name="63d1153e-e16d-4828-b13f-e0c78d2545b5"
@@ -219205,10 +219205,6 @@ digraph {
     weight=100
     type=operates
   ];
-  1395 -> 14698 [
-    weight=100
-    type=operates
-  ];
   1397 -> 2054 [
     weight=1
     type=owns
@@ -219216,10 +219212,6 @@ digraph {
   1398 -> 7910 [
     weight=30
     type=owns
-  ];
-  1404 -> 14703 [
-    weight=100
-    type=operates
   ];
   1407 -> 1408 [
     weight=100
@@ -219262,7 +219254,7 @@ digraph {
     type=owns
   ];
   1411 -> 2521 [
-    weight=7.23
+    weight=7.92
     type=owns
   ];
   1411 -> 2524 [
@@ -219270,7 +219262,11 @@ digraph {
     type=owns
   ];
   1411 -> 2532 [
-    weight=3.38
+    weight=3.19
+    type=owns
+  ];
+  1411 -> 4103 [
+    weight=3.14
     type=owns
   ];
   1411 -> 6922 [
@@ -219290,7 +219286,7 @@ digraph {
     type=owns
   ];
   1411 -> 9614 [
-    weight=4
+    weight=3
     type=owns
   ];
   1411 -> 12839 [
@@ -219310,7 +219306,7 @@ digraph {
     type=owns
   ];
   1411 -> 4125 [
-    weight=5.39
+    weight=7.29
     type=owns
   ];
   1413 -> 2055 [
