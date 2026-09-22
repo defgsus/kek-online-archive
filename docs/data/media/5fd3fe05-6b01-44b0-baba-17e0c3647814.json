@@ -1,6 +1,6 @@
 {
   "rfRepresentative": "Julian Stoll",
-  "state": "active",
+  "state": "archived",
   "sharesInfo": "KEK 1052",
   "rfShoppingChannel": false,
   "rfParentalAdvisor": "Uwe Kraus",
@@ -14,22 +14,11 @@
   },
   "accessibilityUrl": "https://www.bit2byte.tv/",
   "rfStatewide": true,
-  "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Bit2Byte Entertainment UG (haftungsbeschränkt)",
-        "squuid": "5fd3fdb6-66aa-44fe-a91c-2562a34b1e9d"
-      },
-      "squuid": "5fd3ff20-2116-4da0-9d44-c8e6bc794084",
-      "state": "active"
-    }
-  ],
   "name": "bit2byteTV",
   "rfPublicPrivate": false,
   "rfBroadcastStatus": {
-    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-    "name": "auf Sendung",
+    "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+    "name": "Sendebetrieb eingestellt",
     "type": "broadcast-status",
     "state": "active"
   },
@@ -63,7 +52,7 @@
     },
     {
       "squuid": "5be1a6b0-6b30-40cd-81e4-c876e3a2cf67",
-      "name": "Twitch",
+      "name": "Twitch / Amazon.com, Inc.",
       "type": "platform-operator",
       "distributionType": {
         "squuid": "5be1a6b0-eeba-4517-af4c-ee038a5da882",
