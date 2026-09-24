@@ -9143,7 +9143,7 @@
     "squuid": "5be1a6b6-b032-4c21-b688-486e01ca11bd",
     "name": "Burda Gesellschaft mit beschränkter Haftung",
     "state": "active",
-    "controlDate": "2026-04-16T07:41:10.883Z",
+    "controlDate": "2026-09-23T08:10:54.964Z",
     "corporationName": "",
     "organizations": [
       {
@@ -10321,7 +10321,7 @@
   },
   {
     "squuid": "5be1a6b6-16c9-4c58-9037-a0a95a6e46d8",
-    "name": "SPIEGEL TV GmbH",
+    "name": "SPIEGEL TV Studios GmbH",
     "state": "active",
     "controlDate": "2026-06-11T08:58:04.428Z",
     "organizations": [
@@ -29168,7 +29168,7 @@
     "name": "bw family.tv GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2eb2-4708-b58a-00d30d4f4ef4",
-    "controlDate": "2026-04-16T08:23:34.144Z",
+    "controlDate": "2026-09-23T10:25:48.063Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -51379,7 +51379,7 @@
   },
   {
     "squuid": "5be1a6b6-1453-4f65-9406-1767aef2e002",
-    "name": "Sportainment Media Group GmbH & Co. KG",
+    "name": "SPORTAINMENT Media Group GmbH & Co. KG",
     "state": "active",
     "controlDate": "2026-06-11T09:30:15.996Z",
     "limitedPartnership": true,
@@ -52106,7 +52106,7 @@
     "squuid": "5be1a6b6-b8a8-401d-b86c-7cd4fa678516",
     "name": "Burg Schwarzenstein GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-04-16T07:54:52.776Z",
+    "controlDate": "2026-09-23T09:00:36.656Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -53285,7 +53285,7 @@
     "squuid": "5be1a6b6-a4b8-426b-9edf-50a05d44a143",
     "name": "Byte.FM GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:28:19.901Z",
+    "controlDate": "2026-09-23T10:28:10.284Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151242,7 +151242,7 @@
     "squuid": "5d39767d-0e96-493d-8328-31e73bbbaeef",
     "name": "Büchl Entsorgungswirtschaft GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:52:52.576Z",
+    "controlDate": "2026-09-23T10:38:21.022Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -152412,6 +152412,38 @@
         "name": "LFM NRW",
         "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
         "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6ab3927a-29a7-4227-81b6-c53ed2492e32",
+    "name": "DFB.TV SENDEGESELLSCHAFT mbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "6ab39ab9-0a04-4f66-ba4f-78c186207c41",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6ab3923a-7e86-4332-8278-6fecd9d88fd1",
+          "name": "DFB.TV"
+        }
+      },
+      {
+        "squuid": "6ab39eed-54b8-4416-8039-9f5bf4639062",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6ab39255-7548-4eba-bfe1-9902e3e4bf1b",
+          "name": "DFB.TV FREE"
+        }
       }
     ]
   },
@@ -154792,7 +154824,7 @@
     "squuid": "61fbda95-03ed-4266-8ee5-59f494897a99",
     "name": "Börsenverein des Deutschen Buchhandels Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:51:07.266Z",
+    "controlDate": "2026-09-23T10:38:09.464Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155450,6 +155482,19 @@
         "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
         "name": "MMV",
         "fullName": "Medienanstalt Mecklenburg-Vorpommern",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6ab3b521-bd3d-496d-86b1-b8762bcf5447",
+    "name": "TELLYTEC GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -156632,6 +156677,19 @@
     ]
   },
   {
+    "squuid": "6ab3c657-3a5e-4736-aa71-91821c3bfb00",
+    "name": "SPIEGEL TV Magazin GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5ede46db-863f-4d9f-b3ef-248e0036c209",
     "name": "GeVi Beteiligungen GmbH",
     "state": "active",
@@ -157670,7 +157728,7 @@
     "squuid": "5eba9035-f332-4601-b69e-f43054a4484a",
     "name": "BVA Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:17:13.182Z",
+    "controlDate": "2026-09-23T10:09:47.726Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -164667,7 +164725,7 @@
         "state": "active",
         "held": {
           "squuid": "5d3017a4-1e5b-41e5-b618-32eaabc13011",
-          "name": "DFB.TV"
+          "name": "DFB-TV"
         }
       },
       {
@@ -187481,7 +187539,7 @@
   },
   {
     "squuid": "5f184f5b-ca85-4fa9-8613-9344c8f79f4a",
-    "name": "Sportainment Medien Verwaltungs-GmbH",
+    "name": "SPORTAINMENT Medien Verwaltungs GmbH",
     "state": "active",
     "controlDate": "2026-06-11T09:28:18.256Z",
     "organizations": [
@@ -188808,16 +188866,6 @@
     "state": "active",
     "controlDate": "2025-11-05T13:15:36.668Z",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -196744,7 +196792,7 @@
     "squuid": "5f1aa17b-0a12-489a-b610-1ab363bb8e19",
     "name": "Burg Schwarzenstein Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-04-16T07:51:18.751Z",
+    "controlDate": "2026-09-23T08:59:52.544Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -199362,7 +199410,7 @@
     "squuid": "5d384c6c-1c32-48d0-b771-cf0b4671bd14",
     "name": "BURGER HOLDING GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-04-16T07:59:02.280Z",
+    "controlDate": "2026-09-23T09:01:58.336Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -201877,7 +201925,7 @@
     "squuid": "5f7afd40-cc3a-4b1c-a2ae-744899d45dd5",
     "name": "bw family.tv Holding GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:22:55.681Z",
+    "controlDate": "2026-09-23T10:25:40.801Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -202126,7 +202174,7 @@
     "squuid": "5d385d0e-e1b9-4e0a-963f-c1ccbfb9d447",
     "name": "Böhm Kabeltechnik GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:41:50.901Z",
+    "controlDate": "2026-09-23T10:31:46.063Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -206399,7 +206447,7 @@
     "squuid": "5f07113b-b50f-4788-9546-72427aee51f5",
     "name": "BW Garrel Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:26:26.315Z",
+    "controlDate": "2026-09-23T10:26:58.311Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -215195,7 +215243,7 @@
     "squuid": "5be1a6b6-4e55-42c6-b0a8-c556b887458a",
     "name": "Börner, Ronny FRM-TV-Produktion Börner",
     "state": "active",
-    "controlDate": "2025-10-10T08:45:29.499Z",
+    "controlDate": "2026-09-23T10:33:04.510Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -216276,7 +216324,7 @@
     "squuid": "5be1a6b6-be5b-4c03-bb0d-27269e9c2568",
     "name": "Bürger-Zentren und Verlagsgesellschaft Erste-Betriebs- und Verwaltungs KG",
     "state": "active",
-    "controlDate": "2026-04-16T08:53:15.589Z",
+    "controlDate": "2026-09-23T10:42:15.594Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -221706,7 +221754,7 @@
     "squuid": "6332c440-52a7-4645-a979-21c4a59fd18e",
     "name": "BurdaVerlag Data Publishing GmbH, Deutsches Institut für Qualität und Finanzen",
     "state": "active",
-    "controlDate": "2025-10-08T12:37:42.258Z",
+    "controlDate": "2026-09-23T08:50:25.684Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -225460,7 +225508,7 @@
     "squuid": "5be1a6b6-3496-4989-acc7-550ba289e334",
     "name": "Burda Hearst Publishing GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T07:42:07.076Z",
+    "controlDate": "2026-09-23T08:13:50.876Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -233596,7 +233644,7 @@
     "state": "active",
     "name": "BurdaVerlag Publishing GmbH",
     "squuid": "5be1a6b6-1fcb-4c6c-8d25-0c516c0ca8fc",
-    "controlDate": "2026-04-16T11:24:34.205Z",
+    "controlDate": "2026-09-23T08:56:40.819Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -234216,6 +234264,24 @@
         "held": {
           "squuid": "69e0c5f8-54d3-44a0-83c6-78323567d2ab",
           "name": "Bunte Royal"
+        }
+      },
+      {
+        "squuid": "6ab38c6b-1d6c-4cca-9085-f96a68374bd9",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-362b-4968-9089-1af19df239ff",
+          "name": "www.bunte.de"
+        }
+      },
+      {
+        "squuid": "6ab390ff-5a49-4e37-b527-bc289d35f2a1",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-cf63-4383-9a1a-8658d572bb4a",
+          "name": "www.focus.de"
         }
       }
     ]
@@ -234874,7 +234940,7 @@
     "squuid": "5d35d1f2-0d87-4512-b49f-00d20f187536",
     "name": "BuzzFeed Inc.",
     "state": "active",
-    "controlDate": "2026-04-16T08:15:35.417Z",
+    "controlDate": "2026-09-23T10:07:56.417Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -236721,7 +236787,7 @@
     "name": "BZ.medien GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-6f79-45c0-9070-3a78ba6dbc51",
-    "controlDate": "2026-04-16T08:40:34.777Z",
+    "controlDate": "2026-09-23T10:29:53.735Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -238589,7 +238655,7 @@
     "squuid": "5be1a6b6-83d3-47a3-8439-19a5e7471aa7",
     "name": "Börsenmedien AG",
     "state": "active",
-    "controlDate": "2026-04-16T08:46:13.012Z",
+    "controlDate": "2026-09-23T10:33:36.004Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -254664,7 +254730,7 @@
     "squuid": "5be1a6b6-2e32-4a9d-af5e-485a688e51b5",
     "name": "BurdaVerlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T12:38:49.954Z",
+    "controlDate": "2026-09-23T08:56:11.555Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -256127,7 +256193,7 @@
     "squuid": "5be1a6b6-452a-46a5-8ba5-98fe2cad14b2",
     "name": "BVA BikeMedia GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:17:26.190Z",
+    "controlDate": "2026-09-23T10:11:01.975Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -256170,15 +256236,6 @@
         "held": {
           "squuid": "5be1a6b1-c04f-44f5-a830-6b6188bc3136",
           "name": "RennRad"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-f196-44d5-9ff9-cc179e8b937c",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-6de2-4378-b77b-02f0c25b1a8f",
-          "name": "www.radfahren.de"
         }
       },
       {
@@ -256458,7 +256515,7 @@
     "squuid": "5be1a6b6-e79d-48f4-b2e0-a5803734cd47",
     "name": "Bärlein GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:41:29.423Z",
+    "controlDate": "2026-09-23T10:31:33.824Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -279343,7 +279400,7 @@
     "squuid": "5be1a6b6-8d52-4f03-8cf4-f017f535f744",
     "name": "BurdaForward GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T11:24:56.740Z",
+    "controlDate": "2026-09-23T08:19:00.832Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -279425,15 +279482,6 @@
         }
       },
       {
-        "squuid": "62011872-b9d4-4714-8936-209f1ad49836",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "6201181d-6219-4d63-88a7-cddcf701dc32",
-          "name": "www.efahrer.com"
-        }
-      },
-      {
         "squuid": "62f26140-ba2c-4238-8ecb-0b2293d53ada",
         "type": "operate",
         "state": "active",
@@ -279458,15 +279506,6 @@
         "held": {
           "squuid": "5be1a6b1-d0b4-4aa8-b0cc-6b323a91a31d",
           "name": "www.tvtoday.de"
-        }
-      },
-      {
-        "squuid": "63f88b1c-aeaa-4aae-bea9-54d8630cc913",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "63f88afa-fe3b-4494-9667-d146c1c93e8d",
-          "name": "www.so-stadt.de/so-koeln"
         }
       }
     ]
@@ -283459,6 +283498,15 @@
         "held": {
           "squuid": "5be1a6b1-9b23-46c8-88c5-0afdb0997d5b",
           "name": "www.modell-fahrzeug.com"
+        }
+      },
+      {
+        "squuid": "6ab3a82d-5726-4d5d-b0b5-95c769e14177",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-6de2-4378-b77b-02f0c25b1a8f",
+          "name": "www.radfahren.de"
         }
       }
     ]
@@ -288680,7 +288728,7 @@
     "squuid": "5be1a6b6-d87d-47f3-b3d4-f1650cf3bd77",
     "name": "BWG Vermögensverwaltung GmbH & Co KG",
     "state": "active",
-    "controlDate": "2026-04-16T08:26:45.362Z",
+    "controlDate": "2026-09-23T10:27:14.206Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -294211,7 +294259,7 @@
     "squuid": "5be1a6b6-5736-4379-870e-7dc77444bbfc",
     "name": "Büro Dr. M. Droste GmbH & Co KG",
     "state": "active",
-    "controlDate": "2026-04-16T08:57:40.764Z",
+    "controlDate": "2026-09-23T10:44:34.780Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -300341,7 +300389,7 @@
     "squuid": "5be1a6b6-99c0-46f1-902b-f6f3f6c46af2",
     "name": "BVB Merchandising GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:21:19.350Z",
+    "controlDate": "2026-09-23T10:23:41.595Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -303798,7 +303846,7 @@
     "squuid": "5e411b58-e4e2-436f-bf09-0dc62387d565",
     "name": "BZ.medien Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:39:29.369Z",
+    "controlDate": "2026-09-23T10:29:40.175Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -305387,7 +305435,7 @@
   {
     "squuid": "5fd3fdb6-66aa-44fe-a91c-2562a34b1e9d",
     "name": "Bit2Byte Entertainment UG (haftungsbeschränkt)",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2026-09-18T09:09:31.986Z",
     "organizations": [
       {
@@ -306883,7 +306931,7 @@
     "squuid": "5e42a36c-1750-42bf-a3d1-1a91e77146a2",
     "name": "Burger Management GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T07:59:11.822Z",
+    "controlDate": "2026-09-23T09:02:06.925Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -308010,7 +308058,7 @@
     "squuid": "68dba760-be9b-4c4a-abcd-de5c7a5abaf6",
     "name": "Business Punk GmbH",
     "state": "active",
-    "controlDate": "2026-04-16T08:04:28.352Z",
+    "controlDate": "2026-09-23T10:06:47.245Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
