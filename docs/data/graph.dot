@@ -139566,11 +139566,11 @@ digraph {
     label="Silva Madeira, Christoph André"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=3.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-2b0e-4e12-aaf9-18eb88e27776"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   11631 [
     type=shareholder
@@ -153006,11 +153006,11 @@ digraph {
     label="TELLYTEC GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=3.0000
     name="6ab3b521-bd3d-496d-86b1-b8762bcf5447"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12751 [
     type=shareholder
@@ -266737,10 +266737,6 @@ digraph {
     weight=3
     type=owns
   ];
-  11630 -> 11632 [
-    weight=100
-    type=owns
-  ];
   11632 -> 10016 [
     weight=100
     type=operates
@@ -271234,6 +271230,10 @@ digraph {
     type=operates
   ];
   12748 -> 686 [
+    weight=100
+    type=owns
+  ];
+  12750 -> 11632 [
     weight=100
     type=owns
   ];
