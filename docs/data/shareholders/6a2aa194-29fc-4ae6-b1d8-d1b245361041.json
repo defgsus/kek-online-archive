@@ -18,7 +18,7 @@
   "name": "Carl Zeiss-Siedlung GmbH",
   "naturalPerson": false,
   "squuid": "6a2aa194-29fc-4ae6-b1d8-d1b245361041",
-  "controlDate": "2026-06-17T07:56:30.224Z",
+  "controlDate": "2026-09-25T10:27:30.728Z",
   "streetNumber": "31",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
-  "zipcode": "07745"
+  "zipcode": "07745",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Ernst-Abbe-Stiftung",
+        "squuid": "6a3253a2-0d1d-4d60-9b2c-cff1de51351a"
+      },
+      "squuid": "6a3253cf-9d15-4401-9ba7-e05f0c8ef224",
+      "state": "active"
+    }
+  ]
 }
