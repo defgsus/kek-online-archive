@@ -18,7 +18,7 @@
   "name": "CR Equity Holding GmbH",
   "naturalPerson": false,
   "squuid": "69a94771-f618-43be-99f7-ec1110e705f8",
-  "controlDate": "2026-03-25T11:38:43.168Z",
+  "controlDate": "2026-09-28T12:15:11.458Z",
   "streetNumber": "17",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     }
   ],
-  "zipcode": "80333"
+  "zipcode": "80333",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kerscher, Martin",
+        "squuid": "69c3c9be-abb6-48b8-83f6-caa14e2b304d"
+      },
+      "squuid": "69c3c9d7-7775-4374-bdef-4b43f81a3f18",
+      "state": "active"
+    }
+  ]
 }

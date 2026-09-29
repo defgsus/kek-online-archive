@@ -18,7 +18,7 @@
   "name": "CONTIGAS Deutsche Energie-AG",
   "naturalPerson": false,
   "squuid": "695e36ef-ea3b-4ba9-9a05-fc8e02a0a5d7",
-  "controlDate": "2026-04-20T10:07:43.881Z",
+  "controlDate": "2026-09-28T12:11:47.007Z",
   "streetNumber": "39",
   "organizations": [
     {
@@ -33,5 +33,17 @@
       "fullName": "Thüringer Landesmedienanstalt"
     }
   ],
-  "zipcode": "80335"
+  "zipcode": "80335",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Thüga Holding GmbH & Co. KGaA",
+        "squuid": "695e36aa-95b3-4561-959f-1b9d8ea4a01f"
+      },
+      "squuid": "69e5fbd4-f687-4027-be39-ed75e06c6ecf",
+      "state": "active"
+    }
+  ]
 }
