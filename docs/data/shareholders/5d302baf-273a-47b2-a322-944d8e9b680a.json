@@ -18,7 +18,7 @@
   "name": "Deutsche Lufthansa AG",
   "naturalPerson": false,
   "squuid": "5d302baf-273a-47b2-a322-944d8e9b680a",
-  "controlDate": "2026-04-21T12:36:46.576Z",
+  "controlDate": "2026-10-02T14:17:59.366Z",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -35,7 +35,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 3.38,
+      "capitalShares": 3.19,
       "holder": {
         "name": "BlackRock, Inc.",
         "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
@@ -55,12 +55,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 81.61,
+      "capitalShares": 78.72,
       "holder": {
         "name": "Streubesitz an der Deutschen Lufthansa AG",
         "squuid": "63bffe70-b0f8-4b75-a7e0-f870c7b8960e"
       },
       "squuid": "63c000bf-8d4b-4b82-9319-6918f2d77ba4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.08,
+      "holder": {
+        "name": "Capital Group Companies, Inc.",
+        "squuid": "5be1a6b6-7007-41df-ab4e-ed7f52e8f110"
+      },
+      "squuid": "69e77049-7f66-401e-bc55-54e06958bb86",
       "state": "active"
     }
   ]
