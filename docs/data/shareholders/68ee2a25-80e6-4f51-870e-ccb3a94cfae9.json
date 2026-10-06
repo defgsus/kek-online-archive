@@ -5,12 +5,19 @@
   "street": "Kennedyallee",
   "name": "DFB GmbH & Co. KG",
   "naturalPerson": false,
+  "limitedPartnership": true,
   "squuid": "68ee2a25-80e6-4f51-870e-ccb3a94cfae9",
+  "controlDate": "2026-10-05T09:25:34.184Z",
   "streetNumber": "274",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
       "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
       "type": "organization"
     }
   ],
@@ -23,6 +30,24 @@
         "squuid": "68ee2ad7-7007-43fe-94b1-668c952233d4"
       },
       "squuid": "68ee2d49-93af-4fef-9d56-4f4bd0b84508",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.fussball.de",
+        "squuid": "5d31c65a-78c3-4c1c-885e-843a0eae8e7d"
+      },
+      "squuid": "6ac36663-36f6-4db7-bed7-ed77e1d30f56",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.dfbnet.org",
+        "squuid": "5d35a05a-c7a1-4230-b5b9-23be0de64508"
+      },
+      "squuid": "6ac3668b-7645-436d-ade3-a560f31dd876",
       "state": "active"
     }
   ],

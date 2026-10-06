@@ -1,0 +1,52 @@
+{
+  "state": "active",
+  "city": "Berlin",
+  "pseudoCompany": false,
+  "street": "Friedrichstraße",
+  "name": "JazzRadio Deutschland UG & Co. KG",
+  "naturalPerson": false,
+  "squuid": "6ac372a9-f5e3-4752-b964-23cf405ca4c4",
+  "streetNumber": " 155",
+  "organizations": [
+    {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    }
+  ],
+  "zipcode": "10117",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "JazzRadio Berlin",
+        "squuid": "5be1a6b1-fab6-4bbc-8b0f-af6ab26b0379"
+      },
+      "squuid": "6ac372f2-81f0-4051-b1a8-71f9edfb50bb",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 80.0,
+      "holder": {
+        "name": "Allitt, Julian",
+        "squuid": "5be1a6b6-6c17-412d-989f-6afafbcf76cc"
+      },
+      "squuid": "6ac37573-048e-423d-aa0b-2361fc3f65e6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 20.0,
+      "holder": {
+        "name": "Wachs, Prof. Dr. Friedrich-Carl",
+        "squuid": "5be1a6b6-6484-4a90-98d3-3f8aaab0f8a5"
+      },
+      "squuid": "6ac37582-7046-4e12-8c67-52441ffb40a6",
+      "state": "active"
+    }
+  ]
+}

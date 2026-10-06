@@ -2,19 +2,9 @@
   "owns": [
     {
       "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "DFL Digital Sports GmbH",
-        "squuid": "5be1a6b6-28ad-4314-bebf-22ae031827ce"
-      },
-      "squuid": "5be1a6b8-06e0-46cf-be89-082ec7d7553a",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 6.4,
       "held": {
-        "name": "Dyn Media GmbH",
+        "name": "Dyn Sport GmbH",
         "squuid": "64f05eba-3974-457a-ba20-a04043c85ab7"
       },
       "squuid": "68f22235-c538-4485-810c-2411c7288e6d",
@@ -25,10 +15,10 @@
   "city": "Frankfurt/M.",
   "pseudoCompany": false,
   "street": "Guiollettstraße",
-  "name": "DFL Deutsche Fußball Liga GmbH",
+  "name": "Bundesliga-Gruppe GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-61e5-4d97-8dfb-e3fff67a6771",
-  "controlDate": "2026-04-22T09:30:46.026Z",
+  "controlDate": "2026-10-05T09:31:32.028Z",
   "streetNumber": "44 - 46",
   "organizations": [
     {
@@ -70,6 +60,15 @@
       },
       "squuid": "5e70a924-4e69-46dc-8b5a-44cd989b9513",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.bundesliga.com",
+        "squuid": "5be1a6b1-c47a-481e-839f-deea426b41cc"
+      },
+      "squuid": "6ac36fb9-4c4f-4f5f-a2f5-0cd2e8c13f6d",
+      "state": "active"
     }
   ],
   "credits": "IJK",
@@ -78,7 +77,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "holder": {
-        "name": "DFL Deutsche Fußball Liga e.V.",
+        "name": "Bundesliga e.V.",
         "squuid": "5be1a6b6-d3eb-4474-95bc-d8bc80db6d05"
       },
       "squuid": "5ef0a0ff-bf63-4376-b66a-817b6e735acd",
