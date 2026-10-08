@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "pseudoCompany": false,
+  "street": "Anbaustraße",
+  "name": "Prendel, Harald",
+  "naturalPerson": true,
+  "co": "Antennengemeinschaft Berbisdorf",
+  "squuid": "6ac64406-3ecf-4f13-b50f-c3b22ba4768e",
+  "placeOfBusiness": "Radeburg",
+  "streetNumber": "69",
+  "organizations": [
+    {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
+  ],
+  "zipcode": "01471",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Antenne Berbisdorf",
+        "squuid": "5be1a6b1-3822-494f-ab67-83059025064d"
+      },
+      "squuid": "6ac64420-e672-491a-b828-7edf0cc3fbce",
+      "state": "active"
+    }
+  ]
+}
