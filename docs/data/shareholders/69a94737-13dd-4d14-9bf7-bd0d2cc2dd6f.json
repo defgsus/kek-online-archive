@@ -1,5 +1,6 @@
 {
   "name": "Schumacher, Georg",
+  "pseudoCompany": false,
   "squuid": "69a94737-13dd-4d14-9bf7-bd0d2cc2dd6f",
   "owns": [
     {
@@ -11,20 +12,27 @@
       },
       "squuid": "69a94792-90dd-4bbb-94d9-4e8e470c71e8",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Profirm Beteiligungs GmbH",
+        "squuid": "69a9475b-d11f-4d24-99af-395e9b460c53"
+      },
+      "squuid": "69c3ca70-2a13-4733-8b33-5e84cbebf88f",
+      "state": "active"
     }
   ],
+  "city": "Andechs",
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "naturalPerson": true
 }

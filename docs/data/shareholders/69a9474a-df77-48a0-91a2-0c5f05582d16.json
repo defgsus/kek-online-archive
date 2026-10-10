@@ -22,16 +22,23 @@
   "streetNumber": "25B",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "81545"
+  "zipcode": "81545",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Lotz, Dr. Thomas",
+        "squuid": "69c3c676-b2b5-430b-bb6c-7a23cbbe434d"
+      },
+      "squuid": "69c3c915-78be-41dd-a14a-ae828f2ed4cc",
+      "state": "active"
+    }
+  ]
 }

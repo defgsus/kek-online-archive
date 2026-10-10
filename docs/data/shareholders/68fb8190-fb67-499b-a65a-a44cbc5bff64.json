@@ -4,7 +4,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Fidelitas BidCo GmbH",
+        "name": "finanzen.net Group GmbH",
         "squuid": "68fb7c22-aed6-49d9-af47-d56cda9e1c29"
       },
       "squuid": "68fb81de-6d5d-4d31-931f-b39553411b81",
@@ -18,6 +18,7 @@
   "name": "Fidelitas TopCo GmbH",
   "naturalPerson": false,
   "squuid": "68fb8190-fb67-499b-a65a-a44cbc5bff64",
+  "controlDate": "2026-10-09T12:14:31.852Z",
   "streetNumber": "67",
   "organizations": [
     {
@@ -26,5 +27,17 @@
       "type": "organization"
     }
   ],
-  "zipcode": "76135"
+  "zipcode": "76135",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Streubesitz an der Fidelitas TopCo GmbH",
+        "squuid": "69fa0c5b-b620-4b15-bc8d-ababe1130e76"
+      },
+      "squuid": "69fa0c77-ef71-47ea-a9d2-526112e06204",
+      "state": "active"
+    }
+  ]
 }

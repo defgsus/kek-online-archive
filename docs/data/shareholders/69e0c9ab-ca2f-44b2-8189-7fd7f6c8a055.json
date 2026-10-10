@@ -1,4 +1,16 @@
 {
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Weka Media Publishing GmbH",
+        "squuid": "5be1a6b6-d7e5-4290-beef-98e4db08cdd1"
+      },
+      "squuid": "6a2fcddd-bf5d-4fed-97e6-a5f7de433707",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "city": "Frankfurt (Oder)",
   "pseudoCompany": false,
@@ -6,7 +18,7 @@
   "name": "Five Monkeys Media GmbH",
   "naturalPerson": false,
   "squuid": "69e0c9ab-ca2f-44b2-8189-7fd7f6c8a055",
-  "controlDate": "2026-04-16T11:45:05.593Z",
+  "controlDate": "2026-10-09T12:43:35.286Z",
   "streetNumber": "27",
   "organizations": [
     {
@@ -33,6 +45,24 @@
         "squuid": "5be1a6b1-35f3-4951-a7fe-1bdcc7f0e3ac"
       },
       "squuid": "69e0c9fb-08d8-409a-a0f4-4e7a3ecc66df",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Digital photo",
+        "squuid": "5be1a6b1-e6e4-4f99-a2fd-777fb2ec6154"
+      },
+      "squuid": "6ac8e1a9-ad0f-458b-9972-531d5c3e13fc",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.digitalphoto.de",
+        "squuid": "5be1a6b1-7e88-44d6-8de1-382526e10911"
+      },
+      "squuid": "6ac8e1f4-696c-42dc-b588-ba679bc79415",
       "state": "active"
     }
   ],
