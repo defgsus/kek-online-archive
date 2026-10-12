@@ -27249,7 +27249,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="6874e949-83e8-48c0-a9e3-c5b96c6805fa"
-    in_degree=3
+    in_degree=2
     out_degree=2
   ];
   2271 [
@@ -122778,11 +122778,11 @@ digraph {
     label="Raschke, Thomas Clemens"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.6666
+    num_medias=0
+    num_medias_weighted=0.0000
     name="69e5fd4c-910b-46b1-afdc-1155d5b8f399"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   10232 [
     type=shareholder
@@ -259231,10 +259231,6 @@ digraph {
   ];
   10230 -> 3107 [
     weight=24.5
-    type=owns
-  ];
-  10231 -> 2270 [
-    weight=33.33
     type=owns
   ];
   10232 -> 3168 [
