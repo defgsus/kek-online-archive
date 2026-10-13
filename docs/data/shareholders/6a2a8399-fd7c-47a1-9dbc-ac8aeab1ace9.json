@@ -18,7 +18,7 @@
   "name": "Gaenserig mediatec GmbH",
   "naturalPerson": false,
   "squuid": "6a2a8399-fd7c-47a1-9dbc-ac8aeab1ace9",
-  "controlDate": "2026-07-02T08:43:02.374Z",
+  "controlDate": "2026-10-12T08:59:23.985Z",
   "streetNumber": "16",
   "organizations": [
     {
@@ -32,5 +32,27 @@
       "type": "organization"
     }
   ],
-  "zipcode": "30826"
+  "zipcode": "30826",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Gaenserig, Carsten",
+        "squuid": "6a462512-3feb-4d98-a5d2-ef2daba6c11e"
+      },
+      "squuid": "6a462549-4923-4ffa-bc4e-05c4af65e068",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 50.0,
+      "holder": {
+        "name": "Prüßmann-Gaenserig, Karin",
+        "squuid": "6a462531-27a8-42d4-bc4b-60fc2b6a1854"
+      },
+      "squuid": "6a46255b-69c5-4135-95db-7fb9e62d47a7",
+      "state": "active"
+    }
+  ]
 }
