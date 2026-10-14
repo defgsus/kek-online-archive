@@ -39,7 +39,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-bedb-4dd4-a384-b046ff26a9d7",
-  "controlDate": "2026-06-16T12:10:04.748Z",
+  "controlDate": "2026-10-13T08:34:09.763Z",
   "streetNumber": "2",
   "organizations": [
     {
@@ -64,16 +64,6 @@
   "credits": "IJK",
   "ownedBy": [
     {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Zeitungsgruppe Mittelhessen GmbH & Co KG",
-        "squuid": "5be1a6b6-1976-47b4-b13a-bc5af3349f0d"
-      },
-      "squuid": "5be1a6b8-9712-48d3-871c-b725ad6f1ab1",
-      "state": "active"
-    },
-    {
       "complementaryPartner": true,
       "type": "own",
       "capitalShares": 0.0,
@@ -93,6 +83,16 @@
         "squuid": "5dee68d7-ddf0-46ac-bd84-8433f905eba3"
       },
       "squuid": "5ec3ded7-409a-4491-9a93-aca7335a8553",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "VRM Holding GmbH & Co KG",
+        "squuid": "5be1a6b6-ef85-4f4b-88f1-69d0d1eedc57"
+      },
+      "squuid": "6a313d42-2212-41d2-9355-5f8da48cf567",
       "state": "active"
     }
   ]

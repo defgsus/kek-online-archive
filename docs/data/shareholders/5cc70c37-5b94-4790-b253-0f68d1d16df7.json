@@ -1,27 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Fleißig Holding GmbH",
-        "squuid": "5be1a6b6-31ef-439c-942e-1f47b420f897"
-      },
-      "squuid": "5cc70c82-1227-40d1-9367-6908f19c18c2",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Fleißig Pressehaus Immobilien Verwaltungs-GmbH",
-        "squuid": "5eb02e63-46c5-4701-a9f7-e429e5f3c85d"
-      },
-      "squuid": "65d618a2-c7aa-48f6-bd3b-115673f766c2",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Coesfeld",
   "note": "",
   "pseudoCompany": false,
@@ -34,39 +12,11 @@
   "streetNumber": "2",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LFM NRW",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "48653",
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Fleißig Pressehaus Immobilien Verwaltungs-GmbH",
-        "squuid": "5eb02e63-46c5-4701-a9f7-e429e5f3c85d"
-      },
-      "squuid": "5eb02e8f-60c6-4369-911f-8b6a7ea40bc8",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Westfälische Medien Holding GmbH",
-        "squuid": "5e1dbf6a-1c4a-47cf-92d6-f85fa7fded35"
-      },
-      "squuid": "660d3a04-fe32-47a6-9500-9e365a99ca43",
-      "state": "active"
-    }
-  ]
+  "zipcode": "48653"
 }
