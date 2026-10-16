@@ -8,7 +8,7 @@
   "limitedPartnership": true,
   "squuid": "5be1a6b6-691a-4719-a645-ba81919e7449",
   "otherMediaActivities": "Zu dem U.S.-amerikanischen Medienkonzern Hearst gehören u. a. Tageszeitungen, lokale Fernsehsender und Radiostationen in den USA sowie internationale Monatsmagazine (z. B. Cosmopolitan, ELLE, Marie Claire). In Deutschland betreibt Hearst zusammen mit dem Burda-Verlag das Gemeinschaftsunternehmen Burda Hearst Publishing GmbH, das die deutschen Titel der Marke ELLE sowie die Zeitschrift Harper's BAZAAR verlegt.",
-  "controlDate": "2026-05-12T14:41:50.053Z",
+  "controlDate": "2026-10-15T11:30:09.370Z",
   "streetNumber": "27",
   "organizations": [
     {
@@ -64,13 +64,34 @@
   "credits": "Beschluss der KEK vom 11.07.2017, Az.: KEK 928, und Bescheid der BLM vom 19.07.2017",
   "ownedBy": [
     {
+      "complementaryPartner": true,
       "type": "own",
-      "capitalShares": 100.0,
+      "capitalShares": 0.0,
       "holder": {
-        "name": "Hearst LT, Inc.",
-        "squuid": "5be1a6b6-892a-48c6-8ffd-bcbce6f9b4a6"
+        "name": "The History Channel (Germany) Holdings GmbH",
+        "squuid": "5be1a6b6-b19d-4d43-8a2e-633a7b1689e8"
       },
-      "squuid": "686bd08f-53a8-4c5b-abf0-c6218ddbfb57",
+      "squuid": "6a033c76-49a2-4b82-bc8f-35f92bd2a758",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 99.5,
+      "holder": {
+        "name": "The History Channel (Germany) Beteiligungs GmbH",
+        "squuid": "5be1a6b6-58f2-47f9-a3b1-d30cf538f812"
+      },
+      "squuid": "6a033cb4-cef0-46f9-ac59-e3f98add62d4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.5,
+      "holder": {
+        "name": "Hearst Networks Holding, Inc.",
+        "squuid": "5be1a6b6-b6fc-45b7-8cf2-f027769eaff8"
+      },
+      "squuid": "6a033cdf-eb67-4bb2-8d8e-d88cbc3da60c",
       "state": "active"
     }
   ]
