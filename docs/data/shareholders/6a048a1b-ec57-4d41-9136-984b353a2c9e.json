@@ -9,6 +9,16 @@
       },
       "squuid": "6a048a46-5f21-4cbc-a1e6-54e975a52a11",
       "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Hoepfner Besser Wohnen Verwaltungs GmbH",
+        "squuid": "6a180d2e-111c-4c67-83a6-ba72a7113943"
+      },
+      "squuid": "6a2bb824-42fa-4951-9c38-e02fc5178499",
+      "state": "active"
     }
   ],
   "state": "active",
@@ -19,7 +29,7 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "6a048a1b-ec57-4d41-9136-984b353a2c9e",
-  "controlDate": "2026-05-28T09:34:08.500Z",
+  "controlDate": "2026-10-16T09:04:20.648Z",
   "streetNumber": "18",
   "organizations": [
     {
@@ -34,5 +44,38 @@
       "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ],
-  "zipcode": "76131"
+  "zipcode": "76131",
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Hoepfner Besser Wohnen Verwaltungs GmbH",
+        "squuid": "6a180d2e-111c-4c67-83a6-ba72a7113943"
+      },
+      "squuid": "6a180d4d-d2f2-4ed1-8182-d2b230c75e28",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 73.2,
+      "holder": {
+        "name": "Hoepfner, Dr. Friedrich",
+        "squuid": "5f3bf268-e34a-4712-b423-e018121e69e8"
+      },
+      "squuid": "6a180dca-ecbd-41be-b63c-16223f5e5bb4",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 26.8,
+      "holder": {
+        "name": "Hoepfner, Yella",
+        "squuid": "5f3bf275-9ac0-435c-8624-b94ad168bfb5"
+      },
+      "squuid": "6a180de4-a927-4d2d-80ef-76a7145e9a2f",
+      "state": "active"
+    }
+  ]
 }
