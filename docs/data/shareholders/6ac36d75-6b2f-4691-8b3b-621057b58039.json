@@ -1,13 +1,30 @@
 {
   "name": "DFB-Verwaltungsgesellschaft mbH",
   "squuid": "6ac36d75-6b2f-4691-8b3b-621057b58039",
+  "owns": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "held": {
+        "name": "DFB GmbH & Co. KG",
+        "squuid": "68ee2a25-80e6-4f51-870e-ccb3a94cfae9"
+      },
+      "squuid": "6ac36d97-e48d-4b5c-b32a-7c984d1de44a",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
