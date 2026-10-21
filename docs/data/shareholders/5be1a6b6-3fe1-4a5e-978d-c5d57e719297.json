@@ -1,27 +1,5 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 21.06,
-      "held": {
-        "name": "Radio RT 4 GmbH & Co. Programm- und Beteiligungsgesellschaft KG",
-        "squuid": "5c98ece2-cbcf-4b69-b373-0f1117ff5746"
-      },
-      "squuid": "5ef31754-7d89-47e0-a67e-4ccf07f15c9d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 21.06,
-      "held": {
-        "name": "Radio RT 4 Verwaltungs-GmbH",
-        "squuid": "5ef314c8-cb90-4e80-83ba-bb85608e5223"
-      },
-      "squuid": "5f9a96b0-0b96-43de-abe6-d34ae59fabf9",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Balingen",
   "pseudoCompany": false,
   "street": "Friedrichstr.",
@@ -33,58 +11,12 @@
   "streetNumber": "10",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
-    },
-    {
-      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "Medienanstalt Hessen",
-      "type": "organization",
-      "fullName": "Medienanstalt Hessen"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "72336",
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Druck- und Verlagshaus Hermann Daniel VerwaItungs-GmbH",
-        "squuid": "5ee37acc-6ec6-471a-910f-8edb453d1459"
-      },
-      "squuid": "5ee37af6-659f-458d-9165-7f1a3964c88d",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
-        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
-      },
-      "squuid": "63c7c4e4-15cf-4f43-bd5f-741ff50303c4",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

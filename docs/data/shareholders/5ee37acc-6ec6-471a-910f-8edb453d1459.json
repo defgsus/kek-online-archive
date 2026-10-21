@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Druck- und Verlagshaus Hermann Daniel GmbH & Co KG Betriebsgesellschaft",
-        "squuid": "5be1a6b6-3fe1-4a5e-978d-c5d57e719297"
-      },
-      "squuid": "5ee37af6-659f-458d-9165-7f1a3964c88d",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Balingen",
   "pseudoCompany": false,
   "street": "Friedrichstr.",
@@ -23,46 +10,11 @@
   "streetNumber": "10",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-      "name": "mabb",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Medienanstalt Berlin-Brandenburg"
-    },
-    {
-      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "Medienanstalt Hessen",
-      "type": "organization",
-      "fullName": "Medienanstalt Hessen"
-    },
-    {
-      "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-      "name": "LMS",
-      "type": "organization",
-      "fullName": "Landesmedienanstalt Saarland"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "72336",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
-        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
-      },
-      "squuid": "63ce4874-7622-4dee-969e-c452013e9f32",
-      "state": "active"
-    }
-  ]
+  "zipcode": "72336"
 }
