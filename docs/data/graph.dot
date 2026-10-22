@@ -1361,7 +1361,7 @@ digraph {
     state=active
     label="917XFM"
     num_owners=507
-    num_owners_weighted=13.8747
+    num_owners_weighted=13.8797
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-497c-4085-a20e-c9acd3237568"
@@ -6305,7 +6305,7 @@ digraph {
     state=active
     label="Antenne Bayern"
     num_owners=489
-    num_owners_weighted=15.3975
+    num_owners_weighted=15.4102
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-edc7-45cf-af45-3e7e7f4a077e"
@@ -6329,7 +6329,7 @@ digraph {
     state=active
     label="Antenne Bayern GmbH & Co. KG"
     num_owners=488
-    num_owners_weighted=14.3975
+    num_owners_weighted=14.4102
     num_medias=28
     num_medias_weighted=7.5862
     name="5be1a6b6-5d70-4275-a2da-4ea50ee1b6af"
@@ -6341,7 +6341,7 @@ digraph {
     state=active
     label="Antenne Bayern Verwaltungs GmbH"
     num_owners=487
-    num_owners_weighted=15.1216
+    num_owners_weighted=15.1343
     num_medias=28
     num_medias_weighted=0.0000
     name="5f05d01e-110b-4c4c-b1bc-50fc3778e8f6"
@@ -6665,7 +6665,7 @@ digraph {
     state=active
     label="Antenne NRW"
     num_owners=491
-    num_owners_weighted=17.3975
+    num_owners_weighted=17.4102
     num_medias=0
     num_medias_weighted=0.0000
     name="62737b37-fc46-4bf5-8442-c41284b7f68e"
@@ -6677,7 +6677,7 @@ digraph {
     state=active
     label="Antenne NRW GmbH & Co. KG"
     num_owners=491
-    num_owners_weighted=16.3975
+    num_owners_weighted=16.4102
     num_medias=1
     num_medias_weighted=1.0000
     name="618d061b-b42a-42a2-8bdb-b956f64723f6"
@@ -6689,7 +6689,7 @@ digraph {
     state=active
     label="Antenne NRW Verwaltungs GmbH"
     num_owners=491
-    num_owners_weighted=17.3975
+    num_owners_weighted=17.4102
     num_medias=1
     num_medias_weighted=0.0000
     name="618d063b-33cb-447d-99b9-988e5e617d97"
@@ -17333,7 +17333,7 @@ digraph {
     state=active
     label=BLR
     num_owners=451
-    num_owners_weighted=20.8396
+    num_owners_weighted=21.2345
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-211e-4412-99e2-bb90efdd74d0"
@@ -17345,7 +17345,7 @@ digraph {
     state=active
     label="BLR Dienstleistungsgesellschaft für Bayerische Lokal- Radioprogramme Verwaltungsgesellschaft mbH"
     num_owners=449
-    num_owners_weighted=18.2662
+    num_owners_weighted=18.6612
     num_medias=2
     num_medias_weighted=0.0000
     name="5f8ee729-73ea-4d65-9931-a88827eabd91"
@@ -17357,7 +17357,7 @@ digraph {
     state=active
     label="BLR Dienstleistungsgesellschaft für Bayerische Lokal-Radioprogramme mbH & Co. KG"
     num_owners=450
-    num_owners_weighted=19.8396
+    num_owners_weighted=20.2345
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-e22f-4238-9e02-98b8dcee8417"
@@ -22540,32 +22540,32 @@ digraph {
     type=shareholder
     state=active
     label="bw family.tv GmbH & Co. KG"
-    num_owners=27
-    num_owners_weighted=7.5755
+    num_owners=26
+    num_owners_weighted=7.1155
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-2eb2-4708-b58a-00d30d4f4ef4"
-    in_degree=5
+    in_degree=4
     out_degree=2
   ];
   1879 [
     type=shareholder
     state=active
     label="bw family.tv Holding GmbH"
-    num_owners=26
-    num_owners_weighted=6.4986
+    num_owners=25
+    num_owners_weighted=6.0386
     num_medias=2
     num_medias_weighted=0.0000
     name="5f7afd40-cc3a-4b1c-a2ae-744899d45dd5"
-    in_degree=4
+    in_degree=3
     out_degree=1
   ];
   1880 [
     type=tv
     state=active
     label="bw future.tv"
-    num_owners=28
-    num_owners_weighted=8.5755
+    num_owners=27
+    num_owners_weighted=8.1155
     num_medias=0
     num_medias_weighted=0.0000
     name="5d41923d-80a6-478e-a8b9-eaa828e9e4e9"
@@ -32873,7 +32873,7 @@ digraph {
     state=active
     label="Digitaler Rundfunk Bayern GmbH & Co. KG"
     num_owners=575
-    num_owners_weighted=7.3299
+    num_owners_weighted=7.3312
     num_medias=11
     num_medias_weighted=3.0000
     name="5be1a6b6-a007-40ef-96ec-632d31222118"
@@ -32885,7 +32885,7 @@ digraph {
     state=active
     label="Digitaler Rundfunk Bayern Verwaltungs-GmbH"
     num_owners=575
-    num_owners_weighted=10.4856
+    num_owners_weighted=10.4869
     num_medias=11
     num_medias_weighted=0.0000
     name="5ef31a06-6049-4c9a-b927-934a4dc1376e"
@@ -41270,15 +41270,15 @@ digraph {
   ];
   3439 [
     type=shareholder
-    state=active
+    state=archived
     label="Emmy Riedel Buchdruckerei und Verlag GmbH"
-    num_owners=12
-    num_owners_weighted=10.2000
-    num_medias=32
-    num_medias_weighted=0.0062
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-4388-4b34-b047-6e3d7f3b8ed5"
     in_degree=1
-    out_degree=2
+    out_degree=0
   ];
   3440 [
     type=print
@@ -42122,15 +42122,15 @@ digraph {
   ];
   3510 [
     type=shareholder
-    state=active
+    state=archived
     label="ERB Medien GmbH"
-    num_owners=1
-    num_owners_weighted=1.0000
-    num_medias=2
-    num_medias_weighted=0.9200
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-ac1f-447f-a37d-e06980c51b67"
-    in_degree=1
-    out_degree=2
+    in_degree=0
+    out_degree=0
   ];
   3511 [
     type=shareholder
@@ -53525,7 +53525,7 @@ digraph {
     state=active
     label="Galaxy Bayern"
     num_owners=575
-    num_owners_weighted=10.4856
+    num_owners_weighted=10.4869
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-edf8-40c9-bb8e-efbe20edca3b"
@@ -85001,7 +85001,7 @@ digraph {
     state=active
     label="Laut AG"
     num_owners=515
-    num_owners_weighted=11.4201
+    num_owners_weighted=11.4235
     num_medias=1
     num_medias_weighted=1.0000
     name="5be1a6b6-92d3-41f7-9672-ad84fe778e5f"
@@ -93797,11 +93797,11 @@ digraph {
     state=active
     label="Mediengesellschaft der bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Programm- und Werbegesellschaft KG"
     num_owners=410
-    num_owners_weighted=32.7197
+    num_owners_weighted=33.7734
     num_medias=2
     num_medias_weighted=0.6352
     name="5be1a6b6-c525-4b11-a1b7-9969a9671afb"
-    in_degree=32
+    in_degree=31
     out_degree=2
   ];
   7817 [
@@ -93809,11 +93809,11 @@ digraph {
     state=active
     label="Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Radio 2000 KG"
     num_owners=414
-    num_owners_weighted=33.7073
+    num_owners_weighted=34.8043
     num_medias=30
     num_medias_weighted=1.2869
     name="5be1a6b6-cc99-4fd3-96f9-d2ef9847c76f"
-    in_degree=33
+    in_degree=32
     out_degree=4
   ];
   7818 [
@@ -93821,7 +93821,7 @@ digraph {
     state=active
     label="Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. Bayernprogramm KG"
     num_owners=415
-    num_owners_weighted=10.4578
+    num_owners_weighted=10.5087
     num_medias=28
     num_medias_weighted=1.8890
     name="5be1a6b6-6695-4a51-aff3-301b5257336b"
@@ -106445,7 +106445,7 @@ digraph {
     state=active
     label="NRW Audio GmbH & Co. KG"
     num_owners=1181
-    num_owners_weighted=13.3428
+    num_owners_weighted=13.3437
     num_medias=2
     num_medias_weighted=2.0000
     name="62e77c1e-8d4c-4f03-9965-9f4964d8faec"
@@ -106457,7 +106457,7 @@ digraph {
     state=active
     label="NRW Audio Verwaltungs GmbH"
     num_owners=1181
-    num_owners_weighted=14.3428
+    num_owners_weighted=14.3437
     num_medias=2
     num_medias_weighted=0.0000
     name="66597352-82de-466f-9c63-48ce93d12587"
@@ -106505,7 +106505,7 @@ digraph {
     state=active
     label=NRW1
     num_owners=1181
-    num_owners_weighted=14.3428
+    num_owners_weighted=14.3437
     num_medias=0
     num_medias_weighted=0.0000
     name="62e778b5-2d67-4da9-b14a-0e7d26fdacd6"
@@ -107945,7 +107945,7 @@ digraph {
     state=active
     label="OLDIE ANTENNE (SLM)"
     num_owners=489
-    num_owners_weighted=15.3975
+    num_owners_weighted=15.4102
     num_medias=0
     num_medias_weighted=0.0000
     name="634ebe96-dd0c-444a-a901-fadde2da700f"
@@ -114881,7 +114881,7 @@ digraph {
     state=active
     label="Privatfernsehen in Bayern Verwaltungs-GmbH"
     num_owners=493
-    num_owners_weighted=18.2610
+    num_owners_weighted=18.5956
     num_medias=2
     num_medias_weighted=0.0000
     name="60bf33f1-d3f1-46a9-b894-e9d883037faf"
@@ -118589,7 +118589,7 @@ digraph {
     state=active
     label="Radio Galaxy Allgäu"
     num_owners=575
-    num_owners_weighted=10.4856
+    num_owners_weighted=10.4869
     num_medias=0
     num_medias_weighted=0.0000
     name="690df305-112d-440b-bd7e-b366e02d4647"
@@ -127241,7 +127241,7 @@ digraph {
     state=active
     label="ROCK ANTENNE"
     num_owners=505
-    num_owners_weighted=16.8748
+    num_owners_weighted=16.8851
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-2e58-4a0b-85fd-5295dca15a7b"
@@ -127301,7 +127301,7 @@ digraph {
     state=active
     label="Rock Antenne GmbH & Co. KG"
     num_owners=504
-    num_owners_weighted=15.8748
+    num_owners_weighted=15.8851
     num_medias=9
     num_medias_weighted=4.6232
     name="663f31ad-2575-4939-ba50-9d678cf013c0"
@@ -127313,7 +127313,7 @@ digraph {
     state=active
     label="ROCK ANTENNE Hamburg"
     num_owners=507
-    num_owners_weighted=13.8747
+    num_owners_weighted=13.8797
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-2241-4401-9c72-0bf8d3728dcd"
@@ -127337,7 +127337,7 @@ digraph {
     state=active
     label="Rock Antenne Hamburg Verwaltung GmbH"
     num_owners=507
-    num_owners_weighted=13.8747
+    num_owners_weighted=13.8797
     num_medias=5
     num_medias_weighted=0.0000
     name="5f0320d8-00b1-484b-aa84-8d11728b5cb7"
@@ -127361,7 +127361,7 @@ digraph {
     state=active
     label="Rock Antenne Verwaltungs GmbH"
     num_owners=503
-    num_owners_weighted=14.8748
+    num_owners_weighted=14.8851
     num_medias=9
     num_medias_weighted=0.0000
     name="5f03225b-4983-4b1d-8d7f-c5d7315a7281"
@@ -173321,7 +173321,7 @@ digraph {
     state=active
     label="www.917xfm.de"
     num_owners=507
-    num_owners_weighted=13.8747
+    num_owners_weighted=13.8797
     num_medias=0
     num_medias_weighted=0.0000
     name="693ae31a-a7f5-4647-804f-5d6e7ca37e45"
@@ -174173,7 +174173,7 @@ digraph {
     state=active
     label="www.alsterradio.de"
     num_owners=507
-    num_owners_weighted=13.8747
+    num_owners_weighted=13.8797
     num_medias=0
     num_medias_weighted=0.0000
     name="693ae300-e792-4cde-9d3a-00746d52d511"
@@ -174581,7 +174581,7 @@ digraph {
     state=active
     label="www.antenne.de"
     num_owners=489
-    num_owners_weighted=15.3975
+    num_owners_weighted=15.4102
     num_medias=0
     num_medias_weighted=0.0000
     name="5c50655b-b048-40c1-86d0-0f3a11144841"
@@ -176993,7 +176993,7 @@ digraph {
     state=active
     label="www.blr.de"
     num_owners=451
-    num_owners_weighted=20.8396
+    num_owners_weighted=21.2345
     num_medias=0
     num_medias_weighted=0.0000
     name="5f8ee669-8e3b-4f56-92bf-31c5608f9444"
@@ -178132,8 +178132,8 @@ digraph {
     type=online
     state=active
     label="www.bw-future.tv"
-    num_owners=28
-    num_owners_weighted=8.5755
+    num_owners=27
+    num_owners_weighted=8.1155
     num_medias=0
     num_medias_weighted=0.0000
     name="6863f0c4-d305-4ac1-a823-cd7b65d14301"
@@ -190925,7 +190925,7 @@ digraph {
     state=active
     label="www.laut.de"
     num_owners=516
-    num_owners_weighted=12.4201
+    num_owners_weighted=12.4235
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ba82-4d4b-bf16-2906fa75449c"
@@ -195929,7 +195929,7 @@ digraph {
     state=active
     label="www.nrw1.de"
     num_owners=1181
-    num_owners_weighted=14.3428
+    num_owners_weighted=14.3437
     num_medias=0
     num_medias_weighted=0.0000
     name="6659718d-02c8-454c-af17-0f9e85baddcc"
@@ -196301,7 +196301,7 @@ digraph {
     state=active
     label="www.oldie-antenne.de"
     num_owners=489
-    num_owners_weighted=15.3975
+    num_owners_weighted=15.4102
     num_medias=0
     num_medias_weighted=0.0000
     name="64c22f5a-eda5-45bc-a47d-56095e316de7"
@@ -199181,7 +199181,7 @@ digraph {
     state=active
     label="www.radiogalaxy.de"
     num_owners=575
-    num_owners_weighted=10.4856
+    num_owners_weighted=10.4869
     num_medias=0
     num_medias_weighted=0.0000
     name="646f5bc8-1568-40fe-9014-4c32a58ce90d"
@@ -201005,7 +201005,7 @@ digraph {
     state=active
     label="www.rockantenne.de"
     num_owners=505
-    num_owners_weighted=16.8748
+    num_owners_weighted=16.8851
     num_medias=0
     num_medias_weighted=0.0000
     name="5f03232b-8605-4dc3-8ba3-784533b74827"
@@ -201017,7 +201017,7 @@ digraph {
     state=active
     label="www.rockantenne.hamburg"
     num_owners=507
-    num_owners_weighted=13.8747
+    num_owners_weighted=13.8797
     num_medias=0
     num_medias_weighted=0.0000
     name="5efca46a-d830-430f-aace-7daf36c14092"
@@ -208649,7 +208649,7 @@ digraph {
     state=active
     label="www.webradio.de"
     num_owners=489
-    num_owners_weighted=15.3975
+    num_owners_weighted=15.4102
     num_medias=0
     num_medias_weighted=0.0000
     name="5d2c7c8b-e83d-4842-bc80-0583008fc972"
@@ -211890,11 +211890,11 @@ digraph {
     label="Yigit, Seyhan"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=6
-    num_medias_weighted=4.6200
+    num_medias=4
+    num_medias_weighted=3.7000
     name="5be1a6b6-110b-44c9-bbf6-d57299648651"
     in_degree=0
-    out_degree=3
+    out_degree=2
   ];
   17658 [
     type=shareholder
@@ -228625,14 +228625,6 @@ digraph {
     weight=82
     type=owns
   ];
-  3439 -> 7817 [
-    weight=1
-    type=owns
-  ];
-  3439 -> 7816 [
-    weight=1
-    type=owns
-  ];
   3441 -> 3440 [
     weight=100
     type=operates
@@ -228787,14 +228779,6 @@ digraph {
   ];
   3506 -> 3505 [
     weight=100
-    type=owns
-  ];
-  3510 -> 1878 [
-    weight=46
-    type=owns
-  ];
-  3510 -> 1879 [
-    weight=46
     type=owns
   ];
   3511 -> 5449 [
@@ -278946,10 +278930,6 @@ digraph {
     type=operates
   ];
   17656 -> 13145 [
-    weight=100
-    type=owns
-  ];
-  17657 -> 3510 [
     weight=100
     type=owns
   ];
