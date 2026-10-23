@@ -45429,7 +45429,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.1903
     name="5f9a8866-a194-4014-a962-5cc3cfe959ba"
-    in_degree=0
+    in_degree=2
     out_degree=2
   ];
   3786 [
@@ -46149,7 +46149,7 @@ digraph {
     num_medias=88
     num_medias_weighted=9.0297
     name="5be1a6b6-b042-4d7b-a2db-c2d3138010ea"
-    in_degree=12
+    in_degree=13
     out_degree=1
   ];
   3846 [
@@ -67794,11 +67794,11 @@ digraph {
     label="Holzer, Dominik"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0993
     name="6ac8bf9a-8cc4-4239-aaf1-fc4c42a8b1c6"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5650 [
     type=shareholder
@@ -67842,11 +67842,11 @@ digraph {
     label="Holzer, Sebastian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0813
     name="6ac8bf87-7e18-4b38-9004-97dc3176101d"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5654 [
     type=shareholder
@@ -154614,11 +154614,11 @@ digraph {
     label="Theiss, Kae Krümel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=88
+    num_medias_weighted=0.0903
     name="6ac8cf66-dd31-4b13-9a91-c1888dcb0c0f"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12885 [
     type=shareholder
@@ -238353,8 +238353,16 @@ digraph {
     weight=1
     type=owns
   ];
+  5649 -> 3785 [
+    weight=52.2
+    type=owns
+  ];
   5651 -> 13320 [
     weight=51
+    type=owns
+  ];
+  5653 -> 3785 [
+    weight=42.7
     type=owns
   ];
   5654 -> 1531 [
@@ -271931,6 +271939,10 @@ digraph {
   ];
   12883 -> 12605 [
     weight=16.67
+    type=owns
+  ];
+  12884 -> 3845 [
+    weight=1
     type=owns
   ];
   12885 -> 3845 [
