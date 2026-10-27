@@ -1,13 +1,29 @@
 {
   "name": "Gasse, Ulrich",
   "squuid": "6ace212f-74fc-40fb-8dbf-102f9705ef6e",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 12.56,
+      "held": {
+        "name": "Gude Eintracht GmbH",
+        "squuid": "69f8b833-6c3e-4527-986e-0e6e4a92c7d7"
+      },
+      "squuid": "6ace225e-2a06-47b1-9c1d-48e9a983a4b0",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

@@ -1,13 +1,29 @@
 {
   "name": "Business Eagles Gude GmbH & Co. KG",
   "squuid": "6ace20fb-d772-40d3-b721-e31f8203b849",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 44.76,
+      "held": {
+        "name": "Gude Eintracht GmbH",
+        "squuid": "69f8b833-6c3e-4527-986e-0e6e4a92c7d7"
+      },
+      "squuid": "6ace2239-fc2d-4db4-9e28-1752182fef2e",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

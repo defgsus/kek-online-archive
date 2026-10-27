@@ -1,13 +1,29 @@
 {
   "name": "Hakoah New Ventures ApS",
   "squuid": "6ace220c-35b2-4194-a09c-5f15f30b3653",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 8.37,
+      "held": {
+        "name": "Gude Eintracht GmbH",
+        "squuid": "69f8b833-6c3e-4527-986e-0e6e4a92c7d7"
+      },
+      "squuid": "6ace2301-3759-486f-bb10-5f31d1212d97",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

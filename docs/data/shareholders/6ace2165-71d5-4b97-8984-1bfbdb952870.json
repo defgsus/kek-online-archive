@@ -1,13 +1,29 @@
 {
   "name": "Wiener, Arthur",
   "squuid": "6ace2165-71d5-4b97-8984-1bfbdb952870",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 8.37,
+      "held": {
+        "name": "Gude Eintracht GmbH",
+        "squuid": "69f8b833-6c3e-4527-986e-0e6e4a92c7d7"
+      },
+      "squuid": "6ace22a8-806e-420b-9178-485fd68db498",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }
