@@ -59774,15 +59774,15 @@ digraph {
   ];
   4981 [
     type=shareholder
-    state=active
+    state=archived
     label="GWB Grundwert Brandenburg GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.1088
+    num_medias=0
+    num_medias_weighted=0.0000
     name="65561f97-13f9-4317-bfaa-39b23f9ccd7e"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4982 [
     type=shareholder
@@ -79819,10 +79819,10 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=4
-    num_medias_weighted=3.9000
+    num_medias_weighted=4.0000
     name="63da97f4-ac0d-41d8-83f3-f45776b6ad23"
     in_degree=1
-    out_degree=4
+    out_degree=5
   ];
   6652 [
     type=shareholder
@@ -114499,7 +114499,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=4
-    num_medias_weighted=3.9000
+    num_medias_weighted=4.0000
     name="63da9e2b-f4ae-4e0c-8169-ef63c2c81f5c"
     in_degree=0
     out_degree=1
@@ -126909,7 +126909,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-69e0-4daf-a710-83e0f0e54de7"
-    in_degree=14
+    in_degree=13
     out_degree=2
   ];
   10576 [
@@ -187845,7 +187845,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="63da9b80-ecb1-4b0b-8246-77552fa0a07f"
-    in_degree=1
+    in_degree=2
     out_degree=0
   ];
   15654 [
@@ -235741,10 +235741,6 @@ digraph {
     weight=7.26
     type=owns
   ];
-  4981 -> 10575 [
-    weight=5.44
-    type=owns
-  ];
   4982 -> 4558 [
     weight=63.25
     type=owns
@@ -242764,6 +242760,10 @@ digraph {
   6651 -> 6511 [
     weight=90
     type=owns
+  ];
+  6651 -> 15653 [
+    weight=100
+    type=operates
   ];
   6651 -> 15689 [
     weight=100
