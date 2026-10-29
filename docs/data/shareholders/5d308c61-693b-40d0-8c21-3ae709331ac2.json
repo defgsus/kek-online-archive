@@ -1,5 +1,5 @@
 {
-  "name": "Dichand, Michael",
+  "name": "Erben/Verlassenschaft nach Michael Dichand",
   "squuid": "5d308c61-693b-40d0-8c21-3ae709331ac2",
   "owns": [
     {
@@ -16,19 +16,29 @@
       "type": "own",
       "capitalShares": 12.38,
       "held": {
-        "name": "Krone-Verlag GmbH & Co Vermögensverwaltung KG",
+        "name": "Krone-Verlag GmbH & Co. Vermögensverwaltung KG",
         "squuid": "5d308be8-db59-467a-b397-514f3763b1b8"
       },
-      "squuid": "5d308f4c-9fcc-4810-b77f-86344892a3b6",
+      "squuid": "673b4fda-2272-427b-bb86-fe6785c46f0f",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 23.0,
+      "held": {
+        "name": "NKZ Austria-Beteiligungs GmbH ",
+        "squuid": "5d308c26-bc81-426b-acb6-011874beb13b"
+      },
+      "squuid": "69301f9e-77a8-402c-855c-eac8c10d4603",
       "state": "active"
     }
   ],
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     }
-  ],
-  "state": "active"
+  ]
 }

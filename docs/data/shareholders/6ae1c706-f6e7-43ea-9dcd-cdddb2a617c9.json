@@ -1,0 +1,84 @@
+{
+  "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Adrianstr.",
+  "name": "Kölsch Radio GmbH & Co. Studiobetriebs KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6ae1c706-f6e7-43ea-9dcd-cdddb2a617c9",
+  "controlDate": "2026-10-28T10:07:59.143Z",
+  "streetNumber": "107",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "zipcode": "53227",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.koelsch-radio.de",
+        "squuid": "696a169f-084a-4f1d-8b51-3fa8eee98ce6"
+      },
+      "squuid": "6ae1c727-d78b-46c9-aaff-24bd516171aa",
+      "state": "active"
+    }
+  ],
+  "ownedBy": [
+    {
+      "complementaryPartner": true,
+      "type": "own",
+      "capitalShares": 0.0,
+      "holder": {
+        "name": "Kölsch Radio Verwaltungs GmbH",
+        "squuid": "6ae1c7a8-e9e9-4354-aa91-d8623f1dd9db"
+      },
+      "squuid": "6ae1c8d2-ac05-4b98-82cb-dc521e1a985c",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
+        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
+      },
+      "squuid": "6ae1c8f7-0bb6-453c-9c35-de2785c741fd",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "JASSU-Reisen GmbH",
+        "squuid": "5f96d0f4-996c-45ec-989e-2bbde6008d3e"
+      },
+      "squuid": "6ae1c90a-a992-472b-9386-b88dd5a5a095",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Scheid, Peter",
+        "squuid": "5f96d0e5-8b39-4d78-91eb-3b7bfd8dad66"
+      },
+      "squuid": "6ae1c95a-8c6d-4163-b86e-78ca79749cf1",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 25.0,
+      "holder": {
+        "name": "Brinkmann, Jan-Uwe",
+        "squuid": "6ae1c929-4014-41ba-9b9f-4a4be0e1732f"
+      },
+      "squuid": "6ae1c97b-425e-47a5-bcbb-869ee1e8ff0f",
+      "state": "active"
+    }
+  ]
+}
