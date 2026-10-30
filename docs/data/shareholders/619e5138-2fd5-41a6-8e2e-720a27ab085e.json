@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Düsseldorf",
   "pseudoCompany": false,
   "street": "Am Seestern",
@@ -11,50 +11,11 @@
   "streetNumber": "18",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LFM NRW",
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
       "type": "organization",
-      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "40547",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Kulthitradio.nrw",
-        "squuid": "6319ba2d-aeee-4dd5-ad49-eb9e38585fd0"
-      },
-      "squuid": "6319bb5c-79dd-40df-b407-1482ef712f1f",
-      "state": "active"
-    }
-  ],
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
-        "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
-      },
-      "squuid": "619e51f9-6c14-41a5-95c9-f6e4c77012a5",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "kulthitRadio Verwaltungs GmbH",
-        "squuid": "695bb792-1d06-46fc-8e39-09a537863ae8"
-      },
-      "squuid": "695bb7b8-37b9-4322-8a0b-e68b9e6de327",
-      "state": "active"
-    }
-  ]
+  "zipcode": "40547"
 }

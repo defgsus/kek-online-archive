@@ -21,18 +21,17 @@
   "squuid": "6a180d2e-111c-4c67-83a6-ba72a7113943",
   "controlDate": "2026-06-12T07:38:43.298Z",
   "streetNumber": "18",
-  "organizations": [
+  "zipcode": "76131",
+  "ownedBy": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    {
-      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-      "name": "LFK",
-      "type": "organization",
-      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Hoepfner Besser Wohnen GmbH & Co. KG",
+        "squuid": "6a048a1b-ec57-4d41-9136-984b353a2c9e"
+      },
+      "squuid": "6a2bb824-42fa-4951-9c38-e02fc5178499",
+      "state": "active"
     }
-  ],
-  "zipcode": "76131"
+  ]
 }

@@ -1,6 +1,4 @@
 {
-  "name": "Kölsch Radio Verwaltungs GmbH",
-  "squuid": "6ae1c7a8-e9e9-4354-aa91-d8623f1dd9db",
   "owns": [
     {
       "complementaryPartner": true,
@@ -15,11 +13,32 @@
     }
   ],
   "state": "active",
+  "city": "Bonn",
+  "pseudoCompany": false,
+  "street": "Adrianstr.",
+  "name": "Kölsch Radio Verwaltungs GmbH",
+  "naturalPerson": false,
+  "squuid": "6ae1c7a8-e9e9-4354-aa91-d8623f1dd9db",
+  "controlDate": "2026-10-29T09:58:39.908Z",
+  "streetNumber": "107",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
+    }
+  ],
+  "zipcode": "53227",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Kölsch Radio GmbH & Co. Studiobetriebs KG",
+        "squuid": "6ae1c706-f6e7-43ea-9dcd-cdddb2a617c9"
+      },
+      "squuid": "6ae3192d-ced1-46d4-bf73-af422eaf768a",
+      "state": "active"
     }
   ]
 }
