@@ -10950,11 +10950,11 @@ digraph {
     label="Bagel, Hanna"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0009
     name="6ad74465-b08b-43e1-8e58-db13fa4d0e5b"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   913 [
     type=shareholder
@@ -10962,11 +10962,11 @@ digraph {
     label="Bagel, Jan"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0009
     name="6ad7443e-413e-48b0-8675-900babe747e1"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   914 [
     type=shareholder
@@ -10974,11 +10974,11 @@ digraph {
     label="Bagel, Karl"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0009
     name="6ad74452-e8a2-4b90-a111-f7948c9397bc"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   915 [
     type=shareholder
@@ -75729,7 +75729,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0467
     name="5be1a6b6-6aeb-49a6-8afb-207596e10dcd"
-    in_degree=6
+    in_degree=9
     out_degree=1
   ];
   6311 [
@@ -217543,6 +217543,18 @@ digraph {
   ];
   911 -> 6310 [
     weight=12.5
+    type=owns
+  ];
+  912 -> 6310 [
+    weight=2
+    type=owns
+  ];
+  913 -> 6310 [
+    weight=2
+    type=owns
+  ];
+  914 -> 6310 [
+    weight=2
     type=owns
   ];
   915 -> 908 [

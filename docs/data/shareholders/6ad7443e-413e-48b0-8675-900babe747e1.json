@@ -1,13 +1,36 @@
 {
   "name": "Bagel, Jan",
   "squuid": "6ad7443e-413e-48b0-8675-900babe747e1",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 2.0,
+      "held": {
+        "name": "Karl Rauch Verlag GmbH & Co. KG",
+        "squuid": "5be1a6b6-6aeb-49a6-8afb-207596e10dcd"
+      },
+      "squuid": "6ad7449b-034e-4eb5-9fb8-ec6878fe8ccf",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
+      "type": "organization",
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ]
 }
