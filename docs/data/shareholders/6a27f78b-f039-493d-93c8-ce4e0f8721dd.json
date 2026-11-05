@@ -18,7 +18,7 @@
   "name": "Madera Beteiligungen GmbH",
   "naturalPerson": false,
   "squuid": "6a27f78b-f039-493d-93c8-ce4e0f8721dd",
-  "controlDate": "2026-07-02T08:53:59.658Z",
+  "controlDate": "2026-11-04T11:06:01.833Z",
   "streetNumber": "42",
   "organizations": [
     {
@@ -39,5 +39,17 @@
       "fullName": "Landesmedienanstalt Saarland"
     }
   ],
-  "zipcode": "66386"
+  "zipcode": "66386",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "F. Holzer GmbH (Österreich)",
+        "squuid": "5f9a8866-a194-4014-a962-5cc3cfe959ba"
+      },
+      "squuid": "6a462781-56e5-46e5-b8a6-f5a9bab08be0",
+      "state": "active"
+    }
+  ]
 }
