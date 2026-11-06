@@ -1,11 +1,10 @@
 {
-  "rfSupervisingAuthority": {
-    "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-    "name": "Medienanstalt Hessen",
-    "type": "organization",
-    "fullName": "Medienanstalt Hessen"
-  },
-  "rfPublicPrivate": false,
+  "matchedNames": [
+    "Radio Frankfurt City"
+  ],
+  "state": "archived",
+  "squuid": "6a758e6d-920d-4e0a-9331-329a5adb15bb",
+  "marketReach": 0.1,
   "organization": {
     "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
     "name": "Medienanstalt Hessen",
@@ -13,7 +12,13 @@
     "fullName": "Medienanstalt Hessen"
   },
   "name": "Radio Frankfurt",
+  "rfPublicPrivate": false,
   "type": "radio",
-  "squuid": "6a758e6d-920d-4e0a-9331-329a5adb15bb",
-  "state": "archived"
+  "rfSupervisingAuthority": {
+    "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+    "name": "Medienanstalt Hessen",
+    "type": "organization",
+    "fullName": "Medienanstalt Hessen"
+  },
+  "marketReach1429": 0.1
 }
