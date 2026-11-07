@@ -19,7 +19,7 @@
   "name": "Medien Union dritte Beteiligungs-GmbH",
   "naturalPerson": false,
   "squuid": "6989beda-d696-4b4c-b036-2cfd0f030a2e",
-  "controlDate": "2026-05-21T13:07:05.387Z",
+  "controlDate": "2026-11-06T12:17:59.986Z",
   "streetNumber": "5-11",
   "organizations": [
     {
@@ -123,5 +123,17 @@
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
   ],
-  "zipcode": "67059"
+  "zipcode": "67059",
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "holder": {
+        "name": "Medien Union dritte Vermögensverwaltung GmbH & Co. KG",
+        "squuid": "696f7dbd-272c-4ad3-baeb-13c6051a3264"
+      },
+      "squuid": "6a0f03f2-e3d2-4a13-b258-f3c2c539b2f4",
+      "state": "active"
+    }
+  ]
 }
