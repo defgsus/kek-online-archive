@@ -51642,11 +51642,11 @@ digraph {
     label="Fromm-Bruns, Johanna"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=188
-    num_medias_weighted=16.7843
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-8e10-40b5-942f-b6d391b55dbd"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4304 [
     type=print
@@ -83289,7 +83289,7 @@ digraph {
     num_medias=188
     num_medias_weighted=55.9476
     name="5be1a6b6-247b-40f5-80f1-0a66263980d0"
-    in_degree=5
+    in_degree=4
     out_degree=2
   ];
   6941 [
@@ -231619,10 +231619,6 @@ digraph {
   ];
   4302 -> 6940 [
     weight=3.33
-    type=owns
-  ];
-  4303 -> 6940 [
-    weight=30
     type=owns
   ];
   4307 -> 320 [
