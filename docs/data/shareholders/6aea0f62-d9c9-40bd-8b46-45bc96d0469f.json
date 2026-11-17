@@ -1,13 +1,30 @@
 {
   "name": "Bergs, Karin Ingrid",
   "squuid": "6aea0f62-d9c9-40bd-8b46-45bc96d0469f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 10.0,
+      "held": {
+        "name": "Lora Programm- Anbieter Gesellschaft mbH",
+        "squuid": "5be1a6b6-9b97-49b5-8284-cc7be59405de"
+      },
+      "squuid": "6aea0f88-8971-474d-ba34-64853a885b1a",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     }
   ]
 }

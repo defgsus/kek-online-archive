@@ -1,6 +1,4 @@
 {
-  "name": "NOZ Beteiligungsgesellschaft mbH",
-  "squuid": "6a75d8ed-4cca-4c0d-89a0-4ee8de9a990d",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Osnabrück",
+  "pseudoCompany": false,
+  "street": "Große Str.",
+  "name": "NOZ Beteiligungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "6a75d8ed-4cca-4c0d-89a0-4ee8de9a990d",
+  "controlDate": "2026-11-16T12:27:56.058Z",
+  "streetNumber": "17-19",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,5 +32,6 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ]
+  ],
+  "zipcode": "49074"
 }
