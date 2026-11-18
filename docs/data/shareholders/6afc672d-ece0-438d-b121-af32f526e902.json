@@ -1,0 +1,79 @@
+{
+  "name": "Mediawan Pari Passu SAS",
+  "pseudoCompany": false,
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 17.03,
+      "holder": {
+        "name": "TopCo Breteuil SAS",
+        "squuid": "6afc6aaf-561a-42df-bc0f-2651c6ee9db5"
+      },
+      "squuid": "6afc6b1d-7b20-44df-ab72-b98c4cf79f69",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 54.86,
+      "holder": {
+        "name": "SHOW TopCo SCA",
+        "squuid": "5e393c53-dd59-4de8-b2f0-f7b8b47a0d13"
+      },
+      "squuid": "6afc6b45-5a35-4ec9-9096-07c798c4b6ad",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 19.1,
+      "holder": {
+        "name": "NR Aggregator, LP",
+        "squuid": "6afc6acd-85f1-4ece-8f0e-ef4fc0cf968f"
+      },
+      "squuid": "6afc6b5c-6800-4dee-8d67-96e103d0b8fe",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 9.01,
+      "holder": {
+        "name": "Minderheitsgesellschafter",
+        "squuid": "6afc6a81-c92b-4996-99a5-4eed2f1f69e7"
+      },
+      "squuid": "6afc6b78-efbf-4943-916c-2b3862aedd15",
+      "state": "active"
+    }
+  ],
+  "squuid": "6afc672d-ece0-438d-b121-af32f526e902",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 99.24,
+      "held": {
+        "name": "Mediawan Holding SAS",
+        "squuid": "6afc6719-36ea-40de-bbf1-346811018d93"
+      },
+      "squuid": "6afc6928-e304-4f5e-962e-7df04a3dbaed",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "naturalPerson": false
+}

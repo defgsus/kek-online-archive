@@ -14,7 +14,7 @@
   "state": "active",
   "city": "Paris (F)",
   "pseudoCompany": false,
-  "name": "M&A HoldCo Breteuil",
+  "name": "M&A HoldCo Breteuil SAS",
   "naturalPerson": false,
   "squuid": "691c5ba1-bd43-4b90-9003-df571699ee8c",
   "controlDate": "2026-11-04T09:45:04.105Z",
@@ -34,6 +34,28 @@
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "ownedBy": [
+    {
+      "type": "own",
+      "capitalShares": 99.99,
+      "holder": {
+        "name": "Mediawan Financing SAS",
+        "squuid": "6afc6707-56cc-4adf-9b98-a1d69a2ec359"
+      },
+      "squuid": "6afc678b-e98e-4c9b-940e-76321b09d2d2",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.01,
+      "holder": {
+        "name": "SHOW TopCo SCA",
+        "squuid": "5e393c53-dd59-4de8-b2f0-f7b8b47a0d13"
+      },
+      "squuid": "6afc6845-443b-47f7-b696-6ed8ed78c476",
+      "state": "active"
     }
   ]
 }

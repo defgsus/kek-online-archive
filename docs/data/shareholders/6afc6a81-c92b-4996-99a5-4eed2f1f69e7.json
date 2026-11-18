@@ -1,0 +1,46 @@
+{
+  "name": "Minderheitsgesellschafter",
+  "pseudoCompany": true,
+  "squuid": "6afc6a81-c92b-4996-99a5-4eed2f1f69e7",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 9.01,
+      "held": {
+        "name": "Mediawan Pari Passu SAS",
+        "squuid": "6afc672d-ece0-438d-b121-af32f526e902"
+      },
+      "squuid": "6afc6b78-efbf-4943-916c-2b3862aedd15",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 0.76,
+      "held": {
+        "name": "Mediawan Holding SAS",
+        "squuid": "6afc6719-36ea-40de-bbf1-346811018d93"
+      },
+      "squuid": "6afc6bc1-5643-48ac-bacc-899b8dafa359",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ]
+}

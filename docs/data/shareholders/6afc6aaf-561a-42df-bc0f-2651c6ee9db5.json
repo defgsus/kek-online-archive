@@ -1,0 +1,37 @@
+{
+  "name": "TopCo Breteuil SAS",
+  "pseudoCompany": false,
+  "squuid": "6afc6aaf-561a-42df-bc0f-2651c6ee9db5",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 17.03,
+      "held": {
+        "name": "Mediawan Pari Passu SAS",
+        "squuid": "6afc672d-ece0-438d-b121-af32f526e902"
+      },
+      "squuid": "6afc6b1d-7b20-44df-ab72-b98c4cf79f69",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ],
+  "naturalPerson": false
+}

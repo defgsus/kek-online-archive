@@ -1,13 +1,29 @@
 {
   "name": "Viessmann Sports GmbH",
   "squuid": "6af58c77-964d-4abc-82a2-12f9245ee8de",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 6.67,
+      "held": {
+        "name": "FC Bayern München AG",
+        "squuid": "5be1a6b6-51d0-4b73-8507-381f417fa25a"
+      },
+      "squuid": "6af58cf3-05d0-42ae-8161-adf352fd63f3",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
-      "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+      "name": "KEK",
+      "type": "organization"
+    },
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   ]
 }

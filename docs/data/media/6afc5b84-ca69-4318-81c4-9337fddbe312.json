@@ -1,0 +1,46 @@
+{
+  "state": "active",
+  "squuid": "6afc5b84-ca69-4318-81c4-9337fddbe312",
+  "organization": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityUrl": "https://www1.wdr.de/hilfe/uebersicht-barrierefreiheit-im-WDR-100.html",
+  "rfStatewide": true,
+  "operatedBy": [
+    {
+      "type": "operate",
+      "holder": {
+        "name": "Westdeutscher Rundfunk (WDR)",
+        "squuid": "5be1a6b6-be05-415a-a519-205618bb23bf"
+      },
+      "squuid": "6afc5c16-4308-4182-8cc4-7efb151ae0e5",
+      "state": "active"
+    }
+  ],
+  "name": "COSMO",
+  "rfPublicPrivate": true,
+  "rfBroadcastStatus": {
+    "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+    "name": "auf Sendung",
+    "type": "broadcast-status",
+    "state": "active"
+  },
+  "rfDirector": "Dr. Katrin Vernau",
+  "type": "radio",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+    "name": "KEK",
+    "type": "organization"
+  },
+  "accessibilityEmail": "redaktion@wdr.de",
+  "languages": [
+    {
+      "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+      "name": "Deutsch",
+      "type": "language",
+      "state": "active"
+    }
+  ]
+}
