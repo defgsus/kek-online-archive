@@ -1,6 +1,4 @@
 {
-  "name": "Viessmann Sports GmbH",
-  "squuid": "6af58c77-964d-4abc-82a2-12f9245ee8de",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "München",
+  "pseudoCompany": false,
+  "street": "Luisenstr.",
+  "name": "Viessmann Sports GmbH",
+  "naturalPerson": false,
+  "squuid": "6af58c77-964d-4abc-82a2-12f9245ee8de",
+  "controlDate": "2026-11-18T14:57:19.763Z",
+  "streetNumber": "14",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -25,5 +31,6 @@
       "name": "DL",
       "type": "organization"
     }
-  ]
+  ],
+  "zipcode": "80333"
 }
