@@ -1,45 +1,17 @@
 {
-  "owns": [
-    {
-      "type": "own",
-      "capitalShares": 16.89,
-      "held": {
-        "name": "Obotritia Capital KGaA",
-        "squuid": "5be1a6b6-636a-4801-b4e9-c0b3eae60c94"
-      },
-      "squuid": "654e339e-9a92-4426-bfe9-ffe2d15ed042",
-      "state": "active"
-    }
-  ],
-  "state": "active",
-  "city": "Leudelange (LUX)",
-  "pseudoCompany": false,
   "name": "Aurelius Growth Investment Sarl.",
-  "naturalPerson": false,
-  "squuid": "654e3243-8955-458f-b758-464a13e86a00",
+  "pseudoCompany": false,
   "controlDate": "2026-09-07T08:31:35.896Z",
+  "squuid": "654e3243-8955-458f-b758-464a13e86a00",
+  "city": "Leudelange (LUX)",
+  "state": "active",
   "organizations": [
-    {
-      "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-      "name": "KEK",
-      "type": "organization"
-    },
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
       "name": "GGS",
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
-    },
-    {
-      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-      "name": "Medienanstalt Hessen",
-      "type": "organization",
-      "fullName": "Medienanstalt Hessen"
     }
-  ]
+  ],
+  "naturalPerson": false
 }
