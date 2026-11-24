@@ -1,13 +1,30 @@
 {
   "name": "Carl Oechslin Stiftung",
   "squuid": "6af3234b-0be9-42cc-88d9-b2fc6d53330d",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 100.0,
+      "held": {
+        "name": "Meier & Cie. AG",
+        "squuid": "5be1a6b6-9346-4caa-9830-6d105196b16b"
+      },
+      "squuid": "6af32364-8e34-4d83-875b-1913028b27ce",
+      "state": "active"
+    }
+  ],
   "state": "active",
   "organizations": [
     {
-      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-      "name": "GGS",
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    {
+      "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+      "name": "LFK",
       "type": "organization",
-      "fullName": "Gemeinsame Geschaeftsstelle"
+      "fullName": "Landesanstalt für Kommunikation Baden-Württemberg"
     }
   ]
 }

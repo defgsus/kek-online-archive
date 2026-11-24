@@ -1,5 +1,6 @@
 {
   "name": "Gordillo Amado, Eduardo",
+  "pseudoCompany": false,
   "squuid": "68f62595-318e-4ce5-8042-88404450071a",
   "owns": [
     {
@@ -13,18 +14,15 @@
       "state": "active"
     }
   ],
+  "city": "Binnen",
   "state": "active",
   "organizations": [
-    {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
     {
       "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
       "name": "NLM",
       "type": "organization",
       "fullName": "Niedersächsische Landesmedienanstalt"
     }
-  ]
+  ],
+  "naturalPerson": true
 }
