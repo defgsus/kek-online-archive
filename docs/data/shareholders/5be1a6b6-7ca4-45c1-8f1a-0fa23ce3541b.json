@@ -1,7 +1,4 @@
 {
-  "name": "RockCity Hamburg e.V.",
-  "pseudoCompany": false,
-  "squuid": "5be1a6b6-7ca4-45c1-8f1a-0fa23ce3541b",
   "owns": [
     {
       "type": "own",
@@ -14,6 +11,13 @@
       "state": "active"
     }
   ],
+  "state": "active",
+  "city": "Hamburg",
+  "pseudoCompany": false,
+  "name": "RockCity Hamburg e.V.",
+  "naturalPerson": false,
+  "squuid": "5be1a6b6-7ca4-45c1-8f1a-0fa23ce3541b",
+  "controlDate": "2026-11-25T09:31:51.371Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26,7 +30,5 @@
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ],
-  "state": "active",
-  "naturalPerson": false
+  ]
 }
