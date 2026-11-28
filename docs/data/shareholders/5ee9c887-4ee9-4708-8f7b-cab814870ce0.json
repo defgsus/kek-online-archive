@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "Schwäbische Zeitung Lokalverlag Leutkirch GmbH & Co KG",
-        "squuid": "5be1a6b6-39d3-448f-b372-ca1da576ba8d"
-      },
-      "squuid": "5ee9c8b7-bf8c-4e62-8146-963f3d7562aa",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Leutkirch",
   "pseudoCompany": false,
   "street": "Marktstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "27",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "88299",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
-        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
-      },
-      "squuid": "5ee9c90b-19ce-46b3-af5d-f5e0f284af9f",
-      "state": "active"
-    }
-  ]
+  "zipcode": "88299"
 }

@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Biberach",
   "pseudoCompany": false,
   "street": "Marktplatz",
@@ -7,49 +7,16 @@
   "naturalPerson": false,
   "limitedPartnership": true,
   "squuid": "5be1a6b6-7497-49ba-b499-c2941b014392",
-  "controlDate": "2026-06-10T10:22:26.138Z",
+  "controlDate": "2026-11-27T14:16:05.491Z",
   "streetNumber": "35",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "88400",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Schwäbische Zeitung (Ausgabe Biberach)",
-        "squuid": "5be1a6b1-3d3a-4608-a64c-938ded4cb45b"
-      },
-      "squuid": "5be1a6b9-f86f-4c14-9afc-38f0c8dfc274",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
-        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
-      },
-      "squuid": "5be1a6b8-2603-4494-9426-42fed960c815",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Schwäbische Zeitung Biberach Verwaltungs-GmbH",
-        "squuid": "5ee9bc2a-24db-4c36-aa56-fd16d93b6c70"
-      },
-      "squuid": "5ee9bc4c-ff00-4edd-95c0-f3009c7f2a5c",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }

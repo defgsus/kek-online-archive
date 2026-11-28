@@ -1,5 +1,5 @@
 {
-  "state": "active",
+  "state": "archived",
   "city": "Ravensburg",
   "pseudoCompany": false,
   "street": "Karlstr.",
@@ -11,45 +11,12 @@
   "streetNumber": "16",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
   "zipcode": "88212",
-  "operates": [
-    {
-      "type": "operate",
-      "held": {
-        "name": "Schwäbische Zeitung (Ausgabe Ravensburg)",
-        "squuid": "5be1a6b1-4e72-4eb3-ad75-6ad88d80e95e"
-      },
-      "squuid": "5be1a6b9-3651-4df7-bdf2-c4c6b2e4feb8",
-      "state": "active"
-    }
-  ],
-  "credits": "IJK",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
-        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
-      },
-      "squuid": "5be1a6b8-94d6-4e31-b8a2-887407253841",
-      "state": "active"
-    },
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "holder": {
-        "name": "Schwäbische Zeitung Ravensburg Verwaltungs-GmbH",
-        "squuid": "5ee9c9dc-f057-485a-8be4-e6055790b3c6"
-      },
-      "squuid": "5ee9ca01-7d02-4b65-9c99-d6a1cb956792",
-      "state": "active"
-    }
-  ]
+  "credits": "IJK"
 }
